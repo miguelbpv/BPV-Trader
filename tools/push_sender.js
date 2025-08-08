@@ -1,42 +1,94 @@
-// Reads recs.json and watchlist.json and sends push to device tokens via FCM if a watched symbol has 'vender'
-const fs = require('fs')
-const https = require('https')
+// tools/push_sender.js — Envio de push via FCM HTTP v1 com Service Account
+import fs from 'fs';
+import fetch from 'node-fetch';
+import jwt from 'jsonwebtoken';
 
-function readJSON(path, fallback){
-  try{ return JSON.parse(fs.readFileSync(path,'utf8')) }catch{ return fallback }
+if (!process.env.FCM_SERVICE_ACCOUNT || !process.env.FCM_PROJECT_ID) {
+  console.error('Faltam FCM_SERVICE_ACCOUNT e/ou FCM_PROJECT_ID nos Secrets.');
+  process.exit(1);
 }
 
-const recs = readJSON('data/recs.json', {recs:[]})
-const watch = readJSON('data/watchlist.json', [])
-const tokens = (process.env.FCM_TOKENS||'').split(',').map(s=>s.trim()).filter(Boolean)
-const key = process.env.FCM_SERVER_KEY
+const svc = JSON.parse(process.env.FCM_SERVICE_ACCOUNT);
+const projectId = process.env.FCM_PROJECT_ID;
+const tokens = (process.env.FCM_TOKENS || '')
+  .split(',')
+  .map(t => t.trim())
+  .filter(Boolean);
 
-if(!key){ console.log('FCM_SERVER_KEY not set'); process.exit(0) }
-if(!tokens.length){ console.log('No FCM_TOKENS'); process.exit(0) }
+const apiUrl = `https://fcm.googleapis.com/v1/projects/${projectId}/messages:send`;
 
-const sells = recs.recs.filter(x=> watch.includes(x.symbol) && x.acao==='vender')
-if(!sells.length){ console.log('No sells for watchlist'); process.exit(0) }
-
-const body = {
-  notification: {
-    title: 'BPV Trader – Alerta de venda',
-    body: sells.map(s=>s.symbol).join(', ') + ' sinal VENDER.'
-  },
-  data: { tag: 'bpv-sell' }
+// Lê recomendações e apanha SELL (podes ajustar à tua lógica)
+let sells = [];
+try {
+  const recs = JSON.parse(fs.readFileSync('data/recs.json', 'utf8'));
+  const list = recs.top || recs || [];
+  sells = list.filter(x => (x.action || x.signal || '').toUpperCase() === 'VENDER');
+} catch (e) {
+  console.log('Aviso: não encontrei data/recs.json ou formato diferente. Envio teste.');
 }
 
-function sendFCM(token){
-  const payload = JSON.stringify({ ...body, to: token })
-  const req = https.request({
-    hostname: 'fcm.googleapis.com',
-    path: '/fcm/send',
+if (!tokens.length) {
+  console.log('Sem FCM_TOKENS — nada a enviar.');
+  process.exit(0);
+}
+if (!sells.length) {
+  console.log('Sem SELL — nada a enviar.');
+  process.exit(0);
+}
+
+async function getAccessToken() {
+  const now = Math.floor(Date.now() / 1000);
+  const payload = {
+    iss: svc.client_email,
+    sub: svc.client_email,
+    aud: 'https://oauth2.googleapis.com/token',
+    iat: now,
+    exp: now + 3600,
+    scope: 'https://www.googleapis.com/auth/firebase.messaging'
+  };
+  const jwtToken = jwt.sign(payload, svc.private_key, { algorithm: 'RS256' });
+
+  const res = await fetch('https://oauth2.googleapis.com/token', {
     method: 'POST',
-    headers: { 'Authorization': 'key='+key, 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(payload) }
-  }, res => {
-    let b=''; res.on('data', d=>b+=d); res.on('end', ()=>console.log('FCM', res.statusCode, b.slice(0,120)))
-  })
-  req.on('error', e=>console.error('FCM err', e))
-  req.write(payload); req.end()
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: `grant_type=urn:ietf:params:oauth:grant-type:jwt-bearer&assertion=${encodeURIComponent(jwtToken)}`
+  });
+  const j = await res.json();
+  if (!j.access_token) {
+    console.error('Falha a obter access_token:', j);
+    process.exit(1);
+  }
+  return j.access_token;
 }
 
-tokens.forEach(sendFCM)
+(async () => {
+  const accessToken = await getAccessToken();
+  const title = 'BPV Trader — ALERTA: VENDER';
+  const body = sells.slice(0, 3).map(s => `${s.symbol || s.ticker || 'SYM'} (${s.score ?? ''})`).join(' · ');
+
+  for (const token of tokens) {
+    const message = {
+      message: {
+        token,
+        notification: { title, body },
+        data: { kind: 'SELL', payload: JSON.stringify(sells.slice(0, 10)) }
+      }
+    };
+
+    const res = await fetch(apiUrl, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${accessToken}`,
+        'Content-Type': 'application/json; charset=utf-8'
+      },
+      body: JSON.stringify(message)
+    });
+
+    if (!res.ok) {
+      const txt = await res.text();
+      console.error('Erro ao enviar para', token, res.status, txt);
+    } else {
+      console.log('Push enviado para', token);
+    }
+  }
+})();
