@@ -1,0 +1,21 @@
+:root{ --bg:#0b1020; --card:#121935; --muted:#7aa2ff; --txt:#e8edff; --dim:#9fb1ff; --accent:#51e3a1; --neg:#ff7676; --warn:#ffd166 }
+:root[data-theme='light']{ --bg:#f6f7fb; --card:#ffffff; --muted:#335fff; --txt:#102039; --dim:#384b7b; --accent:#17c287; --neg:#e55757; --warn:#e6b74a }
+*{ box-sizing:border-box }
+html,body,#root{ height:100% }
+body{ margin:0; background:var(--bg); color:var(--txt); font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu; }
+.container{ max-width:1020px; margin:0 auto; padding:16px }
+.card{ background:var(--card); border-radius:16px; padding:16px; box-shadow:0 8px 30px rgba(0,0,0,.25) }
+.row{ display:grid; gap:12px }
+.grid{ display:grid; gap:12px; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)) }
+.h{ display:flex; align-items:center; justify-content:space-between }
+.badge{ font-size:12px; padding:4px 8px; border-radius:999px; background:rgba(255,255,255,.08)}
+.btn{ background:#1b2652; color:var(--txt); border:none; padding:10px 14px; border-radius:12px; cursor:pointer }
+.btn.primary{ background:var(--accent); color:#042b1f; font-weight:700 }
+.input{ width:100%; padding:10px 12px; border-radius:10px; border:1px solid #2a366d; background:#0d1430; color:var(--txt) }
+:root[data-theme='light'] .input{ background:#f3f6ff; border-color:#d3dcff }
+.small{ color:var(--dim); font-size:12px }
+.title{ font-size:22px; font-weight:800 }
+.sub{ color:var(--muted); font-weight:700 }
+.link{ color:var(--muted); text-decoration:none }
+.spark{ width:100%; height:48px }
+.toggle{ cursor:pointer; padding:6px 10px; border-radius:10px; border:1px solid #2a366d; }
