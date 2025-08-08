@@ -1,0 +1,22 @@
+name: Push Alerts
+
+on:
+  schedule:
+    - cron: '10 */3 * * *' # Corre a cada 3 horas
+  workflow_dispatch: {}
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node -v
+      - name: Send FCM notifications for SELL signals
+        env:
+          FCM_SERVER_KEY: ${{ secrets.FCM_SERVER_KEY }}
+          FCM_TOKENS: ${{ secrets.FCM_TOKENS }}
+        run: |
+          node -e "require('fs').existsSync('tools/push_sender.js') && node tools/push_sender.js"
