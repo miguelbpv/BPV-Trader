@@ -1,9 +1,9 @@
-name: Push Alerts
+name: push-alert
 
 on:
   schedule:
-    - cron: '10 */3 * * *' # Corre a cada 3 horas
-  workflow_dispatch: {}
+    - cron: '10 */3 * * *'   # corre de 3 em 3 horas
+  workflow_dispatch: {}       # podes correr manualmente
 
 jobs:
   send:
@@ -11,12 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - run: node -v
+        with: { node-version: 20 }
+      # libs necessárias só para o runner (não mexe no teu package.json)
+      - run: npm install jsonwebtoken node-fetch@2
       - name: Send FCM notifications for SELL signals
         env:
-          FCM_SERVER_KEY: ${{ secrets.FCM_SERVER_KEY }}
-          FCM_TOKENS: ${{ secrets.FCM_TOKENS }}
-        run: |
-          node -e "require('fs').existsSync('tools/push_sender.js') && node tools/push_sender.js"
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }} # JSON da service account
+          FCM_PROJECT_ID: ${{ secrets.FCM_PROJECT_ID }}           # projectId do Firebase
+          FCM_TOKENS: ${{ secrets.FCM_TOKENS }}                   # tokens dos dispositivos ("," separados)
+        run: node tools/push_sender.js
+
+
