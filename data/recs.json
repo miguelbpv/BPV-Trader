@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-08-09T06:18:17.237166Z",
+  "generated_at": "2025-08-09T09:12:50.995135Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.17,
       "confianca": 62,
       "razoes": [
         {
@@ -25,32 +25,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.19,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "‘I will never leave’: Palestinians spurn Israel’s plan to occupy Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/8/faced-death-100-times-palestinians-spurn-israel-plan-to-occupy-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Far-right Israeli football fans set off pyrotechnics in Latvia",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/8/far-right-israeli-football-fans-set-off-pyrotechnics-in-latvia?traffic_source=rss"
-        },
-        {
-          "title": "UN Secretary-General slams Israel’s Gaza City takeover plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/8/un-secretary-general-slams-israels-gaza-city-takeover-plan?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006398862424457948,
-      "chg5d": -0.007711181212758459,
-      "chg1m": -0.042826552462526736
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.17,
       "confianca": 62,
       "razoes": [
         {
@@ -69,6 +46,29 @@
       "chg1d": -0.011886244921648298,
       "chg5d": 0.01097361107812167,
       "chg1m": -0.08330641166462063
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "‘I will never leave’: Palestinians spurn Israel’s plan to occupy Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/8/faced-death-100-times-palestinians-spurn-israel-plan-to-occupy-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Far-right Israeli football fans set off pyrotechnics in Latvia",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/8/far-right-israeli-football-fans-set-off-pyrotechnics-in-latvia?traffic_source=rss"
+        },
+        {
+          "title": "UN Secretary-General slams Israel’s Gaza City takeover plan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/8/un-secretary-general-slams-israels-gaza-city-takeover-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006398862424457948,
+      "chg5d": -0.007711181212758459,
+      "chg1m": -0.042826552462526736
     }
   ]
 }
