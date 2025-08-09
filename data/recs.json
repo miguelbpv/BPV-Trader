@@ -1,30 +1,38 @@
 {
-  "generated_at": "2025-08-09T12:23:42.814395Z",
+  "generated_at": "2025-08-09T15:12:16.523382Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "‘I will never leave’: Palestinians spurn Israel’s plan to occupy Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/8/faced-death-100-times-palestinians-spurn-israel-plan-to-occupy-gaza-city?traffic_source=rss"
+          "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
+          "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s starvation denial is an Orwellian farce",
+          "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.011886244921648298,
+      "chg5d": 0.01097361107812167,
+      "chg1m": -0.08330641166462063
     },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "‘I will never leave’: Palestinians spurn Israel’s plan to occupy Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/8/faced-death-100-times-palestinians-spurn-israel-plan-to-occupy-gaza-city?traffic_source=rss"
+          "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
+          "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s starvation denial is an Orwellian farce",
+          "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
         }
       ],
       "chg1d": 0.006398862424457948,
@@ -32,19 +40,23 @@
       "chg1m": -0.042826552462526736
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "‘I will never leave’: Palestinians spurn Israel’s plan to occupy Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/8/faced-death-100-times-palestinians-spurn-israel-plan-to-occupy-gaza-city?traffic_source=rss"
+          "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
+          "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s starvation denial is an Orwellian farce",
+          "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011886244921648298,
-      "chg5d": 0.01097361107812167,
-      "chg1m": -0.08330641166462063
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
