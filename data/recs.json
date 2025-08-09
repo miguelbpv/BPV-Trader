@@ -1,31 +1,20 @@
 {
-  "generated_at": "2025-08-09T15:12:16.523382Z",
+  "generated_at": "2025-08-09T18:17:18.922418Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
         {
-          "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
-          "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
+          "title": "Can Israel have a ‘normal’ place in the Middle East?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/9/can-israel-have-a-normal-place-in-the-middle-east?traffic_source=rss"
         },
         {
-          "title": "Israel’s starvation denial is an Orwellian farce",
-          "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011886244921648298,
-      "chg5d": 0.01097361107812167,
-      "chg1m": -0.08330641166462063
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
+          "title": "Palestinian foreign minister demands action to end Israel’s Gaza genocide",
+          "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
           "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
@@ -41,10 +30,18 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Can Israel have a ‘normal’ place in the Middle East?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/9/can-israel-have-a-normal-place-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian foreign minister demands action to end Israel’s Gaza genocide",
+          "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
           "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
@@ -57,6 +54,33 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
+      "razoes": [
+        {
+          "title": "Can Israel have a ‘normal’ place in the Middle East?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/9/can-israel-have-a-normal-place-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian foreign minister demands action to end Israel’s Gaza genocide",
+          "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
+          "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s starvation denial is an Orwellian farce",
+          "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011886244921648298,
+      "chg5d": 0.01097361107812167,
+      "chg1m": -0.08330641166462063
     }
   ]
 }
