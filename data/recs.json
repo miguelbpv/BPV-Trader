@@ -1,12 +1,47 @@
 {
-  "generated_at": "2025-08-10T06:18:52.782499Z",
+  "generated_at": "2025-08-10T09:13:12.828609Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.61,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israelis protest government plans to expand war and occupy Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israelis-protest-government-plans-to-expand-war-and-occupy-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
+          "url": "https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss"
+        },
+        {
+          "title": "Can Israel have a ‘normal’ place in the Middle East?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/9/can-israel-have-a-normal-place-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian foreign minister demands action to end Israel’s Gaza genocide",
+          "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s starvation denial is an Orwellian farce",
+          "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.89,
-      "confianca": 82,
+      "score": 3.61,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israelis protest government plans to expand war and occupy Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israelis-protest-government-plans-to-expand-war-and-occupy-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
           "url": "https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss"
@@ -31,9 +66,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.89,
-      "confianca": 82,
+      "score": 3.61,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israelis protest government plans to expand war and occupy Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israelis-protest-government-plans-to-expand-war-and-occupy-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
           "url": "https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss"
@@ -54,33 +93,6 @@
       "chg1d": 0.006398862424457948,
       "chg5d": -0.007711181212758459,
       "chg1m": -0.042826552462526736
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.89,
-      "confianca": 82,
-      "razoes": [
-        {
-          "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
-          "url": "https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss"
-        },
-        {
-          "title": "Can Israel have a ‘normal’ place in the Middle East?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/9/can-israel-have-a-normal-place-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian foreign minister demands action to end Israel’s Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s starvation denial is an Orwellian farce",
-          "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
