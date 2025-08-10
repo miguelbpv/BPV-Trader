@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-08-10T18:16:44.955378Z",
+  "generated_at": "2025-08-10T21:11:22.119106Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.51,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s gambit: Massacre the Palestinians, subjugate the region?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/10/israels-gambit-massacre-the-palestinians-subjugate-the-region?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom",
-          "url": "https://www.aljazeera.com/news/2025/8/10/ukraine-says-it-hit-oil-refinery-in-russias-saratov-moscow-says-one-dead?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s triple crisis is reshaping daily life",
-          "url": "https://www.aljazeera.com/news/2025/8/10/irans-triple-crisis-is-reshaping-daily-life?traffic_source=rss"
-        },
-        {
-          "title": "Antiwar activists storm Big Brother stage to disrupt broadcast in Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/antiwar-activists-storm-big-brother-stage-to-disrupt-broadcast-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Protesters around the world demand an end to Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/protesters-around-the-world-demand-an-end-to-israels-genocide-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006398862424457948,
-      "chg5d": -0.007711181212758459,
-      "chg1m": -0.042826552462526736
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.51,
+      "score": 6.96,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Al Jazeera journalist Anas al-Sharif killed in Israeli attack in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "UN warns of ‘calamity’ as Netanyahu pushes for Israel to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/10/un-warns-of-calamity-as-netanyahu-pushes-for-israel-to-seize-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Israel’s gambit: Massacre the Palestinians, subjugate the region?",
           "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/10/israels-gambit-massacre-the-palestinians-subjugate-the-region?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Iran’s triple crisis is reshaping daily life",
           "url": "https://www.aljazeera.com/news/2025/8/10/irans-triple-crisis-is-reshaping-daily-life?traffic_source=rss"
-        },
-        {
-          "title": "Antiwar activists storm Big Brother stage to disrupt broadcast in Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/antiwar-activists-storm-big-brother-stage-to-disrupt-broadcast-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Protesters around the world demand an end to Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/protesters-around-the-world-demand-an-end-to-israels-genocide-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,50 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.42,
+      "score": 6.96,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Al Jazeera journalist Anas al-Sharif killed in Israeli attack in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "UN warns of ‘calamity’ as Netanyahu pushes for Israel to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/10/un-warns-of-calamity-as-netanyahu-pushes-for-israel-to-seize-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s gambit: Massacre the Palestinians, subjugate the region?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/10/israels-gambit-massacre-the-palestinians-subjugate-the-region?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom",
+          "url": "https://www.aljazeera.com/news/2025/8/10/ukraine-says-it-hit-oil-refinery-in-russias-saratov-moscow-says-one-dead?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s triple crisis is reshaping daily life",
+          "url": "https://www.aljazeera.com/news/2025/8/10/irans-triple-crisis-is-reshaping-daily-life?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006398862424457948,
+      "chg5d": -0.007711181212758459,
+      "chg1m": -0.042826552462526736
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.87,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Al Jazeera journalist Anas al-Sharif killed in Israeli attack in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "UN warns of ‘calamity’ as Netanyahu pushes for Israel to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/10/un-warns-of-calamity-as-netanyahu-pushes-for-israel-to-seize-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Israel’s gambit: Massacre the Palestinians, subjugate the region?",
           "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/10/israels-gambit-massacre-the-palestinians-subjugate-the-region?traffic_source=rss"
@@ -80,14 +88,6 @@
         {
           "title": "Antiwar activists storm Big Brother stage to disrupt broadcast in Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/antiwar-activists-storm-big-brother-stage-to-disrupt-broadcast-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Protesters around the world demand an end to Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/protesters-around-the-world-demand-an-end-to-israels-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Global rallies demand end to Israel’s war on Gaza and unrestricted aid",
-          "url": "https://www.aljazeera.com/gallery/2025/8/10/global-rallies-demand-end-to-israels-war-on-gaza-and-unrestricted-aid?traffic_source=rss"
         }
       ],
       "chg1d": -0.011886244921648298,
