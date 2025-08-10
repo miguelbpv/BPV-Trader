@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-08-10T01:11:05.179428Z",
+  "generated_at": "2025-08-10T03:59:51.868730Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.93,
+      "score": 2.91,
       "confianca": 83,
       "razoes": [
         {
@@ -24,14 +24,14 @@
           "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011886244921648298,
-      "chg5d": 0.01097361107812167,
-      "chg1m": -0.08330641166462063
+      "chg1d": 0.006398862424457948,
+      "chg5d": -0.007711181212758459,
+      "chg1m": -0.042826552462526736
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.93,
+      "score": 2.91,
       "confianca": 83,
       "razoes": [
         {
@@ -56,9 +56,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.93,
+      "score": 2.91,
       "confianca": 83,
       "razoes": [
         {
@@ -78,9 +78,9 @@
           "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006398862424457948,
-      "chg5d": -0.007711181212758459,
-      "chg1m": -0.042826552462526736
+      "chg1d": -0.011886244921648298,
+      "chg5d": 0.01097361107812167,
+      "chg1m": -0.08330641166462063
     }
   ]
 }
