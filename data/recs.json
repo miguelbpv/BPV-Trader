@@ -1,11 +1,38 @@
 {
-  "generated_at": "2025-08-10T03:59:51.868730Z",
+  "generated_at": "2025-08-10T06:18:52.782499Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.89,
+      "confianca": 82,
+      "razoes": [
+        {
+          "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
+          "url": "https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss"
+        },
+        {
+          "title": "Can Israel have a ‘normal’ place in the Middle East?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/9/can-israel-have-a-normal-place-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian foreign minister demands action to end Israel’s Gaza genocide",
+          "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s starvation denial is an Orwellian farce",
+          "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011886244921648298,
+      "chg5d": 0.01097361107812167,
+      "chg1m": -0.08330641166462063
+    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "score": 2.89,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
@@ -31,8 +58,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "score": 2.89,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
@@ -54,33 +81,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
-          "url": "https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss"
-        },
-        {
-          "title": "Can Israel have a ‘normal’ place in the Middle East?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/9/can-israel-have-a-normal-place-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian foreign minister demands action to end Israel’s Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s starvation denial is an Orwellian farce",
-          "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011886244921648298,
-      "chg5d": 0.01097361107812167,
-      "chg1m": -0.08330641166462063
     }
   ]
 }
