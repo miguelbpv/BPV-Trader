@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-09T21:11:21.553653Z",
+  "generated_at": "2025-08-10T01:11:05.179428Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.7,
-      "confianca": 95,
+      "score": 2.93,
+      "confianca": 83,
       "razoes": [
         {
           "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
@@ -18,25 +18,21 @@
         {
           "title": "Palestinian foreign minister demands action to end Israel’s Gaza genocide",
           "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
-          "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
         },
         {
           "title": "Israel’s starvation denial is an Orwellian farce",
           "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006398862424457948,
-      "chg5d": -0.007711181212758459,
-      "chg1m": -0.042826552462526736
+      "chg1d": -0.011886244921648298,
+      "chg5d": 0.01097361107812167,
+      "chg1m": -0.08330641166462063
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.7,
-      "confianca": 95,
+      "score": 2.93,
+      "confianca": 83,
       "razoes": [
         {
           "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
@@ -49,10 +45,6 @@
         {
           "title": "Palestinian foreign minister demands action to end Israel’s Gaza genocide",
           "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
-          "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
         },
         {
           "title": "Israel’s starvation denial is an Orwellian farce",
@@ -64,10 +56,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.7,
-      "confianca": 95,
+      "score": 2.93,
+      "confianca": 83,
       "razoes": [
         {
           "title": "Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact",
@@ -82,17 +74,13 @@
           "url": "https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss"
         },
         {
-          "title": "Israeli forces kill 21 aid seekers as Gaza starvation death toll rises",
-          "url": "https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss"
-        },
-        {
           "title": "Israel’s starvation denial is an Orwellian farce",
           "url": "https://www.aljazeera.com/opinions/2025/8/9/israels-starvation-denial-is-an-orwellian-farce?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011886244921648298,
-      "chg5d": 0.01097361107812167,
-      "chg1m": -0.08330641166462063
+      "chg1d": 0.006398862424457948,
+      "chg5d": -0.007711181212758459,
+      "chg1m": -0.042826552462526736
     }
   ]
 }
