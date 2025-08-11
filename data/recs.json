@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-08-11T01:07:59.701157Z",
+  "generated_at": "2025-08-11T04:01:26.547747Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.72,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Al Jazeera condemns killing of its journalists by Israeli forces in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills four Al Jazeera journalists including Anas al-Sharif in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-four-al-jazeera-journalists-including-anas-al-sharif-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Anas al-Sharif among five Al Jazeera journalists killed by Israel in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006398862424457948,
-      "chg5d": -0.007711181212758459,
-      "chg1m": -0.042826552462526736
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.72,
+      "score": 7.66,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 7.66,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Al Jazeera condemns killing of its journalists by Israeli forces in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills four Al Jazeera journalists including Anas al-Sharif in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-four-al-jazeera-journalists-including-anas-al-sharif-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Anas al-Sharif among five Al Jazeera journalists killed by Israel in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006398862424457948,
+      "chg5d": -0.007711181212758459,
+      "chg1m": -0.042826552462526736
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.64,
+      "score": 6.59,
       "confianca": 95,
       "razoes": [
         {
