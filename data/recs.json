@@ -1,62 +1,31 @@
 {
-  "generated_at": "2025-08-10T21:11:22.119106Z",
+  "generated_at": "2025-08-11T01:07:59.701157Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.96,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Al Jazeera journalist Anas al-Sharif killed in Israeli attack in Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "UN warns of ‘calamity’ as Netanyahu pushes for Israel to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/10/un-warns-of-calamity-as-netanyahu-pushes-for-israel-to-seize-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s gambit: Massacre the Palestinians, subjugate the region?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/10/israels-gambit-massacre-the-palestinians-subjugate-the-region?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom",
-          "url": "https://www.aljazeera.com/news/2025/8/10/ukraine-says-it-hit-oil-refinery-in-russias-saratov-moscow-says-one-dead?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s triple crisis is reshaping daily life",
-          "url": "https://www.aljazeera.com/news/2025/8/10/irans-triple-crisis-is-reshaping-daily-life?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.96,
+      "score": 7.72,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Al Jazeera journalist Anas al-Sharif killed in Israeli attack in Gaza City",
+          "title": "Al Jazeera condemns killing of its journalists by Israeli forces in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills four Al Jazeera journalists including Anas al-Sharif in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-four-al-jazeera-journalists-including-anas-al-sharif-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Anas al-Sharif among five Al Jazeera journalists killed by Israel in Gaza",
           "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "UN warns of ‘calamity’ as Netanyahu pushes for Israel to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/10/un-warns-of-calamity-as-netanyahu-pushes-for-israel-to-seize-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s gambit: Massacre the Palestinians, subjugate the region?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/10/israels-gambit-massacre-the-palestinians-subjugate-the-region?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine says it hit Russian oil refinery in drone exchanges; key talks loom",
-          "url": "https://www.aljazeera.com/news/2025/8/10/ukraine-says-it-hit-oil-refinery-in-russias-saratov-moscow-says-one-dead?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s triple crisis is reshaping daily life",
-          "url": "https://www.aljazeera.com/news/2025/8/10/irans-triple-crisis-is-reshaping-daily-life?traffic_source=rss"
         }
       ],
       "chg1d": 0.006398862424457948,
@@ -64,30 +33,61 @@
       "chg1m": -0.042826552462526736
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.87,
+      "score": 7.72,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Al Jazeera journalist Anas al-Sharif killed in Israeli attack in Gaza City",
+          "title": "Al Jazeera condemns killing of its journalists by Israeli forces in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills four Al Jazeera journalists including Anas al-Sharif in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-four-al-jazeera-journalists-including-anas-al-sharif-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Anas al-Sharif among five Al Jazeera journalists killed by Israel in Gaza",
           "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.64,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Al Jazeera condemns killing of its journalists by Israeli forces in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss"
         },
         {
-          "title": "UN warns of ‘calamity’ as Netanyahu pushes for Israel to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/10/un-warns-of-calamity-as-netanyahu-pushes-for-israel-to-seize-gaza-city?traffic_source=rss"
+          "title": "Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Israel’s gambit: Massacre the Palestinians, subjugate the region?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/10/israels-gambit-massacre-the-palestinians-subjugate-the-region?traffic_source=rss"
+          "title": "Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss"
         },
         {
-          "title": "Iran’s triple crisis is reshaping daily life",
-          "url": "https://www.aljazeera.com/news/2025/8/10/irans-triple-crisis-is-reshaping-daily-life?traffic_source=rss"
+          "title": "Israel kills four Al Jazeera journalists including Anas al-Sharif in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-four-al-jazeera-journalists-including-anas-al-sharif-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Antiwar activists storm Big Brother stage to disrupt broadcast in Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/antiwar-activists-storm-big-brother-stage-to-disrupt-broadcast-in-israel?traffic_source=rss"
+          "title": "Anas al-Sharif among five Al Jazeera journalists killed by Israel in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": -0.011886244921648298,
