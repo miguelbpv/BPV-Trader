@@ -1,12 +1,51 @@
 {
-  "generated_at": "2025-08-11T09:19:11.919612Z",
+  "generated_at": "2025-08-11T12:27:57.413227Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 7.29,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel kills Anas al-Sharif and four Al Jazeera staff in Gaza: What we know",
+          "url": "https://www.aljazeera.com/features/2025/8/11/israel-kills-anasal-sharif-and-four-al-jazeera-in-gaza-what-to-know?traffic_source=rss"
+        },
+        {
+          "title": "Israel is occupying Gaza to clean up the crime scene",
+          "url": "https://www.aljazeera.com/opinions/2025/8/11/israel-is-occupying-gaza-to-clean-up-the-crime-scene?traffic_source=rss"
+        },
+        {
+          "title": "Israel assassinates 5 Al Jazeera staff: Scenes of carnage in Gaza City",
+          "url": "https://www.aljazeera.com/gallery/2025/8/11/israel-assassinates-5-al-jazeera-staff-scenes-of-carnage-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Nvidia, AMD to pay 15% of China chip sales to US government, reports say",
+          "url": "https://www.aljazeera.com/economy/2025/8/11/nvidia-amd-to-pay-15-of-china-chip-sales-to-us-government-reports-say?traffic_source=rss"
+        },
+        {
+          "title": "Al Jazeera condemns killing of its journalists by Israeli forces in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011886244921648298,
+      "chg5d": 0.01097361107812167,
+      "chg1m": -0.08330641166462063
+    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.59,
+      "score": 6.55,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel kills Anas al-Sharif and four Al Jazeera staff in Gaza: What we know",
+          "url": "https://www.aljazeera.com/features/2025/8/11/israel-kills-anasal-sharif-and-four-al-jazeera-in-gaza-what-to-know?traffic_source=rss"
+        },
+        {
+          "title": "Israel is occupying Gaza to clean up the crime scene",
+          "url": "https://www.aljazeera.com/opinions/2025/8/11/israel-is-occupying-gaza-to-clean-up-the-crime-scene?traffic_source=rss"
+        },
         {
           "title": "Israel assassinates 5 Al Jazeera staff: Scenes of carnage in Gaza City",
           "url": "https://www.aljazeera.com/gallery/2025/8/11/israel-assassinates-5-al-jazeera-staff-scenes-of-carnage-in-gaza-city?traffic_source=rss"
@@ -18,14 +57,6 @@
         {
           "title": "Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills four Al Jazeera journalists including Anas al-Sharif in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-four-al-jazeera-journalists-including-anas-al-sharif-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.59,
+      "score": 6.55,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel kills Anas al-Sharif and four Al Jazeera staff in Gaza: What we know",
+          "url": "https://www.aljazeera.com/features/2025/8/11/israel-kills-anasal-sharif-and-four-al-jazeera-in-gaza-what-to-know?traffic_source=rss"
+        },
+        {
+          "title": "Israel is occupying Gaza to clean up the crime scene",
+          "url": "https://www.aljazeera.com/opinions/2025/8/11/israel-is-occupying-gaza-to-clean-up-the-crime-scene?traffic_source=rss"
+        },
         {
           "title": "Israel assassinates 5 Al Jazeera staff: Scenes of carnage in Gaza City",
           "url": "https://www.aljazeera.com/gallery/2025/8/11/israel-assassinates-5-al-jazeera-staff-scenes-of-carnage-in-gaza-city?traffic_source=rss"
@@ -49,14 +88,6 @@
         {
           "title": "Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills four Al Jazeera journalists including Anas al-Sharif in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-four-al-jazeera-journalists-including-anas-al-sharif-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.006398862424457948,
@@ -64,55 +95,9 @@
       "chg1m": -0.042826552462526736
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 7.28,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel assassinates 5 Al Jazeera staff: Scenes of carnage in Gaza City",
-          "url": "https://www.aljazeera.com/gallery/2025/8/11/israel-assassinates-5-al-jazeera-staff-scenes-of-carnage-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Nvidia, AMD to pay 15% of China chip sales to US government, reports say",
-          "url": "https://www.aljazeera.com/economy/2025/8/11/nvidia-amd-to-pay-15-of-china-chip-sales-to-us-government-reports-say?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera condemns killing of its journalists by Israeli forces in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011886244921648298,
-      "chg5d": 0.01097361107812167,
-      "chg1m": -0.08330641166462063
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Nvidia, AMD to pay 15% of China chip sales to US government, reports say",
-          "url": "https://www.aljazeera.com/economy/2025/8/11/nvidia-amd-to-pay-15-of-china-chip-sales-to-us-government-reports-say?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0129010545209783,
-      "chg5d": 0.04711373981618393,
-      "chg1m": -0.0994526798738296
-    },
-    {
       "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.75,
+      "score": 0.74,
       "confianca": 21,
       "razoes": [
         {
@@ -125,9 +110,24 @@
       "chg1m": 0.11334552102376597
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Nvidia, AMD to pay 15% of China chip sales to US government, reports say",
+          "url": "https://www.aljazeera.com/economy/2025/8/11/nvidia-amd-to-pay-15-of-china-chip-sales-to-us-government-reports-say?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0129010545209783,
+      "chg5d": 0.04711373981618393,
+      "chg1m": -0.0994526798738296
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.75,
+      "score": 0.74,
       "confianca": 21,
       "razoes": [
         {
