@@ -1,12 +1,39 @@
 {
-  "generated_at": "2025-08-12T03:44:51.965899Z",
+  "generated_at": "2025-08-12T06:20:22.803984Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
+        {
+          "title": "Australia PM says Israel’s Netanyahu ‘in denial’ over suffering in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/12/australia-pm-says-israels-netanyahu-in-denial-over-suffering-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran says IAEA talks will be ‘complicated’ ahead of agency’s planned visit",
+          "url": "https://www.aljazeera.com/news/2025/8/11/iran-says-iaea-talks-will-be-complicated-ahead-of-agencys-planned-visit?traffic_source=rss"
+        },
+        {
+          "title": "UN says families, a generation being ‘wiped out’ by Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/11/un-says-families-a-generation-being-wiped-out-by-israels-war-on-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008006593665371563,
+      "chg5d": -0.01346604215456681,
+      "chg1m": -0.05475148659261748
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Australia PM says Israel’s Netanyahu ‘in denial’ over suffering in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/12/australia-pm-says-israels-netanyahu-in-denial-over-suffering-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran says IAEA talks will be ‘complicated’ ahead of agency’s planned visit",
           "url": "https://www.aljazeera.com/news/2025/8/11/iran-says-iaea-talks-will-be-complicated-ahead-of-agencys-planned-visit?traffic_source=rss"
@@ -22,10 +49,14 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
+        {
+          "title": "Australia PM says Israel’s Netanyahu ‘in denial’ over suffering in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/12/australia-pm-says-israels-netanyahu-in-denial-over-suffering-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran says IAEA talks will be ‘complicated’ ahead of agency’s planned visit",
           "url": "https://www.aljazeera.com/news/2025/8/11/iran-says-iaea-talks-will-be-complicated-ahead-of-agencys-planned-visit?traffic_source=rss"
@@ -40,43 +71,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Iran says IAEA talks will be ‘complicated’ ahead of agency’s planned visit",
-          "url": "https://www.aljazeera.com/news/2025/8/11/iran-says-iaea-talks-will-be-complicated-ahead-of-agencys-planned-visit?traffic_source=rss"
-        },
-        {
-          "title": "UN says families, a generation being ‘wiped out’ by Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/11/un-says-families-a-generation-being-wiped-out-by-israels-war-on-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.008006593665371563,
-      "chg5d": -0.01346604215456681,
-      "chg1m": -0.05475148659261748
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US to extend China tariff pause another 90 days",
-          "url": "https://www.aljazeera.com/economy/2025/8/11/us-to-extend-china-tariff-pause-another-90-days?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.001398272233913092,
-      "chg5d": 0.031385838480896724,
-      "chg1m": -0.10053246542715699
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -89,9 +86,24 @@
       "chg1m": -0.015273997643904583
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US to extend China tariff pause another 90 days",
+          "url": "https://www.aljazeera.com/economy/2025/8/11/us-to-extend-china-tariff-pause-another-90-days?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.001398272233913092,
+      "chg5d": 0.031385838480896724,
+      "chg1m": -0.10053246542715699
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
