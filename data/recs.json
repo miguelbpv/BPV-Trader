@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-08-13T09:16:12.945303Z",
+  "generated_at": "2025-08-13T12:26:17.892142Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.27,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel, South Sudan in talks over forced transfer of Palestinians: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/13/israel-south-sudan-in-talks-over-forced-transfer-of-palestinians-report?traffic_source=rss"
-        },
-        {
-          "title": "Gaza doctor describes ‘daily patterns’ in Israeli maiming at GHF sites",
-          "url": "https://www.aljazeera.com/news/2025/8/13/doctor-in-gaza-describes-daily-patterns-in-israeli-maiming-at-ghf-hubs?traffic_source=rss"
-        },
-        {
-          "title": "UN chief warns Israel, Russia over reports of sexual abuse by armed forces",
-          "url": "https://www.aljazeera.com/news/2025/8/13/un-chief-warns-israel-russia-over-reports-of-sexual-abuse-by-armed-forces?traffic_source=rss"
-        },
-        {
-          "title": "UN says bid to help address turmoil in Haiti less than 10 percent funded",
-          "url": "https://www.aljazeera.com/news/2025/8/12/un-says-bid-to-help-address-turmoil-in-haiti-less-than-10-percent-funded?traffic_source=rss"
-        },
-        {
-          "title": "How can Israel kill journalists with impunity?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/12/how-can-israel-kill-journalists-with-impunity?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.27,
+      "score": 4.06,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "France, Germany and UK say they are ready to reimpose Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/8/13/france-germany-and-uk-say-they-are-ready-to-reimpose-iran-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Does a Trump-brokered deal squeeze Russia, Iran out of the South Caucasus?",
+          "url": "https://www.aljazeera.com/news/2025/8/13/how-does-trumps-tripp-deal-squeezes-russia-iran-out-of-south-caucasus?traffic_source=rss"
+        },
         {
           "title": "Israel, South Sudan in talks over forced transfer of Palestinians: Report",
           "url": "https://www.aljazeera.com/news/2025/8/13/israel-south-sudan-in-talks-over-forced-transfer-of-palestinians-report?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "UN chief warns Israel, Russia over reports of sexual abuse by armed forces",
           "url": "https://www.aljazeera.com/news/2025/8/13/un-chief-warns-israel-russia-over-reports-of-sexual-abuse-by-armed-forces?traffic_source=rss"
-        },
-        {
-          "title": "UN says bid to help address turmoil in Haiti less than 10 percent funded",
-          "url": "https://www.aljazeera.com/news/2025/8/12/un-says-bid-to-help-address-turmoil-in-haiti-less-than-10-percent-funded?traffic_source=rss"
-        },
-        {
-          "title": "How can Israel kill journalists with impunity?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/12/how-can-israel-kill-journalists-with-impunity?traffic_source=rss"
         }
       ],
       "chg1d": 0.00486646884272993,
@@ -64,11 +33,19 @@
       "chg1m": -0.039591605218377866
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.67,
+      "score": 4.06,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "France, Germany and UK say they are ready to reimpose Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/8/13/france-germany-and-uk-say-they-are-ready-to-reimpose-iran-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Does a Trump-brokered deal squeeze Russia, Iran out of the South Caucasus?",
+          "url": "https://www.aljazeera.com/news/2025/8/13/how-does-trumps-tripp-deal-squeezes-russia-iran-out-of-south-caucasus?traffic_source=rss"
+        },
         {
           "title": "Israel, South Sudan in talks over forced transfer of Palestinians: Report",
           "url": "https://www.aljazeera.com/news/2025/8/13/israel-south-sudan-in-talks-over-forced-transfer-of-palestinians-report?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "UN chief warns Israel, Russia over reports of sexual abuse by armed forces",
           "url": "https://www.aljazeera.com/news/2025/8/13/un-chief-warns-israel-russia-over-reports-of-sexual-abuse-by-armed-forces?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.06,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "France, Germany and UK say they are ready to reimpose Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/8/13/france-germany-and-uk-say-they-are-ready-to-reimpose-iran-sanctions?traffic_source=rss"
         },
         {
-          "title": "China raises concerns over Nvidia’s H20 chips with local firms: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/12/china-raises-concerns-over-nvidias-h20-chips-with-local-firms-report?traffic_source=rss"
+          "title": "Does a Trump-brokered deal squeeze Russia, Iran out of the South Caucasus?",
+          "url": "https://www.aljazeera.com/news/2025/8/13/how-does-trumps-tripp-deal-squeezes-russia-iran-out-of-south-caucasus?traffic_source=rss"
         },
         {
-          "title": "How can Israel kill journalists with impunity?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/12/how-can-israel-kill-journalists-with-impunity?traffic_source=rss"
+          "title": "Israel, South Sudan in talks over forced transfer of Palestinians: Report",
+          "url": "https://www.aljazeera.com/news/2025/8/13/israel-south-sudan-in-talks-over-forced-transfer-of-palestinians-report?traffic_source=rss"
+        },
+        {
+          "title": "Gaza doctor describes ‘daily patterns’ in Israeli maiming at GHF sites",
+          "url": "https://www.aljazeera.com/news/2025/8/13/doctor-in-gaza-describes-daily-patterns-in-israeli-maiming-at-ghf-hubs?traffic_source=rss"
+        },
+        {
+          "title": "UN chief warns Israel, Russia over reports of sexual abuse by armed forces",
+          "url": "https://www.aljazeera.com/news/2025/8/13/un-chief-warns-israel-russia-over-reports-of-sexual-abuse-by-armed-forces?traffic_source=rss"
         }
       ],
       "chg1d": 0.012433725894993693,
@@ -95,45 +95,18 @@
       "chg1m": -0.0887091665434888
     },
     {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.41,
-      "confianca": 68,
-      "razoes": [
-        {
-          "title": "Will Trump’s India tariffs shut down world’s biggest cut diamond supplier?",
-          "url": "https://www.aljazeera.com/features/2025/8/13/will-trumps-india-tariffs-shut-down-worlds-biggest-cut-diamond-supplier?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions DR Congo armed group over illicit mining, ceasefire tested",
-          "url": "https://www.aljazeera.com/news/2025/8/12/us-sanctions-dr-congo-armed-group-over-illicit-mining-ceasefire-tested?traffic_source=rss"
-        },
-        {
-          "title": "China raises concerns over Nvidia’s H20 chips with local firms: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/12/china-raises-concerns-over-nvidias-h20-chips-with-local-firms-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009087529431203225,
-      "chg5d": 0.05084527035746545,
-      "chg1m": 0.06830804215681989
-    },
-    {
       "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.41,
-      "confianca": 68,
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "France, Germany and UK say they are ready to reimpose Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/8/13/france-germany-and-uk-say-they-are-ready-to-reimpose-iran-sanctions?traffic_source=rss"
+        },
         {
           "title": "Will Trump’s India tariffs shut down world’s biggest cut diamond supplier?",
           "url": "https://www.aljazeera.com/features/2025/8/13/will-trumps-india-tariffs-shut-down-worlds-biggest-cut-diamond-supplier?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions DR Congo armed group over illicit mining, ceasefire tested",
-          "url": "https://www.aljazeera.com/news/2025/8/12/us-sanctions-dr-congo-armed-group-over-illicit-mining-ceasefire-tested?traffic_source=rss"
-        },
-        {
-          "title": "China raises concerns over Nvidia’s H20 chips with local firms: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/12/china-raises-concerns-over-nvidias-h20-chips-with-local-firms-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.02839278534887915,
@@ -141,38 +114,42 @@
       "chg1m": -0.08049781215524407
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.68,
+      "score": 1.7,
       "confianca": 48,
       "razoes": [
         {
-          "title": "Will Trump’s India tariffs shut down world’s biggest cut diamond supplier?",
-          "url": "https://www.aljazeera.com/features/2025/8/13/will-trumps-india-tariffs-shut-down-worlds-biggest-cut-diamond-supplier?traffic_source=rss"
+          "title": "France, Germany and UK say they are ready to reimpose Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/8/13/france-germany-and-uk-say-they-are-ready-to-reimpose-iran-sanctions?traffic_source=rss"
         },
         {
-          "title": "US sanctions DR Congo armed group over illicit mining, ceasefire tested",
-          "url": "https://www.aljazeera.com/news/2025/8/12/us-sanctions-dr-congo-armed-group-over-illicit-mining-ceasefire-tested?traffic_source=rss"
+          "title": "Will Trump’s India tariffs shut down world’s biggest cut diamond supplier?",
+          "url": "https://www.aljazeera.com/features/2025/8/13/will-trumps-india-tariffs-shut-down-worlds-biggest-cut-diamond-supplier?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009087529431203225,
+      "chg5d": 0.05084527035746545,
+      "chg1m": 0.06830804215681989
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "France, Germany and UK say they are ready to reimpose Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/8/13/france-germany-and-uk-say-they-are-ready-to-reimpose-iran-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Will Trump’s India tariffs shut down world’s biggest cut diamond supplier?",
+          "url": "https://www.aljazeera.com/features/2025/8/13/will-trumps-india-tariffs-shut-down-worlds-biggest-cut-diamond-supplier?traffic_source=rss"
         }
       ],
       "chg1d": 0.03197062827441112,
       "chg5d": 0.047878356302098635,
       "chg1m": 0.02596071033096823
-    },
-    {
-      "symbol": "NVDA",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "China raises concerns over Nvidia’s H20 chips with local firms: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/12/china-raises-concerns-over-nvidias-h20-chips-with-local-firms-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00604196418763042,
-      "chg5d": 0.02748793896555596,
-      "chg1m": 0.11635277625403793
     }
   ]
 }
