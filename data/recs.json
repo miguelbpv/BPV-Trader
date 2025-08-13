@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-08-13T03:47:19.277378Z",
+  "generated_at": "2025-08-13T06:20:29.329248Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.76,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UN chief warns Israel, Russia over reports of sexual abuse by armed forces",
-          "url": "https://www.aljazeera.com/news/2025/8/13/un-chief-warns-israel-russia-over-reports-of-sexual-abuse-by-armed-forces?traffic_source=rss"
-        },
-        {
-          "title": "UN says bid to help address turmoil in Haiti less than 10 percent funded",
-          "url": "https://www.aljazeera.com/news/2025/8/12/un-says-bid-to-help-address-turmoil-in-haiti-less-than-10-percent-funded?traffic_source=rss"
-        },
-        {
-          "title": "How can Israel kill journalists with impunity?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/12/how-can-israel-kill-journalists-with-impunity?traffic_source=rss"
-        },
-        {
-          "title": "Argentina’s Javier Milei launches group to boost Israel-Latin America ties",
-          "url": "https://www.aljazeera.com/news/2025/8/12/argentinas-javier-milei-launches-group-to-boost-israel-latin-america-ties?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel using Gaza tribal militias to help ethnic cleansing?",
-          "url": "https://www.aljazeera.com/features/2025/8/12/is-israel-using-gaza-tribal-militias-to-help-ethnic-cleansing?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00486646884272993,
-      "chg5d": -0.009940357852882803,
-      "chg1m": -0.039591605218377866
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.76,
+      "score": 4.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza doctor describes ‘daily patterns’ in Israeli maiming at GHF sites",
+          "url": "https://www.aljazeera.com/news/2025/8/13/doctor-in-gaza-describes-daily-patterns-in-israeli-maiming-at-ghf-hubs?traffic_source=rss"
+        },
         {
           "title": "UN chief warns Israel, Russia over reports of sexual abuse by armed forces",
           "url": "https://www.aljazeera.com/news/2025/8/13/un-chief-warns-israel-russia-over-reports-of-sexual-abuse-by-armed-forces?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Argentina’s Javier Milei launches group to boost Israel-Latin America ties",
           "url": "https://www.aljazeera.com/news/2025/8/12/argentinas-javier-milei-launches-group-to-boost-israel-latin-america-ties?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel using Gaza tribal militias to help ethnic cleansing?",
-          "url": "https://www.aljazeera.com/features/2025/8/12/is-israel-using-gaza-tribal-militias-to-help-ethnic-cleansing?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,46 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.16,
+      "score": 4.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza doctor describes ‘daily patterns’ in Israeli maiming at GHF sites",
+          "url": "https://www.aljazeera.com/news/2025/8/13/doctor-in-gaza-describes-daily-patterns-in-israeli-maiming-at-ghf-hubs?traffic_source=rss"
+        },
+        {
+          "title": "UN chief warns Israel, Russia over reports of sexual abuse by armed forces",
+          "url": "https://www.aljazeera.com/news/2025/8/13/un-chief-warns-israel-russia-over-reports-of-sexual-abuse-by-armed-forces?traffic_source=rss"
+        },
+        {
+          "title": "UN says bid to help address turmoil in Haiti less than 10 percent funded",
+          "url": "https://www.aljazeera.com/news/2025/8/12/un-says-bid-to-help-address-turmoil-in-haiti-less-than-10-percent-funded?traffic_source=rss"
+        },
+        {
+          "title": "How can Israel kill journalists with impunity?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/12/how-can-israel-kill-journalists-with-impunity?traffic_source=rss"
+        },
+        {
+          "title": "Argentina’s Javier Milei launches group to boost Israel-Latin America ties",
+          "url": "https://www.aljazeera.com/news/2025/8/12/argentinas-javier-milei-launches-group-to-boost-israel-latin-america-ties?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00486646884272993,
+      "chg5d": -0.009940357852882803,
+      "chg1m": -0.039591605218377866
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.68,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza doctor describes ‘daily patterns’ in Israeli maiming at GHF sites",
+          "url": "https://www.aljazeera.com/news/2025/8/13/doctor-in-gaza-describes-daily-patterns-in-israeli-maiming-at-ghf-hubs?traffic_source=rss"
+        },
         {
           "title": "UN chief warns Israel, Russia over reports of sexual abuse by armed forces",
           "url": "https://www.aljazeera.com/news/2025/8/13/un-chief-warns-israel-russia-over-reports-of-sexual-abuse-by-armed-forces?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Argentina’s Javier Milei launches group to boost Israel-Latin America ties",
           "url": "https://www.aljazeera.com/news/2025/8/12/argentinas-javier-milei-launches-group-to-boost-israel-latin-america-ties?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel using Gaza tribal militias to help ethnic cleansing?",
-          "url": "https://www.aljazeera.com/features/2025/8/12/is-israel-using-gaza-tribal-militias-to-help-ethnic-cleansing?traffic_source=rss"
         }
       ],
       "chg1d": 0.012433725894993693,
@@ -97,7 +97,7 @@
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.44,
+      "score": 2.43,
       "confianca": 69,
       "razoes": [
         {
@@ -120,7 +120,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.44,
+      "score": 2.43,
       "confianca": 69,
       "razoes": [
         {
@@ -143,7 +143,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.71,
+      "score": 1.7,
       "confianca": 48,
       "razoes": [
         {
@@ -162,8 +162,8 @@
     {
       "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "China raises concerns over Nvidia’s H20 chips with local firms: Report",
