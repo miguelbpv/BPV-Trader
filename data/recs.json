@@ -1,62 +1,143 @@
 {
-  "generated_at": "2025-08-14T15:14:05.127665Z",
+  "generated_at": "2025-08-14T18:18:56.981980Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Does anyone in Israel support the plan to escalate its offensive in Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/8/14/does-anyone-in-israel-support-the-plan-to-escalate-its-offensive-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00366043789682989,
-      "chg5d": 0.023679628554846174,
-      "chg1m": -0.0647337052198444
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 4.81,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Why countries back Palestinian statehood but arm Israel",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/14/why-countries-back-palestinian-statehood-but-arm-israel?traffic_source=rss"
+        },
+        {
+          "title": "What’s next for oil as OPEC+ and Trump shake the market?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/8/14/whats-next-for-oil-as-opec-and-trump-shake-the-market?traffic_source=rss"
+        },
+        {
+          "title": "The day Israeli settlers lynched two young men in the West Bank",
+          "url": "https://www.aljazeera.com/features/longform/2025/8/14/the-day-israeli-settlers-lynched-two-young-men-in-the-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 26 people as four more die from malnutrition",
+          "url": "https://www.aljazeera.com/news/2025/8/14/israel-starves-four-more-people-in-gaza-to-death-kills-at-least-23?traffic_source=rss"
+        },
         {
           "title": "Does anyone in Israel support the plan to escalate its offensive in Gaza?",
           "url": "https://www.aljazeera.com/news/2025/8/14/does-anyone-in-israel-support-the-plan-to-escalate-its-offensive-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006714152265296623,
-      "chg5d": 0.00799857803057231,
-      "chg1m": -0.012365029606408891
+      "chg1d": -0.003035964502568953,
+      "chg5d": 0.011731247778172709,
+      "chg1m": -0.008707767328456984
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 4.81,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Why countries back Palestinian statehood but arm Israel",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/14/why-countries-back-palestinian-statehood-but-arm-israel?traffic_source=rss"
+        },
+        {
+          "title": "What’s next for oil as OPEC+ and Trump shake the market?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/8/14/whats-next-for-oil-as-opec-and-trump-shake-the-market?traffic_source=rss"
+        },
+        {
+          "title": "The day Israeli settlers lynched two young men in the West Bank",
+          "url": "https://www.aljazeera.com/features/longform/2025/8/14/the-day-israeli-settlers-lynched-two-young-men-in-the-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 26 people as four more die from malnutrition",
+          "url": "https://www.aljazeera.com/news/2025/8/14/israel-starves-four-more-people-in-gaza-to-death-kills-at-least-23?traffic_source=rss"
+        },
         {
           "title": "Does anyone in Israel support the plan to escalate its offensive in Gaza?",
           "url": "https://www.aljazeera.com/news/2025/8/14/does-anyone-in-israel-support-the-plan-to-escalate-its-offensive-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.46,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Why countries back Palestinian statehood but arm Israel",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/14/why-countries-back-palestinian-statehood-but-arm-israel?traffic_source=rss"
+        },
+        {
+          "title": "The day Israeli settlers lynched two young men in the West Bank",
+          "url": "https://www.aljazeera.com/features/longform/2025/8/14/the-day-israeli-settlers-lynched-two-young-men-in-the-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 26 people as four more die from malnutrition",
+          "url": "https://www.aljazeera.com/news/2025/8/14/israel-starves-four-more-people-in-gaza-to-death-kills-at-least-23?traffic_source=rss"
+        },
+        {
+          "title": "Does anyone in Israel support the plan to escalate its offensive in Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/8/14/does-anyone-in-israel-support-the-plan-to-escalate-its-offensive-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013421605621709555,
+      "chg5d": 0.013650609402205445,
+      "chg1m": -0.07389653636498617
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.81,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Trump administration sanctions two Mexican drug cartels, announces bounties",
+          "url": "https://www.aljazeera.com/news/2025/8/14/trump-administration-sanctions-two-mexican-drug-cartels-announces-bounties?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0051979787939032285,
+      "chg5d": -0.010036270711400553,
+      "chg1m": 0.011049840040410843
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.81,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Trump administration sanctions two Mexican drug cartels, announces bounties",
+          "url": "https://www.aljazeera.com/news/2025/8/14/trump-administration-sanctions-two-mexican-drug-cartels-announces-bounties?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008979975382823671,
+      "chg5d": 0.050012620596813946,
+      "chg1m": -0.007508781231360696
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.81,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Trump administration sanctions two Mexican drug cartels, announces bounties",
+          "url": "https://www.aljazeera.com/news/2025/8/14/trump-administration-sanctions-two-mexican-drug-cartels-announces-bounties?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004884197258547381,
+      "chg5d": 0.04899518352433144,
+      "chg1m": 0.02870638055295404
     }
   ]
 }
