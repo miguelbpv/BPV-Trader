@@ -1,23 +1,38 @@
 {
-  "generated_at": "2025-08-14T09:16:13.228842Z",
+  "generated_at": "2025-08-14T12:27:09.493455Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.29,
-      "confianca": 65,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
+        },
         {
           "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
           "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011575714623198724,
+      "chg5d": 0.010859301227573203,
+      "chg1m": -0.014272559852670291
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
         },
         {
-          "title": "Protests over Israeli murder of Al Jazeera journalists spread",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/protests-over-israeli-murder-of-al-jazeera-journalists-spread?traffic_source=rss"
-        },
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
+          "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
+          "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
         }
       ],
       "chg1d": 0.025512095652979867,
@@ -26,21 +41,17 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.29,
-      "confianca": 65,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
+        },
         {
           "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
           "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
-        },
-        {
-          "title": "Protests over Israeli murder of Al Jazeera journalists spread",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/protests-over-israeli-murder-of-al-jazeera-journalists-spread?traffic_source=rss"
-        },
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,68 +59,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.29,
-      "confianca": 65,
-      "razoes": [
-        {
-          "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
-          "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
-        },
-        {
-          "title": "Protests over Israeli murder of Al Jazeera journalists spread",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/protests-over-israeli-murder-of-al-jazeera-journalists-spread?traffic_source=rss"
-        },
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011575714623198724,
-      "chg5d": 0.010859301227573203,
-      "chg1m": -0.014272559852670291
-    },
-    {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.26,
-      "confianca": 64,
-      "razoes": [
-        {
-          "title": "US sanctions Brazil health officials over Cuba’s overseas medical missions",
-          "url": "https://www.aljazeera.com/news/2025/8/14/us-sanctions-brazil-health-officials-over-cubas-overseas-medical-missions?traffic_source=rss"
-        },
-        {
-          "title": "Brazil plans aid packages for businesses impacted by Trump tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/8/13/brazil-plans-aid-packages-for-businesses-impacted-by-trump-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011666461991894856,
-      "chg5d": 0.04352336085058561,
-      "chg1m": 0.018949145389322682
-    },
-    {
       "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.26,
-      "confianca": 64,
+      "acao": "observar",
+      "score": 0.59,
+      "confianca": 16,
       "razoes": [
         {
           "title": "US sanctions Brazil health officials over Cuba’s overseas medical missions",
           "url": "https://www.aljazeera.com/news/2025/8/14/us-sanctions-brazil-health-officials-over-cubas-overseas-medical-missions?traffic_source=rss"
-        },
-        {
-          "title": "Brazil plans aid packages for businesses impacted by Trump tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/8/13/brazil-plans-aid-packages-for-businesses-impacted-by-trump-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
         }
       ],
       "chg1d": 0.014870482890949787,
@@ -117,22 +74,29 @@
       "chg1m": 0.03094290587184279
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.26,
-      "confianca": 64,
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.59,
+      "confianca": 16,
       "razoes": [
         {
           "title": "US sanctions Brazil health officials over Cuba’s overseas medical missions",
           "url": "https://www.aljazeera.com/news/2025/8/14/us-sanctions-brazil-health-officials-over-cubas-overseas-medical-missions?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": -0.011666461991894856,
+      "chg5d": 0.04352336085058561,
+      "chg1m": 0.018949145389322682
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.59,
+      "confianca": 16,
+      "razoes": [
         {
-          "title": "Brazil plans aid packages for businesses impacted by Trump tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/8/13/brazil-plans-aid-packages-for-businesses-impacted-by-trump-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
+          "title": "US sanctions Brazil health officials over Cuba’s overseas medical missions",
+          "url": "https://www.aljazeera.com/news/2025/8/14/us-sanctions-brazil-health-officials-over-cubas-overseas-medical-missions?traffic_source=rss"
         }
       ],
       "chg1d": 0.018576686124105322,
