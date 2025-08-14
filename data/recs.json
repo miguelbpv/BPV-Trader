@@ -1,107 +1,62 @@
 {
-  "generated_at": "2025-08-14T12:27:09.493455Z",
+  "generated_at": "2025-08-14T15:14:05.127665Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
-        },
-        {
-          "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
-          "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011575714623198724,
-      "chg5d": 0.010859301227573203,
-      "chg1m": -0.014272559852670291
-    },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.48,
+      "score": 1.49,
       "confianca": 42,
       "razoes": [
         {
-          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
+          "title": "Does anyone in Israel support the plan to escalate its offensive in Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/8/14/does-anyone-in-israel-support-the-plan-to-escalate-its-offensive-in-gaza?traffic_source=rss"
         },
         {
-          "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
-          "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
+          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
         }
       ],
-      "chg1d": 0.025512095652979867,
-      "chg5d": 0.01775324824652172,
-      "chg1m": -0.058602059048753534
+      "chg1d": -0.00366043789682989,
+      "chg5d": 0.023679628554846174,
+      "chg1m": -0.0647337052198444
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Does anyone in Israel support the plan to escalate its offensive in Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/8/14/does-anyone-in-israel-support-the-plan-to-escalate-its-offensive-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006714152265296623,
+      "chg5d": 0.00799857803057231,
+      "chg1m": -0.012365029606408891
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.48,
+      "score": 1.49,
       "confianca": 42,
       "razoes": [
         {
-          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
+          "title": "Does anyone in Israel support the plan to escalate its offensive in Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/8/14/does-anyone-in-israel-support-the-plan-to-escalate-its-offensive-in-gaza?traffic_source=rss"
         },
         {
-          "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
-          "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
+          "title": "Israel approves settlement expansion to “bury idea of Palestinian state”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "US sanctions Brazil health officials over Cuba’s overseas medical missions",
-          "url": "https://www.aljazeera.com/news/2025/8/14/us-sanctions-brazil-health-officials-over-cubas-overseas-medical-missions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014870482890949787,
-      "chg5d": 0.0715401173342337,
-      "chg1m": 0.03094290587184279
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "US sanctions Brazil health officials over Cuba’s overseas medical missions",
-          "url": "https://www.aljazeera.com/news/2025/8/14/us-sanctions-brazil-health-officials-over-cubas-overseas-medical-missions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011666461991894856,
-      "chg5d": 0.04352336085058561,
-      "chg1m": 0.018949145389322682
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "US sanctions Brazil health officials over Cuba’s overseas medical missions",
-          "url": "https://www.aljazeera.com/news/2025/8/14/us-sanctions-brazil-health-officials-over-cubas-overseas-medical-missions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018576686124105322,
-      "chg5d": 0.09350758365173094,
-      "chg1m": -0.08195426599596599
     }
   ]
 }
