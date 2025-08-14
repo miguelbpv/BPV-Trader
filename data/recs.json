@@ -1,72 +1,10 @@
 {
-  "generated_at": "2025-08-14T03:48:05.022939Z",
+  "generated_at": "2025-08-14T06:20:22.111300Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.01,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
-          "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
-        },
-        {
-          "title": "Protests over Israeli murder of Al Jazeera journalists spread",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/protests-over-israeli-murder-of-al-jazeera-journalists-spread?traffic_source=rss"
-        },
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
-        },
-        {
-          "title": "Protests, vigils held worldwide over Israel’s killing of Gaza journalists",
-          "url": "https://www.aljazeera.com/news/2025/8/13/protests-vigils-held-around-globe-for-gaza-assassinated-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian man killed in occupied West Bank by Israeli settler",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/palestinian-man-killed-in-occupied-west-bank-by-israeli-settler?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.025512095652979867,
-      "chg5d": 0.01775324824652172,
-      "chg1m": -0.058602059048753534
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.01,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
-          "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
-        },
-        {
-          "title": "Protests over Israeli murder of Al Jazeera journalists spread",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/protests-over-israeli-murder-of-al-jazeera-journalists-spread?traffic_source=rss"
-        },
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
-        },
-        {
-          "title": "Protests, vigils held worldwide over Israel’s killing of Gaza journalists",
-          "url": "https://www.aljazeera.com/news/2025/8/13/protests-vigils-held-around-globe-for-gaza-assassinated-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian man killed in occupied West Bank by Israeli settler",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/palestinian-man-killed-in-occupied-west-bank-by-israeli-settler?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.01,
+      "score": 3.51,
       "confianca": 95,
       "razoes": [
         {
@@ -95,9 +33,71 @@
       "chg1m": -0.014272559852670291
     },
     {
-      "symbol": "SOXX",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.14,
+      "score": 3.51,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
+          "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
+        },
+        {
+          "title": "Protests over Israeli murder of Al Jazeera journalists spread",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/protests-over-israeli-murder-of-al-jazeera-journalists-spread?traffic_source=rss"
+        },
+        {
+          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
+        },
+        {
+          "title": "Protests, vigils held worldwide over Israel’s killing of Gaza journalists",
+          "url": "https://www.aljazeera.com/news/2025/8/13/protests-vigils-held-around-globe-for-gaza-assassinated-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian man killed in occupied West Bank by Israeli settler",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/palestinian-man-killed-in-occupied-west-bank-by-israeli-settler?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.51,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "More than 100 groups blast Israel’s ‘weaponisation of aid’ as Gaza starves",
+          "url": "https://www.aljazeera.com/news/2025/8/14/more-than-100-groups-blast-israels-weaponisation-of-aid-as-gaza-starves?traffic_source=rss"
+        },
+        {
+          "title": "Protests over Israeli murder of Al Jazeera journalists spread",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/protests-over-israeli-murder-of-al-jazeera-journalists-spread?traffic_source=rss"
+        },
+        {
+          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
+        },
+        {
+          "title": "Protests, vigils held worldwide over Israel’s killing of Gaza journalists",
+          "url": "https://www.aljazeera.com/news/2025/8/13/protests-vigils-held-around-globe-for-gaza-assassinated-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian man killed in occupied West Bank by Israeli settler",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/palestinian-man-killed-in-occupied-west-bank-by-israeli-settler?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.025512095652979867,
+      "chg5d": 0.01775324824652172,
+      "chg1m": -0.058602059048753534
+    },
+    {
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 3.12,
       "confianca": 89,
       "razoes": [
         {
@@ -117,14 +117,14 @@
           "url": "https://www.aljazeera.com/economy/2025/8/13/automakers-brace-for-profit-hits-as-tariffs-trigger-price-hikes?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014870482890949787,
-      "chg5d": 0.0715401173342337,
-      "chg1m": 0.03094290587184279
+      "chg1d": -0.011666461991894856,
+      "chg5d": 0.04352336085058561,
+      "chg1m": 0.018949145389322682
     },
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 3.14,
+      "score": 3.12,
       "confianca": 89,
       "razoes": [
         {
@@ -149,9 +149,9 @@
       "chg1m": -0.08195426599596599
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "comprar",
-      "score": 3.14,
+      "score": 3.12,
       "confianca": 89,
       "razoes": [
         {
@@ -171,9 +171,9 @@
           "url": "https://www.aljazeera.com/economy/2025/8/13/automakers-brace-for-profit-hits-as-tariffs-trigger-price-hikes?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011666461991894856,
-      "chg5d": 0.04352336085058561,
-      "chg1m": 0.018949145389322682
+      "chg1d": 0.014870482890949787,
+      "chg5d": 0.0715401173342337,
+      "chg1m": 0.03094290587184279
     }
   ]
 }
