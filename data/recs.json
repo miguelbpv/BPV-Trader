@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-08-13T21:12:05.800506Z",
+  "generated_at": "2025-08-14T01:03:02.301258Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.85,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Protests over Israeli murder of Al Jazeera journalists spread",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/protests-over-israeli-murder-of-al-jazeera-journalists-spread?traffic_source=rss"
-        },
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
-        },
-        {
-          "title": "Protests, vigils held worldwide over Israel’s killing of Gaza journalists",
-          "url": "https://www.aljazeera.com/news/2025/8/13/protests-vigils-held-around-globe-for-gaza-assassinated-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian man killed in occupied West Bank by Israeli settler",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/palestinian-man-killed-in-occupied-west-bank-by-israeli-settler?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army expels Bedouin community in West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/israeli-army-expels-bedouin-community-in-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011457595086227249,
-      "chg5d": 0.010741265344664738,
-      "chg1m": -0.01438766114180479
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.85,
+      "score": 5.35,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.35,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Protests over Israeli murder of Al Jazeera journalists spread",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/protests-over-israeli-murder-of-al-jazeera-journalists-spread?traffic_source=rss"
+        },
+        {
+          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
+        },
+        {
+          "title": "Protests, vigils held worldwide over Israel’s killing of Gaza journalists",
+          "url": "https://www.aljazeera.com/news/2025/8/13/protests-vigils-held-around-globe-for-gaza-assassinated-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian man killed in occupied West Bank by Israeli settler",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/palestinian-man-killed-in-occupied-west-bank-by-israeli-settler?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army expels Bedouin community in West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/israeli-army-expels-bedouin-community-in-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011457595086227249,
+      "chg5d": 0.010741265344664738,
+      "chg1m": -0.01438766114180479
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.51,
+      "score": 4.02,
       "confianca": 95,
       "razoes": [
         {
@@ -96,10 +96,14 @@
     },
     {
       "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
+        {
+          "title": "Brazil plans aid packages for businesses impacted by Trump tariffs",
+          "url": "https://www.aljazeera.com/economy/2025/8/13/brazil-plans-aid-packages-for-businesses-impacted-by-trump-tariffs?traffic_source=rss"
+        },
         {
           "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
@@ -114,30 +118,15 @@
       "chg1m": -0.0817841607737357
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
-        },
-        {
-          "title": "US car sales slow after tariff-driven buying surge ends",
-          "url": "https://www.aljazeera.com/economy/2025/8/13/automakers-brace-for-profit-hits-as-tariffs-trigger-price-hikes?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011666461991894856,
-      "chg5d": 0.04352336085058561,
-      "chg1m": 0.018949145389322682
-    },
-    {
       "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
+        {
+          "title": "Brazil plans aid packages for businesses impacted by Trump tariffs",
+          "url": "https://www.aljazeera.com/economy/2025/8/13/brazil-plans-aid-packages-for-businesses-impacted-by-trump-tariffs?traffic_source=rss"
+        },
         {
           "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
@@ -150,6 +139,29 @@
       "chg1d": 0.014870482890949787,
       "chg5d": 0.0715401173342337,
       "chg1m": 0.03094290587184279
+    },
+    {
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
+      "razoes": [
+        {
+          "title": "Brazil plans aid packages for businesses impacted by Trump tariffs",
+          "url": "https://www.aljazeera.com/economy/2025/8/13/brazil-plans-aid-packages-for-businesses-impacted-by-trump-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "New Zealand Parliament ejects lawmaker over Israeli sanctions standoff",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/13/new-zealand-parliament-ejects-lawmaker-over-israeli-sanctions-standoff?traffic_source=rss"
+        },
+        {
+          "title": "US car sales slow after tariff-driven buying surge ends",
+          "url": "https://www.aljazeera.com/economy/2025/8/13/automakers-brace-for-profit-hits-as-tariffs-trigger-price-hikes?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011666461991894856,
+      "chg5d": 0.04352336085058561,
+      "chg1m": 0.018949145389322682
     }
   ]
 }
