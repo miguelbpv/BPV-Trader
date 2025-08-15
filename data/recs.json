@@ -1,74 +1,20 @@
 {
-  "generated_at": "2025-08-15T18:18:41.602054Z",
+  "generated_at": "2025-08-15T21:10:38.518014Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.16,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
-        },
-        {
-          "title": "How the world is reacting to Israel’s settlement plan in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/8/15/how-the-world-is-reacting-to-israels-settlement-plan-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben Gvir filmed threatening Marwan Barghouti in prison",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israels-ben-gvir-filmed-threatening-marwan-barghouti-in-prison?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah says Lebanon disarmament plan serves Israel, vows to keep weapons",
-          "url": "https://www.aljazeera.com/news/2025/8/15/hezbollah-says-lebanon-disarmament-plan-serves-israel-vows-to-keep-weapons?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon, Iran’s delicate diplomacy amid calls to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/8/15/lebanon-irans-delicate-diplomacy-amid-calls-to-disarm-hezbollah?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0036129150278971555,
-      "chg5d": 0.031177313629208427,
-      "chg1m": -0.06457800511508954
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.16,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
-        },
-        {
-          "title": "How the world is reacting to Israel’s settlement plan in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/8/15/how-the-world-is-reacting-to-israels-settlement-plan-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben Gvir filmed threatening Marwan Barghouti in prison",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israels-ben-gvir-filmed-threatening-marwan-barghouti-in-prison?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah says Lebanon disarmament plan serves Israel, vows to keep weapons",
-          "url": "https://www.aljazeera.com/news/2025/8/15/hezbollah-says-lebanon-disarmament-plan-serves-israel-vows-to-keep-weapons?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon, Iran’s delicate diplomacy amid calls to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/8/15/lebanon-irans-delicate-diplomacy-amid-calls-to-disarm-hezbollah?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006661991584852655,
-      "chg5d": 0.014129282938890717,
-      "chg1m": -0.0061158550657743034
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.16,
+      "score": 4.41,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
+        },
         {
           "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
@@ -80,19 +26,73 @@
         {
           "title": "Israel’s Ben Gvir filmed threatening Marwan Barghouti in prison",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israels-ben-gvir-filmed-threatening-marwan-barghouti-in-prison?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah says Lebanon disarmament plan serves Israel, vows to keep weapons",
-          "url": "https://www.aljazeera.com/news/2025/8/15/hezbollah-says-lebanon-disarmament-plan-serves-israel-vows-to-keep-weapons?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon, Iran’s delicate diplomacy amid calls to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/8/15/lebanon-irans-delicate-diplomacy-amid-calls-to-disarm-hezbollah?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.41,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
+        },
+        {
+          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
+        },
+        {
+          "title": "How the world is reacting to Israel’s settlement plan in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/8/15/how-the-world-is-reacting-to-israels-settlement-plan-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben Gvir filmed threatening Marwan Barghouti in prison",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israels-ben-gvir-filmed-threatening-marwan-barghouti-in-prison?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0005487972194274424,
+      "chg5d": 0.028029039306439883,
+      "chg1m": -0.06743393009377661
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.41,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
+        },
+        {
+          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
+        },
+        {
+          "title": "How the world is reacting to Israel’s settlement plan in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/8/15/how-the-world-is-reacting-to-israels-settlement-plan-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben Gvir filmed threatening Marwan Barghouti in prison",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israels-ben-gvir-filmed-threatening-marwan-barghouti-in-prison?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0074178735429176424,
+      "chg1m": -0.012693284098776764
     }
   ]
 }
