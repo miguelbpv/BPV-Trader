@@ -1,38 +1,15 @@
 {
-  "generated_at": "2025-08-15T06:19:52.579258Z",
+  "generated_at": "2025-08-15T09:14:15.646310Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.15,
-      "confianca": 32,
-      "razoes": [
-        {
-          "title": "Smotrich announces Israeli plan to split occupied West Bank in half",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/smotrich-announces-israeli-plan-to-split-occupied-west-bank-in-half?traffic_source=rss"
-        },
-        {
-          "title": "Why countries back Palestinian statehood but arm Israel",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/14/why-countries-back-palestinian-statehood-but-arm-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0009341429238673318,
-      "chg5d": 0.013864201919658748,
-      "chg1m": -0.0066179031696272286
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.15,
-      "confianca": 32,
+      "score": 0.5,
+      "confianca": 14,
       "razoes": [
         {
-          "title": "Smotrich announces Israeli plan to split occupied West Bank in half",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/smotrich-announces-israeli-plan-to-split-occupied-west-bank-in-half?traffic_source=rss"
-        },
-        {
-          "title": "Why countries back Palestinian statehood but arm Israel",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/14/why-countries-back-palestinian-statehood-but-arm-israel?traffic_source=rss"
+          "title": "Sewage floods Gaza’s Nasser Hospital after Israeli strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/sewage-floods-gazas-nasser-hospital-after-israeli-strike?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -42,21 +19,32 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.15,
-      "confianca": 32,
+      "score": 0.5,
+      "confianca": 14,
       "razoes": [
         {
-          "title": "Smotrich announces Israeli plan to split occupied West Bank in half",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/14/smotrich-announces-israeli-plan-to-split-occupied-west-bank-in-half?traffic_source=rss"
-        },
-        {
-          "title": "Why countries back Palestinian statehood but arm Israel",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/14/why-countries-back-palestinian-statehood-but-arm-israel?traffic_source=rss"
+          "title": "Sewage floods Gaza’s Nasser Hospital after Israeli strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/sewage-floods-gazas-nasser-hospital-after-israeli-strike?traffic_source=rss"
         }
       ],
       "chg1d": -0.011862530221207944,
       "chg5d": 0.015252466627974448,
       "chg1m": -0.07243302861263715
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.5,
+      "confianca": 14,
+      "razoes": [
+        {
+          "title": "Sewage floods Gaza’s Nasser Hospital after Israeli strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/sewage-floods-gazas-nasser-hospital-after-israeli-strike?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0009341429238673318,
+      "chg5d": 0.013864201919658748,
+      "chg1m": -0.0066179031696272286
     }
   ]
 }
