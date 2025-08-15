@@ -1,27 +1,51 @@
 {
-  "generated_at": "2025-08-15T09:14:15.646310Z",
+  "generated_at": "2025-08-15T12:24:39.865866Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Hezbollah says Lebanon disarmament plan serves Israel, vows to keep weapons",
+          "url": "https://www.aljazeera.com/news/2025/8/15/hezbollah-says-lebanon-disarmament-plan-serves-israel-vows-to-keep-weapons?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon, Iran’s delicate diplomacy amid calls to disarm Hezbollah",
+          "url": "https://www.aljazeera.com/news/2025/8/15/lebanon-irans-delicate-diplomacy-amid-calls-to-disarm-hezbollah?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians condemn Israel’s Ben-Gvir over Marwan Barghouti threat",
+          "url": "https://www.aljazeera.com/news/2025/8/15/palestinians-condemn-israels-ben-gvir-over-marwan-barghouti-threat?traffic_source=rss"
+        },
         {
           "title": "Sewage floods Gaza’s Nasser Hospital after Israeli strike",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/sewage-floods-gazas-nasser-hospital-after-israeli-strike?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.0009341429238673318,
+      "chg5d": 0.013864201919658748,
+      "chg1m": -0.0066179031696272286
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Hezbollah says Lebanon disarmament plan serves Israel, vows to keep weapons",
+          "url": "https://www.aljazeera.com/news/2025/8/15/hezbollah-says-lebanon-disarmament-plan-serves-israel-vows-to-keep-weapons?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon, Iran’s delicate diplomacy amid calls to disarm Hezbollah",
+          "url": "https://www.aljazeera.com/news/2025/8/15/lebanon-irans-delicate-diplomacy-amid-calls-to-disarm-hezbollah?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians condemn Israel’s Ben-Gvir over Marwan Barghouti threat",
+          "url": "https://www.aljazeera.com/news/2025/8/15/palestinians-condemn-israels-ben-gvir-over-marwan-barghouti-threat?traffic_source=rss"
+        },
         {
           "title": "Sewage floods Gaza’s Nasser Hospital after Israeli strike",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/sewage-floods-gazas-nasser-hospital-after-israeli-strike?traffic_source=rss"
@@ -32,19 +56,31 @@
       "chg1m": -0.07243302861263715
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Hezbollah says Lebanon disarmament plan serves Israel, vows to keep weapons",
+          "url": "https://www.aljazeera.com/news/2025/8/15/hezbollah-says-lebanon-disarmament-plan-serves-israel-vows-to-keep-weapons?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon, Iran’s delicate diplomacy amid calls to disarm Hezbollah",
+          "url": "https://www.aljazeera.com/news/2025/8/15/lebanon-irans-delicate-diplomacy-amid-calls-to-disarm-hezbollah?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians condemn Israel’s Ben-Gvir over Marwan Barghouti threat",
+          "url": "https://www.aljazeera.com/news/2025/8/15/palestinians-condemn-israels-ben-gvir-over-marwan-barghouti-threat?traffic_source=rss"
+        },
         {
           "title": "Sewage floods Gaza’s Nasser Hospital after Israeli strike",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/sewage-floods-gazas-nasser-hospital-after-israeli-strike?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0009341429238673318,
-      "chg5d": 0.013864201919658748,
-      "chg1m": -0.0066179031696272286
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
