@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-14T21:12:16.674839Z",
+  "generated_at": "2025-08-15T01:03:07.381932Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.75,
-      "confianca": 95,
+      "score": 2.5,
+      "confianca": 71,
       "razoes": [
         {
           "title": "Smotrich announces Israeli plan to split occupied West Bank in half",
@@ -18,14 +18,6 @@
         {
           "title": "What’s next for oil as OPEC+ and Trump shake the market?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/8/14/whats-next-for-oil-as-opec-and-trump-shake-the-market?traffic_source=rss"
-        },
-        {
-          "title": "The day Israeli settlers lynched two young men in the West Bank",
-          "url": "https://www.aljazeera.com/features/longform/2025/8/14/the-day-israeli-settlers-lynched-two-young-men-in-the-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza kill 35 people as four more die from malnutrition",
-          "url": "https://www.aljazeera.com/news/2025/8/14/israel-starves-four-more-people-in-gaza-to-death-kills-at-least-23?traffic_source=rss"
         }
       ],
       "chg1d": -0.0010509107893508106,
@@ -35,8 +27,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.75,
-      "confianca": 95,
+      "score": 2.5,
+      "confianca": 71,
       "razoes": [
         {
           "title": "Smotrich announces Israeli plan to split occupied West Bank in half",
@@ -49,14 +41,6 @@
         {
           "title": "What’s next for oil as OPEC+ and Trump shake the market?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/8/14/whats-next-for-oil-as-opec-and-trump-shake-the-market?traffic_source=rss"
-        },
-        {
-          "title": "The day Israeli settlers lynched two young men in the West Bank",
-          "url": "https://www.aljazeera.com/features/longform/2025/8/14/the-day-israeli-settlers-lynched-two-young-men-in-the-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza kill 35 people as four more die from malnutrition",
-          "url": "https://www.aljazeera.com/news/2025/8/14/israel-starves-four-more-people-in-gaza-to-death-kills-at-least-23?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,9 +49,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.41,
-      "confianca": 68,
+      "acao": "observar",
+      "score": 1.17,
+      "confianca": 33,
       "razoes": [
         {
           "title": "Smotrich announces Israeli plan to split occupied West Bank in half",
@@ -76,14 +60,6 @@
         {
           "title": "Why countries back Palestinian statehood but arm Israel",
           "url": "https://www.aljazeera.com/video/the-take-2/2025/8/14/why-countries-back-palestinian-statehood-but-arm-israel?traffic_source=rss"
-        },
-        {
-          "title": "The day Israeli settlers lynched two young men in the West Bank",
-          "url": "https://www.aljazeera.com/features/longform/2025/8/14/the-day-israeli-settlers-lynched-two-young-men-in-the-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza kill 35 people as four more die from malnutrition",
-          "url": "https://www.aljazeera.com/news/2025/8/14/israel-starves-four-more-people-in-gaza-to-death-kills-at-least-23?traffic_source=rss"
         }
       ],
       "chg1d": -0.011862530221207944,
@@ -91,24 +67,9 @@
       "chg1m": -0.07243302861263715
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.8,
-      "confianca": 22,
-      "razoes": [
-        {
-          "title": "Trump administration sanctions two Mexican drug cartels, announces bounties",
-          "url": "https://www.aljazeera.com/news/2025/8/14/trump-administration-sanctions-two-mexican-drug-cartels-announces-bounties?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0010241058767921495,
-      "chg5d": 0.05522338481979731,
-      "chg1m": 0.03481412109613577
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.8,
+      "score": 0.79,
       "confianca": 22,
       "razoes": [
         {
@@ -121,9 +82,24 @@
       "chg1m": 0.014480552281528867
     },
     {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.79,
+      "confianca": 22,
+      "razoes": [
+        {
+          "title": "Trump administration sanctions two Mexican drug cartels, announces bounties",
+          "url": "https://www.aljazeera.com/news/2025/8/14/trump-administration-sanctions-two-mexican-drug-cartels-announces-bounties?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0010241058767921495,
+      "chg5d": 0.05522338481979731,
+      "chg1m": 0.03481412109613577
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.8,
+      "score": 0.79,
       "confianca": 22,
       "razoes": [
         {
