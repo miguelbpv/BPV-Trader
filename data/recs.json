@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-08-16T06:17:44.783762Z",
+  "generated_at": "2025-08-16T09:12:59.604798Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Why is South Africa’s army chief under fire for backing Iran?",
-          "url": "https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
-        },
-        {
-          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0005487972194274424,
-      "chg5d": 0.028029039306439883,
-      "chg1m": -0.06743393009377661
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 2.9,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Why is South Africa’s army chief under fire for backing Iran?",
@@ -58,8 +31,8 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 2.9,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Why is South Africa’s army chief under fire for backing Iran?",
@@ -81,6 +54,33 @@
       "chg1d": 0.0,
       "chg5d": 0.0074178735429176424,
       "chg1m": -0.012693284098776764
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.9,
+      "confianca": 82,
+      "razoes": [
+        {
+          "title": "Why is South Africa’s army chief under fire for backing Iran?",
+          "url": "https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
+        },
+        {
+          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0005487972194274424,
+      "chg5d": 0.028029039306439883,
+      "chg1m": -0.06743393009377661
     }
   ]
 }
