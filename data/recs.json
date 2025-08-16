@@ -1,46 +1,19 @@
 {
-  "generated_at": "2025-08-16T12:22:38.017999Z",
+  "generated_at": "2025-08-16T15:11:37.414928Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 2.17,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "Why is South Africa’s army chief under fire for backing Iran?",
-          "url": "https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0005487972194274424,
-      "chg5d": 0.028029039306439883,
-      "chg1m": -0.06743393009377661
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 2.17,
-      "confianca": 62,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Arab, Islamic countries condemn Netanyahu’s ‘Greater Israel’ remark",
+          "url": "https://www.aljazeera.com/news/2025/8/16/arab-islamic-countries-condemn-netanyahus-greater-israel-remark?traffic_source=rss"
+        },
         {
           "title": "Why is South Africa’s army chief under fire for backing Iran?",
           "url": "https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,25 +23,40 @@
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.17,
-      "confianca": 62,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Arab, Islamic countries condemn Netanyahu’s ‘Greater Israel’ remark",
+          "url": "https://www.aljazeera.com/news/2025/8/16/arab-islamic-countries-condemn-netanyahus-greater-israel-remark?traffic_source=rss"
+        },
         {
           "title": "Why is South Africa’s army chief under fire for backing Iran?",
           "url": "https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Arab, Islamic countries condemn Netanyahu’s ‘Greater Israel’ remark",
+          "url": "https://www.aljazeera.com/news/2025/8/16/arab-islamic-countries-condemn-netanyahus-greater-israel-remark?traffic_source=rss"
+        },
+        {
+          "title": "Why is South Africa’s army chief under fire for backing Iran?",
+          "url": "https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0005487972194274424,
+      "chg5d": 0.028029039306439883,
+      "chg1m": -0.06743393009377661
     }
   ]
 }
