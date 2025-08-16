@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-16T09:12:59.604798Z",
+  "generated_at": "2025-08-16T12:22:38.017999Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.9,
-      "confianca": 82,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Why is South Africa’s army chief under fire for backing Iran?",
@@ -18,21 +18,17 @@
         {
           "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
           "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
-        },
-        {
-          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.0005487972194274424,
+      "chg5d": 0.028029039306439883,
+      "chg1m": -0.06743393009377661
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.9,
-      "confianca": 82,
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Why is South Africa’s army chief under fire for backing Iran?",
@@ -45,10 +41,6 @@
         {
           "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
           "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
-        },
-        {
-          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,10 +48,10 @@
       "chg1m": -0.012693284098776764
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.9,
-      "confianca": 82,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Why is South Africa’s army chief under fire for backing Iran?",
@@ -72,15 +64,11 @@
         {
           "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
           "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
-        },
-        {
-          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0005487972194274424,
-      "chg5d": 0.028029039306439883,
-      "chg1m": -0.06743393009377661
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
