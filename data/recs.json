@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-08-15T21:10:38.518014Z",
+  "generated_at": "2025-08-16T01:00:05.168756Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.41,
+      "score": 3.41,
       "confianca": 95,
       "razoes": [
         {
@@ -33,40 +33,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.41,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
-        },
-        {
-          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
-        },
-        {
-          "title": "How the world is reacting to Israel’s settlement plan in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/8/15/how-the-world-is-reacting-to-israels-settlement-plan-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben Gvir filmed threatening Marwan Barghouti in prison",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israels-ben-gvir-filmed-threatening-marwan-barghouti-in-prison?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0005487972194274424,
-      "chg5d": 0.028029039306439883,
-      "chg1m": -0.06743393009377661
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.41,
+      "score": 3.41,
       "confianca": 95,
       "razoes": [
         {
@@ -93,6 +62,37 @@
       "chg1d": 0.0,
       "chg5d": 0.0074178735429176424,
       "chg1m": -0.012693284098776764
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.41,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel targets emergency workers trying to help people trapped in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/15/israel-targets-emergency-workers-trying-to-help-people-trapped-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s aid rules demand “sensitive data, put staff at risk”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/15/israels-aid-rules-demand-sensitive-data-put-staff-at?traffic_source=rss"
+        },
+        {
+          "title": "Israeli police make arrests at rally for slain Al Jazeera journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss"
+        },
+        {
+          "title": "How the world is reacting to Israel’s settlement plan in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/8/15/how-the-world-is-reacting-to-israels-settlement-plan-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben Gvir filmed threatening Marwan Barghouti in prison",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/15/israels-ben-gvir-filmed-threatening-marwan-barghouti-in-prison?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0005487972194274424,
+      "chg5d": 0.028029039306439883,
+      "chg1m": -0.06743393009377661
     }
   ]
 }
