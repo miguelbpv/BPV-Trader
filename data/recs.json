@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-17T06:18:28.327842Z",
+  "generated_at": "2025-08-17T09:12:21.596447Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.86,
-      "confianca": 81,
+      "score": 2.89,
+      "confianca": 82,
       "razoes": [
+        {
+          "title": "Israel bombs Gaza City as part of takeover plan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/17/israel-bombs-gaza-city-as-part-of-takeover-plan?traffic_source=rss"
+        },
         {
           "title": "Israel preparing to forcibly displace Palestinians to southern Gaza",
           "url": "https://www.aljazeera.com/news/2025/8/16/israeli-attack-kills-baby-girl-in-gaza-as-more-palestinians-die-of-hunger?traffic_source=rss"
@@ -18,10 +22,33 @@
         {
           "title": "Arab, Islamic countries condemn Netanyahu’s ‘Greater Israel’ remark",
           "url": "https://www.aljazeera.com/news/2025/8/16/arab-islamic-countries-condemn-netanyahus-greater-israel-remark?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0074178735429176424,
+      "chg1m": -0.012693284098776764
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.89,
+      "confianca": 82,
+      "razoes": [
+        {
+          "title": "Israel bombs Gaza City as part of takeover plan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/17/israel-bombs-gaza-city-as-part-of-takeover-plan?traffic_source=rss"
         },
         {
-          "title": "Why is South Africa’s army chief under fire for backing Iran?",
-          "url": "https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss"
+          "title": "Israel preparing to forcibly displace Palestinians to southern Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/16/israeli-attack-kills-baby-girl-in-gaza-as-more-palestinians-die-of-hunger?traffic_source=rss"
+        },
+        {
+          "title": "‘Will I make it back alive?’: Gaza journalists fear targeting by Israel",
+          "url": "https://www.aljazeera.com/news/2025/8/16/will-i-make-it-back-alive-gaza-journalists-fear-targeting-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Arab, Islamic countries condemn Netanyahu’s ‘Greater Israel’ remark",
+          "url": "https://www.aljazeera.com/news/2025/8/16/arab-islamic-countries-condemn-netanyahus-greater-israel-remark?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,9 +58,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.86,
-      "confianca": 81,
+      "score": 2.89,
+      "confianca": 82,
       "razoes": [
+        {
+          "title": "Israel bombs Gaza City as part of takeover plan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/17/israel-bombs-gaza-city-as-part-of-takeover-plan?traffic_source=rss"
+        },
         {
           "title": "Israel preparing to forcibly displace Palestinians to southern Gaza",
           "url": "https://www.aljazeera.com/news/2025/8/16/israeli-attack-kills-baby-girl-in-gaza-as-more-palestinians-die-of-hunger?traffic_source=rss"
@@ -45,42 +76,11 @@
         {
           "title": "Arab, Islamic countries condemn Netanyahu’s ‘Greater Israel’ remark",
           "url": "https://www.aljazeera.com/news/2025/8/16/arab-islamic-countries-condemn-netanyahus-greater-israel-remark?traffic_source=rss"
-        },
-        {
-          "title": "Why is South Africa’s army chief under fire for backing Iran?",
-          "url": "https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0005487972194274424,
       "chg5d": 0.028029039306439883,
       "chg1m": -0.06743393009377661
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.86,
-      "confianca": 81,
-      "razoes": [
-        {
-          "title": "Israel preparing to forcibly displace Palestinians to southern Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/16/israeli-attack-kills-baby-girl-in-gaza-as-more-palestinians-die-of-hunger?traffic_source=rss"
-        },
-        {
-          "title": "‘Will I make it back alive?’: Gaza journalists fear targeting by Israel",
-          "url": "https://www.aljazeera.com/news/2025/8/16/will-i-make-it-back-alive-gaza-journalists-fear-targeting-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Arab, Islamic countries condemn Netanyahu’s ‘Greater Israel’ remark",
-          "url": "https://www.aljazeera.com/news/2025/8/16/arab-islamic-countries-condemn-netanyahus-greater-israel-remark?traffic_source=rss"
-        },
-        {
-          "title": "Why is South Africa’s army chief under fire for backing Iran?",
-          "url": "https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0074178735429176424,
-      "chg1m": -0.012693284098776764
     }
   ]
 }
