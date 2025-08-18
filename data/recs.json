@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-18T15:14:24.876581Z",
+  "generated_at": "2025-08-18T18:19:04.666967Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.8,
-      "confianca": 95,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
+          "url": "https://www.aljazeera.com/news/2025/8/18/irans-president-visits-armenia-for-talks-on-us-backed-azerbaijan-corridor?traffic_source=rss"
+        },
         {
           "title": "Israelis hold major protests and strike against Gaza war",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
@@ -14,18 +18,29 @@
         {
           "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0048503973819542575,
+      "chg5d": 0.010623145400593425,
+      "chg1m": -0.00948115402512794
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
+          "url": "https://www.aljazeera.com/news/2025/8/18/irans-president-visits-armenia-for-talks-on-us-backed-azerbaijan-corridor?traffic_source=rss"
         },
         {
-          "title": "Amnesty slams Israel for ‘deliberately starving’ Palestinians in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/18/amnesty-slams-israel-for-deliberately-starving-palestinians-in-gaza?traffic_source=rss"
+          "title": "Israelis hold major protests and strike against Gaza war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
         },
         {
-          "title": "Israel starving Gaza: 263 dead from starvation, including 112 children",
-          "url": "https://www.aljazeera.com/news/2025/8/18/israel-starving-gaza-hundreds-of-deaths-including-many-children?traffic_source=rss"
-        },
-        {
-          "title": "India’s purchase of Russian oil has to stop, says US trade adviser",
-          "url": "https://www.aljazeera.com/news/2025/8/18/us-adviser-navarro-pushes-india-to-end-its-purchase-of-russian-crude?traffic_source=rss"
+          "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
+          "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,42 +48,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.8,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israelis hold major protests and strike against Gaza war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
-        },
-        {
-          "title": "Amnesty slams Israel for ‘deliberately starving’ Palestinians in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/18/amnesty-slams-israel-for-deliberately-starving-palestinians-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel starving Gaza: 263 dead from starvation, including 112 children",
-          "url": "https://www.aljazeera.com/news/2025/8/18/israel-starving-gaza-hundreds-of-deaths-including-many-children?traffic_source=rss"
-        },
-        {
-          "title": "India’s purchase of Russian oil has to stop, says US trade adviser",
-          "url": "https://www.aljazeera.com/news/2025/8/18/us-adviser-navarro-pushes-india-to-end-its-purchase-of-russian-crude?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004441327723235103,
-      "chg5d": 0.011038575667655866,
-      "chg1m": -0.009073987901349313
-    },
-    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.46,
-      "confianca": 70,
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
+          "url": "https://www.aljazeera.com/news/2025/8/18/irans-president-visits-armenia-for-talks-on-us-backed-azerbaijan-corridor?traffic_source=rss"
+        },
         {
           "title": "Israelis hold major protests and strike against Gaza war",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
@@ -76,19 +64,11 @@
         {
           "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
-        },
-        {
-          "title": "Amnesty slams Israel for ‘deliberately starving’ Palestinians in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/18/amnesty-slams-israel-for-deliberately-starving-palestinians-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel starving Gaza: 263 dead from starvation, including 112 children",
-          "url": "https://www.aljazeera.com/news/2025/8/18/israel-starving-gaza-hundreds-of-deaths-including-many-children?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0106956760215742,
-      "chg5d": 0.03748885656641491,
-      "chg1m": -0.04681438055004736
+      "chg1d": 0.010787092055946546,
+      "chg5d": 0.03758269600713175,
+      "chg1m": -0.046728166221225984
     }
   ]
 }
