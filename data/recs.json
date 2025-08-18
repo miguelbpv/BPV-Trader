@@ -1,10 +1,33 @@
 {
-  "generated_at": "2025-08-18T03:57:49.077561Z",
+  "generated_at": "2025-08-18T06:21:18.395540Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.5,
+      "confianca": 71,
+      "razoes": [
+        {
+          "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
+          "url": "https://www.aljazeera.com/news/2025/8/17/israel-intensifies-gaza-city-attacks-forcing-starving-palestinians-to-flee?traffic_source=rss"
+        },
+        {
+          "title": "Newly obtained video shows Israeli missile hitting Palestinian girl in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/17/newly-obtained-video-shows-israeli-missile-hitting-palestinian-girl-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israelis protest to end Gaza war as anger over fate of captives boils over",
+          "url": "https://www.aljazeera.com/news/2025/8/17/israelis-hold-nationwide-protest-to-end-gaza-war-bring-back-the-hostages?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0005487972194274424,
+      "chg5d": 0.028029039306439883,
+      "chg1m": -0.06743393009377661
+    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.51,
+      "score": 2.5,
       "confianca": 71,
       "razoes": [
         {
@@ -27,7 +50,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.51,
+      "score": 2.5,
       "confianca": 71,
       "razoes": [
         {
@@ -46,29 +69,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.51,
-      "confianca": 71,
-      "razoes": [
-        {
-          "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
-          "url": "https://www.aljazeera.com/news/2025/8/17/israel-intensifies-gaza-city-attacks-forcing-starving-palestinians-to-flee?traffic_source=rss"
-        },
-        {
-          "title": "Newly obtained video shows Israeli missile hitting Palestinian girl in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/17/newly-obtained-video-shows-israeli-missile-hitting-palestinian-girl-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israelis protest to end Gaza war as anger over fate of captives boils over",
-          "url": "https://www.aljazeera.com/news/2025/8/17/israelis-hold-nationwide-protest-to-end-gaza-war-bring-back-the-hostages?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0005487972194274424,
-      "chg5d": 0.028029039306439883,
-      "chg1m": -0.06743393009377661
     }
   ]
 }
