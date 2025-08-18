@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-08-17T21:11:11.286681Z",
+  "generated_at": "2025-08-18T01:06:47.193056Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.28,
-      "confianca": 93,
-      "razoes": [
-        {
-          "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
-          "url": "https://www.aljazeera.com/news/2025/8/17/israel-intensifies-gaza-city-attacks-forcing-starving-palestinians-to-flee?traffic_source=rss"
-        },
-        {
-          "title": "Newly obtained video shows Israeli missile hitting Palestinian girl in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/17/newly-obtained-video-shows-israeli-missile-hitting-palestinian-girl-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israelis protest to end Gaza war as anger over fate of captives boils over",
-          "url": "https://www.aljazeera.com/news/2025/8/17/israelis-hold-nationwide-protest-to-end-gaza-war-bring-back-the-hostages?traffic_source=rss"
-        },
-        {
-          "title": "Israeli military bombs power plant near Yemeni capital Sanaa",
-          "url": "https://www.aljazeera.com/news/2025/8/17/israeli-military-bombs-power-plant-near-yemeni-capital-sanaa?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.28,
-      "confianca": 93,
+      "score": 3.25,
+      "confianca": 92,
       "razoes": [
         {
           "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
@@ -58,8 +31,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.28,
-      "confianca": 93,
+      "score": 3.25,
+      "confianca": 92,
       "razoes": [
         {
           "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
@@ -81,6 +54,33 @@
       "chg1d": 0.0005487972194274424,
       "chg5d": 0.028029039306439883,
       "chg1m": -0.06743393009377661
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.25,
+      "confianca": 92,
+      "razoes": [
+        {
+          "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
+          "url": "https://www.aljazeera.com/news/2025/8/17/israel-intensifies-gaza-city-attacks-forcing-starving-palestinians-to-flee?traffic_source=rss"
+        },
+        {
+          "title": "Newly obtained video shows Israeli missile hitting Palestinian girl in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/17/newly-obtained-video-shows-israeli-missile-hitting-palestinian-girl-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israelis protest to end Gaza war as anger over fate of captives boils over",
+          "url": "https://www.aljazeera.com/news/2025/8/17/israelis-hold-nationwide-protest-to-end-gaza-war-bring-back-the-hostages?traffic_source=rss"
+        },
+        {
+          "title": "Israeli military bombs power plant near Yemeni capital Sanaa",
+          "url": "https://www.aljazeera.com/news/2025/8/17/israeli-military-bombs-power-plant-near-yemeni-capital-sanaa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
