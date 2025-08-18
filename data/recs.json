@@ -1,74 +1,74 @@
 {
-  "generated_at": "2025-08-18T18:19:04.666967Z",
+  "generated_at": "2025-08-18T21:11:02.426513Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israeli attacks, forced starvation have killed 62,000 Palestinians in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/18/israeli-attacks-forced-starvation-have-killed-62000-palestinians-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
           "url": "https://www.aljazeera.com/news/2025/8/18/irans-president-visits-armenia-for-talks-on-us-backed-azerbaijan-corridor?traffic_source=rss"
         },
         {
-          "title": "Israelis hold major protests and strike against Gaza war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
+          "title": "Hamas accepts Gaza truce proposal as Israel signals will continue war",
+          "url": "https://www.aljazeera.com/news/2025/8/18/qatari-pm-egyptian-president-back-efforts-to-reach-gaza-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0048503973819542575,
-      "chg5d": 0.010623145400593425,
-      "chg1m": -0.00948115402512794
+      "chg1d": -0.005960729312763033,
+      "chg5d": 0.009495548961424299,
+      "chg1m": -0.010586319218241004
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Israeli attacks, forced starvation have killed 62,000 Palestinians in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/18/israeli-attacks-forced-starvation-have-killed-62000-palestinians-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
+          "url": "https://www.aljazeera.com/news/2025/8/18/irans-president-visits-armenia-for-talks-on-us-backed-azerbaijan-corridor?traffic_source=rss"
+        },
+        {
+          "title": "Hamas accepts Gaza truce proposal as Israel signals will continue war",
+          "url": "https://www.aljazeera.com/news/2025/8/18/qatari-pm-egyptian-president-back-efforts-to-reach-gaza-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007039034646676991,
+      "chg5d": 0.03373527893773752,
+      "chg1m": -0.050262953702905414
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israeli attacks, forced starvation have killed 62,000 Palestinians in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/18/israeli-attacks-forced-starvation-have-killed-62000-palestinians-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
           "url": "https://www.aljazeera.com/news/2025/8/18/irans-president-visits-armenia-for-talks-on-us-backed-azerbaijan-corridor?traffic_source=rss"
         },
         {
-          "title": "Israelis hold major protests and strike against Gaza war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
+          "title": "Hamas accepts Gaza truce proposal as Israel signals will continue war",
+          "url": "https://www.aljazeera.com/news/2025/8/18/qatari-pm-egyptian-president-back-efforts-to-reach-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
-          "url": "https://www.aljazeera.com/news/2025/8/18/irans-president-visits-armenia-for-talks-on-us-backed-azerbaijan-corridor?traffic_source=rss"
-        },
-        {
-          "title": "Israelis hold major protests and strike against Gaza war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010787092055946546,
-      "chg5d": 0.03758269600713175,
-      "chg1m": -0.046728166221225984
     }
   ]
 }
