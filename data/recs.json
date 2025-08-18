@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-18T12:27:03.795127Z",
+  "generated_at": "2025-08-18T15:14:24.876581Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.04,
+      "score": 3.8,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israelis hold major protests and strike against Gaza war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
+        },
         {
           "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "India’s purchase of Russian oil has to stop, says US trade adviser",
           "url": "https://www.aljazeera.com/news/2025/8/18/us-adviser-navarro-pushes-india-to-end-its-purchase-of-russian-crude?traffic_source=rss"
-        },
-        {
-          "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
-          "url": "https://www.aljazeera.com/news/2025/8/17/israel-intensifies-gaza-city-attacks-forcing-starving-palestinians-to-flee?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.04,
+      "score": 3.8,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israelis hold major protests and strike against Gaza war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
+        },
         {
           "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
@@ -53,22 +57,22 @@
         {
           "title": "India’s purchase of Russian oil has to stop, says US trade adviser",
           "url": "https://www.aljazeera.com/news/2025/8/18/us-adviser-navarro-pushes-india-to-end-its-purchase-of-russian-crude?traffic_source=rss"
-        },
-        {
-          "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
-          "url": "https://www.aljazeera.com/news/2025/8/17/israel-intensifies-gaza-city-attacks-forcing-starving-palestinians-to-flee?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0074178735429176424,
-      "chg1m": -0.012693284098776764
+      "chg1d": -0.004441327723235103,
+      "chg5d": 0.011038575667655866,
+      "chg1m": -0.009073987901349313
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
+      "score": 2.46,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Israelis hold major protests and strike against Gaza war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss"
+        },
         {
           "title": "Israel’s turn to ‘comply’: US envoy after Lebanon moves to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/8/18/need-israel-to-comply-us-envoy-says-as-lebanon-moves-to-disarm-hezbollah?traffic_source=rss"
@@ -80,15 +84,11 @@
         {
           "title": "Israel starving Gaza: 263 dead from starvation, including 112 children",
           "url": "https://www.aljazeera.com/news/2025/8/18/israel-starving-gaza-hundreds-of-deaths-including-many-children?traffic_source=rss"
-        },
-        {
-          "title": "Israel intensifies Gaza City attacks, forcing starving Palestinians to flee",
-          "url": "https://www.aljazeera.com/news/2025/8/17/israel-intensifies-gaza-city-attacks-forcing-starving-palestinians-to-flee?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0005487972194274424,
-      "chg5d": 0.028029039306439883,
-      "chg1m": -0.06743393009377661
+      "chg1d": 0.0106956760215742,
+      "chg5d": 0.03748885656641491,
+      "chg1m": -0.04681438055004736
     }
   ]
 }
