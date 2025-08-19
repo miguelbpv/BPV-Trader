@@ -1,33 +1,10 @@
 {
-  "generated_at": "2025-08-19T01:00:28.995045Z",
+  "generated_at": "2025-08-19T03:37:59.619704Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "Israeli attacks, forced starvation have killed 62,000 Palestinians in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/18/israeli-attacks-forced-starvation-have-killed-62000-palestinians-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
-          "url": "https://www.aljazeera.com/news/2025/8/18/irans-president-visits-armenia-for-talks-on-us-backed-azerbaijan-corridor?traffic_source=rss"
-        },
-        {
-          "title": "Hamas accepts Gaza truce proposal as Israel signals will continue war",
-          "url": "https://www.aljazeera.com/news/2025/8/18/qatari-pm-egyptian-president-back-efforts-to-reach-gaza-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005960729312763033,
-      "chg5d": 0.009495548961424299,
-      "chg1m": -0.010586319218241004
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.2,
+      "acao": "observar",
+      "score": 2.18,
       "confianca": 62,
       "razoes": [
         {
@@ -48,9 +25,32 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.18,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Israeli attacks, forced starvation have killed 62,000 Palestinians in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/18/israeli-attacks-forced-starvation-have-killed-62000-palestinians-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s president visits Armenia for talks on US-backed Azerbaijan corridor",
+          "url": "https://www.aljazeera.com/news/2025/8/18/irans-president-visits-armenia-for-talks-on-us-backed-azerbaijan-corridor?traffic_source=rss"
+        },
+        {
+          "title": "Hamas accepts Gaza truce proposal as Israel signals will continue war",
+          "url": "https://www.aljazeera.com/news/2025/8/18/qatari-pm-egyptian-president-back-efforts-to-reach-gaza-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005960729312763033,
+      "chg5d": 0.009495548961424299,
+      "chg1m": -0.010586319218241004
+    },
+    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.2,
+      "acao": "observar",
+      "score": 2.18,
       "confianca": 62,
       "razoes": [
         {
