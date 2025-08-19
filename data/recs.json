@@ -1,19 +1,75 @@
 {
-  "generated_at": "2025-08-19T18:17:38.966165Z",
+  "generated_at": "2025-08-19T21:11:58.596370Z",
   "recs": [
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump to raise steel and aluminium tariffs on hundreds of goods",
+          "url": "https://www.aljazeera.com/economy/2025/8/19/trump-to-raise-steel-and-aluminium-tariffs-on-hundreds-of-goods?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0052705504648517705,
+      "chg5d": 0.0024535245824290567,
+      "chg1m": 0.03325088928412637
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump to raise steel and aluminium tariffs on hundreds of goods",
+          "url": "https://www.aljazeera.com/economy/2025/8/19/trump-to-raise-steel-and-aluminium-tariffs-on-hundreds-of-goods?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01565950612326844,
+      "chg5d": -0.020027182603133957,
+      "chg1m": -0.007288924883579603
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump to raise steel and aluminium tariffs on hundreds of goods",
+          "url": "https://www.aljazeera.com/economy/2025/8/19/trump-to-raise-steel-and-aluminium-tariffs-on-hundreds-of-goods?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.03607969843834145,
+      "chg5d": -0.047443612100372526,
+      "chg1m": -0.02574837764287212
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Armenia reassures visiting Iran leader it will control Azerbaijan corridor",
+          "url": "https://www.aljazeera.com/news/2025/8/19/armenia-reassures-visiting-iran-leader-it-will-control-azerbaijan-corridor?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0010439360929557833,
+      "chg5d": 0.02210584854944856,
+      "chg1m": -0.04219051961870009
+    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Netanyahu says Israel ‘betrayed’ by Australia as relations plunge",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/19/netanyahu-says-israel-betrayed-by-australia-as-relations-plunge?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks displacement shelters to force Palestinians to southern Gaza",
-          "url": "https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss"
+          "title": "Armenia reassures visiting Iran leader it will control Azerbaijan corridor",
+          "url": "https://www.aljazeera.com/news/2025/8/19/armenia-reassures-visiting-iran-leader-it-will-control-azerbaijan-corridor?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -23,40 +79,17 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Netanyahu says Israel ‘betrayed’ by Australia as relations plunge",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/19/netanyahu-says-israel-betrayed-by-australia-as-relations-plunge?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks displacement shelters to force Palestinians to southern Gaza",
-          "url": "https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss"
+          "title": "Armenia reassures visiting Iran leader it will control Azerbaijan corridor",
+          "url": "https://www.aljazeera.com/news/2025/8/19/armenia-reassures-visiting-iran-leader-it-will-control-azerbaijan-corridor?traffic_source=rss"
         }
       ],
-      "chg1d": -0.003233392122280911,
-      "chg5d": 0.001358374675171381,
-      "chg1m": -0.003467732455624633
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Netanyahu says Israel ‘betrayed’ by Australia as relations plunge",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/19/netanyahu-says-israel-betrayed-by-australia-as-relations-plunge?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks displacement shelters to force Palestinians to southern Gaza",
-          "url": "https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0002155954974583045,
-      "chg5d": 0.021260079710816598,
-      "chg1m": -0.04298308470675083
+      "chg1d": 0.00011757789535573328,
+      "chg5d": 0.00472478147885667,
+      "chg1m": -0.00011755025273293648
     }
   ]
 }
