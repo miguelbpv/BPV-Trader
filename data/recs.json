@@ -1,31 +1,16 @@
 {
-  "generated_at": "2025-08-19T09:13:33.025647Z",
+  "generated_at": "2025-08-19T12:24:52.575820Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "In Israel, protests against war on Gaza are “growing”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/19/in-israel-protests-against-war-on-gaza-are?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks, forced starvation have killed 62,000 Palestinians in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/18/israeli-attacks-forced-starvation-have-killed-62000-palestinians-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
+        {
+          "title": "Israeli politician forcibly removed from Knesset podium",
+          "url": "https://www.aljazeera.com/video/unmute/2025/8/19/israeli-politician-forcibly-removed-from-knesset-podium?traffic_source=rss"
+        },
         {
           "title": "In Israel, protests against war on Gaza are “growing”",
           "url": "https://www.aljazeera.com/video/quotable/2025/8/19/in-israel-protests-against-war-on-gaza-are?traffic_source=rss"
@@ -41,10 +26,14 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
+        {
+          "title": "Israeli politician forcibly removed from Knesset podium",
+          "url": "https://www.aljazeera.com/video/unmute/2025/8/19/israeli-politician-forcibly-removed-from-knesset-podium?traffic_source=rss"
+        },
         {
           "title": "In Israel, protests against war on Gaza are “growing”",
           "url": "https://www.aljazeera.com/video/quotable/2025/8/19/in-israel-protests-against-war-on-gaza-are?traffic_source=rss"
@@ -57,6 +46,29 @@
       "chg1d": -0.005960729312763033,
       "chg5d": 0.009495548961424299,
       "chg1m": -0.010586319218241004
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Israeli politician forcibly removed from Knesset podium",
+          "url": "https://www.aljazeera.com/video/unmute/2025/8/19/israeli-politician-forcibly-removed-from-knesset-podium?traffic_source=rss"
+        },
+        {
+          "title": "In Israel, protests against war on Gaza are “growing”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/19/in-israel-protests-against-war-on-gaza-are?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks, forced starvation have killed 62,000 Palestinians in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/18/israeli-attacks-forced-starvation-have-killed-62000-palestinians-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
