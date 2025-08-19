@@ -1,65 +1,11 @@
 {
-  "generated_at": "2025-08-19T15:14:01.454225Z",
+  "generated_at": "2025-08-19T18:17:38.966165Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Netanyahu says Israel ‘betrayed’ by Australia as relations plunge",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/19/netanyahu-says-israel-betrayed-by-australia-as-relations-plunge?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks displacement shelters to force Palestinians to southern Gaza",
-          "url": "https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli politician forcibly removed from Knesset podium",
-          "url": "https://www.aljazeera.com/video/unmute/2025/8/19/israeli-politician-forcibly-removed-from-knesset-podium?traffic_source=rss"
-        },
-        {
-          "title": "In Israel, protests against war on Gaza are “growing”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/19/in-israel-protests-against-war-on-gaza-are?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004913307915758943,
-      "chg5d": 0.026056631754564845,
-      "chg1m": -0.03848826352246318
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Netanyahu says Israel ‘betrayed’ by Australia as relations plunge",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/19/netanyahu-says-israel-betrayed-by-australia-as-relations-plunge?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks displacement shelters to force Palestinians to southern Gaza",
-          "url": "https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli politician forcibly removed from Knesset podium",
-          "url": "https://www.aljazeera.com/video/unmute/2025/8/19/israeli-politician-forcibly-removed-from-knesset-podium?traffic_source=rss"
-        },
-        {
-          "title": "In Israel, protests against war on Gaza are “growing”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/19/in-israel-protests-against-war-on-gaza-are?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002351557907113496,
-      "chg5d": 0.00696905268131353,
-      "chg1m": 0.002115904549194861
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Netanyahu says Israel ‘betrayed’ by Australia as relations plunge",
@@ -68,19 +14,49 @@
         {
           "title": "Israel attacks displacement shelters to force Palestinians to southern Gaza",
           "url": "https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli politician forcibly removed from Knesset podium",
-          "url": "https://www.aljazeera.com/video/unmute/2025/8/19/israeli-politician-forcibly-removed-from-knesset-podium?traffic_source=rss"
-        },
-        {
-          "title": "In Israel, protests against war on Gaza are “growing”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/19/in-israel-protests-against-war-on-gaza-are?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Netanyahu says Israel ‘betrayed’ by Australia as relations plunge",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/19/netanyahu-says-israel-betrayed-by-australia-as-relations-plunge?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacks displacement shelters to force Palestinians to southern Gaza",
+          "url": "https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.003233392122280911,
+      "chg5d": 0.001358374675171381,
+      "chg1m": -0.003467732455624633
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Netanyahu says Israel ‘betrayed’ by Australia as relations plunge",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/19/netanyahu-says-israel-betrayed-by-australia-as-relations-plunge?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacks displacement shelters to force Palestinians to southern Gaza",
+          "url": "https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0002155954974583045,
+      "chg5d": 0.021260079710816598,
+      "chg1m": -0.04298308470675083
     }
   ]
 }
