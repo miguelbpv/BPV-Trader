@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-20T00:58:26.916669Z",
+  "generated_at": "2025-08-20T03:36:48.447845Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Israel’s Netanyahu lashes out at France’s Macron, Australian PM Albanese",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israels-netanyahu-lashes-out-at-frances-macron-australian-pm-albanese?traffic_source=rss"
+        },
         {
           "title": "How was an alleged Israeli ‘child sex predator’ allowed to leave the US?",
           "url": "https://www.aljazeera.com/news/2025/8/19/how-was-an-alleged-israeli-child-sex-predator-allowed-to-leave-the-us?traffic_source=rss"
@@ -29,11 +33,46 @@
       "chg1m": -0.04219051961870009
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.2,
+      "confianca": 91,
+      "razoes": [
+        {
+          "title": "Israel’s Netanyahu lashes out at France’s Macron, Australian PM Albanese",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israels-netanyahu-lashes-out-at-frances-macron-australian-pm-albanese?traffic_source=rss"
+        },
+        {
+          "title": "How was an alleged Israeli ‘child sex predator’ allowed to leave the US?",
+          "url": "https://www.aljazeera.com/news/2025/8/19/how-was-an-alleged-israeli-child-sex-predator-allowed-to-leave-the-us?traffic_source=rss"
+        },
+        {
+          "title": "At least 71 die in bus crash involving Afghans deported from Iran",
+          "url": "https://www.aljazeera.com/news/2025/8/19/more-than-70-killed-after-bus-carrying-returning-afghans-hits-truck?traffic_source=rss"
+        },
+        {
+          "title": "Israel has killed nearly 19,000 children in Gaza war as strikes intensify",
+          "url": "https://www.aljazeera.com/news/2025/8/19/israel-has-killed-nearly-19000-children-in-gaza-war-as-strikes-intensify?traffic_source=rss"
+        },
+        {
+          "title": "Armenia reassures visiting Iran leader it will control Azerbaijan corridor",
+          "url": "https://www.aljazeera.com/news/2025/8/19/armenia-reassures-visiting-iran-leader-it-will-control-azerbaijan-corridor?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00035273368606703276,
+      "chg5d": 0.004961020552799454,
+      "chg1m": 0.00011755025273310353
+    },
+    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Israel’s Netanyahu lashes out at France’s Macron, Australian PM Albanese",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israels-netanyahu-lashes-out-at-frances-macron-australian-pm-albanese?traffic_source=rss"
+        },
         {
           "title": "How was an alleged Israeli ‘child sex predator’ allowed to leave the US?",
           "url": "https://www.aljazeera.com/news/2025/8/19/how-was-an-alleged-israeli-child-sex-predator-allowed-to-leave-the-us?traffic_source=rss"
@@ -56,36 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
-      "razoes": [
-        {
-          "title": "How was an alleged Israeli ‘child sex predator’ allowed to leave the US?",
-          "url": "https://www.aljazeera.com/news/2025/8/19/how-was-an-alleged-israeli-child-sex-predator-allowed-to-leave-the-us?traffic_source=rss"
-        },
-        {
-          "title": "At least 71 die in bus crash involving Afghans deported from Iran",
-          "url": "https://www.aljazeera.com/news/2025/8/19/more-than-70-killed-after-bus-carrying-returning-afghans-hits-truck?traffic_source=rss"
-        },
-        {
-          "title": "Israel has killed nearly 19,000 children in Gaza war as strikes intensify",
-          "url": "https://www.aljazeera.com/news/2025/8/19/israel-has-killed-nearly-19000-children-in-gaza-war-as-strikes-intensify?traffic_source=rss"
-        },
-        {
-          "title": "Armenia reassures visiting Iran leader it will control Azerbaijan corridor",
-          "url": "https://www.aljazeera.com/news/2025/8/19/armenia-reassures-visiting-iran-leader-it-will-control-azerbaijan-corridor?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00011757789535573328,
-      "chg5d": 0.00472478147885667,
-      "chg1m": -0.00011755025273293648
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -98,24 +110,9 @@
       "chg1m": 0.03325088928412637
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump to raise steel and aluminium tariffs on hundreds of goods",
-          "url": "https://www.aljazeera.com/economy/2025/8/19/trump-to-raise-steel-and-aluminium-tariffs-on-hundreds-of-goods?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.03607969843834145,
-      "chg5d": -0.047443612100372526,
-      "chg1m": -0.02574837764287212
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -126,6 +123,21 @@
       "chg1d": -0.01565950612326844,
       "chg5d": -0.020027182603133957,
       "chg1m": -0.007288924883579603
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump to raise steel and aluminium tariffs on hundreds of goods",
+          "url": "https://www.aljazeera.com/economy/2025/8/19/trump-to-raise-steel-and-aluminium-tariffs-on-hundreds-of-goods?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.03607969843834145,
+      "chg5d": -0.047443612100372526,
+      "chg1m": -0.02574837764287212
     }
   ]
 }
