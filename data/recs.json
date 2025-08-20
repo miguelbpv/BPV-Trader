@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-20T18:18:21.286870Z",
+  "generated_at": "2025-08-20T21:11:38.794142Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.9,
-      "confianca": 95,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
+        },
         {
           "title": "Israel Denies Gaza Famine: What’s the Evidence?",
           "url": "https://www.aljazeera.com/video/fact-check/2025/8/20/israel-denies-gaza-famine-whats-the-evidence?traffic_source=rss"
@@ -18,81 +22,65 @@
         {
           "title": "Iran says moment for ‘effective’ nuclear talks with US not yet reached",
           "url": "https://www.aljazeera.com/news/2025/8/20/iran-says-moment-for-effective-nuclear-talks-with-us-not-yet-reached?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01110859215597365,
+      "chg5d": 0.007750186411189206,
+      "chg1m": 0.08584506013536541
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
         },
         {
-          "title": "Palestinian woman rescued from rubble after Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/palestinian-woman-rescued-from-rubble-after-israeli-strike?traffic_source=rss"
+          "title": "Israel Denies Gaza Famine: What’s the Evidence?",
+          "url": "https://www.aljazeera.com/video/fact-check/2025/8/20/israel-denies-gaza-famine-whats-the-evidence?traffic_source=rss"
         },
         {
-          "title": "Italian football coaches seek suspension of Israel World Cup ties",
-          "url": "https://www.aljazeera.com/sports/2025/8/20/italian-football-coaches-seek-suspension-of-israel-world-cup-ties?traffic_source=rss"
+          "title": "Bus crash fire kills dozens of Afghans deported from Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/bus-crash-fire-kills-dozens-of-afghans-deported-from-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iran says moment for ‘effective’ nuclear talks with US not yet reached",
+          "url": "https://www.aljazeera.com/news/2025/8/20/iran-says-moment-for-effective-nuclear-talks-with-us-not-yet-reached?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008462623413258097,
+      "chg5d": 0.0018682858477346636,
+      "chg1m": 0.003861003861003841
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
+        },
+        {
+          "title": "Israel Denies Gaza Famine: What’s the Evidence?",
+          "url": "https://www.aljazeera.com/video/fact-check/2025/8/20/israel-denies-gaza-famine-whats-the-evidence?traffic_source=rss"
+        },
+        {
+          "title": "Bus crash fire kills dozens of Afghans deported from Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/bus-crash-fire-kills-dozens-of-afghans-deported-from-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iran says moment for ‘effective’ nuclear talks with US not yet reached",
+          "url": "https://www.aljazeera.com/news/2025/8/20/iran-says-moment-for-effective-nuclear-talks-with-us-not-yet-reached?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.9,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel Denies Gaza Famine: What’s the Evidence?",
-          "url": "https://www.aljazeera.com/video/fact-check/2025/8/20/israel-denies-gaza-famine-whats-the-evidence?traffic_source=rss"
-        },
-        {
-          "title": "Bus crash fire kills dozens of Afghans deported from Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/bus-crash-fire-kills-dozens-of-afghans-deported-from-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran says moment for ‘effective’ nuclear talks with US not yet reached",
-          "url": "https://www.aljazeera.com/news/2025/8/20/iran-says-moment-for-effective-nuclear-talks-with-us-not-yet-reached?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian woman rescued from rubble after Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/palestinian-woman-rescued-from-rubble-after-israeli-strike?traffic_source=rss"
-        },
-        {
-          "title": "Italian football coaches seek suspension of Israel World Cup ties",
-          "url": "https://www.aljazeera.com/sports/2025/8/20/italian-football-coaches-seek-suspension-of-israel-world-cup-ties?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008614826569938686,
-      "chg5d": 0.005264703888650347,
-      "chg1m": 0.08316696693772208
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.9,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel Denies Gaza Famine: What’s the Evidence?",
-          "url": "https://www.aljazeera.com/video/fact-check/2025/8/20/israel-denies-gaza-famine-whats-the-evidence?traffic_source=rss"
-        },
-        {
-          "title": "Bus crash fire kills dozens of Afghans deported from Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/bus-crash-fire-kills-dozens-of-afghans-deported-from-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran says moment for ‘effective’ nuclear talks with US not yet reached",
-          "url": "https://www.aljazeera.com/news/2025/8/20/iran-says-moment-for-effective-nuclear-talks-with-us-not-yet-reached?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian woman rescued from rubble after Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/palestinian-woman-rescued-from-rubble-after-israeli-strike?traffic_source=rss"
-        },
-        {
-          "title": "Italian football coaches seek suspension of Israel World Cup ties",
-          "url": "https://www.aljazeera.com/sports/2025/8/20/italian-football-coaches-seek-suspension-of-israel-world-cup-ties?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0095204513399154,
-      "chg5d": 0.002919196637085474,
-      "chg1m": 0.004914004914004934
     },
     {
       "symbol": "SOXX",
@@ -101,17 +89,17 @@
       "confianca": 55,
       "razoes": [
         {
-          "title": "US expands sanctions targeting International Criminal Court",
-          "url": "https://www.aljazeera.com/news/2025/8/20/us-expands-sanctions-targeting-international-criminal-court?traffic_source=rss"
+          "title": "UN criticises new US sanctions on the ICC",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
         },
         {
-          "title": "Did Trump’s tariff war force India and China to mend ties?",
-          "url": "https://www.aljazeera.com/news/2025/8/20/did-trumps-tariff-war-force-india-and-china-to-mend-ties?traffic_source=rss"
+          "title": "US expands sanctions targeting International Criminal Court",
+          "url": "https://www.aljazeera.com/news/2025/8/20/us-expands-sanctions-targeting-international-criminal-court?traffic_source=rss"
         }
       ],
-      "chg1d": -0.018152151743830378,
-      "chg5d": -0.051914290215850034,
-      "chg1m": -0.01166132873449948
+      "chg1d": -0.005751580664899027,
+      "chg5d": -0.039940129194895174,
+      "chg1m": 0.0008212203334155254
     },
     {
       "symbol": "TSM",
@@ -120,17 +108,17 @@
       "confianca": 55,
       "razoes": [
         {
-          "title": "US expands sanctions targeting International Criminal Court",
-          "url": "https://www.aljazeera.com/news/2025/8/20/us-expands-sanctions-targeting-international-criminal-court?traffic_source=rss"
+          "title": "UN criticises new US sanctions on the ICC",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
         },
         {
-          "title": "Did Trump’s tariff war force India and China to mend ties?",
-          "url": "https://www.aljazeera.com/news/2025/8/20/did-trumps-tariff-war-force-india-and-china-to-mend-ties?traffic_source=rss"
+          "title": "US expands sanctions targeting International Criminal Court",
+          "url": "https://www.aljazeera.com/news/2025/8/20/us-expands-sanctions-targeting-international-criminal-court?traffic_source=rss"
         }
       ],
-      "chg1d": -0.026889987107864145,
-      "chg5d": -0.06211605367793239,
-      "chg1m": -0.03477109974424549
+      "chg1d": -0.017619252256123742,
+      "chg5d": -0.05318091451292248,
+      "chg1m": -0.02557544757033248
     },
     {
       "symbol": "ASML.AS",
@@ -139,68 +127,38 @@
       "confianca": 55,
       "razoes": [
         {
-          "title": "US expands sanctions targeting International Criminal Court",
-          "url": "https://www.aljazeera.com/news/2025/8/20/us-expands-sanctions-targeting-international-criminal-court?traffic_source=rss"
+          "title": "UN criticises new US sanctions on the ICC",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
         },
         {
-          "title": "Did Trump’s tariff war force India and China to mend ties?",
-          "url": "https://www.aljazeera.com/news/2025/8/20/did-trumps-tariff-war-force-india-and-china-to-mend-ties?traffic_source=rss"
+          "title": "US expands sanctions targeting International Criminal Court",
+          "url": "https://www.aljazeera.com/news/2025/8/20/us-expands-sanctions-targeting-international-criminal-court?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0017480937588251631,
-      "chg5d": -0.017549532141297317,
-      "chg1m": 0.05220573226739243
+      "chg1d": 0.007907370799209256,
+      "chg5d": -0.008046904985640034,
+      "chg1m": 0.062383058343255644
     },
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
           "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011189572793704337,
-      "chg5d": -0.03003411793086822,
-      "chg1m": 0.0029576837416480503
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
-          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006158078179459435,
-      "chg5d": -0.013986881483663853,
-      "chg1m": 0.011147155169672091
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
-          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00680783342911463,
-      "chg5d": -0.028327999308018388,
-      "chg1m": 0.006270434899448995
+      "chg1d": -0.0059373243395165745,
+      "chg5d": -0.024881965744218998,
+      "chg1m": 0.008285077951002187
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
@@ -210,6 +168,36 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
+          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.002657038808396136,
+      "chg5d": -0.010513420893485668,
+      "chg1m": 0.014709156250993862
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
+          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0033597100039786895,
+      "chg5d": -0.024954588703399404,
+      "chg1m": 0.009763962914856355
     }
   ]
 }
