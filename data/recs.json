@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-08-20T09:14:01.227265Z",
+  "generated_at": "2025-08-20T12:24:52.188081Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.78,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What is Israel’s ‘most moral army in the world’ doing in Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/8/20/what-is-israels-most-moral-army-in-the-world-doing-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Australian MP tells Israel: ‘Strength is not measured in bombs and hunger’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/australian-mp-tells-israel-strength-is-not-measured-in-bombs-and?traffic_source=rss"
-        },
-        {
-          "title": "Why is the US sparing China, but not India, for importing Russian oil?",
-          "url": "https://www.aljazeera.com/news/2025/8/20/why-is-the-us-sparing-china-but-not-india-for-importing-russian-oil?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu lashes out at France’s Macron, Australian PM Albanese",
-          "url": "https://www.aljazeera.com/news/2025/8/20/israels-netanyahu-lashes-out-at-frances-macron-australian-pm-albanese?traffic_source=rss"
-        },
-        {
-          "title": "How was an alleged Israeli ‘child sex predator’ allowed to leave the US?",
-          "url": "https://www.aljazeera.com/news/2025/8/19/how-was-an-alleged-israeli-child-sex-predator-allowed-to-leave-the-us?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.78,
+      "score": 4.31,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel to call up 60,000 reservists in plan to expand war, seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israel-to-call-up-60000-reservists-in-plan-to-expand-war-seize-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Heavy rain floods streets in Yemen’s Sanaa and Aden",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/heavy-rain-floods-streets-in-yemens-sanaa-and-aden?traffic_source=rss"
+        },
         {
           "title": "What is Israel’s ‘most moral army in the world’ doing in Gaza?",
           "url": "https://www.aljazeera.com/news/2025/8/20/what-is-israels-most-moral-army-in-the-world-doing-in-gaza?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Why is the US sparing China, but not India, for importing Russian oil?",
           "url": "https://www.aljazeera.com/news/2025/8/20/why-is-the-us-sparing-china-but-not-india-for-importing-russian-oil?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu lashes out at France’s Macron, Australian PM Albanese",
-          "url": "https://www.aljazeera.com/news/2025/8/20/israels-netanyahu-lashes-out-at-frances-macron-australian-pm-albanese?traffic_source=rss"
-        },
-        {
-          "title": "How was an alleged Israeli ‘child sex predator’ allowed to leave the US?",
-          "url": "https://www.aljazeera.com/news/2025/8/19/how-was-an-alleged-israeli-child-sex-predator-allowed-to-leave-the-us?traffic_source=rss"
         }
       ],
       "chg1d": 0.00035273368606703276,
@@ -64,11 +33,19 @@
       "chg1m": 0.00011755025273310353
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.44,
+      "score": 4.31,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel to call up 60,000 reservists in plan to expand war, seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israel-to-call-up-60000-reservists-in-plan-to-expand-war-seize-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Heavy rain floods streets in Yemen’s Sanaa and Aden",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/heavy-rain-floods-streets-in-yemens-sanaa-and-aden?traffic_source=rss"
+        },
         {
           "title": "What is Israel’s ‘most moral army in the world’ doing in Gaza?",
           "url": "https://www.aljazeera.com/news/2025/8/20/what-is-israels-most-moral-army-in-the-world-doing-in-gaza?traffic_source=rss"
@@ -78,16 +55,35 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/australian-mp-tells-israel-strength-is-not-measured-in-bombs-and?traffic_source=rss"
         },
         {
-          "title": "Israel’s Netanyahu lashes out at France’s Macron, Australian PM Albanese",
-          "url": "https://www.aljazeera.com/news/2025/8/20/israels-netanyahu-lashes-out-at-frances-macron-australian-pm-albanese?traffic_source=rss"
+          "title": "Why is the US sparing China, but not India, for importing Russian oil?",
+          "url": "https://www.aljazeera.com/news/2025/8/20/why-is-the-us-sparing-china-but-not-india-for-importing-russian-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.97,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Israel to call up 60,000 reservists in plan to expand war, seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israel-to-call-up-60000-reservists-in-plan-to-expand-war-seize-gaza-city?traffic_source=rss"
         },
         {
-          "title": "How was an alleged Israeli ‘child sex predator’ allowed to leave the US?",
-          "url": "https://www.aljazeera.com/news/2025/8/19/how-was-an-alleged-israeli-child-sex-predator-allowed-to-leave-the-us?traffic_source=rss"
+          "title": "Heavy rain floods streets in Yemen’s Sanaa and Aden",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/heavy-rain-floods-streets-in-yemens-sanaa-and-aden?traffic_source=rss"
         },
         {
-          "title": "At least 71 die in bus crash involving Afghans deported from Iran",
-          "url": "https://www.aljazeera.com/news/2025/8/19/more-than-70-killed-after-bus-carrying-returning-afghans-hits-truck?traffic_source=rss"
+          "title": "What is Israel’s ‘most moral army in the world’ doing in Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/8/20/what-is-israels-most-moral-army-in-the-world-doing-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Australian MP tells Israel: ‘Strength is not measured in bombs and hunger’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/australian-mp-tells-israel-strength-is-not-measured-in-bombs-and?traffic_source=rss"
         }
       ],
       "chg1d": 0.0010439360929557833,
@@ -95,9 +91,9 @@
       "chg1m": -0.04219051961870009
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -105,14 +101,14 @@
           "url": "https://www.aljazeera.com/news/2025/8/20/how-will-trumps-semiconductor-tariffs-affect-the-global-chip-industry?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01565950612326844,
-      "chg5d": -0.020027182603133957,
-      "chg1m": -0.007288924883579603
+      "chg1d": -0.0052705504648517705,
+      "chg5d": 0.0024535245824290567,
+      "chg1m": 0.03325088928412637
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -125,9 +121,9 @@
       "chg1m": -0.02574837764287212
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -135,9 +131,9 @@
           "url": "https://www.aljazeera.com/news/2025/8/20/how-will-trumps-semiconductor-tariffs-affect-the-global-chip-industry?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0052705504648517705,
-      "chg5d": 0.0024535245824290567,
-      "chg1m": 0.03325088928412637
+      "chg1d": -0.01565950612326844,
+      "chg5d": -0.020027182603133957,
+      "chg1m": -0.007288924883579603
     }
   ]
 }
