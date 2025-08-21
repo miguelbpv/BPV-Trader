@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-08-21T06:28:36.749776Z",
+  "generated_at": "2025-08-21T09:13:51.544960Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 3.45,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Horrific aftermath of Israeli attack on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/21/horrific-aftermath-of-israeli-attack-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu escalates attack on Australia’s Albanese as ties plunge",
+          "url": "https://www.aljazeera.com/news/2025/8/21/israels-netanyahu-escalates-attack-on-australias-albanese-as-ties-plunge?traffic_source=rss"
+        },
         {
           "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
           "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
@@ -18,10 +26,6 @@
         {
           "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,9 +35,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 3.45,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Horrific aftermath of Israeli attack on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/21/horrific-aftermath-of-israeli-attack-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu escalates attack on Australia’s Albanese as ties plunge",
+          "url": "https://www.aljazeera.com/news/2025/8/21/israels-netanyahu-escalates-attack-on-australias-albanese-as-ties-plunge?traffic_source=rss"
+        },
         {
           "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
           "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
@@ -45,10 +57,6 @@
         {
           "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
         }
       ],
       "chg1d": 0.008345086976962951,
@@ -58,9 +66,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 3.45,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Horrific aftermath of Israeli attack on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/21/horrific-aftermath-of-israeli-attack-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu escalates attack on Australia’s Albanese as ties plunge",
+          "url": "https://www.aljazeera.com/news/2025/8/21/israels-netanyahu-escalates-attack-on-australias-albanese-as-ties-plunge?traffic_source=rss"
+        },
         {
           "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
           "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
@@ -72,10 +88,6 @@
         {
           "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
         }
       ],
       "chg1d": 0.01110859215597365,
@@ -83,25 +95,25 @@
       "chg1m": 0.08584506013536541
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "UN criticises new US sanctions on the ICC",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005751580664899027,
-      "chg5d": -0.039940129194895174,
-      "chg1m": 0.0008212203334155254
+      "chg1d": 0.007907370799209256,
+      "chg5d": -0.008046904985640034,
+      "chg1m": 0.062383058343255644
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "UN criticises new US sanctions on the ICC",
@@ -113,19 +125,19 @@
       "chg1m": -0.02557544757033248
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "UN criticises new US sanctions on the ICC",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007907370799209256,
-      "chg5d": -0.008046904985640034,
-      "chg1m": 0.062383058343255644
+      "chg1d": -0.005751580664899027,
+      "chg5d": -0.039940129194895174,
+      "chg1m": 0.0008212203334155254
     }
   ]
 }
