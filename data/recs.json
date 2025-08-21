@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-08-21T09:13:51.544960Z",
+  "generated_at": "2025-08-21T12:24:42.680829Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.45,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Horrific aftermath of Israeli attack on Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/21/horrific-aftermath-of-israeli-attack-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu escalates attack on Australia’s Albanese as ties plunge",
-          "url": "https://www.aljazeera.com/news/2025/8/21/israels-netanyahu-escalates-attack-on-australias-albanese-as-ties-plunge?traffic_source=rss"
-        },
-        {
-          "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
-          "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
-        },
-        {
-          "title": "‘Moral imperative’: Hundreds of UK business leaders demand action on Israel",
-          "url": "https://www.aljazeera.com/news/2025/8/21/moral-imperative-hundreds-of-uk-business-leaders-demand-action-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.45,
+      "score": 3.93,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US college declines to oppose Trump travel ban after Iranian students’ plea",
+          "url": "https://www.aljazeera.com/news/2025/8/21/us-college-declines-to-oppose-trump-travel-ban-after-iranian-students-plea?traffic_source=rss"
+        },
+        {
+          "title": "US senators urge Rubio to press Israel over journalist killings",
+          "url": "https://www.aljazeera.com/news/2025/8/21/us-senators-urge-rubio-to-press-israel-over-journalist-killings?traffic_source=rss"
+        },
         {
           "title": "Horrific aftermath of Israeli attack on Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/21/horrific-aftermath-of-israeli-attack-on-gaza-city?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
           "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
-        },
-        {
-          "title": "‘Moral imperative’: Hundreds of UK business leaders demand action on Israel",
-          "url": "https://www.aljazeera.com/news/2025/8/21/moral-imperative-hundreds-of-uk-business-leaders-demand-action-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": 0.008345086976962951,
@@ -66,9 +35,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.45,
+      "score": 3.93,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US college declines to oppose Trump travel ban after Iranian students’ plea",
+          "url": "https://www.aljazeera.com/news/2025/8/21/us-college-declines-to-oppose-trump-travel-ban-after-iranian-students-plea?traffic_source=rss"
+        },
+        {
+          "title": "US senators urge Rubio to press Israel over journalist killings",
+          "url": "https://www.aljazeera.com/news/2025/8/21/us-senators-urge-rubio-to-press-israel-over-journalist-killings?traffic_source=rss"
+        },
         {
           "title": "Horrific aftermath of Israeli attack on Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/21/horrific-aftermath-of-israeli-attack-on-gaza-city?traffic_source=rss"
@@ -80,14 +57,6 @@
         {
           "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
           "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
-        },
-        {
-          "title": "‘Moral imperative’: Hundreds of UK business leaders demand action on Israel",
-          "url": "https://www.aljazeera.com/news/2025/8/21/moral-imperative-hundreds-of-uk-business-leaders-demand-action-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": 0.01110859215597365,
@@ -95,49 +64,35 @@
       "chg1m": 0.08584506013536541
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.93,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "UN criticises new US sanctions on the ICC",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007907370799209256,
-      "chg5d": -0.008046904985640034,
-      "chg1m": 0.062383058343255644
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
+          "title": "US college declines to oppose Trump travel ban after Iranian students’ plea",
+          "url": "https://www.aljazeera.com/news/2025/8/21/us-college-declines-to-oppose-trump-travel-ban-after-iranian-students-plea?traffic_source=rss"
+        },
         {
-          "title": "UN criticises new US sanctions on the ICC",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.017619252256123742,
-      "chg5d": -0.05318091451292248,
-      "chg1m": -0.02557544757033248
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
+          "title": "US senators urge Rubio to press Israel over journalist killings",
+          "url": "https://www.aljazeera.com/news/2025/8/21/us-senators-urge-rubio-to-press-israel-over-journalist-killings?traffic_source=rss"
+        },
         {
-          "title": "UN criticises new US sanctions on the ICC",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
+          "title": "Horrific aftermath of Israeli attack on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/21/horrific-aftermath-of-israeli-attack-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu escalates attack on Australia’s Albanese as ties plunge",
+          "url": "https://www.aljazeera.com/news/2025/8/21/israels-netanyahu-escalates-attack-on-australias-albanese-as-ties-plunge?traffic_source=rss"
+        },
+        {
+          "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
+          "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005751580664899027,
-      "chg5d": -0.039940129194895174,
-      "chg1m": 0.0008212203334155254
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
