@@ -1,12 +1,43 @@
 {
-  "generated_at": "2025-08-21T03:36:11.835836Z",
+  "generated_at": "2025-08-21T06:28:36.749776Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
+          "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
+        },
+        {
+          "title": "‘Moral imperative’: Hundreds of UK business leaders demand action on Israel",
+          "url": "https://www.aljazeera.com/news/2025/8/21/moral-imperative-hundreds-of-uk-business-leaders-demand-action-on-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
+          "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
+        },
         {
           "title": "‘Moral imperative’: Hundreds of UK business leaders demand action on Israel",
           "url": "https://www.aljazeera.com/news/2025/8/21/moral-imperative-hundreds-of-uk-business-leaders-demand-action-on-israel?traffic_source=rss"
@@ -25,34 +56,15 @@
       "chg1m": 0.0037440037440038304
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "‘Moral imperative’: Hundreds of UK business leaders demand action on Israel",
-          "url": "https://www.aljazeera.com/news/2025/8/21/moral-imperative-hundreds-of-uk-business-leaders-demand-action-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine",
+          "url": "https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss"
+        },
         {
           "title": "‘Moral imperative’: Hundreds of UK business leaders demand action on Israel",
           "url": "https://www.aljazeera.com/news/2025/8/21/moral-imperative-hundreds-of-uk-business-leaders-demand-action-on-israel?traffic_source=rss"
@@ -71,84 +83,9 @@
       "chg1m": 0.08584506013536541
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
-          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.002657038808396136,
-      "chg5d": -0.010513420893485668,
-      "chg1m": 0.014709156250993862
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
-          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0035365368462933174,
-      "chg5d": -0.025127584119020857,
-      "chg1m": 0.009584807632014988
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
-          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
-          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0059373243395165745,
-      "chg5d": -0.024881965744218998,
-      "chg1m": 0.008285077951002187
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "UN criticises new US sanctions on the ICC",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.017619252256123742,
-      "chg5d": -0.05318091451292248,
-      "chg1m": -0.02557544757033248
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -161,9 +98,24 @@
       "chg1m": 0.0008212203334155254
     },
     {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "UN criticises new US sanctions on the ICC",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.017619252256123742,
+      "chg5d": -0.05318091451292248,
+      "chg1m": -0.02557544757033248
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
