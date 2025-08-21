@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-20T21:11:38.794142Z",
+  "generated_at": "2025-08-21T00:57:55.445366Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.96,
+      "score": 2.94,
       "confianca": 84,
       "razoes": [
+        {
+          "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
@@ -18,10 +22,6 @@
         {
           "title": "Bus crash fire kills dozens of Afghans deported from Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/bus-crash-fire-kills-dozens-of-afghans-deported-from-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran says moment for ‘effective’ nuclear talks with US not yet reached",
-          "url": "https://www.aljazeera.com/news/2025/8/20/iran-says-moment-for-effective-nuclear-talks-with-us-not-yet-reached?traffic_source=rss"
         }
       ],
       "chg1d": 0.01110859215597365,
@@ -29,38 +29,15 @@
       "chg1m": 0.08584506013536541
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
-        },
-        {
-          "title": "Israel Denies Gaza Famine: What’s the Evidence?",
-          "url": "https://www.aljazeera.com/video/fact-check/2025/8/20/israel-denies-gaza-famine-whats-the-evidence?traffic_source=rss"
-        },
-        {
-          "title": "Bus crash fire kills dozens of Afghans deported from Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/bus-crash-fire-kills-dozens-of-afghans-deported-from-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran says moment for ‘effective’ nuclear talks with US not yet reached",
-          "url": "https://www.aljazeera.com/news/2025/8/20/iran-says-moment-for-effective-nuclear-talks-with-us-not-yet-reached?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008462623413258097,
-      "chg5d": 0.0018682858477346636,
-      "chg1m": 0.003861003861003841
-    },
-    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.96,
+      "score": 2.94,
       "confianca": 84,
       "razoes": [
+        {
+          "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
@@ -72,10 +49,6 @@
         {
           "title": "Bus crash fire kills dozens of Afghans deported from Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/bus-crash-fire-kills-dozens-of-afghans-deported-from-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran says moment for ‘effective’ nuclear talks with US not yet reached",
-          "url": "https://www.aljazeera.com/news/2025/8/20/iran-says-moment-for-effective-nuclear-talks-with-us-not-yet-reached?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -83,28 +56,36 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "UN criticises new US sanctions on the ICC",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
+          "title": "Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss"
         },
         {
-          "title": "US expands sanctions targeting International Criminal Court",
-          "url": "https://www.aljazeera.com/news/2025/8/20/us-expands-sanctions-targeting-international-criminal-court?traffic_source=rss"
+          "title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists?traffic_source=rss"
+        },
+        {
+          "title": "Israel Denies Gaza Famine: What’s the Evidence?",
+          "url": "https://www.aljazeera.com/video/fact-check/2025/8/20/israel-denies-gaza-famine-whats-the-evidence?traffic_source=rss"
+        },
+        {
+          "title": "Bus crash fire kills dozens of Afghans deported from Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/bus-crash-fire-kills-dozens-of-afghans-deported-from-iran?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005751580664899027,
-      "chg5d": -0.039940129194895174,
-      "chg1m": 0.0008212203334155254
+      "chg1d": 0.008345086976962951,
+      "chg5d": 0.0017515179822513507,
+      "chg1m": 0.0037440037440038304
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.94,
       "confianca": 55,
       "razoes": [
         {
@@ -123,7 +104,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.94,
       "confianca": 55,
       "razoes": [
         {
@@ -140,39 +121,28 @@
       "chg1m": 0.062383058343255644
     },
     {
-      "symbol": "QQQ",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
+      "score": 1.94,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
-          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0059373243395165745,
-      "chg5d": -0.024881965744218998,
-      "chg1m": 0.008285077951002187
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
+          "title": "UN criticises new US sanctions on the ICC",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/20/un-criticises-new-us-sanctions-on-the-icc?traffic_source=rss"
+        },
         {
-          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
-          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
+          "title": "US expands sanctions targeting International Criminal Court",
+          "url": "https://www.aljazeera.com/news/2025/8/20/us-expands-sanctions-targeting-international-criminal-court?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.005751580664899027,
+      "chg5d": -0.039940129194895174,
+      "chg1m": 0.0008212203334155254
     },
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -187,7 +157,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -198,6 +168,36 @@
       "chg1d": -0.0033597100039786895,
       "chg5d": -0.024954588703399404,
       "chg1m": 0.009763962914856355
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
+          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump calls on Fed Gov Cook to resign over mortgage allegations",
+          "url": "https://www.aljazeera.com/economy/2025/8/20/trump-calls-on-fed-gov-cook-to-resign-over-mortgage-allegations?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0059373243395165745,
+      "chg5d": -0.024881965744218998,
+      "chg1m": 0.008285077951002187
     }
   ]
 }
