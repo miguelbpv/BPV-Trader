@@ -1,43 +1,12 @@
 {
-  "generated_at": "2025-08-22T09:13:42.107898Z",
+  "generated_at": "2025-08-22T12:23:49.124129Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.55,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel kills 30 Palestinians; finalises plan to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/22/deadly-strikes-continue-as-netanyahu-finalises-plan-to-seize-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
-          "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
-        },
-        {
-          "title": "Behind India’s massive Russian oil imports: Asia’s richest man",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/behind-indias-massive-russian-oil-imports-asias-richest-man?traffic_source=rss"
-        },
-        {
-          "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
-          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-pm-netanyahu-approves-gaza-city-seizure-despite-ceasefire-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006877258421727347,
-      "chg5d": 0.009583917718559995,
-      "chg1m": -0.004953346388664979
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.55,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 2.06,
+      "confianca": 58,
       "razoes": [
-        {
-          "title": "LIVE: Israel kills 30 Palestinians; finalises plan to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/22/deadly-strikes-continue-as-netanyahu-finalises-plan-to-seize-gaza-city?traffic_source=rss"
-        },
         {
           "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
           "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
@@ -45,10 +14,6 @@
         {
           "title": "Behind India’s massive Russian oil imports: Asia’s richest man",
           "url": "https://www.aljazeera.com/economy/2025/8/22/behind-indias-massive-russian-oil-imports-asias-richest-man?traffic_source=rss"
-        },
-        {
-          "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
-          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-pm-netanyahu-approves-gaza-city-seizure-despite-ceasefire-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,22 +21,33 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.06,
+      "confianca": 58,
       "razoes": [
-        {
-          "title": "LIVE: Israel kills 30 Palestinians; finalises plan to seize Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/22/deadly-strikes-continue-as-netanyahu-finalises-plan-to-seize-gaza-city?traffic_source=rss"
-        },
         {
           "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
           "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
         },
         {
-          "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
-          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-pm-netanyahu-approves-gaza-city-seizure-despite-ceasefire-talks?traffic_source=rss"
+          "title": "Behind India’s massive Russian oil imports: Asia’s richest man",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/behind-indias-massive-russian-oil-imports-asias-richest-man?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006877258421727347,
+      "chg5d": 0.009583917718559995,
+      "chg1m": -0.004953346388664979
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
+          "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
         }
       ],
       "chg1d": 0.00269058295964123,
@@ -81,7 +57,7 @@
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -94,9 +70,24 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.71,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
+          "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002484361829555043,
+      "chg5d": -0.009945671223273791,
+      "chg1m": -0.003132168695959096
+    },
+    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -111,7 +102,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -122,21 +113,6 @@
       "chg1d": -0.004629793249690766,
       "chg5d": -0.028643363396506256,
       "chg1m": -0.0009400329898369535
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002484361829555043,
-      "chg5d": -0.009945671223273791,
-      "chg1m": -0.003132168695959096
     }
   ]
 }
