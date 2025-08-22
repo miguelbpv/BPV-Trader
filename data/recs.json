@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-22T00:59:00.661681Z",
+  "generated_at": "2025-08-22T03:36:42.641467Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.3,
-      "confianca": 94,
+      "score": 3.9,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Behind India’s massive Russian oil imports: Asia’s richest man",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/behind-indias-massive-russian-oil-imports-asias-richest-man?traffic_source=rss"
+        },
         {
           "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
           "url": "https://www.aljazeera.com/news/2025/8/21/israeli-pm-netanyahu-approves-gaza-city-seizure-despite-ceasefire-talks?traffic_source=rss"
@@ -18,10 +22,33 @@
         {
           "title": "US issues sanctions against Greek shipper of Iranian oil",
           "url": "https://www.aljazeera.com/news/2025/8/21/us-issues-sanctions-against-greek-shipper-of-iranian-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.9,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Behind India’s massive Russian oil imports: Asia’s richest man",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/behind-indias-massive-russian-oil-imports-asias-richest-man?traffic_source=rss"
         },
         {
-          "title": "What’s behind Israel’s ground push into Gaza City?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/21/whats-behind-israels-ground-push-into-gaza-city?traffic_source=rss"
+          "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
+          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-pm-netanyahu-approves-gaza-city-seizure-despite-ceasefire-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israeli data shows 83 percent of Gaza war dead are civilians: Report",
+          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-data-shows-83-percent-of-gaza-war-dead-are-civilians-report?traffic_source=rss"
+        },
+        {
+          "title": "US issues sanctions against Greek shipper of Iranian oil",
+          "url": "https://www.aljazeera.com/news/2025/8/21/us-issues-sanctions-against-greek-shipper-of-iranian-oil?traffic_source=rss"
         }
       ],
       "chg1d": 0.006877258421727347,
@@ -31,8 +58,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.3,
-      "confianca": 94,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
@@ -45,10 +72,6 @@
         {
           "title": "US issues sanctions against Greek shipper of Iranian oil",
           "url": "https://www.aljazeera.com/news/2025/8/21/us-issues-sanctions-against-greek-shipper-of-iranian-oil?traffic_source=rss"
-        },
-        {
-          "title": "What’s behind Israel’s ground push into Gaza City?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/21/whats-behind-israels-ground-push-into-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": 0.00269058295964123,
@@ -56,67 +79,40 @@
       "chg1m": 0.06631059395789123
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.3,
-      "confianca": 94,
-      "razoes": [
-        {
-          "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
-          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-pm-netanyahu-approves-gaza-city-seizure-despite-ceasefire-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israeli data shows 83 percent of Gaza war dead are civilians: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-data-shows-83-percent-of-gaza-war-dead-are-civilians-report?traffic_source=rss"
-        },
-        {
-          "title": "US issues sanctions against Greek shipper of Iranian oil",
-          "url": "https://www.aljazeera.com/news/2025/8/21/us-issues-sanctions-against-greek-shipper-of-iranian-oil?traffic_source=rss"
-        },
-        {
-          "title": "What’s behind Israel’s ground push into Gaza City?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/21/whats-behind-israels-ground-push-into-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US issues sanctions against Greek shipper of Iranian oil",
           "url": "https://www.aljazeera.com/news/2025/8/21/us-issues-sanctions-against-greek-shipper-of-iranian-oil?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006031016657093619,
-      "chg5d": -0.04670653970252608,
-      "chg1m": 0.0008675534991324793
+      "chg1d": -0.005661770739312363,
+      "chg5d": -0.04635240418666866,
+      "chg1m": 0.0012393621416178276
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US issues sanctions against Greek shipper of Iranian oil",
           "url": "https://www.aljazeera.com/news/2025/8/21/us-issues-sanctions-against-greek-shipper-of-iranian-oil?traffic_source=rss"
         }
       ],
-      "chg1d": -0.018972901573069724,
-      "chg5d": -0.026403252075581696,
-      "chg1m": 0.025581298034675678
+      "chg1d": -0.01879945029286586,
+      "chg5d": -0.02623111452443699,
+      "chg1m": 0.02576262675575025
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US issues sanctions against Greek shipper of Iranian oil",
@@ -130,38 +126,38 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
           "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0025730890377534824,
-      "chg5d": -0.009858044164037854,
-      "chg1m": -0.0030439385918475284
+      "chg1d": 0.002484361829555043,
+      "chg5d": -0.009945671223273791,
+      "chg1m": -0.003132168695959096
     },
     {
-      "symbol": "SPY",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
           "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0040118474871104655,
-      "chg5d": -0.014574773238235661,
-      "chg1m": 0.0021128648239540815
+      "chg1d": -0.004629793249690766,
+      "chg5d": -0.028643363396506256,
+      "chg1m": -0.0009400329898369535
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
@@ -173,19 +169,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
           "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004629793249690766,
-      "chg5d": -0.028643363396506256,
-      "chg1m": -0.0009400329898369535
+      "chg1d": -0.0040118474871104655,
+      "chg5d": -0.014574773238235661,
+      "chg1m": 0.0021128648239540815
     }
   ]
 }
