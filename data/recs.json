@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-22T06:19:04.316077Z",
+  "generated_at": "2025-08-22T09:13:42.107898Z",
   "recs": [
     {
       "symbol": "XLE",
@@ -7,6 +7,10 @@
       "score": 3.55,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills 30 Palestinians; finalises plan to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/22/deadly-strikes-continue-as-netanyahu-finalises-plan-to-seize-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
           "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
@@ -18,10 +22,6 @@
         {
           "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
           "url": "https://www.aljazeera.com/news/2025/8/21/israeli-pm-netanyahu-approves-gaza-city-seizure-despite-ceasefire-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israeli data shows 83 percent of Gaza war dead are civilians: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-data-shows-83-percent-of-gaza-war-dead-are-civilians-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.006877258421727347,
@@ -35,6 +35,10 @@
       "confianca": 95,
       "razoes": [
         {
+          "title": "LIVE: Israel kills 30 Palestinians; finalises plan to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/22/deadly-strikes-continue-as-netanyahu-finalises-plan-to-seize-gaza-city?traffic_source=rss"
+        },
+        {
           "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
           "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
         },
@@ -45,10 +49,6 @@
         {
           "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
           "url": "https://www.aljazeera.com/news/2025/8/21/israeli-pm-netanyahu-approves-gaza-city-seizure-despite-ceasefire-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israeli data shows 83 percent of Gaza war dead are civilians: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-data-shows-83-percent-of-gaza-war-dead-are-civilians-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,9 +58,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills 30 Palestinians; finalises plan to seize Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/22/deadly-strikes-continue-as-netanyahu-finalises-plan-to-seize-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
           "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
@@ -68,10 +72,6 @@
         {
           "title": "Israeli PM Netanyahu approves Gaza City seizure despite ceasefire talks",
           "url": "https://www.aljazeera.com/news/2025/8/21/israeli-pm-netanyahu-approves-gaza-city-seizure-despite-ceasefire-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israeli data shows 83 percent of Gaza war dead are civilians: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/21/israeli-data-shows-83-percent-of-gaza-war-dead-are-civilians-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.00269058295964123,
@@ -92,21 +92,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002484361829555043,
-      "chg5d": -0.009945671223273791,
-      "chg1m": -0.003132168695959096
     },
     {
       "symbol": "SPY",
@@ -137,6 +122,21 @@
       "chg1d": -0.004629793249690766,
       "chg5d": -0.028643363396506256,
       "chg1m": -0.0009400329898369535
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
+          "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002484361829555043,
+      "chg5d": -0.009945671223273791,
+      "chg1m": -0.003132168695959096
     }
   ]
 }
