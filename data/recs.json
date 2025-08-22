@@ -1,19 +1,46 @@
 {
-  "generated_at": "2025-08-22T12:23:49.124129Z",
+  "generated_at": "2025-08-22T15:12:53.296160Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.06,
-      "confianca": 58,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "At least 52 killed in Gaza as Israel escalates attacks on Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "How Israeli army’s own data shows vast civilian death rate in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/how-israeli-armys-own-data-shows-vast-civilian-death-rate-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
           "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0040648479427549955,
+      "chg5d": 0.02618566596581045,
+      "chg1m": 0.06769183212459877
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "At least 52 killed in Gaza as Israel escalates attacks on Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
         },
         {
-          "title": "Behind India’s massive Russian oil imports: Asia’s richest man",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/behind-indias-massive-russian-oil-imports-asias-richest-man?traffic_source=rss"
+          "title": "How Israeli army’s own data shows vast civilian death rate in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/how-israeli-armys-own-data-shows-vast-civilian-death-rate-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
+          "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -22,97 +49,26 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.06,
-      "confianca": 58,
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
-          "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
+          "title": "At least 52 killed in Gaza as Israel escalates attacks on Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
         },
         {
-          "title": "Behind India’s massive Russian oil imports: Asia’s richest man",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/behind-indias-massive-russian-oil-imports-asias-richest-man?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006877258421727347,
-      "chg5d": 0.009583917718559995,
-      "chg1m": -0.004953346388664979
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
+          "title": "How Israeli army’s own data shows vast civilian death rate in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/how-israeli-armys-own-data-shows-vast-civilian-death-rate-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Over 20 nations join EU, UN in opposing Israel’s illegal E1 settlement plan",
           "url": "https://www.aljazeera.com/news/2025/8/22/over-20-nations-join-eu-un-in-opposing-israels-illegal-e1-settlement-plan?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00269058295964123,
-      "chg5d": 0.022592152199762176,
-      "chg1m": 0.06631059395789123
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002484361829555043,
-      "chg5d": -0.009945671223273791,
-      "chg1m": -0.003132168695959096
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0040118474871104655,
-      "chg5d": -0.014574773238235661,
-      "chg1m": 0.0021128648239540815
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "US DOJ to probe Fed Reserve’s Cook, urges Powell to remove her: Report",
-          "url": "https://www.aljazeera.com/economy/2025/8/21/us-doj-to-probe-fed-reserves-cook-urges-powell-to-remove-her-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004629793249690766,
-      "chg5d": -0.028643363396506256,
-      "chg1m": -0.0009400329898369535
+      "chg1d": 0.01753878212549202,
+      "chg5d": 0.02729079008882648,
+      "chg1m": 0.005318540546722969
     }
   ]
 }
