@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-08-22T18:17:39.988917Z",
+  "generated_at": "2025-08-22T21:11:08.844642Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.34,
-      "confianca": 66,
+      "score": 4.43,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "This is the human tragedy caused by Israel’s famine in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Hungary, Slovakia fear oil cuts after Ukrainian attack on Russian pipeline",
+          "url": "https://www.aljazeera.com/news/2025/8/22/hungary-slovakia-fear-oil-cuts-after-ukrainian-attack-on-russian-pipeline?traffic_source=rss"
+        },
+        {
+          "title": "How can Israel continue to claim it does not target civilians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/22/how-can-israel-continue-to-claim-it-does-not-target-civilians?traffic_source=rss"
+        },
         {
           "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
           "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
@@ -14,10 +26,37 @@
         {
           "title": "At least 65 killed in Gaza as Israel escalates attacks on Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.020375086825654146,
+      "chg5d": 0.030154277699859726,
+      "chg1m": 0.008120782340157768
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.43,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "This is the human tragedy caused by Israel’s famine in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
         },
         {
-          "title": "How Israeli army’s own data shows vast civilian death rate in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/how-israeli-armys-own-data-shows-vast-civilian-death-rate-in-gaza?traffic_source=rss"
+          "title": "Hungary, Slovakia fear oil cuts after Ukrainian attack on Russian pipeline",
+          "url": "https://www.aljazeera.com/news/2025/8/22/hungary-slovakia-fear-oil-cuts-after-ukrainian-attack-on-russian-pipeline?traffic_source=rss"
+        },
+        {
+          "title": "How can Israel continue to claim it does not target civilians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/22/how-can-israel-continue-to-claim-it-does-not-target-civilians?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
+          "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
+        },
+        {
+          "title": "At least 65 killed in Gaza as Israel escalates attacks on Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,9 +66,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.34,
-      "confianca": 66,
+      "score": 3.08,
+      "confianca": 88,
       "razoes": [
+        {
+          "title": "This is the human tragedy caused by Israel’s famine in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "How can Israel continue to claim it does not target civilians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/22/how-can-israel-continue-to-claim-it-does-not-target-civilians?traffic_source=rss"
+        },
         {
           "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
           "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
@@ -37,44 +84,17 @@
         {
           "title": "At least 65 killed in Gaza as Israel escalates attacks on Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "How Israeli army’s own data shows vast civilian death rate in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/how-israeli-armys-own-data-shows-vast-civilian-death-rate-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.003264758497316591,
-      "chg5d": 0.01869457902916173,
-      "chg1m": 0.05989775294257519
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.34,
-      "confianca": 66,
-      "razoes": [
-        {
-          "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
-          "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
-        },
-        {
-          "title": "At least 65 killed in Gaza as Israel escalates attacks on Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "How Israeli army’s own data shows vast civilian death rate in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/how-israeli-armys-own-data-shows-vast-civilian-death-rate-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019680481592961367,
-      "chg5d": 0.02945301542776994,
-      "chg1m": 0.007434519043806376
+      "chg1d": -0.0022361359570661895,
+      "chg5d": 0.019745863424444617,
+      "chg1m": 0.06099155867316604
     },
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Trump threatens to fire US Fed Governor Lisa Cook",
@@ -85,53 +105,15 @@
           "url": "https://www.aljazeera.com/economy/2025/8/22/us-fed-reserve-chair-powell-opens-door-to-september-rate-cut?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01747745348672062,
-      "chg5d": -0.007301243634600184,
-      "chg1m": 0.014362046689439073
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
-      "razoes": [
-        {
-          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
-        },
-        {
-          "title": "US Fed Reserve Chair Powell opens door to September rate cut",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/us-fed-reserve-chair-powell-opens-door-to-september-rate-cut?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03858919325574191,
-      "chg5d": 0.03328490291903316,
-      "chg1m": 0.04983225229255194
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
-      "razoes": [
-        {
-          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
-        },
-        {
-          "title": "US Fed Reserve Chair Powell opens door to September rate cut",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/us-fed-reserve-chair-powell-opens-door-to-september-rate-cut?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0163323105971206,
-      "chg5d": 0.0038698246922788376,
-      "chg1m": 0.01814255540493678
+      "chg1d": 0.015427496094304884,
+      "chg5d": -0.009301278276232384,
+      "chg1m": 0.012318366046618708
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Trump threatens to fire US Fed Governor Lisa Cook",
@@ -147,49 +129,99 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
-          "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
+          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
+        },
+        {
+          "title": "US Fed Reserve Chair Powell opens door to September rate cut",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/us-fed-reserve-chair-powell-opens-door-to-september-rate-cut?traffic_source=rss"
         }
       ],
-      "chg1d": 0.026053848245852555,
-      "chg5d": 0.016707987495957716,
-      "chg1m": 0.04065758261157376
+      "chg1d": 0.015341043190936985,
+      "chg5d": 0.002890712420738375,
+      "chg1m": 0.01714952239841114
     },
     {
-      "symbol": "TSM",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
-          "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
+          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
+        },
+        {
+          "title": "US Fed Reserve Chair Powell opens door to September rate cut",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/us-fed-reserve-chair-powell-opens-door-to-september-rate-cut?traffic_source=rss"
         }
       ],
-      "chg1d": 0.029208639422865376,
-      "chg5d": -0.020554253181513715,
-      "chg1m": -0.031581125827814555
+      "chg1d": 0.03916449086161877,
+      "chg5d": 0.03385726236076255,
+      "chg1m": 0.050413777678371643
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Canada to ease most retaliatory tariffs against United States",
+          "url": "https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss"
+        },
         {
           "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
           "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03292622544974414,
-      "chg5d": 0.00813466494845365,
-      "chg1m": 0.036347077330683895
+      "chg1d": 0.027768608681300502,
+      "chg5d": 0.003100837628866021,
+      "chg1m": 0.031172379533035276
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Canada to ease most retaliatory tariffs against United States",
+          "url": "https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
+          "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02650258362795759,
+      "chg5d": 0.017152635550285678,
+      "chg1m": 0.04111270480498696
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Canada to ease most retaliatory tariffs against United States",
+          "url": "https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
+          "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.024897725773105162,
+      "chg5d": -0.024656731413261832,
+      "chg1m": -0.03563741721854299
     }
   ]
 }
