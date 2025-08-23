@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-08-23T09:11:50.444411Z",
+  "generated_at": "2025-08-23T12:21:30.328052Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.83,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Will Israel choose truce or war?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills over 70 in Gaza as UN warns of famine ‘survival crisis’",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/23/live-israel-kills-over-70-in-gaza-as-un-warns-of-famine-survival-crisis?traffic_source=rss"
-        },
-        {
-          "title": "US general whose report on Iran nuclear sites angered Trump fired",
-          "url": "https://www.aljazeera.com/news/2025/8/23/us-general-whose-report-on-iran-nuclear-sites-damage-angered-trump-fired?traffic_source=rss"
-        },
-        {
-          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
-          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
-        },
-        {
-          "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.020375086825654146,
-      "chg5d": 0.030154277699859726,
-      "chg1m": 0.008120782340157768
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.83,
+      "score": 3.76,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +35,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.51,
+      "score": 3.76,
       "confianca": 95,
       "razoes": [
         {
@@ -95,25 +64,41 @@
       "chg1m": 0.06099155867316604
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.76,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Will Israel choose truce or war?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills over 70 in Gaza as UN warns of famine ‘survival crisis’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/23/live-israel-kills-over-70-in-gaza-as-un-warns-of-famine-survival-crisis?traffic_source=rss"
+        },
+        {
+          "title": "US general whose report on Iran nuclear sites angered Trump fired",
+          "url": "https://www.aljazeera.com/news/2025/8/23/us-general-whose-report-on-iran-nuclear-sites-damage-angered-trump-fired?traffic_source=rss"
+        },
         {
           "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
           "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
+        },
+        {
+          "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
         }
       ],
-      "chg1d": 0.027768608681300502,
-      "chg5d": 0.003100837628866021,
-      "chg1m": 0.031172379533035276
+      "chg1d": 0.020375086825654146,
+      "chg5d": 0.030154277699859726,
+      "chg1m": 0.008120782340157768
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
@@ -125,10 +110,25 @@
       "chg1m": 0.04111270480498696
     },
     {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
+          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.027768608681300502,
+      "chg5d": 0.003100837628866021,
+      "chg1m": 0.031172379533035276
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
