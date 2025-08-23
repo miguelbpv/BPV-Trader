@@ -1,74 +1,20 @@
 {
-  "generated_at": "2025-08-23T12:21:30.328052Z",
+  "generated_at": "2025-08-23T15:10:47.957895Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.76,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Will Israel choose truce or war?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills over 70 in Gaza as UN warns of famine ‘survival crisis’",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/23/live-israel-kills-over-70-in-gaza-as-un-warns-of-famine-survival-crisis?traffic_source=rss"
-        },
-        {
-          "title": "US general whose report on Iran nuclear sites angered Trump fired",
-          "url": "https://www.aljazeera.com/news/2025/8/23/us-general-whose-report-on-iran-nuclear-sites-damage-angered-trump-fired?traffic_source=rss"
-        },
-        {
-          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
-          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
-        },
-        {
-          "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.76,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Will Israel choose truce or war?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills over 70 in Gaza as UN warns of famine ‘survival crisis’",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/23/live-israel-kills-over-70-in-gaza-as-un-warns-of-famine-survival-crisis?traffic_source=rss"
-        },
-        {
-          "title": "US general whose report on Iran nuclear sites angered Trump fired",
-          "url": "https://www.aljazeera.com/news/2025/8/23/us-general-whose-report-on-iran-nuclear-sites-damage-angered-trump-fired?traffic_source=rss"
-        },
-        {
-          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
-          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
-        },
-        {
-          "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0022361359570661895,
-      "chg5d": 0.019745863424444617,
-      "chg1m": 0.06099155867316604
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.76,
+      "score": 3.69,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s definition of “a combatant is elastic”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/23/israels-definition-of-a-combatant-is?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill 37 in Gaza as more Palestinians die from starvation",
+          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
+        },
         {
           "title": "Will Israel choose truce or war?",
           "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
@@ -80,14 +26,6 @@
         {
           "title": "US general whose report on Iran nuclear sites angered Trump fired",
           "url": "https://www.aljazeera.com/news/2025/8/23/us-general-whose-report-on-iran-nuclear-sites-damage-angered-trump-fired?traffic_source=rss"
-        },
-        {
-          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
-          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
-        },
-        {
-          "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
         }
       ],
       "chg1d": 0.020375086825654146,
@@ -95,49 +33,66 @@
       "chg1m": 0.008120782340157768
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.69,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
-          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
+          "title": "Israel’s definition of “a combatant is elastic”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/23/israels-definition-of-a-combatant-is?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill 37 in Gaza as more Palestinians die from starvation",
+          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
+        },
+        {
+          "title": "Will Israel choose truce or war?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills over 70 in Gaza as UN warns of famine ‘survival crisis’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/23/live-israel-kills-over-70-in-gaza-as-un-warns-of-famine-survival-crisis?traffic_source=rss"
+        },
+        {
+          "title": "US general whose report on Iran nuclear sites angered Trump fired",
+          "url": "https://www.aljazeera.com/news/2025/8/23/us-general-whose-report-on-iran-nuclear-sites-damage-angered-trump-fired?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02650258362795759,
-      "chg5d": 0.017152635550285678,
-      "chg1m": 0.04111270480498696
+      "chg1d": -0.0022361359570661895,
+      "chg5d": 0.019745863424444617,
+      "chg1m": 0.06099155867316604
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.69,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
-          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.027768608681300502,
-      "chg5d": 0.003100837628866021,
-      "chg1m": 0.031172379533035276
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
+          "title": "Israel’s definition of “a combatant is elastic”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/23/israels-definition-of-a-combatant-is?traffic_source=rss"
+        },
         {
-          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
-          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
+          "title": "Israeli attacks kill 37 in Gaza as more Palestinians die from starvation",
+          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
+        },
+        {
+          "title": "Will Israel choose truce or war?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills over 70 in Gaza as UN warns of famine ‘survival crisis’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/23/live-israel-kills-over-70-in-gaza-as-un-warns-of-famine-survival-crisis?traffic_source=rss"
+        },
+        {
+          "title": "US general whose report on Iran nuclear sites angered Trump fired",
+          "url": "https://www.aljazeera.com/news/2025/8/23/us-general-whose-report-on-iran-nuclear-sites-damage-angered-trump-fired?traffic_source=rss"
         }
       ],
-      "chg1d": 0.024897725773105162,
-      "chg5d": -0.024656731413261832,
-      "chg1m": -0.03563741721854299
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
