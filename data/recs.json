@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-08-22T21:11:08.844642Z",
+  "generated_at": "2025-08-23T00:56:40.121525Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.43,
+      "score": 5.25,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
+          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
+        },
+        {
+          "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
+        },
         {
           "title": "This is the human tragedy caused by Israel’s famine in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "How can Israel continue to claim it does not target civilians?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/8/22/how-can-israel-continue-to-claim-it-does-not-target-civilians?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.25,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
+          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
         },
         {
-          "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
-          "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
+          "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
         },
         {
-          "title": "At least 65 killed in Gaza as Israel escalates attacks on Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
+          "title": "This is the human tragedy caused by Israel’s famine in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Hungary, Slovakia fear oil cuts after Ukrainian attack on Russian pipeline",
+          "url": "https://www.aljazeera.com/news/2025/8/22/hungary-slovakia-fear-oil-cuts-after-ukrainian-attack-on-russian-pipeline?traffic_source=rss"
+        },
+        {
+          "title": "How can Israel continue to claim it does not target civilians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/22/how-can-israel-continue-to-claim-it-does-not-target-civilians?traffic_source=rss"
         }
       ],
       "chg1d": 0.020375086825654146,
@@ -33,42 +64,19 @@
       "chg1m": 0.008120782340157768
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.43,
+      "score": 3.92,
       "confianca": 95,
       "razoes": [
         {
-          "title": "This is the human tragedy caused by Israel’s famine in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
+          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
+          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
         },
         {
-          "title": "Hungary, Slovakia fear oil cuts after Ukrainian attack on Russian pipeline",
-          "url": "https://www.aljazeera.com/news/2025/8/22/hungary-slovakia-fear-oil-cuts-after-ukrainian-attack-on-russian-pipeline?traffic_source=rss"
+          "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
         },
-        {
-          "title": "How can Israel continue to claim it does not target civilians?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/22/how-can-israel-continue-to-claim-it-does-not-target-civilians?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
-          "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
-        },
-        {
-          "title": "At least 65 killed in Gaza as Israel escalates attacks on Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.08,
-      "confianca": 88,
-      "razoes": [
         {
           "title": "This is the human tragedy caused by Israel’s famine in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
@@ -80,10 +88,6 @@
         {
           "title": "Iran rejects sanctions threats before renewed nuclear talks with Europe",
           "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
-        },
-        {
-          "title": "At least 65 killed in Gaza as Israel escalates attacks on Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": -0.0022361359570661895,
@@ -91,87 +95,15 @@
       "chg1m": 0.06099155867316604
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.54,
+      "confianca": 72,
       "razoes": [
         {
-          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
+          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
+          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
         },
-        {
-          "title": "US Fed Reserve Chair Powell opens door to September rate cut",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/us-fed-reserve-chair-powell-opens-door-to-september-rate-cut?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015427496094304884,
-      "chg5d": -0.009301278276232384,
-      "chg1m": 0.012318366046618708
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
-        },
-        {
-          "title": "US Fed Reserve Chair Powell opens door to September rate cut",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/us-fed-reserve-chair-powell-opens-door-to-september-rate-cut?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
-        },
-        {
-          "title": "US Fed Reserve Chair Powell opens door to September rate cut",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/us-fed-reserve-chair-powell-opens-door-to-september-rate-cut?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015341043190936985,
-      "chg5d": 0.002890712420738375,
-      "chg1m": 0.01714952239841114
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
-        },
-        {
-          "title": "US Fed Reserve Chair Powell opens door to September rate cut",
-          "url": "https://www.aljazeera.com/economy/2025/8/22/us-fed-reserve-chair-powell-opens-door-to-september-rate-cut?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03916449086161877,
-      "chg5d": 0.03385726236076255,
-      "chg1m": 0.050413777678371643
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
         {
           "title": "Canada to ease most retaliatory tariffs against United States",
           "url": "https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss"
@@ -181,16 +113,20 @@
           "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
         }
       ],
-      "chg1d": 0.027768608681300502,
-      "chg5d": 0.003100837628866021,
-      "chg1m": 0.031172379533035276
+      "chg1d": 0.024897725773105162,
+      "chg5d": -0.024656731413261832,
+      "chg1m": -0.03563741721854299
     },
     {
       "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
+      "acao": "comprar",
+      "score": 2.54,
+      "confianca": 72,
       "razoes": [
+        {
+          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
+          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
+        },
         {
           "title": "Canada to ease most retaliatory tariffs against United States",
           "url": "https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss"
@@ -205,11 +141,15 @@
       "chg1m": 0.04111270480498696
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.54,
+      "confianca": 72,
       "razoes": [
+        {
+          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
+          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
+        },
         {
           "title": "Canada to ease most retaliatory tariffs against United States",
           "url": "https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss"
@@ -219,9 +159,69 @@
           "url": "https://www.aljazeera.com/news/2025/8/22/iran-rejects-sanctions-threats-before-renewed-nuclear-talks-with-europe?traffic_source=rss"
         }
       ],
-      "chg1d": 0.024897725773105162,
-      "chg5d": -0.024656731413261832,
-      "chg1m": -0.03563741721854299
+      "chg1d": 0.027768608681300502,
+      "chg5d": 0.003100837628866021,
+      "chg1m": 0.031172379533035276
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015427496094304884,
+      "chg5d": -0.009301278276232384,
+      "chg1m": 0.012318366046618708
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03916449086161877,
+      "chg5d": 0.03385726236076255,
+      "chg1m": 0.050413777678371643
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump threatens to fire US Fed Governor Lisa Cook",
+          "url": "https://www.aljazeera.com/economy/2025/8/22/trump-threatens-to-fire-us-fed-governor-lisa-cook?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015341043190936985,
+      "chg5d": 0.002890712420738375,
+      "chg1m": 0.01714952239841114
     }
   ]
 }
