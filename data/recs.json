@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-23T06:16:56.346255Z",
+  "generated_at": "2025-08-23T09:11:50.444411Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.85,
+      "score": 5.83,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Will Israel choose truce or war?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel kills over 70 in Gaza as UN warns of famine ‘survival crisis’",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/23/live-israel-kills-over-70-in-gaza-as-un-warns-of-famine-survival-crisis?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
-        },
-        {
-          "title": "This is the human tragedy caused by Israel’s famine in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.020375086825654146,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.85,
+      "score": 5.83,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Will Israel choose truce or war?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel kills over 70 in Gaza as UN warns of famine ‘survival crisis’",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/23/live-israel-kills-over-70-in-gaza-as-un-warns-of-famine-survival-crisis?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
-        },
-        {
-          "title": "This is the human tragedy caused by Israel’s famine in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.52,
+      "score": 4.51,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Will Israel choose truce or war?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel kills over 70 in Gaza as UN warns of famine ‘survival crisis’",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/23/live-israel-kills-over-70-in-gaza-as-un-warns-of-famine-survival-crisis?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "UN aid chief’s powerful plea to end Israel’s Gaza famine",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/un-aid-chiefs-powerful-plea-to-end-israels-gaza-famine?traffic_source=rss"
-        },
-        {
-          "title": "This is the human tragedy caused by Israel’s famine in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/22/this-is-the-human-tragedy-caused-by-israels-famine-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": -0.0022361359570661895,
@@ -95,18 +95,29 @@
       "chg1m": 0.06099155867316604
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
           "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
           "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.027768608681300502,
+      "chg5d": 0.003100837628866021,
+      "chg1m": 0.031172379533035276
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Canada to ease most retaliatory tariffs against United States",
-          "url": "https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss"
+          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
+          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
         }
       ],
       "chg1d": 0.02650258362795759,
@@ -116,40 +127,17 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
           "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
           "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
-        },
-        {
-          "title": "Canada to ease most retaliatory tariffs against United States",
-          "url": "https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss"
         }
       ],
       "chg1d": 0.024897725773105162,
       "chg5d": -0.024656731413261832,
       "chg1m": -0.03563741721854299
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Dutch foreign minister resigns over Israel sanctions deadlock",
-          "url": "https://www.aljazeera.com/news/2025/8/22/dutch-foreign-minister-resigns-over-israel-sanctions-deadlock?traffic_source=rss"
-        },
-        {
-          "title": "Canada to ease most retaliatory tariffs against United States",
-          "url": "https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.027768608681300502,
-      "chg5d": 0.003100837628866021,
-      "chg1m": 0.031172379533035276
     }
   ]
 }
