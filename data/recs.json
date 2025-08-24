@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-08-24T15:11:02.900674Z",
+  "generated_at": "2025-08-24T18:15:48.458234Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.44,
+      "score": 5.65,
       "confianca": 95,
       "razoes": [
         {
@@ -33,40 +33,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.44,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran will stand up to US demands to be ‘obedient’, says Khamenei",
-          "url": "https://www.aljazeera.com/news/2025/8/24/iran-will-not-be-obedient-to-us-nuclear-demands-says-khamenei?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians fear advancing Israeli assault on Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/palestinians-fear-advancing-israeli-assault-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israeli military targets Yemen’s Sanaa after Houthi attacks",
-          "url": "https://www.aljazeera.com/news/2025/8/24/israeli-military-targets-yemens-sanaa-after-houthi-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s targeting of journalists in Gaza continues",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/israels-targeting-of-journalists-in-gaza-continues?traffic_source=rss"
-        },
-        {
-          "title": "Israeli protesters confront far-right Security Minister Itamar Ben-Gvir",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/israeli-protesters-confront-far-right-security-minister-itamar-ben-gvir?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0022361359570661895,
-      "chg5d": 0.019745863424444617,
-      "chg1m": 0.06099155867316604
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.44,
+      "score": 5.65,
       "confianca": 95,
       "razoes": [
         {
@@ -93,6 +62,37 @@
       "chg1d": 0.020375086825654146,
       "chg5d": 0.030154277699859726,
       "chg1m": 0.008120782340157768
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.65,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran will stand up to US demands to be ‘obedient’, says Khamenei",
+          "url": "https://www.aljazeera.com/news/2025/8/24/iran-will-not-be-obedient-to-us-nuclear-demands-says-khamenei?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians fear advancing Israeli assault on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/palestinians-fear-advancing-israeli-assault-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israeli military targets Yemen’s Sanaa after Houthi attacks",
+          "url": "https://www.aljazeera.com/news/2025/8/24/israeli-military-targets-yemens-sanaa-after-houthi-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s targeting of journalists in Gaza continues",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/israels-targeting-of-journalists-in-gaza-continues?traffic_source=rss"
+        },
+        {
+          "title": "Israeli protesters confront far-right Security Minister Itamar Ben-Gvir",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/israeli-protesters-confront-far-right-security-minister-itamar-ben-gvir?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0022361359570661895,
+      "chg5d": 0.019745863424444617,
+      "chg1m": 0.06099155867316604
     }
   ]
 }
