@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-08-24T06:17:33.430928Z",
+  "generated_at": "2025-08-24T09:11:45.088425Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.08,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel pounds Gaza; protesters across globe denounce Gaza City famine",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/24/live-israel-pounds-gaza-protesters-across-globe-denounce-gaza-city-famine?traffic_source=rss"
-        },
-        {
-          "title": "How can Israel engineer a famine in Gaza in the 21st century?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/23/how-can-israel-engineer-a-famine-in-gaza-in-the-21st-century?traffic_source=rss"
-        },
-        {
-          "title": "Israeli military uproots thousands of Palestinian olive trees in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-military-uproots-thousands-of-palestinian-olive-trees-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s definition of “a combatant is elastic”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/23/israels-definition-of-a-combatant-is?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks kill 63 across Gaza as troops push deeper into Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.020375086825654146,
-      "chg5d": 0.030154277699859726,
-      "chg1m": 0.008120782340157768
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.08,
+      "score": 3.34,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.34,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Israel pounds Gaza; protesters across globe denounce Gaza City famine",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/24/live-israel-pounds-gaza-protesters-across-globe-denounce-gaza-city-famine?traffic_source=rss"
+        },
+        {
+          "title": "How can Israel engineer a famine in Gaza in the 21st century?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/23/how-can-israel-engineer-a-famine-in-gaza-in-the-21st-century?traffic_source=rss"
+        },
+        {
+          "title": "Israeli military uproots thousands of Palestinian olive trees in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-military-uproots-thousands-of-palestinian-olive-trees-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s definition of “a combatant is elastic”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/23/israels-definition-of-a-combatant-is?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill 63 across Gaza as troops push deeper into Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.020375086825654146,
+      "chg5d": 0.030154277699859726,
+      "chg1m": 0.008120782340157768
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.08,
+      "score": 3.34,
       "confianca": 95,
       "razoes": [
         {
