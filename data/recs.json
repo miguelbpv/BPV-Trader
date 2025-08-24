@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-08-23T21:10:18.271594Z",
+  "generated_at": "2025-08-24T01:05:08.184616Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "How can Israel engineer a famine in Gaza in the 21st century?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/23/how-can-israel-engineer-a-famine-in-gaza-in-the-21st-century?traffic_source=rss"
-        },
-        {
-          "title": "Israeli military uproots thousands of Palestinian olive trees in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-military-uproots-thousands-of-palestinian-olive-trees-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s definition of “a combatant is elastic”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/23/israels-definition-of-a-combatant-is?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks kill 51 across Gaza as troops push deeper into Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
-        },
-        {
-          "title": "Will Israel choose truce or war?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0022361359570661895,
-      "chg5d": 0.019745863424444617,
-      "chg1m": 0.06099155867316604
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.42,
+      "score": 3.38,
       "confianca": 95,
       "razoes": [
         {
@@ -51,7 +20,7 @@
           "url": "https://www.aljazeera.com/video/quotable/2025/8/23/israels-definition-of-a-combatant-is?traffic_source=rss"
         },
         {
-          "title": "Israeli attacks kill 51 across Gaza as troops push deeper into Gaza City",
+          "title": "Israeli attacks kill 63 across Gaza as troops push deeper into Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
         },
         {
@@ -64,9 +33,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.42,
+      "score": 3.38,
       "confianca": 95,
       "razoes": [
         {
@@ -82,7 +51,38 @@
           "url": "https://www.aljazeera.com/video/quotable/2025/8/23/israels-definition-of-a-combatant-is?traffic_source=rss"
         },
         {
-          "title": "Israeli attacks kill 51 across Gaza as troops push deeper into Gaza City",
+          "title": "Israeli attacks kill 63 across Gaza as troops push deeper into Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
+        },
+        {
+          "title": "Will Israel choose truce or war?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0022361359570661895,
+      "chg5d": 0.019745863424444617,
+      "chg1m": 0.06099155867316604
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.38,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "How can Israel engineer a famine in Gaza in the 21st century?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/23/how-can-israel-engineer-a-famine-in-gaza-in-the-21st-century?traffic_source=rss"
+        },
+        {
+          "title": "Israeli military uproots thousands of Palestinian olive trees in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/8/23/israeli-military-uproots-thousands-of-palestinian-olive-trees-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s definition of “a combatant is elastic”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/23/israels-definition-of-a-combatant-is?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill 63 across Gaza as troops push deeper into Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
         },
         {
