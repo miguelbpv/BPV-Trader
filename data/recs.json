@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-24T03:43:50.341996Z",
+  "generated_at": "2025-08-24T06:17:33.430928Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.36,
+      "score": 4.08,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel pounds Gaza; protesters across globe denounce Gaza City famine",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/24/live-israel-pounds-gaza-protesters-across-globe-denounce-gaza-city-famine?traffic_source=rss"
+        },
         {
           "title": "How can Israel engineer a famine in Gaza in the 21st century?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/8/23/how-can-israel-engineer-a-famine-in-gaza-in-the-21st-century?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Israeli attacks kill 63 across Gaza as troops push deeper into Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
-        },
-        {
-          "title": "Will Israel choose truce or war?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0022361359570661895,
-      "chg5d": 0.019745863424444617,
-      "chg1m": 0.06099155867316604
+      "chg1d": 0.020375086825654146,
+      "chg5d": 0.030154277699859726,
+      "chg1m": 0.008120782340157768
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.36,
+      "score": 4.08,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel pounds Gaza; protesters across globe denounce Gaza City famine",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/24/live-israel-pounds-gaza-protesters-across-globe-denounce-gaza-city-famine?traffic_source=rss"
+        },
         {
           "title": "How can Israel engineer a famine in Gaza in the 21st century?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/8/23/how-can-israel-engineer-a-famine-in-gaza-in-the-21st-century?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israeli attacks kill 63 across Gaza as troops push deeper into Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
-        },
-        {
-          "title": "Will Israel choose truce or war?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.36,
+      "score": 4.08,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel pounds Gaza; protesters across globe denounce Gaza City famine",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/24/live-israel-pounds-gaza-protesters-across-globe-denounce-gaza-city-famine?traffic_source=rss"
+        },
         {
           "title": "How can Israel engineer a famine in Gaza in the 21st century?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/8/23/how-can-israel-engineer-a-famine-in-gaza-in-the-21st-century?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "Israeli attacks kill 63 across Gaza as troops push deeper into Gaza City",
           "url": "https://www.aljazeera.com/news/2025/8/23/israeli-attacks-kill-37-in-gaza-as-more-palestinians-die-from-starvation?traffic_source=rss"
-        },
-        {
-          "title": "Will Israel choose truce or war?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/8/23/will-israel-choose-truce-or-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.020375086825654146,
-      "chg5d": 0.030154277699859726,
-      "chg1m": 0.008120782340157768
+      "chg1d": -0.0022361359570661895,
+      "chg5d": 0.019745863424444617,
+      "chg1m": 0.06099155867316604
     }
   ]
 }
