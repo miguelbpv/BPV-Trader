@@ -1,45 +1,14 @@
 {
-  "generated_at": "2025-08-25T06:20:41.360516Z",
+  "generated_at": "2025-08-25T09:14:50.841261Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.37,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Live: Israel intensifies attacks on Gaza, leaving dozens dead in a day",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/25/live-israel-intensifies-attacks-on-gaza-leaving-dozens-dead-in-a-day?traffic_source=rss"
-        },
-        {
-          "title": "Has Israel become a divisive issue in Europe?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/24/has-israel-become-a-divisive-issue-in-europe?traffic_source=rss"
-        },
-        {
-          "title": "Israel has destroyed more than 1,000 buildings in Gaza City: Civil Defence",
-          "url": "https://www.aljazeera.com/news/2025/8/24/israel-has-destroyed-more-than-1000-buildings-in-gaza-city-civil-defence?traffic_source=rss"
-        },
-        {
-          "title": "Iran will stand up to US demands to be ‘obedient’, says Khamenei",
-          "url": "https://www.aljazeera.com/news/2025/8/24/iran-will-not-be-obedient-to-us-nuclear-demands-says-khamenei?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians fear advancing Israeli assault on Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/palestinians-fear-advancing-israeli-assault-on-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0022361359570661895,
-      "chg5d": 0.019745863424444617,
-      "chg1m": 0.06099155867316604
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.37,
-      "confianca": 95,
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
         {
-          "title": "Live: Israel intensifies attacks on Gaza, leaving dozens dead in a day",
+          "title": "Live: Palestinian journalists among 14 killed in Israeli attack on hospital",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/25/live-israel-intensifies-attacks-on-gaza-leaving-dozens-dead-in-a-day?traffic_source=rss"
         },
         {
@@ -53,10 +22,6 @@
         {
           "title": "Iran will stand up to US demands to be ‘obedient’, says Khamenei",
           "url": "https://www.aljazeera.com/news/2025/8/24/iran-will-not-be-obedient-to-us-nuclear-demands-says-khamenei?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians fear advancing Israeli assault on Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/palestinians-fear-advancing-israeli-assault-on-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,11 +31,11 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.37,
-      "confianca": 95,
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
         {
-          "title": "Live: Israel intensifies attacks on Gaza, leaving dozens dead in a day",
+          "title": "Live: Palestinian journalists among 14 killed in Israeli attack on hospital",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/25/live-israel-intensifies-attacks-on-gaza-leaving-dozens-dead-in-a-day?traffic_source=rss"
         },
         {
@@ -84,15 +49,38 @@
         {
           "title": "Iran will stand up to US demands to be ‘obedient’, says Khamenei",
           "url": "https://www.aljazeera.com/news/2025/8/24/iran-will-not-be-obedient-to-us-nuclear-demands-says-khamenei?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians fear advancing Israeli assault on Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/24/palestinians-fear-advancing-israeli-assault-on-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": 0.020375086825654146,
       "chg5d": 0.030154277699859726,
       "chg1m": 0.008120782340157768
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.91,
+      "confianca": 83,
+      "razoes": [
+        {
+          "title": "Live: Palestinian journalists among 14 killed in Israeli attack on hospital",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/25/live-israel-intensifies-attacks-on-gaza-leaving-dozens-dead-in-a-day?traffic_source=rss"
+        },
+        {
+          "title": "Has Israel become a divisive issue in Europe?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/24/has-israel-become-a-divisive-issue-in-europe?traffic_source=rss"
+        },
+        {
+          "title": "Israel has destroyed more than 1,000 buildings in Gaza City: Civil Defence",
+          "url": "https://www.aljazeera.com/news/2025/8/24/israel-has-destroyed-more-than-1000-buildings-in-gaza-city-civil-defence?traffic_source=rss"
+        },
+        {
+          "title": "Iran will stand up to US demands to be ‘obedient’, says Khamenei",
+          "url": "https://www.aljazeera.com/news/2025/8/24/iran-will-not-be-obedient-to-us-nuclear-demands-says-khamenei?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0022361359570661895,
+      "chg5d": 0.019745863424444617,
+      "chg1m": 0.06099155867316604
     }
   ]
 }
