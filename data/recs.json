@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-08-25T18:18:29.784003Z",
+  "generated_at": "2025-08-25T21:11:33.226804Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.89,
+      "score": 6.88,
       "confianca": 95,
       "razoes": [
         {
@@ -16,7 +16,69 @@
           "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
         },
         {
-          "title": "Israel’s killing of five Gaza journalists draws global condemnation",
+          "title": "Israel’s killing of six Gaza journalists draws global condemnation",
+          "url": "https://www.aljazeera.com/news/2025/8/25/global-outrage-following-israeli-attack-that-killed-five-gaza-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Israel army chief says captive ‘deal on table’, Israel must take it: Report",
+          "url": "https://www.aljazeera.com/news/2025/8/25/israel-army-chief-says-captive-deal-on-table-israel-must-take-it-report?traffic_source=rss"
+        },
+        {
+          "title": "Syria condemns new Israeli ‘military incursion’ in Damascus countryside",
+          "url": "https://www.aljazeera.com/news/2025/8/25/syria-condemns-new-israeli-military-incursion-in-damascus-countryside?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0026094849103699114,
+      "chg5d": 0.039035861258083566,
+      "chg1m": 0.014580941446613207
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.88,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s killing of six Gaza journalists draws global condemnation",
+          "url": "https://www.aljazeera.com/news/2025/8/25/global-outrage-following-israeli-attack-that-killed-five-gaza-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Israel army chief says captive ‘deal on table’, Israel must take it: Report",
+          "url": "https://www.aljazeera.com/news/2025/8/25/israel-army-chief-says-captive-deal-on-table-israel-must-take-it-report?traffic_source=rss"
+        },
+        {
+          "title": "Syria condemns new Israeli ‘military incursion’ in Damascus countryside",
+          "url": "https://www.aljazeera.com/news/2025/8/25/syria-condemns-new-israeli-military-incursion-in-damascus-countryside?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0034065441506051963,
+      "chg5d": 0.01606753812636175,
+      "chg1m": 0.0630386779685163
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.88,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s killing of six Gaza journalists draws global condemnation",
           "url": "https://www.aljazeera.com/news/2025/8/25/global-outrage-following-israeli-attack-that-killed-five-gaza-journalists?traffic_source=rss"
         },
         {
@@ -33,66 +95,49 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 8.89,
-      "confianca": 95,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s killing of five Gaza journalists draws global condemnation",
-          "url": "https://www.aljazeera.com/news/2025/8/25/global-outrage-following-israeli-attack-that-killed-five-gaza-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Israel army chief says captive ‘deal on table’, Israel must take it: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/25/israel-army-chief-says-captive-deal-on-table-israel-must-take-it-report?traffic_source=rss"
-        },
-        {
-          "title": "Syria condemns new Israeli ‘military incursion’ in Damascus countryside",
-          "url": "https://www.aljazeera.com/news/2025/8/25/syria-condemns-new-israeli-military-incursion-in-damascus-countryside?traffic_source=rss"
+          "title": "Trump threatens new China tariffs over magnets",
+          "url": "https://www.aljazeera.com/economy/2025/8/25/trump-threatens-new-china-tariffs-over-magnets?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0030255490811295894,
-      "chg5d": 0.01568173565722591,
-      "chg1m": 0.0626350404824655
+      "chg1d": -0.0005696194147491025,
+      "chg5d": 0.009243528860945866,
+      "chg1m": 0.06075219683655541
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 8.89,
-      "confianca": 95,
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s killing of five Gaza journalists draws global condemnation",
-          "url": "https://www.aljazeera.com/news/2025/8/25/global-outrage-following-israeli-attack-that-killed-five-gaza-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Israel army chief says captive ‘deal on table’, Israel must take it: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/25/israel-army-chief-says-captive-deal-on-table-israel-must-take-it-report?traffic_source=rss"
-        },
-        {
-          "title": "Syria condemns new Israeli ‘military incursion’ in Damascus countryside",
-          "url": "https://www.aljazeera.com/news/2025/8/25/syria-condemns-new-israeli-military-incursion-in-damascus-countryside?traffic_source=rss"
+          "title": "Trump threatens new China tariffs over magnets",
+          "url": "https://www.aljazeera.com/economy/2025/8/25/trump-threatens-new-china-tariffs-over-magnets?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002269117313365133,
-      "chg5d": 0.038683127572016536,
-      "chg1m": 0.014236509758897923
+      "chg1d": 0.011159277222198352,
+      "chg5d": -0.02410836336522925,
+      "chg1m": -0.04075732899022798
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump threatens new China tariffs over magnets",
+          "url": "https://www.aljazeera.com/economy/2025/8/25/trump-threatens-new-china-tariffs-over-magnets?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0023284756513710404,
+      "chg5d": -0.0021682393093757093,
+      "chg1m": 0.028856504098700005
     }
   ]
 }
