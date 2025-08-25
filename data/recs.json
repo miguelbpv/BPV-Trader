@@ -1,54 +1,31 @@
 {
-  "generated_at": "2025-08-25T09:14:50.841261Z",
+  "generated_at": "2025-08-25T12:25:20.240022Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Live: Palestinian journalists among 14 killed in Israeli attack on hospital",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/25/live-israel-intensifies-attacks-on-gaza-leaving-dozens-dead-in-a-day?traffic_source=rss"
-        },
-        {
-          "title": "Has Israel become a divisive issue in Europe?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/24/has-israel-become-a-divisive-issue-in-europe?traffic_source=rss"
-        },
-        {
-          "title": "Israel has destroyed more than 1,000 buildings in Gaza City: Civil Defence",
-          "url": "https://www.aljazeera.com/news/2025/8/24/israel-has-destroyed-more-than-1000-buildings-in-gaza-city-civil-defence?traffic_source=rss"
-        },
-        {
-          "title": "Iran will stand up to US demands to be ‘obedient’, says Khamenei",
-          "url": "https://www.aljazeera.com/news/2025/8/24/iran-will-not-be-obedient-to-us-nuclear-demands-says-khamenei?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "score": 5.16,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Live: Palestinian journalists among 14 killed in Israeli attack on hospital",
+          "title": "Israel denies medical workers access to Gaza “to provide relief”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/25/israel-denies-medical-workers-access-to-gaza-to-provide?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs Nasser Hospital – southern Gaza’s main medical facility",
+          "url": "https://www.aljazeera.com/gallery/2025/8/25/israel-bombs-nasser-hospital-southern-gazas-main-medical-facility?traffic_source=rss"
+        },
+        {
+          "title": "Al Jazeera’s Salama among four Gaza journalists killed in Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/8/25/al-jazeera-journalist-mohammed-salama-among-14-killed-in-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Al Jazeera journalist killed in Israeli attack on Nasser hospital in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/al-jazeera-journalist-killed-in-israeli-attack-on-nasser-hospital-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Live: Al Jazeera journalist among 20 killed in Israeli attack in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/25/live-israel-intensifies-attacks-on-gaza-leaving-dozens-dead-in-a-day?traffic_source=rss"
-        },
-        {
-          "title": "Has Israel become a divisive issue in Europe?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/24/has-israel-become-a-divisive-issue-in-europe?traffic_source=rss"
-        },
-        {
-          "title": "Israel has destroyed more than 1,000 buildings in Gaza City: Civil Defence",
-          "url": "https://www.aljazeera.com/news/2025/8/24/israel-has-destroyed-more-than-1000-buildings-in-gaza-city-civil-defence?traffic_source=rss"
-        },
-        {
-          "title": "Iran will stand up to US demands to be ‘obedient’, says Khamenei",
-          "url": "https://www.aljazeera.com/news/2025/8/24/iran-will-not-be-obedient-to-us-nuclear-demands-says-khamenei?traffic_source=rss"
         }
       ],
       "chg1d": 0.020375086825654146,
@@ -56,26 +33,61 @@
       "chg1m": 0.008120782340157768
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "score": 5.16,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Live: Palestinian journalists among 14 killed in Israeli attack on hospital",
+          "title": "Israel denies medical workers access to Gaza “to provide relief”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/25/israel-denies-medical-workers-access-to-gaza-to-provide?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs Nasser Hospital – southern Gaza’s main medical facility",
+          "url": "https://www.aljazeera.com/gallery/2025/8/25/israel-bombs-nasser-hospital-southern-gazas-main-medical-facility?traffic_source=rss"
+        },
+        {
+          "title": "Al Jazeera’s Salama among four Gaza journalists killed in Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/8/25/al-jazeera-journalist-mohammed-salama-among-14-killed-in-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Al Jazeera journalist killed in Israeli attack on Nasser hospital in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/al-jazeera-journalist-killed-in-israeli-attack-on-nasser-hospital-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Live: Al Jazeera journalist among 20 killed in Israeli attack in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/25/live-israel-intensifies-attacks-on-gaza-leaving-dozens-dead-in-a-day?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.16,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel denies medical workers access to Gaza “to provide relief”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/25/israel-denies-medical-workers-access-to-gaza-to-provide?traffic_source=rss"
         },
         {
-          "title": "Has Israel become a divisive issue in Europe?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/24/has-israel-become-a-divisive-issue-in-europe?traffic_source=rss"
+          "title": "Israel bombs Nasser Hospital – southern Gaza’s main medical facility",
+          "url": "https://www.aljazeera.com/gallery/2025/8/25/israel-bombs-nasser-hospital-southern-gazas-main-medical-facility?traffic_source=rss"
         },
         {
-          "title": "Israel has destroyed more than 1,000 buildings in Gaza City: Civil Defence",
-          "url": "https://www.aljazeera.com/news/2025/8/24/israel-has-destroyed-more-than-1000-buildings-in-gaza-city-civil-defence?traffic_source=rss"
+          "title": "Al Jazeera’s Salama among four Gaza journalists killed in Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/8/25/al-jazeera-journalist-mohammed-salama-among-14-killed-in-israeli-attack?traffic_source=rss"
         },
         {
-          "title": "Iran will stand up to US demands to be ‘obedient’, says Khamenei",
-          "url": "https://www.aljazeera.com/news/2025/8/24/iran-will-not-be-obedient-to-us-nuclear-demands-says-khamenei?traffic_source=rss"
+          "title": "Al Jazeera journalist killed in Israeli attack on Nasser hospital in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/al-jazeera-journalist-killed-in-israeli-attack-on-nasser-hospital-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Live: Al Jazeera journalist among 20 killed in Israeli attack in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/25/live-israel-intensifies-attacks-on-gaza-leaving-dozens-dead-in-a-day?traffic_source=rss"
         }
       ],
       "chg1d": -0.0022361359570661895,
