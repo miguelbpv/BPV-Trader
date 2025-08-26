@@ -1,54 +1,23 @@
 {
-  "generated_at": "2025-08-26T03:37:49.073354Z",
+  "generated_at": "2025-08-26T06:19:39.633834Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Australia accuses Iran of directing antisemitic attacks, expels envoy",
-          "url": "https://www.aljazeera.com/news/2025/8/26/australia-accuses-iran-of-directing-antisemitic-attacks-expels-envoy?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs hospital, kills journalists, medics, dozens more across Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/25/israel-bombs-hospital-kills-journalists-medics-dozens-more-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0026094849103699114,
-      "chg5d": 0.039035861258083566,
-      "chg1m": 0.014580941446613207
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "Australia accuses Iran of directing antisemitic attacks, expels envoy",
+          "title": "LIVE: World outraged over Israeli attack on Gaza hospital, journalists",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/live-world-outraged-over-israeli-attack-on-gaza-hospital-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Australia accuses Iran of directing anti-Semitic attacks, expels envoy",
           "url": "https://www.aljazeera.com/news/2025/8/26/australia-accuses-iran-of-directing-antisemitic-attacks-expels-envoy?traffic_source=rss"
         },
         {
           "title": "Israel bombs hospital, kills journalists, medics, dozens more across Gaza",
           "url": "https://www.aljazeera.com/news/2025/8/25/israel-bombs-hospital-kills-journalists-medics-dozens-more-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,46 +25,50 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "Australia accuses Iran of directing antisemitic attacks, expels envoy",
+          "title": "LIVE: World outraged over Israeli attack on Gaza hospital, journalists",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/live-world-outraged-over-israeli-attack-on-gaza-hospital-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Australia accuses Iran of directing anti-Semitic attacks, expels envoy",
           "url": "https://www.aljazeera.com/news/2025/8/26/australia-accuses-iran-of-directing-antisemitic-attacks-expels-envoy?traffic_source=rss"
         },
         {
           "title": "Israel bombs hospital, kills journalists, medics, dozens more across Gaza",
           "url": "https://www.aljazeera.com/news/2025/8/25/israel-bombs-hospital-kills-journalists-medics-dozens-more-across-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0026094849103699114,
+      "chg5d": 0.039035861258083566,
+      "chg1m": 0.014580941446613207
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "LIVE: World outraged over Israeli attack on Gaza hospital, journalists",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/live-world-outraged-over-israeli-attack-on-gaza-hospital-journalists?traffic_source=rss"
         },
         {
-          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
+          "title": "Australia accuses Iran of directing anti-Semitic attacks, expels envoy",
+          "url": "https://www.aljazeera.com/news/2025/8/26/australia-accuses-iran-of-directing-antisemitic-attacks-expels-envoy?traffic_source=rss"
         },
         {
-          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
+          "title": "Israel bombs hospital, kills journalists, medics, dozens more across Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/25/israel-bombs-hospital-kills-journalists-medics-dozens-more-across-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0034065441506051963,
       "chg5d": 0.01606753812636175,
       "chg1m": 0.0630386779685163
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump orders removal of Fed governor Cook over mortgage fraud claims",
-          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-orders-removal-o-fed-governor-cook-over-mortgage-fraud-claims?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004400985572825337,
-      "chg5d": -0.0012902222913103176,
-      "chg1m": 0.00842881808193377
     },
     {
       "symbol": "EUROSTOXX50",
@@ -128,6 +101,21 @@
       "chg1m": 0.03556466708262777
     },
     {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders removal of Fed governor Cook over mortgage fraud claims",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-orders-removal-o-fed-governor-cook-over-mortgage-fraud-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004400985572825337,
+      "chg5d": -0.0012902222913103176,
+      "chg1m": 0.00842881808193377
+    },
+    {
       "symbol": "QQQ",
       "acao": "observar",
       "score": 0.98,
@@ -158,21 +146,6 @@
       "chg1m": -0.04075732899022798
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump threatens new China tariffs over magnets",
-          "url": "https://www.aljazeera.com/economy/2025/8/25/trump-threatens-new-china-tariffs-over-magnets?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0005696194147491025,
-      "chg5d": 0.009243528860945866,
-      "chg1m": 0.06075219683655541
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
       "score": 0.84,
@@ -186,6 +159,21 @@
       "chg1d": -0.0023284756513710404,
       "chg5d": -0.0021682393093757093,
       "chg1m": 0.028856504098700005
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump threatens new China tariffs over magnets",
+          "url": "https://www.aljazeera.com/economy/2025/8/25/trump-threatens-new-china-tariffs-over-magnets?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0005696194147491025,
+      "chg5d": 0.009243528860945866,
+      "chg1m": 0.06075219683655541
     }
   ]
 }
