@@ -1,31 +1,93 @@
 {
-  "generated_at": "2025-08-26T12:26:02.443293Z",
+  "generated_at": "2025-08-26T15:13:21.032340Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.32,
+      "score": 5.96,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Palestinians injured as Israeli forces raid Ramallah",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/palestinians-injured-as-israeli-forces-raid-ramallah?traffic_source=rss"
+          "title": "Hasbara with glitter: Israel’s politics of pleasure",
+          "url": "https://www.aljazeera.com/opinions/2025/8/26/hasbara-with-glitter-israels-politics-of-pleasure?traffic_source=rss"
         },
         {
-          "title": "Iran vows reciprocal action after Australia expels ambassador",
-          "url": "https://www.aljazeera.com/news/2025/8/26/iran-vows-reciprocal-action-after-australia-expels-ambassador?traffic_source=rss"
+          "title": "Qatar says Israel yet to respond to Gaza ceasefire proposal",
+          "url": "https://www.aljazeera.com/news/2025/8/26/qatar-says-israel-yet-to-respond-to-gaza-ceasefire-proposal?traffic_source=rss"
         },
         {
-          "title": "Australia expels Iranian ambassador over attacks on Jewish sites",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/australia-expels-iranian-ambassador-over-attacks-on-jewish-sites?traffic_source=rss"
+          "title": "Israeli protesters block highway with burning tyres",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/israeli-protesters-block-highway-with-burning-tyres?traffic_source=rss"
         },
         {
-          "title": "Video captures Israeli bombing of Gaza residential building",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/video-captures-israeli-bombing-of-gaza-residential-building?traffic_source=rss"
+          "title": "Australia accuses Iran of attacking “Jewish targets”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/26/australia-accuses-iran-of-attacking-jewish?traffic_source=rss"
         },
         {
-          "title": "Israel’s destruction in Lebanon could amount to war crimes: Amnesty",
-          "url": "https://www.aljazeera.com/news/2025/8/26/israels-destruction-in-lebanon-should-be-probed-as-war-crimes-amnesty?traffic_source=rss"
+          "title": "Iran rejects Australian accusations over Jewish site attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/iran-rejects-australian-accusations-over-jewish-site-attacks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0155677655677655,
+      "chg5d": 0.030809340285649453,
+      "chg1m": 0.07915222860397784
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.96,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Hasbara with glitter: Israel’s politics of pleasure",
+          "url": "https://www.aljazeera.com/opinions/2025/8/26/hasbara-with-glitter-israels-politics-of-pleasure?traffic_source=rss"
+        },
+        {
+          "title": "Qatar says Israel yet to respond to Gaza ceasefire proposal",
+          "url": "https://www.aljazeera.com/news/2025/8/26/qatar-says-israel-yet-to-respond-to-gaza-ceasefire-proposal?traffic_source=rss"
+        },
+        {
+          "title": "Israeli protesters block highway with burning tyres",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/israeli-protesters-block-highway-with-burning-tyres?traffic_source=rss"
+        },
+        {
+          "title": "Australia accuses Iran of attacking “Jewish targets”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/26/australia-accuses-iran-of-attacking-jewish?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects Australian accusations over Jewish site attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/iran-rejects-australian-accusations-over-jewish-site-attacks?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006143487608917087,
+      "chg5d": 0.03228843441466859,
+      "chg1m": -0.0029844477239187412
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.96,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Hasbara with glitter: Israel’s politics of pleasure",
+          "url": "https://www.aljazeera.com/opinions/2025/8/26/hasbara-with-glitter-israels-politics-of-pleasure?traffic_source=rss"
+        },
+        {
+          "title": "Qatar says Israel yet to respond to Gaza ceasefire proposal",
+          "url": "https://www.aljazeera.com/news/2025/8/26/qatar-says-israel-yet-to-respond-to-gaza-ceasefire-proposal?traffic_source=rss"
+        },
+        {
+          "title": "Israeli protesters block highway with burning tyres",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/israeli-protesters-block-highway-with-burning-tyres?traffic_source=rss"
+        },
+        {
+          "title": "Australia accuses Iran of attacking “Jewish targets”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/8/26/australia-accuses-iran-of-attacking-jewish?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects Australian accusations over Jewish site attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/iran-rejects-australian-accusations-over-jewish-site-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,66 +95,80 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.32,
-      "confianca": 95,
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Palestinians injured as Israeli forces raid Ramallah",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/palestinians-injured-as-israeli-forces-raid-ramallah?traffic_source=rss"
+          "title": "Trump news live: US president moves to fire Federal Reserve governor",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/trump-news-live-us-president-moves-to-fire-federal-reserve-governor?traffic_source=rss"
         },
         {
-          "title": "Iran vows reciprocal action after Australia expels ambassador",
-          "url": "https://www.aljazeera.com/news/2025/8/26/iran-vows-reciprocal-action-after-australia-expels-ambassador?traffic_source=rss"
-        },
-        {
-          "title": "Australia expels Iranian ambassador over attacks on Jewish sites",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/australia-expels-iranian-ambassador-over-attacks-on-jewish-sites?traffic_source=rss"
-        },
-        {
-          "title": "Video captures Israeli bombing of Gaza residential building",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/video-captures-israeli-bombing-of-gaza-residential-building?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s destruction in Lebanon could amount to war crimes: Amnesty",
-          "url": "https://www.aljazeera.com/news/2025/8/26/israels-destruction-in-lebanon-should-be-probed-as-war-crimes-amnesty?traffic_source=rss"
+          "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0026094849103699114,
-      "chg5d": 0.039035861258083566,
-      "chg1m": 0.014580941446613207
+      "chg1d": 0.001858605695048298,
+      "chg5d": 0.003688870151770698,
+      "chg1m": 0.005702819727531962
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.32,
-      "confianca": 95,
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Palestinians injured as Israeli forces raid Ramallah",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/palestinians-injured-as-israeli-forces-raid-ramallah?traffic_source=rss"
+          "title": "Trump news live: US president moves to fire Federal Reserve governor",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/trump-news-live-us-president-moves-to-fire-federal-reserve-governor?traffic_source=rss"
         },
         {
-          "title": "Iran vows reciprocal action after Australia expels ambassador",
-          "url": "https://www.aljazeera.com/news/2025/8/26/iran-vows-reciprocal-action-after-australia-expels-ambassador?traffic_source=rss"
-        },
-        {
-          "title": "Australia expels Iranian ambassador over attacks on Jewish sites",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/australia-expels-iranian-ambassador-over-attacks-on-jewish-sites?traffic_source=rss"
-        },
-        {
-          "title": "Video captures Israeli bombing of Gaza residential building",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/video-captures-israeli-bombing-of-gaza-residential-building?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s destruction in Lebanon could amount to war crimes: Amnesty",
-          "url": "https://www.aljazeera.com/news/2025/8/26/israels-destruction-in-lebanon-should-be-probed-as-war-crimes-amnesty?traffic_source=rss"
+          "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0034065441506051963,
-      "chg5d": 0.01606753812636175,
-      "chg1m": 0.0630386779685163
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "Trump news live: US president moves to fire Federal Reserve governor",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/trump-news-live-us-president-moves-to-fire-federal-reserve-governor?traffic_source=rss"
+        },
+        {
+          "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006541573420554234,
+      "chg5d": 0.03390654701383664,
+      "chg1m": 0.04354809923255395
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "Trump news live: US president moves to fire Federal Reserve governor",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/trump-news-live-us-president-moves-to-fire-federal-reserve-governor?traffic_source=rss"
+        },
+        {
+          "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0006615094868242167,
+      "chg5d": 0.004821743955236768,
+      "chg1m": 0.009349389267434808
     }
   ]
 }
