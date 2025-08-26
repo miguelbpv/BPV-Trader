@@ -1,131 +1,93 @@
 {
-  "generated_at": "2025-08-26T15:13:21.032340Z",
+  "generated_at": "2025-08-26T18:17:17.861846Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.96,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Hasbara with glitter: Israel’s politics of pleasure",
-          "url": "https://www.aljazeera.com/opinions/2025/8/26/hasbara-with-glitter-israels-politics-of-pleasure?traffic_source=rss"
-        },
-        {
-          "title": "Qatar says Israel yet to respond to Gaza ceasefire proposal",
-          "url": "https://www.aljazeera.com/news/2025/8/26/qatar-says-israel-yet-to-respond-to-gaza-ceasefire-proposal?traffic_source=rss"
-        },
-        {
-          "title": "Israeli protesters block highway with burning tyres",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/israeli-protesters-block-highway-with-burning-tyres?traffic_source=rss"
-        },
-        {
-          "title": "Australia accuses Iran of attacking “Jewish targets”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/26/australia-accuses-iran-of-attacking-jewish?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects Australian accusations over Jewish site attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/iran-rejects-australian-accusations-over-jewish-site-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0155677655677655,
-      "chg5d": 0.030809340285649453,
-      "chg1m": 0.07915222860397784
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.96,
+      "score": 7.31,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Hasbara with glitter: Israel’s politics of pleasure",
-          "url": "https://www.aljazeera.com/opinions/2025/8/26/hasbara-with-glitter-israels-politics-of-pleasure?traffic_source=rss"
+          "title": "Deadly Israeli attack hits crowded Gaza market",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/deadly-israeli-attack-hits-crowded-gaza-market?traffic_source=rss"
         },
         {
-          "title": "Qatar says Israel yet to respond to Gaza ceasefire proposal",
-          "url": "https://www.aljazeera.com/news/2025/8/26/qatar-says-israel-yet-to-respond-to-gaza-ceasefire-proposal?traffic_source=rss"
+          "title": "Iran, European powers hold nuclear talks in Geneva amid sanctions threat",
+          "url": "https://www.aljazeera.com/news/2025/8/26/iran-european-powers-hold-nuclear-talks-in-geneva-amid-sanctions?traffic_source=rss"
         },
         {
-          "title": "Israeli protesters block highway with burning tyres",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/israeli-protesters-block-highway-with-burning-tyres?traffic_source=rss"
+          "title": "What are double-tap strikes that Israel used to hit a hospital?",
+          "url": "https://www.aljazeera.com/news/2025/8/26/what-are-double-tap-strikes-that-israel-used-to-hit-a-hospital?traffic_source=rss"
         },
         {
-          "title": "Australia accuses Iran of attacking “Jewish targets”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/26/australia-accuses-iran-of-attacking-jewish?traffic_source=rss"
+          "title": "Who were the five journalists killed in Israel’s Gaza hospital attack?",
+          "url": "https://www.aljazeera.com/news/2025/8/26/who-were-the-five-journalists-killed-in-israels-gaza-hospital-attack?traffic_source=rss"
         },
         {
-          "title": "Iran rejects Australian accusations over Jewish site attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/iran-rejects-australian-accusations-over-jewish-site-attacks?traffic_source=rss"
+          "title": "Israel bombs once-bustling Gaza City neighbourhood Zeitoun to rubble",
+          "url": "https://www.aljazeera.com/news/2025/8/26/israel-bombs-once-bustling-gaza-city-neighbourhood-zeitoun-to-rubble?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006143487608917087,
-      "chg5d": 0.03228843441466859,
-      "chg1m": -0.0029844477239187412
+      "chg1d": -0.00690279506619893,
+      "chg5d": 0.03149976492712749,
+      "chg1m": -0.0037461686911113437
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 7.31,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Deadly Israeli attack hits crowded Gaza market",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/deadly-israeli-attack-hits-crowded-gaza-market?traffic_source=rss"
+        },
+        {
+          "title": "Iran, European powers hold nuclear talks in Geneva amid sanctions threat",
+          "url": "https://www.aljazeera.com/news/2025/8/26/iran-european-powers-hold-nuclear-talks-in-geneva-amid-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "What are double-tap strikes that Israel used to hit a hospital?",
+          "url": "https://www.aljazeera.com/news/2025/8/26/what-are-double-tap-strikes-that-israel-used-to-hit-a-hospital?traffic_source=rss"
+        },
+        {
+          "title": "Who were the five journalists killed in Israel’s Gaza hospital attack?",
+          "url": "https://www.aljazeera.com/news/2025/8/26/who-were-the-five-journalists-killed-in-israels-gaza-hospital-attack?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs once-bustling Gaza City neighbourhood Zeitoun to rubble",
+          "url": "https://www.aljazeera.com/news/2025/8/26/israel-bombs-once-bustling-gaza-city-neighbourhood-zeitoun-to-rubble?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015880461002412125,
+      "chg5d": 0.03112672863296296,
+      "chg1m": 0.07948450182750276
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.96,
+      "score": 7.31,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Hasbara with glitter: Israel’s politics of pleasure",
-          "url": "https://www.aljazeera.com/opinions/2025/8/26/hasbara-with-glitter-israels-politics-of-pleasure?traffic_source=rss"
+          "title": "Deadly Israeli attack hits crowded Gaza market",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/deadly-israeli-attack-hits-crowded-gaza-market?traffic_source=rss"
         },
         {
-          "title": "Qatar says Israel yet to respond to Gaza ceasefire proposal",
-          "url": "https://www.aljazeera.com/news/2025/8/26/qatar-says-israel-yet-to-respond-to-gaza-ceasefire-proposal?traffic_source=rss"
+          "title": "Iran, European powers hold nuclear talks in Geneva amid sanctions threat",
+          "url": "https://www.aljazeera.com/news/2025/8/26/iran-european-powers-hold-nuclear-talks-in-geneva-amid-sanctions?traffic_source=rss"
         },
         {
-          "title": "Israeli protesters block highway with burning tyres",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/israeli-protesters-block-highway-with-burning-tyres?traffic_source=rss"
+          "title": "What are double-tap strikes that Israel used to hit a hospital?",
+          "url": "https://www.aljazeera.com/news/2025/8/26/what-are-double-tap-strikes-that-israel-used-to-hit-a-hospital?traffic_source=rss"
         },
         {
-          "title": "Australia accuses Iran of attacking “Jewish targets”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/8/26/australia-accuses-iran-of-attacking-jewish?traffic_source=rss"
+          "title": "Who were the five journalists killed in Israel’s Gaza hospital attack?",
+          "url": "https://www.aljazeera.com/news/2025/8/26/who-were-the-five-journalists-killed-in-israels-gaza-hospital-attack?traffic_source=rss"
         },
         {
-          "title": "Iran rejects Australian accusations over Jewish site attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/iran-rejects-australian-accusations-over-jewish-site-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Trump news live: US president moves to fire Federal Reserve governor",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/trump-news-live-us-president-moves-to-fire-federal-reserve-governor?traffic_source=rss"
-        },
-        {
-          "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
-          "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.001858605695048298,
-      "chg5d": 0.003688870151770698,
-      "chg1m": 0.005702819727531962
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Trump news live: US president moves to fire Federal Reserve governor",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/trump-news-live-us-president-moves-to-fire-federal-reserve-governor?traffic_source=rss"
-        },
-        {
-          "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
-          "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
+          "title": "Israel bombs once-bustling Gaza City neighbourhood Zeitoun to rubble",
+          "url": "https://www.aljazeera.com/news/2025/8/26/israel-bombs-once-bustling-gaza-city-neighbourhood-zeitoun-to-rubble?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -139,17 +101,36 @@
       "confianca": 49,
       "razoes": [
         {
-          "title": "Trump news live: US president moves to fire Federal Reserve governor",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/trump-news-live-us-president-moves-to-fire-federal-reserve-governor?traffic_source=rss"
+          "title": "US judge rejects Trump’s lawsuit against Maryland federal court system",
+          "url": "https://www.aljazeera.com/news/2025/8/26/us-judge-rejects-trumps-lawsuit-against-maryland-federal-court-system?traffic_source=rss"
         },
         {
           "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
           "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006541573420554234,
-      "chg5d": 0.03390654701383664,
-      "chg1m": 0.04354809923255395
+      "chg1d": 0.009511103460147958,
+      "chg5d": 0.036956810043764575,
+      "chg1m": 0.04662680706764228
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US judge rejects Trump’s lawsuit against Maryland federal court system",
+          "url": "https://www.aljazeera.com/news/2025/8/26/us-judge-rejects-trumps-lawsuit-against-maryland-federal-court-system?traffic_source=rss"
+        },
+        {
+          "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "SPY",
@@ -158,17 +139,81 @@
       "confianca": 49,
       "razoes": [
         {
-          "title": "Trump news live: US president moves to fire Federal Reserve governor",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/26/trump-news-live-us-president-moves-to-fire-federal-reserve-governor?traffic_source=rss"
+          "title": "US judge rejects Trump’s lawsuit against Maryland federal court system",
+          "url": "https://www.aljazeera.com/news/2025/8/26/us-judge-rejects-trumps-lawsuit-against-maryland-federal-court-system?traffic_source=rss"
         },
         {
           "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
           "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0006615094868242167,
-      "chg5d": 0.004821743955236768,
-      "chg1m": 0.009349389267434808
+      "chg1d": 0.0007471165968839295,
+      "chg5d": 0.004907706975508511,
+      "chg1m": 0.00943573963010643
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US judge rejects Trump’s lawsuit against Maryland federal court system",
+          "url": "https://www.aljazeera.com/news/2025/8/26/us-judge-rejects-trumps-lawsuit-against-maryland-federal-court-system?traffic_source=rss"
+        },
+        {
+          "title": "Will Trump’s latest attack on the Fed erode central bank’s independence?",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/will-trumps-latest-attack-on-the-fed-erode-central-banks-independence?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0007714967036048899,
+      "chg5d": 0.0025997751545812574,
+      "chg1m": 0.004611539409300532
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Iran, European powers hold nuclear talks in Geneva amid sanctions threat",
+          "url": "https://www.aljazeera.com/news/2025/8/26/iran-european-powers-hold-nuclear-talks-in-geneva-amid-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009168470648159925,
+      "chg5d": 0.021701761925225663,
+      "chg1m": -0.02059732234809475
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Iran, European powers hold nuclear talks in Geneva amid sanctions threat",
+          "url": "https://www.aljazeera.com/news/2025/8/26/iran-european-powers-hold-nuclear-talks-in-geneva-amid-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009818518369482105,
+      "chg5d": 0.02365898429532932,
+      "chg1m": 0.021159715157680524
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Iran, European powers hold nuclear talks in Geneva amid sanctions threat",
+          "url": "https://www.aljazeera.com/news/2025/8/26/iran-european-powers-hold-nuclear-talks-in-geneva-amid-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0036184820931527426,
+      "chg5d": 0.01826226113150716,
+      "chg1m": 0.037260784394306835
     }
   ]
 }
