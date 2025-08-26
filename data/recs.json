@@ -1,74 +1,16 @@
 {
-  "generated_at": "2025-08-26T00:59:34.623365Z",
+  "generated_at": "2025-08-26T03:37:49.073354Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.92,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel bombs hospital, kills journalists, medics, dozens more across Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/25/israel-bombs-hospital-kills-journalists-medics-dozens-more-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s killing of six Gaza journalists draws global condemnation",
-          "url": "https://www.aljazeera.com/news/2025/8/25/global-outrage-following-israeli-attack-that-killed-five-gaza-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Israel army chief says captive ‘deal on table’, Israel must take it: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/25/israel-army-chief-says-captive-deal-on-table-israel-must-take-it-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0034065441506051963,
-      "chg5d": 0.01606753812636175,
-      "chg1m": 0.0630386779685163
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.92,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel bombs hospital, kills journalists, medics, dozens more across Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/25/israel-bombs-hospital-kills-journalists-medics-dozens-more-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s killing of six Gaza journalists draws global condemnation",
-          "url": "https://www.aljazeera.com/news/2025/8/25/global-outrage-following-israeli-attack-that-killed-five-gaza-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Israel army chief says captive ‘deal on table’, Israel must take it: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/25/israel-army-chief-says-captive-deal-on-table-israel-must-take-it-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.92,
-      "confianca": 95,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Australia accuses Iran of directing antisemitic attacks, expels envoy",
+          "url": "https://www.aljazeera.com/news/2025/8/26/australia-accuses-iran-of-directing-antisemitic-attacks-expels-envoy?traffic_source=rss"
+        },
         {
           "title": "Israel bombs hospital, kills journalists, medics, dozens more across Gaza",
           "url": "https://www.aljazeera.com/news/2025/8/25/israel-bombs-hospital-kills-journalists-medics-dozens-more-across-gaza?traffic_source=rss"
@@ -80,14 +22,6 @@
         {
           "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
           "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s killing of six Gaza journalists draws global condemnation",
-          "url": "https://www.aljazeera.com/news/2025/8/25/global-outrage-following-israeli-attack-that-killed-five-gaza-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Israel army chief says captive ‘deal on table’, Israel must take it: Report",
-          "url": "https://www.aljazeera.com/news/2025/8/25/israel-army-chief-says-captive-deal-on-table-israel-must-take-it-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.0026094849103699114,
@@ -95,14 +29,26 @@
       "chg1m": 0.014580941446613207
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "Trump orders removal of Fed governor Cook over mortgage fraud claims",
-          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-orders-removal-o-fed-governor-cook-over-mortgage-fraud-claims?traffic_source=rss"
+          "title": "Australia accuses Iran of directing antisemitic attacks, expels envoy",
+          "url": "https://www.aljazeera.com/news/2025/8/26/australia-accuses-iran-of-directing-antisemitic-attacks-expels-envoy?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs hospital, kills journalists, medics, dozens more across Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/25/israel-bombs-hospital-kills-journalists-medics-dozens-more-across-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -110,25 +56,37 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "Trump orders removal of Fed governor Cook over mortgage fraud claims",
-          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-orders-removal-o-fed-governor-cook-over-mortgage-fraud-claims?traffic_source=rss"
+          "title": "Australia accuses Iran of directing antisemitic attacks, expels envoy",
+          "url": "https://www.aljazeera.com/news/2025/8/26/australia-accuses-iran-of-directing-antisemitic-attacks-expels-envoy?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs hospital, kills journalists, medics, dozens more across Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/25/israel-bombs-hospital-kills-journalists-medics-dozens-more-across-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills journalists, rescuers in double Gaza hospital attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/25/israel-kills-journalists-rescuers-in-double-gaza-hospital-attack?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah chief rejects disarmament, demands Israel comply with ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/8/25/hezbollah-chief-rejects-disarmament-demands-israel-comply-with-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00288476668356728,
-      "chg5d": -0.011765521304430634,
-      "chg1m": 0.006974239454773461
+      "chg1d": 0.0034065441506051963,
+      "chg5d": 0.01606753812636175,
+      "chg1m": 0.0630386779685163
     },
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Trump orders removal of Fed governor Cook over mortgage fraud claims",
@@ -140,24 +98,54 @@
       "chg1m": 0.00842881808193377
     },
     {
-      "symbol": "IWM",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Trump orders removal of Fed governor Cook over mortgage fraud claims",
           "url": "https://www.aljazeera.com/economy/2025/8/26/trump-orders-removal-o-fed-governor-cook-over-mortgage-fraud-claims?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010433079248818367,
-      "chg5d": 0.019389366555536004,
-      "chg1m": 0.03565380158659417
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders removal of Fed governor Cook over mortgage fraud claims",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-orders-removal-o-fed-governor-cook-over-mortgage-fraud-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010518247242686194,
+      "chg5d": 0.01930163186523954,
+      "chg1m": 0.03556466708262777
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders removal of Fed governor Cook over mortgage fraud claims",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-orders-removal-o-fed-governor-cook-over-mortgage-fraud-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00288476668356728,
+      "chg5d": -0.011765521304430634,
+      "chg1m": 0.006974239454773461
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -165,14 +153,14 @@
           "url": "https://www.aljazeera.com/economy/2025/8/25/trump-threatens-new-china-tariffs-over-magnets?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0023284756513710404,
-      "chg5d": -0.0021682393093757093,
-      "chg1m": 0.028856504098700005
+      "chg1d": 0.011159277222198352,
+      "chg5d": -0.02410836336522925,
+      "chg1m": -0.04075732899022798
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -185,9 +173,9 @@
       "chg1m": 0.06075219683655541
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -195,9 +183,9 @@
           "url": "https://www.aljazeera.com/economy/2025/8/25/trump-threatens-new-china-tariffs-over-magnets?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011159277222198352,
-      "chg5d": -0.02410836336522925,
-      "chg1m": -0.04075732899022798
+      "chg1d": -0.0023284756513710404,
+      "chg5d": -0.0021682393093757093,
+      "chg1m": 0.028856504098700005
     }
   ]
 }
