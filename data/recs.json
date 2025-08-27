@@ -1,45 +1,18 @@
 {
-  "generated_at": "2025-08-27T09:13:24.422974Z",
+  "generated_at": "2025-08-27T12:24:28.117647Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 7.57,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Why investors are on tenterhooks for Nvidia’s latest earnings report",
-          "url": "https://www.aljazeera.com/news/2025/8/27/why-investors-are-on-tenterhooks-for-nvidias-latest-earnings-report?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians flee Israel’s fierce bombardment of Gaza City",
-          "url": "https://www.aljazeera.com/gallery/2025/8/27/palestinians-flee-israels-fierce-bombardment-of-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel starves 10 more Palestinians to death in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/27/live-israel-destroys-entire-neighbourhoods-in-push-to-occupy-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Hamas challenges Israeli account of Gaza hospital attack that killed 21",
-          "url": "https://www.aljazeera.com/news/2025/8/27/hamas-challenges-israeli-account-of-gaza-hospital-attack-that-killed-21?traffic_source=rss"
-        },
-        {
-          "title": "Australia denies Iran action due to ‘intervention’ by Israel’s Netanyahu",
-          "url": "https://www.aljazeera.com/news/2025/8/27/australia-denies-iran-action-due-to-intervention-by-israels-netanyahu?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01728759045832206,
-      "chg5d": 0.03255497619587385,
-      "chg1m": 0.08097973133336499
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.19,
+      "score": 5.25,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US imposes 50 percent tariff on India over Russian oil purchases",
+          "title": "US senators visit church attacked by Israeli settlers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/27/us-senators-visit-church-attacked-by-israeli-settlers?traffic_source=rss"
+        },
+        {
+          "title": "US raises India tariffs to 50 percent over Russian oil purchases",
           "url": "https://www.aljazeera.com/news/2025/8/27/us-imposes-50-percent-tariff-on-india-over-russian-oil-purchases?traffic_source=rss"
         },
         {
@@ -53,10 +26,6 @@
         {
           "title": "Hamas challenges Israeli account of Gaza hospital attack that killed 21",
           "url": "https://www.aljazeera.com/news/2025/8/27/hamas-challenges-israeli-account-of-gaza-hospital-attack-that-killed-21?traffic_source=rss"
-        },
-        {
-          "title": "Australia denies Iran action due to ‘intervention’ by Israel’s Netanyahu",
-          "url": "https://www.aljazeera.com/news/2025/8/27/australia-denies-iran-action-due-to-intervention-by-israels-netanyahu?traffic_source=rss"
         }
       ],
       "chg1d": -0.00158424804798009,
@@ -66,11 +35,15 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.19,
+      "score": 5.25,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US imposes 50 percent tariff on India over Russian oil purchases",
+          "title": "US senators visit church attacked by Israeli settlers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/27/us-senators-visit-church-attacked-by-israeli-settlers?traffic_source=rss"
+        },
+        {
+          "title": "US raises India tariffs to 50 percent over Russian oil purchases",
           "url": "https://www.aljazeera.com/news/2025/8/27/us-imposes-50-percent-tariff-on-india-over-russian-oil-purchases?traffic_source=rss"
         },
         {
@@ -84,10 +57,6 @@
         {
           "title": "Hamas challenges Israeli account of Gaza hospital attack that killed 21",
           "url": "https://www.aljazeera.com/news/2025/8/27/hamas-challenges-israeli-account-of-gaza-hospital-attack-that-killed-21?traffic_source=rss"
-        },
-        {
-          "title": "Australia denies Iran action due to ‘intervention’ by Israel’s Netanyahu",
-          "url": "https://www.aljazeera.com/news/2025/8/27/australia-denies-iran-action-due-to-intervention-by-israels-netanyahu?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,45 +64,49 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.57,
-      "confianca": 73,
+      "score": 4.9,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "US imposes 50 percent tariff on India over Russian oil purchases",
-          "url": "https://www.aljazeera.com/news/2025/8/27/us-imposes-50-percent-tariff-on-india-over-russian-oil-purchases?traffic_source=rss"
+          "title": "US senators visit church attacked by Israeli settlers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/27/us-senators-visit-church-attacked-by-israeli-settlers?traffic_source=rss"
         },
         {
           "title": "Why investors are on tenterhooks for Nvidia’s latest earnings report",
           "url": "https://www.aljazeera.com/news/2025/8/27/why-investors-are-on-tenterhooks-for-nvidias-latest-earnings-report?traffic_source=rss"
         },
         {
-          "title": "Trump administration considers stake in defence firms like Lockheed Martin",
-          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-administration-considers-stake-in-defence-firms-like-lockheed-martin?traffic_source=rss"
+          "title": "Palestinians flee Israel’s fierce bombardment of Gaza City",
+          "url": "https://www.aljazeera.com/gallery/2025/8/27/palestinians-flee-israels-fierce-bombardment-of-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel starves 10 more Palestinians to death in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/27/live-israel-destroys-entire-neighbourhoods-in-push-to-occupy-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Hamas challenges Israeli account of Gaza hospital attack that killed 21",
+          "url": "https://www.aljazeera.com/news/2025/8/27/hamas-challenges-israeli-account-of-gaza-hospital-attack-that-killed-21?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011584444503353403,
-      "chg5d": 0.026344454754508456,
-      "chg1m": 0.04549377388731357
+      "chg1d": 0.01728759045832206,
+      "chg5d": 0.03255497619587385,
+      "chg1m": 0.08097973133336499
     },
     {
       "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.57,
-      "confianca": 73,
+      "acao": "observar",
+      "score": 1.83,
+      "confianca": 52,
       "razoes": [
         {
-          "title": "US imposes 50 percent tariff on India over Russian oil purchases",
+          "title": "US raises India tariffs to 50 percent over Russian oil purchases",
           "url": "https://www.aljazeera.com/news/2025/8/27/us-imposes-50-percent-tariff-on-india-over-russian-oil-purchases?traffic_source=rss"
         },
         {
           "title": "Why investors are on tenterhooks for Nvidia’s latest earnings report",
           "url": "https://www.aljazeera.com/news/2025/8/27/why-investors-are-on-tenterhooks-for-nvidias-latest-earnings-report?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration considers stake in defence firms like Lockheed Martin",
-          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-administration-considers-stake-in-defence-firms-like-lockheed-martin?traffic_source=rss"
         }
       ],
       "chg1d": 0.01328579311515767,
@@ -141,38 +114,53 @@
       "chg1m": -0.01660144181256437
     },
     {
-      "symbol": "NVDA",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.83,
+      "confianca": 52,
       "razoes": [
+        {
+          "title": "US raises India tariffs to 50 percent over Russian oil purchases",
+          "url": "https://www.aljazeera.com/news/2025/8/27/us-imposes-50-percent-tariff-on-india-over-russian-oil-purchases?traffic_source=rss"
+        },
         {
           "title": "Why investors are on tenterhooks for Nvidia’s latest earnings report",
           "url": "https://www.aljazeera.com/news/2025/8/27/why-investors-are-on-tenterhooks-for-nvidias-latest-earnings-report?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration considers stake in defence firms like Lockheed Martin",
-          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-administration-considers-stake-in-defence-firms-like-lockheed-martin?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010900394861242467,
-      "chg5d": 0.0349009337280803,
-      "chg1m": 0.02840169731258846
+      "chg1d": 0.011584444503353403,
+      "chg5d": 0.026344454754508456,
+      "chg1m": 0.04549377388731357
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
-          "title": "US imposes 50 percent tariff on India over Russian oil purchases",
+          "title": "US raises India tariffs to 50 percent over Russian oil purchases",
           "url": "https://www.aljazeera.com/news/2025/8/27/us-imposes-50-percent-tariff-on-india-over-russian-oil-purchases?traffic_source=rss"
         }
       ],
       "chg1d": 0.009416120075650894,
       "chg5d": 0.02325107077299608,
       "chg1m": 0.020752797558494383
+    },
+    {
+      "symbol": "NVDA",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Why investors are on tenterhooks for Nvidia’s latest earnings report",
+          "url": "https://www.aljazeera.com/news/2025/8/27/why-investors-are-on-tenterhooks-for-nvidias-latest-earnings-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.010900394861242467,
+      "chg5d": 0.0349009337280803,
+      "chg1m": 0.02840169731258846
     }
   ]
 }
