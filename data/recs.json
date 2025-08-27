@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-08-27T03:31:01.653628Z",
+  "generated_at": "2025-08-27T06:18:17.352628Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 7.19,
+      "score": 7.33,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel destroys entire neighbourhoods in push to occupy Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/27/live-israel-destroys-entire-neighbourhoods-in-push-to-occupy-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Hamas challenges Israeli account of Gaza hospital attack that killed 21",
+          "url": "https://www.aljazeera.com/news/2025/8/27/hamas-challenges-israeli-account-of-gaza-hospital-attack-that-killed-21?traffic_source=rss"
+        },
+        {
+          "title": "Australia denies Iran action due to ‘intervention’ by Israel’s Netanyahu",
+          "url": "https://www.aljazeera.com/news/2025/8/27/australia-denies-iran-action-due-to-intervention-by-israels-netanyahu?traffic_source=rss"
+        },
         {
           "title": "Six Syrian soldiers killed in Israeli strikes near Damascus: State media",
           "url": "https://www.aljazeera.com/news/2025/8/26/six-syrian-soldiers-killed-in-israeli-strikes-near-damascus-state-media?traffic_source=rss"
@@ -14,18 +26,6 @@
         {
           "title": "Trump administration considers stake in defence firms like Lockheed Martin",
           "url": "https://www.aljazeera.com/economy/2025/8/26/trump-administration-considers-stake-in-defence-firms-like-lockheed-martin?traffic_source=rss"
-        },
-        {
-          "title": "‘Day of Disruption’: Families, supporters of Israeli Gaza captives protest",
-          "url": "https://www.aljazeera.com/news/2025/8/26/day-of-disruption-families-supporters-of-israeli-gaza-captives-protest?traffic_source=rss"
-        },
-        {
-          "title": "Israel pushes further into Gaza City, killing and displacing Palestinians",
-          "url": "https://www.aljazeera.com/news/2025/8/26/israel-pushes-further-into-gaza-city-killing-and-displacing-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera reporter flees on air after Israeli strike threat on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/al-jazeera-reporter-flees-on-air-after-israeli-strike-threat-on-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.01728759045832206,
@@ -33,42 +33,23 @@
       "chg1m": 0.08097973133336499
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.45,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Six Syrian soldiers killed in Israeli strikes near Damascus: State media",
-          "url": "https://www.aljazeera.com/news/2025/8/26/six-syrian-soldiers-killed-in-israeli-strikes-near-damascus-state-media?traffic_source=rss"
-        },
-        {
-          "title": "‘Day of Disruption’: Families, supporters of Israeli Gaza captives protest",
-          "url": "https://www.aljazeera.com/news/2025/8/26/day-of-disruption-families-supporters-of-israeli-gaza-captives-protest?traffic_source=rss"
-        },
-        {
-          "title": "Israel pushes further into Gaza City, killing and displacing Palestinians",
-          "url": "https://www.aljazeera.com/news/2025/8/26/israel-pushes-further-into-gaza-city-killing-and-displacing-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera reporter flees on air after Israeli strike threat on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/al-jazeera-reporter-flees-on-air-after-israeli-strike-threat-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Journalists in Gaza protest Israel’s killing of their colleagues",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/journalists-in-gaza-protest-israels-killing-of-their-colleagues?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00158424804798009,
-      "chg5d": 0.0370239774330043,
-      "chg1m": 0.0015892836871381605
-    },
-    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.45,
+      "score": 6.6,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel destroys entire neighbourhoods in push to occupy Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/27/live-israel-destroys-entire-neighbourhoods-in-push-to-occupy-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Hamas challenges Israeli account of Gaza hospital attack that killed 21",
+          "url": "https://www.aljazeera.com/news/2025/8/27/hamas-challenges-israeli-account-of-gaza-hospital-attack-that-killed-21?traffic_source=rss"
+        },
+        {
+          "title": "Australia denies Iran action due to ‘intervention’ by Israel’s Netanyahu",
+          "url": "https://www.aljazeera.com/news/2025/8/27/australia-denies-iran-action-due-to-intervention-by-israels-netanyahu?traffic_source=rss"
+        },
         {
           "title": "Six Syrian soldiers killed in Israeli strikes near Damascus: State media",
           "url": "https://www.aljazeera.com/news/2025/8/26/six-syrian-soldiers-killed-in-israeli-strikes-near-damascus-state-media?traffic_source=rss"
@@ -76,18 +57,6 @@
         {
           "title": "‘Day of Disruption’: Families, supporters of Israeli Gaza captives protest",
           "url": "https://www.aljazeera.com/news/2025/8/26/day-of-disruption-families-supporters-of-israeli-gaza-captives-protest?traffic_source=rss"
-        },
-        {
-          "title": "Israel pushes further into Gaza City, killing and displacing Palestinians",
-          "url": "https://www.aljazeera.com/news/2025/8/26/israel-pushes-further-into-gaza-city-killing-and-displacing-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera reporter flees on air after Israeli strike threat on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/al-jazeera-reporter-flees-on-air-after-israeli-strike-threat-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Journalists in Gaza protest Israel’s killing of their colleagues",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/26/journalists-in-gaza-protest-israels-killing-of-their-colleagues?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,18 +64,45 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.6,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Israel destroys entire neighbourhoods in push to occupy Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/27/live-israel-destroys-entire-neighbourhoods-in-push-to-occupy-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Hamas challenges Israeli account of Gaza hospital attack that killed 21",
+          "url": "https://www.aljazeera.com/news/2025/8/27/hamas-challenges-israeli-account-of-gaza-hospital-attack-that-killed-21?traffic_source=rss"
+        },
+        {
+          "title": "Australia denies Iran action due to ‘intervention’ by Israel’s Netanyahu",
+          "url": "https://www.aljazeera.com/news/2025/8/27/australia-denies-iran-action-due-to-intervention-by-israels-netanyahu?traffic_source=rss"
+        },
+        {
+          "title": "Six Syrian soldiers killed in Israeli strikes near Damascus: State media",
+          "url": "https://www.aljazeera.com/news/2025/8/26/six-syrian-soldiers-killed-in-israeli-strikes-near-damascus-state-media?traffic_source=rss"
+        },
+        {
+          "title": "‘Day of Disruption’: Families, supporters of Israeli Gaza captives protest",
+          "url": "https://www.aljazeera.com/news/2025/8/26/day-of-disruption-families-supporters-of-israeli-gaza-captives-protest?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00158424804798009,
+      "chg5d": 0.0370239774330043,
+      "chg1m": 0.0015892836871381605
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Trump administration considers stake in defence firms like Lockheed Martin",
           "url": "https://www.aljazeera.com/economy/2025/8/26/trump-administration-considers-stake-in-defence-firms-like-lockheed-martin?traffic_source=rss"
-        },
-        {
-          "title": "Iran warns European powers of consequences for sanctions at nuclear talks",
-          "url": "https://www.aljazeera.com/news/2025/8/26/iran-european-powers-hold-nuclear-talks-in-geneva-amid-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.01328579311515767,
@@ -114,44 +110,10 @@
       "chg1m": -0.01660144181256437
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
-      "razoes": [
-        {
-          "title": "Trump administration considers stake in defence firms like Lockheed Martin",
-          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-administration-considers-stake-in-defence-firms-like-lockheed-martin?traffic_source=rss"
-        },
-        {
-          "title": "Iran warns European powers of consequences for sanctions at nuclear talks",
-          "url": "https://www.aljazeera.com/news/2025/8/26/iran-european-powers-hold-nuclear-talks-in-geneva-amid-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011584444503353403,
-      "chg5d": 0.026344454754508456,
-      "chg1m": 0.04549377388731357
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Iran warns European powers of consequences for sanctions at nuclear talks",
-          "url": "https://www.aljazeera.com/news/2025/8/26/iran-european-powers-hold-nuclear-talks-in-geneva-amid-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009416120075650894,
-      "chg5d": 0.02325107077299608,
-      "chg1m": 0.020752797558494383
-    },
-    {
       "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Trump administration considers stake in defence firms like Lockheed Martin",
@@ -161,6 +123,21 @@
       "chg1d": 0.010900394861242467,
       "chg5d": 0.0349009337280803,
       "chg1m": 0.02840169731258846
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Trump administration considers stake in defence firms like Lockheed Martin",
+          "url": "https://www.aljazeera.com/economy/2025/8/26/trump-administration-considers-stake-in-defence-firms-like-lockheed-martin?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011584444503353403,
+      "chg5d": 0.026344454754508456,
+      "chg1m": 0.04549377388731357
     }
   ]
 }
