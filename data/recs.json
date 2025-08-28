@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-08-28T00:57:00.633555Z",
+  "generated_at": "2025-08-28T03:31:01.714234Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 4.9,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Chip giant Nvidia’s sales rise 56% in boost for AI boom",
+          "url": "https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss"
+        },
         {
           "title": "Calls grow to release US teen Mohammed Ibrahim detained by Israel",
           "url": "https://www.aljazeera.com/news/2025/8/27/calls-grow-to-release-us-teen-mohammed-ibrahim-detained-by-israel?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Israeli official Alexandrovich skips US court hearing on child sex charges",
           "url": "https://www.aljazeera.com/news/2025/8/27/israeli-official-alexandrovich-skips-us-court-hearing-on-child-sex-charges?traffic_source=rss"
-        },
-        {
-          "title": "UN says Gaza famine expanding, ten more die from hunger amid Israeli siege",
-          "url": "https://www.aljazeera.com/news/2025/8/27/un-warns-gaza-famine-expanding-as-aid-groups-decry-israeli-siege?traffic_source=rss"
         }
       ],
       "chg1d": -0.0021736266631536298,
@@ -33,40 +33,9 @@
       "chg1m": 0.08173660533644356
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Calls grow to release US teen Mohammed Ibrahim detained by Israel",
-          "url": "https://www.aljazeera.com/news/2025/8/27/calls-grow-to-release-us-teen-mohammed-ibrahim-detained-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches new operations in Syria after strike kills soldiers",
-          "url": "https://www.aljazeera.com/news/2025/8/27/israel-launches-new-operations-in-syria-after-strike-kills-soldiers?traffic_source=rss"
-        },
-        {
-          "title": "Will a UN funding shortfall affect investigations into Israel’s crimes?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/27/will-a-un-funding-shortfall-affect-investigations-into-israels-crimes?traffic_source=rss"
-        },
-        {
-          "title": "Israeli official Alexandrovich skips US court hearing on child sex charges",
-          "url": "https://www.aljazeera.com/news/2025/8/27/israeli-official-alexandrovich-skips-us-court-hearing-on-child-sex-charges?traffic_source=rss"
-        },
-        {
-          "title": "UN says Gaza famine expanding, ten more die from hunger amid Israeli siege",
-          "url": "https://www.aljazeera.com/news/2025/8/27/un-warns-gaza-famine-expanding-as-aid-groups-decry-israeli-siege?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 4.16,
       "confianca": 95,
       "razoes": [
         {
@@ -95,11 +64,46 @@
       "chg1m": 0.0030354131534569536
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.82,
-      "confianca": 52,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.16,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Calls grow to release US teen Mohammed Ibrahim detained by Israel",
+          "url": "https://www.aljazeera.com/news/2025/8/27/calls-grow-to-release-us-teen-mohammed-ibrahim-detained-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches new operations in Syria after strike kills soldiers",
+          "url": "https://www.aljazeera.com/news/2025/8/27/israel-launches-new-operations-in-syria-after-strike-kills-soldiers?traffic_source=rss"
+        },
+        {
+          "title": "Will a UN funding shortfall affect investigations into Israel’s crimes?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/8/27/will-a-un-funding-shortfall-affect-investigations-into-israels-crimes?traffic_source=rss"
+        },
+        {
+          "title": "Israeli official Alexandrovich skips US court hearing on child sex charges",
+          "url": "https://www.aljazeera.com/news/2025/8/27/israeli-official-alexandrovich-skips-us-court-hearing-on-child-sex-charges?traffic_source=rss"
+        },
+        {
+          "title": "UN says Gaza famine expanding, ten more die from hunger amid Israeli siege",
+          "url": "https://www.aljazeera.com/news/2025/8/27/un-warns-gaza-famine-expanding-as-aid-groups-decry-israeli-siege?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.56,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Chip giant Nvidia’s sales rise 56% in boost for AI boom",
+          "url": "https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss"
+        },
         {
           "title": "Indian workers begin to feel impact of Trump’s tariffs",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/27/indian-workers-begin-to-feel-impact-of-trumps-tariffs?traffic_source=rss"
@@ -114,10 +118,33 @@
       "chg1m": -0.008453155430323708
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.56,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Chip giant Nvidia’s sales rise 56% in boost for AI boom",
+          "url": "https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss"
+        },
+        {
+          "title": "Indian workers begin to feel impact of Trump’s tariffs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/27/indian-workers-begin-to-feel-impact-of-trumps-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "Brazil mulls legal challenges to tariffs as impacts weigh on US consumers",
+          "url": "https://www.aljazeera.com/economy/2025/8/27/brazil-mulls-legal-challenges-to-tariffs-as-impacts-weigh-on-us-consumers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008909853249475831,
+      "chg5d": 0.027365275053703172,
+      "chg1m": 0.07169202076577265
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.82,
-      "confianca": 52,
+      "score": 1.81,
+      "confianca": 51,
       "razoes": [
         {
           "title": "Indian workers begin to feel impact of Trump’s tariffs",
@@ -133,23 +160,19 @@
       "chg1m": 0.020918802550875363
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "NVDA",
       "acao": "observar",
-      "score": 1.82,
-      "confianca": 52,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Indian workers begin to feel impact of Trump’s tariffs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/27/indian-workers-begin-to-feel-impact-of-trumps-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "Brazil mulls legal challenges to tariffs as impacts weigh on US consumers",
-          "url": "https://www.aljazeera.com/economy/2025/8/27/brazil-mulls-legal-challenges-to-tariffs-as-impacts-weigh-on-us-consumers?traffic_source=rss"
+          "title": "Chip giant Nvidia’s sales rise 56% in boost for AI boom",
+          "url": "https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008909853249475831,
-      "chg5d": 0.027365275053703172,
-      "chg1m": 0.07169202076577265
+      "chg1d": -0.0009352478406778671,
+      "chg5d": 0.03534777651083232,
+      "chg1m": 0.03469887755683439
     }
   ]
 }
