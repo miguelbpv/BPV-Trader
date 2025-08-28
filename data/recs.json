@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-08-28T06:18:58.037540Z",
+  "generated_at": "2025-08-28T09:13:31.475989Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.91,
+      "score": 3.43,
       "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Israel demolishes all buildings in Gaza City’s southern Zeitoun area",
+          "title": "LIVE: Israel starves four more Palestinians to death in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/28/live-israel-demolishes-all-buildings-in-gaza-citys-southern-zeitoun-area?traffic_source=rss"
         },
         {
@@ -35,11 +35,11 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.17,
-      "confianca": 95,
+      "score": 2.69,
+      "confianca": 76,
       "razoes": [
         {
-          "title": "LIVE: Israel demolishes all buildings in Gaza City’s southern Zeitoun area",
+          "title": "LIVE: Israel starves four more Palestinians to death in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/28/live-israel-demolishes-all-buildings-in-gaza-citys-southern-zeitoun-area?traffic_source=rss"
         },
         {
@@ -53,10 +53,6 @@
         {
           "title": "Israel launches new operations in Syria after strike kills soldiers",
           "url": "https://www.aljazeera.com/news/2025/8/27/israel-launches-new-operations-in-syria-after-strike-kills-soldiers?traffic_source=rss"
-        },
-        {
-          "title": "Will a UN funding shortfall affect investigations into Israel’s crimes?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/27/will-a-un-funding-shortfall-affect-investigations-into-israels-crimes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,11 +62,11 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.17,
-      "confianca": 95,
+      "score": 2.69,
+      "confianca": 76,
       "razoes": [
         {
-          "title": "LIVE: Israel demolishes all buildings in Gaza City’s southern Zeitoun area",
+          "title": "LIVE: Israel starves four more Palestinians to death in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/28/live-israel-demolishes-all-buildings-in-gaza-citys-southern-zeitoun-area?traffic_source=rss"
         },
         {
@@ -84,10 +80,6 @@
         {
           "title": "Israel launches new operations in Syria after strike kills soldiers",
           "url": "https://www.aljazeera.com/news/2025/8/27/israel-launches-new-operations-in-syria-after-strike-kills-soldiers?traffic_source=rss"
-        },
-        {
-          "title": "Will a UN funding shortfall affect investigations into Israel’s crimes?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/8/27/will-a-un-funding-shortfall-affect-investigations-into-israels-crimes?traffic_source=rss"
         }
       ],
       "chg1d": 0.011220673240394365,
@@ -95,63 +87,70 @@
       "chg1m": 0.0030354131534569536
     },
     {
-      "symbol": "TSM",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Chip giant Nvidia’s sales rise 56% in boost for AI boom",
-          "url": "https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss"
-        },
-        {
-          "title": "Indian workers begin to feel impact of Trump’s tariffs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/27/indian-workers-begin-to-feel-impact-of-trumps-tariffs?traffic_source=rss"
+          "title": "From Anti-Wokeness to the Confederate States of America",
+          "url": "https://www.aljazeera.com/opinions/2025/8/28/from-anti-wokeness-to-the-confederate-states-of-america?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0023877345844503734,
-      "chg5d": 0.04676290463692038,
-      "chg1m": -0.008453155430323708
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Chip giant Nvidia’s sales rise 56% in boost for AI boom",
-          "url": "https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss"
-        },
-        {
-          "title": "Indian workers begin to feel impact of Trump’s tariffs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/27/indian-workers-begin-to-feel-impact-of-trumps-tariffs?traffic_source=rss"
+          "title": "From Anti-Wokeness to the Confederate States of America",
+          "url": "https://www.aljazeera.com/opinions/2025/8/28/from-anti-wokeness-to-the-confederate-states-of-america?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008909853249475831,
-      "chg5d": 0.027365275053703172,
-      "chg1m": 0.07169202076577265
+      "chg1d": 0.0015368226192347242,
+      "chg5d": 0.013412263650821757,
+      "chg1m": 0.010982618199767334
     },
     {
-      "symbol": "SOXX",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Indian workers begin to feel impact of Trump’s tariffs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/27/indian-workers-begin-to-feel-impact-of-trumps-tariffs?traffic_source=rss"
+          "title": "From Anti-Wokeness to the Confederate States of America",
+          "url": "https://www.aljazeera.com/opinions/2025/8/28/from-anti-wokeness-to-the-confederate-states-of-america?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0019533585808252305,
-      "chg5d": 0.031180766390415993,
-      "chg1m": 0.020918802550875363
+      "chg1d": 0.0022785045570091565,
+      "chg5d": 0.013351929918039181,
+      "chg1m": 0.017898183420961503
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "From Anti-Wokeness to the Confederate States of America",
+          "url": "https://www.aljazeera.com/opinions/2025/8/28/from-anti-wokeness-to-the-confederate-states-of-america?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007085538671674905,
+      "chg5d": 0.04671487511645447,
+      "chg1m": 0.059499753019893124
     },
     {
       "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Chip giant Nvidia’s sales rise 56% in boost for AI boom",
@@ -161,6 +160,36 @@
       "chg1d": -0.0009352478406778671,
       "chg5d": 0.03534777651083232,
       "chg1m": 0.03469887755683439
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Chip giant Nvidia’s sales rise 56% in boost for AI boom",
+          "url": "https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0023877345844503734,
+      "chg5d": 0.04676290463692038,
+      "chg1m": -0.008453155430323708
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Chip giant Nvidia’s sales rise 56% in boost for AI boom",
+          "url": "https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008909853249475831,
+      "chg5d": 0.027365275053703172,
+      "chg1m": 0.07169202076577265
     }
   ]
 }
