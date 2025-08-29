@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-08-28T21:11:41.538510Z",
+  "generated_at": "2025-08-29T00:57:23.607769Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.05,
+      "score": 5.26,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How triggering snapback sanctions may deepen Iran nuclear crisis",
+          "url": "https://www.aljazeera.com/news/2025/8/29/how-triggering-snapback-sanctions-may-deepen-iran-nuclear-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Smotrich calls for phased Gaza annexation if Hamas does not disarm",
+          "url": "https://www.aljazeera.com/news/2025/8/28/israels-smotrich-calls-for-phased-gaza-annexation-if-hamas-does-not-disarm?traffic_source=rss"
+        },
         {
           "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "Israel launches latest attacks against Houthis in Yemen’s Sanaa",
           "url": "https://www.aljazeera.com/news/2025/8/28/israel-launches-latest-attacks-against-houthis-in-yemens-sanaa?traffic_source=rss"
-        },
-        {
-          "title": "How Israel tries to justify killing journalists",
-          "url": "https://www.aljazeera.com/video/birds-eye-view/2025/8/28/how-israel-tries-to-justify-killing-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Israel steps up bombardment of Gaza City as at least 61 killed",
-          "url": "https://www.aljazeera.com/news/2025/8/28/israel-steps-up-bombardment-of-gaza-city-killing-at-least-24-people?traffic_source=rss"
         }
       ],
       "chg1d": 0.007509527011880763,
@@ -33,42 +33,19 @@
       "chg1m": 0.025205291970802846
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.05,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Two Lebanese soldiers killed in Israeli drone explosion in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/8/28/two-lebanese-soldiers-killed-in-israeli-drone-explosion-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches latest attacks against Houthis in Yemen’s Sanaa",
-          "url": "https://www.aljazeera.com/news/2025/8/28/israel-launches-latest-attacks-against-houthis-in-yemens-sanaa?traffic_source=rss"
-        },
-        {
-          "title": "How Israel tries to justify killing journalists",
-          "url": "https://www.aljazeera.com/video/birds-eye-view/2025/8/28/how-israel-tries-to-justify-killing-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Israel steps up bombardment of Gaza City as at least 61 killed",
-          "url": "https://www.aljazeera.com/news/2025/8/28/israel-steps-up-bombardment-of-gaza-city-killing-at-least-24-people?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.05,
+      "score": 5.26,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How triggering snapback sanctions may deepen Iran nuclear crisis",
+          "url": "https://www.aljazeera.com/news/2025/8/29/how-triggering-snapback-sanctions-may-deepen-iran-nuclear-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Smotrich calls for phased Gaza annexation if Hamas does not disarm",
+          "url": "https://www.aljazeera.com/news/2025/8/28/israels-smotrich-calls-for-phased-gaza-annexation-if-hamas-does-not-disarm?traffic_source=rss"
+        },
         {
           "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
@@ -80,14 +57,6 @@
         {
           "title": "Israel launches latest attacks against Houthis in Yemen’s Sanaa",
           "url": "https://www.aljazeera.com/news/2025/8/28/israel-launches-latest-attacks-against-houthis-in-yemens-sanaa?traffic_source=rss"
-        },
-        {
-          "title": "How Israel tries to justify killing journalists",
-          "url": "https://www.aljazeera.com/video/birds-eye-view/2025/8/28/how-israel-tries-to-justify-killing-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Israel steps up bombardment of Gaza City as at least 61 killed",
-          "url": "https://www.aljazeera.com/news/2025/8/28/israel-steps-up-bombardment-of-gaza-city-killing-at-least-24-people?traffic_source=rss"
         }
       ],
       "chg1d": 0.003762624595682838,
@@ -95,39 +64,97 @@
       "chg1m": 0.08956721123531097
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.26,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her",
-          "url": "https://www.aljazeera.com/economy/2025/8/28/federal-reserve-governor-lisa-cook-sues-trump-for-his-attempt-to-fire-her?traffic_source=rss"
+          "title": "How triggering snapback sanctions may deepen Iran nuclear crisis",
+          "url": "https://www.aljazeera.com/news/2025/8/29/how-triggering-snapback-sanctions-may-deepen-iran-nuclear-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Smotrich calls for phased Gaza annexation if Hamas does not disarm",
+          "url": "https://www.aljazeera.com/news/2025/8/28/israels-smotrich-calls-for-phased-gaza-annexation-if-hamas-does-not-disarm?traffic_source=rss"
+        },
+        {
+          "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Two Lebanese soldiers killed in Israeli drone explosion in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/8/28/two-lebanese-soldiers-killed-in-israeli-drone-explosion-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches latest attacks against Houthis in Yemen’s Sanaa",
+          "url": "https://www.aljazeera.com/news/2025/8/28/israel-launches-latest-attacks-against-houthis-in-yemens-sanaa?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0035629803751759687,
-      "chg5d": 0.021058815199433686,
-      "chg1m": 0.02281299057466191
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
+      "score": 1.83,
+      "confianca": 52,
       "razoes": [
         {
-          "title": "Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her",
-          "url": "https://www.aljazeera.com/economy/2025/8/28/federal-reserve-governor-lisa-cook-sues-trump-for-his-attempt-to-fire-her?traffic_source=rss"
+          "title": "How triggering snapback sanctions may deepen Iran nuclear crisis",
+          "url": "https://www.aljazeera.com/news/2025/8/29/how-triggering-snapback-sanctions-may-deepen-iran-nuclear-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0062599173481665445,
-      "chg5d": 0.024499360886237873,
-      "chg1m": 0.015950142600612758
+      "chg1d": 0.004814195909922846,
+      "chg5d": 0.04204489189635252,
+      "chg1m": 0.0185521274450495
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.83,
+      "confianca": 52,
+      "razoes": [
+        {
+          "title": "How triggering snapback sanctions may deepen Iran nuclear crisis",
+          "url": "https://www.aljazeera.com/news/2025/8/29/how-triggering-snapback-sanctions-may-deepen-iran-nuclear-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008493506493506445,
+      "chg5d": 0.03815610552080508,
+      "chg1m": 0.058229953565735654
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.83,
+      "confianca": 52,
+      "razoes": [
+        {
+          "title": "How triggering snapback sanctions may deepen Iran nuclear crisis",
+          "url": "https://www.aljazeera.com/news/2025/8/29/how-triggering-snapback-sanctions-may-deepen-iran-nuclear-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004262610221906398,
+      "chg5d": 0.04812387278405841,
+      "chg1m": -0.01910172491869411
     },
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -140,9 +167,24 @@
       "chg1m": 0.06652825419750862
     },
     {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her",
+          "url": "https://www.aljazeera.com/economy/2025/8/28/federal-reserve-governor-lisa-cook-sues-trump-for-his-attempt-to-fire-her?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0035629803751759687,
+      "chg5d": 0.021058815199433686,
+      "chg1m": 0.02281299057466191
+    },
+    {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -155,49 +197,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 0.97,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
+          "title": "Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her",
+          "url": "https://www.aljazeera.com/economy/2025/8/28/federal-reserve-governor-lisa-cook-sues-trump-for-his-attempt-to-fire-her?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004262610221906398,
-      "chg5d": 0.04812387278405841,
-      "chg1m": -0.01910172491869411
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.008493506493506445,
-      "chg5d": 0.03815610552080508,
-      "chg1m": 0.058229953565735654
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Why France, Germany, and the UK want to reimpose sanctions on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004814195909922846,
-      "chg5d": 0.04204489189635252,
-      "chg1m": 0.0185521274450495
+      "chg1d": 0.0062599173481665445,
+      "chg5d": 0.024499360886237873,
+      "chg1m": 0.015950142600612758
     }
   ]
 }
