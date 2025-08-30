@@ -1,45 +1,14 @@
 {
-  "generated_at": "2025-08-30T15:11:00.199367Z",
+  "generated_at": "2025-08-30T18:15:08.480843Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.37,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Yemen’s Houthis confirm Israeli airstrike killed the group’s prime minister",
-          "url": "https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iran arrests eight suspected of spying for Israel’s Mossad in 12-day war",
-          "url": "https://www.aljazeera.com/news/2025/8/30/iran-arrests-eight-suspected-of-spying-for-israels-mossad-in-12-day-war?traffic_source=rss"
-        },
-        {
-          "title": "A music teacher uses Gaza’s relentless soundtrack of war to resist Israel",
-          "url": "https://www.aljazeera.com/news/2025/8/30/a-music-teacher-uses-gazas-relentless-soundtrack-of-war-to-resist-israel?traffic_source=rss"
-        },
-        {
-          "title": "EU nations divided on sanctioning Israel for Gaza war as FMs meet",
-          "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
-        },
-        {
-          "title": "Russia attacks Ukraine’s Zaporizhia; Kyiv hits Russian oil refineries",
-          "url": "https://www.aljazeera.com/news/2025/8/30/russia-attacks-ukraines-zaporizhia-kyiv-hits-russian-oil-refineries?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005450500556173469,
-      "chg5d": 0.025527569775357386,
-      "chg1m": 0.03646370829033376
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.37,
+      "score": 4.6,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Yemen’s Houthis confirm Israeli airstrike killed the group’s prime minister",
+          "title": "Yemen’s Houthis confirm Israeli strike killed group’s prime minister",
           "url": "https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss"
         },
         {
@@ -51,7 +20,7 @@
           "url": "https://www.aljazeera.com/news/2025/8/30/a-music-teacher-uses-gazas-relentless-soundtrack-of-war-to-resist-israel?traffic_source=rss"
         },
         {
-          "title": "EU nations divided on sanctioning Israel for Gaza war as FMs meet",
+          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
           "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
         },
         {
@@ -64,13 +33,13 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.28,
+      "score": 4.6,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Yemen’s Houthis confirm Israeli airstrike killed the group’s prime minister",
+          "title": "Yemen’s Houthis confirm Israeli strike killed group’s prime minister",
           "url": "https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss"
         },
         {
@@ -82,7 +51,38 @@
           "url": "https://www.aljazeera.com/news/2025/8/30/a-music-teacher-uses-gazas-relentless-soundtrack-of-war-to-resist-israel?traffic_source=rss"
         },
         {
-          "title": "EU nations divided on sanctioning Israel for Gaza war as FMs meet",
+          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
+          "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
+        },
+        {
+          "title": "Russia attacks Ukraine’s Zaporizhia; Kyiv hits Russian oil refineries",
+          "url": "https://www.aljazeera.com/news/2025/8/30/russia-attacks-ukraines-zaporizhia-kyiv-hits-russian-oil-refineries?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005450500556173469,
+      "chg5d": 0.025527569775357386,
+      "chg1m": 0.03646370829033376
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.52,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Yemen’s Houthis confirm Israeli strike killed group’s prime minister",
+          "url": "https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss"
+        },
+        {
+          "title": "Iran arrests eight suspected of spying for Israel’s Mossad in 12-day war",
+          "url": "https://www.aljazeera.com/news/2025/8/30/iran-arrests-eight-suspected-of-spying-for-israels-mossad-in-12-day-war?traffic_source=rss"
+        },
+        {
+          "title": "A music teacher uses Gaza’s relentless soundtrack of war to resist Israel",
+          "url": "https://www.aljazeera.com/news/2025/8/30/a-music-teacher-uses-gazas-relentless-soundtrack-of-war-to-resist-israel?traffic_source=rss"
+        },
+        {
+          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
           "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
         },
         {
@@ -95,13 +95,13 @@
       "chg1m": 0.08230794812105083
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "comprar",
-      "score": 2.54,
+      "score": 2.52,
       "confianca": 72,
       "razoes": [
         {
-          "title": "EU nations divided on sanctioning Israel for Gaza war as FMs meet",
+          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
           "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
         },
         {
@@ -113,18 +113,18 @@
           "url": "https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss"
         }
       ],
-      "chg1d": -0.02729678044691278,
-      "chg5d": -0.016254023765051837,
-      "chg1m": 0.06896402815563324
+      "chg1d": -0.028627994456543328,
+      "chg5d": -0.015135091733911478,
+      "chg1m": 0.022038911802691297
     },
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.54,
+      "score": 2.52,
       "confianca": 72,
       "razoes": [
         {
-          "title": "EU nations divided on sanctioning Israel for Gaza war as FMs meet",
+          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
           "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
         },
         {
@@ -141,13 +141,13 @@
       "chg1m": -0.044491350053803495
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.54,
+      "score": 2.52,
       "confianca": 72,
       "razoes": [
         {
-          "title": "EU nations divided on sanctioning Israel for Gaza war as FMs meet",
+          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
           "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
         },
         {
@@ -159,9 +159,9 @@
           "url": "https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss"
         }
       ],
-      "chg1d": -0.028627994456543328,
-      "chg5d": -0.015135091733911478,
-      "chg1m": 0.022038911802691297
+      "chg1d": -0.02729678044691278,
+      "chg5d": -0.016254023765051837,
+      "chg1m": 0.06896402815563324
     }
   ]
 }
