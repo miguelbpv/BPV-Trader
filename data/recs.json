@@ -1,14 +1,18 @@
 {
-  "generated_at": "2025-08-30T18:15:08.480843Z",
+  "generated_at": "2025-08-30T21:09:59.584729Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.6,
+      "score": 5.31,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Yemen’s Houthis confirm Israeli strike killed group’s prime minister",
+          "title": "‘We are on the streets’: Palestinians flee Israel’s assault on Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/30/we-are-on-the-streets-palestinians-flee-israels-assault-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis confirm prime minister killed in Israeli strike on Sanaa",
           "url": "https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss"
         },
         {
@@ -22,10 +26,6 @@
         {
           "title": "EU countries divided on Israel sanctions as foreign ministers meet",
           "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
-        },
-        {
-          "title": "Russia attacks Ukraine’s Zaporizhia; Kyiv hits Russian oil refineries",
-          "url": "https://www.aljazeera.com/news/2025/8/30/russia-attacks-ukraines-zaporizhia-kyiv-hits-russian-oil-refineries?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,11 +35,15 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.6,
+      "score": 5.31,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Yemen’s Houthis confirm Israeli strike killed group’s prime minister",
+          "title": "‘We are on the streets’: Palestinians flee Israel’s assault on Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/30/we-are-on-the-streets-palestinians-flee-israels-assault-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis confirm prime minister killed in Israeli strike on Sanaa",
           "url": "https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss"
         },
         {
@@ -53,10 +57,6 @@
         {
           "title": "EU countries divided on Israel sanctions as foreign ministers meet",
           "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
-        },
-        {
-          "title": "Russia attacks Ukraine’s Zaporizhia; Kyiv hits Russian oil refineries",
-          "url": "https://www.aljazeera.com/news/2025/8/30/russia-attacks-ukraines-zaporizhia-kyiv-hits-russian-oil-refineries?traffic_source=rss"
         }
       ],
       "chg1d": 0.005450500556173469,
@@ -66,11 +66,15 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.52,
+      "score": 4.24,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Yemen’s Houthis confirm Israeli strike killed group’s prime minister",
+          "title": "‘We are on the streets’: Palestinians flee Israel’s assault on Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/30/we-are-on-the-streets-palestinians-flee-israels-assault-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis confirm prime minister killed in Israeli strike on Sanaa",
           "url": "https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss"
         },
         {
@@ -84,10 +88,6 @@
         {
           "title": "EU countries divided on Israel sanctions as foreign ministers meet",
           "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
-        },
-        {
-          "title": "Live: 50 Palestinians killed as Israeli attacks on Gaza City intensify",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/30/updates?traffic_source=rss"
         }
       ],
       "chg1d": -0.0012056644307072018,
@@ -95,33 +95,10 @@
       "chg1m": 0.08230794812105083
     },
     {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.52,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
-          "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
-        },
-        {
-          "title": "SCO summit in China: Who’s attending, what’s at stake amid Trump tariffs?",
-          "url": "https://www.aljazeera.com/news/2025/8/30/sco-summit-in-china-whos-attending-whats-at-stake-amid-trump-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "India will not ‘bow down’ to US after steep tariffs, trade minister says",
-          "url": "https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.028627994456543328,
-      "chg5d": -0.015135091733911478,
-      "chg1m": 0.022038911802691297
-    },
-    {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.52,
-      "confianca": 72,
+      "score": 2.5,
+      "confianca": 71,
       "razoes": [
         {
           "title": "EU countries divided on Israel sanctions as foreign ministers meet",
@@ -141,10 +118,33 @@
       "chg1m": -0.044491350053803495
     },
     {
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.5,
+      "confianca": 71,
+      "razoes": [
+        {
+          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
+          "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
+        },
+        {
+          "title": "SCO summit in China: Who’s attending, what’s at stake amid Trump tariffs?",
+          "url": "https://www.aljazeera.com/news/2025/8/30/sco-summit-in-china-whos-attending-whats-at-stake-amid-trump-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "India will not ‘bow down’ to US after steep tariffs, trade minister says",
+          "url": "https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.028627994456543328,
+      "chg5d": -0.015135091733911478,
+      "chg1m": 0.022038911802691297
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.52,
-      "confianca": 72,
+      "score": 2.5,
+      "confianca": 71,
       "razoes": [
         {
           "title": "EU countries divided on Israel sanctions as foreign ministers meet",
