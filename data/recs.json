@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-08-30T00:54:27.711849Z",
+  "generated_at": "2025-08-30T03:24:16.791833Z",
   "recs": [
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.55,
+      "score": 2.53,
       "confianca": 72,
       "razoes": [
         {
@@ -20,37 +20,14 @@
           "url": "https://www.aljazeera.com/news/2025/8/29/i-am-in-no-rush-brazils-lula-weighs-countermeasures-to-trumps-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": -0.027226049825793176,
-      "chg5d": -0.016182490164129884,
-      "chg1m": 0.06904175843157567
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "US appeals court rules Trump’s foreign tariff campaign is largely illegal",
-          "url": "https://www.aljazeera.com/news/2025/8/29/us-appeals-court-rules-trumps-foreign-tariff-campaign-is-largely-illegal?traffic_source=rss"
-        },
-        {
-          "title": "Germany, France push for secondary sanctions on Russia amid Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/8/29/germany-france-push-for-secondary-sanctions-on-russia-amid-ukraine-war?traffic_source=rss"
-        },
-        {
-          "title": "‘I am in no rush’: Brazil’s Lula weighs countermeasures to Trump’s tariffs",
-          "url": "https://www.aljazeera.com/news/2025/8/29/i-am-in-no-rush-brazils-lula-weighs-countermeasures-to-trumps-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.028627994456543328,
-      "chg5d": -0.015135091733911478,
-      "chg1m": 0.022038911802691297
+      "chg1d": -0.02729678044691278,
+      "chg5d": -0.016254023765051837,
+      "chg1m": 0.06896402815563324
     },
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.55,
+      "score": 2.53,
       "confianca": 72,
       "razoes": [
         {
@@ -71,9 +48,32 @@
       "chg1m": -0.044491350053803495
     },
     {
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.53,
+      "confianca": 72,
+      "razoes": [
+        {
+          "title": "US appeals court rules Trump’s foreign tariff campaign is largely illegal",
+          "url": "https://www.aljazeera.com/news/2025/8/29/us-appeals-court-rules-trumps-foreign-tariff-campaign-is-largely-illegal?traffic_source=rss"
+        },
+        {
+          "title": "Germany, France push for secondary sanctions on Russia amid Ukraine war",
+          "url": "https://www.aljazeera.com/news/2025/8/29/germany-france-push-for-secondary-sanctions-on-russia-amid-ukraine-war?traffic_source=rss"
+        },
+        {
+          "title": "‘I am in no rush’: Brazil’s Lula weighs countermeasures to Trump’s tariffs",
+          "url": "https://www.aljazeera.com/news/2025/8/29/i-am-in-no-rush-brazils-lula-weighs-countermeasures-to-trumps-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.028627994456543328,
+      "chg5d": -0.015135091733911478,
+      "chg1m": 0.022038911802691297
+    },
+    {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.94,
       "confianca": 55,
       "razoes": [
         {
@@ -94,32 +94,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Turkiye to sever economic and trade ties with Israel over Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/29/turkiye-to-sever-economic-and-trade-ties-with-israel-over-gaza?traffic_source=rss"
-        },
-        {
-          "title": "How Israeli spy veterans are shaping US Big Tech",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/29/how-israeli-spy-veterans-are-shaping-us-big-tech?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye closes airspace to Israel, bans Israeli ships from Turkish ports",
-          "url": "https://www.aljazeera.com/news/2025/8/29/turkiye-closes-airspace-to-israel-entirely-cutting-ties-over-gaza-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005339265850945381,
-      "chg5d": 0.025414113909689073,
-      "chg1m": 0.036349042540993026
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.94,
       "confianca": 55,
       "razoes": [
         {
@@ -138,6 +115,29 @@
       "chg1d": -0.0012056644307072018,
       "chg5d": 0.021134020618556716,
       "chg1m": 0.08230794812105083
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Turkiye to sever economic and trade ties with Israel over Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/29/turkiye-to-sever-economic-and-trade-ties-with-israel-over-gaza?traffic_source=rss"
+        },
+        {
+          "title": "How Israeli spy veterans are shaping US Big Tech",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/29/how-israeli-spy-veterans-are-shaping-us-big-tech?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye closes airspace to Israel, bans Israeli ships from Turkish ports",
+          "url": "https://www.aljazeera.com/news/2025/8/29/turkiye-closes-airspace-to-israel-entirely-cutting-ties-over-gaza-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005450500556173469,
+      "chg5d": 0.025527569775357386,
+      "chg1m": 0.03646370829033376
     }
   ]
 }
