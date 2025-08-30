@@ -1,39 +1,16 @@
 {
-  "generated_at": "2025-08-30T06:15:56.063942Z",
+  "generated_at": "2025-08-30T09:11:18.404709Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Live: UN warns Israel of ‘horrific impact’ of planned Gaza City attack",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/8/30/updates?traffic_source=rss"
-        },
-        {
-          "title": "How do Americans see Israel and Palestine today?",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/8/30/how-do-americans-see-israel-and-palestine-today?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye to sever economic and trade ties with Israel over Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/29/turkiye-to-sever-economic-and-trade-ties-with-israel-over-gaza?traffic_source=rss"
-        },
-        {
-          "title": "How Israeli spy veterans are shaping US Big Tech",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/29/how-israeli-spy-veterans-are-shaping-us-big-tech?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0012056644307072018,
-      "chg5d": 0.021134020618556716,
-      "chg1m": 0.08230794812105083
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 2.58,
+      "confianca": 73,
       "razoes": [
+        {
+          "title": "Russia attacks Ukraine’s Zaporizhia; Kyiv hits Russian oil refineries",
+          "url": "https://www.aljazeera.com/news/2025/8/30/russia-attacks-ukraines-zaporizhia-kyiv-hits-russian-oil-refineries?traffic_source=rss"
+        },
         {
           "title": "Live: UN warns Israel of ‘horrific impact’ of planned Gaza City attack",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/30/updates?traffic_source=rss"
@@ -41,14 +18,6 @@
         {
           "title": "How do Americans see Israel and Palestine today?",
           "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/8/30/how-do-americans-see-israel-and-palestine-today?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye to sever economic and trade ties with Israel over Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/29/turkiye-to-sever-economic-and-trade-ties-with-israel-over-gaza?traffic_source=rss"
-        },
-        {
-          "title": "How Israeli spy veterans are shaping US Big Tech",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/29/how-israeli-spy-veterans-are-shaping-us-big-tech?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,9 +27,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 2.58,
+      "confianca": 73,
       "razoes": [
+        {
+          "title": "Russia attacks Ukraine’s Zaporizhia; Kyiv hits Russian oil refineries",
+          "url": "https://www.aljazeera.com/news/2025/8/30/russia-attacks-ukraines-zaporizhia-kyiv-hits-russian-oil-refineries?traffic_source=rss"
+        },
         {
           "title": "Live: UN warns Israel of ‘horrific impact’ of planned Gaza City attack",
           "url": "https://www.aljazeera.com/news/liveblog/2025/8/30/updates?traffic_source=rss"
@@ -68,14 +41,6 @@
         {
           "title": "How do Americans see Israel and Palestine today?",
           "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/8/30/how-do-americans-see-israel-and-palestine-today?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye to sever economic and trade ties with Israel over Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/8/29/turkiye-to-sever-economic-and-trade-ties-with-israel-over-gaza?traffic_source=rss"
-        },
-        {
-          "title": "How Israeli spy veterans are shaping US Big Tech",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/8/29/how-israeli-spy-veterans-are-shaping-us-big-tech?traffic_source=rss"
         }
       ],
       "chg1d": 0.005450500556173469,
@@ -83,18 +48,45 @@
       "chg1m": 0.03646370829033376
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
+        {
+          "title": "SCO summit in China: Who’s attending, what’s at stake amid Trump tariffs?",
+          "url": "https://www.aljazeera.com/news/2025/8/30/sco-summit-in-china-whos-attending-whats-at-stake-amid-trump-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "India will not ‘bow down’ to US after steep tariffs, trade minister says",
+          "url": "https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss"
+        },
         {
           "title": "US appeals court rules Trump’s foreign tariff campaign is largely illegal",
           "url": "https://www.aljazeera.com/news/2025/8/29/us-appeals-court-rules-trumps-foreign-tariff-campaign-is-largely-illegal?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.03105720401225503,
+      "chg5d": -0.009099102965792543,
+      "chg1m": -0.044491350053803495
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
+      "razoes": [
+        {
+          "title": "SCO summit in China: Who’s attending, what’s at stake amid Trump tariffs?",
+          "url": "https://www.aljazeera.com/news/2025/8/30/sco-summit-in-china-whos-attending-whats-at-stake-amid-trump-tariffs?traffic_source=rss"
         },
         {
-          "title": "Germany, France push for secondary sanctions on Russia amid Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/8/29/germany-france-push-for-secondary-sanctions-on-russia-amid-ukraine-war?traffic_source=rss"
+          "title": "India will not ‘bow down’ to US after steep tariffs, trade minister says",
+          "url": "https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss"
+        },
+        {
+          "title": "US appeals court rules Trump’s foreign tariff campaign is largely illegal",
+          "url": "https://www.aljazeera.com/news/2025/8/29/us-appeals-court-rules-trumps-foreign-tariff-campaign-is-largely-illegal?traffic_source=rss"
         }
       ],
       "chg1d": -0.028627994456543328,
@@ -103,17 +95,21 @@
     },
     {
       "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
+        {
+          "title": "SCO summit in China: Who’s attending, what’s at stake amid Trump tariffs?",
+          "url": "https://www.aljazeera.com/news/2025/8/30/sco-summit-in-china-whos-attending-whats-at-stake-amid-trump-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "India will not ‘bow down’ to US after steep tariffs, trade minister says",
+          "url": "https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss"
+        },
         {
           "title": "US appeals court rules Trump’s foreign tariff campaign is largely illegal",
           "url": "https://www.aljazeera.com/news/2025/8/29/us-appeals-court-rules-trumps-foreign-tariff-campaign-is-largely-illegal?traffic_source=rss"
-        },
-        {
-          "title": "Germany, France push for secondary sanctions on Russia amid Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/8/29/germany-france-push-for-secondary-sanctions-on-russia-amid-ukraine-war?traffic_source=rss"
         }
       ],
       "chg1d": -0.02729678044691278,
@@ -121,23 +117,23 @@
       "chg1m": 0.06896402815563324
     },
     {
-      "symbol": "TSM",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "US appeals court rules Trump’s foreign tariff campaign is largely illegal",
-          "url": "https://www.aljazeera.com/news/2025/8/29/us-appeals-court-rules-trumps-foreign-tariff-campaign-is-largely-illegal?traffic_source=rss"
+          "title": "Live: UN warns Israel of ‘horrific impact’ of planned Gaza City attack",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/8/30/updates?traffic_source=rss"
         },
         {
-          "title": "Germany, France push for secondary sanctions on Russia amid Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/8/29/germany-france-push-for-secondary-sanctions-on-russia-amid-ukraine-war?traffic_source=rss"
+          "title": "How do Americans see Israel and Palestine today?",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/8/30/how-do-americans-see-israel-and-palestine-today?traffic_source=rss"
         }
       ],
-      "chg1d": -0.03105720401225503,
-      "chg5d": -0.009099102965792543,
-      "chg1m": -0.044491350053803495
+      "chg1d": -0.0012056644307072018,
+      "chg5d": 0.021134020618556716,
+      "chg1m": 0.08230794812105083
     }
   ]
 }
