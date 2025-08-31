@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-08-30T21:09:59.584729Z",
+  "generated_at": "2025-08-31T01:01:21.373537Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.31,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "‘We are on the streets’: Palestinians flee Israel’s assault on Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/8/30/we-are-on-the-streets-palestinians-flee-israels-assault-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis confirm prime minister killed in Israeli strike on Sanaa",
-          "url": "https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iran arrests eight suspected of spying for Israel’s Mossad in 12-day war",
-          "url": "https://www.aljazeera.com/news/2025/8/30/iran-arrests-eight-suspected-of-spying-for-israels-mossad-in-12-day-war?traffic_source=rss"
-        },
-        {
-          "title": "A music teacher uses Gaza’s relentless soundtrack of war to resist Israel",
-          "url": "https://www.aljazeera.com/news/2025/8/30/a-music-teacher-uses-gazas-relentless-soundtrack-of-war-to-resist-israel?traffic_source=rss"
-        },
-        {
-          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
-          "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.31,
+      "score": 4.54,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.03646370829033376
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.54,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘We are on the streets’: Palestinians flee Israel’s assault on Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/8/30/we-are-on-the-streets-palestinians-flee-israels-assault-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis confirm prime minister killed in Israeli strike on Sanaa",
+          "url": "https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss"
+        },
+        {
+          "title": "Iran arrests eight suspected of spying for Israel’s Mossad in 12-day war",
+          "url": "https://www.aljazeera.com/news/2025/8/30/iran-arrests-eight-suspected-of-spying-for-israels-mossad-in-12-day-war?traffic_source=rss"
+        },
+        {
+          "title": "A music teacher uses Gaza’s relentless soundtrack of war to resist Israel",
+          "url": "https://www.aljazeera.com/news/2025/8/30/a-music-teacher-uses-gazas-relentless-soundtrack-of-war-to-resist-israel?traffic_source=rss"
+        },
+        {
+          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
+          "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.24,
+      "score": 3.48,
       "confianca": 95,
       "razoes": [
         {
@@ -97,8 +97,8 @@
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.5,
-      "confianca": 71,
+      "score": 2.48,
+      "confianca": 70,
       "razoes": [
         {
           "title": "EU countries divided on Israel sanctions as foreign ministers meet",
@@ -118,33 +118,10 @@
       "chg1m": -0.044491350053803495
     },
     {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.5,
-      "confianca": 71,
-      "razoes": [
-        {
-          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
-          "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
-        },
-        {
-          "title": "SCO summit in China: Who’s attending, what’s at stake amid Trump tariffs?",
-          "url": "https://www.aljazeera.com/news/2025/8/30/sco-summit-in-china-whos-attending-whats-at-stake-amid-trump-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "India will not ‘bow down’ to US after steep tariffs, trade minister says",
-          "url": "https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.028627994456543328,
-      "chg5d": -0.015135091733911478,
-      "chg1m": 0.022038911802691297
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.5,
-      "confianca": 71,
+      "score": 2.48,
+      "confianca": 70,
       "razoes": [
         {
           "title": "EU countries divided on Israel sanctions as foreign ministers meet",
@@ -162,6 +139,29 @@
       "chg1d": -0.02729678044691278,
       "chg5d": -0.016254023765051837,
       "chg1m": 0.06896402815563324
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.48,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "EU countries divided on Israel sanctions as foreign ministers meet",
+          "url": "https://www.aljazeera.com/news/2025/8/30/eu-nations-divided-on-sanctioning-israel-for-gaza-war-as-fms-meet?traffic_source=rss"
+        },
+        {
+          "title": "SCO summit in China: Who’s attending, what’s at stake amid Trump tariffs?",
+          "url": "https://www.aljazeera.com/news/2025/8/30/sco-summit-in-china-whos-attending-whats-at-stake-amid-trump-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "India will not ‘bow down’ to US after steep tariffs, trade minister says",
+          "url": "https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.028627994456543328,
+      "chg5d": -0.015135091733911478,
+      "chg1m": 0.022038911802691297
     }
   ]
 }
