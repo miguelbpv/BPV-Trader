@@ -1,39 +1,20 @@
 {
-  "generated_at": "2025-09-01T12:25:11.726137Z",
+  "generated_at": "2025-09-01T15:12:22.051103Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
-          "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Houthis fire missile at Israeli-owned tanker after prime minister killed",
-          "url": "https://www.aljazeera.com/news/2025/9/1/houthis-fire-missile-at-israeli-owned-tanker-after-prime-minister-killed?traffic_source=rss"
-        },
-        {
-          "title": "The names of Palestinian journalists killed by Israel in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel Murders Journalists",
-          "url": "https://www.aljazeera.com/news/longform/2025/9/1/israel-murders-journalists?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 3.46,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel “military does not agree” with taking over Gaza City",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/1/israel-military-does-not-agree-with-taking-over-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel committing genocide in Gaza, scholars group says",
+          "url": "https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says?traffic_source=rss"
+        },
         {
           "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
           "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
@@ -45,10 +26,6 @@
         {
           "title": "The names of Palestinian journalists killed by Israel in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel Murders Journalists",
-          "url": "https://www.aljazeera.com/news/longform/2025/9/1/israel-murders-journalists?traffic_source=rss"
         }
       ],
       "chg1d": 0.005450500556173469,
@@ -56,11 +33,19 @@
       "chg1m": 0.03646370829033376
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 3.46,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel “military does not agree” with taking over Gaza City",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/1/israel-military-does-not-agree-with-taking-over-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israel committing genocide in Gaza, scholars group says",
+          "url": "https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says?traffic_source=rss"
+        },
         {
           "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
           "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
@@ -72,10 +57,37 @@
         {
           "title": "The names of Palestinian journalists killed by Israel in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.46,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel “military does not agree” with taking over Gaza City",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/1/israel-military-does-not-agree-with-taking-over-gaza-city?traffic_source=rss"
         },
         {
-          "title": "Israel Murders Journalists",
-          "url": "https://www.aljazeera.com/news/longform/2025/9/1/israel-murders-journalists?traffic_source=rss"
+          "title": "Israel committing genocide in Gaza, scholars group says",
+          "url": "https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says?traffic_source=rss"
+        },
+        {
+          "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
+          "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Houthis fire missile at Israeli-owned tanker after prime minister killed",
+          "url": "https://www.aljazeera.com/news/2025/9/1/houthis-fire-missile-at-israeli-owned-tanker-after-prime-minister-killed?traffic_source=rss"
+        },
+        {
+          "title": "The names of Palestinian journalists killed by Israel in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": -0.0012056644307072018,
