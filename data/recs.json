@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-09-01T15:12:22.051103Z",
+  "generated_at": "2025-09-01T18:16:52.103910Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.46,
+      "score": 4.3,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s currency hits new low as ‘snapback’ looms over nuclear programme",
+          "url": "https://www.aljazeera.com/news/2025/9/1/irans-currency-hits-new-low-as-snapback-looms-over-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Guyana votes in elections amid oil boom debate and Venezuela tensions",
+          "url": "https://www.aljazeera.com/news/2025/9/1/guyana-votes-in-elections-amid-oil-boom-debate-and-venezuela-tensions?traffic_source=rss"
+        },
         {
           "title": "Israel “military does not agree” with taking over Gaza City",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/1/israel-military-does-not-agree-with-taking-over-gaza-city?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
           "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Houthis fire missile at Israeli-owned tanker after prime minister killed",
-          "url": "https://www.aljazeera.com/news/2025/9/1/houthis-fire-missile-at-israeli-owned-tanker-after-prime-minister-killed?traffic_source=rss"
-        },
-        {
-          "title": "The names of Palestinian journalists killed by Israel in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.005450500556173469,
@@ -35,9 +35,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.46,
+      "score": 4.3,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s currency hits new low as ‘snapback’ looms over nuclear programme",
+          "url": "https://www.aljazeera.com/news/2025/9/1/irans-currency-hits-new-low-as-snapback-looms-over-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Guyana votes in elections amid oil boom debate and Venezuela tensions",
+          "url": "https://www.aljazeera.com/news/2025/9/1/guyana-votes-in-elections-amid-oil-boom-debate-and-venezuela-tensions?traffic_source=rss"
+        },
         {
           "title": "Israel “military does not agree” with taking over Gaza City",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/1/israel-military-does-not-agree-with-taking-over-gaza-city?traffic_source=rss"
@@ -49,14 +57,6 @@
         {
           "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
           "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Houthis fire missile at Israeli-owned tanker after prime minister killed",
-          "url": "https://www.aljazeera.com/news/2025/9/1/houthis-fire-missile-at-israeli-owned-tanker-after-prime-minister-killed?traffic_source=rss"
-        },
-        {
-          "title": "The names of Palestinian journalists killed by Israel in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Iran’s currency hits new low as ‘snapback’ looms over nuclear programme",
+          "url": "https://www.aljazeera.com/news/2025/9/1/irans-currency-hits-new-low-as-snapback-looms-over-nuclear-programme?traffic_source=rss"
+        },
         {
           "title": "Israel “military does not agree” with taking over Gaza City",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/1/israel-military-does-not-agree-with-taking-over-gaza-city?traffic_source=rss"
@@ -80,19 +84,56 @@
         {
           "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
           "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Houthis fire missile at Israeli-owned tanker after prime minister killed",
-          "url": "https://www.aljazeera.com/news/2025/9/1/houthis-fire-missile-at-israeli-owned-tanker-after-prime-minister-killed?traffic_source=rss"
-        },
-        {
-          "title": "The names of Palestinian journalists killed by Israel in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": -0.0012056644307072018,
       "chg5d": 0.021134020618556716,
       "chg1m": 0.08230794812105083
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
+          "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.028627994456543328,
+      "chg5d": -0.015135091733911478,
+      "chg1m": 0.022038911802691297
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
+          "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02729678044691278,
+      "chg5d": -0.016254023765051837,
+      "chg1m": 0.06896402815563324
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
+          "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.03105720401225503,
+      "chg5d": -0.009099102965792543,
+      "chg1m": -0.044491350053803495
     }
   ]
 }
