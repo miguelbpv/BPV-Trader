@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-09-01T01:07:40.688035Z",
+  "generated_at": "2025-09-01T03:47:28.119149Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.4,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli raids in major occupied West Bank cities lead to arrests, injuries",
-          "url": "https://www.aljazeera.com/news/2025/8/31/israeli-raids-in-major-occupied-west-bank-cities-lead-to-arrests-injuries?traffic_source=rss"
-        },
-        {
-          "title": "‘Fields of rubble’: Israel, destroying Gaza City, kills 78 across enclave",
-          "url": "https://www.aljazeera.com/news/2025/8/31/israel-is-reducing-gaza-city-to-fields-of-rubble-kills-78-across-enclave?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthi leader condemns Israel’s ‘record of terror’ after killings",
-          "url": "https://www.aljazeera.com/news/2025/8/31/yemens-houthi-leader-condemns-israels-record-of-terror-after-killings?traffic_source=rss"
-        },
-        {
-          "title": "Mothers, newborns most at risk as Israeli-induced malnutrition grips Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/31/mothers-newborns-most-at-risk-as-israeli-induced-malnutrition-grips-gaza?traffic_source=rss"
-        },
-        {
-          "title": "US pressure may break Iranian influence in Iraq",
-          "url": "https://www.aljazeera.com/opinions/2025/8/31/us-pressure-may-break-iranian-influence-in-iraq?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0012056644307072018,
-      "chg5d": 0.021134020618556716,
-      "chg1m": 0.08230794812105083
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.4,
+      "score": 4.37,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.03646370829033376
     },
     {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.37,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli raids in major occupied West Bank cities lead to arrests, injuries",
+          "url": "https://www.aljazeera.com/news/2025/8/31/israeli-raids-in-major-occupied-west-bank-cities-lead-to-arrests-injuries?traffic_source=rss"
+        },
+        {
+          "title": "‘Fields of rubble’: Israel, destroying Gaza City, kills 78 across enclave",
+          "url": "https://www.aljazeera.com/news/2025/8/31/israel-is-reducing-gaza-city-to-fields-of-rubble-kills-78-across-enclave?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthi leader condemns Israel’s ‘record of terror’ after killings",
+          "url": "https://www.aljazeera.com/news/2025/8/31/yemens-houthi-leader-condemns-israels-record-of-terror-after-killings?traffic_source=rss"
+        },
+        {
+          "title": "Mothers, newborns most at risk as Israeli-induced malnutrition grips Gaza",
+          "url": "https://www.aljazeera.com/news/2025/8/31/mothers-newborns-most-at-risk-as-israeli-induced-malnutrition-grips-gaza?traffic_source=rss"
+        },
+        {
+          "title": "US pressure may break Iranian influence in Iraq",
+          "url": "https://www.aljazeera.com/opinions/2025/8/31/us-pressure-may-break-iranian-influence-in-iraq?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0012056644307072018,
+      "chg5d": 0.021134020618556716,
+      "chg1m": 0.08230794812105083
+    },
+    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.4,
+      "score": 4.37,
       "confianca": 95,
       "razoes": [
         {
