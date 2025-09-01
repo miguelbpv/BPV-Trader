@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-01T18:16:52.103910Z",
+  "generated_at": "2025-09-01T21:10:39.329078Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.3,
-      "confianca": 95,
+      "score": 2.83,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Activists block Melbourne wharf to protest sale of weapons to Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/activists-block-melbourne-wharf-to-protest-sale-of-weapons-to-israel?traffic_source=rss"
+        },
         {
           "title": "Iran’s currency hits new low as ‘snapback’ looms over nuclear programme",
           "url": "https://www.aljazeera.com/news/2025/9/1/irans-currency-hits-new-low-as-snapback-looms-over-nuclear-programme?traffic_source=rss"
@@ -14,18 +18,6 @@
         {
           "title": "Guyana votes in elections amid oil boom debate and Venezuela tensions",
           "url": "https://www.aljazeera.com/news/2025/9/1/guyana-votes-in-elections-amid-oil-boom-debate-and-venezuela-tensions?traffic_source=rss"
-        },
-        {
-          "title": "Israel “military does not agree” with taking over Gaza City",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/1/israel-military-does-not-agree-with-taking-over-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel committing genocide in Gaza, scholars group says",
-          "url": "https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says?traffic_source=rss"
-        },
-        {
-          "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
-          "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
         }
       ],
       "chg1d": 0.005450500556173469,
@@ -35,9 +27,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.3,
-      "confianca": 95,
+      "score": 2.83,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Activists block Melbourne wharf to protest sale of weapons to Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/activists-block-melbourne-wharf-to-protest-sale-of-weapons-to-israel?traffic_source=rss"
+        },
         {
           "title": "Iran’s currency hits new low as ‘snapback’ looms over nuclear programme",
           "url": "https://www.aljazeera.com/news/2025/9/1/irans-currency-hits-new-low-as-snapback-looms-over-nuclear-programme?traffic_source=rss"
@@ -45,18 +41,6 @@
         {
           "title": "Guyana votes in elections amid oil boom debate and Venezuela tensions",
           "url": "https://www.aljazeera.com/news/2025/9/1/guyana-votes-in-elections-amid-oil-boom-debate-and-venezuela-tensions?traffic_source=rss"
-        },
-        {
-          "title": "Israel “military does not agree” with taking over Gaza City",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/1/israel-military-does-not-agree-with-taking-over-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel committing genocide in Gaza, scholars group says",
-          "url": "https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says?traffic_source=rss"
-        },
-        {
-          "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
-          "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,25 +49,17 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Activists block Melbourne wharf to protest sale of weapons to Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/activists-block-melbourne-wharf-to-protest-sale-of-weapons-to-israel?traffic_source=rss"
+        },
         {
           "title": "Iran’s currency hits new low as ‘snapback’ looms over nuclear programme",
           "url": "https://www.aljazeera.com/news/2025/9/1/irans-currency-hits-new-low-as-snapback-looms-over-nuclear-programme?traffic_source=rss"
-        },
-        {
-          "title": "Israel “military does not agree” with taking over Gaza City",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/1/israel-military-does-not-agree-with-taking-over-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel committing genocide in Gaza, scholars group says",
-          "url": "https://www.aljazeera.com/news/2025/9/1/israel-committing-genocide-in-gaza-scholars-group-says?traffic_source=rss"
-        },
-        {
-          "title": "More than 250 media outlets protest over Israel murdering Gaza journalists",
-          "url": "https://www.aljazeera.com/news/2025/9/1/more-than-250-media-outlets-protest-over-israel-murdering-gaza-journalists?traffic_source=rss"
         }
       ],
       "chg1d": -0.0012056644307072018,
@@ -91,24 +67,9 @@
       "chg1m": 0.08230794812105083
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
-          "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.028627994456543328,
-      "chg5d": -0.015135091733911478,
-      "chg1m": 0.022038911802691297
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -121,9 +82,24 @@
       "chg1m": 0.06896402815563324
     },
     {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
+          "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.028627994456543328,
+      "chg5d": -0.015135091733911478,
+      "chg1m": 0.022038911802691297
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
