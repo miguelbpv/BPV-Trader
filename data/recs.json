@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-09-01T06:20:38.475682Z",
+  "generated_at": "2025-09-01T09:15:28.752727Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel Murders Journalists",
-          "url": "https://www.aljazeera.com/news/longform/2025/9/1/israel-murders-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Israeli raids in major occupied West Bank cities lead to arrests, injuries",
-          "url": "https://www.aljazeera.com/news/2025/8/31/israeli-raids-in-major-occupied-west-bank-cities-lead-to-arrests-injuries?traffic_source=rss"
-        },
-        {
-          "title": "‘Fields of rubble’: Israel, destroying Gaza City, kills 78 across enclave",
-          "url": "https://www.aljazeera.com/news/2025/8/31/israel-is-reducing-gaza-city-to-fields-of-rubble-kills-78-across-enclave?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthi leader condemns Israel’s ‘record of terror’ after killings",
-          "url": "https://www.aljazeera.com/news/2025/8/31/yemens-houthi-leader-condemns-israels-record-of-terror-after-killings?traffic_source=rss"
-        },
-        {
-          "title": "Mothers, newborns most at risk as Israeli-induced malnutrition grips Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/31/mothers-newborns-most-at-risk-as-israeli-induced-malnutrition-grips-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0012056644307072018,
-      "chg5d": 0.021134020618556716,
-      "chg1m": 0.08230794812105083
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
+      "score": 2.69,
+      "confianca": 76,
       "razoes": [
+        {
+          "title": "The names of Palestinian journalists killed by Israel in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Israel Murders Journalists",
           "url": "https://www.aljazeera.com/news/longform/2025/9/1/israel-murders-journalists?traffic_source=rss"
@@ -49,14 +22,6 @@
         {
           "title": "‘Fields of rubble’: Israel, destroying Gaza City, kills 78 across enclave",
           "url": "https://www.aljazeera.com/news/2025/8/31/israel-is-reducing-gaza-city-to-fields-of-rubble-kills-78-across-enclave?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthi leader condemns Israel’s ‘record of terror’ after killings",
-          "url": "https://www.aljazeera.com/news/2025/8/31/yemens-houthi-leader-condemns-israels-record-of-terror-after-killings?traffic_source=rss"
-        },
-        {
-          "title": "Mothers, newborns most at risk as Israeli-induced malnutrition grips Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/31/mothers-newborns-most-at-risk-as-israeli-induced-malnutrition-grips-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +31,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
+      "score": 2.69,
+      "confianca": 76,
       "razoes": [
+        {
+          "title": "The names of Palestinian journalists killed by Israel in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Israel Murders Journalists",
           "url": "https://www.aljazeera.com/news/longform/2025/9/1/israel-murders-journalists?traffic_source=rss"
@@ -80,19 +49,38 @@
         {
           "title": "‘Fields of rubble’: Israel, destroying Gaza City, kills 78 across enclave",
           "url": "https://www.aljazeera.com/news/2025/8/31/israel-is-reducing-gaza-city-to-fields-of-rubble-kills-78-across-enclave?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthi leader condemns Israel’s ‘record of terror’ after killings",
-          "url": "https://www.aljazeera.com/news/2025/8/31/yemens-houthi-leader-condemns-israels-record-of-terror-after-killings?traffic_source=rss"
-        },
-        {
-          "title": "Mothers, newborns most at risk as Israeli-induced malnutrition grips Gaza",
-          "url": "https://www.aljazeera.com/news/2025/8/31/mothers-newborns-most-at-risk-as-israeli-induced-malnutrition-grips-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.005450500556173469,
       "chg5d": 0.025527569775357386,
       "chg1m": 0.03646370829033376
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.69,
+      "confianca": 76,
+      "razoes": [
+        {
+          "title": "The names of Palestinian journalists killed by Israel in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/the-names-of-palestinian-journalists-killed-by-israel-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel Murders Journalists",
+          "url": "https://www.aljazeera.com/news/longform/2025/9/1/israel-murders-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Israeli raids in major occupied West Bank cities lead to arrests, injuries",
+          "url": "https://www.aljazeera.com/news/2025/8/31/israeli-raids-in-major-occupied-west-bank-cities-lead-to-arrests-injuries?traffic_source=rss"
+        },
+        {
+          "title": "‘Fields of rubble’: Israel, destroying Gaza City, kills 78 across enclave",
+          "url": "https://www.aljazeera.com/news/2025/8/31/israel-is-reducing-gaza-city-to-fields-of-rubble-kills-78-across-enclave?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0012056644307072018,
+      "chg5d": 0.021134020618556716,
+      "chg1m": 0.08230794812105083
     }
   ]
 }
