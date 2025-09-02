@@ -1,39 +1,16 @@
 {
-  "generated_at": "2025-09-02T00:58:00.384052Z",
+  "generated_at": "2025-09-02T03:34:52.510798Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.55,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
-          "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
-        },
-        {
-          "title": "Activists block Melbourne wharf to protest sale of weapons to Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/activists-block-melbourne-wharf-to-protest-sale-of-weapons-to-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s currency hits new low as ‘snapback’ looms over nuclear programme",
-          "url": "https://www.aljazeera.com/news/2025/9/1/irans-currency-hits-new-low-as-snapback-looms-over-nuclear-programme?traffic_source=rss"
-        },
-        {
-          "title": "Guyana votes in elections amid oil boom debate and Venezuela tensions",
-          "url": "https://www.aljazeera.com/news/2025/9/1/guyana-votes-in-elections-amid-oil-boom-debate-and-venezuela-tensions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005450500556173469,
-      "chg5d": 0.025527569775357386,
-      "chg1m": 0.03646370829033376
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.55,
+      "score": 4.38,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Belgium to recognise Palestine, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
           "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
@@ -56,11 +33,46 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.38,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Belgium to recognise Palestine, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
+          "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
+        },
+        {
+          "title": "Activists block Melbourne wharf to protest sale of weapons to Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/activists-block-melbourne-wharf-to-protest-sale-of-weapons-to-israel?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s currency hits new low as ‘snapback’ looms over nuclear programme",
+          "url": "https://www.aljazeera.com/news/2025/9/1/irans-currency-hits-new-low-as-snapback-looms-over-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Guyana votes in elections amid oil boom debate and Venezuela tensions",
+          "url": "https://www.aljazeera.com/news/2025/9/1/guyana-votes-in-elections-amid-oil-boom-debate-and-venezuela-tensions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005450500556173469,
+      "chg5d": 0.025527569775357386,
+      "chg1m": 0.03646370829033376
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "score": 3.06,
+      "confianca": 87,
       "razoes": [
+        {
+          "title": "Belgium to recognise Palestine, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
           "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
@@ -81,9 +93,13 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Belgium to recognise Palestine, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
+        },
         {
           "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
           "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
@@ -94,26 +110,15 @@
       "chg1m": 0.022038911802691297
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
-          "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02729678044691278,
-      "chg5d": -0.016254023765051837,
-      "chg1m": 0.06896402815563324
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Belgium to recognise Palestine, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
+        },
         {
           "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
           "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
@@ -122,6 +127,25 @@
       "chg1d": -0.03105720401225503,
       "chg5d": -0.009099102965792543,
       "chg1m": -0.044491350053803495
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Belgium to recognise Palestine, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
+        },
+        {
+          "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
+          "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02729678044691278,
+      "chg5d": -0.016254023765051837,
+      "chg1m": 0.06896402815563324
     }
   ]
 }
