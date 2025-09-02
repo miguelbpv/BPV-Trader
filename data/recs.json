@@ -1,23 +1,27 @@
 {
-  "generated_at": "2025-09-02T09:13:59.224122Z",
+  "generated_at": "2025-09-02T12:24:46.937543Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.31,
-      "confianca": 66,
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "LIVE: Israel starves 13 more Palestinians to death, kills 40 since dawn",
+          "title": "Israeli-induced starvation in Gaza kills 185 in August, 13 more in 24 hours",
+          "url": "https://www.aljazeera.com/news/2025/9/2/israeli-induced-starvation-in-gaza-kills-185-in-august-13-more-in-24-hours?traffic_source=rss"
+        },
+        {
+          "title": "What if… the US stopped supporting Israel tomorrow?",
+          "url": "https://www.aljazeera.com/news/2025/9/2/what-if-the-us-stopped-supporting-israel-tomorrow?traffic_source=rss"
+        },
+        {
+          "title": "Al Jazeera reporter in aftermath of Israeli strike on crowded Gaza market",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/al-jazeera-reporter-in-aftermath-of-israeli-strike-on-crowded-gaza-market?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel starves 13 more Palestinians to death, kills 73 since dawn",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/2/live-israel-kills-17-palestinians-in-gaza-since-dawn?traffic_source=rss"
-        },
-        {
-          "title": "Belgium to recognise Palestinian statehood, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
-          "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
         }
       ],
       "chg1d": 0.005450500556173469,
@@ -25,45 +29,26 @@
       "chg1m": 0.03646370829033376
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.31,
-      "confianca": 66,
-      "razoes": [
-        {
-          "title": "LIVE: Israel starves 13 more Palestinians to death, kills 40 since dawn",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/2/live-israel-kills-17-palestinians-in-gaza-since-dawn?traffic_source=rss"
-        },
-        {
-          "title": "Belgium to recognise Palestinian statehood, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
-          "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0012056644307072018,
-      "chg5d": 0.021134020618556716,
-      "chg1m": 0.08230794812105083
-    },
-    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.31,
-      "confianca": 66,
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "LIVE: Israel starves 13 more Palestinians to death, kills 40 since dawn",
+          "title": "Israeli-induced starvation in Gaza kills 185 in August, 13 more in 24 hours",
+          "url": "https://www.aljazeera.com/news/2025/9/2/israeli-induced-starvation-in-gaza-kills-185-in-august-13-more-in-24-hours?traffic_source=rss"
+        },
+        {
+          "title": "What if… the US stopped supporting Israel tomorrow?",
+          "url": "https://www.aljazeera.com/news/2025/9/2/what-if-the-us-stopped-supporting-israel-tomorrow?traffic_source=rss"
+        },
+        {
+          "title": "Al Jazeera reporter in aftermath of Israeli strike on crowded Gaza market",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/al-jazeera-reporter-in-aftermath-of-israeli-strike-on-crowded-gaza-market?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel starves 13 more Palestinians to death, kills 73 since dawn",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/2/live-israel-kills-17-palestinians-in-gaza-since-dawn?traffic_source=rss"
-        },
-        {
-          "title": "Belgium to recognise Palestinian statehood, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
-          "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -71,49 +56,31 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "Belgium to recognise Palestinian statehood, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02729678044691278,
-      "chg5d": -0.016254023765051837,
-      "chg1m": 0.06896402815563324
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "Israeli-induced starvation in Gaza kills 185 in August, 13 more in 24 hours",
+          "url": "https://www.aljazeera.com/news/2025/9/2/israeli-induced-starvation-in-gaza-kills-185-in-august-13-more-in-24-hours?traffic_source=rss"
+        },
         {
-          "title": "Belgium to recognise Palestinian statehood, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.03105720401225503,
-      "chg5d": -0.009099102965792543,
-      "chg1m": -0.044491350053803495
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "What if… the US stopped supporting Israel tomorrow?",
+          "url": "https://www.aljazeera.com/news/2025/9/2/what-if-the-us-stopped-supporting-israel-tomorrow?traffic_source=rss"
+        },
         {
-          "title": "Belgium to recognise Palestinian statehood, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/2/belgium-to-recognise-palestine-at-un-general-assembly-foreign-minister?traffic_source=rss"
+          "title": "Al Jazeera reporter in aftermath of Israeli strike on crowded Gaza market",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/al-jazeera-reporter-in-aftermath-of-israeli-strike-on-crowded-gaza-market?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel starves 13 more Palestinians to death, kills 73 since dawn",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/2/live-israel-kills-17-palestinians-in-gaza-since-dawn?traffic_source=rss"
         }
       ],
-      "chg1d": -0.028627994456543328,
-      "chg5d": -0.015135091733911478,
-      "chg1m": 0.022038911802691297
+      "chg1d": -0.0012056644307072018,
+      "chg5d": 0.021134020618556716,
+      "chg1m": 0.08230794812105083
     }
   ]
 }
