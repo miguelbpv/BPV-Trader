@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-01T21:10:39.329078Z",
+  "generated_at": "2025-09-02T00:58:00.384052Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 3.55,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
+          "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
+        },
         {
           "title": "Activists block Melbourne wharf to protest sale of weapons to Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/activists-block-melbourne-wharf-to-protest-sale-of-weapons-to-israel?traffic_source=rss"
@@ -27,9 +31,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 3.55,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
+          "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
+        },
         {
           "title": "Activists block Melbourne wharf to protest sale of weapons to Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/activists-block-melbourne-wharf-to-protest-sale-of-weapons-to-israel?traffic_source=rss"
@@ -49,10 +57,14 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israeli forces kill pregnant woman and her unborn baby in Gaza City assault",
+          "url": "https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss"
+        },
         {
           "title": "Activists block Melbourne wharf to protest sale of weapons to Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/1/activists-block-melbourne-wharf-to-protest-sale-of-weapons-to-israel?traffic_source=rss"
@@ -67,24 +79,9 @@
       "chg1m": 0.08230794812105083
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
-          "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02729678044691278,
-      "chg5d": -0.016254023765051837,
-      "chg1m": 0.06896402815563324
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -97,9 +94,24 @@
       "chg1m": 0.022038911802691297
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump claims India has offered to reduce tariffs on US goods to zero",
+          "url": "https://www.aljazeera.com/news/2025/9/1/trump-calls-us-relationship-with-india-totally-one-sided?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02729678044691278,
+      "chg5d": -0.016254023765051837,
+      "chg1m": 0.06896402815563324
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
