@@ -1,35 +1,16 @@
 {
-  "generated_at": "2025-09-02T21:10:19.775794Z",
+  "generated_at": "2025-09-03T00:54:34.334104Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.33,
-      "confianca": 66,
-      "razoes": [
-        {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
-        },
-        {
-          "title": "Top genocide scholars say Israel is committing genocide in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/top-genocide-scholars-say-israel-is-committing-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Signing Israel’s Solomon sparks fan outcry at Spain’s Villarreal",
-          "url": "https://www.aljazeera.com/sports/2025/9/2/signing-israels-solomon-sparks-fan-outcry-at-spains-villarreal?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00686960911265719,
-      "chg5d": 0.010676315554364274,
-      "chg1m": 0.07479632312771671
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.33,
+      "score": 2.32,
       "confianca": 66,
       "razoes": [
+        {
+          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
@@ -37,10 +18,6 @@
         {
           "title": "Top genocide scholars say Israel is committing genocide in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/top-genocide-scholars-say-israel-is-committing-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Signing Israel’s Solomon sparks fan outcry at Spain’s Villarreal",
-          "url": "https://www.aljazeera.com/sports/2025/9/2/signing-israels-solomon-sparks-fan-outcry-at-spains-villarreal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0014382121916140663,
@@ -48,11 +25,15 @@
       "chg1m": 0.05760018693772628
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.33,
+      "score": 2.32,
       "confianca": 66,
       "razoes": [
+        {
+          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
@@ -60,10 +41,29 @@
         {
           "title": "Top genocide scholars say Israel is committing genocide in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/top-genocide-scholars-say-israel-is-committing-genocide-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00686960911265719,
+      "chg5d": 0.010676315554364274,
+      "chg1m": 0.07479632312771671
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.32,
+      "confianca": 66,
+      "razoes": [
+        {
+          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Signing Israel’s Solomon sparks fan outcry at Spain’s Villarreal",
-          "url": "https://www.aljazeera.com/sports/2025/9/2/signing-israels-solomon-sparks-fan-outcry-at-spains-villarreal?traffic_source=rss"
+          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
+        },
+        {
+          "title": "Top genocide scholars say Israel is committing genocide in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/top-genocide-scholars-say-israel-is-committing-genocide-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -71,24 +71,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010741976003811748,
-      "chg5d": -0.03056156882719987,
-      "chg1m": -0.028995365843289066
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -103,7 +88,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -114,6 +99,21 @@
       "chg1d": -0.02258220893592952,
       "chg5d": -0.03792116215571404,
       "chg1m": 0.05223101678698787
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010741976003811748,
+      "chg5d": -0.03056156882719987,
+      "chg1m": -0.028995365843289066
     }
   ]
 }
