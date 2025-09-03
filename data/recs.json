@@ -1,12 +1,51 @@
 {
-  "generated_at": "2025-09-03T15:12:53.756386Z",
+  "generated_at": "2025-09-03T18:17:25.789390Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.06,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli Finance Minister outlines plan to annex West Bank territory",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israeli-finance-minister-outlines-plan-to-annex-west-bank-territory?traffic_source=rss"
+        },
+        {
+          "title": "Israel accused of using drones to drop incendiary bombs in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israel-accused-of-using-drones-to-drop-incendiary-bombs-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Jeremy Corbyn to lead ‘Gaza tribunal’ into UK role in Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/9/3/jeremy-corbyn-to-lead-gaza-tribunal-into-uk-role-in-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Can Syria revive its oil wealth to help rebuild the nation?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/3/can-syria-revive-its-oil-wealth-to-help-rebuild-the-nation?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks disabled 21,000 Palestinian children in Gaza war, UN says",
+          "url": "https://www.aljazeera.com/news/2025/9/3/israeli-attacks-disabled-21000-palestinian-children-in-gaza-war-un-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.022149801148917316,
+      "chg5d": 0.003230193811628659,
+      "chg1m": 0.03647540983606551
+    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.84,
-      "confianca": 81,
+      "score": 4.06,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli Finance Minister outlines plan to annex West Bank territory",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israeli-finance-minister-outlines-plan-to-annex-west-bank-territory?traffic_source=rss"
+        },
+        {
+          "title": "Israel accused of using drones to drop incendiary bombs in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israel-accused-of-using-drones-to-drop-incendiary-bombs-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Jeremy Corbyn to lead ‘Gaza tribunal’ into UK role in Israel’s war",
           "url": "https://www.aljazeera.com/news/2025/9/3/jeremy-corbyn-to-lead-gaza-tribunal-into-uk-role-in-israels-war?traffic_source=rss"
@@ -25,46 +64,88 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.84,
-      "confianca": 81,
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Israeli Finance Minister outlines plan to annex West Bank territory",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israeli-finance-minister-outlines-plan-to-annex-west-bank-territory?traffic_source=rss"
+        },
+        {
+          "title": "Israel accused of using drones to drop incendiary bombs in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israel-accused-of-using-drones-to-drop-incendiary-bombs-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Jeremy Corbyn to lead ‘Gaza tribunal’ into UK role in Israel’s war",
           "url": "https://www.aljazeera.com/news/2025/9/3/jeremy-corbyn-to-lead-gaza-tribunal-into-uk-role-in-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "Can Syria revive its oil wealth to help rebuild the nation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/3/can-syria-revive-its-oil-wealth-to-help-rebuild-the-nation?traffic_source=rss"
         },
         {
           "title": "Israeli attacks disabled 21,000 Palestinian children in Gaza war, UN says",
           "url": "https://www.aljazeera.com/news/2025/9/3/israeli-attacks-disabled-21000-palestinian-children-in-gaza-war-un-says?traffic_source=rss"
         }
       ],
-      "chg1d": -0.02065841802916472,
-      "chg5d": 0.004760285617137048,
-      "chg1m": 0.038056206088992975
+      "chg1d": -0.007116022099447574,
+      "chg5d": -0.013568699776050602,
+      "chg1m": 0.06037290535756428
     },
     {
-      "symbol": "LMT",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Jeremy Corbyn to lead ‘Gaza tribunal’ into UK role in Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/9/3/jeremy-corbyn-to-lead-gaza-tribunal-into-uk-role-in-israels-war?traffic_source=rss"
+          "title": "US and EU sanctions have killed 38 million people since 1970",
+          "url": "https://www.aljazeera.com/opinions/2025/9/3/us-and-eu-sanctions-have-killed-38-million-people-since-1970?traffic_source=rss"
         },
         {
-          "title": "Israeli attacks disabled 21,000 Palestinian children in Gaza war, UN says",
-          "url": "https://www.aljazeera.com/news/2025/9/3/israeli-attacks-disabled-21000-palestinian-children-in-gaza-war-un-says?traffic_source=rss"
+          "title": "Campbell’s sees tariff hit in year ahead as economic uncertainty looms",
+          "url": "https://www.aljazeera.com/economy/2025/9/3/campbells-sees-tariff-hit-in-year-ahead-as-economic-uncertainty-looms?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011558011049723796,
-      "chg5d": -0.017981820576999073,
-      "chg1m": 0.0556289827708284
+      "chg1d": -0.012724951612239029,
+      "chg5d": -0.044289415985648735,
+      "chg1m": -0.0027454242928452435
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US and EU sanctions have killed 38 million people since 1970",
+          "url": "https://www.aljazeera.com/opinions/2025/9/3/us-and-eu-sanctions-have-killed-38-million-people-since-1970?traffic_source=rss"
+        },
+        {
+          "title": "Campbell’s sees tariff hit in year ahead as economic uncertainty looms",
+          "url": "https://www.aljazeera.com/economy/2025/9/3/campbells-sees-tariff-hit-in-year-ahead-as-economic-uncertainty-looms?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007596654844783107,
+      "chg5d": -0.03600452412868632,
+      "chg1m": -0.03713389121338912
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US and EU sanctions have killed 38 million people since 1970",
+          "url": "https://www.aljazeera.com/opinions/2025/9/3/us-and-eu-sanctions-have-killed-38-million-people-since-1970?traffic_source=rss"
+        },
+        {
+          "title": "Campbell’s sees tariff hit in year ahead as economic uncertainty looms",
+          "url": "https://www.aljazeera.com/economy/2025/9/3/campbells-sees-tariff-hit-in-year-ahead-as-economic-uncertainty-looms?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.010380932699593537,
+      "chg5d": -0.039065775681341786,
+      "chg1m": 0.04865162434225574
     }
   ]
 }
