@@ -1,74 +1,70 @@
 {
-  "generated_at": "2025-09-03T12:23:45.469102Z",
+  "generated_at": "2025-09-03T15:12:53.756386Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "UNIFIL says Israeli drones dropped grenades near peacekeepers in Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/9/3/unifil-says-israeli-drones-drop-grenades-close-to-peacekeepers-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Why did genocide scholars association say Israel’s war on Gaza is genocide?",
-          "url": "https://www.aljazeera.com/news/2025/9/3/why-have-leading-experts-declared-israels-war-on-gaza-a-genocide?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00686960911265719,
-      "chg5d": 0.010676315554364274,
-      "chg1m": 0.07479632312771671
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "UNIFIL says Israeli drones dropped grenades near peacekeepers in Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/9/3/unifil-says-israeli-drones-drop-grenades-close-to-peacekeepers-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Why did genocide scholars association say Israel’s war on Gaza is genocide?",
-          "url": "https://www.aljazeera.com/news/2025/9/3/why-have-leading-experts-declared-israels-war-on-gaza-a-genocide?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0014382121916140663,
-      "chg5d": 0.02432952359397976,
-      "chg1m": 0.05760018693772628
-    },
-    {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "acao": "comprar",
+      "score": 2.84,
+      "confianca": 81,
       "razoes": [
         {
-          "title": "UNIFIL says Israeli drones dropped grenades near peacekeepers in Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/9/3/unifil-says-israeli-drones-drop-grenades-close-to-peacekeepers-in-lebanon?traffic_source=rss"
+          "title": "Jeremy Corbyn to lead ‘Gaza tribunal’ into UK role in Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/9/3/jeremy-corbyn-to-lead-gaza-tribunal-into-uk-role-in-israels-war?traffic_source=rss"
         },
         {
-          "title": "Why did genocide scholars association say Israel’s war on Gaza is genocide?",
-          "url": "https://www.aljazeera.com/news/2025/9/3/why-have-leading-experts-declared-israels-war-on-gaza-a-genocide?traffic_source=rss"
+          "title": "Can Syria revive its oil wealth to help rebuild the nation?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/3/can-syria-revive-its-oil-wealth-to-help-rebuild-the-nation?traffic_source=rss"
         },
         {
-          "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
+          "title": "Israeli attacks disabled 21,000 Palestinian children in Gaza war, UN says",
+          "url": "https://www.aljazeera.com/news/2025/9/3/israeli-attacks-disabled-21000-palestinian-children-in-gaza-war-un-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.84,
+      "confianca": 81,
+      "razoes": [
+        {
+          "title": "Jeremy Corbyn to lead ‘Gaza tribunal’ into UK role in Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/9/3/jeremy-corbyn-to-lead-gaza-tribunal-into-uk-role-in-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Can Syria revive its oil wealth to help rebuild the nation?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/3/can-syria-revive-its-oil-wealth-to-help-rebuild-the-nation?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks disabled 21,000 Palestinian children in Gaza war, UN says",
+          "url": "https://www.aljazeera.com/news/2025/9/3/israeli-attacks-disabled-21000-palestinian-children-in-gaza-war-un-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02065841802916472,
+      "chg5d": 0.004760285617137048,
+      "chg1m": 0.038056206088992975
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Jeremy Corbyn to lead ‘Gaza tribunal’ into UK role in Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/9/3/jeremy-corbyn-to-lead-gaza-tribunal-into-uk-role-in-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks disabled 21,000 Palestinian children in Gaza war, UN says",
+          "url": "https://www.aljazeera.com/news/2025/9/3/israeli-attacks-disabled-21000-palestinian-children-in-gaza-war-un-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011558011049723796,
+      "chg5d": -0.017981820576999073,
+      "chg1m": 0.0556289827708284
     }
   ]
 }
