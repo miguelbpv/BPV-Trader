@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-03T00:54:34.334104Z",
+  "generated_at": "2025-09-03T03:22:00.572744Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.32,
-      "confianca": 66,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.58,
+      "confianca": 45,
       "razoes": [
         {
           "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
@@ -14,10 +14,25 @@
         {
           "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.58,
+      "confianca": 45,
+      "razoes": [
+        {
+          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Top genocide scholars say Israel is committing genocide in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/top-genocide-scholars-say-israel-is-committing-genocide-in-gaza?traffic_source=rss"
+          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
         }
       ],
       "chg1d": 0.0014382121916140663,
@@ -26,9 +41,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.32,
-      "confianca": 66,
+      "acao": "observar",
+      "score": 1.58,
+      "confianca": 45,
       "razoes": [
         {
           "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
@@ -37,53 +52,11 @@
         {
           "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
-        },
-        {
-          "title": "Top genocide scholars say Israel is committing genocide in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/top-genocide-scholars-say-israel-is-committing-genocide-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": -0.00686960911265719,
       "chg5d": 0.010676315554364274,
       "chg1m": 0.07479632312771671
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.32,
-      "confianca": 66,
-      "razoes": [
-        {
-          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
-        },
-        {
-          "title": "Top genocide scholars say Israel is committing genocide in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/top-genocide-scholars-say-israel-is-committing-genocide-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01015000815261691,
-      "chg5d": -0.022856223089614013,
-      "chg1m": 0.023562636992075548
     },
     {
       "symbol": "ASML.AS",
@@ -114,6 +87,21 @@
       "chg1d": -0.010741976003811748,
       "chg5d": -0.03056156882719987,
       "chg1m": -0.028995365843289066
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01015000815261691,
+      "chg5d": -0.022856223089614013,
+      "chg1m": 0.023562636992075548
     }
   ]
 }
