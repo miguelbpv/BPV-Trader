@@ -1,19 +1,38 @@
 {
-  "generated_at": "2025-09-03T03:22:00.572744Z",
+  "generated_at": "2025-09-03T06:17:47.266575Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
+        },
         {
           "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
           "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00686960911265719,
+      "chg5d": 0.010676315554364274,
+      "chg1m": 0.07479632312771671
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
         },
         {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
+          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -23,85 +42,21 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
+        },
         {
           "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
           "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
         }
       ],
       "chg1d": 0.0014382121916140663,
       "chg5d": 0.02432952359397976,
       "chg1m": 0.05760018693772628
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
-      "razoes": [
-        {
-          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00686960911265719,
-      "chg5d": 0.010676315554364274,
-      "chg1m": 0.07479632312771671
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02258220893592952,
-      "chg5d": -0.03792116215571404,
-      "chg1m": 0.05223101678698787
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010741976003811748,
-      "chg5d": -0.03056156882719987,
-      "chg1m": -0.028995365843289066
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Belgium to recognise Palestinian state, impose sanctions on Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/2/belgium-to-recognise-palestinian-state-impose-sanctions-on-israel-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01015000815261691,
-      "chg5d": -0.022856223089614013,
-      "chg1m": 0.023562636992075548
     }
   ]
 }
