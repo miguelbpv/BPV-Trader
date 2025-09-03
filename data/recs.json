@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-09-03T09:13:09.818513Z",
+  "generated_at": "2025-09-03T12:23:45.469102Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "UNIFIL says Israeli drones drop grenades close to peacekeepers in Lebanon",
+          "title": "UNIFIL says Israeli drones dropped grenades near peacekeepers in Lebanon",
           "url": "https://www.aljazeera.com/news/2025/9/3/unifil-says-israeli-drones-drop-grenades-close-to-peacekeepers-in-lebanon?traffic_source=rss"
         },
         {
@@ -18,10 +18,6 @@
         {
           "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": -0.00686960911265719,
@@ -29,40 +25,13 @@
       "chg1m": 0.07479632312771671
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "UNIFIL says Israeli drones drop grenades close to peacekeepers in Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/9/3/unifil-says-israeli-drones-drop-grenades-close-to-peacekeepers-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Why did genocide scholars association say Israel’s war on Gaza is genocide?",
-          "url": "https://www.aljazeera.com/news/2025/9/3/why-have-leading-experts-declared-israels-war-on-gaza-a-genocide?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "UNIFIL says Israeli drones drop grenades close to peacekeepers in Lebanon",
+          "title": "UNIFIL says Israeli drones dropped grenades near peacekeepers in Lebanon",
           "url": "https://www.aljazeera.com/news/2025/9/3/unifil-says-israeli-drones-drop-grenades-close-to-peacekeepers-in-lebanon?traffic_source=rss"
         },
         {
@@ -72,15 +41,34 @@
         {
           "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Children, journalists among 105 killed in Israeli onslaught in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0014382121916140663,
       "chg5d": 0.02432952359397976,
       "chg1m": 0.05760018693772628
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "UNIFIL says Israeli drones dropped grenades near peacekeepers in Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/9/3/unifil-says-israeli-drones-drop-grenades-close-to-peacekeepers-in-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Why did genocide scholars association say Israel’s war on Gaza is genocide?",
+          "url": "https://www.aljazeera.com/news/2025/9/3/why-have-leading-experts-declared-israels-war-on-gaza-a-genocide?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
