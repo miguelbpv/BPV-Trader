@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-04T12:24:21.539244Z",
+  "generated_at": "2025-09-04T15:12:30.974135Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.96,
-      "confianca": 95,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "How to stop Israel from starving Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza?traffic_source=rss"
+        },
         {
           "title": "Security camera video shows Israeli strike in southern Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/security-camera-video-shows-israeli-strike-in-southern-lebanon?traffic_source=rss"
@@ -22,22 +26,53 @@
         {
           "title": "Israel’s genocide in Gaza is “normalised”",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/4/israels-genocide-in-gaza-is-normalised?traffic_source=rss"
-        },
-        {
-          "title": "Video: Israeli attacks pound displacement camps in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/video-israeli-attacks-pound-displacement-camps-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.022425983208130815,
-      "chg5d": 0.0029468434772752,
-      "chg1m": 0.03618266978922704
+      "chg1d": 0.004689795457113869,
+      "chg5d": -0.0035305985205110707,
+      "chg1m": 0.039702958718278517
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.2,
+      "confianca": 91,
+      "razoes": [
+        {
+          "title": "How to stop Israel from starving Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Security camera video shows Israeli strike in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/security-camera-video-shows-israeli-strike-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni bodybuilder fighting to make international dream come true",
+          "url": "https://www.aljazeera.com/sports/2025/9/4/yemeni-bodybuilder-fighting-to-make-international-dream-come-true?traffic_source=rss"
+        },
+        {
+          "title": "Israel threatens to unleash biblical plagues on Yemen’s Houthis",
+          "url": "https://www.aljazeera.com/news/2025/9/4/israel-threatens-to-unleash-biblical-plagues-on-yemens-houthis?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s genocide in Gaza is “normalised”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/4/israels-genocide-in-gaza-is-normalised?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00999844118825987,
+      "chg5d": -0.002024556076308772,
+      "chg1m": 0.059102138987483586
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.96,
-      "confianca": 95,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "How to stop Israel from starving Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza?traffic_source=rss"
+        },
         {
           "title": "Security camera video shows Israeli strike in southern Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/security-camera-video-shows-israeli-strike-in-southern-lebanon?traffic_source=rss"
@@ -53,46 +88,11 @@
         {
           "title": "Israel’s genocide in Gaza is “normalised”",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/4/israels-genocide-in-gaza-is-normalised?traffic_source=rss"
-        },
-        {
-          "title": "Video: Israeli attacks pound displacement camps in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/video-israeli-attacks-pound-displacement-camps-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.96,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Security camera video shows Israeli strike in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/security-camera-video-shows-israeli-strike-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni bodybuilder fighting to make international dream come true",
-          "url": "https://www.aljazeera.com/sports/2025/9/4/yemeni-bodybuilder-fighting-to-make-international-dream-come-true?traffic_source=rss"
-        },
-        {
-          "title": "Israel threatens to unleash biblical plagues on Yemen’s Houthis",
-          "url": "https://www.aljazeera.com/news/2025/9/4/israel-threatens-to-unleash-biblical-plagues-on-yemens-houthis?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s genocide in Gaza is “normalised”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/4/israels-genocide-in-gaza-is-normalised?traffic_source=rss"
-        },
-        {
-          "title": "Video: Israeli attacks pound displacement camps in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/video-israeli-attacks-pound-displacement-camps-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0076022099447513765,
-      "chg5d": -0.014051727923418033,
-      "chg1m": 0.05985367004956341
     }
   ]
 }
