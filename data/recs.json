@@ -1,33 +1,6 @@
 {
-  "generated_at": "2025-09-04T06:20:05.909903Z",
+  "generated_at": "2025-09-04T09:13:02.885539Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "LIVE: Hamas says ready for truce deal as Israel pounds Gaza City overnight",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/4/live-hamas-says-ready-for-truce-deal-as-israel-pounds-gaza-city-overnight?traffic_source=rss"
-        },
-        {
-          "title": "Hamas calls for UN action as Israel escalates brutal bombardment of Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/3/hamas-calls-for-un-action-as-israel-escalates-brutal-bombardment-of-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces destroy minaret of mosque in town near Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israeli-forces-destroy-minaret-of-mosque-in-town-near-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Christians refuse to abandon churches before Israeli attack",
-          "url": "https://www.aljazeera.com/features/2025/9/3/gazas-christians-refuse-to-abandon-churches-before-israeli-attack?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
@@ -35,7 +8,11 @@
       "confianca": 84,
       "razoes": [
         {
-          "title": "LIVE: Hamas says ready for truce deal as Israel pounds Gaza City overnight",
+          "title": "Video: Israeli attacks pound displacement camps in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/video-israeli-attacks-pound-displacement-camps-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Families being ‘wiped out’ as Israel intensifies attacks on Gaza City",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/4/live-hamas-says-ready-for-truce-deal-as-israel-pounds-gaza-city-overnight?traffic_source=rss"
         },
         {
@@ -45,15 +22,11 @@
         {
           "title": "Israeli forces destroy minaret of mosque in town near Hebron",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israeli-forces-destroy-minaret-of-mosque-in-town-near-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Christians refuse to abandon churches before Israeli attack",
-          "url": "https://www.aljazeera.com/features/2025/9/3/gazas-christians-refuse-to-abandon-churches-before-israeli-attack?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.0076022099447513765,
+      "chg5d": -0.014051727923418033,
+      "chg1m": 0.05985367004956341
     },
     {
       "symbol": "BRENT",
@@ -62,7 +35,11 @@
       "confianca": 84,
       "razoes": [
         {
-          "title": "LIVE: Hamas says ready for truce deal as Israel pounds Gaza City overnight",
+          "title": "Video: Israeli attacks pound displacement camps in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/video-israeli-attacks-pound-displacement-camps-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Families being ‘wiped out’ as Israel intensifies attacks on Gaza City",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/4/live-hamas-says-ready-for-truce-deal-as-israel-pounds-gaza-city-overnight?traffic_source=rss"
         },
         {
@@ -72,15 +49,38 @@
         {
           "title": "Israeli forces destroy minaret of mosque in town near Hebron",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israeli-forces-destroy-minaret-of-mosque-in-town-near-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Christians refuse to abandon churches before Israeli attack",
-          "url": "https://www.aljazeera.com/features/2025/9/3/gazas-christians-refuse-to-abandon-churches-before-israeli-attack?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Video: Israeli attacks pound displacement camps in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/4/video-israeli-attacks-pound-displacement-camps-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Families being ‘wiped out’ as Israel intensifies attacks on Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/4/live-hamas-says-ready-for-truce-deal-as-israel-pounds-gaza-city-overnight?traffic_source=rss"
+        },
+        {
+          "title": "Hamas calls for UN action as Israel escalates brutal bombardment of Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/3/hamas-calls-for-un-action-as-israel-escalates-brutal-bombardment-of-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces destroy minaret of mosque in town near Hebron",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/3/israeli-forces-destroy-minaret-of-mosque-in-town-near-hebron?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.022425983208130815,
+      "chg5d": 0.0029468434772752,
+      "chg1m": 0.03618266978922704
     },
     {
       "symbol": "SOXX",
@@ -93,24 +93,9 @@
           "url": "https://www.aljazeera.com/news/2025/9/3/india-cuts-consumption-taxes-to-boost-demand-after-trumps-tariff-blow?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "India cuts consumption taxes to boost demand after Trump’s tariff blow",
-          "url": "https://www.aljazeera.com/news/2025/9/3/india-cuts-consumption-taxes-to-boost-demand-after-trumps-tariff-blow?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.004735823415558233,
+      "chg5d": -0.0365557105840143,
+      "chg1m": 0.0053244592346089895
     },
     {
       "symbol": "TSM",
@@ -123,9 +108,24 @@
           "url": "https://www.aljazeera.com/news/2025/9/3/india-cuts-consumption-taxes-to-boost-demand-after-trumps-tariff-blow?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.013135426244581638,
+      "chg5d": -0.030705428954423644,
+      "chg1m": -0.03184100418410048
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "India cuts consumption taxes to boost demand after Trump’s tariff blow",
+          "url": "https://www.aljazeera.com/news/2025/9/3/india-cuts-consumption-taxes-to-boost-demand-after-trumps-tariff-blow?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015113315423296862,
+      "chg5d": -0.0345649895178197,
+      "chg1m": 0.05356325783573558
     }
   ]
 }
