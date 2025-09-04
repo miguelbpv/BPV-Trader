@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-04T18:17:03.471587Z",
+  "generated_at": "2025-09-04T21:10:56.391913Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.43,
-      "confianca": 95,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
           "title": "Can Syria revive its oil wealth to help rebuild the nation?",
@@ -14,10 +14,6 @@
         {
           "title": "Venezuela has the world’s most oil: Why doesn’t it earn more from exports?",
           "url": "https://www.aljazeera.com/news/2025/9/4/venezuela-has-the-worlds-most-oil-why-doesnt-it-earn-more-from-exports?traffic_source=rss"
-        },
-        {
-          "title": "How to stop Israel from starving Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,8 +23,8 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.43,
-      "confianca": 95,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
           "title": "Can Syria revive its oil wealth to help rebuild the nation?",
@@ -37,21 +33,62 @@
         {
           "title": "Venezuela has the world’s most oil: Why doesn’t it earn more from exports?",
           "url": "https://www.aljazeera.com/news/2025/9/4/venezuela-has-the-worlds-most-oil-why-doesnt-it-earn-more-from-exports?traffic_source=rss"
-        },
-        {
-          "title": "How to stop Israel from starving Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009880212453384623,
-      "chg5d": 0.0016173503698722394,
-      "chg1m": 0.0450742603204303
+      "chg1d": 0.0066674200474630295,
+      "chg5d": -0.0015691548980049381,
+      "chg1m": 0.04174950298210727
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
+          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00824867182402825,
+      "chg5d": 0.0037424802437250964,
+      "chg1m": 0.03356848257082333
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
+          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01253905079813415,
+      "chg5d": 0.002797321352886313,
+      "chg1m": 0.07131537242472266
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
+          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009051519988773252,
+      "chg5d": 0.0030340546478578685,
+      "chg1m": 0.026701411819301475
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
@@ -61,66 +98,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0055923198806972114,
-      "chg5d": 0.0010980004020847106,
-      "chg1m": 0.030845422552032747
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00766037574357008,
-      "chg5d": -0.002034415529371831,
-      "chg1m": 0.06615349784921899
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005911554721350017,
-      "chg5d": -8.718547838664062e-05,
-      "chg1m": 0.0235065236403878
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "How to stop Israel from starving Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013688371264419045,
-      "chg5d": 0.001621449160560634,
-      "chg1m": 0.06297146459929014
     }
   ]
 }
