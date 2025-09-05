@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-09-05T00:56:01.614963Z",
+  "generated_at": "2025-09-05T03:26:25.875282Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 2.09,
+      "score": 2.08,
       "confianca": 59,
       "razoes": [
         {
@@ -20,14 +20,14 @@
           "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.0066674200474630295,
+      "chg5d": -0.0015691548980049381,
+      "chg1m": 0.04174950298210727
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 2.09,
+      "score": 2.08,
       "confianca": 59,
       "razoes": [
         {
@@ -48,9 +48,9 @@
       "chg1m": 0.06680833177657391
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.09,
+      "score": 2.08,
       "confianca": 59,
       "razoes": [
         {
@@ -66,9 +66,9 @@
           "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0066674200474630295,
-      "chg5d": -0.0015691548980049381,
-      "chg1m": 0.04174950298210727
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "ASML.AS",
