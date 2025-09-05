@@ -1,19 +1,23 @@
 {
-  "generated_at": "2025-09-04T21:10:56.391913Z",
+  "generated_at": "2025-09-05T00:56:01.614963Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.68,
-      "confianca": 76,
+      "acao": "observar",
+      "score": 2.09,
+      "confianca": 59,
       "razoes": [
         {
-          "title": "Can Syria revive its oil wealth to help rebuild the nation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/4/can-syria-revive-its-oil-wealth-to-help-rebuild-the-nation?traffic_source=rss"
+          "title": "‘City of fear’: Palestinians trapped as Israel intensifies Gaza City attack",
+          "url": "https://www.aljazeera.com/news/2025/9/4/city-of-fear-israeli-army-kills-dozens-in-advance-through-gaza-city?traffic_source=rss"
         },
         {
-          "title": "Venezuela has the world’s most oil: Why doesn’t it earn more from exports?",
-          "url": "https://www.aljazeera.com/news/2025/9/4/venezuela-has-the-worlds-most-oil-why-doesnt-it-earn-more-from-exports?traffic_source=rss"
+          "title": "How many Palestinian detainees from Gaza does Israel think are fighters?",
+          "url": "https://www.aljazeera.com/news/2025/9/4/how-many-palestinian-detainees-from-gaza-does-israel-think-are-fighters?traffic_source=rss"
+        },
+        {
+          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
+          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -21,18 +25,45 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.68,
-      "confianca": 76,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 2.09,
+      "confianca": 59,
       "razoes": [
         {
-          "title": "Can Syria revive its oil wealth to help rebuild the nation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/4/can-syria-revive-its-oil-wealth-to-help-rebuild-the-nation?traffic_source=rss"
+          "title": "‘City of fear’: Palestinians trapped as Israel intensifies Gaza City attack",
+          "url": "https://www.aljazeera.com/news/2025/9/4/city-of-fear-israeli-army-kills-dozens-in-advance-through-gaza-city?traffic_source=rss"
         },
         {
-          "title": "Venezuela has the world’s most oil: Why doesn’t it earn more from exports?",
-          "url": "https://www.aljazeera.com/news/2025/9/4/venezuela-has-the-worlds-most-oil-why-doesnt-it-earn-more-from-exports?traffic_source=rss"
+          "title": "How many Palestinian detainees from Gaza does Israel think are fighters?",
+          "url": "https://www.aljazeera.com/news/2025/9/4/how-many-palestinian-detainees-from-gaza-does-israel-think-are-fighters?traffic_source=rss"
+        },
+        {
+          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
+          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.017347347793167996,
+      "chg5d": 0.005236869320307161,
+      "chg1m": 0.06680833177657391
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.09,
+      "confianca": 59,
+      "razoes": [
+        {
+          "title": "‘City of fear’: Palestinians trapped as Israel intensifies Gaza City attack",
+          "url": "https://www.aljazeera.com/news/2025/9/4/city-of-fear-israeli-army-kills-dozens-in-advance-through-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "How many Palestinian detainees from Gaza does Israel think are fighters?",
+          "url": "https://www.aljazeera.com/news/2025/9/4/how-many-palestinian-detainees-from-gaza-does-israel-think-are-fighters?traffic_source=rss"
+        },
+        {
+          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
+          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
         }
       ],
       "chg1d": 0.0066674200474630295,
@@ -40,64 +71,49 @@
       "chg1m": 0.04174950298210727
     },
     {
-      "symbol": "SPY",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 0.6,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
+          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
+          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00824867182402825,
-      "chg5d": 0.0037424802437250964,
-      "chg1m": 0.03356848257082333
+      "chg1d": 0.02254281914171697,
+      "chg5d": -0.021519480519480584,
+      "chg1m": 0.09251337673825089
     },
     {
-      "symbol": "IWM",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 0.6,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
+          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
+          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01253905079813415,
-      "chg5d": 0.002797321352886313,
-      "chg1m": 0.07131537242472266
+      "chg1d": 0.016508924326894082,
+      "chg5d": -0.017050440887625827,
+      "chg1m": 0.011786467071019956
     },
     {
-      "symbol": "QQQ",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 0.6,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
+          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
+          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009051519988773252,
-      "chg5d": 0.0030340546478578685,
-      "chg1m": 0.026701411819301475
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "US Justice Department launches fraud probe into Fed Gov Lisa Cook: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/4/us-justice-department-launches-fraud-probe-into-fed-gov-lisa-cook-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.010302879841112134,
+      "chg5d": -0.028527094772022026,
+      "chg1m": 0.02278724919364972
     }
   ]
 }
