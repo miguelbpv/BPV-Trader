@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-05T18:16:15.215619Z",
+  "generated_at": "2025-09-05T21:10:34.647491Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.56,
+      "score": 3.55,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
+        },
         {
           "title": "David Lammy named UK deputy prime minister amid Labour Party turmoil",
           "url": "https://www.aljazeera.com/news/2025/9/5/uk-deputy-prime-minister-resigns-amid-tax-scandal?traffic_source=rss"
@@ -18,10 +22,6 @@
         {
           "title": "Israel bombs high-rise towers as brutal Gaza City assault intensifies",
           "url": "https://www.aljazeera.com/news/2025/9/5/israel-bombs-high-rise-towers-as-brutal-gaza-city-assault-intensifies?traffic_source=rss"
-        },
-        {
-          "title": "Israel destroys one of Gaza City’s biggest buildings",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-destroys-one-of-gaza-citys-biggest-buildings?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,9 +31,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.56,
+      "score": 3.55,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
+        },
         {
           "title": "David Lammy named UK deputy prime minister amid Labour Party turmoil",
           "url": "https://www.aljazeera.com/news/2025/9/5/uk-deputy-prime-minister-resigns-amid-tax-scandal?traffic_source=rss"
@@ -45,15 +49,80 @@
         {
           "title": "Israel bombs high-rise towers as brutal Gaza City assault intensifies",
           "url": "https://www.aljazeera.com/news/2025/9/5/israel-bombs-high-rise-towers-as-brutal-gaza-city-assault-intensifies?traffic_source=rss"
-        },
-        {
-          "title": "Israel destroys one of Gaza City’s biggest buildings",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-destroys-one-of-gaza-citys-biggest-buildings?traffic_source=rss"
         }
       ],
-      "chg1d": -0.02138527166591829,
-      "chg5d": -0.03031145717463858,
-      "chg1m": 0.0289778092540132
+      "chg1d": -0.019308486753480007,
+      "chg5d": -0.02825361512791998,
+      "chg1m": 0.031161473087818706
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
+      "razoes": [
+        {
+          "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
+          "url": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss"
+        },
+        {
+          "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
+          "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
+        },
+        {
+          "title": "UN rights chief urges US to withdraw sanctions on Palestinian NGOs",
+          "url": "https://www.aljazeera.com/news/2025/9/5/un-rights-chief-urges-us-to-withdraw-sanctions-on-palestinian-ngos?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012204611541139445,
+      "chg5d": -0.02138190457335183,
+      "chg1m": 0.0431351031950365
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
+      "razoes": [
+        {
+          "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
+          "url": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss"
+        },
+        {
+          "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
+          "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
+        },
+        {
+          "title": "UN rights chief urges US to withdraw sanctions on Palestinian NGOs",
+          "url": "https://www.aljazeera.com/news/2025/9/5/un-rights-chief-urges-us-to-withdraw-sanctions-on-palestinian-ngos?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03752173393679585,
+      "chg5d": 0.02389123202263381,
+      "chg1m": 0.13132453398170663
+    },
+    {
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
+      "razoes": [
+        {
+          "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
+          "url": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss"
+        },
+        {
+          "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
+          "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
+        },
+        {
+          "title": "UN rights chief urges US to withdraw sanctions on Palestinian NGOs",
+          "url": "https://www.aljazeera.com/news/2025/9/5/un-rights-chief-urges-us-to-withdraw-sanctions-on-palestinian-ngos?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03486246333064066,
+      "chg5d": 0.021572166030133823,
+      "chg1m": 0.052037861434066614
     },
     {
       "symbol": "LMT",
@@ -62,78 +131,21 @@
       "confianca": 63,
       "razoes": [
         {
+          "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
+        },
+        {
           "title": "Unofficial Gaza tribunal accuses UK of complicity in Israel’s genocide",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/unofficial-gaza-tribunal-accuses-uk-of-complicity-in-israels-genocide?traffic_source=rss"
         },
         {
           "title": "Israel bombs high-rise towers as brutal Gaza City assault intensifies",
           "url": "https://www.aljazeera.com/news/2025/9/5/israel-bombs-high-rise-towers-as-brutal-gaza-city-assault-intensifies?traffic_source=rss"
-        },
-        {
-          "title": "Israel destroys one of Gaza City’s biggest buildings",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-destroys-one-of-gaza-citys-biggest-buildings?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010747510123672907,
-      "chg5d": 0.01223201367881096,
-      "chg1m": 0.0618834080717488
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
-          "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
-        },
-        {
-          "title": "UN rights chief urges US to withdraw sanctions on Palestinian NGOs",
-          "url": "https://www.aljazeera.com/news/2025/9/5/un-rights-chief-urges-us-to-withdraw-sanctions-on-palestinian-ngos?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.030268239916117046,
-      "chg5d": 0.01673303120006284,
-      "chg1m": 0.12341524835012153
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
-          "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
-        },
-        {
-          "title": "UN rights chief urges US to withdraw sanctions on Palestinian NGOs",
-          "url": "https://www.aljazeera.com/news/2025/9/5/un-rights-chief-urges-us-to-withdraw-sanctions-on-palestinian-ngos?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02440372433144841,
-      "chg5d": 0.011247744155789559,
-      "chg1m": 0.041405540908501466
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
-          "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
-        },
-        {
-          "title": "UN rights chief urges US to withdraw sanctions on Palestinian NGOs",
-          "url": "https://www.aljazeera.com/news/2025/9/5/un-rights-chief-urges-us-to-withdraw-sanctions-on-palestinian-ngos?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005938485481426945,
-      "chg5d": -0.02744011086913485,
-      "chg1m": 0.0366774996834508
+      "chg1d": 0.015431760971872505,
+      "chg5d": 0.01692314437283522,
+      "chg1m": 0.06680464527998149
     }
   ]
 }
