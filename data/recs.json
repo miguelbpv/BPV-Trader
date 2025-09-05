@@ -1,54 +1,76 @@
 {
-  "generated_at": "2025-09-05T09:13:10.756735Z",
+  "generated_at": "2025-09-05T12:23:01.432621Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.78,
-      "confianca": 79,
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
         {
-          "title": "LIVE: Israel kills 7 children as offensive reaches the ‘heart of Gaza City’",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/5/live-israel-kills-18-overnight-as-intense-strikes-flatten-gaza-city?traffic_source=rss"
+          "title": "US sanctions Palestinian rights groups to ‘silence them’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/us-sanctions-palestinian-rights-groups-to-silence?traffic_source=rss"
         },
         {
-          "title": "‘City of fear’: Palestinians trapped as Israel intensifies Gaza City attack",
-          "url": "https://www.aljazeera.com/news/2025/9/4/city-of-fear-israeli-army-kills-dozens-in-advance-through-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "How many Palestinian detainees from Gaza does Israel think are fighters?",
-          "url": "https://www.aljazeera.com/news/2025/9/4/how-many-palestinian-detainees-from-gaza-does-israel-think-are-fighters?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
-          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
+          "title": "US wants to “silence Palestinian voices” with sanctions",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/5/us-wants-to-silence-palestinian-voices-with-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0066674200474630295,
-      "chg5d": -0.0015691548980049381,
-      "chg1m": 0.04174950298210727
+      "chg1d": 0.010302879841112134,
+      "chg5d": -0.028527094772022026,
+      "chg1m": 0.02278724919364972
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US sanctions Palestinian rights groups to ‘silence them’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/us-sanctions-palestinian-rights-groups-to-silence?traffic_source=rss"
+        },
+        {
+          "title": "US wants to “silence Palestinian voices” with sanctions",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/5/us-wants-to-silence-palestinian-voices-with-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02254281914171697,
+      "chg5d": -0.021519480519480584,
+      "chg1m": 0.09251337673825089
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US sanctions Palestinian rights groups to ‘silence them’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/us-sanctions-palestinian-rights-groups-to-silence?traffic_source=rss"
+        },
+        {
+          "title": "US wants to “silence Palestinian voices” with sanctions",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/5/us-wants-to-silence-palestinian-voices-with-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016508924326894082,
+      "chg5d": -0.017050440887625827,
+      "chg1m": 0.011786467071019956
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.78,
-      "confianca": 79,
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
       "razoes": [
         {
-          "title": "LIVE: Israel kills 7 children as offensive reaches the ‘heart of Gaza City’",
+          "title": "LIVE: Israel levels high-rise Gaza City tower, says ‘gates of hell’ opening",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/5/live-israel-kills-18-overnight-as-intense-strikes-flatten-gaza-city?traffic_source=rss"
         },
         {
           "title": "‘City of fear’: Palestinians trapped as Israel intensifies Gaza City attack",
           "url": "https://www.aljazeera.com/news/2025/9/4/city-of-fear-israeli-army-kills-dozens-in-advance-through-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "How many Palestinian detainees from Gaza does Israel think are fighters?",
-          "url": "https://www.aljazeera.com/news/2025/9/4/how-many-palestinian-detainees-from-gaza-does-israel-think-are-fighters?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
-          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -57,25 +79,17 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.78,
-      "confianca": 79,
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
       "razoes": [
         {
-          "title": "LIVE: Israel kills 7 children as offensive reaches the ‘heart of Gaza City’",
+          "title": "LIVE: Israel levels high-rise Gaza City tower, says ‘gates of hell’ opening",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/5/live-israel-kills-18-overnight-as-intense-strikes-flatten-gaza-city?traffic_source=rss"
         },
         {
           "title": "‘City of fear’: Palestinians trapped as Israel intensifies Gaza City attack",
           "url": "https://www.aljazeera.com/news/2025/9/4/city-of-fear-israeli-army-kills-dozens-in-advance-through-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "How many Palestinian detainees from Gaza does Israel think are fighters?",
-          "url": "https://www.aljazeera.com/news/2025/9/4/how-many-palestinian-detainees-from-gaza-does-israel-think-are-fighters?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
-          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
         }
       ],
       "chg1d": 0.017347347793167996,
@@ -83,49 +97,23 @@
       "chg1m": 0.06680833177657391
     },
     {
-      "symbol": "TSM",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
+      "score": 1.46,
+      "confianca": 41,
       "razoes": [
         {
-          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
-          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.016508924326894082,
-      "chg5d": -0.017050440887625827,
-      "chg1m": 0.011786467071019956
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
+          "title": "LIVE: Israel levels high-rise Gaza City tower, says ‘gates of hell’ opening",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/5/live-israel-kills-18-overnight-as-intense-strikes-flatten-gaza-city?traffic_source=rss"
+        },
         {
-          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
-          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
+          "title": "‘City of fear’: Palestinians trapped as Israel intensifies Gaza City attack",
+          "url": "https://www.aljazeera.com/news/2025/9/4/city-of-fear-israeli-army-kills-dozens-in-advance-through-gaza-city?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02254281914171697,
-      "chg5d": -0.021519480519480584,
-      "chg1m": 0.09251337673825089
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "US sanctions Palestinian rights groups for supporting ICC Israel probe",
-          "url": "https://www.aljazeera.com/news/2025/9/4/us-sanctions-palestinian-rights-groups-for-supporting-icc-israel-probe?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010302879841112134,
-      "chg5d": -0.028527094772022026,
-      "chg1m": 0.02278724919364972
+      "chg1d": 0.0066674200474630295,
+      "chg5d": -0.0015691548980049381,
+      "chg1m": 0.04174950298210727
     }
   ]
 }
