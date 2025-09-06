@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-06T00:54:29.037821Z",
+  "generated_at": "2025-09-06T03:21:20.043976Z",
   "recs": [
     {
       "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.53,
-      "confianca": 72,
+      "acao": "observar",
+      "score": 1.68,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
@@ -14,21 +14,17 @@
         {
           "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
           "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
-        },
-        {
-          "title": "UN rights chief urges US to withdraw sanctions on Palestinian NGOs",
-          "url": "https://www.aljazeera.com/news/2025/9/5/un-rights-chief-urges-us-to-withdraw-sanctions-on-palestinian-ngos?traffic_source=rss"
         }
       ],
-      "chg1d": 0.012204611541139445,
-      "chg5d": -0.02138190457335183,
-      "chg1m": 0.0431351031950365
+      "chg1d": 0.011795060818282443,
+      "chg5d": -0.021777865769154622,
+      "chg1m": 0.042713037606043995
     },
     {
       "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.53,
-      "confianca": 72,
+      "acao": "observar",
+      "score": 1.68,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
@@ -37,10 +33,6 @@
         {
           "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
           "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
-        },
-        {
-          "title": "UN rights chief urges US to withdraw sanctions on Palestinian NGOs",
-          "url": "https://www.aljazeera.com/news/2025/9/5/un-rights-chief-urges-us-to-withdraw-sanctions-on-palestinian-ngos?traffic_source=rss"
         }
       ],
       "chg1d": 0.03752173393679585,
@@ -49,9 +41,9 @@
     },
     {
       "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.53,
-      "confianca": 72,
+      "acao": "observar",
+      "score": 1.68,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
@@ -60,10 +52,6 @@
         {
           "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
           "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
-        },
-        {
-          "title": "UN rights chief urges US to withdraw sanctions on Palestinian NGOs",
-          "url": "https://www.aljazeera.com/news/2025/9/5/un-rights-chief-urges-us-to-withdraw-sanctions-on-palestinian-ngos?traffic_source=rss"
         }
       ],
       "chg1d": 0.03486246333064066,
@@ -71,10 +59,10 @@
       "chg1m": 0.052037861434066614
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
@@ -85,15 +73,15 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.019308486753480007,
+      "chg5d": -0.02825361512791998,
+      "chg1m": 0.031161473087818706
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
@@ -109,10 +97,10 @@
       "chg1m": 0.06680464527998149
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
@@ -123,9 +111,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
         }
       ],
-      "chg1d": -0.019308486753480007,
-      "chg5d": -0.02825361512791998,
-      "chg1m": 0.031161473087818706
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
