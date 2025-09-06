@@ -1,64 +1,10 @@
 {
-  "generated_at": "2025-09-05T21:10:34.647491Z",
+  "generated_at": "2025-09-06T00:54:29.037821Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.55,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
-        },
-        {
-          "title": "David Lammy named UK deputy prime minister amid Labour Party turmoil",
-          "url": "https://www.aljazeera.com/news/2025/9/5/uk-deputy-prime-minister-resigns-amid-tax-scandal?traffic_source=rss"
-        },
-        {
-          "title": "Unofficial Gaza tribunal accuses UK of complicity in Israel’s genocide",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/unofficial-gaza-tribunal-accuses-uk-of-complicity-in-israels-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs high-rise towers as brutal Gaza City assault intensifies",
-          "url": "https://www.aljazeera.com/news/2025/9/5/israel-bombs-high-rise-towers-as-brutal-gaza-city-assault-intensifies?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.55,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
-        },
-        {
-          "title": "David Lammy named UK deputy prime minister amid Labour Party turmoil",
-          "url": "https://www.aljazeera.com/news/2025/9/5/uk-deputy-prime-minister-resigns-amid-tax-scandal?traffic_source=rss"
-        },
-        {
-          "title": "Unofficial Gaza tribunal accuses UK of complicity in Israel’s genocide",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/unofficial-gaza-tribunal-accuses-uk-of-complicity-in-israels-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs high-rise towers as brutal Gaza City assault intensifies",
-          "url": "https://www.aljazeera.com/news/2025/9/5/israel-bombs-high-rise-towers-as-brutal-gaza-city-assault-intensifies?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.019308486753480007,
-      "chg5d": -0.02825361512791998,
-      "chg1m": 0.031161473087818706
-    },
     {
       "symbol": "SOXX",
       "acao": "comprar",
-      "score": 2.55,
+      "score": 2.53,
       "confianca": 72,
       "razoes": [
         {
@@ -81,7 +27,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.55,
+      "score": 2.53,
       "confianca": 72,
       "razoes": [
         {
@@ -104,7 +50,7 @@
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.55,
+      "score": 2.53,
       "confianca": 72,
       "razoes": [
         {
@@ -125,27 +71,61 @@
       "chg1m": 0.052037861434066614
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
+          "url": "https://www.aljazeera.com/news/2025/9/5/israeli-forces-kill-a-palestinian-man-in-west-bank-as-violence-surges?traffic_source=rss"
+        },
         {
           "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
+          "url": "https://www.aljazeera.com/news/2025/9/5/israeli-forces-kill-a-palestinian-man-in-west-bank-as-violence-surges?traffic_source=rss"
         },
         {
-          "title": "Unofficial Gaza tribunal accuses UK of complicity in Israel’s genocide",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/unofficial-gaza-tribunal-accuses-uk-of-complicity-in-israels-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs high-rise towers as brutal Gaza City assault intensifies",
-          "url": "https://www.aljazeera.com/news/2025/9/5/israel-bombs-high-rise-towers-as-brutal-gaza-city-assault-intensifies?traffic_source=rss"
+          "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
         }
       ],
       "chg1d": 0.015431760971872505,
       "chg5d": 0.01692314437283522,
       "chg1m": 0.06680464527998149
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
+          "url": "https://www.aljazeera.com/news/2025/9/5/israeli-forces-kill-a-palestinian-man-in-west-bank-as-violence-surges?traffic_source=rss"
+        },
+        {
+          "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.019308486753480007,
+      "chg5d": -0.02825361512791998,
+      "chg1m": 0.031161473087818706
     }
   ]
 }
