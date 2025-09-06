@@ -1,10 +1,41 @@
 {
-  "generated_at": "2025-09-06T18:14:35.477752Z",
+  "generated_at": "2025-09-06T21:09:51.312849Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.38,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel bombs more Gaza City high-rises after forced evacuation orders",
+          "url": "https://www.aljazeera.com/news/2025/9/6/israel-bombs-more-gaza-city-high-rises-after-forced-evacuation-orders?traffic_source=rss"
+        },
+        {
+          "title": "Cancelled concert shows political, social rifts in Iran amid war tensions",
+          "url": "https://www.aljazeera.com/news/2025/9/6/cancelled-concert-shows-political-social-rifts-in-iran-amid-war-tensions?traffic_source=rss"
+        },
+        {
+          "title": "One year on, family of US citizen killed by Israel still seeking justice",
+          "url": "https://www.aljazeera.com/news/2025/9/6/one-year-on-family-of-us-citizen-killed-by-israel-still-seeking-justice?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s most lethal operation in Gaza is under way",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2025/9/6/israels-most-lethal-operation-in-gaza-is-under-way?traffic_source=rss"
+        },
+        {
+          "title": "Israel acts with “absolute impunity” in Gaza occupation plan",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/6/israel-acts-with-absolute-impunity-in-gaza-occupation-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.019308486753480007,
+      "chg5d": -0.02825361512791998,
+      "chg1m": 0.031161473087818706
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.41,
+      "score": 4.38,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.41,
+      "score": 4.38,
       "confianca": 95,
       "razoes": [
         {
@@ -62,37 +93,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.41,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel bombs more Gaza City high-rises after forced evacuation orders",
-          "url": "https://www.aljazeera.com/news/2025/9/6/israel-bombs-more-gaza-city-high-rises-after-forced-evacuation-orders?traffic_source=rss"
-        },
-        {
-          "title": "Cancelled concert shows political, social rifts in Iran amid war tensions",
-          "url": "https://www.aljazeera.com/news/2025/9/6/cancelled-concert-shows-political-social-rifts-in-iran-amid-war-tensions?traffic_source=rss"
-        },
-        {
-          "title": "One year on, family of US citizen killed by Israel still seeking justice",
-          "url": "https://www.aljazeera.com/news/2025/9/6/one-year-on-family-of-us-citizen-killed-by-israel-still-seeking-justice?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s most lethal operation in Gaza is under way",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2025/9/6/israels-most-lethal-operation-in-gaza-is-under-way?traffic_source=rss"
-        },
-        {
-          "title": "Israel acts with “absolute impunity” in Gaza occupation plan",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/6/israel-acts-with-absolute-impunity-in-gaza-occupation-plan?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.019308486753480007,
-      "chg5d": -0.02825361512791998,
-      "chg1m": 0.031161473087818706
     }
   ]
 }
