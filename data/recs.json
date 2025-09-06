@@ -1,69 +1,39 @@
 {
-  "generated_at": "2025-09-06T03:21:20.043976Z",
+  "generated_at": "2025-09-06T06:15:57.075628Z",
   "recs": [
     {
-      "symbol": "SOXX",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
-          "url": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss"
+          "title": "LIVE: Israel kills more than 50 people as Gaza City endures deadly night",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/6/live-israel-kills-more-than-50-people-as-gaza-city-endures-deadly-night?traffic_source=rss"
         },
         {
-          "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
-          "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011795060818282443,
-      "chg5d": -0.021777865769154622,
-      "chg1m": 0.042713037606043995
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
-          "url": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss"
+          "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
+          "url": "https://www.aljazeera.com/news/2025/9/5/israeli-forces-kill-a-palestinian-man-in-west-bank-as-violence-surges?traffic_source=rss"
         },
         {
-          "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
-          "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
+          "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03752173393679585,
-      "chg5d": 0.02389123202263381,
-      "chg1m": 0.13132453398170663
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
-          "url": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss"
-        },
-        {
-          "title": "Canadian unemployment jumps to 7.1% as tariffs weigh on economy",
-          "url": "https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03486246333064066,
-      "chg5d": 0.021572166030133823,
-      "chg1m": 0.052037861434066614
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills more than 50 people as Gaza City endures deadly night",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/6/live-israel-kills-more-than-50-people-as-gaza-city-endures-deadly-night?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
           "url": "https://www.aljazeera.com/news/2025/9/5/israeli-forces-kill-a-palestinian-man-in-west-bank-as-violence-surges?traffic_source=rss"
@@ -80,9 +50,13 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills more than 50 people as Gaza City endures deadly night",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/6/live-israel-kills-more-than-50-people-as-gaza-city-endures-deadly-night?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
           "url": "https://www.aljazeera.com/news/2025/9/5/israeli-forces-kill-a-palestinian-man-in-west-bank-as-violence-surges?traffic_source=rss"
@@ -97,23 +71,49 @@
       "chg1m": 0.06680464527998149
     },
     {
-      "symbol": "BRENT",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Israeli forces kill Palestinian in occupied West Bank as violence surges",
-          "url": "https://www.aljazeera.com/news/2025/9/5/israeli-forces-kill-a-palestinian-man-in-west-bank-as-violence-surges?traffic_source=rss"
-        },
-        {
-          "title": "Israel blows up Gaza City high-rise, escalating deadly assault",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/5/israel-blows-up-gaza-city-high-rise-escalating-deadly-assault?traffic_source=rss"
+          "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
+          "url": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.03486246333064066,
+      "chg5d": 0.021572166030133823,
+      "chg1m": 0.052037861434066614
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
+          "url": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011795060818282443,
+      "chg5d": -0.021777865769154622,
+      "chg1m": 0.042713037606043995
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
+          "url": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03752173393679585,
+      "chg5d": 0.02389123202263381,
+      "chg1m": 0.13132453398170663
     }
   ]
 }
