@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-09-07T15:10:03.946735Z",
+  "generated_at": "2025-09-07T18:14:57.575586Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.25,
+      "score": 3.42,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli military says drone launched from Yemen hits airport arrivals hall",
+          "title": "Yemen’s Houthis claim responsibility for drone attack on Israeli airport",
           "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
         },
         {
@@ -33,44 +33,13 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.25,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli military says drone launched from Yemen hits airport arrivals hall",
-          "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
-        },
-        {
-          "title": "America must end “complicity” in Israel’s Gaza war",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/america-must-end-complicity-in-israels-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers attack Palestinians, Ben-Gvir fuels tensions in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/7/settlers-attack-bedouins-ben-gvir-fuels-tensions-in-the-occupied-west-back?traffic_source=rss"
-        },
-        {
-          "title": "Internet disruptions in Middle East and South Asia after Red Sea cable cuts",
-          "url": "https://www.aljazeera.com/news/2025/9/7/internet-disruptions-in-middle-east-and-south-asia-after-red-sea-cable-cuts?traffic_source=rss"
-        },
-        {
-          "title": "Israel “will put Egypt in a very delicate situation”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/israel-will-put-egypt-in-a-very-delicate?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.019308486753480007,
-      "chg5d": -0.02825361512791998,
-      "chg1m": 0.031161473087818706
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.92,
+      "score": 3.42,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli military says drone launched from Yemen hits airport arrivals hall",
+          "title": "Yemen’s Houthis claim responsibility for drone attack on Israeli airport",
           "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
         },
         {
@@ -93,6 +62,37 @@
       "chg1d": 0.015431760971872505,
       "chg5d": 0.01692314437283522,
       "chg1m": 0.06680464527998149
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.42,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Yemen’s Houthis claim responsibility for drone attack on Israeli airport",
+          "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
+        },
+        {
+          "title": "America must end “complicity” in Israel’s Gaza war",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/america-must-end-complicity-in-israels-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians, Ben-Gvir fuels tensions in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/7/settlers-attack-bedouins-ben-gvir-fuels-tensions-in-the-occupied-west-back?traffic_source=rss"
+        },
+        {
+          "title": "Internet disruptions in Middle East and South Asia after Red Sea cable cuts",
+          "url": "https://www.aljazeera.com/news/2025/9/7/internet-disruptions-in-middle-east-and-south-asia-after-red-sea-cable-cuts?traffic_source=rss"
+        },
+        {
+          "title": "Israel “will put Egypt in a very delicate situation”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/israel-will-put-egypt-in-a-very-delicate?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.019308486753480007,
+      "chg5d": -0.02825361512791998,
+      "chg1m": 0.031161473087818706
     }
   ]
 }
