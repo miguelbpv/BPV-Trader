@@ -1,15 +1,23 @@
 {
-  "generated_at": "2025-09-07T12:20:51.220638Z",
+  "generated_at": "2025-09-07T15:10:03.946735Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.79,
+      "score": 6.25,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israeli military says drone launched from Yemen hits airport arrivals hall",
+          "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
+        },
+        {
           "title": "America must end “complicity” in Israel’s Gaza war",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/7/america-must-end-complicity-in-israels-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians, Ben-Gvir fuels tensions in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/7/settlers-attack-bedouins-ben-gvir-fuels-tensions-in-the-occupied-west-back?traffic_source=rss"
         },
         {
           "title": "Internet disruptions in Middle East and South Asia after Red Sea cable cuts",
@@ -18,14 +26,37 @@
         {
           "title": "Israel “will put Egypt in a very delicate situation”",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/7/israel-will-put-egypt-in-a-very-delicate?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.25,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli military says drone launched from Yemen hits airport arrivals hall",
+          "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
         },
         {
-          "title": "Week in Pictures: From Israeli air raids in Gaza to protests in Serbia",
-          "url": "https://www.aljazeera.com/gallery/2025/9/7/week-in-pictures-from-israeli-air-raids-in-gaza-to-protests-in-serbia?traffic_source=rss"
+          "title": "America must end “complicity” in Israel’s Gaza war",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/america-must-end-complicity-in-israels-gaza-war?traffic_source=rss"
         },
         {
-          "title": "Israeli forces destroy another Gaza City tower block",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/7/israeli-forces-destroy-another-gaza-city-tower-block?traffic_source=rss"
+          "title": "Israeli settlers attack Palestinians, Ben-Gvir fuels tensions in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/7/settlers-attack-bedouins-ben-gvir-fuels-tensions-in-the-occupied-west-back?traffic_source=rss"
+        },
+        {
+          "title": "Internet disruptions in Middle East and South Asia after Red Sea cable cuts",
+          "url": "https://www.aljazeera.com/news/2025/9/7/internet-disruptions-in-middle-east-and-south-asia-after-red-sea-cable-cuts?traffic_source=rss"
+        },
+        {
+          "title": "Israel “will put Egypt in a very delicate situation”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/israel-will-put-egypt-in-a-very-delicate?traffic_source=rss"
         }
       ],
       "chg1d": -0.019308486753480007,
@@ -33,45 +64,22 @@
       "chg1m": 0.031161473087818706
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.79,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "America must end “complicity” in Israel’s Gaza war",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/america-must-end-complicity-in-israels-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Internet disruptions in Middle East and South Asia after Red Sea cable cuts",
-          "url": "https://www.aljazeera.com/news/2025/9/7/internet-disruptions-in-middle-east-and-south-asia-after-red-sea-cable-cuts?traffic_source=rss"
-        },
-        {
-          "title": "Israel “will put Egypt in a very delicate situation”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/israel-will-put-egypt-in-a-very-delicate?traffic_source=rss"
-        },
-        {
-          "title": "Week in Pictures: From Israeli air raids in Gaza to protests in Serbia",
-          "url": "https://www.aljazeera.com/gallery/2025/9/7/week-in-pictures-from-israeli-air-raids-in-gaza-to-protests-in-serbia?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces destroy another Gaza City tower block",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/7/israeli-forces-destroy-another-gaza-city-tower-block?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.45,
+      "score": 4.92,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israeli military says drone launched from Yemen hits airport arrivals hall",
+          "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
+        },
+        {
           "title": "America must end “complicity” in Israel’s Gaza war",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/7/america-must-end-complicity-in-israels-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians, Ben-Gvir fuels tensions in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/7/settlers-attack-bedouins-ben-gvir-fuels-tensions-in-the-occupied-west-back?traffic_source=rss"
         },
         {
           "title": "Internet disruptions in Middle East and South Asia after Red Sea cable cuts",
@@ -80,79 +88,11 @@
         {
           "title": "Israel “will put Egypt in a very delicate situation”",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/7/israel-will-put-egypt-in-a-very-delicate?traffic_source=rss"
-        },
-        {
-          "title": "Week in Pictures: From Israeli air raids in Gaza to protests in Serbia",
-          "url": "https://www.aljazeera.com/gallery/2025/9/7/week-in-pictures-from-israeli-air-raids-in-gaza-to-protests-in-serbia?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces destroy another Gaza City tower block",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/7/israeli-forces-destroy-another-gaza-city-tower-block?traffic_source=rss"
         }
       ],
       "chg1d": 0.015431760971872505,
       "chg5d": 0.01692314437283522,
       "chg1m": 0.06680464527998149
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump threatens ‘war’ on Chicago as thousands protest federal crackdown",
-          "url": "https://www.aljazeera.com/news/2025/9/7/trump-threatens-war-on-chicago-as-thousands-protest-federal-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump threatens ‘war’ on Chicago as thousands protest federal crackdown",
-          "url": "https://www.aljazeera.com/news/2025/9/7/trump-threatens-war-on-chicago-as-thousands-protest-federal-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004987531172069854,
-      "chg5d": 0.006561679790026295,
-      "chg1m": 0.07802865433442151
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump threatens ‘war’ on Chicago as thousands protest federal crackdown",
-          "url": "https://www.aljazeera.com/news/2025/9/7/trump-threatens-war-on-chicago-as-thousands-protest-federal-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.001442901100429267,
-      "chg5d": -0.0017675192347683085,
-      "chg1m": 0.015405767468095423
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump threatens ‘war’ on Chicago as thousands protest federal crackdown",
-          "url": "https://www.aljazeera.com/news/2025/9/7/trump-threatens-war-on-chicago-as-thousands-protest-federal-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0028962287404486003,
-      "chg5d": -0.002588916969734251,
-      "chg1m": 0.022851543980530416
     }
   ]
 }
