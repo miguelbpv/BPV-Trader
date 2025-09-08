@@ -1,65 +1,11 @@
 {
-  "generated_at": "2025-09-08T00:59:18.794517Z",
+  "generated_at": "2025-09-08T03:35:00.353998Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.18,
-      "confianca": 90,
-      "razoes": [
-        {
-          "title": "Israel intensifies Gaza City destruction, bombs another high-rise tower",
-          "url": "https://www.aljazeera.com/news/2025/9/7/israel-intensifies-gaza-city-destruction-bombs-another-high-rise-tower?traffic_source=rss"
-        },
-        {
-          "title": "Iran FM Araghchi warns Europe against ‘reckless’ approach to nuclear deal",
-          "url": "https://www.aljazeera.com/news/2025/9/7/iran-fm-araghchi-warns-europe-against-reckless-approach-to-nuclear-deal?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis claim responsibility for drone attack on Israeli airport",
-          "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
-        },
-        {
-          "title": "America must end “complicity” in Israel’s Gaza war",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/america-must-end-complicity-in-israels-gaza-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.18,
-      "confianca": 90,
-      "razoes": [
-        {
-          "title": "Israel intensifies Gaza City destruction, bombs another high-rise tower",
-          "url": "https://www.aljazeera.com/news/2025/9/7/israel-intensifies-gaza-city-destruction-bombs-another-high-rise-tower?traffic_source=rss"
-        },
-        {
-          "title": "Iran FM Araghchi warns Europe against ‘reckless’ approach to nuclear deal",
-          "url": "https://www.aljazeera.com/news/2025/9/7/iran-fm-araghchi-warns-europe-against-reckless-approach-to-nuclear-deal?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis claim responsibility for drone attack on Israeli airport",
-          "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
-        },
-        {
-          "title": "America must end “complicity” in Israel’s Gaza war",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/america-must-end-complicity-in-israels-gaza-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015431760971872505,
-      "chg5d": 0.01692314437283522,
-      "chg1m": 0.06680464527998149
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.18,
-      "confianca": 90,
+      "score": 2.44,
+      "confianca": 69,
       "razoes": [
         {
           "title": "Israel intensifies Gaza City destruction, bombs another high-rise tower",
@@ -72,10 +18,6 @@
         {
           "title": "Yemen’s Houthis claim responsibility for drone attack on Israeli airport",
           "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
-        },
-        {
-          "title": "America must end “complicity” in Israel’s Gaza war",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/7/america-must-end-complicity-in-israels-gaza-war?traffic_source=rss"
         }
       ],
       "chg1d": -0.019308486753480007,
@@ -83,28 +25,59 @@
       "chg1m": 0.031161473087818706
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.44,
+      "confianca": 69,
       "razoes": [
         {
-          "title": "US-European sanctions could ‘collapse’ Russian economy: Trump aide",
-          "url": "https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss"
+          "title": "Israel intensifies Gaza City destruction, bombs another high-rise tower",
+          "url": "https://www.aljazeera.com/news/2025/9/7/israel-intensifies-gaza-city-destruction-bombs-another-high-rise-tower?traffic_source=rss"
+        },
+        {
+          "title": "Iran FM Araghchi warns Europe against ‘reckless’ approach to nuclear deal",
+          "url": "https://www.aljazeera.com/news/2025/9/7/iran-fm-araghchi-warns-europe-against-reckless-approach-to-nuclear-deal?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis claim responsibility for drone attack on Israeli airport",
+          "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03486246333064066,
-      "chg5d": 0.021572166030133823,
-      "chg1m": 0.052037861434066614
+      "chg1d": 0.015431760971872505,
+      "chg5d": 0.01692314437283522,
+      "chg1m": 0.06680464527998149
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.44,
+      "confianca": 69,
+      "razoes": [
+        {
+          "title": "Israel intensifies Gaza City destruction, bombs another high-rise tower",
+          "url": "https://www.aljazeera.com/news/2025/9/7/israel-intensifies-gaza-city-destruction-bombs-another-high-rise-tower?traffic_source=rss"
+        },
+        {
+          "title": "Iran FM Araghchi warns Europe against ‘reckless’ approach to nuclear deal",
+          "url": "https://www.aljazeera.com/news/2025/9/7/iran-fm-araghchi-warns-europe-against-reckless-approach-to-nuclear-deal?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis claim responsibility for drone attack on Israeli airport",
+          "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "US-European sanctions could ‘collapse’ Russian economy: Trump aide",
+          "title": "Trump floats new sanctions after Russia’s largest air assault on Ukraine",
           "url": "https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss"
         }
       ],
@@ -113,13 +86,28 @@
       "chg1m": 0.042713037606043995
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "US-European sanctions could ‘collapse’ Russian economy: Trump aide",
+          "title": "Trump floats new sanctions after Russia’s largest air assault on Ukraine",
+          "url": "https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03486246333064066,
+      "chg5d": 0.021572166030133823,
+      "chg1m": 0.052037861434066614
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump floats new sanctions after Russia’s largest air assault on Ukraine",
           "url": "https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss"
         }
       ],
