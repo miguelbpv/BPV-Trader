@@ -1,76 +1,22 @@
 {
-  "generated_at": "2025-09-08T09:15:11.160653Z",
+  "generated_at": "2025-09-08T12:25:30.813039Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.42,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Shooting in occupied East Jerusalem kills five, Israeli authorities say",
-          "url": "https://www.aljazeera.com/news/2025/9/8/shooting-in-jerusalem-kills-four-israeli-authorities-say?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces destroy another Gaza City apartment building",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/israeli-forces-destroy-another-gaza-city-apartment-building?traffic_source=rss"
-        },
-        {
-          "title": "Israel depriving Palestinian prisoners of food, its Supreme Court rules",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israel-depriving-palestinian-prisoners-of-food-its-supreme-court-rules?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Five killed in East Jerusalem attack; Israeli forces kill 21 in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/8/live-israeli-attacks-continue-across-gaza-city-at-least-15-killed?traffic_source=rss"
-        },
-        {
-          "title": "Norway elections: Why investments in Israel are shaping the vote",
-          "url": "https://www.aljazeera.com/news/2025/9/8/norway-elections-why-investments-in-israel-are-shaping-the-vote?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.019308486753480007,
-      "chg5d": -0.02825361512791998,
-      "chg1m": 0.031161473087818706
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.42,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Shooting in occupied East Jerusalem kills five, Israeli authorities say",
-          "url": "https://www.aljazeera.com/news/2025/9/8/shooting-in-jerusalem-kills-four-israeli-authorities-say?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces destroy another Gaza City apartment building",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/israeli-forces-destroy-another-gaza-city-apartment-building?traffic_source=rss"
-        },
-        {
-          "title": "Israel depriving Palestinian prisoners of food, its Supreme Court rules",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israel-depriving-palestinian-prisoners-of-food-its-supreme-court-rules?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Five killed in East Jerusalem attack; Israeli forces kill 21 in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/8/live-israeli-attacks-continue-across-gaza-city-at-least-15-killed?traffic_source=rss"
-        },
-        {
-          "title": "Norway elections: Why investments in Israel are shaping the vote",
-          "url": "https://www.aljazeera.com/news/2025/9/8/norway-elections-why-investments-in-israel-are-shaping-the-vote?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015431760971872505,
-      "chg5d": 0.01692314437283522,
-      "chg1m": 0.06680464527998149
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.42,
+      "score": 5.18,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Shooting in occupied East Jerusalem kills five, Israeli authorities say",
+          "title": "IAEA chief notes progress in Iran talks over nuclear site inspections",
+          "url": "https://www.aljazeera.com/news/2025/9/8/iaea-chief-notes-progress-in-iran-talks-over-nuclear-site-inspections?traffic_source=rss"
+        },
+        {
+          "title": "People flee shooting at illegal Israeli settlement",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/people-flee-shooting-at-illegal-israeli-settlement?traffic_source=rss"
+        },
+        {
+          "title": "Shooting in occupied East Jerusalem kills six, Israeli authorities say",
           "url": "https://www.aljazeera.com/news/2025/9/8/shooting-in-jerusalem-kills-four-israeli-authorities-say?traffic_source=rss"
         },
         {
@@ -80,14 +26,6 @@
         {
           "title": "Israel depriving Palestinian prisoners of food, its Supreme Court rules",
           "url": "https://www.aljazeera.com/news/2025/9/8/israel-depriving-palestinian-prisoners-of-food-its-supreme-court-rules?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Five killed in East Jerusalem attack; Israeli forces kill 21 in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/8/live-israeli-attacks-continue-across-gaza-city-at-least-15-killed?traffic_source=rss"
-        },
-        {
-          "title": "Norway elections: Why investments in Israel are shaping the vote",
-          "url": "https://www.aljazeera.com/news/2025/9/8/norway-elections-why-investments-in-israel-are-shaping-the-vote?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,49 +33,66 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.18,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Trump floats new sanctions after Russia’s largest air assault on Ukraine",
-          "url": "https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss"
+          "title": "IAEA chief notes progress in Iran talks over nuclear site inspections",
+          "url": "https://www.aljazeera.com/news/2025/9/8/iaea-chief-notes-progress-in-iran-talks-over-nuclear-site-inspections?traffic_source=rss"
+        },
+        {
+          "title": "People flee shooting at illegal Israeli settlement",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/people-flee-shooting-at-illegal-israeli-settlement?traffic_source=rss"
+        },
+        {
+          "title": "Shooting in occupied East Jerusalem kills six, Israeli authorities say",
+          "url": "https://www.aljazeera.com/news/2025/9/8/shooting-in-jerusalem-kills-four-israeli-authorities-say?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces destroy another Gaza City apartment building",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/israeli-forces-destroy-another-gaza-city-apartment-building?traffic_source=rss"
+        },
+        {
+          "title": "Israel depriving Palestinian prisoners of food, its Supreme Court rules",
+          "url": "https://www.aljazeera.com/news/2025/9/8/israel-depriving-palestinian-prisoners-of-food-its-supreme-court-rules?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03752173393679585,
-      "chg5d": 0.02389123202263381,
-      "chg1m": 0.13132453398170663
+      "chg1d": 0.015431760971872505,
+      "chg5d": 0.01692314437283522,
+      "chg1m": 0.06680464527998149
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.18,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Trump floats new sanctions after Russia’s largest air assault on Ukraine",
-          "url": "https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011795060818282443,
-      "chg5d": -0.021777865769154622,
-      "chg1m": 0.042713037606043995
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
+          "title": "IAEA chief notes progress in Iran talks over nuclear site inspections",
+          "url": "https://www.aljazeera.com/news/2025/9/8/iaea-chief-notes-progress-in-iran-talks-over-nuclear-site-inspections?traffic_source=rss"
+        },
         {
-          "title": "Trump floats new sanctions after Russia’s largest air assault on Ukraine",
-          "url": "https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss"
+          "title": "People flee shooting at illegal Israeli settlement",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/people-flee-shooting-at-illegal-israeli-settlement?traffic_source=rss"
+        },
+        {
+          "title": "Shooting in occupied East Jerusalem kills six, Israeli authorities say",
+          "url": "https://www.aljazeera.com/news/2025/9/8/shooting-in-jerusalem-kills-four-israeli-authorities-say?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces destroy another Gaza City apartment building",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/israeli-forces-destroy-another-gaza-city-apartment-building?traffic_source=rss"
+        },
+        {
+          "title": "Israel depriving Palestinian prisoners of food, its Supreme Court rules",
+          "url": "https://www.aljazeera.com/news/2025/9/8/israel-depriving-palestinian-prisoners-of-food-its-supreme-court-rules?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03486246333064066,
-      "chg5d": 0.021572166030133823,
-      "chg1m": 0.052037861434066614
+      "chg1d": -0.019308486753480007,
+      "chg5d": -0.02825361512791998,
+      "chg1m": 0.031161473087818706
     }
   ]
 }
