@@ -1,45 +1,18 @@
 {
-  "generated_at": "2025-09-09T06:19:07.399354Z",
+  "generated_at": "2025-09-09T09:13:53.038653Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.89,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel pounds Gaza City as Netanyahu tells residents to ‘leave now’",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss"
-        },
-        {
-          "title": "Syria condemns attacks by Israeli warplanes on cities of Homs and Latakia",
-          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
-        },
-        {
-          "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
-        },
-        {
-          "title": "Spain PM Sanchez imposes arms embargo on Israel to ‘stop Gaza genocide’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/spain-imposes-total-arms-embargo-on-israel-to-stop-genocide-in?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.002289377289377322,
-      "chg5d": -0.03573404137625848,
-      "chg1m": 0.032823794288422754
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.89,
+      "score": 3.93,
       "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Israel pounds Gaza City as Netanyahu tells residents to ‘leave now’",
+          "title": "Palestinians on edge as Israel ramps up raids in wake of Jerusalem attack",
+          "url": "https://www.aljazeera.com/news/2025/9/9/palestinians-on-edge-as-israel-ramps-up-raids-in-wake-of-jerusalem-attack?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel pounds Gaza, killing at least 21 people, including aid seekers",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss"
         },
         {
@@ -47,16 +20,12 @@
           "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
         },
         {
-          "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
+          "title": "Israel, India sign investment deal amid Gaza genocide",
           "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
         },
         {
           "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
           "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
-        },
-        {
-          "title": "Spain PM Sanchez imposes arms embargo on Israel to ‘stop Gaza genocide’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/spain-imposes-total-arms-embargo-on-israel-to-stop-genocide-in?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,13 +33,17 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.89,
+      "score": 3.93,
       "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Israel pounds Gaza City as Netanyahu tells residents to ‘leave now’",
+          "title": "Palestinians on edge as Israel ramps up raids in wake of Jerusalem attack",
+          "url": "https://www.aljazeera.com/news/2025/9/9/palestinians-on-edge-as-israel-ramps-up-raids-in-wake-of-jerusalem-attack?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel pounds Gaza, killing at least 21 people, including aid seekers",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss"
         },
         {
@@ -78,16 +51,43 @@
           "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
         },
         {
-          "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
+          "title": "Israel, India sign investment deal amid Gaza genocide",
           "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
         },
         {
           "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
           "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.002289377289377322,
+      "chg5d": -0.03573404137625848,
+      "chg1m": 0.032823794288422754
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.93,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Palestinians on edge as Israel ramps up raids in wake of Jerusalem attack",
+          "url": "https://www.aljazeera.com/news/2025/9/9/palestinians-on-edge-as-israel-ramps-up-raids-in-wake-of-jerusalem-attack?traffic_source=rss"
         },
         {
-          "title": "Spain PM Sanchez imposes arms embargo on Israel to ‘stop Gaza genocide’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/spain-imposes-total-arms-embargo-on-israel-to-stop-genocide-in?traffic_source=rss"
+          "title": "LIVE: Israel pounds Gaza, killing at least 21 people, including aid seekers",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss"
+        },
+        {
+          "title": "Syria condemns attacks by Israeli warplanes on cities of Homs and Latakia",
+          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel, India sign investment deal amid Gaza genocide",
+          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
+          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
         }
       ],
       "chg1d": -0.010325501185600267,
