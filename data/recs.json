@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-09-08T21:10:56.797698Z",
+  "generated_at": "2025-09-09T00:56:55.860187Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.44,
+      "score": 3.46,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
+          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
+          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
+        },
         {
           "title": "Spain PM Sanchez imposes arms embargo on Israel to ‘stop Gaza genocide’",
           "url": "https://www.aljazeera.com/news/2025/9/8/spain-imposes-total-arms-embargo-on-israel-to-stop-genocide-in?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "Will Trump’s new Gaza ceasefire proposal end Israel’s genocide?",
           "url": "https://www.aljazeera.com/news/2025/9/8/will-trumps-new-gaza-ceasefire-proposal-end-israels-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Hundreds of artists pledge boycott of Israeli film institutions over Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/8/hundreds-of-artists-pledge-boycott-of-israeli-film-institutions-over-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s settler outposts choke Palestinian life in West Bank’s villages",
-          "url": "https://www.aljazeera.com/features/longform/2025/9/8/israels-settler-outposts-choke-palestinian-life-in-west-banks-villages?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.44,
+      "score": 3.46,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
+          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
+          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
+        },
         {
           "title": "Spain PM Sanchez imposes arms embargo on Israel to ‘stop Gaza genocide’",
           "url": "https://www.aljazeera.com/news/2025/9/8/spain-imposes-total-arms-embargo-on-israel-to-stop-genocide-in?traffic_source=rss"
@@ -49,14 +57,37 @@
         {
           "title": "Will Trump’s new Gaza ceasefire proposal end Israel’s genocide?",
           "url": "https://www.aljazeera.com/news/2025/9/8/will-trumps-new-gaza-ceasefire-proposal-end-israels-genocide?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.002289377289377322,
+      "chg5d": -0.03573404137625848,
+      "chg1m": 0.032823794288422754
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.46,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
+          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
         },
         {
-          "title": "Hundreds of artists pledge boycott of Israeli film institutions over Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/8/hundreds-of-artists-pledge-boycott-of-israeli-film-institutions-over-gaza?traffic_source=rss"
+          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
+          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
         },
         {
-          "title": "Israel’s settler outposts choke Palestinian life in West Bank’s villages",
-          "url": "https://www.aljazeera.com/features/longform/2025/9/8/israels-settler-outposts-choke-palestinian-life-in-west-banks-villages?traffic_source=rss"
+          "title": "Spain PM Sanchez imposes arms embargo on Israel to ‘stop Gaza genocide’",
+          "url": "https://www.aljazeera.com/news/2025/9/8/spain-imposes-total-arms-embargo-on-israel-to-stop-genocide-in?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes kill five in Lebanon in latest ceasefire breach",
+          "url": "https://www.aljazeera.com/news/2025/9/8/israeli-strikes-kill-five-in-lebanon-in-latest-ceasefire-breach?traffic_source=rss"
+        },
+        {
+          "title": "Will Trump’s new Gaza ceasefire proposal end Israel’s genocide?",
+          "url": "https://www.aljazeera.com/news/2025/9/8/will-trumps-new-gaza-ceasefire-proposal-end-israels-genocide?traffic_source=rss"
         }
       ],
       "chg1d": -0.010325501185600267,
@@ -64,35 +95,49 @@
       "chg1m": 0.0658386535113175
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.44,
-      "confianca": 95,
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Spain PM Sanchez imposes arms embargo on Israel to ‘stop Gaza genocide’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/spain-imposes-total-arms-embargo-on-israel-to-stop-genocide-in?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes kill five in Lebanon in latest ceasefire breach",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israeli-strikes-kill-five-in-lebanon-in-latest-ceasefire-breach?traffic_source=rss"
-        },
-        {
-          "title": "Will Trump’s new Gaza ceasefire proposal end Israel’s genocide?",
-          "url": "https://www.aljazeera.com/news/2025/9/8/will-trumps-new-gaza-ceasefire-proposal-end-israels-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Hundreds of artists pledge boycott of Israeli film institutions over Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/8/hundreds-of-artists-pledge-boycott-of-israeli-film-institutions-over-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s settler outposts choke Palestinian life in West Bank’s villages",
-          "url": "https://www.aljazeera.com/features/longform/2025/9/8/israels-settler-outposts-choke-palestinian-life-in-west-banks-villages?traffic_source=rss"
+          "title": "US sanctions companies and individuals behind Southeast Asian scam centers",
+          "url": "https://www.aljazeera.com/news/2025/9/8/us-sanctions-companies-and-individuals-behind-southeast-asian-scam-centers?traffic_source=rss"
         }
       ],
-      "chg1d": -0.002289377289377322,
-      "chg5d": -0.03573404137625848,
-      "chg1m": 0.032823794288422754
+      "chg1d": 0.015529353765252048,
+      "chg5d": 0.07068913241217999,
+      "chg1m": 0.018836039897782514
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US sanctions companies and individuals behind Southeast Asian scam centers",
+          "url": "https://www.aljazeera.com/news/2025/9/8/us-sanctions-companies-and-individuals-behind-southeast-asian-scam-centers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007326452135195313,
+      "chg5d": 0.014430132072395322,
+      "chg1m": 0.03330011625975756
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US sanctions companies and individuals behind Southeast Asian scam centers",
+          "url": "https://www.aljazeera.com/news/2025/9/8/us-sanctions-companies-and-individuals-behind-southeast-asian-scam-centers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.018613278751439113,
+      "chg5d": 0.07221728474859282,
+      "chg1m": 0.11657224590531746
     }
   ]
 }
