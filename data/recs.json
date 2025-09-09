@@ -1,31 +1,38 @@
 {
-  "generated_at": "2025-09-09T09:13:53.038653Z",
+  "generated_at": "2025-09-09T12:25:54.288529Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.93,
-      "confianca": 95,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Palestinians on edge as Israel ramps up raids in wake of Jerusalem attack",
+          "title": "Palestinians on edge as Israel pursues collective punishment after attack",
           "url": "https://www.aljazeera.com/news/2025/9/9/palestinians-on-edge-as-israel-ramps-up-raids-in-wake-of-jerusalem-attack?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel pounds Gaza, killing at least 21 people, including aid seekers",
+          "title": "LIVE: Israel pounds Gaza, killing at least 35 people, including aid seekers",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010325501185600267,
+      "chg5d": 0.00763777626582977,
+      "chg1m": 0.0658386535113175
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Palestinians on edge as Israel pursues collective punishment after attack",
+          "url": "https://www.aljazeera.com/news/2025/9/9/palestinians-on-edge-as-israel-ramps-up-raids-in-wake-of-jerusalem-attack?traffic_source=rss"
         },
         {
-          "title": "Syria condemns attacks by Israeli warplanes on cities of Homs and Latakia",
-          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
-        },
-        {
-          "title": "Israel, India sign investment deal amid Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
+          "title": "LIVE: Israel pounds Gaza, killing at least 35 people, including aid seekers",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -34,110 +41,22 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.93,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Palestinians on edge as Israel ramps up raids in wake of Jerusalem attack",
+          "title": "Palestinians on edge as Israel pursues collective punishment after attack",
           "url": "https://www.aljazeera.com/news/2025/9/9/palestinians-on-edge-as-israel-ramps-up-raids-in-wake-of-jerusalem-attack?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel pounds Gaza, killing at least 21 people, including aid seekers",
+          "title": "LIVE: Israel pounds Gaza, killing at least 35 people, including aid seekers",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss"
-        },
-        {
-          "title": "Syria condemns attacks by Israeli warplanes on cities of Homs and Latakia",
-          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
-        },
-        {
-          "title": "Israel, India sign investment deal amid Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
         }
       ],
       "chg1d": -0.002289377289377322,
       "chg5d": -0.03573404137625848,
       "chg1m": 0.032823794288422754
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.93,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Palestinians on edge as Israel ramps up raids in wake of Jerusalem attack",
-          "url": "https://www.aljazeera.com/news/2025/9/9/palestinians-on-edge-as-israel-ramps-up-raids-in-wake-of-jerusalem-attack?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel pounds Gaza, killing at least 21 people, including aid seekers",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss"
-        },
-        {
-          "title": "Syria condemns attacks by Israeli warplanes on cities of Homs and Latakia",
-          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
-        },
-        {
-          "title": "Israel, India sign investment deal amid Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010325501185600267,
-      "chg5d": 0.00763777626582977,
-      "chg1m": 0.0658386535113175
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions companies and individuals behind Southeast Asian scam centers",
-          "url": "https://www.aljazeera.com/news/2025/9/8/us-sanctions-companies-and-individuals-behind-southeast-asian-scam-centers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015529353765252048,
-      "chg5d": 0.07068913241217999,
-      "chg1m": 0.018836039897782514
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions companies and individuals behind Southeast Asian scam centers",
-          "url": "https://www.aljazeera.com/news/2025/9/8/us-sanctions-companies-and-individuals-behind-southeast-asian-scam-centers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018613278751439113,
-      "chg5d": 0.07221728474859282,
-      "chg1m": 0.11657224590531746
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions companies and individuals behind Southeast Asian scam centers",
-          "url": "https://www.aljazeera.com/news/2025/9/8/us-sanctions-companies-and-individuals-behind-southeast-asian-scam-centers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007285974499089184,
-      "chg5d": 0.014389368987444974,
-      "chg1m": 0.0332585949177877
     }
   ]
 }
