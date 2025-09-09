@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-09-09T00:56:55.860187Z",
+  "generated_at": "2025-09-09T03:29:47.171483Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
-        },
-        {
-          "title": "Spain PM Sanchez imposes arms embargo on Israel to ‘stop Gaza genocide’",
-          "url": "https://www.aljazeera.com/news/2025/9/8/spain-imposes-total-arms-embargo-on-israel-to-stop-genocide-in?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes kill five in Lebanon in latest ceasefire breach",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israeli-strikes-kill-five-in-lebanon-in-latest-ceasefire-breach?traffic_source=rss"
-        },
-        {
-          "title": "Will Trump’s new Gaza ceasefire proposal end Israel’s genocide?",
-          "url": "https://www.aljazeera.com/news/2025/9/8/will-trumps-new-gaza-ceasefire-proposal-end-israels-genocide?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.46,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Syrian government blasts attacks by Israeli warplanes on two cities: Report",
+          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
+        },
         {
           "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
           "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israeli strikes kill five in Lebanon in latest ceasefire breach",
           "url": "https://www.aljazeera.com/news/2025/9/8/israeli-strikes-kill-five-in-lebanon-in-latest-ceasefire-breach?traffic_source=rss"
-        },
-        {
-          "title": "Will Trump’s new Gaza ceasefire proposal end Israel’s genocide?",
-          "url": "https://www.aljazeera.com/news/2025/9/8/will-trumps-new-gaza-ceasefire-proposal-end-israels-genocide?traffic_source=rss"
         }
       ],
       "chg1d": -0.002289377289377322,
@@ -66,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.46,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Syrian government blasts attacks by Israeli warplanes on two cities: Report",
+          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
+        },
         {
           "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
           "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
@@ -84,15 +57,57 @@
         {
           "title": "Israeli strikes kill five in Lebanon in latest ceasefire breach",
           "url": "https://www.aljazeera.com/news/2025/9/8/israeli-strikes-kill-five-in-lebanon-in-latest-ceasefire-breach?traffic_source=rss"
-        },
-        {
-          "title": "Will Trump’s new Gaza ceasefire proposal end Israel’s genocide?",
-          "url": "https://www.aljazeera.com/news/2025/9/8/will-trumps-new-gaza-ceasefire-proposal-end-israels-genocide?traffic_source=rss"
         }
       ],
       "chg1d": -0.010325501185600267,
       "chg5d": 0.00763777626582977,
       "chg1m": 0.0658386535113175
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.18,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Syrian government blasts attacks by Israeli warplanes on two cities: Report",
+          "url": "https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel, India sign investment deal as Smotrich welcomed in New Delhi",
+          "url": "https://www.aljazeera.com/news/2025/9/8/israel-india-sign-investment-deal-as-smotrich-welcomed-in-new-delhi?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu threatens Gaza residents as UN slams Israel over ‘mass killing’",
+          "url": "https://www.aljazeera.com/news/2025/9/8/netanyahu-threatens-gaza-residents-as-un-slams-israel-over-mass?traffic_source=rss"
+        },
+        {
+          "title": "Spain PM Sanchez imposes arms embargo on Israel to ‘stop Gaza genocide’",
+          "url": "https://www.aljazeera.com/news/2025/9/8/spain-imposes-total-arms-embargo-on-israel-to-stop-genocide-in?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes kill five in Lebanon in latest ceasefire breach",
+          "url": "https://www.aljazeera.com/news/2025/9/8/israeli-strikes-kill-five-in-lebanon-in-latest-ceasefire-breach?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US sanctions companies and individuals behind Southeast Asian scam centers",
+          "url": "https://www.aljazeera.com/news/2025/9/8/us-sanctions-companies-and-individuals-behind-southeast-asian-scam-centers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007285974499089184,
+      "chg5d": 0.014389368987444974,
+      "chg1m": 0.0332585949177877
     },
     {
       "symbol": "TSM",
@@ -108,21 +123,6 @@
       "chg1d": 0.015529353765252048,
       "chg5d": 0.07068913241217999,
       "chg1m": 0.018836039897782514
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions companies and individuals behind Southeast Asian scam centers",
-          "url": "https://www.aljazeera.com/news/2025/9/8/us-sanctions-companies-and-individuals-behind-southeast-asian-scam-centers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007326452135195313,
-      "chg5d": 0.014430132072395322,
-      "chg1m": 0.03330011625975756
     },
     {
       "symbol": "ASML.AS",
