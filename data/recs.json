@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-09-10T00:55:27.683461Z",
+  "generated_at": "2025-09-10T03:22:18.351033Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 8.87,
+      "score": 8.81,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israel kills dozens in Gaza; Qatar calls Israel’s attack ‘state terror’",
+          "title": "Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’",
           "url": "https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss"
         },
         {
@@ -35,11 +35,11 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.87,
+      "score": 8.81,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israel kills dozens in Gaza; Qatar calls Israel’s attack ‘state terror’",
+          "title": "Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’",
           "url": "https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss"
         },
         {
@@ -59,18 +59,18 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/9/hamas-leaders-survive-israeli-strike-on-qatar-us-denies-involvement?traffic_source=rss"
         }
       ],
-      "chg1d": 0.005162918770078051,
-      "chg5d": -0.03214759169244362,
-      "chg1m": 0.03155539856352281
+      "chg1d": 0.0048187241854061695,
+      "chg5d": -0.03247901016349976,
+      "chg1m": 0.031202166490050528
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.87,
+      "score": 8.81,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israel kills dozens in Gaza; Qatar calls Israel’s attack ‘state terror’",
+          "title": "Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’",
           "url": "https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss"
         },
         {
@@ -110,21 +110,6 @@
       "chg1m": 0.0375883885374022
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US Supreme Court to decide legality of Trump’s tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/9/9/us-supreme-court-to-decide-legality-of-trumps-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011152276295133432,
-      "chg5d": 0.10922366880209405,
-      "chg1m": 0.11464447890131789
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
       "score": 0.85,
@@ -138,6 +123,21 @@
       "chg1d": 0.0008438818565401164,
       "chg5d": 0.025655808590371823,
       "chg1m": 0.02548688598838884
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US Supreme Court to decide legality of Trump’s tariffs",
+          "url": "https://www.aljazeera.com/economy/2025/9/9/us-supreme-court-to-decide-legality-of-trumps-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011152276295133432,
+      "chg5d": 0.10922366880209405,
+      "chg1m": 0.11464447890131789
     }
   ]
 }
