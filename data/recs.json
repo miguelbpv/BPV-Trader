@@ -1,74 +1,20 @@
 {
-  "generated_at": "2025-09-10T06:18:30.298959Z",
+  "generated_at": "2025-09-10T09:13:14.709471Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.81,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’",
-          "url": "https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss"
-        },
-        {
-          "title": "Who is Khalil al-Hayya, who else was targeted in Israel’s attack on Qatar?",
-          "url": "https://www.aljazeera.com/news/2025/9/10/who-is-khalil-al-hayya-who-else-was-targeted-in-israels-attack-on-qatar?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel’s deadly attack on Hamas in Qatar draws global condemnation",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/10/live-israels-deadly-attack-on-hamas-in-qatar-draws-global-condemnation?traffic_source=rss"
-        },
-        {
-          "title": "Israeli-Russian researcher freed in Iraq after two years in captivity",
-          "url": "https://www.aljazeera.com/news/2025/9/9/israeli-russian-researcher-freed-in-iraq-after-two-years-in-captivity?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leaders survive Israeli strike on Qatar; US denies involvement",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/9/hamas-leaders-survive-israeli-strike-on-qatar-us-denies-involvement?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004465160854697156,
-      "chg5d": 0.010077348066298347,
-      "chg1m": 0.07384347907807252
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.81,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’",
-          "url": "https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss"
-        },
-        {
-          "title": "Who is Khalil al-Hayya, who else was targeted in Israel’s attack on Qatar?",
-          "url": "https://www.aljazeera.com/news/2025/9/10/who-is-khalil-al-hayya-who-else-was-targeted-in-israels-attack-on-qatar?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel’s deadly attack on Hamas in Qatar draws global condemnation",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/10/live-israels-deadly-attack-on-hamas-in-qatar-draws-global-condemnation?traffic_source=rss"
-        },
-        {
-          "title": "Israeli-Russian researcher freed in Iraq after two years in captivity",
-          "url": "https://www.aljazeera.com/news/2025/9/9/israeli-russian-researcher-freed-in-iraq-after-two-years-in-captivity?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leaders survive Israeli strike on Qatar; US denies involvement",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/9/hamas-leaders-survive-israeli-strike-on-qatar-us-denies-involvement?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0048187241854061695,
-      "chg5d": -0.03247901016349976,
-      "chg1m": 0.031202166490050528
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.81,
+      "score": 5.61,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Netanyahu wants to “redraw the map of the Middle East”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/10/netanyahu-wants-to-redraw-the-map-of-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Trump ‘not thrilled’ over Israeli attack in Qatar",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/10/trump-not-thrilled-over-israeli-attack-in-qatar?traffic_source=rss"
+        },
         {
           "title": "Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’",
           "url": "https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss"
@@ -80,14 +26,6 @@
         {
           "title": "LIVE: Israel’s deadly attack on Hamas in Qatar draws global condemnation",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/10/live-israels-deadly-attack-on-hamas-in-qatar-draws-global-condemnation?traffic_source=rss"
-        },
-        {
-          "title": "Israeli-Russian researcher freed in Iraq after two years in captivity",
-          "url": "https://www.aljazeera.com/news/2025/9/9/israeli-russian-researcher-freed-in-iraq-after-two-years-in-captivity?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leaders survive Israeli strike on Qatar; US denies involvement",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/9/hamas-leaders-survive-israeli-strike-on-qatar-us-denies-involvement?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,26 +33,96 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.61,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Netanyahu wants to “redraw the map of the Middle East”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/10/netanyahu-wants-to-redraw-the-map-of-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Trump ‘not thrilled’ over Israeli attack in Qatar",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/10/trump-not-thrilled-over-israeli-attack-in-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’",
+          "url": "https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss"
+        },
+        {
+          "title": "Who is Khalil al-Hayya, who else was targeted in Israel’s attack on Qatar?",
+          "url": "https://www.aljazeera.com/news/2025/9/10/who-is-khalil-al-hayya-who-else-was-targeted-in-israels-attack-on-qatar?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel’s deadly attack on Hamas in Qatar draws global condemnation",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/10/live-israels-deadly-attack-on-hamas-in-qatar-draws-global-condemnation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0048187241854061695,
+      "chg5d": -0.03247901016349976,
+      "chg1m": 0.031202166490050528
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.61,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Netanyahu wants to “redraw the map of the Middle East”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/10/netanyahu-wants-to-redraw-the-map-of-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Trump ‘not thrilled’ over Israeli attack in Qatar",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/10/trump-not-thrilled-over-israeli-attack-in-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’",
+          "url": "https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss"
+        },
+        {
+          "title": "Who is Khalil al-Hayya, who else was targeted in Israel’s attack on Qatar?",
+          "url": "https://www.aljazeera.com/news/2025/9/10/who-is-khalil-al-hayya-who-else-was-targeted-in-israels-attack-on-qatar?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel’s deadly attack on Hamas in Qatar draws global condemnation",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/10/live-israels-deadly-attack-on-hamas-in-qatar-draws-global-condemnation?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004465160854697156,
+      "chg5d": 0.010077348066298347,
+      "chg1m": 0.07384347907807252
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Trump pushing EU to slap 100% tariffs on China, India, reports say",
+          "url": "https://www.aljazeera.com/economy/2025/9/10/trump-pushing-eu-to-slap-100-tariffs-on-china-india-reports-say?traffic_source=rss"
+        },
         {
           "title": "US Supreme Court to decide legality of Trump’s tariffs",
           "url": "https://www.aljazeera.com/economy/2025/9/9/us-supreme-court-to-decide-legality-of-trumps-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015089607184756623,
-      "chg5d": 0.0986470510968081,
-      "chg1m": 0.0375883885374022
+      "chg1d": 0.011152276295133432,
+      "chg5d": 0.10922366880209405,
+      "chg1m": 0.11464447890131789
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Trump pushing EU to slap 100% tariffs on China, India, reports say",
+          "url": "https://www.aljazeera.com/economy/2025/9/10/trump-pushing-eu-to-slap-100-tariffs-on-china-india-reports-say?traffic_source=rss"
+        },
         {
           "title": "US Supreme Court to decide legality of Trump’s tariffs",
           "url": "https://www.aljazeera.com/economy/2025/9/9/us-supreme-court-to-decide-legality-of-trumps-tariffs?traffic_source=rss"
@@ -125,19 +133,23 @@
       "chg1m": 0.02548688598838884
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Trump pushing EU to slap 100% tariffs on China, India, reports say",
+          "url": "https://www.aljazeera.com/economy/2025/9/10/trump-pushing-eu-to-slap-100-tariffs-on-china-india-reports-say?traffic_source=rss"
+        },
         {
           "title": "US Supreme Court to decide legality of Trump’s tariffs",
           "url": "https://www.aljazeera.com/economy/2025/9/9/us-supreme-court-to-decide-legality-of-trumps-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011152276295133432,
-      "chg5d": 0.10922366880209405,
-      "chg1m": 0.11464447890131789
+      "chg1d": 0.015089607184756623,
+      "chg5d": 0.0986470510968081,
+      "chg1m": 0.0375883885374022
     }
   ]
 }
