@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-09-11T03:28:10.903684Z",
+  "generated_at": "2025-09-11T06:18:35.313822Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.11,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel kills 70 in Gaza, Qatar PM accuses Israel of ‘state terrorism’",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/11/live-israel-kills-70-in-gaza-qatar-pm-accuses-israel-of-state?traffic_source=rss"
-        },
-        {
-          "title": "‘Gulf region at risk’: Qatar seeks ‘collective response’ to Israeli attack",
-          "url": "https://www.aljazeera.com/news/2025/9/10/gulf-region-at-risk-qatar-seeks-collective-response-to-israeli-attack?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel strike Doha?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/9/10/aje-onl-aj_tt_qat_hamasleaders_videov3-100925?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: Will attack in Qatar lead to international isolation of Israel?",
-          "url": "https://www.aljazeera.com/news/2025/9/10/analysis-will-attack-in-qatar-lead-to-international-isolation-of-israel?traffic_source=rss"
-        },
-        {
-          "title": "The price of mediation? How Qatar could respond to Israel’s attack",
-          "url": "https://www.aljazeera.com/news/2025/9/10/the-price-of-mediation-how-qatar-could-respond-to-israels-attack?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.017469741950216958,
-      "chg5d": 0.007006441405808618,
-      "chg1m": 0.057685459940652814
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.11,
+      "score": 5.61,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s President Herzog said ‘argued out of respect’ with British PM",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israels-president-herzog-said-argued-out-of-respect-with-british-pm?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel kills 70 in Gaza, Qatar PM accuses Israel of ‘state terrorism’",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/11/live-israel-kills-70-in-gaza-qatar-pm-accuses-israel-of-state?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Analysis: Will attack in Qatar lead to international isolation of Israel?",
           "url": "https://www.aljazeera.com/news/2025/9/10/analysis-will-attack-in-qatar-lead-to-international-isolation-of-israel?traffic_source=rss"
-        },
-        {
-          "title": "The price of mediation? How Qatar could respond to Israel’s attack",
-          "url": "https://www.aljazeera.com/news/2025/9/10/the-price-of-mediation-how-qatar-could-respond-to-israels-attack?traffic_source=rss"
         }
       ],
       "chg1d": 0.014899575548068093,
@@ -64,11 +33,15 @@
       "chg1m": 0.0882325341340966
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.11,
+      "score": 5.61,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s President Herzog said ‘argued out of respect’ with British PM",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israels-president-herzog-said-argued-out-of-respect-with-british-pm?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel kills 70 in Gaza, Qatar PM accuses Israel of ‘state terrorism’",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/11/live-israel-kills-70-in-gaza-qatar-pm-accuses-israel-of-state?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Analysis: Will attack in Qatar lead to international isolation of Israel?",
           "url": "https://www.aljazeera.com/news/2025/9/10/analysis-will-attack-in-qatar-lead-to-international-isolation-of-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.017469741950216958,
+      "chg5d": 0.007006441405808618,
+      "chg1m": 0.057685459940652814
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.61,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel’s President Herzog said ‘argued out of respect’ with British PM",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israels-president-herzog-said-argued-out-of-respect-with-british-pm?traffic_source=rss"
         },
         {
-          "title": "The price of mediation? How Qatar could respond to Israel’s attack",
-          "url": "https://www.aljazeera.com/news/2025/9/10/the-price-of-mediation-how-qatar-could-respond-to-israels-attack?traffic_source=rss"
+          "title": "LIVE: Israel kills 70 in Gaza, Qatar PM accuses Israel of ‘state terrorism’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/11/live-israel-kills-70-in-gaza-qatar-pm-accuses-israel-of-state?traffic_source=rss"
+        },
+        {
+          "title": "‘Gulf region at risk’: Qatar seeks ‘collective response’ to Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/9/10/gulf-region-at-risk-qatar-seeks-collective-response-to-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Why did Israel strike Doha?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/9/10/aje-onl-aj_tt_qat_hamasleaders_videov3-100925?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: Will attack in Qatar lead to international isolation of Israel?",
+          "url": "https://www.aljazeera.com/news/2025/9/10/analysis-will-attack-in-qatar-lead-to-international-isolation-of-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
