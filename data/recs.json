@@ -1,10 +1,72 @@
 {
-  "generated_at": "2025-09-12T00:54:51.941456Z",
+  "generated_at": "2025-09-12T03:22:14.805354Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 9.14,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
+          "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces arrest over 100 Palestinians, impose curfew in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-forces-arrest-over-100-palestinians-impose-curfew-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu says ‘there will be no Palestinian state’",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israels-netanyahu-says-there-will-be-no-palestinian-state?traffic_source=rss"
+        },
+        {
+          "title": "Israeli leaders heap praise on Charlie Kirk as a staunch ally of Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel?traffic_source=rss"
+        },
+        {
+          "title": "Meet one of the Palestinians refusing Israel’s Gaza City expulsion order",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/11/meet-one-of-the-palestinians-refusing-israels-gaza-city-expulsion-order?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00022444170126805095,
+      "chg5d": 0.0005612932195778756,
+      "chg1m": 0.052799433026222524
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 9.14,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
+          "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces arrest over 100 Palestinians, impose curfew in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-forces-arrest-over-100-palestinians-impose-curfew-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu says ‘there will be no Palestinian state’",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israels-netanyahu-says-there-will-be-no-palestinian-state?traffic_source=rss"
+        },
+        {
+          "title": "Israeli leaders heap praise on Charlie Kirk as a staunch ally of Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel?traffic_source=rss"
+        },
+        {
+          "title": "Meet one of the Palestinians refusing Israel’s Gaza City expulsion order",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/11/meet-one-of-the-palestinians-refusing-israels-gaza-city-expulsion-order?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 9.2,
+      "score": 9.14,
       "confianca": 95,
       "razoes": [
         {
@@ -33,61 +95,44 @@
       "chg1m": 0.09076374084715919
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 9.2,
-      "confianca": 95,
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
-          "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces arrest over 100 Palestinians, impose curfew in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-forces-arrest-over-100-palestinians-impose-curfew-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu says ‘there will be no Palestinian state’",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israels-netanyahu-says-there-will-be-no-palestinian-state?traffic_source=rss"
-        },
-        {
-          "title": "Israeli leaders heap praise on Charlie Kirk as a staunch ally of Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel?traffic_source=rss"
-        },
-        {
-          "title": "Meet one of the Palestinians refusing Israel’s Gaza City expulsion order",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/11/meet-one-of-the-palestinians-refusing-israels-gaza-city-expulsion-order?traffic_source=rss"
+          "title": "US DoJ asks court for emergency ruling to remove Cook from Fed board",
+          "url": "https://www.aljazeera.com/economy/2025/9/11/us-doj-asks-court-for-emergency-ruling-to-remove-cook-from-fed-board?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00011222085063410522,
-      "chg5d": 0.00022451728783111835,
-      "chg1m": 0.05244507441530827
+      "chg1d": 0.018483272004398782,
+      "chg5d": 0.017794496808825427,
+      "chg1m": 0.06168158370442224
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 9.2,
-      "confianca": 95,
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
-          "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar?traffic_source=rss"
-        },
+          "title": "US DoJ asks court for emergency ruling to remove Cook from Fed board",
+          "url": "https://www.aljazeera.com/economy/2025/9/11/us-doj-asks-court-for-emergency-ruling-to-remove-cook-from-fed-board?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00831020683522172,
+      "chg5d": 0.013110056692137034,
+      "chg1m": 0.023246043971432477
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
         {
-          "title": "Israeli forces arrest over 100 Palestinians, impose curfew in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-forces-arrest-over-100-palestinians-impose-curfew-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu says ‘there will be no Palestinian state’",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israels-netanyahu-says-there-will-be-no-palestinian-state?traffic_source=rss"
-        },
-        {
-          "title": "Israeli leaders heap praise on Charlie Kirk as a staunch ally of Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel?traffic_source=rss"
-        },
-        {
-          "title": "Meet one of the Palestinians refusing Israel’s Gaza City expulsion order",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/11/meet-one-of-the-palestinians-refusing-israels-gaza-city-expulsion-order?traffic_source=rss"
+          "title": "US DoJ asks court for emergency ruling to remove Cook from Fed board",
+          "url": "https://www.aljazeera.com/economy/2025/9/11/us-doj-asks-court-for-emergency-ruling-to-remove-cook-from-fed-board?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -110,51 +155,6 @@
       "chg1m": 0.006947676924403218
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US DoJ asks court for emergency ruling to remove Cook from Fed board",
-          "url": "https://www.aljazeera.com/economy/2025/9/11/us-doj-asks-court-for-emergency-ruling-to-remove-cook-from-fed-board?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US DoJ asks court for emergency ruling to remove Cook from Fed board",
-          "url": "https://www.aljazeera.com/economy/2025/9/11/us-doj-asks-court-for-emergency-ruling-to-remove-cook-from-fed-board?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00831020683522172,
-      "chg5d": 0.013110056692137034,
-      "chg1m": 0.023246043971432477
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US DoJ asks court for emergency ruling to remove Cook from Fed board",
-          "url": "https://www.aljazeera.com/economy/2025/9/11/us-doj-asks-court-for-emergency-ruling-to-remove-cook-from-fed-board?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018356384553567667,
-      "chg5d": 0.017667695168857547,
-      "chg1m": 0.06154931440412684
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.84,
@@ -165,9 +165,9 @@
           "url": "https://www.aljazeera.com/news/2025/9/11/us-issues-slaps-new-sanctions-on-yemens-houthis-as-regional-tensions-spike?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014310210051188973,
-      "chg5d": 0.06777006490317622,
-      "chg1m": 0.08452526995510866
+      "chg1d": 0.013894142269964927,
+      "chg5d": 0.06733206800897233,
+      "chg1m": 0.08408040011323961
     },
     {
       "symbol": "TSM",
