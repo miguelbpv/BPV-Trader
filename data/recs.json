@@ -1,43 +1,24 @@
 {
-  "generated_at": "2025-09-12T15:12:10.932447Z",
+  "generated_at": "2025-09-12T18:14:54.496652Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.91,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli forces arrest Palestinians en masse, laying siege to Tulkarem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israeli-forces-arrest-palestinians-en-masse-laying-siege-to-tulkarem?traffic_source=rss"
-        },
-        {
-          "title": "UN Security Council unite in condemning Israeli bombing of Qatar",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-security-council-unite-in-condemning-israeli-bombing-of-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Panic after Israeli strike on Gaza City home during evacuation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/panic-after-israeli-strike-on-gaza-city-home-during-evacuation?traffic_source=rss"
-        },
-        {
-          "title": "After shock Israeli attack on their city, Doha’s residents voice unease",
-          "url": "https://www.aljazeera.com/editorial/2025/9/12/after-shock-israeli-attack-on-their-city-dohas-residents-voice-unease?traffic_source=rss"
-        },
-        {
-          "title": "Islamophobic incidents in Australia ‘skyrocketed’ since Israel’s Gaza war",
-          "url": "https://www.aljazeera.com/news/2025/9/12/islamophobic-incidents-in-australia-skyrocketed-since-israels-gaza-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.020260989010988967,
-      "chg1m": 0.040751985053713156
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.91,
+      "score": 7.63,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "UN General Assembly backs two-state push for Israel and Palestine",
+          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 59, including 14 members of the same family",
+          "url": "https://www.aljazeera.com/news/2025/9/12/israeli-attacks-on-gaza-kill-59-including-14-members-of-the-same-family?traffic_source=rss"
+        },
         {
           "title": "Israeli forces arrest Palestinians en masse, laying siege to Tulkarem",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israeli-forces-arrest-palestinians-en-masse-laying-siege-to-tulkarem?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "UN Security Council unite in condemning Israeli bombing of Qatar",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-security-council-unite-in-condemning-israeli-bombing-of-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Panic after Israeli strike on Gaza City home during evacuation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/panic-after-israeli-strike-on-gaza-city-home-during-evacuation?traffic_source=rss"
-        },
-        {
-          "title": "After shock Israeli attack on their city, Doha’s residents voice unease",
-          "url": "https://www.aljazeera.com/editorial/2025/9/12/after-shock-israeli-attack-on-their-city-dohas-residents-voice-unease?traffic_source=rss"
-        },
-        {
-          "title": "Islamophobic incidents in Australia ‘skyrocketed’ since Israel’s Gaza war",
-          "url": "https://www.aljazeera.com/news/2025/9/12/islamophobic-incidents-in-australia-skyrocketed-since-israels-gaza-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.91,
+      "score": 7.63,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "UN General Assembly backs two-state push for Israel and Palestine",
+          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 59, including 14 members of the same family",
+          "url": "https://www.aljazeera.com/news/2025/9/12/israeli-attacks-on-gaza-kill-59-including-14-members-of-the-same-family?traffic_source=rss"
+        },
         {
           "title": "Israeli forces arrest Palestinians en masse, laying siege to Tulkarem",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israeli-forces-arrest-palestinians-en-masse-laying-siege-to-tulkarem?traffic_source=rss"
@@ -76,23 +57,42 @@
         {
           "title": "UN Security Council unite in condemning Israeli bombing of Qatar",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-security-council-unite-in-condemning-israeli-bombing-of-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Panic after Israeli strike on Gaza City home during evacuation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/panic-after-israeli-strike-on-gaza-city-home-during-evacuation?traffic_source=rss"
-        },
-        {
-          "title": "After shock Israeli attack on their city, Doha’s residents voice unease",
-          "url": "https://www.aljazeera.com/editorial/2025/9/12/after-shock-israeli-attack-on-their-city-dohas-residents-voice-unease?traffic_source=rss"
-        },
-        {
-          "title": "Islamophobic incidents in Australia ‘skyrocketed’ since Israel’s Gaza war",
-          "url": "https://www.aljazeera.com/news/2025/9/12/islamophobic-incidents-in-australia-skyrocketed-since-israels-gaza-war?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006203131306693892,
-      "chg5d": 0.00842854063375733,
-      "chg1m": 0.05703052624443593
+      "chg1d": -0.003814652754403559,
+      "chg5d": 0.016369047619047696,
+      "chg1m": 0.03678187762727704
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 7.63,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "UN General Assembly backs two-state push for Israel and Palestine",
+          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 59, including 14 members of the same family",
+          "url": "https://www.aljazeera.com/news/2025/9/12/israeli-attacks-on-gaza-kill-59-including-14-members-of-the-same-family?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces arrest Palestinians en masse, laying siege to Tulkarem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israeli-forces-arrest-palestinians-en-masse-laying-siege-to-tulkarem?traffic_source=rss"
+        },
+        {
+          "title": "UN Security Council unite in condemning Israeli bombing of Qatar",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-security-council-unite-in-condemning-israeli-bombing-of-qatar?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003483950459923919,
+      "chg5d": 0.018258245311489604,
+      "chg1m": 0.06733398106514227
     }
   ]
 }
