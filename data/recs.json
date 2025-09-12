@@ -1,74 +1,16 @@
 {
-  "generated_at": "2025-09-12T03:22:14.805354Z",
+  "generated_at": "2025-09-12T06:18:07.327344Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 9.14,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
-          "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces arrest over 100 Palestinians, impose curfew in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-forces-arrest-over-100-palestinians-impose-curfew-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu says ‘there will be no Palestinian state’",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israels-netanyahu-says-there-will-be-no-palestinian-state?traffic_source=rss"
-        },
-        {
-          "title": "Israeli leaders heap praise on Charlie Kirk as a staunch ally of Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel?traffic_source=rss"
-        },
-        {
-          "title": "Meet one of the Palestinians refusing Israel’s Gaza City expulsion order",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/11/meet-one-of-the-palestinians-refusing-israels-gaza-city-expulsion-order?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00022444170126805095,
-      "chg5d": 0.0005612932195778756,
-      "chg1m": 0.052799433026222524
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 9.14,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
-          "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces arrest over 100 Palestinians, impose curfew in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-forces-arrest-over-100-palestinians-impose-curfew-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu says ‘there will be no Palestinian state’",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israels-netanyahu-says-there-will-be-no-palestinian-state?traffic_source=rss"
-        },
-        {
-          "title": "Israeli leaders heap praise on Charlie Kirk as a staunch ally of Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel?traffic_source=rss"
-        },
-        {
-          "title": "Meet one of the Palestinians refusing Israel’s Gaza City expulsion order",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/11/meet-one-of-the-palestinians-refusing-israels-gaza-city-expulsion-order?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 9.14,
+      "score": 8.36,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Before and after satellite images show how Israel has destroyed Gaza City",
+          "url": "https://www.aljazeera.com/news/longform/2025/9/12/before-and-after-satellite-images-show-how-israel-has-destroyed-gaza-city?traffic_source=rss"
+        },
         {
           "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
           "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar?traffic_source=rss"
@@ -84,10 +26,6 @@
         {
           "title": "Israeli leaders heap praise on Charlie Kirk as a staunch ally of Israel",
           "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel?traffic_source=rss"
-        },
-        {
-          "title": "Meet one of the Palestinians refusing Israel’s Gaza City expulsion order",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/11/meet-one-of-the-palestinians-refusing-israels-gaza-city-expulsion-order?traffic_source=rss"
         }
       ],
       "chg1d": 0.01478862612369848,
@@ -95,9 +33,71 @@
       "chg1m": 0.09076374084715919
     },
     {
-      "symbol": "IWM",
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 8.36,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Before and after satellite images show how Israel has destroyed Gaza City",
+          "url": "https://www.aljazeera.com/news/longform/2025/9/12/before-and-after-satellite-images-show-how-israel-has-destroyed-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
+          "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces arrest over 100 Palestinians, impose curfew in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-forces-arrest-over-100-palestinians-impose-curfew-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu says ‘there will be no Palestinian state’",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israels-netanyahu-says-there-will-be-no-palestinian-state?traffic_source=rss"
+        },
+        {
+          "title": "Israeli leaders heap praise on Charlie Kirk as a staunch ally of Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 8.36,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Before and after satellite images show how Israel has destroyed Gaza City",
+          "url": "https://www.aljazeera.com/news/longform/2025/9/12/before-and-after-satellite-images-show-how-israel-has-destroyed-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "UN Security Council members condemn Israel over deadly strike on Qatar",
+          "url": "https://www.aljazeera.com/news/2025/9/11/un-security-council-members-slam-israel-over-strike-on-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces arrest over 100 Palestinians, impose curfew in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-forces-arrest-over-100-palestinians-impose-curfew-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu says ‘there will be no Palestinian state’",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israels-netanyahu-says-there-will-be-no-palestinian-state?traffic_source=rss"
+        },
+        {
+          "title": "Israeli leaders heap praise on Charlie Kirk as a staunch ally of Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00022444170126805095,
+      "chg5d": 0.0005612932195778756,
+      "chg1m": 0.052799433026222524
+    },
+    {
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -105,14 +105,14 @@
           "url": "https://www.aljazeera.com/economy/2025/9/11/us-doj-asks-court-for-emergency-ruling-to-remove-cook-from-fed-board?traffic_source=rss"
         }
       ],
-      "chg1d": 0.018483272004398782,
-      "chg5d": 0.017794496808825427,
-      "chg1m": 0.06168158370442224
+      "chg1d": 0.0058205613914241346,
+      "chg5d": 0.015385150287711041,
+      "chg1m": 0.006947676924403218
     },
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -140,9 +140,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -150,15 +150,15 @@
           "url": "https://www.aljazeera.com/economy/2025/9/11/us-doj-asks-court-for-emergency-ruling-to-remove-cook-from-fed-board?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0058205613914241346,
-      "chg5d": 0.015385150287711041,
-      "chg1m": 0.006947676924403218
+      "chg1d": 0.018483272004398782,
+      "chg5d": 0.017794496808825427,
+      "chg1m": 0.06168158370442224
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US slaps new sanctions on Yemen’s Houthis as regional tensions spike",
@@ -172,8 +172,8 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US slaps new sanctions on Yemen’s Houthis as regional tensions spike",
@@ -187,8 +187,8 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US slaps new sanctions on Yemen’s Houthis as regional tensions spike",
