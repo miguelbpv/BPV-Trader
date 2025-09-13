@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-09-13T15:09:50.719843Z",
+  "generated_at": "2025-09-13T18:14:15.913463Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.38,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran considers nuclear inspection access, urges action against Israel",
-          "url": "https://www.aljazeera.com/news/2025/9/13/iran-considers-nuclear-inspection-access-urges-action-against-israel?traffic_source=rss"
-        },
-        {
-          "title": "Trump urges NATO countries to halt Russia oil purchases before US sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/13/trump-urges-nato-countries-to-halt-russia-oil-purchases-before-us-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Israel wants us to evacuate al-Shifa Hospital again to kill hope",
-          "url": "https://www.aljazeera.com/opinions/2025/9/13/israel-wants-us-to-evacuate-al-shifa-hospital-again-to-kill-hope?traffic_source=rss"
-        },
-        {
-          "title": "Syria’s oil heartland poisoned by decades of war, neglect, and inaction",
-          "url": "https://www.aljazeera.com/features/2025/9/13/syria-oil-heartland-poisoned-war-neglect-inaction?traffic_source=rss"
-        },
-        {
-          "title": "Israeli bomb drops during Al Jazeera reporter’s live",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/13/israeli-bomb-drops-during-al-jazeera-reporters-live?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005946370470099867,
-      "chg5d": 0.014194139194139135,
-      "chg1m": 0.03456328818309194
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.38,
+      "score": 6.87,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Global Sumud Flotilla sets sail from Tunisia to break Israel’s Gaza siege",
+          "url": "https://www.aljazeera.com/news/2025/9/13/global-sumud-flotilla-sets-sail-from-tunisia-to-break-israels-gaza-siege?traffic_source=rss"
+        },
         {
           "title": "Iran considers nuclear inspection access, urges action against Israel",
           "url": "https://www.aljazeera.com/news/2025/9/13/iran-considers-nuclear-inspection-access-urges-action-against-israel?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Syria’s oil heartland poisoned by decades of war, neglect, and inaction",
           "url": "https://www.aljazeera.com/features/2025/9/13/syria-oil-heartland-poisoned-war-neglect-inaction?traffic_source=rss"
-        },
-        {
-          "title": "Israeli bomb drops during Al Jazeera reporter’s live",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/13/israeli-bomb-drops-during-al-jazeera-reporters-live?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,46 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.94,
+      "score": 6.87,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Global Sumud Flotilla sets sail from Tunisia to break Israel’s Gaza siege",
+          "url": "https://www.aljazeera.com/news/2025/9/13/global-sumud-flotilla-sets-sail-from-tunisia-to-break-israels-gaza-siege?traffic_source=rss"
+        },
+        {
+          "title": "Iran considers nuclear inspection access, urges action against Israel",
+          "url": "https://www.aljazeera.com/news/2025/9/13/iran-considers-nuclear-inspection-access-urges-action-against-israel?traffic_source=rss"
+        },
+        {
+          "title": "Trump urges NATO countries to halt Russia oil purchases before US sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/13/trump-urges-nato-countries-to-halt-russia-oil-purchases-before-us-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Israel wants us to evacuate al-Shifa Hospital again to kill hope",
+          "url": "https://www.aljazeera.com/opinions/2025/9/13/israel-wants-us-to-evacuate-al-shifa-hospital-again-to-kill-hope?traffic_source=rss"
+        },
+        {
+          "title": "Syria’s oil heartland poisoned by decades of war, neglect, and inaction",
+          "url": "https://www.aljazeera.com/features/2025/9/13/syria-oil-heartland-poisoned-war-neglect-inaction?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005946370470099867,
+      "chg5d": 0.014194139194139135,
+      "chg1m": 0.03456328818309194
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Global Sumud Flotilla sets sail from Tunisia to break Israel’s Gaza siege",
+          "url": "https://www.aljazeera.com/news/2025/9/13/global-sumud-flotilla-sets-sail-from-tunisia-to-break-israels-gaza-siege?traffic_source=rss"
+        },
         {
           "title": "Iran considers nuclear inspection access, urges action against Israel",
           "url": "https://www.aljazeera.com/news/2025/9/13/iran-considers-nuclear-inspection-access-urges-action-against-israel?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Overnight Israeli attack on residential building in Gaza sparks fires",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/13/overnight-israeli-attack-on-residential-building-in-gaza-sparks-fires?traffic_source=rss"
-        },
-        {
-          "title": "Attack on Qatar: Israel’s ever-expanding war",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2025/9/13/attack-on-qatar-israels-ever-expanding-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.001232128821192582,
@@ -95,24 +95,9 @@
       "chg1m": 0.06493887972524123
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Trump urges NATO countries to halt Russia oil purchases before US sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/13/trump-urges-nato-countries-to-halt-russia-oil-purchases-before-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01207471150019901,
-      "chg5d": 0.04115389535627473,
-      "chg1m": 0.07716028958269909
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
@@ -125,9 +110,24 @@
       "chg1m": 0.07409708416169643
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Trump urges NATO countries to halt Russia oil purchases before US sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/13/trump-urges-nato-countries-to-halt-russia-oil-purchases-before-us-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01207471150019901,
+      "chg5d": 0.04115389535627473,
+      "chg1m": 0.07716028958269909
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
