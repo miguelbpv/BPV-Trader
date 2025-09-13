@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-09-13T03:16:18.455869Z",
+  "generated_at": "2025-09-13T06:15:36.144199Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.87,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Qatar PM meeting Trump after Israel’s deadly strike on Doha",
-          "url": "https://www.aljazeera.com/news/2025/9/12/qatar-pm-meeting-trump-after-israels-deadly-strike-on-doha?traffic_source=rss"
-        },
-        {
-          "title": "UNGA backs resolution on two-state solution for Israel and Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-passes-resolution-endorsing-two-state-solution-for-israel-and-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Netherlands threatens to boycott Eurovision 2026 if Israel participates",
-          "url": "https://www.aljazeera.com/news/2025/9/12/netherlands-threatens-to-boycott-eurovision-2026-if-israel-participates?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly backs two-state push for Israel and Palestine",
-          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.001232128821192582,
-      "chg5d": 0.015973270101314992,
-      "chg1m": 0.06493887972524123
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.87,
+      "score": 5.35,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: School sheltering displaced Palestinians hit by Israeli strike",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/13/live-school-sheltering-displaced-palestinians-hit-by-israeli-strike?traffic_source=rss"
+        },
+        {
+          "title": "Why the Israeli military is widely accused of avoiding accountability",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/9/13/why-the-israeli-military-is-widely-accused-of-avoiding-accountability?traffic_source=rss"
+        },
         {
           "title": "Qatar PM meeting Trump after Israel’s deadly strike on Doha",
           "url": "https://www.aljazeera.com/news/2025/9/12/qatar-pm-meeting-trump-after-israels-deadly-strike-on-doha?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Netherlands threatens to boycott Eurovision 2026 if Israel participates",
           "url": "https://www.aljazeera.com/news/2025/9/12/netherlands-threatens-to-boycott-eurovision-2026-if-israel-participates?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly backs two-state push for Israel and Palestine",
-          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": -0.005946370470099867,
@@ -66,9 +35,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.87,
+      "score": 5.35,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: School sheltering displaced Palestinians hit by Israeli strike",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/13/live-school-sheltering-displaced-palestinians-hit-by-israeli-strike?traffic_source=rss"
+        },
+        {
+          "title": "Why the Israeli military is widely accused of avoiding accountability",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/9/13/why-the-israeli-military-is-widely-accused-of-avoiding-accountability?traffic_source=rss"
+        },
         {
           "title": "Qatar PM meeting Trump after Israel’s deadly strike on Doha",
           "url": "https://www.aljazeera.com/news/2025/9/12/qatar-pm-meeting-trump-after-israels-deadly-strike-on-doha?traffic_source=rss"
@@ -80,14 +57,6 @@
         {
           "title": "Netherlands threatens to boycott Eurovision 2026 if Israel participates",
           "url": "https://www.aljazeera.com/news/2025/9/12/netherlands-threatens-to-boycott-eurovision-2026-if-israel-participates?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly backs two-state push for Israel and Palestine",
-          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,19 +64,35 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.35,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "US Fed expected to cut rates amid cooling labour market, surging inflation",
-          "url": "https://www.aljazeera.com/economy/2025/9/12/us-fed-expected-to-cut-rates-amid-cooling-labour-market-surging-inflation?traffic_source=rss"
+          "title": "LIVE: School sheltering displaced Palestinians hit by Israeli strike",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/13/live-school-sheltering-displaced-palestinians-hit-by-israeli-strike?traffic_source=rss"
+        },
+        {
+          "title": "Why the Israeli military is widely accused of avoiding accountability",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/9/13/why-the-israeli-military-is-widely-accused-of-avoiding-accountability?traffic_source=rss"
+        },
+        {
+          "title": "Qatar PM meeting Trump after Israel’s deadly strike on Doha",
+          "url": "https://www.aljazeera.com/news/2025/9/12/qatar-pm-meeting-trump-after-israels-deadly-strike-on-doha?traffic_source=rss"
+        },
+        {
+          "title": "UNGA backs resolution on two-state solution for Israel and Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-passes-resolution-endorsing-two-state-solution-for-israel-and-palestine?traffic_source=rss"
+        },
+        {
+          "title": "Netherlands threatens to boycott Eurovision 2026 if Israel participates",
+          "url": "https://www.aljazeera.com/news/2025/9/12/netherlands-threatens-to-boycott-eurovision-2026-if-israel-participates?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004417203122859758,
-      "chg5d": 0.01840086102142142,
-      "chg1m": 0.010890167832649716
+      "chg1d": 0.001232128821192582,
+      "chg5d": 0.015973270101314992,
+      "chg1m": 0.06493887972524123
     },
     {
       "symbol": "IWM",
@@ -125,7 +110,7 @@
       "chg1m": 0.030793183980624535
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "QQQ",
       "acao": "observar",
       "score": 0.97,
       "confianca": 27,
@@ -135,9 +120,9 @@
           "url": "https://www.aljazeera.com/economy/2025/9/12/us-fed-expected-to-cut-rates-amid-cooling-labour-market-surging-inflation?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.004417203122859758,
+      "chg5d": 0.01840086102142142,
+      "chg1m": 0.010890167832649716
     },
     {
       "symbol": "SPY",
@@ -153,6 +138,21 @@
       "chg1d": -0.00033453461672981353,
       "chg5d": 0.01571287312279828,
       "chg1m": 0.019414163655817242
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed expected to cut rates amid cooling labour market, surging inflation",
+          "url": "https://www.aljazeera.com/economy/2025/9/12/us-fed-expected-to-cut-rates-amid-cooling-labour-market-surging-inflation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
