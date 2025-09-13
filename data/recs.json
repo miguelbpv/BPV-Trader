@@ -1,74 +1,16 @@
 {
-  "generated_at": "2025-09-12T21:10:08.708817Z",
+  "generated_at": "2025-09-13T00:52:19.934912Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.4,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UNGA backs resolution on two-state solution for Israel and Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-passes-resolution-endorsing-two-state-solution-for-israel-and-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Netherlands threatens to boycott Eurovision 2026 if Israel participates",
-          "url": "https://www.aljazeera.com/news/2025/9/12/netherlands-threatens-to-boycott-eurovision-2026-if-israel-participates?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly backs two-state push for Israel and Palestine",
-          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza kill 59, including 14 members of the same family",
-          "url": "https://www.aljazeera.com/news/2025/9/12/israeli-attacks-on-gaza-kill-59-including-14-members-of-the-same-family?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.4,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UNGA backs resolution on two-state solution for Israel and Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-passes-resolution-endorsing-two-state-solution-for-israel-and-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Netherlands threatens to boycott Eurovision 2026 if Israel participates",
-          "url": "https://www.aljazeera.com/news/2025/9/12/netherlands-threatens-to-boycott-eurovision-2026-if-israel-participates?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly backs two-state push for Israel and Palestine",
-          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza kill 59, including 14 members of the same family",
-          "url": "https://www.aljazeera.com/news/2025/9/12/israeli-attacks-on-gaza-kill-59-including-14-members-of-the-same-family?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006058566139346932,
-      "chg5d": 0.014079670329670375,
-      "chg1m": 0.03444652031760863
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.4,
+      "score": 4.91,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Qatar PM meeting Trump after Israel’s deadly strike on Doha",
+          "url": "https://www.aljazeera.com/news/2025/9/12/qatar-pm-meeting-trump-after-israels-deadly-strike-on-doha?traffic_source=rss"
+        },
         {
           "title": "UNGA backs resolution on two-state solution for Israel and Palestine",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-passes-resolution-endorsing-two-state-solution-for-israel-and-palestine?traffic_source=rss"
@@ -84,10 +26,6 @@
         {
           "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza kill 59, including 14 members of the same family",
-          "url": "https://www.aljazeera.com/news/2025/9/12/israeli-attacks-on-gaza-kill-59-including-14-members-of-the-same-family?traffic_source=rss"
         }
       ],
       "chg1d": 0.001232128821192582,
@@ -95,25 +33,87 @@
       "chg1m": 0.06493887972524123
     },
     {
-      "symbol": "SPY",
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.91,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Qatar PM meeting Trump after Israel’s deadly strike on Doha",
+          "url": "https://www.aljazeera.com/news/2025/9/12/qatar-pm-meeting-trump-after-israels-deadly-strike-on-doha?traffic_source=rss"
+        },
+        {
+          "title": "UNGA backs resolution on two-state solution for Israel and Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-passes-resolution-endorsing-two-state-solution-for-israel-and-palestine?traffic_source=rss"
+        },
+        {
+          "title": "Netherlands threatens to boycott Eurovision 2026 if Israel participates",
+          "url": "https://www.aljazeera.com/news/2025/9/12/netherlands-threatens-to-boycott-eurovision-2026-if-israel-participates?traffic_source=rss"
+        },
+        {
+          "title": "UN General Assembly backs two-state push for Israel and Palestine",
+          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006058566139346932,
+      "chg5d": 0.014079670329670375,
+      "chg1m": 0.03444652031760863
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.91,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Qatar PM meeting Trump after Israel’s deadly strike on Doha",
+          "url": "https://www.aljazeera.com/news/2025/9/12/qatar-pm-meeting-trump-after-israels-deadly-strike-on-doha?traffic_source=rss"
+        },
+        {
+          "title": "UNGA backs resolution on two-state solution for Israel and Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/un-passes-resolution-endorsing-two-state-solution-for-israel-and-palestine?traffic_source=rss"
+        },
+        {
+          "title": "Netherlands threatens to boycott Eurovision 2026 if Israel participates",
+          "url": "https://www.aljazeera.com/news/2025/9/12/netherlands-threatens-to-boycott-eurovision-2026-if-israel-participates?traffic_source=rss"
+        },
+        {
+          "title": "UN General Assembly backs two-state push for Israel and Palestine",
+          "url": "https://www.aljazeera.com/news/2025/9/12/un-general-assembly-backs-two-state-solution-for-israel-and-palestine?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs UNRWA-run school and makeshift shelter in Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/12/israel-bombs-unrwa-run-school-and-makeshift-shelter-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US Fed expected to cut rates amid cooling labour market, surging inflation",
           "url": "https://www.aljazeera.com/economy/2025/9/12/us-fed-expected-to-cut-rates-amid-cooling-labour-market-surging-inflation?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00033453461672981353,
-      "chg5d": 0.01571287312279828,
-      "chg1m": 0.019414163655817242
+      "chg1d": 0.004417203122859758,
+      "chg5d": 0.01840086102142142,
+      "chg1m": 0.010890167832649716
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US Fed expected to cut rates amid cooling labour market, surging inflation",
@@ -127,8 +127,8 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US Fed expected to cut rates amid cooling labour market, surging inflation",
@@ -140,19 +140,19 @@
       "chg1m": 0.030706686272813748
     },
     {
-      "symbol": "QQQ",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US Fed expected to cut rates amid cooling labour market, surging inflation",
           "url": "https://www.aljazeera.com/economy/2025/9/12/us-fed-expected-to-cut-rates-amid-cooling-labour-market-surging-inflation?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004417203122859758,
-      "chg5d": 0.01840086102142142,
-      "chg1m": 0.010890167832649716
+      "chg1d": -0.00033453461672981353,
+      "chg5d": 0.01571287312279828,
+      "chg1m": 0.019414163655817242
     }
   ]
 }
