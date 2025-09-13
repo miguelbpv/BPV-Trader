@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-13T18:14:15.913463Z",
+  "generated_at": "2025-09-13T21:09:32.748406Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.87,
+      "score": 7.57,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How will Israel’s attack on Doha affect the US and Gulf states?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/13/how-will-israels-attack-on-doha-affect-the-us-and-gulf-states?traffic_source=rss"
+        },
         {
           "title": "Global Sumud Flotilla sets sail from Tunisia to break Israel’s Gaza siege",
           "url": "https://www.aljazeera.com/news/2025/9/13/global-sumud-flotilla-sets-sail-from-tunisia-to-break-israels-gaza-siege?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Israel wants us to evacuate al-Shifa Hospital again to kill hope",
           "url": "https://www.aljazeera.com/opinions/2025/9/13/israel-wants-us-to-evacuate-al-shifa-hospital-again-to-kill-hope?traffic_source=rss"
-        },
-        {
-          "title": "Syria’s oil heartland poisoned by decades of war, neglect, and inaction",
-          "url": "https://www.aljazeera.com/features/2025/9/13/syria-oil-heartland-poisoned-war-neglect-inaction?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.87,
+      "score": 7.57,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How will Israel’s attack on Doha affect the US and Gulf states?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/13/how-will-israels-attack-on-doha-affect-the-us-and-gulf-states?traffic_source=rss"
+        },
         {
           "title": "Global Sumud Flotilla sets sail from Tunisia to break Israel’s Gaza siege",
           "url": "https://www.aljazeera.com/news/2025/9/13/global-sumud-flotilla-sets-sail-from-tunisia-to-break-israels-gaza-siege?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israel wants us to evacuate al-Shifa Hospital again to kill hope",
           "url": "https://www.aljazeera.com/opinions/2025/9/13/israel-wants-us-to-evacuate-al-shifa-hospital-again-to-kill-hope?traffic_source=rss"
-        },
-        {
-          "title": "Syria’s oil heartland poisoned by decades of war, neglect, and inaction",
-          "url": "https://www.aljazeera.com/features/2025/9/13/syria-oil-heartland-poisoned-war-neglect-inaction?traffic_source=rss"
         }
       ],
       "chg1d": -0.005946370470099867,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.44,
+      "score": 5.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How will Israel’s attack on Doha affect the US and Gulf states?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/13/how-will-israels-attack-on-doha-affect-the-us-and-gulf-states?traffic_source=rss"
+        },
         {
           "title": "Global Sumud Flotilla sets sail from Tunisia to break Israel’s Gaza siege",
           "url": "https://www.aljazeera.com/news/2025/9/13/global-sumud-flotilla-sets-sail-from-tunisia-to-break-israels-gaza-siege?traffic_source=rss"
@@ -84,30 +88,11 @@
         {
           "title": "Israeli bomb drops during Al Jazeera reporter’s live",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/13/israeli-bomb-drops-during-al-jazeera-reporters-live?traffic_source=rss"
-        },
-        {
-          "title": "Overnight Israeli attack on residential building in Gaza sparks fires",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/13/overnight-israeli-attack-on-residential-building-in-gaza-sparks-fires?traffic_source=rss"
         }
       ],
       "chg1d": 0.001232128821192582,
       "chg5d": 0.015973270101314992,
       "chg1m": 0.06493887972524123
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Trump urges NATO countries to halt Russia oil purchases before US sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/13/trump-urges-nato-countries-to-halt-russia-oil-purchases-before-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0016221853153603918,
-      "chg5d": 0.06540405077852178,
-      "chg1m": 0.07409708416169643
     },
     {
       "symbol": "ASML.AS",
@@ -138,6 +123,21 @@
       "chg1d": 0.0017633919824444086,
       "chg5d": 0.034770289415098056,
       "chg1m": 0.00693240901213168
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Trump urges NATO countries to halt Russia oil purchases before US sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/13/trump-urges-nato-countries-to-halt-russia-oil-purchases-before-us-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0016221853153603918,
+      "chg5d": 0.06540405077852178,
+      "chg1m": 0.07409708416169643
     }
   ]
 }
