@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-09-14T15:10:10.004724Z",
+  "generated_at": "2025-09-14T18:14:32.045532Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.27,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile",
-          "url": "https://www.aljazeera.com/news/2025/9/14/ukraine-targets-key-russian-oil-refinery-as-moscow-tests-hypersonic-missile?traffic_source=rss"
-        },
-        {
-          "title": "Qatar holds Arab-Islamic summit in Doha to agree response to Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/qatar-holds-arab-islamic-summit-in-doha-to-agree-response-to-israeli-strike?traffic_source=rss"
-        },
-        {
-          "title": "This is what Israel has done to Gaza City in the past 24 hours",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/this-is-what-israel-has-done-to-gaza-city-in-the-past-24-hours?traffic_source=rss"
-        },
-        {
-          "title": "Has Israel gone rogue?",
-          "url": "https://www.aljazeera.com/video/upfront/2025/9/14/has-israel-gone-rogue?traffic_source=rss"
-        },
-        {
-          "title": "Leaders gather for Arab-Islamic summit in Qatar after Israel’s Doha attack",
-          "url": "https://www.aljazeera.com/news/2025/9/14/leaders-gather-for-arab-islamic-summit-in-qatar-after-israeli-attack?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.27,
+      "score": 7.7,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Attacking Qatar shows Israel doesn’t want a Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/9/14/attacking-qatar-only-shows-israel-doesnt-want-a-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "More Middle East mayhem amid unconditional US support for Israel?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/9/14/more-middle-east-mayhem-amid-unconditional-us-support-for-israel?traffic_source=rss"
+        },
         {
           "title": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile",
           "url": "https://www.aljazeera.com/news/2025/9/14/ukraine-targets-key-russian-oil-refinery-as-moscow-tests-hypersonic-missile?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "This is what Israel has done to Gaza City in the past 24 hours",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/this-is-what-israel-has-done-to-gaza-city-in-the-past-24-hours?traffic_source=rss"
-        },
-        {
-          "title": "Has Israel gone rogue?",
-          "url": "https://www.aljazeera.com/video/upfront/2025/9/14/has-israel-gone-rogue?traffic_source=rss"
-        },
-        {
-          "title": "Leaders gather for Arab-Islamic summit in Qatar after Israel’s Doha attack",
-          "url": "https://www.aljazeera.com/news/2025/9/14/leaders-gather-for-arab-islamic-summit-in-qatar-after-israeli-attack?traffic_source=rss"
         }
       ],
       "chg1d": -0.005946370470099867,
@@ -64,11 +33,50 @@
       "chg1m": 0.03456328818309194
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.42,
+      "score": 7.7,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Attacking Qatar shows Israel doesn’t want a Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/9/14/attacking-qatar-only-shows-israel-doesnt-want-a-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "More Middle East mayhem amid unconditional US support for Israel?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/9/14/more-middle-east-mayhem-amid-unconditional-us-support-for-israel?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile",
+          "url": "https://www.aljazeera.com/news/2025/9/14/ukraine-targets-key-russian-oil-refinery-as-moscow-tests-hypersonic-missile?traffic_source=rss"
+        },
+        {
+          "title": "Qatar holds Arab-Islamic summit in Doha to agree response to Israeli strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/qatar-holds-arab-islamic-summit-in-doha-to-agree-response-to-israeli-strike?traffic_source=rss"
+        },
+        {
+          "title": "This is what Israel has done to Gaza City in the past 24 hours",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/this-is-what-israel-has-done-to-gaza-city-in-the-past-24-hours?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.86,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Attacking Qatar shows Israel doesn’t want a Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/9/14/attacking-qatar-only-shows-israel-doesnt-want-a-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "More Middle East mayhem amid unconditional US support for Israel?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/9/14/more-middle-east-mayhem-amid-unconditional-us-support-for-israel?traffic_source=rss"
+        },
         {
           "title": "Qatar holds Arab-Islamic summit in Doha to agree response to Israeli strike",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/qatar-holds-arab-islamic-summit-in-doha-to-agree-response-to-israeli-strike?traffic_source=rss"
@@ -80,14 +88,6 @@
         {
           "title": "Has Israel gone rogue?",
           "url": "https://www.aljazeera.com/video/upfront/2025/9/14/has-israel-gone-rogue?traffic_source=rss"
-        },
-        {
-          "title": "Leaders gather for Arab-Islamic summit in Qatar after Israel’s Doha attack",
-          "url": "https://www.aljazeera.com/news/2025/9/14/leaders-gather-for-arab-islamic-summit-in-qatar-after-israeli-attack?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army carries out its latest ground incursion in southern Syria",
-          "url": "https://www.aljazeera.com/news/2025/9/14/israeli-army-carries-out-its-latest-ground-incursion-in-southern-syria?traffic_source=rss"
         }
       ],
       "chg1d": 0.001232128821192582,
