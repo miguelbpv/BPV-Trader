@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-09-14T00:59:51.541888Z",
+  "generated_at": "2025-09-14T03:29:00.299239Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.24,
+      "score": 8.19,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +35,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.24,
+      "score": 8.19,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.84,
+      "score": 5.8,
       "confianca": 95,
       "razoes": [
         {
@@ -97,7 +97,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -110,24 +110,9 @@
       "chg1m": 0.07409708416169643
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump urges NATO countries stop buying Russian oil before US sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/13/trump-urges-nato-countries-to-halt-russia-oil-purchases-before-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01207471150019901,
-      "chg5d": 0.04115389535627473,
-      "chg1m": 0.07716028958269909
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -138,6 +123,21 @@
       "chg1d": 0.0017633919824444086,
       "chg5d": 0.034770289415098056,
       "chg1m": 0.00693240901213168
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.07,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "Trump urges NATO countries stop buying Russian oil before US sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/13/trump-urges-nato-countries-to-halt-russia-oil-purchases-before-us-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01207471150019901,
+      "chg5d": 0.04115389535627473,
+      "chg1m": 0.07716028958269909
     }
   ]
 }
