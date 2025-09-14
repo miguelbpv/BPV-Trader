@@ -1,62 +1,31 @@
 {
-  "generated_at": "2025-09-14T09:11:02.968992Z",
+  "generated_at": "2025-09-14T12:20:28.317073Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.65,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli forces arrest young Palestinian woman during raid in Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/israeli-forces-arrest-young-palestinian-woman-during-raid-in-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Israel intensifies Gaza strikes, issues threat to residents to move south",
-          "url": "https://www.aljazeera.com/gallery/2025/9/14/israel-intensifies-gaza-strikes-issues-threat-to-residents-to-move-south?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Qatar hosts Muslim leaders summit; Israel continues Gaza City attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/14/live-qatar-hosts-muslim-leaders-summit-israel-continues-gaza-city-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Rubio lands in Israel to discuss war on Gaza after Israeli strike on Qatar",
-          "url": "https://www.aljazeera.com/news/2025/9/14/rubio-due-in-israel-to-discuss-gaza-war-after-attack-on-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds Gaza City, killing 49 and displacing 6,000 in a single day",
-          "url": "https://www.aljazeera.com/news/2025/9/13/israel-attempts-to-oust-gaza-city-residents-through-continuous-bombing?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005946370470099867,
-      "chg5d": 0.014194139194139135,
-      "chg1m": 0.03456328818309194
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.65,
+      "score": 6.16,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Has Israel gone rogue?",
+          "url": "https://www.aljazeera.com/video/upfront/2025/9/14/has-israel-gone-rogue?traffic_source=rss"
+        },
+        {
+          "title": "Leaders gather for Arab-Islamic summit in Qatar after Israel’s Doha attack",
+          "url": "https://www.aljazeera.com/news/2025/9/14/leaders-gather-for-arab-islamic-summit-in-qatar-after-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army carries out its latest ground incursion in southern Syria",
+          "url": "https://www.aljazeera.com/news/2025/9/14/israeli-army-carries-out-its-latest-ground-incursion-in-southern-syria?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians flee Israeli bombing of Gaza City to ‘unknown’ in al-Mawasi",
+          "url": "https://www.aljazeera.com/news/2025/9/14/palestinians-flee-israeli-bombing-of-gaza-city-to-unknown-in-al-mawasi?traffic_source=rss"
+        },
+        {
           "title": "Israeli forces arrest young Palestinian woman during raid in Hebron",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/israeli-forces-arrest-young-palestinian-woman-during-raid-in-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Israel intensifies Gaza strikes, issues threat to residents to move south",
-          "url": "https://www.aljazeera.com/gallery/2025/9/14/israel-intensifies-gaza-strikes-issues-threat-to-residents-to-move-south?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Qatar hosts Muslim leaders summit; Israel continues Gaza City attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/14/live-qatar-hosts-muslim-leaders-summit-israel-continues-gaza-city-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Rubio lands in Israel to discuss war on Gaza after Israeli strike on Qatar",
-          "url": "https://www.aljazeera.com/news/2025/9/14/rubio-due-in-israel-to-discuss-gaza-war-after-attack-on-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds Gaza City, killing 49 and displacing 6,000 in a single day",
-          "url": "https://www.aljazeera.com/news/2025/9/13/israel-attempts-to-oust-gaza-city-residents-through-continuous-bombing?traffic_source=rss"
         }
       ],
       "chg1d": 0.001232128821192582,
@@ -64,30 +33,61 @@
       "chg1m": 0.06493887972524123
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.65,
+      "score": 6.16,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Has Israel gone rogue?",
+          "url": "https://www.aljazeera.com/video/upfront/2025/9/14/has-israel-gone-rogue?traffic_source=rss"
+        },
+        {
+          "title": "Leaders gather for Arab-Islamic summit in Qatar after Israel’s Doha attack",
+          "url": "https://www.aljazeera.com/news/2025/9/14/leaders-gather-for-arab-islamic-summit-in-qatar-after-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army carries out its latest ground incursion in southern Syria",
+          "url": "https://www.aljazeera.com/news/2025/9/14/israeli-army-carries-out-its-latest-ground-incursion-in-southern-syria?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians flee Israeli bombing of Gaza City to ‘unknown’ in al-Mawasi",
+          "url": "https://www.aljazeera.com/news/2025/9/14/palestinians-flee-israeli-bombing-of-gaza-city-to-unknown-in-al-mawasi?traffic_source=rss"
+        },
+        {
           "title": "Israeli forces arrest young Palestinian woman during raid in Hebron",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/israeli-forces-arrest-young-palestinian-woman-during-raid-in-hebron?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005946370470099867,
+      "chg5d": 0.014194139194139135,
+      "chg1m": 0.03456328818309194
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.16,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Has Israel gone rogue?",
+          "url": "https://www.aljazeera.com/video/upfront/2025/9/14/has-israel-gone-rogue?traffic_source=rss"
         },
         {
-          "title": "Israel intensifies Gaza strikes, issues threat to residents to move south",
-          "url": "https://www.aljazeera.com/gallery/2025/9/14/israel-intensifies-gaza-strikes-issues-threat-to-residents-to-move-south?traffic_source=rss"
+          "title": "Leaders gather for Arab-Islamic summit in Qatar after Israel’s Doha attack",
+          "url": "https://www.aljazeera.com/news/2025/9/14/leaders-gather-for-arab-islamic-summit-in-qatar-after-israeli-attack?traffic_source=rss"
         },
         {
-          "title": "LIVE: Qatar hosts Muslim leaders summit; Israel continues Gaza City attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/14/live-qatar-hosts-muslim-leaders-summit-israel-continues-gaza-city-attacks?traffic_source=rss"
+          "title": "Israeli army carries out its latest ground incursion in southern Syria",
+          "url": "https://www.aljazeera.com/news/2025/9/14/israeli-army-carries-out-its-latest-ground-incursion-in-southern-syria?traffic_source=rss"
         },
         {
-          "title": "Rubio lands in Israel to discuss war on Gaza after Israeli strike on Qatar",
-          "url": "https://www.aljazeera.com/news/2025/9/14/rubio-due-in-israel-to-discuss-gaza-war-after-attack-on-qatar?traffic_source=rss"
+          "title": "Palestinians flee Israeli bombing of Gaza City to ‘unknown’ in al-Mawasi",
+          "url": "https://www.aljazeera.com/news/2025/9/14/palestinians-flee-israeli-bombing-of-gaza-city-to-unknown-in-al-mawasi?traffic_source=rss"
         },
         {
-          "title": "Israel pounds Gaza City, killing 49 and displacing 6,000 in a single day",
-          "url": "https://www.aljazeera.com/news/2025/9/13/israel-attempts-to-oust-gaza-city-residents-through-continuous-bombing?traffic_source=rss"
+          "title": "Israeli forces arrest young Palestinian woman during raid in Hebron",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/14/israeli-forces-arrest-young-palestinian-woman-during-raid-in-hebron?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
