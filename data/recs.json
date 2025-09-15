@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-09-15T06:20:04.257145Z",
+  "generated_at": "2025-09-15T09:15:07.033188Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.37,
+      "score": 4.4,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran pushes for IAEA resolution as top council backs nuclear inspections",
+          "url": "https://www.aljazeera.com/news/2025/9/15/iran-pushes-for-iaea-resolution-as-top-council-backs-nuclear-inspections?traffic_source=rss"
+        },
+        {
+          "title": "Video: Qatari PM condemns Israeli attack ahead of emergency summit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/video-qatari-pm-condemns-israeli-attack-ahead-of-emergency-summit?traffic_source=rss"
+        },
         {
           "title": "Live: 6-year-old twins among Palestinians killed in Israeli attacks on Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/15/live-6-year-old-twins-among-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Foreign doctors say Israel systematically targeting Gaza’s children: Report",
           "url": "https://www.aljazeera.com/news/2025/9/14/foreign-doctors-say-israel-systematically-targeting-gazas-children-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.001232128821192582,
+      "chg5d": 0.015973270101314992,
+      "chg1m": 0.06493887972524123
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.4,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran pushes for IAEA resolution as top council backs nuclear inspections",
+          "url": "https://www.aljazeera.com/news/2025/9/15/iran-pushes-for-iaea-resolution-as-top-council-backs-nuclear-inspections?traffic_source=rss"
         },
         {
-          "title": "Qatar PM blasts Israel, appreciates Arab, Islamic support ahead of summit",
-          "url": "https://www.aljazeera.com/news/2025/9/14/doha-secures-arab-islamic-support-after-barbaric-israel-attack-qatar-pm?traffic_source=rss"
+          "title": "Video: Qatari PM condemns Israeli attack ahead of emergency summit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/video-qatari-pm-condemns-israeli-attack-ahead-of-emergency-summit?traffic_source=rss"
         },
         {
-          "title": "Attacking Qatar shows Israel doesn’t want a Gaza ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/9/14/attacking-qatar-only-shows-israel-doesnt-want-a-gaza-ceasefire?traffic_source=rss"
+          "title": "Live: 6-year-old twins among Palestinians killed in Israeli attacks on Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/15/live-6-year-old-twins-among-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills 53 in Gaza, flattens more towers as toll from famine rises",
+          "url": "https://www.aljazeera.com/news/2025/9/14/israel-flattens-more-gaza-towers-as-strikes-kill-fifty-three-and-famine-toll-rises?traffic_source=rss"
+        },
+        {
+          "title": "Foreign doctors say Israel systematically targeting Gaza’s children: Report",
+          "url": "https://www.aljazeera.com/news/2025/9/14/foreign-doctors-say-israel-systematically-targeting-gazas-children-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.37,
+      "score": 4.4,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran pushes for IAEA resolution as top council backs nuclear inspections",
+          "url": "https://www.aljazeera.com/news/2025/9/15/iran-pushes-for-iaea-resolution-as-top-council-backs-nuclear-inspections?traffic_source=rss"
+        },
+        {
+          "title": "Video: Qatari PM condemns Israeli attack ahead of emergency summit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/video-qatari-pm-condemns-israeli-attack-ahead-of-emergency-summit?traffic_source=rss"
+        },
         {
           "title": "Live: 6-year-old twins among Palestinians killed in Israeli attacks on Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/15/live-6-year-old-twins-among-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
@@ -49,50 +88,11 @@
         {
           "title": "Foreign doctors say Israel systematically targeting Gaza’s children: Report",
           "url": "https://www.aljazeera.com/news/2025/9/14/foreign-doctors-say-israel-systematically-targeting-gazas-children-report?traffic_source=rss"
-        },
-        {
-          "title": "Qatar PM blasts Israel, appreciates Arab, Islamic support ahead of summit",
-          "url": "https://www.aljazeera.com/news/2025/9/14/doha-secures-arab-islamic-support-after-barbaric-israel-attack-qatar-pm?traffic_source=rss"
-        },
-        {
-          "title": "Attacking Qatar shows Israel doesn’t want a Gaza ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/9/14/attacking-qatar-only-shows-israel-doesnt-want-a-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": -0.005946370470099867,
       "chg5d": 0.014194139194139135,
       "chg1m": 0.03456328818309194
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.55,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Live: 6-year-old twins among Palestinians killed in Israeli attacks on Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/15/live-6-year-old-twins-among-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 53 in Gaza, flattens more towers as toll from famine rises",
-          "url": "https://www.aljazeera.com/news/2025/9/14/israel-flattens-more-gaza-towers-as-strikes-kill-fifty-three-and-famine-toll-rises?traffic_source=rss"
-        },
-        {
-          "title": "Foreign doctors say Israel systematically targeting Gaza’s children: Report",
-          "url": "https://www.aljazeera.com/news/2025/9/14/foreign-doctors-say-israel-systematically-targeting-gazas-children-report?traffic_source=rss"
-        },
-        {
-          "title": "Qatar PM blasts Israel, appreciates Arab, Islamic support ahead of summit",
-          "url": "https://www.aljazeera.com/news/2025/9/14/doha-secures-arab-islamic-support-after-barbaric-israel-attack-qatar-pm?traffic_source=rss"
-        },
-        {
-          "title": "Attacking Qatar shows Israel doesn’t want a Gaza ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/9/14/attacking-qatar-only-shows-israel-doesnt-want-a-gaza-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.001232128821192582,
-      "chg5d": 0.015973270101314992,
-      "chg1m": 0.06493887972524123
     }
   ]
 }
