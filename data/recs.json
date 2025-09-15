@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-09-15T15:13:41.515140Z",
+  "generated_at": "2025-09-15T18:17:20.519042Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.52,
+      "score": 6.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel destroys Gaza’s tallest residential building",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/israel-destroys-gazas-tallest-residential-building?traffic_source=rss"
+        },
+        {
+          "title": "Arab-Islamic summit: Qatar’s emir vows to ‘confront Israeli aggression’",
+          "url": "https://www.aljazeera.com/news/2025/9/15/arab-islamic-summit-qatars-emir-vows-to-confront-israeli-aggression?traffic_source=rss"
+        },
+        {
+          "title": "Panic as families given ‘minutes to flee’ before Israel destroys tower",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/panic-as-families-given-minutes-to-flee-before-israel-destroys-tower?traffic_source=rss"
+        },
         {
           "title": "Israel’s ‘financial stranglehold’ on Palestinian land must end: UN experts",
           "url": "https://www.aljazeera.com/news/2025/9/15/israels-financial-stranglehold-on-palestinian-land-must-end-un-experts?traffic_source=rss"
@@ -14,18 +26,37 @@
         {
           "title": "US focusing on ‘what happens next’ following Israeli strikes on Doha",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/us-focusing-on-what-happens-next-following-israeli-strikes-on-doha?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0016365688487584202,
+      "chg5d": 0.014857732905002315,
+      "chg1m": 0.03383590462833095
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.42,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel destroys Gaza’s tallest residential building",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/israel-destroys-gazas-tallest-residential-building?traffic_source=rss"
         },
         {
-          "title": "Arab and Muslim leaders gather in Doha after Israeli attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/arab-and-muslim-leaders-gather-in-doha-after-israeli-attack?traffic_source=rss"
+          "title": "Arab-Islamic summit: Qatar’s emir vows to ‘confront Israeli aggression’",
+          "url": "https://www.aljazeera.com/news/2025/9/15/arab-islamic-summit-qatars-emir-vows-to-confront-israeli-aggression?traffic_source=rss"
         },
         {
-          "title": "How protests over Israeli team ended Spain’s Vuelta cycling race",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/how-protests-over-israeli-team-ended-spains-vuelta-cycling-race?traffic_source=rss"
+          "title": "Panic as families given ‘minutes to flee’ before Israel destroys tower",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/panic-as-families-given-minutes-to-flee-before-israel-destroys-tower?traffic_source=rss"
         },
         {
-          "title": "Netanyahu and Rubio stick to established Israeli-US narrative on Gaza war",
-          "url": "https://www.aljazeera.com/news/2025/9/15/netanyahu-and-rubio-stick-to-established-israeli-us-narrative-on-gaza-war?traffic_source=rss"
+          "title": "Israel’s ‘financial stranglehold’ on Palestinian land must end: UN experts",
+          "url": "https://www.aljazeera.com/news/2025/9/15/israels-financial-stranglehold-on-palestinian-land-must-end-un-experts?traffic_source=rss"
+        },
+        {
+          "title": "US focusing on ‘what happens next’ following Israeli strikes on Doha",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/us-focusing-on-what-happens-next-following-israeli-strikes-on-doha?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,42 +64,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.52,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s ‘financial stranglehold’ on Palestinian land must end: UN experts",
-          "url": "https://www.aljazeera.com/news/2025/9/15/israels-financial-stranglehold-on-palestinian-land-must-end-un-experts?traffic_source=rss"
-        },
-        {
-          "title": "US focusing on ‘what happens next’ following Israeli strikes on Doha",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/us-focusing-on-what-happens-next-following-israeli-strikes-on-doha?traffic_source=rss"
-        },
-        {
-          "title": "Arab and Muslim leaders gather in Doha after Israeli attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/arab-and-muslim-leaders-gather-in-doha-after-israeli-attack?traffic_source=rss"
-        },
-        {
-          "title": "How protests over Israeli team ended Spain’s Vuelta cycling race",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/how-protests-over-israeli-team-ended-spains-vuelta-cycling-race?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu and Rubio stick to established Israeli-US narrative on Gaza war",
-          "url": "https://www.aljazeera.com/news/2025/9/15/netanyahu-and-rubio-stick-to-established-israeli-us-narrative-on-gaza-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0026523702031602645,
-      "chg5d": 0.019217530977512588,
-      "chg1m": 0.03827723235156605
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.43,
+      "score": 6.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel destroys Gaza’s tallest residential building",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/israel-destroys-gazas-tallest-residential-building?traffic_source=rss"
+        },
+        {
+          "title": "Arab-Islamic summit: Qatar’s emir vows to ‘confront Israeli aggression’",
+          "url": "https://www.aljazeera.com/news/2025/9/15/arab-islamic-summit-qatars-emir-vows-to-confront-israeli-aggression?traffic_source=rss"
+        },
+        {
+          "title": "Panic as families given ‘minutes to flee’ before Israel destroys tower",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/panic-as-families-given-minutes-to-flee-before-israel-destroys-tower?traffic_source=rss"
+        },
         {
           "title": "Israel’s ‘financial stranglehold’ on Palestinian land must end: UN experts",
           "url": "https://www.aljazeera.com/news/2025/9/15/israels-financial-stranglehold-on-palestinian-land-must-end-un-experts?traffic_source=rss"
@@ -76,43 +88,16 @@
         {
           "title": "US focusing on ‘what happens next’ following Israeli strikes on Doha",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/us-focusing-on-what-happens-next-following-israeli-strikes-on-doha?traffic_source=rss"
-        },
-        {
-          "title": "Arab and Muslim leaders gather in Doha after Israeli attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/arab-and-muslim-leaders-gather-in-doha-after-israeli-attack?traffic_source=rss"
-        },
-        {
-          "title": "How protests over Israeli team ended Spain’s Vuelta cycling race",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/15/how-protests-over-israeli-team-ended-spains-vuelta-cycling-race?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu and Rubio stick to established Israeli-US narrative on Gaza war",
-          "url": "https://www.aljazeera.com/news/2025/9/15/netanyahu-and-rubio-stick-to-established-israeli-us-narrative-on-gaza-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0024559207315778798,
-      "chg5d": 0.02909433469103256,
-      "chg1m": 0.08037020945760537
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Can the EU and NATO impose tariffs on India and China, as Trump wants?",
-          "url": "https://www.aljazeera.com/news/2025/9/15/can-the-eu-and-nato-impose-tariffs-on-india-and-china-as-trump-wants?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0059849788765452576,
-      "chg5d": 0.033433795459112,
-      "chg1m": 0.011922562367199298
+      "chg1d": 0.002779486961872233,
+      "chg5d": 0.029426499096077172,
+      "chg1m": 0.08071892435744996
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -120,14 +105,29 @@
           "url": "https://www.aljazeera.com/news/2025/9/15/can-the-eu-and-nato-impose-tariffs-on-india-and-china-as-trump-wants?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008830447692129798,
-      "chg5d": 0.058376147902423264,
-      "chg1m": 0.08556016597510376
+      "chg1d": 0.006709597809740521,
+      "chg5d": 0.05615113880011326,
+      "chg1m": 0.08327800829875516
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Can the EU and NATO impose tariffs on India and China, as Trump wants?",
+          "url": "https://www.aljazeera.com/news/2025/9/15/can-the-eu-and-nato-impose-tariffs-on-india-and-china-as-trump-wants?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006493506493506592,
+      "chg5d": 0.03395619851316061,
+      "chg1m": 0.012434091445659972
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/news/2025/9/15/can-the-eu-and-nato-impose-tariffs-on-india-and-china-as-trump-wants?traffic_source=rss"
         }
       ],
-      "chg1d": 0.05227038716256893,
-      "chg5d": 0.0755557927786499,
-      "chg1m": 0.13400418426662775
+      "chg1d": 0.06099254180643099,
+      "chg5d": 0.08447095761381475,
+      "chg1m": 0.14340382145363534
     }
   ]
 }
