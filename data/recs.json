@@ -1,43 +1,24 @@
 {
-  "generated_at": "2025-09-16T09:13:57.869990Z",
+  "generated_at": "2025-09-16T12:24:15.781255Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.37,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Video: Al Jazeera reports from scene of Israeli attack on Gaza tower",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/video-al-jazeera-reports-from-scene-of-israeli-attack-on-gaza-tower?traffic_source=rss"
-        },
-        {
-          "title": "UN inquiry says Israel’s war on Gaza is genocide, holds gov’t responsible",
-          "url": "https://www.aljazeera.com/news/2025/9/16/first-head-of-united-nations-body-declares-israels-gaza-war-a-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Gaza City residents forced to flee as Israel carries out intense strikes",
-          "url": "https://www.aljazeera.com/news/2025/9/16/gaza-city-residents-forced-to-flee-as-israel-carries-out-intense-strikes?traffic_source=rss"
-        },
-        {
-          "title": "GCC to activate defence mechanism; Doha summit slams Israel’s Qatar attack",
-          "url": "https://www.aljazeera.com/news/2025/9/16/gcc-vows-joint-defence-but-arab-islamic-summit-short-on-concrete-action?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: 48 killed as Israeli army launches ground invasion of Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/16/live-israel-pounds-gaza-city-muslim-leaders-condemn-strike-on-qatar?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004116186798497799,
-      "chg5d": 0.03079871926117921,
-      "chg1m": 0.08215951705844692
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.37,
+      "score": 3.47,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Captured state: Israel 20 years after disengaging from Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/16/captured-state-israel-20-years-after-disengaging-from-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Doha strikes are an example of Israel “manipulating” the US",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/16/doha-strikes-are-an-example-of-israel-manipulating-the-us?traffic_source=rss"
+        },
+        {
+          "title": "UN inquiry finds Israel committing genocide in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/un-inquiry-finds-israel-committing-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Video: Al Jazeera reports from scene of Israeli attack on Gaza tower",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/video-al-jazeera-reports-from-scene-of-israeli-attack-on-gaza-tower?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "UN inquiry says Israel’s war on Gaza is genocide, holds gov’t responsible",
           "url": "https://www.aljazeera.com/news/2025/9/16/first-head-of-united-nations-body-declares-israels-gaza-war-a-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Gaza City residents forced to flee as Israel carries out intense strikes",
-          "url": "https://www.aljazeera.com/news/2025/9/16/gaza-city-residents-forced-to-flee-as-israel-carries-out-intense-strikes?traffic_source=rss"
-        },
-        {
-          "title": "GCC to activate defence mechanism; Doha summit slams Israel’s Qatar attack",
-          "url": "https://www.aljazeera.com/news/2025/9/16/gcc-vows-joint-defence-but-arab-islamic-summit-short-on-concrete-action?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: 48 killed as Israeli army launches ground invasion of Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/16/live-israel-pounds-gaza-city-muslim-leaders-condemn-strike-on-qatar?traffic_source=rss"
         }
       ],
       "chg1d": -0.0033860045146726545,
@@ -64,11 +33,23 @@
       "chg1m": 0.032024310425432384
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.37,
+      "score": 3.47,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Captured state: Israel 20 years after disengaging from Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/16/captured-state-israel-20-years-after-disengaging-from-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Doha strikes are an example of Israel “manipulating” the US",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/16/doha-strikes-are-an-example-of-israel-manipulating-the-us?traffic_source=rss"
+        },
+        {
+          "title": "UN inquiry finds Israel committing genocide in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/un-inquiry-finds-israel-committing-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Video: Al Jazeera reports from scene of Israeli attack on Gaza tower",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/video-al-jazeera-reports-from-scene-of-israeli-attack-on-gaza-tower?traffic_source=rss"
@@ -76,38 +57,42 @@
         {
           "title": "UN inquiry says Israel’s war on Gaza is genocide, holds gov’t responsible",
           "url": "https://www.aljazeera.com/news/2025/9/16/first-head-of-united-nations-body-declares-israels-gaza-war-a-genocide?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004116186798497799,
+      "chg5d": 0.03079871926117921,
+      "chg1m": 0.08215951705844692
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.47,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Captured state: Israel 20 years after disengaging from Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/16/captured-state-israel-20-years-after-disengaging-from-gaza?traffic_source=rss"
         },
         {
-          "title": "Gaza City residents forced to flee as Israel carries out intense strikes",
-          "url": "https://www.aljazeera.com/news/2025/9/16/gaza-city-residents-forced-to-flee-as-israel-carries-out-intense-strikes?traffic_source=rss"
+          "title": "Doha strikes are an example of Israel “manipulating” the US",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/16/doha-strikes-are-an-example-of-israel-manipulating-the-us?traffic_source=rss"
         },
         {
-          "title": "GCC to activate defence mechanism; Doha summit slams Israel’s Qatar attack",
-          "url": "https://www.aljazeera.com/news/2025/9/16/gcc-vows-joint-defence-but-arab-islamic-summit-short-on-concrete-action?traffic_source=rss"
+          "title": "UN inquiry finds Israel committing genocide in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/un-inquiry-finds-israel-committing-genocide-in-gaza?traffic_source=rss"
         },
         {
-          "title": "LIVE: 48 killed as Israeli army launches ground invasion of Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/16/live-israel-pounds-gaza-city-muslim-leaders-condemn-strike-on-qatar?traffic_source=rss"
+          "title": "Video: Al Jazeera reports from scene of Israeli attack on Gaza tower",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/video-al-jazeera-reports-from-scene-of-israeli-attack-on-gaza-tower?traffic_source=rss"
+        },
+        {
+          "title": "UN inquiry says Israel’s war on Gaza is genocide, holds gov’t responsible",
+          "url": "https://www.aljazeera.com/news/2025/9/16/first-head-of-united-nations-body-declares-israels-gaza-war-a-genocide?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US appeals court blocks Trump’s bid to fire Lisa Cook from Federal Reserve",
-          "url": "https://www.aljazeera.com/economy/2025/9/16/us-appeals-court-blocks-trumps-bid-to-fire-lisa-cook-from-federal-reserve?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004237643702274024,
-      "chg5d": 0.004616998950682033,
-      "chg1m": 0.04867683140553796
     },
     {
       "symbol": "QQQ",
@@ -155,6 +140,21 @@
       "chg1m": 0.024746104349174233
     },
     {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US appeals court blocks Trump’s bid to fire Lisa Cook from Federal Reserve",
+          "url": "https://www.aljazeera.com/economy/2025/9/16/us-appeals-court-blocks-trumps-bid-to-fire-lisa-cook-from-federal-reserve?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004237643702274024,
+      "chg5d": 0.004616998950682033,
+      "chg1m": 0.04867683140553796
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
       "score": 0.85,
@@ -170,21 +170,6 @@
       "chg1m": 0.08456431535269708
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "How US tariffs are unraveling India’s textile industry",
-          "url": "https://www.aljazeera.com/economy/2025/9/16/how-us-tariffs-are-unraveling-indias-textile-industry?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008449381943357944,
-      "chg5d": 0.03596544102873224,
-      "chg1m": 0.01440151097820109
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.85,
@@ -198,6 +183,21 @@
       "chg1d": 0.06564930517158754,
       "chg5d": 0.08923076923076917,
       "chg1m": 0.14842229313700814
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "How US tariffs are unraveling India’s textile industry",
+          "url": "https://www.aljazeera.com/economy/2025/9/16/how-us-tariffs-are-unraveling-indias-textile-industry?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008449381943357944,
+      "chg5d": 0.03596544102873224,
+      "chg1m": 0.01440151097820109
     }
   ]
 }
