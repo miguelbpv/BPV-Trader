@@ -1,39 +1,20 @@
 {
-  "generated_at": "2025-09-17T03:22:33.003131Z",
+  "generated_at": "2025-09-17T06:19:11.453909Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.29,
-      "confianca": 94,
-      "razoes": [
-        {
-          "title": "Thousands of Palestinians flee as Israeli bombs rain down on Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/9/16/thousands-of-palestinians-flee-as-israeli-bombs-rain-down-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army: ‘It will take several months’ to control Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/israeli-army-it-will-take-several-months-to-control-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "US slaps new sanctions on individuals and firms that help Iran sell its oil",
-          "url": "https://www.aljazeera.com/news/2025/9/16/us-slaps-new-sanctions-on-individuals-and-firms-that-help-iran-sell-its-oil?traffic_source=rss"
-        },
-        {
-          "title": "Trump warns ‘big trouble’ if Hamas uses Israeli captives as human shields",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/trump-warns-big-trouble-if-hamas-uses-israeli-captives-as-human-shields?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0022609614368726745,
-      "chg5d": 0.03776309456088914,
-      "chg1m": 0.08401133558826215
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.29,
-      "confianca": 94,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Dehumanisation: How Israel is able to commit its genocide in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/17/dehumanisation-how-israel-is-able-to-commit-its-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Top aid groups call on world leaders to stop Israel’s genocide in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/17/top-aid-groups-call-on-world-leaders-to-stop-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Thousands of Palestinians flee as Israeli bombs rain down on Gaza City",
           "url": "https://www.aljazeera.com/news/2025/9/16/thousands-of-palestinians-flee-as-israeli-bombs-rain-down-on-gaza-city?traffic_source=rss"
@@ -41,14 +22,6 @@
         {
           "title": "Israeli army: ‘It will take several months’ to control Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/israeli-army-it-will-take-several-months-to-control-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "US slaps new sanctions on individuals and firms that help Iran sell its oil",
-          "url": "https://www.aljazeera.com/news/2025/9/16/us-slaps-new-sanctions-on-individuals-and-firms-that-help-iran-sell-its-oil?traffic_source=rss"
-        },
-        {
-          "title": "Trump warns ‘big trouble’ if Hamas uses Israeli captives as human shields",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/trump-warns-big-trouble-if-hamas-uses-israeli-captives-as-human-shields?traffic_source=rss"
         }
       ],
       "chg1d": 0.0167610419026048,
@@ -56,11 +29,19 @@
       "chg1m": 0.04932211313697988
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.29,
-      "confianca": 94,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Dehumanisation: How Israel is able to commit its genocide in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/17/dehumanisation-how-israel-is-able-to-commit-its-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Top aid groups call on world leaders to stop Israel’s genocide in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/17/top-aid-groups-call-on-world-leaders-to-stop-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Thousands of Palestinians flee as Israeli bombs rain down on Gaza City",
           "url": "https://www.aljazeera.com/news/2025/9/16/thousands-of-palestinians-flee-as-israeli-bombs-rain-down-on-gaza-city?traffic_source=rss"
@@ -68,64 +49,38 @@
         {
           "title": "Israeli army: ‘It will take several months’ to control Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/israeli-army-it-will-take-several-months-to-control-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0022609614368726745,
+      "chg5d": 0.03776309456088914,
+      "chg1m": 0.08401133558826215
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Dehumanisation: How Israel is able to commit its genocide in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/17/dehumanisation-how-israel-is-able-to-commit-its-genocide-in-gaza?traffic_source=rss"
         },
         {
-          "title": "US slaps new sanctions on individuals and firms that help Iran sell its oil",
-          "url": "https://www.aljazeera.com/news/2025/9/16/us-slaps-new-sanctions-on-individuals-and-firms-that-help-iran-sell-its-oil?traffic_source=rss"
+          "title": "Top aid groups call on world leaders to stop Israel’s genocide in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/17/top-aid-groups-call-on-world-leaders-to-stop-israels-genocide-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Trump warns ‘big trouble’ if Hamas uses Israeli captives as human shields",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/trump-warns-big-trouble-if-hamas-uses-israeli-captives-as-human-shields?traffic_source=rss"
+          "title": "Thousands of Palestinians flee as Israeli bombs rain down on Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/9/16/thousands-of-palestinians-flee-as-israeli-bombs-rain-down-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army: ‘It will take several months’ to control Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/16/israeli-army-it-will-take-several-months-to-control-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US slaps new sanctions on individuals and firms that help Iran sell its oil",
-          "url": "https://www.aljazeera.com/news/2025/9/16/us-slaps-new-sanctions-on-individuals-and-firms-that-help-iran-sell-its-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0026015762491392105,
-      "chg5d": 0.04439662043679266,
-      "chg1m": 0.09703616878767585
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US slaps new sanctions on individuals and firms that help Iran sell its oil",
-          "url": "https://www.aljazeera.com/news/2025/9/16/us-slaps-new-sanctions-on-individuals-and-firms-that-help-iran-sell-its-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01282139974633922,
-      "chg5d": 0.09102877796132297,
-      "chg1m": 0.18359922388703245
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US slaps new sanctions on individuals and firms that help Iran sell its oil",
-          "url": "https://www.aljazeera.com/news/2025/9/16/us-slaps-new-sanctions-on-individuals-and-firms-that-help-iran-sell-its-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003025601241272198,
-      "chg5d": 0.038223721191680646,
-      "chg1m": 0.04131765463917522
     }
   ]
 }
