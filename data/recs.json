@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-09-17T00:55:12.575651Z",
+  "generated_at": "2025-09-17T03:22:33.003131Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.31,
+      "score": 3.29,
       "confianca": 94,
       "razoes": [
         {
@@ -31,7 +31,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.31,
+      "score": 3.29,
       "confianca": 94,
       "razoes": [
         {
@@ -58,7 +58,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.31,
+      "score": 3.29,
       "confianca": 94,
       "razoes": [
         {
@@ -83,25 +83,25 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US slaps new sanctions on individuals and firms that help Iran sell its oil",
           "url": "https://www.aljazeera.com/news/2025/9/16/us-slaps-new-sanctions-on-individuals-and-firms-that-help-iran-sell-its-oil?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003025601241272198,
-      "chg5d": 0.038223721191680646,
-      "chg1m": 0.04131765463917522
+      "chg1d": 0.0026015762491392105,
+      "chg5d": 0.04439662043679266,
+      "chg1m": 0.09703616878767585
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US slaps new sanctions on individuals and firms that help Iran sell its oil",
@@ -113,19 +113,19 @@
       "chg1m": 0.18359922388703245
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US slaps new sanctions on individuals and firms that help Iran sell its oil",
           "url": "https://www.aljazeera.com/news/2025/9/16/us-slaps-new-sanctions-on-individuals-and-firms-that-help-iran-sell-its-oil?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0026015762491392105,
-      "chg5d": 0.04439662043679266,
-      "chg1m": 0.09703616878767585
+      "chg1d": 0.003025601241272198,
+      "chg5d": 0.038223721191680646,
+      "chg1m": 0.04131765463917522
     }
   ]
 }
