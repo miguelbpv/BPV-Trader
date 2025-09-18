@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-09-18T03:25:13.541431Z",
+  "generated_at": "2025-09-18T06:18:48.980320Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.91,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli strikes kill 19 Palestinians near Gaza’s last functioning hospitals",
-          "url": "https://www.aljazeera.com/news/2025/9/17/israel-strikes-kill-palestinians-near-gazas-last-functioning-hospitals?traffic_source=rss"
-        },
-        {
-          "title": "Leading Hamas official makes first comments since Israeli attack in Qatar",
-          "url": "https://www.aljazeera.com/news/2025/9/17/leading-hamas-official-makes-first-comments-since-israeli-attack-in-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Talks with Israel could lead to results ‘in days’, says Syria’s al-Sharaa",
-          "url": "https://www.aljazeera.com/news/2025/9/17/talks-with-israel-could-lead-to-result-in-days-says-syrias-al-sharaa?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians march south as Israel ethnically cleanses Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/17/palestinians-march-south-as-israel-ethnically-cleanses-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "‘Israel is committing genocide in Gaza’: Bernie Sanders",
-          "url": "https://www.aljazeera.com/news/2025/9/17/israel-is-committing-genocide-in-gaza-bernie-sanders?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.002529937594872636,
-      "chg5d": 0.01994093172656132,
-      "chg1m": 0.07371096586782866
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.43,
+      "score": 4.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Live: Israeli army applying ‘extreme pressure’ as Gaza toll passes 65,000",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/18/live-israeli-army-applying-extreme-pressure-as-gaza-toll-passes-65000?traffic_source=rss"
+        },
         {
           "title": "Israeli strikes kill 19 Palestinians near Gaza’s last functioning hospitals",
           "url": "https://www.aljazeera.com/news/2025/9/17/israel-strikes-kill-palestinians-near-gazas-last-functioning-hospitals?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Palestinians march south as Israel ethnically cleanses Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/17/palestinians-march-south-as-israel-ethnically-cleanses-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "‘Israel is committing genocide in Gaza’: Bernie Sanders",
-          "url": "https://www.aljazeera.com/news/2025/9/17/israel-is-committing-genocide-in-gaza-bernie-sanders?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.43,
+      "score": 4.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Live: Israeli army applying ‘extreme pressure’ as Gaza toll passes 65,000",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/18/live-israeli-army-applying-extreme-pressure-as-gaza-toll-passes-65000?traffic_source=rss"
+        },
         {
           "title": "Israeli strikes kill 19 Palestinians near Gaza’s last functioning hospitals",
           "url": "https://www.aljazeera.com/news/2025/9/17/israel-strikes-kill-palestinians-near-gazas-last-functioning-hospitals?traffic_source=rss"
@@ -84,10 +57,6 @@
         {
           "title": "Palestinians march south as Israel ethnically cleanses Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/17/palestinians-march-south-as-israel-ethnically-cleanses-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "‘Israel is committing genocide in Gaza’: Bernie Sanders",
-          "url": "https://www.aljazeera.com/news/2025/9/17/israel-is-committing-genocide-in-gaza-bernie-sanders?traffic_source=rss"
         }
       ],
       "chg1d": 0.002339051013588703,
@@ -95,39 +64,40 @@
       "chg1m": 0.058083480305702505
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.15,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "US Federal Reserve cuts interest rates for the first time since December",
-          "url": "https://www.aljazeera.com/economy/2025/9/17/us-federal-reserve-cuts-interest-rates-for-the-first-time-since-december?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0012424242424243183,
-      "chg5d": 0.010686742000275851,
-      "chg1m": 0.024685216850614016
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
+          "title": "Live: Israeli army applying ‘extreme pressure’ as Gaza toll passes 65,000",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/18/live-israeli-army-applying-extreme-pressure-as-gaza-toll-passes-65000?traffic_source=rss"
+        },
         {
-          "title": "US Federal Reserve cuts interest rates for the first time since December",
-          "url": "https://www.aljazeera.com/economy/2025/9/17/us-federal-reserve-cuts-interest-rates-for-the-first-time-since-december?traffic_source=rss"
+          "title": "Israeli strikes kill 19 Palestinians near Gaza’s last functioning hospitals",
+          "url": "https://www.aljazeera.com/news/2025/9/17/israel-strikes-kill-palestinians-near-gazas-last-functioning-hospitals?traffic_source=rss"
+        },
+        {
+          "title": "Leading Hamas official makes first comments since Israeli attack in Qatar",
+          "url": "https://www.aljazeera.com/news/2025/9/17/leading-hamas-official-makes-first-comments-since-israeli-attack-in-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Talks with Israel could lead to results ‘in days’, says Syria’s al-Sharaa",
+          "url": "https://www.aljazeera.com/news/2025/9/17/talks-with-israel-could-lead-to-result-in-days-says-syrias-al-sharaa?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians march south as Israel ethnically cleanses Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/17/palestinians-march-south-as-israel-ethnically-cleanses-gaza-city?traffic_source=rss"
         }
       ],
-      "chg1d": -0.001996007984031852,
-      "chg5d": 0.01601515412433262,
-      "chg1m": 0.02233542998735074
+      "chg1d": -0.002529937594872636,
+      "chg5d": 0.01994093172656132,
+      "chg1m": 0.07371096586782866
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -142,7 +112,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -155,49 +125,34 @@
       "chg1m": 0.047947008247060795
     },
     {
-      "symbol": "TSM",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.48,
-      "confianca": 13,
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "China bans tech firms from Nvidia chip purchases: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/17/china-bans-tech-firms-from-nvidia-chip-purchases-report?traffic_source=rss"
+          "title": "US Federal Reserve cuts interest rates for the first time since December",
+          "url": "https://www.aljazeera.com/economy/2025/9/17/us-federal-reserve-cuts-interest-rates-for-the-first-time-since-december?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002785621613371053,
-      "chg5d": 0.009023191522039713,
-      "chg1m": 0.08856302555817913
+      "chg1d": -0.001996007984031852,
+      "chg5d": 0.01601515412433262,
+      "chg1m": 0.02233542998735074
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.48,
-      "confianca": 13,
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "China bans tech firms from Nvidia chip purchases: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/17/china-bans-tech-firms-from-nvidia-chip-purchases-report?traffic_source=rss"
+          "title": "US Federal Reserve cuts interest rates for the first time since December",
+          "url": "https://www.aljazeera.com/economy/2025/9/17/us-federal-reserve-cuts-interest-rates-for-the-first-time-since-december?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007001206712051157,
-      "chg5d": 0.09976801069168116,
-      "chg1m": 0.16683833857267077
-    },
-    {
-      "symbol": "NVDA",
-      "acao": "observar",
-      "score": 0.48,
-      "confianca": 13,
-      "razoes": [
-        {
-          "title": "China bans tech firms from Nvidia chip purchases: Report",
-          "url": "https://www.aljazeera.com/economy/2025/9/17/china-bans-tech-firms-from-nvidia-chip-purchases-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.026246569075937805,
-      "chg5d": -0.03969999436079637,
-      "chg1m": -0.06439206636997967
+      "chg1d": -0.0012424242424243183,
+      "chg5d": 0.010686742000275851,
+      "chg1m": 0.024685216850614016
     }
   ]
 }
