@@ -1,43 +1,24 @@
 {
-  "generated_at": "2025-09-18T12:23:17.999702Z",
+  "generated_at": "2025-09-18T15:12:50.036359Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Western bids to recognise a Palestinian state put Israel first",
-          "url": "https://www.aljazeera.com/opinions/2025/9/18/western-bids-to-recognise-a-palestinian-state-put-israel-first?traffic_source=rss"
-        },
-        {
-          "title": "Israel is “drunk on Western impunity”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/18/israel-is-drunk-on-western?traffic_source=rss"
-        },
-        {
-          "title": "Aftermath of deadly Israeli strikes near Gaza hospitals",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/aftermath-of-deadly-israeli-strikes-near-gaza-hospitals?traffic_source=rss"
-        },
-        {
-          "title": "Video: Hamas official’s first public interview since Israeli attack in Doha",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/video-hamas-officials-first-public-interview-since-israeli-attack-in-doha?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel ground invasion traps hundreds of thousands in Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/18/live-israeli-army-applying-extreme-pressure-as-gaza-toll-passes-65000?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.002529937594872636,
-      "chg5d": 0.01994093172656132,
-      "chg1m": 0.07371096586782866
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.46,
+      "score": 3.47,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Attack at Jordan-West Bank crossing kills two Israelis",
+          "url": "https://www.aljazeera.com/news/2025/9/18/attack-at-jordan-west-bank-crossing-kills-two?traffic_source=rss"
+        },
+        {
+          "title": "Who can stop Israel’s genocide in Gaza?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/who-can-stop-israels-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "WHO warns hospitals ‘on the brink’ as Israel pushes Gaza City assault",
+          "url": "https://www.aljazeera.com/news/2025/9/18/who-warns-hospitals-on-the-brink-as-israel-pushes-gaza-city-assault?traffic_source=rss"
+        },
         {
           "title": "Western bids to recognise a Palestinian state put Israel first",
           "url": "https://www.aljazeera.com/opinions/2025/9/18/western-bids-to-recognise-a-palestinian-state-put-israel-first?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Israel is “drunk on Western impunity”",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/18/israel-is-drunk-on-western?traffic_source=rss"
-        },
-        {
-          "title": "Aftermath of deadly Israeli strikes near Gaza hospitals",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/aftermath-of-deadly-israeli-strikes-near-gaza-hospitals?traffic_source=rss"
-        },
-        {
-          "title": "Video: Hamas official’s first public interview since Israeli attack in Doha",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/video-hamas-officials-first-public-interview-since-israeli-attack-in-doha?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel ground invasion traps hundreds of thousands in Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/18/live-israeli-army-applying-extreme-pressure-as-gaza-toll-passes-65000?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.46,
+      "score": 3.47,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Attack at Jordan-West Bank crossing kills two Israelis",
+          "url": "https://www.aljazeera.com/news/2025/9/18/attack-at-jordan-west-bank-crossing-kills-two?traffic_source=rss"
+        },
+        {
+          "title": "Who can stop Israel’s genocide in Gaza?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/who-can-stop-israels-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "WHO warns hospitals ‘on the brink’ as Israel pushes Gaza City assault",
+          "url": "https://www.aljazeera.com/news/2025/9/18/who-warns-hospitals-on-the-brink-as-israel-pushes-gaza-city-assault?traffic_source=rss"
+        },
         {
           "title": "Western bids to recognise a Palestinian state put Israel first",
           "url": "https://www.aljazeera.com/opinions/2025/9/18/western-bids-to-recognise-a-palestinian-state-put-israel-first?traffic_source=rss"
@@ -76,83 +57,42 @@
         {
           "title": "Israel is “drunk on Western impunity”",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/18/israel-is-drunk-on-western?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0035559506611845004,
+      "chg5d": 0.006058566139347092,
+      "chg1m": 0.05394922425952049
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.47,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Attack at Jordan-West Bank crossing kills two Israelis",
+          "url": "https://www.aljazeera.com/news/2025/9/18/attack-at-jordan-west-bank-crossing-kills-two?traffic_source=rss"
         },
         {
-          "title": "Aftermath of deadly Israeli strikes near Gaza hospitals",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/aftermath-of-deadly-israeli-strikes-near-gaza-hospitals?traffic_source=rss"
+          "title": "Who can stop Israel’s genocide in Gaza?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/who-can-stop-israels-genocide-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Video: Hamas official’s first public interview since Israeli attack in Doha",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/video-hamas-officials-first-public-interview-since-israeli-attack-in-doha?traffic_source=rss"
+          "title": "WHO warns hospitals ‘on the brink’ as Israel pushes Gaza City assault",
+          "url": "https://www.aljazeera.com/news/2025/9/18/who-warns-hospitals-on-the-brink-as-israel-pushes-gaza-city-assault?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel ground invasion traps hundreds of thousands in Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/18/live-israeli-army-applying-extreme-pressure-as-gaza-toll-passes-65000?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002339051013588703,
-      "chg5d": 0.009875434855796157,
-      "chg1m": 0.058083480305702505
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
+          "title": "Western bids to recognise a Palestinian state put Israel first",
+          "url": "https://www.aljazeera.com/opinions/2025/9/18/western-bids-to-recognise-a-palestinian-state-put-israel-first?traffic_source=rss"
+        },
         {
-          "title": "Fed rate cuts: Saving American jobs or stoking inflation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/18/fed-rate-cuts-saving-american-jobs-or-stoking-inflation?traffic_source=rss"
+          "title": "Israel is “drunk on Western impunity”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/18/israel-is-drunk-on-western?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002560013429578585,
-      "chg5d": 0.010404770968151162,
-      "chg1m": 0.047947008247060795
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Fed rate cuts: Saving American jobs or stoking inflation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/18/fed-rate-cuts-saving-american-jobs-or-stoking-inflation?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.001996007984031852,
-      "chg5d": 0.01601515412433262,
-      "chg1m": 0.02233542998735074
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Fed rate cuts: Saving American jobs or stoking inflation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/18/fed-rate-cuts-saving-american-jobs-or-stoking-inflation?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0012424242424243183,
-      "chg5d": 0.010686742000275851,
-      "chg1m": 0.024685216850614016
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Fed rate cuts: Saving American jobs or stoking inflation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/18/fed-rate-cuts-saving-american-jobs-or-stoking-inflation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.0058758877240447024,
+      "chg5d": -0.0008285004142502989,
+      "chg1m": 0.0662888233960552
     }
   ]
 }
