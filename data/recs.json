@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-19T12:24:11.269250Z",
+  "generated_at": "2025-09-19T15:12:16.109762Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.05,
-      "confianca": 87,
+      "score": 3.17,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
+        },
         {
           "title": "Iran hits out ahead of UN vote on nuclear sanctions",
           "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
@@ -18,10 +22,60 @@
         {
           "title": "LIVE: Israel kills more than 20 Palestinians as war on Gaza escalates",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/19/live-gaza-war-escalates-as-israel-defies-global-condemnation?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.003789958194333043,
+      "chg5d": 0.0010926990727970684,
+      "chg1m": 0.057903587443946164
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.17,
+      "confianca": 90,
+      "razoes": [
+        {
+          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
         },
         {
-          "title": "Panic in Gaza City as Israel advances on centre, ‘sandwiching’ population",
-          "url": "https://www.aljazeera.com/news/2025/9/18/panic-in-gaza-city-as-israel-advances-on-centre-sandwiching-population?traffic_source=rss"
+          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills more than 20 Palestinians as war on Gaza escalates",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/19/live-gaza-war-escalates-as-israel-defies-global-condemnation?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.012150261955188823,
+      "chg5d": 0.00022573363431162792,
+      "chg1m": 0.03298752768387922
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.17,
+      "confianca": 90,
+      "razoes": [
+        {
+          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
+        },
+        {
+          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills more than 20 Palestinians as war on Gaza escalates",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/19/live-gaza-war-escalates-as-israel-defies-global-condemnation?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,65 +83,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "SOXX",
       "acao": "comprar",
-      "score": 3.05,
-      "confianca": 87,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
-          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
+          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
         },
-        {
-          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills more than 20 Palestinians as war on Gaza escalates",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/19/live-gaza-war-escalates-as-israel-defies-global-condemnation?traffic_source=rss"
-        },
-        {
-          "title": "Panic in Gaza City as Israel advances on centre, ‘sandwiching’ population",
-          "url": "https://www.aljazeera.com/news/2025/9/18/panic-in-gaza-city-as-israel-advances-on-centre-sandwiching-population?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003111456828536517,
-      "chg5d": 0.0065073488163356705,
-      "chg1m": 0.05441937000470141
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.05,
-      "confianca": 87,
-      "razoes": [
-        {
-          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills more than 20 Palestinians as war on Gaza escalates",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/19/live-gaza-war-escalates-as-israel-defies-global-condemnation?traffic_source=rss"
-        },
-        {
-          "title": "Panic in Gaza City as Israel advances on centre, ‘sandwiching’ population",
-          "url": "https://www.aljazeera.com/news/2025/9/18/panic-in-gaza-city-as-israel-advances-on-centre-sandwiching-population?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0010568143388569495,
-      "chg5d": 0.00613940050559766,
-      "chg1m": 0.07372477896168665
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
         {
           "title": "Iran hits out ahead of UN vote on nuclear sanctions",
           "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
@@ -97,16 +101,20 @@
           "url": "https://www.aljazeera.com/news/2025/9/19/canada-mexico-to-work-together-in-face-of-trumps-us-tariff-threats?traffic_source=rss"
         }
       ],
-      "chg1d": 0.06366148096346312,
-      "chg5d": 0.15375049741345004,
-      "chg1m": 0.24769704549427782
+      "chg1d": -0.011025152296595241,
+      "chg5d": 0.03512752307933038,
+      "chg1m": 0.08566505292524819
     },
     {
       "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
+        {
+          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
+        },
         {
           "title": "Iran hits out ahead of UN vote on nuclear sanctions",
           "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
@@ -116,16 +124,20 @@
           "url": "https://www.aljazeera.com/news/2025/9/19/canada-mexico-to-work-together-in-face-of-trumps-us-tariff-threats?traffic_source=rss"
         }
       ],
-      "chg1d": 0.022261121047223886,
-      "chg5d": 0.03758062647251926,
-      "chg1m": 0.15444778685002147
+      "chg1d": -0.018426146515783164,
+      "chg5d": 0.016812555431303798,
+      "chg1m": 0.1534995625546807
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
+        {
+          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
+        },
         {
           "title": "Iran hits out ahead of UN vote on nuclear sanctions",
           "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
@@ -135,9 +147,9 @@
           "url": "https://www.aljazeera.com/news/2025/9/19/canada-mexico-to-work-together-in-face-of-trumps-us-tariff-threats?traffic_source=rss"
         }
       ],
-      "chg1d": 0.034966928402893366,
-      "chg5d": 0.04851287276147183,
-      "chg1m": 0.09145421170711804
+      "chg1d": 0.00476395774951506,
+      "chg5d": 0.145416344133584,
+      "chg1m": 0.24380578793579635
     }
   ]
 }
