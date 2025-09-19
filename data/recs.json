@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-09-19T00:57:06.399958Z",
+  "generated_at": "2025-09-19T03:28:49.170705Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.13,
+      "score": 4.36,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +35,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.4,
+      "score": 4.36,
       "confianca": 95,
       "razoes": [
         {
@@ -59,14 +59,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/palestinians-turn-to-the-sea-to-flee-israels-bombardment?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0033337037448605087,
-      "chg5d": 0.0062829574778413815,
-      "chg1m": 0.054184297132110947
+      "chg1d": -0.003111456828536517,
+      "chg5d": 0.0065073488163356705,
+      "chg1m": 0.05441937000470141
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.4,
+      "score": 4.36,
       "confianca": 95,
       "razoes": [
         {
@@ -96,54 +96,8 @@
     },
     {
       "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "France’s Macron says Europe likely to reimpose sanctions on Iran soon",
-          "url": "https://www.aljazeera.com/news/2025/9/18/frances-macron-says-europe-likely-to-reimpose-sanctions-on-iran-soon?traffic_source=rss"
-        },
-        {
-          "title": "Nvidia to become one of Intel’s biggest shareholders with new investment",
-          "url": "https://www.aljazeera.com/economy/2025/9/18/nvidia-to-become-one-of-intels-biggest-shareholders-with-new-investment?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.022261121047223886,
-      "chg5d": 0.03758062647251926,
-      "chg1m": 0.15444778685002147
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "France’s Macron says Europe likely to reimpose sanctions on Iran soon",
-          "url": "https://www.aljazeera.com/news/2025/9/18/frances-macron-says-europe-likely-to-reimpose-sanctions-on-iran-soon?traffic_source=rss"
-        },
-        {
-          "title": "Nvidia to become one of Intel’s biggest shareholders with new investment",
-          "url": "https://www.aljazeera.com/economy/2025/9/18/nvidia-to-become-one-of-intels-biggest-shareholders-with-new-investment?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.06371880266431271,
-      "chg5d": 0.15381267409470759,
-      "chg1m": 0.24776428504189024
-    },
-    {
-      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.7,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -155,9 +109,62 @@
           "url": "https://www.aljazeera.com/news/2025/9/18/frances-macron-says-europe-likely-to-reimpose-sanctions-on-iran-soon?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03512164932503014,
-      "chg5d": 0.04866961871546697,
-      "chg1m": 0.09161737711605143
+      "chg1d": 0.022261121047223886,
+      "chg5d": 0.03758062647251926,
+      "chg1m": 0.15444778685002147
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "France’s Macron says Europe likely to reimpose sanctions on Iran soon",
+          "url": "https://www.aljazeera.com/news/2025/9/18/frances-macron-says-europe-likely-to-reimpose-sanctions-on-iran-soon?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.06366148096346312,
+      "chg5d": 0.15375049741345004,
+      "chg1m": 0.24769704549427782
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "France’s Macron says Europe likely to reimpose sanctions on Iran soon",
+          "url": "https://www.aljazeera.com/news/2025/9/18/frances-macron-says-europe-likely-to-reimpose-sanctions-on-iran-soon?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.034966928402893366,
+      "chg5d": 0.04851287276147183,
+      "chg1m": 0.09145421170711804
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump asks Supreme Court to let him fire Fed governor Cook",
+          "url": "https://www.aljazeera.com/economy/2025/9/18/trump-asks-supreme-court-to-let-him-fire-fed-governor-cook?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.024906860898321476,
+      "chg5d": 0.01677740863787372,
+      "chg1m": 0.08235710180805444
     },
     {
       "symbol": "QQQ",
@@ -170,9 +177,9 @@
           "url": "https://www.aljazeera.com/economy/2025/9/18/trump-asks-supreme-court-to-let-him-fire-fed-governor-cook?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009101694915254244,
-      "chg5d": 0.019329543898096088,
-      "chg1m": 0.04582982012366504
+      "chg1d": 0.009016949152542458,
+      "chg5d": 0.019243939186412835,
+      "chg1m": 0.045741989881956296
     },
     {
       "symbol": "EUROSTOXX50",
@@ -203,21 +210,6 @@
       "chg1d": 0.004672471858976367,
       "chg5d": 0.0070404330702674685,
       "chg1m": 0.035088541910879865
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump asks Supreme Court to let him fire Fed governor Cook",
-          "url": "https://www.aljazeera.com/economy/2025/9/18/trump-asks-supreme-court-to-let-him-fire-fed-governor-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.024948721168738783,
-      "chg5d": 0.01681893687707634,
-      "chg1m": 0.08240130851863306
     }
   ]
 }
