@@ -1,115 +1,69 @@
 {
-  "generated_at": "2025-09-19T18:16:55.740918Z",
+  "generated_at": "2025-09-19T21:10:31.034798Z",
   "recs": [
-    {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss"
-        },
-        {
-          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
-        },
-        {
-          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0078110401016555486,
-      "chg5d": 0.038491628853074764,
-      "chg1m": 0.08919340280626901
-    },
-    {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss"
-        },
-        {
-          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
-        },
-        {
-          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012507444907683195,
-      "chg5d": 0.022943739636756215,
-      "chg1m": 0.1604549431321084
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss"
-        },
-        {
-          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
-        },
-        {
-          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008989006251347308,
-      "chg5d": 0.1502328381682578,
-      "chg1m": 0.24903601115425153
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "score": 2.33,
+      "confianca": 66,
       "razoes": [
+        {
+          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
+          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
+        },
         {
           "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
           "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
-        },
-        {
-          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014937019284360599,
-      "chg5d": -0.0025959367945822777,
-      "chg1m": 0.03007343513229978
+      "chg1d": -0.013264964886857628,
+      "chg5d": -0.0009029345372460305,
+      "chg1m": 0.031821890663247344
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.33,
+      "confianca": 66,
+      "razoes": [
+        {
+          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
+          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
+        },
+        {
+          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0014357501794687868,
+      "chg5d": 0.0034584456090471145,
+      "chg1m": 0.06040358744394618
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "score": 2.33,
+      "confianca": 66,
       "razoes": [
+        {
+          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
+          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
+        },
         {
           "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
           "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
-        },
-        {
-          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -117,27 +71,121 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
+          "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss"
+        },
         {
           "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
           "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
-        },
-        {
-          "title": "Iran hits out ahead of UN vote on nuclear sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/19/iran-hits-out-ahead-of-un-vote-on-nuclear-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
         }
       ],
-      "chg1d": 8.4455892909971e-05,
-      "chg5d": 0.004986102565190687,
-      "chg1m": 0.062017937219731
+      "chg1d": -0.014033650982727746,
+      "chg5d": 0.021362742451702544,
+      "chg1m": 0.1586614173228347
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
+          "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss"
+        },
+        {
+          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006316104197032544,
+      "chg5d": 0.04005632921295576,
+      "chg1m": 0.09083449577418555
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
+          "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss"
+        },
+        {
+          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00468851045483943,
+      "chg5d": 0.14533033531153622,
+      "chg1m": 0.2437123910926096
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
+          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007760169906877984,
+      "chg5d": 0.019300159436099664,
+      "chg1m": 0.07776939798589239
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
+          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
+          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002053574124966046,
+      "chg5d": 0.009446159930636949,
+      "chg1m": 0.03997743335788499
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
+          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006769468521131446,
+      "chg5d": 0.02163092762417764,
+      "chg1m": 0.059109383283265676
     }
   ]
 }
