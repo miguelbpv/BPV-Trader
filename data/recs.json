@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-09-19T06:19:03.088705Z",
+  "generated_at": "2025-09-19T09:13:59.000423Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.81,
-      "confianca": 51,
+      "acao": "comprar",
+      "score": 3.05,
+      "confianca": 87,
       "razoes": [
+        {
+          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel defies global condemnation, war on Gaza escalates",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/19/live-gaza-war-escalates-as-israel-defies-global-condemnation?traffic_source=rss"
+        },
         {
           "title": "Panic in Gaza City as Israel advances on centre, ‘sandwiching’ population",
           "url": "https://www.aljazeera.com/news/2025/9/18/panic-in-gaza-city-as-israel-advances-on-centre-sandwiching-population?traffic_source=rss"
@@ -14,10 +22,6 @@
         {
           "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches series of air strikes in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/israel-launches-series-of-airstrikes-in-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": -0.003111456828536517,
@@ -25,34 +29,19 @@
       "chg1m": 0.05441937000470141
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.81,
-      "confianca": 51,
-      "razoes": [
-        {
-          "title": "Panic in Gaza City as Israel advances on centre, ‘sandwiching’ population",
-          "url": "https://www.aljazeera.com/news/2025/9/18/panic-in-gaza-city-as-israel-advances-on-centre-sandwiching-population?traffic_source=rss"
-        },
-        {
-          "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches series of air strikes in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/israel-launches-series-of-airstrikes-in-southern-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0010568143388569495,
-      "chg5d": 0.00613940050559766,
-      "chg1m": 0.07372477896168665
-    },
-    {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.81,
-      "confianca": 51,
+      "acao": "comprar",
+      "score": 3.05,
+      "confianca": 87,
       "razoes": [
+        {
+          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel defies global condemnation, war on Gaza escalates",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/19/live-gaza-war-escalates-as-israel-defies-global-condemnation?traffic_source=rss"
+        },
         {
           "title": "Panic in Gaza City as Israel advances on centre, ‘sandwiching’ population",
           "url": "https://www.aljazeera.com/news/2025/9/18/panic-in-gaza-city-as-israel-advances-on-centre-sandwiching-population?traffic_source=rss"
@@ -60,10 +49,6 @@
         {
           "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches series of air strikes in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/israel-launches-series-of-airstrikes-in-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -71,9 +56,55 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.05,
+      "confianca": 87,
+      "razoes": [
+        {
+          "title": "Houthi drone crashes into hotel in Israel’s Eilat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/houthi-drone-crashes-into-hotel-in-israels-eilat?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel defies global condemnation, war on Gaza escalates",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/19/live-gaza-war-escalates-as-israel-defies-global-condemnation?traffic_source=rss"
+        },
+        {
+          "title": "Panic in Gaza City as Israel advances on centre, ‘sandwiching’ population",
+          "url": "https://www.aljazeera.com/news/2025/9/18/panic-in-gaza-city-as-israel-advances-on-centre-sandwiching-population?traffic_source=rss"
+        },
+        {
+          "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0010568143388569495,
+      "chg5d": 0.00613940050559766,
+      "chg1m": 0.07372477896168665
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Canada, Mexico to work together in face of Trump’s US tariff threats",
+          "url": "https://www.aljazeera.com/news/2025/9/19/canada-mexico-to-work-together-in-face-of-trumps-us-tariff-threats?traffic_source=rss"
+        },
+        {
+          "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.06366148096346312,
+      "chg5d": 0.15375049741345004,
+      "chg1m": 0.24769704549427782
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.7,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -92,7 +123,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.7,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -107,85 +138,6 @@
       "chg1d": 0.034966928402893366,
       "chg5d": 0.04851287276147183,
       "chg1m": 0.09145421170711804
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Canada, Mexico to work together in face of Trump’s US tariff threats",
-          "url": "https://www.aljazeera.com/news/2025/9/19/canada-mexico-to-work-together-in-face-of-trumps-us-tariff-threats?traffic_source=rss"
-        },
-        {
-          "title": "Can EU sanctions force Israel to stop its genocide in Gaza?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/18/can-eu-sanctions-force-israel-to-stop-its-genocide-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.06366148096346312,
-      "chg5d": 0.15375049741345004,
-      "chg1m": 0.24769704549427782
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump asks Supreme Court to let him fire Fed governor Cook",
-          "url": "https://www.aljazeera.com/economy/2025/9/18/trump-asks-supreme-court-to-let-him-fire-fed-governor-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004672471858976367,
-      "chg5d": 0.0070404330702674685,
-      "chg1m": 0.035088541910879865
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump asks Supreme Court to let him fire Fed governor Cook",
-          "url": "https://www.aljazeera.com/economy/2025/9/18/trump-asks-supreme-court-to-let-him-fire-fed-governor-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009016949152542458,
-      "chg5d": 0.019243939186412835,
-      "chg1m": 0.045741989881956296
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump asks Supreme Court to let him fire Fed governor Cook",
-          "url": "https://www.aljazeera.com/economy/2025/9/18/trump-asks-supreme-court-to-let-him-fire-fed-governor-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.024906860898321476,
-      "chg5d": 0.01677740863787372,
-      "chg1m": 0.08235710180805444
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump asks Supreme Court to let him fire Fed governor Cook",
-          "url": "https://www.aljazeera.com/economy/2025/9/18/trump-asks-supreme-court-to-let-him-fire-fed-governor-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
