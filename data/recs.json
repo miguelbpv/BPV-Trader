@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-20T06:16:31.984311Z",
+  "generated_at": "2025-09-20T09:11:28.945892Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.43,
-      "confianca": 69,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
         {
           "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
@@ -18,10 +18,29 @@
         {
           "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss"
         },
         {
-          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
+          "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
+          "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
         }
       ],
       "chg1d": -0.013264964886857628,
@@ -30,9 +49,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.43,
-      "confianca": 69,
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
         {
           "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
@@ -45,102 +64,11 @@
         {
           "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
         }
       ],
       "chg1d": -0.0014357501794687868,
       "chg5d": 0.0034584456090471145,
       "chg1m": 0.06040358744394618
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.43,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss"
-        },
-        {
-          "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
-          "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
-          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.007596797908838481,
-      "chg5d": 0.01946798690945702,
-      "chg1m": 0.07794685240228913
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
-          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
-          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006769468521131446,
-      "chg5d": 0.02163092762417764,
-      "chg1m": 0.059109383283265676
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
-          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002174372602905286,
-      "chg5d": 0.009567849591579193,
-      "chg1m": 0.04010280359185725
     }
   ]
 }
