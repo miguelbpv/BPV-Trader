@@ -1,68 +1,14 @@
 {
-  "generated_at": "2025-09-20T00:53:59.472790Z",
+  "generated_at": "2025-09-20T03:22:16.064333Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "Palestinians flee as Israel strikes Gaza City with ‘unprecedented force’",
-          "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
-        },
-        {
-          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "Palestinians flee as Israel strikes Gaza City with ‘unprecedented force’",
-          "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
-        },
-        {
-          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0014357501794687868,
-      "chg5d": 0.0034584456090471145,
-      "chg1m": 0.06040358744394618
-    },
-    {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Palestinians flee as Israel strikes Gaza City with ‘unprecedented force’",
+          "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
           "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
         },
         {
@@ -72,10 +18,6 @@
         {
           "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
           "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
-        },
-        {
-          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
         }
       ],
       "chg1d": -0.013264964886857628,
@@ -83,66 +25,55 @@
       "chg1m": 0.031821890663247344
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss"
+          "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
+          "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
         },
         {
-          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
+          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
+          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00468851045483943,
-      "chg5d": 0.14533033531153622,
-      "chg1m": 0.2437123910926096
+      "chg1d": -0.0014357501794687868,
+      "chg5d": 0.0034584456090471145,
+      "chg1m": 0.06040358744394618
     },
     {
-      "symbol": "TSM",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss"
+          "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
+          "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
         },
         {
-          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.014033650982727746,
-      "chg5d": 0.021362742451702544,
-      "chg1m": 0.1586614173228347
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss"
+          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
         },
         {
-          "title": "UN Security Council rejects resolution to extend Iran sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/9/19/un-security-council-rejects-resolution-to-extend-iran-sanctions-relief?traffic_source=rss"
+          "title": "Hezbollah chief urges Saudi Arabia to unite against Israeli aggression",
+          "url": "https://www.aljazeera.com/news/2025/9/19/hezbollah-chief-urges-saudi-arabia-to-unite-against-israeli-aggression?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006316104197032544,
-      "chg5d": 0.04005632921295576,
-      "chg1m": 0.09083449577418555
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -155,24 +86,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
-          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.007760169906877984,
-      "chg5d": 0.019300159436099664,
-      "chg1m": 0.07776939798589239
-    },
-    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -185,9 +101,9 @@
       "chg1m": 0.059109383283265676
     },
     {
-      "symbol": "SPY",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -195,9 +111,24 @@
           "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002053574124966046,
-      "chg5d": 0.009446159930636949,
-      "chg1m": 0.03997743335788499
+      "chg1d": -0.007596797908838481,
+      "chg5d": 0.01946798690945702,
+      "chg1m": 0.07794685240228913
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
+          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002174372602905286,
+      "chg5d": 0.009567849591579193,
+      "chg1m": 0.04010280359185725
     }
   ]
 }
