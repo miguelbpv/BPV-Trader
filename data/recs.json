@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-20T03:22:16.064333Z",
+  "generated_at": "2025-09-20T06:16:31.984311Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "acao": "comprar",
+      "score": 2.43,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss"
+        },
         {
           "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
           "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
@@ -26,10 +30,14 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "acao": "comprar",
+      "score": 2.43,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss"
+        },
         {
           "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
           "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
@@ -49,10 +57,14 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "acao": "comprar",
+      "score": 2.43,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss"
+        },
         {
           "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
           "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
@@ -71,9 +83,24 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.71,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
+          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007596797908838481,
+      "chg5d": 0.01946798690945702,
+      "chg1m": 0.07794685240228913
+    },
+    {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -88,7 +115,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -101,24 +128,9 @@
       "chg1m": 0.059109383283265676
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
-          "url": "https://www.aljazeera.com/news/2025/9/19/federal-judge-tosses-trumps-15b-defamation-lawsuit-against-new-york-times?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.007596797908838481,
-      "chg5d": 0.01946798690945702,
-      "chg1m": 0.07794685240228913
-    },
-    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
