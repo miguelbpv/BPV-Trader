@@ -1,35 +1,16 @@
 {
-  "generated_at": "2025-09-20T09:11:28.945892Z",
+  "generated_at": "2025-09-20T12:21:27.150530Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss"
-        },
-        {
-          "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
-          "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.69,
+      "score": 1.7,
       "confianca": 48,
       "razoes": [
+        {
+          "title": "Jameela waits for her son’s body, taken by Israel, so she can bury him",
+          "url": "https://www.aljazeera.com/features/2025/9/20/mother-waits-for-her-sons-body-taken-by-israe-so-she-can-bury-him?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss"
@@ -37,10 +18,6 @@
         {
           "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
           "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
         }
       ],
       "chg1d": -0.013264964886857628,
@@ -50,9 +27,13 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.69,
+      "score": 1.7,
       "confianca": 48,
       "razoes": [
+        {
+          "title": "Jameela waits for her son’s body, taken by Israel, so she can bury him",
+          "url": "https://www.aljazeera.com/features/2025/9/20/mother-waits-for-her-sons-body-taken-by-israe-so-she-can-bury-him?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss"
@@ -60,15 +41,34 @@
         {
           "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
           "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss"
         }
       ],
       "chg1d": -0.0014357501794687868,
       "chg5d": 0.0034584456090471145,
       "chg1m": 0.06040358744394618
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Jameela waits for her son’s body, taken by Israel, so she can bury him",
+          "url": "https://www.aljazeera.com/features/2025/9/20/mother-waits-for-her-sons-body-taken-by-israe-so-she-can-bury-him?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel ramps up Gaza City assault, kills children in strike on school",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss"
+        },
+        {
+          "title": "Israel strikes Gaza City with ‘unprecedented force’, tens of thousands flee",
+          "url": "https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
