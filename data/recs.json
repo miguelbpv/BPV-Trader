@@ -1,39 +1,20 @@
 {
-  "generated_at": "2025-09-21T03:34:22.911324Z",
+  "generated_at": "2025-09-21T06:17:07.407075Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.66,
-      "confianca": 76,
-      "razoes": [
-        {
-          "title": "Israeli forces kill 91 in Gaza, including civilians fleeing Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/9/20/israeli-bombing-kills-over-90-palestinians-as-gaza-city-faces-destruction?traffic_source=rss"
-        },
-        {
-          "title": "Brazil joins South Africa’s ‘genocide’ case against Israel at ICJ",
-          "url": "https://www.aljazeera.com/news/2025/9/20/brazil-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air strike kills at least 4 children at Gaza City school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/20/israeli-air-strike-kills-at-least-4-children-at-gaza-city-school?traffic_source=rss"
-        },
-        {
-          "title": "Hamas posts ‘farewell picture’ of 48 captives as Israel destroys Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/9/20/hamas-posts-farewell-picture-of-48-captives-as-israel-destroys-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0014357501794687868,
-      "chg5d": 0.0034584456090471145,
-      "chg1m": 0.06040358744394618
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.66,
-      "confianca": 76,
+      "score": 3.42,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Is Turkiye Israel’s next target in the Middle East?",
+          "url": "https://www.aljazeera.com/features/2025/9/21/is-turkiye-israel-next-target-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Iran says it will suspend cooperation with UN’s nuclear watchdog",
+          "url": "https://www.aljazeera.com/news/2025/9/21/iran-says-e3-move-to-trigger-sanctions-will-halt-cooperation-with-iaea?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill 91 in Gaza, including civilians fleeing Gaza City",
           "url": "https://www.aljazeera.com/news/2025/9/20/israeli-bombing-kills-over-90-palestinians-as-gaza-city-faces-destruction?traffic_source=rss"
@@ -45,10 +26,6 @@
         {
           "title": "Israeli air strike kills at least 4 children at Gaza City school",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/20/israeli-air-strike-kills-at-least-4-children-at-gaza-city-school?traffic_source=rss"
-        },
-        {
-          "title": "Hamas posts ‘farewell picture’ of 48 captives as Israel destroys Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/9/20/hamas-posts-farewell-picture-of-48-captives-as-israel-destroys-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": -0.013264964886857628,
@@ -56,11 +33,19 @@
       "chg1m": 0.031821890663247344
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.66,
-      "confianca": 76,
+      "score": 3.42,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Is Turkiye Israel’s next target in the Middle East?",
+          "url": "https://www.aljazeera.com/features/2025/9/21/is-turkiye-israel-next-target-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Iran says it will suspend cooperation with UN’s nuclear watchdog",
+          "url": "https://www.aljazeera.com/news/2025/9/21/iran-says-e3-move-to-trigger-sanctions-will-halt-cooperation-with-iaea?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill 91 in Gaza, including civilians fleeing Gaza City",
           "url": "https://www.aljazeera.com/news/2025/9/20/israeli-bombing-kills-over-90-palestinians-as-gaza-city-faces-destruction?traffic_source=rss"
@@ -72,10 +57,37 @@
         {
           "title": "Israeli air strike kills at least 4 children at Gaza City school",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/20/israeli-air-strike-kills-at-least-4-children-at-gaza-city-school?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0014357501794687868,
+      "chg5d": 0.0034584456090471145,
+      "chg1m": 0.06040358744394618
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.42,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Is Turkiye Israel’s next target in the Middle East?",
+          "url": "https://www.aljazeera.com/features/2025/9/21/is-turkiye-israel-next-target-middle-east?traffic_source=rss"
         },
         {
-          "title": "Hamas posts ‘farewell picture’ of 48 captives as Israel destroys Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/9/20/hamas-posts-farewell-picture-of-48-captives-as-israel-destroys-gaza-city?traffic_source=rss"
+          "title": "Iran says it will suspend cooperation with UN’s nuclear watchdog",
+          "url": "https://www.aljazeera.com/news/2025/9/21/iran-says-e3-move-to-trigger-sanctions-will-halt-cooperation-with-iaea?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill 91 in Gaza, including civilians fleeing Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/9/20/israeli-bombing-kills-over-90-palestinians-as-gaza-city-faces-destruction?traffic_source=rss"
+        },
+        {
+          "title": "Brazil joins South Africa’s ‘genocide’ case against Israel at ICJ",
+          "url": "https://www.aljazeera.com/news/2025/9/20/brazil-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
+        },
+        {
+          "title": "Israeli air strike kills at least 4 children at Gaza City school",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/20/israeli-air-strike-kills-at-least-4-children-at-gaza-city-school?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
