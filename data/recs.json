@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-21T15:10:28.296377Z",
+  "generated_at": "2025-09-21T18:15:27.053095Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Israeli attack kills at least 25 from the same family in Gaza City homes",
@@ -25,33 +25,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
-      "razoes": [
-        {
-          "title": "Israeli attack kills at least 25 from the same family in Gaza City homes",
-          "url": "https://www.aljazeera.com/news/2025/9/21/israeli-attack-kills-at-least-25-from-the-same-family-in-gaza-city-homes?traffic_source=rss"
-        },
-        {
-          "title": "Israel unleashes horror in relentless attacks on Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/21/israel-unleashes-horror-in-relentless-attacks-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Doctors won’t abandon patients at al-Shifa as Israel destroys Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/9/21/doctors-wont-abandon-patients-at-al-shifa-as-israel-destroys-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013264964886857628,
-      "chg5d": -0.0009029345372460305,
-      "chg1m": 0.031821890663247344
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Israeli attack kills at least 25 from the same family in Gaza City homes",
@@ -69,6 +46,29 @@
       "chg1d": -0.0014357501794687868,
       "chg5d": 0.0034584456090471145,
       "chg1m": 0.06040358744394618
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Israeli attack kills at least 25 from the same family in Gaza City homes",
+          "url": "https://www.aljazeera.com/news/2025/9/21/israeli-attack-kills-at-least-25-from-the-same-family-in-gaza-city-homes?traffic_source=rss"
+        },
+        {
+          "title": "Israel unleashes horror in relentless attacks on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/21/israel-unleashes-horror-in-relentless-attacks-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Doctors won’t abandon patients at al-Shifa as Israel destroys Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/9/21/doctors-wont-abandon-patients-at-al-shifa-as-israel-destroys-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013264964886857628,
+      "chg5d": -0.0009029345372460305,
+      "chg1m": 0.031821890663247344
     }
   ]
 }
