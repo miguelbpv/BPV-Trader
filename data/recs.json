@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-20T21:09:30.309206Z",
+  "generated_at": "2025-09-21T01:00:58.499880Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.69,
+      "score": 2.68,
       "confianca": 76,
       "razoes": [
+        {
+          "title": "Israeli bombing kills over 90 Palestinians as Gaza City faces destruction",
+          "url": "https://www.aljazeera.com/news/2025/9/20/israeli-bombing-kills-over-90-palestinians-as-gaza-city-faces-destruction?traffic_source=rss"
+        },
         {
           "title": "Brazil joins South Africa’s ‘genocide’ case against Israel at ICJ",
           "url": "https://www.aljazeera.com/news/2025/9/20/brazil-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
@@ -18,22 +22,22 @@
         {
           "title": "Hamas posts ‘farewell picture’ of 48 captives as Israel destroys Gaza City",
           "url": "https://www.aljazeera.com/news/2025/9/20/hamas-posts-farewell-picture-of-48-captives-as-israel-destroys-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel shot her son and took his body. She can’t bury him or mourn",
-          "url": "https://www.aljazeera.com/features/2025/9/20/mother-waits-for-her-sons-body-taken-by-israe-so-she-can-bury-him?traffic_source=rss"
         }
       ],
-      "chg1d": -0.013264964886857628,
-      "chg5d": -0.0009029345372460305,
-      "chg1m": 0.031821890663247344
+      "chg1d": -0.0014357501794687868,
+      "chg5d": 0.0034584456090471145,
+      "chg1m": 0.06040358744394618
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.69,
+      "score": 2.68,
       "confianca": 76,
       "razoes": [
+        {
+          "title": "Israeli bombing kills over 90 Palestinians as Gaza City faces destruction",
+          "url": "https://www.aljazeera.com/news/2025/9/20/israeli-bombing-kills-over-90-palestinians-as-gaza-city-faces-destruction?traffic_source=rss"
+        },
         {
           "title": "Brazil joins South Africa’s ‘genocide’ case against Israel at ICJ",
           "url": "https://www.aljazeera.com/news/2025/9/20/brazil-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
@@ -45,10 +49,6 @@
         {
           "title": "Hamas posts ‘farewell picture’ of 48 captives as Israel destroys Gaza City",
           "url": "https://www.aljazeera.com/news/2025/9/20/hamas-posts-farewell-picture-of-48-captives-as-israel-destroys-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel shot her son and took his body. She can’t bury him or mourn",
-          "url": "https://www.aljazeera.com/features/2025/9/20/mother-waits-for-her-sons-body-taken-by-israe-so-she-can-bury-him?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,11 +56,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.69,
+      "score": 2.68,
       "confianca": 76,
       "razoes": [
+        {
+          "title": "Israeli bombing kills over 90 Palestinians as Gaza City faces destruction",
+          "url": "https://www.aljazeera.com/news/2025/9/20/israeli-bombing-kills-over-90-palestinians-as-gaza-city-faces-destruction?traffic_source=rss"
+        },
         {
           "title": "Brazil joins South Africa’s ‘genocide’ case against Israel at ICJ",
           "url": "https://www.aljazeera.com/news/2025/9/20/brazil-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
@@ -72,15 +76,11 @@
         {
           "title": "Hamas posts ‘farewell picture’ of 48 captives as Israel destroys Gaza City",
           "url": "https://www.aljazeera.com/news/2025/9/20/hamas-posts-farewell-picture-of-48-captives-as-israel-destroys-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Israel shot her son and took his body. She can’t bury him or mourn",
-          "url": "https://www.aljazeera.com/features/2025/9/20/mother-waits-for-her-sons-body-taken-by-israe-so-she-can-bury-him?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0014357501794687868,
-      "chg5d": 0.0034584456090471145,
-      "chg1m": 0.06040358744394618
+      "chg1d": -0.013264964886857628,
+      "chg5d": -0.0009029345372460305,
+      "chg1m": 0.031821890663247344
     }
   ]
 }
