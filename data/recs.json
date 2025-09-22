@@ -1,39 +1,16 @@
 {
-  "generated_at": "2025-09-22T09:15:25.216900Z",
+  "generated_at": "2025-09-22T12:24:30.434077Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
-      "razoes": [
-        {
-          "title": "Israel-Palestine two-state solution summit to be held as recognitions surge",
-          "url": "https://www.aljazeera.com/news/2025/9/22/israel-palestine-two-state-solution-summit-to-be-held-as-recognitions-surge?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel keeps pummeling Gaza as support grows for Palestinian state",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/22/live-israel-keeps-pummeling-gaza-as-support-grows-for-palestinian-state?traffic_source=rss"
-        },
-        {
-          "title": "Israel bristles as UK leads Western recognition of Palestine",
-          "url": "https://www.aljazeera.com/features/2025/9/21/israel-bristles-as-uk-leads-western-recognition-of-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Children among 5 killed in Israeli drone ‘massacre’ in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/9/21/us-children-among-five-killed-in-israeli-drone-strike-on-southern-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013264964886857628,
-      "chg5d": -0.0009029345372460305,
-      "chg1m": 0.031821890663247344
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Dua Lipa fires agent over his purported support for Israel’s war in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/22/dua-lipa-fires-agent-over-his-purported-support-for-israels-war-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Israel-Palestine two-state solution summit to be held as recognitions surge",
           "url": "https://www.aljazeera.com/news/2025/9/22/israel-palestine-two-state-solution-summit-to-be-held-as-recognitions-surge?traffic_source=rss"
@@ -45,10 +22,6 @@
         {
           "title": "Israel bristles as UK leads Western recognition of Palestine",
           "url": "https://www.aljazeera.com/features/2025/9/21/israel-bristles-as-uk-leads-western-recognition-of-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Children among 5 killed in Israeli drone ‘massacre’ in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/9/21/us-children-among-five-killed-in-israeli-drone-strike-on-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,11 +29,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Dua Lipa fires agent over his purported support for Israel’s war in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/22/dua-lipa-fires-agent-over-his-purported-support-for-israels-war-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Israel-Palestine two-state solution summit to be held as recognitions surge",
           "url": "https://www.aljazeera.com/news/2025/9/22/israel-palestine-two-state-solution-summit-to-be-held-as-recognitions-surge?traffic_source=rss"
@@ -72,10 +49,33 @@
         {
           "title": "Israel bristles as UK leads Western recognition of Palestine",
           "url": "https://www.aljazeera.com/features/2025/9/21/israel-bristles-as-uk-leads-western-recognition-of-palestine?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013264964886857628,
+      "chg5d": -0.0009029345372460305,
+      "chg1m": 0.031821890663247344
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Dua Lipa fires agent over his purported support for Israel’s war in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/22/dua-lipa-fires-agent-over-his-purported-support-for-israels-war-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Children among 5 killed in Israeli drone ‘massacre’ in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/9/21/us-children-among-five-killed-in-israeli-drone-strike-on-southern-lebanon?traffic_source=rss"
+          "title": "Israel-Palestine two-state solution summit to be held as recognitions surge",
+          "url": "https://www.aljazeera.com/news/2025/9/22/israel-palestine-two-state-solution-summit-to-be-held-as-recognitions-surge?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel keeps pummeling Gaza as support grows for Palestinian state",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/22/live-israel-keeps-pummeling-gaza-as-support-grows-for-palestinian-state?traffic_source=rss"
+        },
+        {
+          "title": "Israel bristles as UK leads Western recognition of Palestine",
+          "url": "https://www.aljazeera.com/features/2025/9/21/israel-bristles-as-uk-leads-western-recognition-of-palestine?traffic_source=rss"
         }
       ],
       "chg1d": -0.0014357501794687868,
