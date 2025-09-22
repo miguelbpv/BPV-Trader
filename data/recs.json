@@ -1,65 +1,11 @@
 {
-  "generated_at": "2025-09-22T15:13:44.845219Z",
+  "generated_at": "2025-09-22T18:17:59.137866Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.84,
-      "confianca": 81,
-      "razoes": [
-        {
-          "title": "US public opinion on Israel is changing, US policy will have to as well",
-          "url": "https://www.aljazeera.com/opinions/2025/9/22/us-public-opinion-on-israel-is-changing-us-policy-will-have-to-as-well?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack kills four members of a family in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Dua Lipa fires agent over his purported support for Israel’s war in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/22/dua-lipa-fires-agent-over-his-purported-support-for-israels-war-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010255000634329985,
-      "chg5d": 0.009593238246170144,
-      "chg1m": 0.06840339892665481
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.84,
-      "confianca": 81,
-      "razoes": [
-        {
-          "title": "US public opinion on Israel is changing, US policy will have to as well",
-          "url": "https://www.aljazeera.com/opinions/2025/9/22/us-public-opinion-on-israel-is-changing-us-policy-will-have-to-as-well?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack kills four members of a family in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Dua Lipa fires agent over his purported support for Israel’s war in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/22/dua-lipa-fires-agent-over-his-purported-support-for-israels-war-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009715318572074102,
-      "chg5d": -0.007248018120045307,
-      "chg1m": 0.014818244964112076
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.84,
-      "confianca": 81,
+      "acao": "observar",
+      "score": 2.08,
+      "confianca": 59,
       "razoes": [
         {
           "title": "US public opinion on Israel is changing, US policy will have to as well",
@@ -72,10 +18,6 @@
         {
           "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
           "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Dua Lipa fires agent over his purported support for Israel’s war in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/22/dua-lipa-fires-agent-over-his-purported-support-for-israels-war-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -83,49 +25,107 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 2.08,
+      "confianca": 59,
       "razoes": [
+        {
+          "title": "US public opinion on Israel is changing, US policy will have to as well",
+          "url": "https://www.aljazeera.com/opinions/2025/9/22/us-public-opinion-on-israel-is-changing-us-policy-will-have-to-as-well?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attack kills four members of a family in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
+        },
         {
           "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
           "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02776913586869065,
-      "chg5d": 0.1046177793151159,
-      "chg1m": 0.30274000543921675
+      "chg1d": -0.008359692724807896,
+      "chg5d": -0.005889014722536762,
+      "chg1m": 0.016207455429497634
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 2.08,
+      "confianca": 59,
+      "razoes": [
+        {
+          "title": "US public opinion on Israel is changing, US policy will have to as well",
+          "url": "https://www.aljazeera.com/opinions/2025/9/22/us-public-opinion-on-israel-is-changing-us-policy-will-have-to-as-well?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attack kills four members of a family in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012073413117943035,
+      "chg5d": 0.011410459587955578,
+      "chg1m": 0.07032647584973165
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "US targets Brazilian justice’s wife with sanctions; will revoke more visas",
+          "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
+        },
         {
           "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
           "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.016812776078831054,
-      "chg5d": 0.0303894712678858,
-      "chg1m": 0.1847235296705229
+      "chg1d": 0.03845282591459962,
+      "chg5d": 0.05231846353967408,
+      "chg1m": 0.2099370958518453
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "US targets Brazilian justice’s wife with sanctions; will revoke more visas",
+          "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
+        },
         {
           "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
           "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011810727450537826,
-      "chg5d": 0.04344453064390996,
-      "chg1m": 0.10991912856907074
+      "chg1d": 0.016738132851876884,
+      "chg5d": 0.0485259891388673,
+      "chg1m": 0.11532431094239969
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US targets Brazilian justice’s wife with sanctions; will revoke more visas",
+          "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
+        },
+        {
+          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.029877165692216944,
+      "chg5d": 0.1068834313386372,
+      "chg1m": 0.3054120206690237
     }
   ]
 }
