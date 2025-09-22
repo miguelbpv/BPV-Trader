@@ -1,37 +1,10 @@
 {
-  "generated_at": "2025-09-22T01:00:43.777882Z",
+  "generated_at": "2025-09-22T03:34:55.385563Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "Israel bristles as UK leads Western recognition of Palestine",
-          "url": "https://www.aljazeera.com/features/2025/9/21/israel-bristles-as-uk-leads-western-recognition-of-palestine?traffic_source=rss"
-        },
-        {
-          "title": "US children among five killed in Israeli drone strike on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/9/21/us-children-among-five-killed-in-israeli-drone-strike-on-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack kills at least 25 from the same family in Gaza City homes",
-          "url": "https://www.aljazeera.com/news/2025/9/21/israeli-attack-kills-at-least-25-from-the-same-family-in-gaza-city-homes?traffic_source=rss"
-        },
-        {
-          "title": "Israel unleashes horror in relentless attacks on Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/21/israel-unleashes-horror-in-relentless-attacks-on-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.44,
+      "score": 2.42,
       "confianca": 69,
       "razoes": [
         {
@@ -56,9 +29,36 @@
       "chg1m": 0.031821890663247344
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.42,
+      "confianca": 69,
+      "razoes": [
+        {
+          "title": "Israel bristles as UK leads Western recognition of Palestine",
+          "url": "https://www.aljazeera.com/features/2025/9/21/israel-bristles-as-uk-leads-western-recognition-of-palestine?traffic_source=rss"
+        },
+        {
+          "title": "US children among five killed in Israeli drone strike on southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/9/21/us-children-among-five-killed-in-israeli-drone-strike-on-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attack kills at least 25 from the same family in Gaza City homes",
+          "url": "https://www.aljazeera.com/news/2025/9/21/israeli-attack-kills-at-least-25-from-the-same-family-in-gaza-city-homes?traffic_source=rss"
+        },
+        {
+          "title": "Israel unleashes horror in relentless attacks on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/21/israel-unleashes-horror-in-relentless-attacks-on-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.44,
+      "score": 2.42,
       "confianca": 69,
       "razoes": [
         {
