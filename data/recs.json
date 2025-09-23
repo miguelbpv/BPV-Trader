@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-23T15:12:48.332096Z",
+  "generated_at": "2025-09-23T18:18:30.229093Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.48,
+      "score": 2.47,
       "confianca": 70,
       "razoes": [
+        {
+          "title": "Israel shuts crossing that connects occupied West Bank to Jordan",
+          "url": "https://www.aljazeera.com/news/2025/9/23/israel-shuts-crossing-that-connects-occupied-west-bank-to-jordan?traffic_source=rss"
+        },
         {
           "title": "Israel killed my spouse. Now I raise alone a son who’ll never have a father",
           "url": "https://www.aljazeera.com/opinions/2025/9/23/israel-killed-my-spouse-now-i-raise-alone-a-son-wholl-never-have-a-father?traffic_source=rss"
@@ -18,22 +22,22 @@
         {
           "title": "Video: Parents carry children’s bodies after Israeli attack on Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/video-parents-carry-childrens-bodies-after-israeli-attack-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
-          "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
         }
       ],
-      "chg1d": 0.025151134937835044,
-      "chg5d": 0.0010581421251949082,
-      "chg1m": 0.019684592693442245
+      "chg1d": 0.0027477674389558343,
+      "chg5d": 0.015580199021757436,
+      "chg1m": 0.07958314657104436
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.48,
+      "score": 2.47,
       "confianca": 70,
       "razoes": [
+        {
+          "title": "Israel shuts crossing that connects occupied West Bank to Jordan",
+          "url": "https://www.aljazeera.com/news/2025/9/23/israel-shuts-crossing-that-connects-occupied-west-bank-to-jordan?traffic_source=rss"
+        },
         {
           "title": "Israel killed my spouse. Now I raise alone a son who’ll never have a father",
           "url": "https://www.aljazeera.com/opinions/2025/9/23/israel-killed-my-spouse-now-i-raise-alone-a-son-wholl-never-have-a-father?traffic_source=rss"
@@ -45,10 +49,6 @@
         {
           "title": "Video: Parents carry children’s bodies after Israeli attack on Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/video-parents-carry-childrens-bodies-after-israeli-attack-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
-          "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,11 +56,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.48,
+      "score": 2.47,
       "confianca": 70,
       "razoes": [
+        {
+          "title": "Israel shuts crossing that connects occupied West Bank to Jordan",
+          "url": "https://www.aljazeera.com/news/2025/9/23/israel-shuts-crossing-that-connects-occupied-west-bank-to-jordan?traffic_source=rss"
+        },
         {
           "title": "Israel killed my spouse. Now I raise alone a son who’ll never have a father",
           "url": "https://www.aljazeera.com/opinions/2025/9/23/israel-killed-my-spouse-now-i-raise-alone-a-son-wholl-never-have-a-father?traffic_source=rss"
@@ -72,15 +76,11 @@
         {
           "title": "Video: Parents carry children’s bodies after Israeli attack on Gaza City",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/video-parents-carry-childrens-bodies-after-israeli-attack-on-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
-          "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0006244925997627165,
-      "chg5d": 0.013429752066115712,
-      "chg1m": 0.07729717615419097
+      "chg1d": 0.01887760921637962,
+      "chg5d": -0.005067943862775655,
+      "chg1m": 0.01344452008168825
     }
   ]
 }
