@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-23T09:13:41.828778Z",
+  "generated_at": "2025-09-23T12:24:06.258619Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
+          "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
+        },
         {
           "title": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
           "url": "https://www.aljazeera.com/news/2025/9/23/trump-to-present-plan-on-ending-israels-gaza-war-to-arab-muslim-leaders?traffic_source=rss"
@@ -16,16 +20,20 @@
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.01575252674757895,
+      "chg5d": 0.01508716323296352,
+      "chg1m": 0.07421735241502683
     },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
+          "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
+        },
         {
           "title": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
           "url": "https://www.aljazeera.com/news/2025/9/23/trump-to-present-plan-on-ending-israels-gaza-war-to-arab-muslim-leaders?traffic_source=rss"
@@ -40,11 +48,15 @@
       "chg1m": 0.014934012502894261
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
+          "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
+        },
         {
           "title": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
           "url": "https://www.aljazeera.com/news/2025/9/23/trump-to-present-plan-on-ending-israels-gaza-war-to-arab-muslim-leaders?traffic_source=rss"
@@ -54,9 +66,9 @@
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01575252674757895,
-      "chg5d": 0.01508716323296352,
-      "chg1m": 0.07421735241502683
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
