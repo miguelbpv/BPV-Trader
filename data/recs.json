@@ -1,88 +1,62 @@
 {
-  "generated_at": "2025-09-23T06:19:15.588782Z",
+  "generated_at": "2025-09-23T09:13:41.828778Z",
   "recs": [
     {
-      "symbol": "ASML.AS",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.57,
-      "confianca": 44,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/syrias-al-sharaa-renews-call-for-us-to-formally-drop-sanctions?traffic_source=rss"
+          "title": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
+          "url": "https://www.aljazeera.com/news/2025/9/23/trump-to-present-plan-on-ending-israels-gaza-war-to-arab-muslim-leaders?traffic_source=rss"
         },
         {
-          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
-          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
+          "title": "LIVE: Israel intensifies Gaza attacks, kills 22 since dawn",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss"
         }
       ],
-      "chg1d": 0.027517030520838898,
-      "chg5d": 0.10434682347515278,
-      "chg1m": 0.30242045145499047
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.57,
-      "confianca": 44,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/syrias-al-sharaa-renews-call-for-us-to-formally-drop-sanctions?traffic_source=rss"
+          "title": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
+          "url": "https://www.aljazeera.com/news/2025/9/23/trump-to-present-plan-on-ending-israels-gaza-war-to-arab-muslim-leaders?traffic_source=rss"
         },
         {
-          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
-          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
+          "title": "LIVE: Israel intensifies Gaza attacks, kills 22 since dawn",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss"
         }
       ],
-      "chg1d": 0.029297391173028244,
-      "chg5d": 0.04304078353355268,
-      "chg1m": 0.19926978401442827
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/syrias-al-sharaa-renews-call-for-us-to-formally-drop-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014932671330775485,
-      "chg5d": 0.04666408068269966,
-      "chg1m": 0.11334378610331725
+      "chg1d": -0.009602349751468531,
+      "chg5d": -0.007134767836919541,
+      "chg1m": 0.014934012502894261
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
-          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
+          "title": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
+          "url": "https://www.aljazeera.com/news/2025/9/23/trump-to-present-plan-on-ending-israels-gaza-war-to-arab-muslim-leaders?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel intensifies Gaza attacks, kills 22 since dawn",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss"
         }
       ],
       "chg1d": 0.01575252674757895,
       "chg5d": 0.01508716323296352,
       "chg1m": 0.07421735241502683
-    },
-    {
-      "symbol": "NVDA",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
-          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03928227769287387,
-      "chg5d": 0.032967651195499374,
-      "chg1m": 0.049319922276831775
     }
   ]
 }
