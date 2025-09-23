@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-09-23T00:55:33.719365Z",
+  "generated_at": "2025-09-23T03:25:50.285253Z",
   "recs": [
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.43,
+      "score": 2.42,
       "confianca": 69,
       "razoes": [
         {
@@ -27,7 +27,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.43,
+      "score": 2.42,
       "confianca": 69,
       "razoes": [
         {
@@ -48,32 +48,9 @@
       "chg1m": 0.30242045145499047
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
-          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
-        },
-        {
-          "title": "US public opinion on Israel is changing, US policy will have to as well",
-          "url": "https://www.aljazeera.com/opinions/2025/9/22/us-public-opinion-on-israel-is-changing-us-policy-will-have-to-as-well?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack kills four members of a family in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01575252674757895,
-      "chg5d": 0.01508716323296352,
-      "chg1m": 0.07421735241502683
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.69,
+      "score": 1.68,
       "confianca": 48,
       "razoes": [
         {
@@ -90,48 +67,25 @@
       "chg1m": 0.11334378610331725
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.21,
-      "confianca": 34,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
-          "title": "US public opinion on Israel is changing, US policy will have to as well",
-          "url": "https://www.aljazeera.com/opinions/2025/9/22/us-public-opinion-on-israel-is-changing-us-policy-will-have-to-as-well?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack kills four members of a family in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
+          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
+          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.21,
-      "confianca": 34,
-      "razoes": [
-        {
-          "title": "US public opinion on Israel is changing, US policy will have to as well",
-          "url": "https://www.aljazeera.com/opinions/2025/9/22/us-public-opinion-on-israel-is-changing-us-policy-will-have-to-as-well?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack kills four members of a family in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009602349751468531,
-      "chg5d": -0.007134767836919541,
-      "chg1m": 0.014934012502894261
+      "chg1d": 0.01575252674757895,
+      "chg5d": 0.01508716323296352,
+      "chg1m": 0.07421735241502683
     },
     {
       "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Nvidia to invest billions in OpenAI as AI race heats up",
