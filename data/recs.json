@@ -1,74 +1,86 @@
 {
-  "generated_at": "2025-09-23T12:24:06.258619Z",
+  "generated_at": "2025-09-23T15:12:48.332096Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
-      "razoes": [
-        {
-          "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
-          "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
-        },
-        {
-          "title": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
-          "url": "https://www.aljazeera.com/news/2025/9/23/trump-to-present-plan-on-ending-israels-gaza-war-to-arab-muslim-leaders?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel intensifies Gaza attacks, kills 22 since dawn",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01575252674757895,
-      "chg5d": 0.01508716323296352,
-      "chg1m": 0.07421735241502683
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "acao": "comprar",
+      "score": 2.48,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Israel killed my spouse. Now I raise alone a son who’ll never have a father",
+          "url": "https://www.aljazeera.com/opinions/2025/9/23/israel-killed-my-spouse-now-i-raise-alone-a-son-wholl-never-have-a-father?traffic_source=rss"
+        },
+        {
+          "title": "Why violence by Israeli settlers has escalated in the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/the-stream/2025/9/23/why-violence-by-israeli-settlers-has-escalated-in-the-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Video: Parents carry children’s bodies after Israeli attack on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/video-parents-carry-childrens-bodies-after-israeli-attack-on-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
           "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
-        },
-        {
-          "title": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
-          "url": "https://www.aljazeera.com/news/2025/9/23/trump-to-present-plan-on-ending-israels-gaza-war-to-arab-muslim-leaders?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel intensifies Gaza attacks, kills 22 since dawn",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009602349751468531,
-      "chg5d": -0.007134767836919541,
-      "chg1m": 0.014934012502894261
+      "chg1d": 0.025151134937835044,
+      "chg5d": 0.0010581421251949082,
+      "chg1m": 0.019684592693442245
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "acao": "comprar",
+      "score": 2.48,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Israel killed my spouse. Now I raise alone a son who’ll never have a father",
+          "url": "https://www.aljazeera.com/opinions/2025/9/23/israel-killed-my-spouse-now-i-raise-alone-a-son-wholl-never-have-a-father?traffic_source=rss"
+        },
+        {
+          "title": "Why violence by Israeli settlers has escalated in the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/the-stream/2025/9/23/why-violence-by-israeli-settlers-has-escalated-in-the-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Video: Parents carry children’s bodies after Israeli attack on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/video-parents-carry-childrens-bodies-after-israeli-attack-on-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
           "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
-        },
-        {
-          "title": "Trump to present plan on ending Israel’s Gaza war to Arab, Muslim leaders",
-          "url": "https://www.aljazeera.com/news/2025/9/23/trump-to-present-plan-on-ending-israels-gaza-war-to-arab-muslim-leaders?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel intensifies Gaza attacks, kills 22 since dawn",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.48,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Israel killed my spouse. Now I raise alone a son who’ll never have a father",
+          "url": "https://www.aljazeera.com/opinions/2025/9/23/israel-killed-my-spouse-now-i-raise-alone-a-son-wholl-never-have-a-father?traffic_source=rss"
+        },
+        {
+          "title": "Why violence by Israeli settlers has escalated in the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/the-stream/2025/9/23/why-violence-by-israeli-settlers-has-escalated-in-the-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Video: Parents carry children’s bodies after Israeli attack on Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/video-parents-carry-childrens-bodies-after-israeli-attack-on-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon pushes for US support as family killed by Israel attack are buried",
+          "url": "https://www.aljazeera.com/news/2025/9/23/lebanon-pushes-for-us-support-as-family-killed-by-israel-attack-are-buried?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0006244925997627165,
+      "chg5d": 0.013429752066115712,
+      "chg1m": 0.07729717615419097
     }
   ]
 }
