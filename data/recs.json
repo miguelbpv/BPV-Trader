@@ -1,50 +1,23 @@
 {
-  "generated_at": "2025-09-22T21:10:33.756545Z",
+  "generated_at": "2025-09-23T00:55:33.719365Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
-          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
-        },
-        {
-          "title": "US public opinion on Israel is changing, US policy will have to as well",
-          "url": "https://www.aljazeera.com/opinions/2025/9/22/us-public-opinion-on-israel-is-changing-us-policy-will-have-to-as-well?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack kills four members of a family in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01575252674757895,
-      "chg5d": 0.01508716323296352,
-      "chg1m": 0.07421735241502683
-    },
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.44,
+      "score": 2.43,
       "confianca": 69,
       "razoes": [
+        {
+          "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/22/syrias-al-sharaa-renews-call-for-us-to-formally-drop-sanctions?traffic_source=rss"
+        },
         {
           "title": "Nvidia to invest billions in OpenAI as AI race heats up",
           "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
         },
         {
-          "title": "US targets Brazilian justice’s wife with sanctions; will revoke more visas",
+          "title": "US targets Brazilian justice’s wife with sanctions, will revoke more visas",
           "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
-        },
-        {
-          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.029297391173028244,
@@ -54,20 +27,20 @@
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.44,
+      "score": 2.43,
       "confianca": 69,
       "razoes": [
+        {
+          "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/22/syrias-al-sharaa-renews-call-for-us-to-formally-drop-sanctions?traffic_source=rss"
+        },
         {
           "title": "Nvidia to invest billions in OpenAI as AI race heats up",
           "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
         },
         {
-          "title": "US targets Brazilian justice’s wife with sanctions; will revoke more visas",
+          "title": "US targets Brazilian justice’s wife with sanctions, will revoke more visas",
           "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
-        },
-        {
-          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.027517030520838898,
@@ -75,10 +48,52 @@
       "chg1m": 0.30242045145499047
     },
     {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
+          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
+        },
+        {
+          "title": "US public opinion on Israel is changing, US policy will have to as well",
+          "url": "https://www.aljazeera.com/opinions/2025/9/22/us-public-opinion-on-israel-is-changing-us-policy-will-have-to-as-well?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attack kills four members of a family in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01575252674757895,
+      "chg5d": 0.01508716323296352,
+      "chg1m": 0.07421735241502683
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/22/syrias-al-sharaa-renews-call-for-us-to-formally-drop-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "US targets Brazilian justice’s wife with sanctions, will revoke more visas",
+          "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014932671330775485,
+      "chg5d": 0.04666408068269966,
+      "chg1m": 0.11334378610331725
+    },
+    {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.07,
-      "confianca": 59,
+      "score": 1.21,
+      "confianca": 34,
       "razoes": [
         {
           "title": "US public opinion on Israel is changing, US policy will have to as well",
@@ -87,10 +102,6 @@
         {
           "title": "Israeli attack kills four members of a family in Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -100,8 +111,8 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 2.07,
-      "confianca": 59,
+      "score": 1.21,
+      "confianca": 34,
       "razoes": [
         {
           "title": "US public opinion on Israel is changing, US policy will have to as well",
@@ -110,39 +121,16 @@
         {
           "title": "Israeli attack kills four members of a family in Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/22/israeli-attack-kills-four-members-of-a-family-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009545865341165825,
-      "chg5d": -0.007078142695356738,
-      "chg1m": 0.014991896272285272
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "US targets Brazilian justice’s wife with sanctions; will revoke more visas",
-          "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
-        },
-        {
-          "title": "Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014932671330775485,
-      "chg5d": 0.04666408068269966,
-      "chg1m": 0.11334378610331725
+      "chg1d": -0.009602349751468531,
+      "chg5d": -0.007134767836919541,
+      "chg1m": 0.014934012502894261
     },
     {
       "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.75,
+      "score": 0.74,
       "confianca": 21,
       "razoes": [
         {
