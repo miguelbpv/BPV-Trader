@@ -1,34 +1,11 @@
 {
-  "generated_at": "2025-09-23T03:25:50.285253Z",
+  "generated_at": "2025-09-23T06:19:15.588782Z",
   "recs": [
     {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/22/syrias-al-sharaa-renews-call-for-us-to-formally-drop-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
-          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
-        },
-        {
-          "title": "US targets Brazilian justice’s wife with sanctions, will revoke more visas",
-          "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.029297391173028244,
-      "chg5d": 0.04304078353355268,
-      "chg1m": 0.19926978401442827
-    },
-    {
       "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "acao": "observar",
+      "score": 1.57,
+      "confianca": 44,
       "razoes": [
         {
           "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
@@ -37,10 +14,6 @@
         {
           "title": "Nvidia to invest billions in OpenAI as AI race heats up",
           "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
-        },
-        {
-          "title": "US targets Brazilian justice’s wife with sanctions, will revoke more visas",
-          "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
         }
       ],
       "chg1d": 0.027517030520838898,
@@ -48,18 +21,33 @@
       "chg1m": 0.30242045145499047
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.57,
+      "confianca": 44,
       "razoes": [
         {
           "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
           "url": "https://www.aljazeera.com/news/2025/9/22/syrias-al-sharaa-renews-call-for-us-to-formally-drop-sanctions?traffic_source=rss"
         },
         {
-          "title": "US targets Brazilian justice’s wife with sanctions, will revoke more visas",
-          "url": "https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss"
+          "title": "Nvidia to invest billions in OpenAI as AI race heats up",
+          "url": "https://www.aljazeera.com/economy/2025/9/22/nvidia-to-invest-billions-in-openai-as-ai-race-heats-up?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.029297391173028244,
+      "chg5d": 0.04304078353355268,
+      "chg1m": 0.19926978401442827
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Syria’s al-Sharaa renews call for US to formally drop sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/22/syrias-al-sharaa-renews-call-for-us-to-formally-drop-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.014932671330775485,
