@@ -1,15 +1,38 @@
 {
-  "generated_at": "2025-09-24T12:24:35.035752Z",
+  "generated_at": "2025-09-24T15:12:56.595696Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Can Israel survive economic isolation?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/24/can-israel-survive-economic-isolation?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills teen in Jenin raid as it pushes West Bank annexation plan",
+          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-teen-in-jenin-raid-as-it-pushes-west-bank-annexation-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012205395853453054,
+      "chg5d": 0.04119462292864391,
+      "chg1m": 0.10026355758063071
+    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
         {
-          "title": "Syria, Israel edge closer to ‘de-escalation’ pact: US envoy",
-          "url": "https://www.aljazeera.com/news/2025/9/24/syria-israel-edge-closer-to-deescalation-pact-us-envoy?traffic_source=rss"
+          "title": "Can Israel survive economic isolation?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/24/can-israel-survive-economic-isolation?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills teen in Jenin raid as it pushes West Bank annexation plan",
+          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-teen-in-jenin-raid-as-it-pushes-west-bank-annexation-plan?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -17,34 +40,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Syria, Israel edge closer to ‘de-escalation’ pact: US envoy",
-          "url": "https://www.aljazeera.com/news/2025/9/24/syria-israel-edge-closer-to-deescalation-pact-us-envoy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013072711755032431,
-      "chg5d": 0.02603727441389784,
-      "chg1m": 0.09069923800986111
-    },
-    {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
         {
-          "title": "Syria, Israel edge closer to ‘de-escalation’ pact: US envoy",
-          "url": "https://www.aljazeera.com/news/2025/9/24/syria-israel-edge-closer-to-deescalation-pact-us-envoy?traffic_source=rss"
+          "title": "Can Israel survive economic isolation?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/24/can-israel-survive-economic-isolation?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills teen in Jenin raid as it pushes West Bank annexation plan",
+          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-teen-in-jenin-raid-as-it-pushes-west-bank-annexation-plan?traffic_source=rss"
         }
       ],
-      "chg1d": 0.017223679707995952,
-      "chg5d": -0.0066830028959678585,
-      "chg1m": 0.011799410029498596
+      "chg1d": 0.016763848396501347,
+      "chg5d": 0.007611956884098259,
+      "chg1m": 0.026083512504243435
     }
   ]
 }
