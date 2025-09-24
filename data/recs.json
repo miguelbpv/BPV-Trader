@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-09-24T06:18:54.140960Z",
+  "generated_at": "2025-09-24T09:13:45.835104Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.88,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Colombia blasts genocidal Israel and allies over Gaza atrocities",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/colombia-blasts-genocidal-israel-and-allies-over-gaza-atrocities?traffic_source=rss"
-        },
-        {
-          "title": "Israel escalates bombardment as tanks push deep into Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/9/23/israel-escalates-bombardment-as-tanks-push-deep-into-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Macron: Security for Israel needs end to permanent wars",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/macron-security-for-israel-needs-end-to-permanent-wars?traffic_source=rss"
-        },
-        {
-          "title": "Khamenei rules out talks with US over Iran’s nuclear programme",
-          "url": "https://www.aljazeera.com/news/2025/9/23/khamenei-rules-out-talks-with-us-over-nuclear-programme-as-sanctions-loom?traffic_source=rss"
-        },
-        {
-          "title": "South Africa: Israel’s genocide must stop",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/south-africa-israels-genocide-in-gaza-must?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.88,
+      "score": 3.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills dozens of Palestinians in attacks on war-devastated Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/24/live-israel-kills-dozens-of-palestinians-in-attacks-on-war-devastated-gaza?traffic_source=rss"
+        },
         {
           "title": "Colombia blasts genocidal Israel and allies over Gaza atrocities",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/colombia-blasts-genocidal-israel-and-allies-over-gaza-atrocities?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Khamenei rules out talks with US over Iran’s nuclear programme",
           "url": "https://www.aljazeera.com/news/2025/9/23/khamenei-rules-out-talks-with-us-over-nuclear-programme-as-sanctions-loom?traffic_source=rss"
-        },
-        {
-          "title": "South Africa: Israel’s genocide must stop",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/south-africa-israels-genocide-in-gaza-must?traffic_source=rss"
         }
       ],
       "chg1d": 0.013072711755032431,
@@ -64,11 +33,15 @@
       "chg1m": 0.09069923800986111
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.88,
+      "score": 3.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills dozens of Palestinians in attacks on war-devastated Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/24/live-israel-kills-dozens-of-palestinians-in-attacks-on-war-devastated-gaza?traffic_source=rss"
+        },
         {
           "title": "Colombia blasts genocidal Israel and allies over Gaza atrocities",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/colombia-blasts-genocidal-israel-and-allies-over-gaza-atrocities?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Khamenei rules out talks with US over Iran’s nuclear programme",
           "url": "https://www.aljazeera.com/news/2025/9/23/khamenei-rules-out-talks-with-us-over-nuclear-programme-as-sanctions-loom?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.66,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Israel kills dozens of Palestinians in attacks on war-devastated Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/24/live-israel-kills-dozens-of-palestinians-in-attacks-on-war-devastated-gaza?traffic_source=rss"
         },
         {
-          "title": "South Africa: Israel’s genocide must stop",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/south-africa-israels-genocide-in-gaza-must?traffic_source=rss"
+          "title": "Colombia blasts genocidal Israel and allies over Gaza atrocities",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/colombia-blasts-genocidal-israel-and-allies-over-gaza-atrocities?traffic_source=rss"
+        },
+        {
+          "title": "Israel escalates bombardment as tanks push deep into Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/9/23/israel-escalates-bombardment-as-tanks-push-deep-into-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Macron: Security for Israel needs end to permanent wars",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/macron-security-for-israel-needs-end-to-permanent-wars?traffic_source=rss"
+        },
+        {
+          "title": "Khamenei rules out talks with US over Iran’s nuclear programme",
+          "url": "https://www.aljazeera.com/news/2025/9/23/khamenei-rules-out-talks-with-us-over-nuclear-programme-as-sanctions-loom?traffic_source=rss"
         }
       ],
       "chg1d": 0.017223679707995952,
