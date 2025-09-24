@@ -1,38 +1,93 @@
 {
-  "generated_at": "2025-09-24T15:12:56.595696Z",
+  "generated_at": "2025-09-24T18:17:52.535801Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.07,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Can Israel survive economic isolation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/24/can-israel-survive-economic-isolation?traffic_source=rss"
+          "title": "Syrian president calls for global support amid Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/syrian-president-calls-for-global-support-amid-israeli-attacks?traffic_source=rss"
         },
         {
-          "title": "Israel kills teen in Jenin raid as it pushes West Bank annexation plan",
-          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-teen-in-jenin-raid-as-it-pushes-west-bank-annexation-plan?traffic_source=rss"
+          "title": "Israeli army says drone from Yemen strikes Eilat; 20 people wounded",
+          "url": "https://www.aljazeera.com/news/2025/9/24/israeli-army-says-drone-from-yemen-strikes-eilat-20-people-wounded?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s president vows to never build a nuclear bomb in his UNGA speech",
+          "url": "https://www.aljazeera.com/news/2025/9/24/irans-president-vows-to-never-build-a-nuclear-bomb-in-his-unga-speech?traffic_source=rss"
+        },
+        {
+          "title": "Iran condemns ‘ludicrous and delusional scheme of greater Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/iran-condemns-ludicrous-and-delusional-scheme-of-greater?traffic_source=rss"
+        },
+        {
+          "title": "Russia, Iran sign nuclear power plants deal as sanctions loom",
+          "url": "https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss"
         }
       ],
-      "chg1d": 0.012205395853453054,
-      "chg5d": 0.04119462292864391,
-      "chg1m": 0.10026355758063071
+      "chg1d": 0.01906257008297812,
+      "chg5d": 0.009889987776419609,
+      "chg1m": 0.028403304288785684
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.07,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Syrian president calls for global support amid Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/syrian-president-calls-for-global-support-amid-israeli-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army says drone from Yemen strikes Eilat; 20 people wounded",
+          "url": "https://www.aljazeera.com/news/2025/9/24/israeli-army-says-drone-from-yemen-strikes-eilat-20-people-wounded?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s president vows to never build a nuclear bomb in his UNGA speech",
+          "url": "https://www.aljazeera.com/news/2025/9/24/irans-president-vows-to-never-build-a-nuclear-bomb-in-his-unga-speech?traffic_source=rss"
+        },
+        {
+          "title": "Iran condemns ‘ludicrous and delusional scheme of greater Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/iran-condemns-ludicrous-and-delusional-scheme-of-greater?traffic_source=rss"
+        },
+        {
+          "title": "Russia, Iran sign nuclear power plants deal as sanctions loom",
+          "url": "https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003041075061129639,
+      "chg5d": 0.03176783902603985,
+      "chg1m": 0.0903019744483158
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
+      "acao": "comprar",
+      "score": 5.07,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Can Israel survive economic isolation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/24/can-israel-survive-economic-isolation?traffic_source=rss"
+          "title": "Syrian president calls for global support amid Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/syrian-president-calls-for-global-support-amid-israeli-attacks?traffic_source=rss"
         },
         {
-          "title": "Israel kills teen in Jenin raid as it pushes West Bank annexation plan",
-          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-teen-in-jenin-raid-as-it-pushes-west-bank-annexation-plan?traffic_source=rss"
+          "title": "Israeli army says drone from Yemen strikes Eilat; 20 people wounded",
+          "url": "https://www.aljazeera.com/news/2025/9/24/israeli-army-says-drone-from-yemen-strikes-eilat-20-people-wounded?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s president vows to never build a nuclear bomb in his UNGA speech",
+          "url": "https://www.aljazeera.com/news/2025/9/24/irans-president-vows-to-never-build-a-nuclear-bomb-in-his-unga-speech?traffic_source=rss"
+        },
+        {
+          "title": "Iran condemns ‘ludicrous and delusional scheme of greater Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/iran-condemns-ludicrous-and-delusional-scheme-of-greater?traffic_source=rss"
+        },
+        {
+          "title": "Russia, Iran sign nuclear power plants deal as sanctions loom",
+          "url": "https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -40,23 +95,49 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
+      "score": 1.1,
+      "confianca": 31,
       "razoes": [
         {
-          "title": "Can Israel survive economic isolation?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/24/can-israel-survive-economic-isolation?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills teen in Jenin raid as it pushes West Bank annexation plan",
-          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-teen-in-jenin-raid-as-it-pushes-west-bank-annexation-plan?traffic_source=rss"
+          "title": "Russia, Iran sign nuclear power plants deal as sanctions loom",
+          "url": "https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss"
         }
       ],
-      "chg1d": 0.016763848396501347,
-      "chg5d": 0.007611956884098259,
-      "chg1m": 0.026083512504243435
+      "chg1d": -0.010965300130876043,
+      "chg5d": 0.06400547966056544,
+      "chg1m": 0.1868500360796299
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.1,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Russia, Iran sign nuclear power plants deal as sanctions loom",
+          "url": "https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.015235960187232047,
+      "chg5d": 0.08777098834076612,
+      "chg1m": 0.2576279723245765
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.1,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Russia, Iran sign nuclear power plants deal as sanctions loom",
+          "url": "https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.001706801231865161,
+      "chg5d": 0.040691602521951184,
+      "chg1m": 0.08265260955293557
     }
   ]
 }
