@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-09-24T03:27:07.727189Z",
+  "generated_at": "2025-09-24T06:18:54.140960Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.86,
+      "score": 4.88,
       "confianca": 95,
       "razoes": [
         {
@@ -28,14 +28,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/south-africa-israels-genocide-in-gaza-must?traffic_source=rss"
         }
       ],
-      "chg1d": 0.017223679707995952,
-      "chg5d": -0.0066830028959678585,
-      "chg1m": 0.011799410029498596
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.86,
+      "score": 4.88,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +64,9 @@
       "chg1m": 0.09069923800986111
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.86,
+      "score": 4.88,
       "confianca": 95,
       "razoes": [
         {
@@ -90,9 +90,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/23/south-africa-israels-genocide-in-gaza-must?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.017223679707995952,
+      "chg5d": -0.0066830028959678585,
+      "chg1m": 0.011799410029498596
     }
   ]
 }
