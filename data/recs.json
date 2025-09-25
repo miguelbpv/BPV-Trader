@@ -1,27 +1,93 @@
 {
-  "generated_at": "2025-09-25T15:13:13.871883Z",
+  "generated_at": "2025-09-25T18:18:33.489184Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 3.96,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli strikes pound Yemen’s capital as Houthi leader decries Gaza war",
+          "url": "https://www.aljazeera.com/news/2025/9/25/israeli-strikes-pound-yemens-capital-as-houthi-leader-decries-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Abbas decries nearly two years of Israel’s genocide in Gaza at UN",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/abbas-decries-nearly-two-years-of-israels-genocide-in-gaza-at-un?traffic_source=rss"
+        },
+        {
+          "title": "Israel is guilty of war crimes, Palestine’s Abbas tells UN General Assembly",
+          "url": "https://www.aljazeera.com/news/2025/9/25/israel-is-guilty-of-war-crimes-palestines-abbas-tells-unga?traffic_source=rss"
+        },
+        {
+          "title": "Can Israel survive economic isolation?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/25/can-israel-survive-economic-isolation?traffic_source=rss"
+        },
         {
           "title": "Israeli strikes kill at least 30 in Gaza amid intensifying offensive",
           "url": "https://www.aljazeera.com/gallery/2025/9/25/israeli-strikes-kill-at-least-30-in-gaza-amid-intensifying-offensive?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0024473007712082218,
+      "chg5d": 0.024154385372239344,
+      "chg1m": 0.06498924164580869
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.96,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli strikes pound Yemen’s capital as Houthi leader decries Gaza war",
+          "url": "https://www.aljazeera.com/news/2025/9/25/israeli-strikes-pound-yemens-capital-as-houthi-leader-decries-gaza-war?traffic_source=rss"
         },
         {
-          "title": "Why is Britain being sued for the Israel-Palestine crisis?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/why-is-britain-being-sued-for-the-israel-palestine-crisis?traffic_source=rss"
+          "title": "Abbas decries nearly two years of Israel’s genocide in Gaza at UN",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/abbas-decries-nearly-two-years-of-israels-genocide-in-gaza-at-un?traffic_source=rss"
         },
         {
-          "title": "Gaza aid flotilla “undeterred” by Israel’s assault",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/25/gaza-aid-flotilla-undeterred-by-israels-assault?traffic_source=rss"
+          "title": "Israel is guilty of war crimes, Palestine’s Abbas tells UN General Assembly",
+          "url": "https://www.aljazeera.com/news/2025/9/25/israel-is-guilty-of-war-crimes-palestines-abbas-tells-unga?traffic_source=rss"
         },
         {
-          "title": "Who are the artists speaking out against Israel’s war on Gaza?",
-          "url": "https://www.aljazeera.com/news/longform/2025/9/25/who-are-the-artists-speaking-out-against-israels-war-on-gaza?traffic_source=rss"
+          "title": "Can Israel survive economic isolation?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/25/can-israel-survive-economic-isolation?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes kill at least 30 in Gaza amid intensifying offensive",
+          "url": "https://www.aljazeera.com/gallery/2025/9/25/israeli-strikes-kill-at-least-30-in-gaza-amid-intensifying-offensive?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006198804516271887,
+      "chg5d": 0.013264964886857786,
+      "chg1m": 0.030261815708942555
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.96,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli strikes pound Yemen’s capital as Houthi leader decries Gaza war",
+          "url": "https://www.aljazeera.com/news/2025/9/25/israeli-strikes-pound-yemens-capital-as-houthi-leader-decries-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Abbas decries nearly two years of Israel’s genocide in Gaza at UN",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/abbas-decries-nearly-two-years-of-israels-genocide-in-gaza-at-un?traffic_source=rss"
+        },
+        {
+          "title": "Israel is guilty of war crimes, Palestine’s Abbas tells UN General Assembly",
+          "url": "https://www.aljazeera.com/news/2025/9/25/israel-is-guilty-of-war-crimes-palestines-abbas-tells-unga?traffic_source=rss"
+        },
+        {
+          "title": "Can Israel survive economic isolation?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/25/can-israel-survive-economic-isolation?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes kill at least 30 in Gaza amid intensifying offensive",
+          "url": "https://www.aljazeera.com/gallery/2025/9/25/israeli-strikes-kill-at-least-30-in-gaza-amid-intensifying-offensive?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,58 +95,64 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Israeli strikes kill at least 30 in Gaza amid intensifying offensive",
-          "url": "https://www.aljazeera.com/gallery/2025/9/25/israeli-strikes-kill-at-least-30-in-gaza-amid-intensifying-offensive?traffic_source=rss"
-        },
-        {
-          "title": "Why is Britain being sued for the Israel-Palestine crisis?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/why-is-britain-being-sued-for-the-israel-palestine-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Gaza aid flotilla “undeterred” by Israel’s assault",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/25/gaza-aid-flotilla-undeterred-by-israels-assault?traffic_source=rss"
-        },
-        {
-          "title": "Who are the artists speaking out against Israel’s war on Gaza?",
-          "url": "https://www.aljazeera.com/news/longform/2025/9/25/who-are-the-artists-speaking-out-against-israels-war-on-gaza?traffic_source=rss"
+          "title": "Trump shutdown warning: Federal employees could lose jobs",
+          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004815142793889775,
-      "chg5d": 0.011871586222271899,
-      "chg1m": 0.028845064037175582
+      "chg1d": -0.010585472236202079,
+      "chg5d": -0.009289121816838147,
+      "chg1m": 0.03000296886187798
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Israeli strikes kill at least 30 in Gaza amid intensifying offensive",
-          "url": "https://www.aljazeera.com/gallery/2025/9/25/israeli-strikes-kill-at-least-30-in-gaza-amid-intensifying-offensive?traffic_source=rss"
-        },
-        {
-          "title": "Why is Britain being sued for the Israel-Palestine crisis?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/why-is-britain-being-sued-for-the-israel-palestine-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Gaza aid flotilla “undeterred” by Israel’s assault",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/25/gaza-aid-flotilla-undeterred-by-israels-assault?traffic_source=rss"
-        },
-        {
-          "title": "Who are the artists speaking out against Israel’s war on Gaza?",
-          "url": "https://www.aljazeera.com/news/longform/2025/9/25/who-are-the-artists-speaking-out-against-israels-war-on-gaza?traffic_source=rss"
+          "title": "Trump shutdown warning: Federal employees could lose jobs",
+          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0035784061696658284,
-      "chg5d": 0.03034077952789157,
-      "chg1m": 0.07142229833574854
+      "chg1d": -0.014817880794701921,
+      "chg5d": -0.027854925665740864,
+      "chg1m": 0.015963803995219433
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Trump shutdown warning: Federal employees could lose jobs",
+          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00942368779307218,
+      "chg5d": -0.011158759399631544,
+      "chg1m": 0.015050530101060259
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Trump shutdown warning: Federal employees could lose jobs",
+          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
