@@ -1,34 +1,11 @@
 {
-  "generated_at": "2025-09-25T00:56:20.819987Z",
+  "generated_at": "2025-09-25T03:29:36.309674Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
-      "razoes": [
-        {
-          "title": "Israel kills 85 people in Gaza despite calls for truce from world leaders",
-          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-85-people-in-gaza-despite-calls-for-truce-from-world-leaders?traffic_source=rss"
-        },
-        {
-          "title": "Houthi drone strike hits Israeli city of Eilat, injuring 22",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/houthi-drone-strike-hits-israeli-city-of-eilat-injuring-22?traffic_source=rss"
-        },
-        {
-          "title": "Syrian president calls for global support amid Israeli attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/syrian-president-calls-for-global-support-amid-israeli-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0008630077876179257,
-      "chg5d": 0.027751944538383488,
-      "chg1m": 0.08605825069239696
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Israel kills 85 people in Gaza despite calls for truce from world leaders",
@@ -48,10 +25,33 @@
       "chg1m": 0.02229263324657688
     },
     {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Israel kills 85 people in Gaza despite calls for truce from world leaders",
+          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-85-people-in-gaza-despite-calls-for-truce-from-world-leaders?traffic_source=rss"
+        },
+        {
+          "title": "Houthi drone strike hits Israeli city of Eilat, injuring 22",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/houthi-drone-strike-hits-israeli-city-of-eilat-injuring-22?traffic_source=rss"
+        },
+        {
+          "title": "Syrian president calls for global support amid Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/syrian-president-calls-for-global-support-amid-israeli-attacks?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0008630077876179257,
+      "chg5d": 0.027751944538383488,
+      "chg1m": 0.08605825069239696
+    },
+    {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Israel kills 85 people in Gaza despite calls for truce from world leaders",
@@ -71,9 +71,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -81,14 +81,14 @@
           "url": "https://www.aljazeera.com/news/2025/9/24/in-his-first-un-speech-syrias-al-sharaa-urges-end-to-all-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007074387181210428,
-      "chg5d": 0.06819133148141085,
-      "chg1m": 0.19151916465045196
+      "chg1d": -0.0015212793588362888,
+      "chg5d": 0.0408850036746221,
+      "chg1m": 0.08285380869985125
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -101,9 +101,9 @@
       "chg1m": 0.2551228693370093
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -111,9 +111,9 @@
           "url": "https://www.aljazeera.com/news/2025/9/24/in-his-first-un-speech-syrias-al-sharaa-urges-end-to-all-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0015212793588362888,
-      "chg5d": 0.0408850036746221,
-      "chg1m": 0.08285380869985125
+      "chg1d": -0.007074387181210428,
+      "chg5d": 0.06819133148141085,
+      "chg1m": 0.19151916465045196
     }
   ]
 }
