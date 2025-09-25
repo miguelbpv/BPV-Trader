@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-09-25T06:19:24.846517Z",
+  "generated_at": "2025-09-25T09:13:39.237258Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "acao": "comprar",
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Israel in Lebanon",
+          "url": "https://www.aljazeera.com/video/watch-your-language/2025/9/25/israel-in-lebanon-2?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel bombs family home in Gaza with children among 11 killed",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/25/live-israel-bombs-family-home-in-gaza-with-children-among-11-killed?traffic_source=rss"
+        },
         {
           "title": "Israel kills 85 people in Gaza despite calls for truce from world leaders",
           "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-85-people-in-gaza-despite-calls-for-truce-from-world-leaders?traffic_source=rss"
@@ -21,30 +29,19 @@
       "chg1m": 0.08605825069239696
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
         {
-          "title": "Israel kills 85 people in Gaza despite calls for truce from world leaders",
-          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-85-people-in-gaza-despite-calls-for-truce-from-world-leaders?traffic_source=rss"
+          "title": "Israel in Lebanon",
+          "url": "https://www.aljazeera.com/video/watch-your-language/2025/9/25/israel-in-lebanon-2?traffic_source=rss"
         },
         {
-          "title": "Houthi drone strike hits Israeli city of Eilat, injuring 22",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/houthi-drone-strike-hits-israeli-city-of-eilat-injuring-22?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
-      "razoes": [
+          "title": "LIVE: Israel bombs family home in Gaza with children among 11 killed",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/25/live-israel-bombs-family-home-in-gaza-with-children-among-11-killed?traffic_source=rss"
+        },
         {
           "title": "Israel kills 85 people in Gaza despite calls for truce from world leaders",
           "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-85-people-in-gaza-despite-calls-for-truce-from-world-leaders?traffic_source=rss"
@@ -59,49 +56,31 @@
       "chg1m": 0.02229263324657688
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
         {
-          "title": "In his first UN speech, Syria’s al-Sharaa urges end to all sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/24/in-his-first-un-speech-syrias-al-sharaa-urges-end-to-all-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.007074387181210428,
-      "chg5d": 0.06819133148141085,
-      "chg1m": 0.19151916465045196
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "Israel in Lebanon",
+          "url": "https://www.aljazeera.com/video/watch-your-language/2025/9/25/israel-in-lebanon-2?traffic_source=rss"
+        },
         {
-          "title": "In his first UN speech, Syria’s al-Sharaa urges end to all sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/24/in-his-first-un-speech-syrias-al-sharaa-urges-end-to-all-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0171975381677408,
-      "chg5d": 0.08560422804865475,
-      "chg1m": 0.2551228693370093
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "LIVE: Israel bombs family home in Gaza with children among 11 killed",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/25/live-israel-bombs-family-home-in-gaza-with-children-among-11-killed?traffic_source=rss"
+        },
         {
-          "title": "In his first UN speech, Syria’s al-Sharaa urges end to all sanctions",
-          "url": "https://www.aljazeera.com/news/2025/9/24/in-his-first-un-speech-syrias-al-sharaa-urges-end-to-all-sanctions?traffic_source=rss"
+          "title": "Israel kills 85 people in Gaza despite calls for truce from world leaders",
+          "url": "https://www.aljazeera.com/news/2025/9/24/israel-kills-85-people-in-gaza-despite-calls-for-truce-from-world-leaders?traffic_source=rss"
+        },
+        {
+          "title": "Houthi drone strike hits Israeli city of Eilat, injuring 22",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/houthi-drone-strike-hits-israeli-city-of-eilat-injuring-22?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0015212793588362888,
-      "chg5d": 0.0408850036746221,
-      "chg1m": 0.08285380869985125
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
