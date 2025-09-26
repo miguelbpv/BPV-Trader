@@ -1,65 +1,62 @@
 {
-  "generated_at": "2025-09-26T03:27:40.520418Z",
+  "generated_at": "2025-09-26T06:18:32.853859Z",
   "recs": [
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
         {
-          "title": "Trump shutdown warning: Federal employees could lose jobs",
-          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
+          "title": "Microsoft cuts Israeli military’s access to some cloud computing, AI",
+          "url": "https://www.aljazeera.com/news/2025/9/26/microsoft-cuts-israeli-militarys-access-to-some-cloud-computing-ai?traffic_source=rss"
+        },
+        {
+          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00392802056555275,
+      "chg5d": 0.022634179299860585,
+      "chg1m": 0.06340842225442408
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Microsoft cuts Israeli military’s access to some cloud computing, AI",
+          "url": "https://www.aljazeera.com/news/2025/9/26/microsoft-cuts-israeli-militarys-access-to-some-cloud-computing-ai?traffic_source=rss"
+        },
+        {
+          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008966127961036111,
+      "chg5d": 0.016051722216029563,
+      "chg1m": 0.0330953190524765
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Microsoft cuts Israeli military’s access to some cloud computing, AI",
+          "url": "https://www.aljazeera.com/news/2025/9/26/microsoft-cuts-israeli-militarys-access-to-some-cloud-computing-ai?traffic_source=rss"
+        },
+        {
+          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump shutdown warning: Federal employees could lose jobs",
-          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004613522916351638,
-      "chg5d": -0.0063570199015492955,
-      "chg1m": 0.019979539959079896
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump shutdown warning: Federal employees could lose jobs",
-          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009561258278145706,
-      "chg5d": -0.022667864727985668,
-      "chg1m": 0.021384667918729686
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump shutdown warning: Federal employees could lose jobs",
-          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004311357154839875,
-      "chg5d": -0.003006786266209899,
-      "chg1m": 0.03653446499362561
     },
     {
       "symbol": "SOXX",
@@ -77,21 +74,6 @@
       "chg1m": 0.06932429738887788
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Sudan PM urges end to ‘political’ chemical weapons sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/sudan-pm-urges-end-to-political-chemical-weapons-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0027562464358881237,
-      "chg5d": 0.023442552274197025,
-      "chg1m": 0.24416928721173992
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
       "score": 0.85,
@@ -107,49 +89,19 @@
       "chg1m": 0.1589309651474532
     },
     {
-      "symbol": "XLE",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
+          "title": "Sudan PM urges end to ‘political’ chemical weapons sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/sudan-pm-urges-end-to-political-chemical-weapons-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008966127961036111,
-      "chg5d": 0.016051722216029563,
-      "chg1m": 0.0330953190524765
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
-      "razoes": [
-        {
-          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
-      "razoes": [
-        {
-          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00392802056555275,
-      "chg5d": 0.022634179299860585,
-      "chg1m": 0.06340842225442408
+      "chg1d": 0.0027562464358881237,
+      "chg5d": 0.023442552274197025,
+      "chg1m": 0.24416928721173992
     }
   ]
 }
