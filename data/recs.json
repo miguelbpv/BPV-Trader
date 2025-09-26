@@ -1,25 +1,10 @@
 {
-  "generated_at": "2025-09-26T00:55:43.375644Z",
+  "generated_at": "2025-09-26T03:27:40.520418Z",
   "recs": [
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump shutdown warning: Federal employees could lose jobs",
-          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004613522916351638,
-      "chg5d": -0.0063570199015492955,
-      "chg1m": 0.019979539959079896
-    },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -32,9 +17,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "IWM",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -42,14 +27,29 @@
           "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00947847682119202,
-      "chg5d": -0.02258617872896586,
-      "chg1m": 0.021470035854533043
+      "chg1d": -0.004613522916351638,
+      "chg5d": -0.0063570199015492955,
+      "chg1m": 0.019979539959079896
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump shutdown warning: Federal employees could lose jobs",
+          "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009561258278145706,
+      "chg5d": -0.022667864727985668,
+      "chg1m": 0.021384667918729686
     },
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -57,14 +57,14 @@
           "url": "https://www.aljazeera.com/news/2025/9/25/trump-shutdown-warning-federal-employees-could-lose-jobs?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004395235698708278,
-      "chg5d": -0.0030907747094000397,
-      "chg1m": 0.03644714552662371
+      "chg1d": -0.004311357154839875,
+      "chg5d": -0.003006786266209899,
+      "chg1m": 0.03653446499362561
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -72,14 +72,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/sudan-pm-urges-end-to-political-chemical-weapons-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014427701186277493,
-      "chg5d": 0.02985407980941051,
-      "chg1m": 0.1589309651474532
+      "chg1d": -0.0031958379784467247,
+      "chg5d": 0.002504017640243734,
+      "chg1m": 0.06932429738887788
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -92,9 +92,9 @@
       "chg1m": 0.24416928721173992
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -102,9 +102,54 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/sudan-pm-urges-end-to-political-chemical-weapons-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0031958379784467247,
-      "chg5d": 0.002504017640243734,
-      "chg1m": 0.06932429738887788
+      "chg1d": -0.014427701186277493,
+      "chg5d": 0.02985407980941051,
+      "chg1m": 0.1589309651474532
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.5,
+      "confianca": 14,
+      "razoes": [
+        {
+          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008966127961036111,
+      "chg5d": 0.016051722216029563,
+      "chg1m": 0.0330953190524765
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.5,
+      "confianca": 14,
+      "razoes": [
+        {
+          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.5,
+      "confianca": 14,
+      "razoes": [
+        {
+          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00392802056555275,
+      "chg5d": 0.022634179299860585,
+      "chg1m": 0.06340842225442408
     }
   ]
 }
