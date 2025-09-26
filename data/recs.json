@@ -1,74 +1,24 @@
 {
-  "generated_at": "2025-09-26T09:13:29.501878Z",
+  "generated_at": "2025-09-26T12:24:12.643138Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Aftermath of Israeli strikes on Yemen’s capital",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/aftermath-of-israeli-strikes-on-yemens-capital?traffic_source=rss"
-        },
-        {
-          "title": "US to fight efforts to ban Israel’s football team from World Cup 2026",
-          "url": "https://www.aljazeera.com/news/2025/9/26/us-to-fight-efforts-to-ban-israels-football-team-from-world-cup-2026?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills at least 27 Palestinians as Gaza attacks resume",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/26/live-israel-kills-at-least-10-palestinians-as-gaza-attacks-resume?traffic_source=rss"
-        },
-        {
-          "title": "Microsoft cuts Israeli military’s access to some cloud computing, AI",
-          "url": "https://www.aljazeera.com/news/2025/9/26/microsoft-cuts-israeli-militarys-access-to-some-cloud-computing-ai?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00392802056555275,
-      "chg5d": 0.022634179299860585,
-      "chg1m": 0.06340842225442408
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Aftermath of Israeli strikes on Yemen’s capital",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/aftermath-of-israeli-strikes-on-yemens-capital?traffic_source=rss"
-        },
-        {
-          "title": "US to fight efforts to ban Israel’s football team from World Cup 2026",
-          "url": "https://www.aljazeera.com/news/2025/9/26/us-to-fight-efforts-to-ban-israels-football-team-from-world-cup-2026?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills at least 27 Palestinians as Gaza attacks resume",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/26/live-israel-kills-at-least-10-palestinians-as-gaza-attacks-resume?traffic_source=rss"
-        },
-        {
-          "title": "Microsoft cuts Israeli military’s access to some cloud computing, AI",
-          "url": "https://www.aljazeera.com/news/2025/9/26/microsoft-cuts-israeli-militarys-access-to-some-cloud-computing-ai?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 4.55,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Eurovision to vote on Israeli participation in November",
+          "url": "https://www.aljazeera.com/news/2025/9/26/eurovision-to-vote-on-israeli-participation-in-november?traffic_source=rss"
+        },
+        {
+          "title": "UNSC to vote on proposal to delay looming Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/26/unsc-to-vote-on-proposal-to-delay-looming-iran-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Trump says he will not allow Israel to annex the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-the-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Aftermath of Israeli strikes on Yemen’s capital",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/aftermath-of-israeli-strikes-on-yemens-capital?traffic_source=rss"
@@ -76,18 +26,6 @@
         {
           "title": "US to fight efforts to ban Israel’s football team from World Cup 2026",
           "url": "https://www.aljazeera.com/news/2025/9/26/us-to-fight-efforts-to-ban-israels-football-team-from-world-cup-2026?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills at least 27 Palestinians as Gaza attacks resume",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/26/live-israel-kills-at-least-10-palestinians-as-gaza-attacks-resume?traffic_source=rss"
-        },
-        {
-          "title": "Microsoft cuts Israeli military’s access to some cloud computing, AI",
-          "url": "https://www.aljazeera.com/news/2025/9/26/microsoft-cuts-israeli-militarys-access-to-some-cloud-computing-ai?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.008966127961036111,
@@ -95,37 +33,84 @@
       "chg1m": 0.0330953190524765
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.55,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Trump announces ‘national security’ tariffs on drugs, trucks, furniture",
-          "url": "https://www.aljazeera.com/news/2025/9/26/trump-announces-national-security-tariffs-on-drugs-trucks-furniture?traffic_source=rss"
+          "title": "Eurovision to vote on Israeli participation in November",
+          "url": "https://www.aljazeera.com/news/2025/9/26/eurovision-to-vote-on-israeli-participation-in-november?traffic_source=rss"
         },
         {
-          "title": "Sudan PM urges end to ‘political’ chemical weapons sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/sudan-pm-urges-end-to-political-chemical-weapons-sanctions?traffic_source=rss"
+          "title": "UNSC to vote on proposal to delay looming Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/26/unsc-to-vote-on-proposal-to-delay-looming-iran-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Trump says he will not allow Israel to annex the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-the-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Aftermath of Israeli strikes on Yemen’s capital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/aftermath-of-israeli-strikes-on-yemens-capital?traffic_source=rss"
+        },
+        {
+          "title": "US to fight efforts to ban Israel’s football team from World Cup 2026",
+          "url": "https://www.aljazeera.com/news/2025/9/26/us-to-fight-efforts-to-ban-israels-football-team-from-world-cup-2026?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0031958379784467247,
-      "chg5d": 0.002504017640243734,
-      "chg1m": 0.06932429738887788
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.55,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Eurovision to vote on Israeli participation in November",
+          "url": "https://www.aljazeera.com/news/2025/9/26/eurovision-to-vote-on-israeli-participation-in-november?traffic_source=rss"
+        },
+        {
+          "title": "UNSC to vote on proposal to delay looming Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/26/unsc-to-vote-on-proposal-to-delay-looming-iran-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Trump says he will not allow Israel to annex the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/trump-says-he-will-not-allow-israel-to-annex-the-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Aftermath of Israeli strikes on Yemen’s capital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/aftermath-of-israeli-strikes-on-yemens-capital?traffic_source=rss"
+        },
+        {
+          "title": "US to fight efforts to ban Israel’s football team from World Cup 2026",
+          "url": "https://www.aljazeera.com/news/2025/9/26/us-to-fight-efforts-to-ban-israels-football-team-from-world-cup-2026?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00392802056555275,
+      "chg5d": 0.022634179299860585,
+      "chg1m": 0.06340842225442408
     },
     {
       "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "acao": "comprar",
+      "score": 2.51,
+      "confianca": 71,
       "razoes": [
+        {
+          "title": "Trump’s latest 100 percent tariff on pharmaceuticals: What we know",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trumps-latest-100-percent-tariff-on-pharmaceuticals-what-we-know?traffic_source=rss"
+        },
+        {
+          "title": "UNSC to vote on proposal to delay looming Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/26/unsc-to-vote-on-proposal-to-delay-looming-iran-sanctions?traffic_source=rss"
+        },
         {
           "title": "Trump announces ‘national security’ tariffs on drugs, trucks, furniture",
           "url": "https://www.aljazeera.com/news/2025/9/26/trump-announces-national-security-tariffs-on-drugs-trucks-furniture?traffic_source=rss"
-        },
-        {
-          "title": "Sudan PM urges end to ‘political’ chemical weapons sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/sudan-pm-urges-end-to-political-chemical-weapons-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": -0.014427701186277493,
@@ -134,22 +119,49 @@
     },
     {
       "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "acao": "comprar",
+      "score": 2.51,
+      "confianca": 71,
       "razoes": [
+        {
+          "title": "Trump’s latest 100 percent tariff on pharmaceuticals: What we know",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trumps-latest-100-percent-tariff-on-pharmaceuticals-what-we-know?traffic_source=rss"
+        },
+        {
+          "title": "UNSC to vote on proposal to delay looming Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/26/unsc-to-vote-on-proposal-to-delay-looming-iran-sanctions?traffic_source=rss"
+        },
         {
           "title": "Trump announces ‘national security’ tariffs on drugs, trucks, furniture",
           "url": "https://www.aljazeera.com/news/2025/9/26/trump-announces-national-security-tariffs-on-drugs-trucks-furniture?traffic_source=rss"
-        },
-        {
-          "title": "Sudan PM urges end to ‘political’ chemical weapons sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/25/sudan-pm-urges-end-to-political-chemical-weapons-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0027562464358881237,
       "chg5d": 0.023442552274197025,
       "chg1m": 0.24416928721173992
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.51,
+      "confianca": 71,
+      "razoes": [
+        {
+          "title": "Trump’s latest 100 percent tariff on pharmaceuticals: What we know",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trumps-latest-100-percent-tariff-on-pharmaceuticals-what-we-know?traffic_source=rss"
+        },
+        {
+          "title": "UNSC to vote on proposal to delay looming Iran sanctions",
+          "url": "https://www.aljazeera.com/news/2025/9/26/unsc-to-vote-on-proposal-to-delay-looming-iran-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Trump announces ‘national security’ tariffs on drugs, trucks, furniture",
+          "url": "https://www.aljazeera.com/news/2025/9/26/trump-announces-national-security-tariffs-on-drugs-trucks-furniture?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0031958379784467247,
+      "chg5d": 0.002504017640243734,
+      "chg1m": 0.06932429738887788
     }
   ]
 }
