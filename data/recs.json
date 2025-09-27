@@ -1,45 +1,18 @@
 {
-  "generated_at": "2025-09-27T18:15:00.656379Z",
+  "generated_at": "2025-09-27T21:09:56.207149Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.92,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Fact check: Israeli prime minister Netanyahu’s speech at UNGA",
-          "url": "https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s justification for Gaza hospital attack false, Reuters probe finds",
-          "url": "https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss"
-        },
-        {
-          "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Iraq resumes Kurdish oil exports to Turkiye after two-and-a-half-year halt",
-          "url": "https://www.aljazeera.com/news/2025/9/27/iraq-resumes-kurdish-oil-exports-to-turkiye-after-two-and-a-half-year-halt?traffic_source=rss"
-        },
-        {
-          "title": "Iran “still willing to talk” to US but Trump wants isolation or war",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/27/iran-still-willing-to-talk-to-us-but-trump-wants-isolation-or-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009215578716401418,
-      "chg5d": 0.03920018075011296,
-      "chg1m": 0.031046850481954675
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.92,
+      "score": 6.43,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Fact check: Israeli prime minister Netanyahu’s speech at UNGA",
+          "title": "What’s behind Microsoft’s canceling of some services to Israel’s military?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/27/whats-behind-microsofts-canceling-of-some-services-to-israels-military?traffic_source=rss"
+        },
+        {
+          "title": "Fact check: Israeli Prime Minister Netanyahu’s speech at the UNGA",
           "url": "https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss"
         },
         {
@@ -53,10 +26,6 @@
         {
           "title": "Iraq resumes Kurdish oil exports to Turkiye after two-and-a-half-year halt",
           "url": "https://www.aljazeera.com/news/2025/9/27/iraq-resumes-kurdish-oil-exports-to-turkiye-after-two-and-a-half-year-halt?traffic_source=rss"
-        },
-        {
-          "title": "Iran “still willing to talk” to US but Trump wants isolation or war",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/27/iran-still-willing-to-talk-to-us-but-trump-wants-isolation-or-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,13 +33,48 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.59,
+      "score": 6.43,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Fact check: Israeli prime minister Netanyahu’s speech at UNGA",
+          "title": "What’s behind Microsoft’s canceling of some services to Israel’s military?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/27/whats-behind-microsofts-canceling-of-some-services-to-israels-military?traffic_source=rss"
+        },
+        {
+          "title": "Fact check: Israeli Prime Minister Netanyahu’s speech at the UNGA",
+          "url": "https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s justification for Gaza hospital attack false, Reuters probe finds",
+          "url": "https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss"
+        },
+        {
+          "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Iraq resumes Kurdish oil exports to Turkiye after two-and-a-half-year halt",
+          "url": "https://www.aljazeera.com/news/2025/9/27/iraq-resumes-kurdish-oil-exports-to-turkiye-after-two-and-a-half-year-halt?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009215578716401418,
+      "chg5d": 0.03920018075011296,
+      "chg1m": 0.031046850481954675
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.1,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "What’s behind Microsoft’s canceling of some services to Israel’s military?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/27/whats-behind-microsofts-canceling-of-some-services-to-israels-military?traffic_source=rss"
+        },
+        {
+          "title": "Fact check: Israeli Prime Minister Netanyahu’s speech at the UNGA",
           "url": "https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss"
         },
         {
@@ -84,10 +88,6 @@
         {
           "title": "Iran “still willing to talk” to US but Trump wants isolation or war",
           "url": "https://www.aljazeera.com/video/quotable/2025/9/27/iran-still-willing-to-talk-to-us-but-trump-wants-isolation-or-war?traffic_source=rss"
-        },
-        {
-          "title": "Iran recalls envoys to UK, France, Germany as UN sanctions reimposed",
-          "url": "https://www.aljazeera.com/news/2025/9/27/iran-recalls-envoys-to-uk-france-germany-as-un-sanctions-reimposed?traffic_source=rss"
         }
       ],
       "chg1d": 0.0064004624850312235,
@@ -95,28 +95,9 @@
       "chg1m": 0.07254604264307868
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Iran recalls envoys to UK, France, Germany as UN sanctions reimposed",
-          "url": "https://www.aljazeera.com/news/2025/9/27/iran-recalls-envoys-to-uk-france-germany-as-un-sanctions-reimposed?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0021995228153891106,
-      "chg5d": 0.011171293161814377,
-      "chg1m": 0.06958701360706605
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.69,
+      "score": 1.68,
       "confianca": 48,
       "razoes": [
         {
@@ -135,7 +116,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.69,
+      "score": 1.68,
       "confianca": 48,
       "razoes": [
         {
@@ -150,6 +131,25 @@
       "chg1d": -0.011927998265018475,
       "chg5d": 0.032053460188016795,
       "chg1m": 0.14237953947093496
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.68,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Iran recalls envoys to UK, France, Germany as UN sanctions reimposed",
+          "url": "https://www.aljazeera.com/news/2025/9/27/iran-recalls-envoys-to-uk-france-germany-as-un-sanctions-reimposed?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0021995228153891106,
+      "chg5d": 0.011171293161814377,
+      "chg1m": 0.06958701360706605
     }
   ]
 }
