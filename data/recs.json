@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-09-28T01:02:05.565640Z",
+  "generated_at": "2025-09-28T03:34:25.211355Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.11,
+      "score": 6.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Malaysia’s Mahathir at 100: Israel’s genocide in Gaza will not be forgotten",
+          "url": "https://www.aljazeera.com/news/2025/9/28/malaysias-mahathir-at-100-israels-genocide-in-gaza-will-not-be-forgotten?traffic_source=rss"
+        },
         {
           "title": "Nearly half of Gaza war deaths reported in areas Israel called ‘safe’",
           "url": "https://www.aljazeera.com/news/2025/9/27/nearly-half-of-gaza-war-deaths-reported-in-areas-israel-called-safe?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Israel’s justification for Gaza hospital attack false, Reuters probe finds",
           "url": "https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss"
-        },
-        {
-          "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.009215578716401418,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.11,
+      "score": 6.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Malaysia’s Mahathir at 100: Israel’s genocide in Gaza will not be forgotten",
+          "url": "https://www.aljazeera.com/news/2025/9/28/malaysias-mahathir-at-100-israels-genocide-in-gaza-will-not-be-forgotten?traffic_source=rss"
+        },
         {
           "title": "Nearly half of Gaza war deaths reported in areas Israel called ‘safe’",
           "url": "https://www.aljazeera.com/news/2025/9/27/nearly-half-of-gaza-war-deaths-reported-in-areas-israel-called-safe?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israel’s justification for Gaza hospital attack false, Reuters probe finds",
           "url": "https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss"
-        },
-        {
-          "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.79,
+      "score": 4.96,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Malaysia’s Mahathir at 100: Israel’s genocide in Gaza will not be forgotten",
+          "url": "https://www.aljazeera.com/news/2025/9/28/malaysias-mahathir-at-100-israels-genocide-in-gaza-will-not-be-forgotten?traffic_source=rss"
+        },
         {
           "title": "Nearly half of Gaza war deaths reported in areas Israel called ‘safe’",
           "url": "https://www.aljazeera.com/news/2025/9/27/nearly-half-of-gaza-war-deaths-reported-in-areas-israel-called-safe?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Israel’s justification for Gaza hospital attack false, Reuters probe finds",
           "url": "https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss"
-        },
-        {
-          "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0064004624850312235,
@@ -95,37 +95,29 @@
       "chg1m": 0.07254604264307868
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Iran recalls envoys to UK, France, Germany as UN sanctions reimposed",
-          "url": "https://www.aljazeera.com/news/2025/9/27/iran-recalls-envoys-to-uk-france-germany-as-un-sanctions-reimposed?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0021995228153891106,
-      "chg5d": 0.011171293161814377,
-      "chg1m": 0.06958701360706605
+      "chg1d": 0.0020746669475014768,
+      "chg5d": 0.020779917395269007,
+      "chg1m": 0.23574025974025972
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Iran recalls envoys to UK, France, Germany as UN sanctions reimposed",
-          "url": "https://www.aljazeera.com/news/2025/9/27/iran-recalls-envoys-to-uk-france-germany-as-un-sanctions-reimposed?traffic_source=rss"
         }
       ],
       "chg1d": -0.011927998265018475,
@@ -133,23 +125,19 @@
       "chg1m": 0.14237953947093496
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Iran recalls envoys to UK, France, Germany as UN sanctions reimposed",
-          "url": "https://www.aljazeera.com/news/2025/9/27/iran-recalls-envoys-to-uk-france-germany-as-un-sanctions-reimposed?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0020746669475014768,
-      "chg5d": 0.020779917395269007,
-      "chg1m": 0.23574025974025972
+      "chg1d": 0.0021995228153891106,
+      "chg5d": 0.011171293161814377,
+      "chg1m": 0.06958701360706605
     }
   ]
 }
