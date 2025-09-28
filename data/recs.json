@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-09-28T03:34:25.211355Z",
+  "generated_at": "2025-09-28T06:17:08.223543Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.28,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Malaysia’s Mahathir at 100: Israel’s genocide in Gaza will not be forgotten",
-          "url": "https://www.aljazeera.com/news/2025/9/28/malaysias-mahathir-at-100-israels-genocide-in-gaza-will-not-be-forgotten?traffic_source=rss"
-        },
-        {
-          "title": "Nearly half of Gaza war deaths reported in areas Israel called ‘safe’",
-          "url": "https://www.aljazeera.com/news/2025/9/27/nearly-half-of-gaza-war-deaths-reported-in-areas-israel-called-safe?traffic_source=rss"
-        },
-        {
-          "title": "What’s behind Microsoft’s canceling of some services to Israel’s military?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/27/whats-behind-microsofts-canceling-of-some-services-to-israels-military?traffic_source=rss"
-        },
-        {
-          "title": "Fact check: Israeli Prime Minister Netanyahu’s speech at the UNGA",
-          "url": "https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s justification for Gaza hospital attack false, Reuters probe finds",
-          "url": "https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009215578716401418,
-      "chg5d": 0.03920018075011296,
-      "chg1m": 0.031046850481954675
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.28,
+      "score": 5.71,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israeli attacks follow displaced Gaza people, 8 killed in Nuseirat",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/28/live-israeli-attacks-follow-displaced-gaza-people-8-killed-in-nuseirat?traffic_source=rss"
+        },
+        {
+          "title": "Israeli team out of top Italian cycling race over Gaza war protest concerns",
+          "url": "https://www.aljazeera.com/news/2025/9/28/israeli-team-out-of-top-italian-cycling-race-over-gaza-war-protest-concerns?traffic_source=rss"
+        },
         {
           "title": "Malaysia’s Mahathir at 100: Israel’s genocide in Gaza will not be forgotten",
           "url": "https://www.aljazeera.com/news/2025/9/28/malaysias-mahathir-at-100-israels-genocide-in-gaza-will-not-be-forgotten?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "What’s behind Microsoft’s canceling of some services to Israel’s military?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/9/27/whats-behind-microsofts-canceling-of-some-services-to-israels-military?traffic_source=rss"
-        },
-        {
-          "title": "Fact check: Israeli Prime Minister Netanyahu’s speech at the UNGA",
-          "url": "https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s justification for Gaza hospital attack false, Reuters probe finds",
-          "url": "https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.96,
+      "score": 5.71,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israeli attacks follow displaced Gaza people, 8 killed in Nuseirat",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/28/live-israeli-attacks-follow-displaced-gaza-people-8-killed-in-nuseirat?traffic_source=rss"
+        },
+        {
+          "title": "Israeli team out of top Italian cycling race over Gaza war protest concerns",
+          "url": "https://www.aljazeera.com/news/2025/9/28/israeli-team-out-of-top-italian-cycling-race-over-gaza-war-protest-concerns?traffic_source=rss"
+        },
         {
           "title": "Malaysia’s Mahathir at 100: Israel’s genocide in Gaza will not be forgotten",
           "url": "https://www.aljazeera.com/news/2025/9/28/malaysias-mahathir-at-100-israels-genocide-in-gaza-will-not-be-forgotten?traffic_source=rss"
@@ -80,14 +57,6 @@
         {
           "title": "What’s behind Microsoft’s canceling of some services to Israel’s military?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/9/27/whats-behind-microsofts-canceling-of-some-services-to-israels-military?traffic_source=rss"
-        },
-        {
-          "title": "Fact check: Israeli Prime Minister Netanyahu’s speech at the UNGA",
-          "url": "https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s justification for Gaza hospital attack false, Reuters probe finds",
-          "url": "https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss"
         }
       ],
       "chg1d": 0.0064004624850312235,
@@ -95,24 +64,40 @@
       "chg1m": 0.07254604264307868
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.71,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
+          "title": "LIVE: Israeli attacks follow displaced Gaza people, 8 killed in Nuseirat",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/28/live-israeli-attacks-follow-displaced-gaza-people-8-killed-in-nuseirat?traffic_source=rss"
+        },
+        {
+          "title": "Israeli team out of top Italian cycling race over Gaza war protest concerns",
+          "url": "https://www.aljazeera.com/news/2025/9/28/israeli-team-out-of-top-italian-cycling-race-over-gaza-war-protest-concerns?traffic_source=rss"
+        },
+        {
+          "title": "Malaysia’s Mahathir at 100: Israel’s genocide in Gaza will not be forgotten",
+          "url": "https://www.aljazeera.com/news/2025/9/28/malaysias-mahathir-at-100-israels-genocide-in-gaza-will-not-be-forgotten?traffic_source=rss"
+        },
+        {
+          "title": "Nearly half of Gaza war deaths reported in areas Israel called ‘safe’",
+          "url": "https://www.aljazeera.com/news/2025/9/27/nearly-half-of-gaza-war-deaths-reported-in-areas-israel-called-safe?traffic_source=rss"
+        },
+        {
+          "title": "What’s behind Microsoft’s canceling of some services to Israel’s military?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/27/whats-behind-microsofts-canceling-of-some-services-to-israels-military?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0020746669475014768,
-      "chg5d": 0.020779917395269007,
-      "chg1m": 0.23574025974025972
+      "chg1d": 0.009215578716401418,
+      "chg5d": 0.03920018075011296,
+      "chg1m": 0.031046850481954675
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.83,
+      "score": 0.82,
       "confianca": 23,
       "razoes": [
         {
@@ -127,7 +112,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.83,
+      "score": 0.82,
       "confianca": 23,
       "razoes": [
         {
@@ -138,6 +123,21 @@
       "chg1d": 0.0021995228153891106,
       "chg5d": 0.011171293161814377,
       "chg1m": 0.06958701360706605
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.82,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/27/iran-slams-illegal-vote-as-un-reimposes-decade-old-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0020746669475014768,
+      "chg5d": 0.020779917395269007,
+      "chg1m": 0.23574025974025972
     }
   ]
 }
