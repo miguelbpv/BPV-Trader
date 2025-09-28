@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-09-28T12:21:43.498139Z",
+  "generated_at": "2025-09-28T15:10:02.786194Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.01,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "For autistic children, Israel’s war on Gaza brings acute suffering",
-          "url": "https://www.aljazeera.com/news/2025/9/28/for-autistic-children-israels-war-on-gaza-brings-acute-suffering?traffic_source=rss"
-        },
-        {
-          "title": "Tens of thousands rally in Berlin against German support for Israel",
-          "url": "https://www.aljazeera.com/gallery/2025/9/28/tens-of-thousands-rally-in-berlin-against-german-support-for-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iranians fear more economic pain, war as UN sanctions snapback",
-          "url": "https://www.aljazeera.com/news/2025/9/28/iranians-fear-more-economic-pain-war-as-un-sanctions-snapback?traffic_source=rss"
-        },
-        {
-          "title": "Saudi FM condemns Israel’s war on Gaza and attack on Qatar",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/saudi-fm-condemns-israels-war-on-gaza-and-attack-on-qatar?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 40 people in Gaza since dawn, child dies of malnutrition",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/28/live-israeli-attacks-follow-displaced-gaza-people-8-killed-in-nuseirat?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009215578716401418,
-      "chg5d": 0.03920018075011296,
-      "chg1m": 0.031046850481954675
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.01,
+      "score": 4.78,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Sanctions on Iran have been a spectacular strategic failure for the West",
+          "url": "https://www.aljazeera.com/opinions/2025/9/28/sanctions-on-iran-have-been-a-spectacular-strategic-failure-for-the-west?traffic_source=rss"
+        },
         {
           "title": "For autistic children, Israel’s war on Gaza brings acute suffering",
           "url": "https://www.aljazeera.com/news/2025/9/28/for-autistic-children-israels-war-on-gaza-brings-acute-suffering?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Iranians fear more economic pain, war as UN sanctions snapback",
           "url": "https://www.aljazeera.com/news/2025/9/28/iranians-fear-more-economic-pain-war-as-un-sanctions-snapback?traffic_source=rss"
-        },
-        {
-          "title": "Saudi FM condemns Israel’s war on Gaza and attack on Qatar",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/saudi-fm-condemns-israels-war-on-gaza-and-attack-on-qatar?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 40 people in Gaza since dawn, child dies of malnutrition",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/28/live-israeli-attacks-follow-displaced-gaza-people-8-killed-in-nuseirat?traffic_source=rss"
         }
       ],
       "chg1d": 0.0064004624850312235,
@@ -64,11 +33,19 @@
       "chg1m": 0.07254604264307868
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.01,
+      "score": 4.78,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Sanctions on Iran have been a spectacular strategic failure for the West",
+          "url": "https://www.aljazeera.com/opinions/2025/9/28/sanctions-on-iran-have-been-a-spectacular-strategic-failure-for-the-west?traffic_source=rss"
+        },
         {
           "title": "For autistic children, Israel’s war on Gaza brings acute suffering",
           "url": "https://www.aljazeera.com/news/2025/9/28/for-autistic-children-israels-war-on-gaza-brings-acute-suffering?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Iranians fear more economic pain, war as UN sanctions snapback",
           "url": "https://www.aljazeera.com/news/2025/9/28/iranians-fear-more-economic-pain-war-as-un-sanctions-snapback?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009215578716401418,
+      "chg5d": 0.03920018075011296,
+      "chg1m": 0.031046850481954675
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.78,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
         },
         {
-          "title": "Saudi FM condemns Israel’s war on Gaza and attack on Qatar",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/saudi-fm-condemns-israels-war-on-gaza-and-attack-on-qatar?traffic_source=rss"
+          "title": "Sanctions on Iran have been a spectacular strategic failure for the West",
+          "url": "https://www.aljazeera.com/opinions/2025/9/28/sanctions-on-iran-have-been-a-spectacular-strategic-failure-for-the-west?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel kills 40 people in Gaza since dawn, child dies of malnutrition",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/28/live-israeli-attacks-follow-displaced-gaza-people-8-killed-in-nuseirat?traffic_source=rss"
+          "title": "For autistic children, Israel’s war on Gaza brings acute suffering",
+          "url": "https://www.aljazeera.com/news/2025/9/28/for-autistic-children-israels-war-on-gaza-brings-acute-suffering?traffic_source=rss"
+        },
+        {
+          "title": "Tens of thousands rally in Berlin against German support for Israel",
+          "url": "https://www.aljazeera.com/gallery/2025/9/28/tens-of-thousands-rally-in-berlin-against-german-support-for-israel?traffic_source=rss"
+        },
+        {
+          "title": "Iranians fear more economic pain, war as UN sanctions snapback",
+          "url": "https://www.aljazeera.com/news/2025/9/28/iranians-fear-more-economic-pain-war-as-un-sanctions-snapback?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -96,10 +96,18 @@
     },
     {
       "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "acao": "comprar",
+      "score": 2.56,
+      "confianca": 73,
       "razoes": [
+        {
+          "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Sanctions on Iran have been a spectacular strategic failure for the West",
+          "url": "https://www.aljazeera.com/opinions/2025/9/28/sanctions-on-iran-have-been-a-spectacular-strategic-failure-for-the-west?traffic_source=rss"
+        },
         {
           "title": "Iranians fear more economic pain, war as UN sanctions snapback",
           "url": "https://www.aljazeera.com/news/2025/9/28/iranians-fear-more-economic-pain-war-as-un-sanctions-snapback?traffic_source=rss"
@@ -111,10 +119,18 @@
     },
     {
       "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "acao": "comprar",
+      "score": 2.56,
+      "confianca": 73,
       "razoes": [
+        {
+          "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Sanctions on Iran have been a spectacular strategic failure for the West",
+          "url": "https://www.aljazeera.com/opinions/2025/9/28/sanctions-on-iran-have-been-a-spectacular-strategic-failure-for-the-west?traffic_source=rss"
+        },
         {
           "title": "Iranians fear more economic pain, war as UN sanctions snapback",
           "url": "https://www.aljazeera.com/news/2025/9/28/iranians-fear-more-economic-pain-war-as-un-sanctions-snapback?traffic_source=rss"
@@ -126,10 +142,18 @@
     },
     {
       "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "acao": "comprar",
+      "score": 2.56,
+      "confianca": 73,
       "razoes": [
+        {
+          "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Sanctions on Iran have been a spectacular strategic failure for the West",
+          "url": "https://www.aljazeera.com/opinions/2025/9/28/sanctions-on-iran-have-been-a-spectacular-strategic-failure-for-the-west?traffic_source=rss"
+        },
         {
           "title": "Iranians fear more economic pain, war as UN sanctions snapback",
           "url": "https://www.aljazeera.com/news/2025/9/28/iranians-fear-more-economic-pain-war-as-un-sanctions-snapback?traffic_source=rss"
