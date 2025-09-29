@@ -1,60 +1,81 @@
 {
-  "generated_at": "2025-09-29T18:18:47.520116Z",
+  "generated_at": "2025-09-29T21:10:38.011424Z",
   "recs": [
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.49,
+      "confianca": 71,
       "razoes": [
         {
-          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
-          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
+          "title": "Here’s the full text of Trump’s 20-point plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/29/heres-the-full-text-of-trumps-20-point-plan-to-end-israels-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel carries out drone strike in southern Lebanon, killing one person",
+          "url": "https://www.aljazeera.com/news/2025/9/29/israel-carries-out-drone-strike-in-southern-lebanon-killing-one-person?traffic_source=rss"
+        },
+        {
+          "title": "Trump outlines plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/trump-outlines-plan-to-end-israels-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli PM Netanyahu apologises to Qatar over Doha attack",
+          "url": "https://www.aljazeera.com/news/2025/9/29/israeli-pm-netanyahu-apologises-to-qatar-over-doha-attack?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006621305238513324,
-      "chg5d": 0.009316656274071161,
-      "chg1m": 0.1548663281151635
+      "chg1d": 0.00931396684720175,
+      "chg5d": 0.024126230770832098,
+      "chg1m": 0.07847779385330354
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.49,
+      "confianca": 71,
       "razoes": [
         {
-          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
-          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.016142592903985217,
-      "chg5d": 0.009480058467320987,
-      "chg1m": 0.26644486941031614
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
+          "title": "Here’s the full text of Trump’s 20-point plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/29/heres-the-full-text-of-trumps-20-point-plan-to-end-israels-war-on-gaza?traffic_source=rss"
+        },
         {
-          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
-          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
+          "title": "Israel carries out drone strike in southern Lebanon, killing one person",
+          "url": "https://www.aljazeera.com/news/2025/9/29/israel-carries-out-drone-strike-in-southern-lebanon-killing-one-person?traffic_source=rss"
+        },
+        {
+          "title": "Trump outlines plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/trump-outlines-plan-to-end-israels-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli PM Netanyahu apologises to Qatar over Doha attack",
+          "url": "https://www.aljazeera.com/news/2025/9/29/israeli-pm-netanyahu-apologises-to-qatar-over-doha-attack?traffic_source=rss"
         }
       ],
-      "chg1d": 0.005542536175278091,
-      "chg5d": 0.0018159581959011567,
-      "chg1m": 0.07036230449415949
+      "chg1d": -0.018371562126318054,
+      "chg5d": 0.029998859358959684,
+      "chg1m": 0.00444938820912115
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 2.49,
+      "confianca": 71,
       "razoes": [
         {
-          "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
-          "url": "https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss"
+          "title": "Here’s the full text of Trump’s 20-point plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/29/heres-the-full-text-of-trumps-20-point-plan-to-end-israels-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel carries out drone strike in southern Lebanon, killing one person",
+          "url": "https://www.aljazeera.com/news/2025/9/29/israel-carries-out-drone-strike-in-southern-lebanon-killing-one-person?traffic_source=rss"
+        },
+        {
+          "title": "Trump outlines plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/trump-outlines-plan-to-end-israels-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli PM Netanyahu apologises to Qatar over Doha attack",
+          "url": "https://www.aljazeera.com/news/2025/9/29/israeli-pm-netanyahu-apologises-to-qatar-over-doha-attack?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -62,34 +83,49 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
-          "url": "https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss"
+          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
+          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
         }
       ],
-      "chg1d": -0.02255679965213598,
-      "chg5d": 0.025607391353940967,
-      "chg1m": 0.00016685205784205303
+      "chg1d": 0.011655036152682059,
+      "chg5d": 0.005021925245353998,
+      "chg1m": 0.2608519110365965
     },
     {
-      "symbol": "LMT",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
-          "url": "https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss"
+          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
+          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011375759067782733,
-      "chg5d": 0.02621828098003711,
-      "chg1m": 0.08068087158577755
+      "chg1d": 0.0003719822936429072,
+      "chg5d": -0.003335433421042795,
+      "chg1m": 0.06485844387250048
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
+          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00047556335967221045,
+      "chg5d": 0.0022007849466310486,
+      "chg1m": 0.14672430436059936
     }
   ]
 }
