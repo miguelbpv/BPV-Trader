@@ -1,42 +1,11 @@
 {
-  "generated_at": "2025-09-29T12:25:08.713403Z",
+  "generated_at": "2025-09-29T15:12:43.668414Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
-          "url": "https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera reporter films Israeli strike on building in Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/al-jazeera-reporter-films-israeli-strike-on-building-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Trump to meet Netanyahu as ending Israel’s Gaza war reaches pressure point",
-          "url": "https://www.aljazeera.com/news/2025/9/29/trump-to-meet-netanyahu-as-ending-israels-gaza-war-reaches-pressure-point?traffic_source=rss"
-        },
-        {
-          "title": "Iran hangs ‘one of the most important’ spies for Israel in latest execution",
-          "url": "https://www.aljazeera.com/news/2025/9/29/iran-hangs-one-of-the-most-important-spies-for-israel-in-latest-execution?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 50 Palestinians in Gaza in past 24 hours",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/29/live-israel-keeps-pummeling-gaza-ahead-of-trump-netanyahu-meeting?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0064004624850312235,
-      "chg5d": 0.03065928024696579,
-      "chg1m": 0.07254604264307868
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
         {
           "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
@@ -49,14 +18,6 @@
         {
           "title": "Trump to meet Netanyahu as ending Israel’s Gaza war reaches pressure point",
           "url": "https://www.aljazeera.com/news/2025/9/29/trump-to-meet-netanyahu-as-ending-israels-gaza-war-reaches-pressure-point?traffic_source=rss"
-        },
-        {
-          "title": "Iran hangs ‘one of the most important’ spies for Israel in latest execution",
-          "url": "https://www.aljazeera.com/news/2025/9/29/iran-hangs-one-of-the-most-important-spies-for-israel-in-latest-execution?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 50 Palestinians in Gaza in past 24 hours",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/29/live-israel-keeps-pummeling-gaza-ahead-of-trump-netanyahu-meeting?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,9 +26,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
         {
           "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
@@ -80,19 +41,34 @@
         {
           "title": "Trump to meet Netanyahu as ending Israel’s Gaza war reaches pressure point",
           "url": "https://www.aljazeera.com/news/2025/9/29/trump-to-meet-netanyahu-as-ending-israels-gaza-war-reaches-pressure-point?traffic_source=rss"
-        },
-        {
-          "title": "Iran hangs ‘one of the most important’ spies for Israel in latest execution",
-          "url": "https://www.aljazeera.com/news/2025/9/29/iran-hangs-one-of-the-most-important-spies-for-israel-in-latest-execution?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 50 Palestinians in Gaza in past 24 hours",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/29/live-israel-keeps-pummeling-gaza-ahead-of-trump-netanyahu-meeting?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009215578716401418,
-      "chg5d": 0.03920018075011296,
-      "chg1m": 0.031046850481954675
+      "chg1d": -0.01717577997608434,
+      "chg5d": 0.031253564503250765,
+      "chg1m": 0.005672969966629487
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
+          "url": "https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss"
+        },
+        {
+          "title": "Al Jazeera reporter films Israeli strike on building in Gaza City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/al-jazeera-reporter-films-israeli-strike-on-building-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Trump to meet Netanyahu as ending Israel’s Gaza war reaches pressure point",
+          "url": "https://www.aljazeera.com/news/2025/9/29/trump-to-meet-netanyahu-as-ending-israels-gaza-war-reaches-pressure-point?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019684473986541988,
+      "chg5d": 0.034648931076833485,
+      "chg1m": 0.08955894603007589
     }
   ]
 }
