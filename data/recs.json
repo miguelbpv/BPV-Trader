@@ -1,23 +1,60 @@
 {
-  "generated_at": "2025-09-29T15:12:43.668414Z",
+  "generated_at": "2025-09-29T18:18:47.520116Z",
   "recs": [
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
+          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006621305238513324,
+      "chg5d": 0.009316656274071161,
+      "chg1m": 0.1548663281151635
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
+          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016142592903985217,
+      "chg5d": 0.009480058467320987,
+      "chg1m": 0.26644486941031614
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
+          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005542536175278091,
+      "chg5d": 0.0018159581959011567,
+      "chg1m": 0.07036230449415949
+    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
           "url": "https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera reporter films Israeli strike on building in Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/al-jazeera-reporter-films-israeli-strike-on-building-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Trump to meet Netanyahu as ending Israel’s Gaza war reaches pressure point",
-          "url": "https://www.aljazeera.com/news/2025/9/29/trump-to-meet-netanyahu-as-ending-israels-gaza-war-reaches-pressure-point?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,48 +64,32 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
           "url": "https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera reporter films Israeli strike on building in Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/al-jazeera-reporter-films-israeli-strike-on-building-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Trump to meet Netanyahu as ending Israel’s Gaza war reaches pressure point",
-          "url": "https://www.aljazeera.com/news/2025/9/29/trump-to-meet-netanyahu-as-ending-israels-gaza-war-reaches-pressure-point?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01717577997608434,
-      "chg5d": 0.031253564503250765,
-      "chg1m": 0.005672969966629487
+      "chg1d": -0.02255679965213598,
+      "chg5d": 0.025607391353940967,
+      "chg1m": 0.00016685205784205303
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "I have decided to stay in Gaza City as Israel seeks to wipe it out",
           "url": "https://www.aljazeera.com/opinions/2025/9/29/i-have-decided-to-stay-in-gaza-city-as-israel-seeks-to-wipe-it-out?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera reporter films Israeli strike on building in Gaza City",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/al-jazeera-reporter-films-israeli-strike-on-building-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Trump to meet Netanyahu as ending Israel’s Gaza war reaches pressure point",
-          "url": "https://www.aljazeera.com/news/2025/9/29/trump-to-meet-netanyahu-as-ending-israels-gaza-war-reaches-pressure-point?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019684473986541988,
-      "chg5d": 0.034648931076833485,
-      "chg1m": 0.08955894603007589
+      "chg1d": 0.011375759067782733,
+      "chg5d": 0.02621828098003711,
+      "chg1m": 0.08068087158577755
     }
   ]
 }
