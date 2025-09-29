@@ -1,10 +1,41 @@
 {
-  "generated_at": "2025-09-29T00:58:04.479943Z",
+  "generated_at": "2025-09-29T03:33:23.032129Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.18,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘Horrific’: Israel bombs hospitals, residential towers amid Gaza onslaught",
+          "url": "https://www.aljazeera.com/news/2025/9/28/horrific-israel-bombs-hospitals-residential-towers-amid-gaza-onslaught?traffic_source=rss"
+        },
+        {
+          "title": "What’s the fallout from the latest UN sanctions on Iran?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/28/whats-the-fallout-from-the-latest-un-sanctions-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Dutch PM Schoof: On Gaza, Israel and a collapsed coalition",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/9/28/dutch-pm-schoof-on-gaza-israel-and-a-collapsed-coalition?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: How is Lebanon’s Hezbollah regrouping after war with Israel?",
+          "url": "https://www.aljazeera.com/features/2025/9/28/after-war-with-israel-how-is-lebanons-hezbollah-regrouping?traffic_source=rss"
+        },
+        {
+          "title": "UN sanctions “exacerbate” Iran’s economic situation",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/28/un-sanctions-exacerbate-irans-economic-situation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.06,
+      "score": 5.18,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.06,
+      "score": 5.18,
       "confianca": 95,
       "razoes": [
         {
@@ -64,41 +95,10 @@
       "chg1m": 0.031046850481954675
     },
     {
-      "symbol": "BRENT",
+      "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 6.06,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "‘Horrific’: Israel bombs hospitals, residential towers amid Gaza onslaught",
-          "url": "https://www.aljazeera.com/news/2025/9/28/horrific-israel-bombs-hospitals-residential-towers-amid-gaza-onslaught?traffic_source=rss"
-        },
-        {
-          "title": "What’s the fallout from the latest UN sanctions on Iran?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/28/whats-the-fallout-from-the-latest-un-sanctions-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Dutch PM Schoof: On Gaza, Israel and a collapsed coalition",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/9/28/dutch-pm-schoof-on-gaza-israel-and-a-collapsed-coalition?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: How is Lebanon’s Hezbollah regrouping after war with Israel?",
-          "url": "https://www.aljazeera.com/features/2025/9/28/after-war-with-israel-how-is-lebanons-hezbollah-regrouping?traffic_source=rss"
-        },
-        {
-          "title": "UN sanctions “exacerbate” Iran’s economic situation",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/28/un-sanctions-exacerbate-irans-economic-situation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 3.36,
-      "confianca": 95,
+      "score": 2.51,
+      "confianca": 71,
       "razoes": [
         {
           "title": "What’s the fallout from the latest UN sanctions on Iran?",
@@ -111,10 +111,29 @@
         {
           "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0020746669475014768,
+      "chg5d": 0.020779917395269007,
+      "chg1m": 0.23574025974025972
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.51,
+      "confianca": 71,
+      "razoes": [
+        {
+          "title": "What’s the fallout from the latest UN sanctions on Iran?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/28/whats-the-fallout-from-the-latest-un-sanctions-on-iran?traffic_source=rss"
         },
         {
-          "title": "Sanctions on Iran have been a spectacular strategic failure for the West",
-          "url": "https://www.aljazeera.com/opinions/2025/9/28/sanctions-on-iran-have-been-a-spectacular-strategic-failure-for-the-west?traffic_source=rss"
+          "title": "UN sanctions “exacerbate” Iran’s economic situation",
+          "url": "https://www.aljazeera.com/video/quotable/2025/9/28/un-sanctions-exacerbate-irans-economic-situation?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
         }
       ],
       "chg1d": 0.0021995228153891106,
@@ -124,8 +143,8 @@
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 3.36,
-      "confianca": 95,
+      "score": 2.51,
+      "confianca": 71,
       "razoes": [
         {
           "title": "What’s the fallout from the latest UN sanctions on Iran?",
@@ -138,42 +157,11 @@
         {
           "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
-        },
-        {
-          "title": "Sanctions on Iran have been a spectacular strategic failure for the West",
-          "url": "https://www.aljazeera.com/opinions/2025/9/28/sanctions-on-iran-have-been-a-spectacular-strategic-failure-for-the-west?traffic_source=rss"
         }
       ],
       "chg1d": -0.011927998265018475,
       "chg5d": 0.032053460188016795,
       "chg1m": 0.14237953947093496
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 3.36,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What’s the fallout from the latest UN sanctions on Iran?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/28/whats-the-fallout-from-the-latest-un-sanctions-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "UN sanctions “exacerbate” Iran’s economic situation",
-          "url": "https://www.aljazeera.com/video/quotable/2025/9/28/un-sanctions-exacerbate-irans-economic-situation?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s parliament condemns ‘illegal’ sanctions over its nuclear programme",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/28/irans-parliament-condemns-illegal-sanctions-over-its-nuclear-programme?traffic_source=rss"
-        },
-        {
-          "title": "Sanctions on Iran have been a spectacular strategic failure for the West",
-          "url": "https://www.aljazeera.com/opinions/2025/9/28/sanctions-on-iran-have-been-a-spectacular-strategic-failure-for-the-west?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0020746669475014768,
-      "chg5d": 0.020779917395269007,
-      "chg1m": 0.23574025974025972
     }
   ]
 }
