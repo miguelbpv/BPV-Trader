@@ -1,12 +1,62 @@
 {
-  "generated_at": "2025-09-30T18:17:28.831222Z",
+  "generated_at": "2025-09-30T21:10:42.047975Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
+        },
+        {
+          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
+          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010852713178294619,
+      "chg5d": 0.0015698587127157026,
+      "chg1m": -0.011837592654054733
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
+        },
+        {
+          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
+          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0146957193381844,
+      "chg5d": 0.02576694680173416,
+      "chg1m": 0.09564778438645388
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
+        },
         {
           "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
           "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
@@ -21,47 +71,24 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
-          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+          "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
+          "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008008455628277567,
-      "chg5d": 0.01900671913206074,
-      "chg1m": 0.08842701314663218
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
-          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0169435215946844,
-      "chg5d": -0.004597443372953698,
-      "chg1m": -0.017922336541652886
+      "chg1d": 0.02217911649526041,
+      "chg5d": -0.012097202079869687,
+      "chg1m": 0.20972841859054886
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -69,29 +96,14 @@
           "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0014501914996466975,
-      "chg5d": -0.0035991243367591943,
-      "chg1m": 0.09465188325452481
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
-          "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013925996413278215,
-      "chg5d": -0.020073573626684427,
-      "chg1m": 0.19996101702256688
+      "chg1d": 0.008143383036477886,
+      "chg5d": 0.0059738043115283804,
+      "chg1m": 0.10516875917169416
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -99,9 +111,9 @@
           "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0017572017743426923,
-      "chg5d": 0.0008214756463347986,
-      "chg1m": 0.29851269828445237
+      "chg1d": 0.00569285588140578,
+      "chg5d": 0.00475345351890488,
+      "chg1m": 0.30361423069672244
     }
   ]
 }
