@@ -1,33 +1,6 @@
 {
-  "generated_at": "2025-09-30T12:25:39.206175Z",
+  "generated_at": "2025-09-30T15:11:28.527774Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "What is Israel’s endgame in Africa?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers detain Palestinian children for ‘spying’ in West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/israeli-soldiers-detain-palestinian-children-for-spying-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 37 people in Gaza; Hamas reviews Trump’s plan to end war",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
@@ -35,6 +8,10 @@
       "confianca": 77,
       "razoes": [
         {
+          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+        },
+        {
           "title": "What is Israel’s endgame in Africa?",
           "url": "https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss"
         },
@@ -45,15 +22,11 @@
         {
           "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
           "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 37 people in Gaza; Hamas reviews Trump’s plan to end war",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00931396684720175,
-      "chg5d": 0.024126230770832098,
-      "chg1m": 0.07847779385330354
+      "chg1d": 0.010406927110858173,
+      "chg5d": 0.02143136005917769,
+      "chg1m": 0.09101683383447101
     },
     {
       "symbol": "XLE",
@@ -62,6 +35,10 @@
       "confianca": 77,
       "razoes": [
         {
+          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+        },
+        {
           "title": "What is Israel’s endgame in Africa?",
           "url": "https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss"
         },
@@ -72,15 +49,38 @@
         {
           "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
           "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 37 people in Gaza; Hamas reviews Trump’s plan to end war",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
         }
       ],
-      "chg1d": -0.018371562126318054,
-      "chg5d": 0.029998859358959684,
-      "chg1m": 0.00444938820912115
+      "chg1d": -0.01827242524916934,
+      "chg5d": -0.005943036555281465,
+      "chg1m": -0.019249917026219657
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.7,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "What is Israel’s endgame in Africa?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss"
+        },
+        {
+          "title": "Israeli soldiers detain Palestinian children for ‘spying’ in West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/israeli-soldiers-detain-palestinian-children-for-spying-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
