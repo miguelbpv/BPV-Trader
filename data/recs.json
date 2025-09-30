@@ -1,72 +1,10 @@
 {
-  "generated_at": "2025-09-30T00:56:58.885978Z",
+  "generated_at": "2025-09-30T03:26:36.779287Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.7,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel kills 39 in Gaza as Hamas reviews Trump’s proposal to end war",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
-        },
-        {
-          "title": "Should Israel be banned from international competitions?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/29/should-israel-be-banned-from-international-competitions?traffic_source=rss"
-        },
-        {
-          "title": "Here’s the full text of Trump’s 20-point plan to end Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/29/heres-the-full-text-of-trumps-20-point-plan-to-end-israels-war-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel carries out drone strike in southern Lebanon, killing one person",
-          "url": "https://www.aljazeera.com/news/2025/9/29/israel-carries-out-drone-strike-in-southern-lebanon-killing-one-person?traffic_source=rss"
-        },
-        {
-          "title": "Trump outlines plan to end Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/trump-outlines-plan-to-end-israels-war-on-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.018371562126318054,
-      "chg5d": 0.029998859358959684,
-      "chg1m": 0.00444938820912115
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.7,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel kills 39 in Gaza as Hamas reviews Trump’s proposal to end war",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
-        },
-        {
-          "title": "Should Israel be banned from international competitions?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/29/should-israel-be-banned-from-international-competitions?traffic_source=rss"
-        },
-        {
-          "title": "Here’s the full text of Trump’s 20-point plan to end Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/9/29/heres-the-full-text-of-trumps-20-point-plan-to-end-israels-war-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel carries out drone strike in southern Lebanon, killing one person",
-          "url": "https://www.aljazeera.com/news/2025/9/29/israel-carries-out-drone-strike-in-southern-lebanon-killing-one-person?traffic_source=rss"
-        },
-        {
-          "title": "Trump outlines plan to end Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/trump-outlines-plan-to-end-israels-war-on-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.7,
+      "score": 3.66,
       "confianca": 95,
       "razoes": [
         {
@@ -95,19 +33,66 @@
       "chg1m": 0.07847779385330354
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.66,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
-          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
+          "title": "LIVE: Israel kills 39 in Gaza as Hamas reviews Trump’s proposal to end war",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
+        },
+        {
+          "title": "Should Israel be banned from international competitions?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/29/should-israel-be-banned-from-international-competitions?traffic_source=rss"
+        },
+        {
+          "title": "Here’s the full text of Trump’s 20-point plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/29/heres-the-full-text-of-trumps-20-point-plan-to-end-israels-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel carries out drone strike in southern Lebanon, killing one person",
+          "url": "https://www.aljazeera.com/news/2025/9/29/israel-carries-out-drone-strike-in-southern-lebanon-killing-one-person?traffic_source=rss"
+        },
+        {
+          "title": "Trump outlines plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/trump-outlines-plan-to-end-israels-war-on-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0003719822936429072,
-      "chg5d": -0.003335433421042795,
-      "chg1m": 0.06485844387250048
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.66,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Israel kills 39 in Gaza as Hamas reviews Trump’s proposal to end war",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
+        },
+        {
+          "title": "Should Israel be banned from international competitions?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/9/29/should-israel-be-banned-from-international-competitions?traffic_source=rss"
+        },
+        {
+          "title": "Here’s the full text of Trump’s 20-point plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/9/29/heres-the-full-text-of-trumps-20-point-plan-to-end-israels-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel carries out drone strike in southern Lebanon, killing one person",
+          "url": "https://www.aljazeera.com/news/2025/9/29/israel-carries-out-drone-strike-in-southern-lebanon-killing-one-person?traffic_source=rss"
+        },
+        {
+          "title": "Trump outlines plan to end Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/29/trump-outlines-plan-to-end-israels-war-on-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.018371562126318054,
+      "chg5d": 0.029998859358959684,
+      "chg1m": 0.00444938820912115
     },
     {
       "symbol": "TSM",
@@ -138,6 +123,21 @@
       "chg1d": 0.011655036152682059,
       "chg5d": 0.005021925245353998,
       "chg1m": 0.2608519110365965
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump promises steep tariffs for foreign movies and imported furniture",
+          "url": "https://www.aljazeera.com/news/2025/9/29/trump-promises-steep-tariffs-for-foreign-movies-and-imported-furniture?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0003719822936429072,
+      "chg5d": -0.003335433421042795,
+      "chg1m": 0.06485844387250048
     }
   ]
 }
