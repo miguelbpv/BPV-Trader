@@ -1,86 +1,107 @@
 {
-  "generated_at": "2025-09-30T15:11:28.527774Z",
+  "generated_at": "2025-09-30T18:17:28.831222Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "What is Israel’s endgame in Africa?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers detain Palestinian children for ‘spying’ in West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/israeli-soldiers-detain-palestinian-children-for-spying-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010406927110858173,
-      "chg5d": 0.02143136005917769,
-      "chg1m": 0.09101683383447101
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "What is Israel’s endgame in Africa?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers detain Palestinian children for ‘spying’ in West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/israeli-soldiers-detain-palestinian-children-for-spying-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01827242524916934,
-      "chg5d": -0.005943036555281465,
-      "chg1m": -0.019249917026219657
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
+          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
+        },
         {
           "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "What is Israel’s endgame in Africa?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers detain Palestinian children for ‘spying’ in West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/israeli-soldiers-detain-palestinian-children-for-spying-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
+          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008008455628277567,
+      "chg5d": 0.01900671913206074,
+      "chg1m": 0.08842701314663218
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
+          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0169435215946844,
+      "chg5d": -0.004597443372953698,
+      "chg1m": -0.017922336541652886
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
+          "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0014501914996466975,
+      "chg5d": -0.0035991243367591943,
+      "chg1m": 0.09465188325452481
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
+          "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013925996413278215,
+      "chg5d": -0.020073573626684427,
+      "chg1m": 0.19996101702256688
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
+          "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0017572017743426923,
+      "chg5d": 0.0008214756463347986,
+      "chg1m": 0.29851269828445237
     }
   ]
 }
