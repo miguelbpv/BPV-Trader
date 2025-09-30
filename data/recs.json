@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-30T09:13:52.069468Z",
+  "generated_at": "2025-09-30T12:25:39.206175Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.92,
-      "confianca": 95,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
           "title": "What is Israel’s endgame in Africa?",
@@ -20,12 +20,35 @@
           "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel kills 30 people in Gaza; Hamas reviews Trump’s plan to end war",
+          "title": "LIVE: Israel kills 37 people in Gaza; Hamas reviews Trump’s plan to end war",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.7,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "What is Israel’s endgame in Africa?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss"
         },
         {
-          "title": "Should Israel be banned from international competitions?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/29/should-israel-be-banned-from-international-competitions?traffic_source=rss"
+          "title": "Israeli soldiers detain Palestinian children for ‘spying’ in West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/israeli-soldiers-detain-palestinian-children-for-spying-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills 37 people in Gaza; Hamas reviews Trump’s plan to end war",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.00931396684720175,
@@ -35,8 +58,8 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.92,
-      "confianca": 95,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
           "title": "What is Israel’s endgame in Africa?",
@@ -51,48 +74,13 @@
           "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel kills 30 people in Gaza; Hamas reviews Trump’s plan to end war",
+          "title": "LIVE: Israel kills 37 people in Gaza; Hamas reviews Trump’s plan to end war",
           "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
-        },
-        {
-          "title": "Should Israel be banned from international competitions?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/29/should-israel-be-banned-from-international-competitions?traffic_source=rss"
         }
       ],
       "chg1d": -0.018371562126318054,
       "chg5d": 0.029998859358959684,
       "chg1m": 0.00444938820912115
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.92,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What is Israel’s endgame in Africa?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/what-is-israels-endgame-in-africa?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers detain Palestinian children for ‘spying’ in West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/israeli-soldiers-detain-palestinian-children-for-spying-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 30 people in Gaza; Hamas reviews Trump’s plan to end war",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss"
-        },
-        {
-          "title": "Should Israel be banned from international competitions?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/9/29/should-israel-be-banned-from-international-competitions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
