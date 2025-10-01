@@ -1,74 +1,70 @@
 {
-  "generated_at": "2025-10-01T12:25:36.220840Z",
+  "generated_at": "2025-10-01T15:12:25.022298Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
-      "razoes": [
-        {
-          "title": "Israeli settlers burn Palestinian home, fell olive trees in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-settlers-burn-palestinian-home-fell-olive-trees-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
-          "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks kill at least 45 in Gaza as ceasefire plan hangs in balance",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0146957193381844,
-      "chg5d": 0.02576694680173416,
-      "chg1m": 0.09564778438645388
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "acao": "comprar",
+      "score": 2.84,
+      "confianca": 81,
       "razoes": [
         {
-          "title": "Israeli settlers burn Palestinian home, fell olive trees in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-settlers-burn-palestinian-home-fell-olive-trees-in-west-bank?traffic_source=rss"
+          "title": "Is Russia’s economy at risk as oil revenues shrink?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/1/are-russians-footing-the-bill-for-the-war-in-ukraine?traffic_source=rss"
         },
         {
-          "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
-          "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
+          "title": "Nearly half of killings outside Gaza City since Israeli assault began",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/nearly-half-of-killings-outside-gaza-city-since-israeli-assault-began?traffic_source=rss"
         },
         {
-          "title": "Israeli attacks kill at least 45 in Gaza as ceasefire plan hangs in balance",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
+          "title": "New Trump executive order guarantees Qatar security after Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/10/1/new-trump-executive-order-guarantees-qatar-security-after-israeli-attack?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01063122923588033,
-      "chg5d": 0.0017941242431037967,
-      "chg1m": -0.011616329239960142
+      "chg1d": -0.003022162525184802,
+      "chg5d": -0.014058003099402371,
+      "chg1m": -0.016018559434379173
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "acao": "comprar",
+      "score": 2.84,
+      "confianca": 81,
       "razoes": [
         {
-          "title": "Israeli settlers burn Palestinian home, fell olive trees in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-settlers-burn-palestinian-home-fell-olive-trees-in-west-bank?traffic_source=rss"
+          "title": "Is Russia’s economy at risk as oil revenues shrink?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/1/are-russians-footing-the-bill-for-the-war-in-ukraine?traffic_source=rss"
         },
         {
-          "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
-          "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
+          "title": "Nearly half of killings outside Gaza City since Israeli assault began",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/nearly-half-of-killings-outside-gaza-city-since-israeli-assault-began?traffic_source=rss"
         },
         {
-          "title": "Israeli attacks kill at least 45 in Gaza as ceasefire plan hangs in balance",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
+          "title": "New Trump executive order guarantees Qatar security after Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/10/1/new-trump-executive-order-guarantees-qatar-security-after-israeli-attack?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Nearly half of killings outside Gaza City since Israeli assault began",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/nearly-half-of-killings-outside-gaza-city-since-israeli-assault-began?traffic_source=rss"
+        },
+        {
+          "title": "New Trump executive order guarantees Qatar security after Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/10/1/new-trump-executive-order-guarantees-qatar-security-after-israeli-attack?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006099637427134905,
+      "chg5d": 0.032915167095115674,
+      "chg1m": 0.10995580110497237
     }
   ]
 }
