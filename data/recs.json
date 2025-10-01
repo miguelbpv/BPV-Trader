@@ -1,54 +1,23 @@
 {
-  "generated_at": "2025-10-01T09:13:56.338280Z",
+  "generated_at": "2025-10-01T12:25:36.220840Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
-          "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks kill at least 23 in Gaza as ceasefire plan hangs in balance",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
-        },
-        {
-          "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
-          "url": "https://www.aljazeera.com/news/2025/10/1/gaza-sumud-flotilla-how-israel-breaks-international-maritime-law?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Israeli settlers burn Palestinian home, fell olive trees in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-settlers-burn-palestinian-home-fell-olive-trees-in-west-bank?traffic_source=rss"
+        },
         {
           "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
           "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
         },
         {
-          "title": "Israeli attacks kill at least 23 in Gaza as ceasefire plan hangs in balance",
+          "title": "Israeli attacks kill at least 45 in Gaza as ceasefire plan hangs in balance",
           "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
-        },
-        {
-          "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
-          "url": "https://www.aljazeera.com/news/2025/10/1/gaza-sumud-flotilla-how-israel-breaks-international-maritime-law?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
         }
       ],
       "chg1d": 0.0146957193381844,
@@ -57,30 +26,49 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Israeli settlers burn Palestinian home, fell olive trees in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-settlers-burn-palestinian-home-fell-olive-trees-in-west-bank?traffic_source=rss"
+        },
         {
           "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
           "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
         },
         {
-          "title": "Israeli attacks kill at least 23 in Gaza as ceasefire plan hangs in balance",
+          "title": "Israeli attacks kill at least 45 in Gaza as ceasefire plan hangs in balance",
           "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
-        },
-        {
-          "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
-          "url": "https://www.aljazeera.com/news/2025/10/1/gaza-sumud-flotilla-how-israel-breaks-international-maritime-law?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
         }
       ],
       "chg1d": -0.01063122923588033,
       "chg5d": 0.0017941242431037967,
       "chg1m": -0.011616329239960142
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "Israeli settlers burn Palestinian home, fell olive trees in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-settlers-burn-palestinian-home-fell-olive-trees-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
+          "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill at least 45 in Gaza as ceasefire plan hangs in balance",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
