@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-10-01T06:18:57.564820Z",
+  "generated_at": "2025-10-01T09:13:56.338280Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.19,
-      "confianca": 62,
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
+          "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill at least 23 in Gaza as ceasefire plan hangs in balance",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
+        },
         {
           "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
           "url": "https://www.aljazeera.com/news/2025/10/1/gaza-sumud-flotilla-how-israel-breaks-international-maritime-law?traffic_source=rss"
@@ -14,10 +22,6 @@
         {
           "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
           "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
-          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -25,34 +29,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.19,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
-          "url": "https://www.aljazeera.com/news/2025/10/1/gaza-sumud-flotilla-how-israel-breaks-international-maritime-law?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
-          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01063122923588033,
-      "chg5d": 0.0017941242431037967,
-      "chg1m": -0.011616329239960142
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 2.19,
-      "confianca": 62,
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
+          "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill at least 23 in Gaza as ceasefire plan hangs in balance",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
+        },
         {
           "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
           "url": "https://www.aljazeera.com/news/2025/10/1/gaza-sumud-flotilla-how-israel-breaks-international-maritime-law?traffic_source=rss"
@@ -60,10 +49,6 @@
         {
           "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
           "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
-          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0146957193381844,
@@ -71,49 +56,31 @@
       "chg1m": 0.09564778438645388
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
-          "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008143383036477886,
-      "chg5d": 0.0059738043115283804,
-      "chg1m": 0.10516875917169416
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
+          "title": "Qatari PM hopes ‘momentum’ now to end Israel’s Gaza war; Hamas deliberates",
+          "url": "https://www.aljazeera.com/news/2025/10/1/qatari-pm-hopes-momentum-now-to-end-israels-gaza-war-hamas-deliberates?traffic_source=rss"
+        },
         {
-          "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
-          "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02217911649526041,
-      "chg5d": -0.012097202079869687,
-      "chg1m": 0.20972841859054886
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
+          "title": "Israeli attacks kill at least 23 in Gaza as ceasefire plan hangs in balance",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israel-attacks-kill-at-least-17-in-gaza-as-ceasefire-plan-hangs-in-balance?traffic_source=rss"
+        },
         {
-          "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
-          "url": "https://www.aljazeera.com/economy/2025/9/30/as-tariffs-hit-americans-grapple-with-rising-bills-and-multiple-jobs?traffic_source=rss"
+          "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
+          "url": "https://www.aljazeera.com/news/2025/10/1/gaza-sumud-flotilla-how-israel-breaks-international-maritime-law?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00569285588140578,
-      "chg5d": 0.00475345351890488,
-      "chg1m": 0.30361423069672244
+      "chg1d": -0.01063122923588033,
+      "chg5d": 0.0017941242431037967,
+      "chg1m": -0.011616329239960142
     }
   ]
 }
