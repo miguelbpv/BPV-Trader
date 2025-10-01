@@ -1,11 +1,34 @@
 {
-  "generated_at": "2025-10-01T03:38:48.229472Z",
+  "generated_at": "2025-10-01T06:18:57.564820Z",
   "recs": [
     {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
+          "url": "https://www.aljazeera.com/news/2025/10/1/gaza-sumud-flotilla-how-israel-breaks-international-maritime-law?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
+        },
+        {
+          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
+          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
@@ -26,9 +49,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
@@ -48,33 +71,10 @@
       "chg1m": 0.09564778438645388
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Gaza Sumud flotilla: How Israel breaks international maritime law",
-          "url": "https://www.aljazeera.com/news/2025/10/1/gaza-sumud-flotilla-how-israel-breaks-international-maritime-law?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
-          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
@@ -88,8 +88,8 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
@@ -103,8 +103,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "As tariffs hit, Americans grapple with rising bills and multiple jobs",
