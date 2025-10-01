@@ -1,57 +1,11 @@
 {
-  "generated_at": "2025-09-30T21:10:42.047975Z",
+  "generated_at": "2025-10-01T01:02:54.894613Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
-          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010852713178294619,
-      "chg5d": 0.0015698587127157026,
-      "chg1m": -0.011837592654054733
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
-          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
-          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0146957193381844,
-      "chg5d": 0.02576694680173416,
-      "chg1m": 0.09564778438645388
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
@@ -71,9 +25,55 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
+        },
+        {
+          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
+          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0146957193381844,
+      "chg5d": 0.02576694680173416,
+      "chg1m": 0.09564778438645388
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Analysis: How happy is Israel’s Netanyahu with Trump’s Gaza plan?",
+          "url": "https://www.aljazeera.com/news/2025/9/30/analysis-how-happy-is-israels-netanyahu-with-trumps-gaza-plan?traffic_source=rss"
+        },
+        {
+          "title": "Trump administration deporting hundreds of Iranian citizens: Tehran",
+          "url": "https://www.aljazeera.com/news/2025/9/30/trump-administration-deporting-hundreds-of-iranian-citizens-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians in Gaza react to Trump plan on ending Israel’s war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/palestinians-in-gaza-react-to-trump-plan-on-ending-israels-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010852713178294619,
+      "chg5d": 0.0015698587127157026,
+      "chg1m": -0.011837592654054733
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -88,7 +88,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -103,7 +103,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
