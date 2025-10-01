@@ -1,38 +1,19 @@
 {
-  "generated_at": "2025-10-01T15:12:25.022298Z",
+  "generated_at": "2025-10-01T18:17:50.400918Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.84,
-      "confianca": 81,
-      "razoes": [
-        {
-          "title": "Is Russia’s economy at risk as oil revenues shrink?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/1/are-russians-footing-the-bill-for-the-war-in-ukraine?traffic_source=rss"
-        },
-        {
-          "title": "Nearly half of killings outside Gaza City since Israeli assault began",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/nearly-half-of-killings-outside-gaza-city-since-israeli-assault-began?traffic_source=rss"
-        },
-        {
-          "title": "New Trump executive order guarantees Qatar security after Israeli attack",
-          "url": "https://www.aljazeera.com/news/2025/10/1/new-trump-executive-order-guarantees-qatar-security-after-israeli-attack?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003022162525184802,
-      "chg5d": -0.014058003099402371,
-      "chg1m": -0.016018559434379173
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.84,
-      "confianca": 81,
+      "score": 3.56,
+      "confianca": 95,
       "razoes": [
         {
+          "title": "LIVE: Israeli attacks kill at least 65; Sumud Flotilla nears Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/1/live-a-least-61-killed-as-global-sumud-flotilla-nears-gaza?traffic_source=rss"
+        },
+        {
           "title": "Is Russia’s economy at risk as oil revenues shrink?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/1/are-russians-footing-the-bill-for-the-war-in-ukraine?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/1/is-russia-economy-at-risk-as-oil-revenues-shrink?traffic_source=rss"
         },
         {
           "title": "Nearly half of killings outside Gaza City since Israeli assault began",
@@ -48,11 +29,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.56,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israeli attacks kill at least 65; Sumud Flotilla nears Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/1/live-a-least-61-killed-as-global-sumud-flotilla-nears-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Is Russia’s economy at risk as oil revenues shrink?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/1/is-russia-economy-at-risk-as-oil-revenues-shrink?traffic_source=rss"
+        },
         {
           "title": "Nearly half of killings outside Gaza City since Israeli assault began",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/nearly-half-of-killings-outside-gaza-city-since-israeli-assault-began?traffic_source=rss"
@@ -62,9 +51,92 @@
           "url": "https://www.aljazeera.com/news/2025/10/1/new-trump-executive-order-guarantees-qatar-security-after-israeli-attack?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006099637427134905,
-      "chg5d": 0.032915167095115674,
-      "chg1m": 0.10995580110497237
+      "chg1d": -0.0017909111260353322,
+      "chg5d": -0.012840380783705961,
+      "chg1m": -0.014803358373839916
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "LIVE: Israeli attacks kill at least 65; Sumud Flotilla nears Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/1/live-a-least-61-killed-as-global-sumud-flotilla-nears-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Nearly half of killings outside Gaza City since Israeli assault began",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/nearly-half-of-killings-outside-gaza-city-since-israeli-assault-began?traffic_source=rss"
+        },
+        {
+          "title": "New Trump executive order guarantees Qatar security after Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/10/1/new-trump-executive-order-guarantees-qatar-security-after-israeli-attack?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0037459185513110805,
+      "chg5d": 0.022807197943444678,
+      "chg1m": 0.09909392265193365
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
+          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
+          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002800744543516821,
+      "chg5d": 0.010506428679473549,
+      "chg1m": 0.04338138597779063
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
+          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.002025128120350509,
+      "chg5d": -0.0005380794701986567,
+      "chg1m": 0.03236425823001279
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
+          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0038309709012774697,
+      "chg5d": 0.011021640664317961,
+      "chg1m": 0.06550334146600183
     }
   ]
 }
