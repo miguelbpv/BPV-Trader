@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-10-02T18:17:36.779768Z",
+  "generated_at": "2025-10-02T21:10:19.187829Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.57,
+      "score": 3.55,
       "confianca": 95,
       "razoes": [
         {
@@ -31,7 +31,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.57,
+      "score": 3.55,
       "confianca": 95,
       "razoes": [
         {
@@ -51,14 +51,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00884262368479971,
-      "chg5d": -0.028524410312671514,
-      "chg1m": 0.0006780427166911772
+      "chg1d": -0.010185807029326132,
+      "chg5d": -0.029840921557871627,
+      "chg1m": -0.0006780427166910167
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.23,
+      "score": 2.21,
       "confianca": 63,
       "razoes": [
         {
@@ -74,9 +74,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0013827655310621196,
-      "chg5d": 0.03169261262749313,
-      "chg1m": 0.11274662628601967
+      "chg1d": 0.0007214428857715704,
+      "chg5d": 0.031011273072635008,
+      "chg1m": 0.11201175789426805
     }
   ]
 }
