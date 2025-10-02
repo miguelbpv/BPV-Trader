@@ -1,37 +1,6 @@
 {
-  "generated_at": "2025-10-02T06:18:28.937271Z",
+  "generated_at": "2025-10-02T09:12:57.640620Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.4,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "How the world is responding to Israel’s interception of the Gaza flotilla",
-          "url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalist Yahia Barzaq known for his newborn baby portraits",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss"
-        },
-        {
-          "title": "Israel begins to intercept Global Sumud Flotilla vessels",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-begins-to-intercept-global-sumud-flotilla-vessels-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
@@ -39,6 +8,10 @@
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israel threatens all staying in Gaza City, kills at least 17 in enclave",
+          "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
+        },
+        {
           "title": "How the world is responding to Israel’s interception of the Gaza flotilla",
           "url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
         },
@@ -53,10 +26,6 @@
         {
           "title": "Israel kills journalist Yahia Barzaq known for his newborn baby portraits",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss"
-        },
-        {
-          "title": "Israel begins to intercept Global Sumud Flotilla vessels",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-begins-to-intercept-global-sumud-flotilla-vessels-2?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -70,6 +39,10 @@
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israel threatens all staying in Gaza City, kills at least 17 in enclave",
+          "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
+        },
+        {
           "title": "How the world is responding to Israel’s interception of the Gaza flotilla",
           "url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
         },
@@ -84,10 +57,6 @@
         {
           "title": "Israel kills journalist Yahia Barzaq known for his newborn baby portraits",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss"
-        },
-        {
-          "title": "Israel begins to intercept Global Sumud Flotilla vessels",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-begins-to-intercept-global-sumud-flotilla-vessels-2?traffic_source=rss"
         }
       ],
       "chg1d": -0.0004206646501471916,
@@ -95,59 +64,30 @@
       "chg1m": 0.10276243093922652
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.4,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
-          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003407487465850214,
-      "chg5d": 0.011117833913175045,
-      "chg1m": 0.04401268214971819
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
-      "razoes": [
+          "title": "Israel threatens all staying in Gaza City, kills at least 17 in enclave",
+          "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
+        },
         {
-          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
-          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0021904447016035753,
-      "chg5d": 0.0036837748344371473,
-      "chg1m": 0.03672509619495512
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
-      "razoes": [
+          "title": "How the world is responding to Israel’s interception of the Gaza flotilla",
+          "url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
+        },
         {
-          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
-          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004797041824208397,
-      "chg5d": 0.011994631773192379,
-      "chg1m": 0.06652876489515928
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
-      "razoes": [
+          "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss"
+        },
         {
-          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
-          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
+          "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills journalist Yahia Barzaq known for his newborn baby portraits",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
