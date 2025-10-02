@@ -1,10 +1,41 @@
 {
-  "generated_at": "2025-10-02T00:55:15.948696Z",
+  "generated_at": "2025-10-02T03:24:33.165053Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.68,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills journalist Yahia Barzaq known for his newborn baby portraits",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss"
+        },
+        {
+          "title": "Israel begins to intercept Global Sumud Flotilla vessels",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-begins-to-intercept-global-sumud-flotilla-vessels-2?traffic_source=rss"
+        },
+        {
+          "title": "Updates: Israeli forces kill 73 in Gaza; arrest flotilla activists",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/1/live-a-least-61-killed-as-global-sumud-flotilla-nears-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": -0.011069293779056896,
+      "chg1m": -0.01303579319487398
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 3.68,
       "confianca": 95,
       "razoes": [
         {
@@ -33,40 +64,9 @@
       "chg1m": 0.10276243093922652
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalist Yahia Barzaq known for his newborn baby portraits",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss"
-        },
-        {
-          "title": "Israel begins to intercept Global Sumud Flotilla vessels",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-begins-to-intercept-global-sumud-flotilla-vessels-2?traffic_source=rss"
-        },
-        {
-          "title": "Updates: Israeli forces kill 73 in Gaza; arrest flotilla activists",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/1/live-a-least-61-killed-as-global-sumud-flotilla-nears-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00011193194537710885,
-      "chg5d": -0.010958600841266427,
-      "chg1m": -0.012925320371188707
-    },
-    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 3.68,
       "confianca": 95,
       "razoes": [
         {
@@ -88,21 +88,6 @@
         {
           "title": "Updates: Israeli forces kill 73 in Gaza; arrest flotilla activists",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/1/live-a-least-61-killed-as-global-sumud-flotilla-nears-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
-          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -125,6 +110,36 @@
       "chg1m": 0.06652876489515928
     },
     {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
+          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003407487465850214,
+      "chg5d": 0.011117833913175045,
+      "chg1m": 0.04401268214971819
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
+          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "IWM",
       "acao": "observar",
       "score": 0.97,
@@ -138,21 +153,6 @@
       "chg1d": 0.0021904447016035753,
       "chg5d": 0.0036837748344371473,
       "chg1m": 0.03672509619495512
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Supreme Court temporarily blocks Fed Governor Cook firing",
-          "url": "https://www.aljazeera.com/economy/2025/10/1/supreme-court-temporarily-blocks-fed-governor-cook-firing?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0034826923654267994,
-      "chg5d": 0.011193616699440254,
-      "chg1m": 0.04409093038874224
     }
   ]
 }
