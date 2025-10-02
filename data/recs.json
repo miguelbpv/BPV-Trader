@@ -1,98 +1,74 @@
 {
-  "generated_at": "2025-10-02T12:23:03.314953Z",
+  "generated_at": "2025-10-02T15:12:36.345024Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.39,
-      "confianca": 95,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Global protests against Israel’s intercepton of Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "What we know about Israel’s interception of the Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
+        },
         {
           "title": "Israel taking “illegal actions” against Gaza aid flotilla",
           "url": "https://www.aljazeera.com/video/quotable/2025/10/2/israel-taking-illegal-actions-against-gaza-aid-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "Israel threatens all staying in Gaza City, kills at least 20 in enclave",
-          "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
-        },
-        {
-          "title": "How the world is responding to Israel’s interception of the Gaza flotilla",
-          "url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0004206646501471916,
-      "chg5d": 0.02622107969151671,
-      "chg1m": 0.10276243093922652
+      "chg1d": -0.0029661965524960887,
+      "chg5d": -0.022764673614920492,
+      "chg1m": 0.006610916487738818
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Global protests against Israel’s intercepton of Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "What we know about Israel’s interception of the Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "Israel taking “illegal actions” against Gaza aid flotilla",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/2/israel-taking-illegal-actions-against-gaza-aid-flotilla?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0010821643286573557,
+      "chg5d": 0.03138291282983038,
+      "chg1m": 0.11241259519885988
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.39,
-      "confianca": 95,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Global protests against Israel’s intercepton of Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "What we know about Israel’s interception of the Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
+        },
         {
           "title": "Israel taking “illegal actions” against Gaza aid flotilla",
           "url": "https://www.aljazeera.com/video/quotable/2025/10/2/israel-taking-illegal-actions-against-gaza-aid-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "Israel threatens all staying in Gaza City, kills at least 20 in enclave",
-          "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
-        },
-        {
-          "title": "How the world is responding to Israel’s interception of the Gaza flotilla",
-          "url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.39,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel taking “illegal actions” against Gaza aid flotilla",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/2/israel-taking-illegal-actions-against-gaza-aid-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "Israel threatens all staying in Gaza City, kills at least 20 in enclave",
-          "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
-        },
-        {
-          "title": "How the world is responding to Israel’s interception of the Gaza flotilla",
-          "url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": -0.011069293779056896,
-      "chg1m": -0.01303579319487398
     }
   ]
 }
