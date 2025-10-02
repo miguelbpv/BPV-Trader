@@ -1,45 +1,18 @@
 {
-  "generated_at": "2025-10-02T09:12:57.640620Z",
+  "generated_at": "2025-10-02T12:23:03.314953Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.4,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel threatens all staying in Gaza City, kills at least 17 in enclave",
-          "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
-        },
-        {
-          "title": "How the world is responding to Israel’s interception of the Gaza flotilla",
-          "url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
-          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalist Yahia Barzaq known for his newborn baby portraits",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": -0.011069293779056896,
-      "chg1m": -0.01303579319487398
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.4,
+      "score": 4.39,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israel threatens all staying in Gaza City, kills at least 17 in enclave",
+          "title": "Israel taking “illegal actions” against Gaza aid flotilla",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/2/israel-taking-illegal-actions-against-gaza-aid-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "Israel threatens all staying in Gaza City, kills at least 20 in enclave",
           "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
         },
         {
@@ -53,10 +26,6 @@
         {
           "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
           "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalist Yahia Barzaq known for his newborn baby portraits",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss"
         }
       ],
       "chg1d": -0.0004206646501471916,
@@ -66,11 +35,15 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.4,
+      "score": 4.39,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israel threatens all staying in Gaza City, kills at least 17 in enclave",
+          "title": "Israel taking “illegal actions” against Gaza aid flotilla",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/2/israel-taking-illegal-actions-against-gaza-aid-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "Israel threatens all staying in Gaza City, kills at least 20 in enclave",
           "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
         },
         {
@@ -84,15 +57,42 @@
         {
           "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
           "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalist Yahia Barzaq known for his newborn baby portraits",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/israel-kills-journalist-yahia-barzaq-known-for-his-newborn-baby-portraits?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.39,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel taking “illegal actions” against Gaza aid flotilla",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/2/israel-taking-illegal-actions-against-gaza-aid-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "Israel threatens all staying in Gaza City, kills at least 20 in enclave",
+          "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss"
+        },
+        {
+          "title": "How the world is responding to Israel’s interception of the Gaza flotilla",
+          "url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
+          "url": "https://www.aljazeera.com/news/2025/10/1/israeli-forces-board-gaza-flotilla-detain-greta-thunberg-other-activists?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": -0.011069293779056896,
+      "chg1m": -0.01303579319487398
     }
   ]
 }
