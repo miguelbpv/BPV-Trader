@@ -1,33 +1,6 @@
 {
-  "generated_at": "2025-10-03T03:23:22.481400Z",
+  "generated_at": "2025-10-03T06:18:01.842747Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.29,
-      "confianca": 94,
-      "razoes": [
-        {
-          "title": "‘Ban Israeli football’: Scholars urge UEFA to bar Israel over Gaza horrors",
-          "url": "https://www.aljazeera.com/news/2025/10/3/ban-israeli-football-scholars-urge-uefa-to-bar-israel-over-gaza-horrors?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler who killed Awdah Hathaleen still harassing Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/israeli-settler-who-killed-awdah-hathaleen-still-harassing-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Is Russia’s economy at risk as oil revenues shrink?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/2/is-russia-economy-at-risk-as-oil-revenues-shrink?traffic_source=rss"
-        },
-        {
-          "title": "Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010073875083949023,
-      "chg5d": -0.029731212287438375,
-      "chg1m": -0.0005650355972425942
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
@@ -35,6 +8,10 @@
       "confianca": 94,
       "razoes": [
         {
+          "title": "Israel dismantles Gaza humanitarian flotilla – but one boat sails on",
+          "url": "https://www.aljazeera.com/news/2025/10/3/israel-dismantles-gaza-humanitarian-flotilla-but-one-boat-sails?traffic_source=rss"
+        },
+        {
           "title": "‘Ban Israeli football’: Scholars urge UEFA to bar Israel over Gaza horrors",
           "url": "https://www.aljazeera.com/news/2025/10/3/ban-israeli-football-scholars-urge-uefa-to-bar-israel-over-gaza-horrors?traffic_source=rss"
         },
@@ -45,10 +22,6 @@
         {
           "title": "Is Russia’s economy at risk as oil revenues shrink?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/2/is-russia-economy-at-risk-as-oil-revenues-shrink?traffic_source=rss"
-        },
-        {
-          "title": "Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,11 +29,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.29,
+      "confianca": 94,
       "razoes": [
+        {
+          "title": "Israel dismantles Gaza humanitarian flotilla – but one boat sails on",
+          "url": "https://www.aljazeera.com/news/2025/10/3/israel-dismantles-gaza-humanitarian-flotilla-but-one-boat-sails?traffic_source=rss"
+        },
         {
           "title": "‘Ban Israeli football’: Scholars urge UEFA to bar Israel over Gaza horrors",
           "url": "https://www.aljazeera.com/news/2025/10/3/ban-israeli-football-scholars-urge-uefa-to-bar-israel-over-gaza-horrors?traffic_source=rss"
@@ -70,8 +47,31 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/israeli-settler-who-killed-awdah-hathaleen-still-harassing-palestinians?traffic_source=rss"
         },
         {
-          "title": "Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss"
+          "title": "Is Russia’s economy at risk as oil revenues shrink?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/2/is-russia-economy-at-risk-as-oil-revenues-shrink?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010073875083949023,
+      "chg5d": -0.029731212287438375,
+      "chg1m": -0.0005650355972425942
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "Israel dismantles Gaza humanitarian flotilla – but one boat sails on",
+          "url": "https://www.aljazeera.com/news/2025/10/3/israel-dismantles-gaza-humanitarian-flotilla-but-one-boat-sails?traffic_source=rss"
+        },
+        {
+          "title": "‘Ban Israeli football’: Scholars urge UEFA to bar Israel over Gaza horrors",
+          "url": "https://www.aljazeera.com/news/2025/10/3/ban-israeli-football-scholars-urge-uefa-to-bar-israel-over-gaza-horrors?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settler who killed Awdah Hathaleen still harassing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/israeli-settler-who-killed-awdah-hathaleen-still-harassing-palestinians?traffic_source=rss"
         }
       ],
       "chg1d": 0.0007214428857715704,
