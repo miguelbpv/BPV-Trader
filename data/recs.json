@@ -1,39 +1,16 @@
 {
-  "generated_at": "2025-10-02T21:10:19.187829Z",
+  "generated_at": "2025-10-03T00:55:00.697491Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.55,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Is Russia’s economy at risk as oil revenues shrink?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/2/is-russia-economy-at-risk-as-oil-revenues-shrink?traffic_source=rss"
-        },
-        {
-          "title": "Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss"
-        },
-        {
-          "title": "Global protests against Israel’s intercepton of Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "What we know about Israel’s interception of the Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.55,
+      "score": 3.54,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli settler who killed Awdah Hathaleen still harassing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/israeli-settler-who-killed-awdah-hathaleen-still-harassing-palestinians?traffic_source=rss"
+        },
         {
           "title": "Is Russia’s economy at risk as oil revenues shrink?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/2/is-russia-economy-at-risk-as-oil-revenues-shrink?traffic_source=rss"
@@ -45,10 +22,6 @@
         {
           "title": "Global protests against Israel’s intercepton of Gaza flotilla",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
-        },
-        {
-          "title": "What we know about Israel’s interception of the Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
         }
       ],
       "chg1d": -0.010185807029326132,
@@ -56,11 +29,19 @@
       "chg1m": -0.0006780427166910167
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 3.54,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli settler who killed Awdah Hathaleen still harassing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/israeli-settler-who-killed-awdah-hathaleen-still-harassing-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Is Russia’s economy at risk as oil revenues shrink?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/2/is-russia-economy-at-risk-as-oil-revenues-shrink?traffic_source=rss"
+        },
         {
           "title": "Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss"
@@ -68,10 +49,29 @@
         {
           "title": "Global protests against Israel’s intercepton of Gaza flotilla",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Israeli settler who killed Awdah Hathaleen still harassing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/israeli-settler-who-killed-awdah-hathaleen-still-harassing-palestinians?traffic_source=rss"
         },
         {
-          "title": "What we know about Israel’s interception of the Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss"
+          "title": "Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss"
+        },
+        {
+          "title": "Global protests against Israel’s intercepton of Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
         }
       ],
       "chg1d": 0.0007214428857715704,
