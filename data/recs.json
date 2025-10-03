@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-03T00:55:00.697491Z",
+  "generated_at": "2025-10-03T03:23:22.481400Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.54,
-      "confianca": 95,
+      "score": 3.29,
+      "confianca": 94,
       "razoes": [
+        {
+          "title": "‘Ban Israeli football’: Scholars urge UEFA to bar Israel over Gaza horrors",
+          "url": "https://www.aljazeera.com/news/2025/10/3/ban-israeli-football-scholars-urge-uefa-to-bar-israel-over-gaza-horrors?traffic_source=rss"
+        },
         {
           "title": "Israeli settler who killed Awdah Hathaleen still harassing Palestinians",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/israeli-settler-who-killed-awdah-hathaleen-still-harassing-palestinians?traffic_source=rss"
@@ -18,22 +22,22 @@
         {
           "title": "Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss"
-        },
-        {
-          "title": "Global protests against Israel’s intercepton of Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010185807029326132,
-      "chg5d": -0.029840921557871627,
-      "chg1m": -0.0006780427166910167
+      "chg1d": -0.010073875083949023,
+      "chg5d": -0.029731212287438375,
+      "chg1m": -0.0005650355972425942
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.54,
-      "confianca": 95,
+      "score": 3.29,
+      "confianca": 94,
       "razoes": [
+        {
+          "title": "‘Ban Israeli football’: Scholars urge UEFA to bar Israel over Gaza horrors",
+          "url": "https://www.aljazeera.com/news/2025/10/3/ban-israeli-football-scholars-urge-uefa-to-bar-israel-over-gaza-horrors?traffic_source=rss"
+        },
         {
           "title": "Israeli settler who killed Awdah Hathaleen still harassing Palestinians",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/israeli-settler-who-killed-awdah-hathaleen-still-harassing-palestinians?traffic_source=rss"
@@ -45,10 +49,6 @@
         {
           "title": "Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss"
-        },
-        {
-          "title": "Global protests against Israel’s intercepton of Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -57,10 +57,14 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "‘Ban Israeli football’: Scholars urge UEFA to bar Israel over Gaza horrors",
+          "url": "https://www.aljazeera.com/news/2025/10/3/ban-israeli-football-scholars-urge-uefa-to-bar-israel-over-gaza-horrors?traffic_source=rss"
+        },
         {
           "title": "Israeli settler who killed Awdah Hathaleen still harassing Palestinians",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/israeli-settler-who-killed-awdah-hathaleen-still-harassing-palestinians?traffic_source=rss"
@@ -68,10 +72,6 @@
         {
           "title": "Intercepted Gaza flotilla boats arrive at Israel’s Ashdod port",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/intercepted-gaza-flotilla-boats-arrive-at-israels-ashdod-port?traffic_source=rss"
-        },
-        {
-          "title": "Global protests against Israel’s intercepton of Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/global-protests-against-israels-intercepton-of-gaza-flotilla?traffic_source=rss"
         }
       ],
       "chg1d": 0.0007214428857715704,
