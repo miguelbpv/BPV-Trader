@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-03T15:12:12.394798Z",
+  "generated_at": "2025-10-03T18:17:14.864530Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.29,
+      "score": 4.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "What if … the world took action to end Israel’s war on Gaza next week?",
+          "url": "https://www.aljazeera.com/features/2025/10/3/what-if-the-world-took-action-to-end-israels-war-on-gaza-next-week?traffic_source=rss"
+        },
         {
           "title": "What Israeli settler encroachment, intimidation look like in the West Bank",
           "url": "https://www.aljazeera.com/news/2025/10/3/what-israeli-settler-encroachment-intimidation-look-like-in-the-west-bank?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Israeli military intercepts last Gaza Flotilla boat",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/israeli-military-intercepts-last-gaza-flotilla-boat?traffic_source=rss"
-        },
-        {
-          "title": "FIFA “violating its own commitments” by not banning Israel",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/3/fifa-violating-its-own-commitments-by-not-banning-israel?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00729308005427404,
-      "chg5d": -0.03157951951299055,
-      "chg1m": 5.61293219577397e-05
+      "chg1d": 0.011714995193848056,
+      "chg5d": 0.03645576891514849,
+      "chg1m": 0.10585531356024944
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.29,
+      "score": 4.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "What if … the world took action to end Israel’s war on Gaza next week?",
+          "url": "https://www.aljazeera.com/features/2025/10/3/what-if-the-world-took-action-to-end-israels-war-on-gaza-next-week?traffic_source=rss"
+        },
         {
           "title": "What Israeli settler encroachment, intimidation look like in the West Bank",
           "url": "https://www.aljazeera.com/news/2025/10/3/what-israeli-settler-encroachment-intimidation-look-like-in-the-west-bank?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israeli military intercepts last Gaza Flotilla boat",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/israeli-military-intercepts-last-gaza-flotilla-boat?traffic_source=rss"
-        },
-        {
-          "title": "FIFA “violating its own commitments” by not banning Israel",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/3/fifa-violating-its-own-commitments-by-not-banning-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.96,
+      "score": 4.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "What if … the world took action to end Israel’s war on Gaza next week?",
+          "url": "https://www.aljazeera.com/features/2025/10/3/what-if-the-world-took-action-to-end-israels-war-on-gaza-next-week?traffic_source=rss"
+        },
         {
           "title": "What Israeli settler encroachment, intimidation look like in the West Bank",
           "url": "https://www.aljazeera.com/news/2025/10/3/what-israeli-settler-encroachment-intimidation-look-like-in-the-west-bank?traffic_source=rss"
@@ -84,30 +88,11 @@
         {
           "title": "Israeli military intercepts last Gaza Flotilla boat",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/israeli-military-intercepts-last-gaza-flotilla-boat?traffic_source=rss"
-        },
-        {
-          "title": "FIFA “violating its own commitments” by not banning Israel",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/3/fifa-violating-its-own-commitments-by-not-banning-israel?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010313200897148303,
-      "chg5d": 0.035019694731659265,
-      "chg1m": 0.10432308197438978
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "What are Trump’s new rules for universities to qualify for federal funding?",
-          "url": "https://www.aljazeera.com/news/2025/10/3/what-are-trumps-new-rules-for-universities-to-qualify-for-federal-funding?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004393174143032098,
-      "chg5d": 0.01562358345169369,
-      "chg1m": 0.03549420754251904
+      "chg1d": 0.010289461781999057,
+      "chg5d": -0.028698771605609314,
+      "chg1m": 0.003030983385720656
     },
     {
       "symbol": "QQQ",
@@ -120,9 +105,24 @@
           "url": "https://www.aljazeera.com/news/2025/10/3/what-are-trumps-new-rules-for-universities-to-qualify-for-federal-funding?traffic_source=rss"
         }
       ],
-      "chg1d": 0.000693378237828668,
-      "chg5d": 0.017081396714599642,
-      "chg1m": 0.05375241207864673
+      "chg1d": -0.005390190348835267,
+      "chg5d": 0.010898199573804057,
+      "chg1m": 0.04734627887975247
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "What are Trump’s new rules for universities to qualify for federal funding?",
+          "url": "https://www.aljazeera.com/news/2025/10/3/what-are-trumps-new-rules-for-universities-to-qualify-for-federal-funding?traffic_source=rss"
+        }
+      ],
+      "chg1d": -8.965661516401051e-05,
+      "chg5d": 0.01109062887189858,
+      "chg1m": 0.030872565935420204
     },
     {
       "symbol": "IWM",
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/news/2025/10/3/what-are-trumps-new-rules-for-universities-to-qualify-for-federal-funding?traffic_source=rss"
         }
       ],
-      "chg1d": 0.016105237275633056,
-      "chg5d": 0.02738874616723289,
-      "chg1m": 0.048015554334502664
+      "chg1d": 0.007376444553725034,
+      "chg5d": 0.01856302312090822,
+      "chg1m": 0.03901263789678342
     },
     {
       "symbol": "EUROSTOXX50",
