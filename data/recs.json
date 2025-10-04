@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-10-04T09:11:03.322473Z",
+  "generated_at": "2025-10-04T12:20:58.458891Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.81,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
-          "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
-        },
-        {
-          "title": "Trump orders Israel to stop bombing Gaza, says Hamas ready for peace",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/4/trump-orders-israel-to-stop-bombing-gaza-says-hamas-ready-for-peace?traffic_source=rss"
-        },
-        {
-          "title": "Iran executes six fighters accused of ties to Israel: State media",
-          "url": "https://www.aljazeera.com/news/2025/10/4/iran-executes-six-fighters-accused-of-ties-to-israel-state-media?traffic_source=rss"
-        },
-        {
-          "title": "How tensions with Bangladesh are roiling India’s sari business",
-          "url": "https://www.aljazeera.com/economy/2025/10/4/how-tensions-with-bangladesh-are-roiling-indias-sari-business?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 7 people after Trump tells it to ‘stop bombing’ Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00531433740388963,
-      "chg5d": -0.03348190020654417,
-      "chg1m": -0.0019083969465649047
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.81,
+      "score": 5.27,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza plan “an Israeli-led campaign to exclude” Palestinian control",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/4/gaza-plan-an-israeli-led-campaign-to-exclude-palestinian-control?traffic_source=rss"
+        },
+        {
+          "title": "Israel says Gaza City still a ‘combat zone’ after Trump says ‘stop bombing’",
+          "url": "https://www.aljazeera.com/news/2025/10/4/israel-says-gaza-city-still-a-combat-zone-after-trump-says-stop-bombing?traffic_source=rss"
+        },
         {
           "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
           "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Iran executes six fighters accused of ties to Israel: State media",
           "url": "https://www.aljazeera.com/news/2025/10/4/iran-executes-six-fighters-accused-of-ties-to-israel-state-media?traffic_source=rss"
-        },
-        {
-          "title": "How tensions with Bangladesh are roiling India’s sari business",
-          "url": "https://www.aljazeera.com/economy/2025/10/4/how-tensions-with-bangladesh-are-roiling-indias-sari-business?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 7 people after Trump tells it to ‘stop bombing’ Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 5.27,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza plan “an Israeli-led campaign to exclude” Palestinian control",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/4/gaza-plan-an-israeli-led-campaign-to-exclude-palestinian-control?traffic_source=rss"
+        },
+        {
+          "title": "Israel says Gaza City still a ‘combat zone’ after Trump says ‘stop bombing’",
+          "url": "https://www.aljazeera.com/news/2025/10/4/israel-says-gaza-city-still-a-combat-zone-after-trump-says-stop-bombing?traffic_source=rss"
+        },
         {
           "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
           "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
@@ -80,10 +57,37 @@
         {
           "title": "Iran executes six fighters accused of ties to Israel: State media",
           "url": "https://www.aljazeera.com/news/2025/10/4/iran-executes-six-fighters-accused-of-ties-to-israel-state-media?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00531433740388963,
+      "chg5d": -0.03348190020654417,
+      "chg1m": -0.0019083969465649047
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.19,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza plan “an Israeli-led campaign to exclude” Palestinian control",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/4/gaza-plan-an-israeli-led-campaign-to-exclude-palestinian-control?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel kills 7 people after Trump tells it to ‘stop bombing’ Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
+          "title": "Israel says Gaza City still a ‘combat zone’ after Trump says ‘stop bombing’",
+          "url": "https://www.aljazeera.com/news/2025/10/4/israel-says-gaza-city-still-a-combat-zone-after-trump-says-stop-bombing?traffic_source=rss"
+        },
+        {
+          "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
+          "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
+        },
+        {
+          "title": "Trump orders Israel to stop bombing Gaza, says Hamas ready for peace",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/4/trump-orders-israel-to-stop-bombing-gaza-says-hamas-ready-for-peace?traffic_source=rss"
+        },
+        {
+          "title": "Iran executes six fighters accused of ties to Israel: State media",
+          "url": "https://www.aljazeera.com/news/2025/10/4/iran-executes-six-fighters-accused-of-ties-to-israel-state-media?traffic_source=rss"
         }
       ],
       "chg1d": 0.010273149631528347,
