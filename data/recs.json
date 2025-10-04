@@ -1,14 +1,18 @@
 {
-  "generated_at": "2025-10-04T03:18:40.376793Z",
+  "generated_at": "2025-10-04T06:16:31.267898Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 3.28,
+      "confianca": 93,
       "razoes": [
         {
-          "title": "LIVE: Trump tells Israel ‘stop bombing’ Gaza after Hamas ceasefire reply",
+          "title": "How tensions with Bangladesh are roiling India’s sari business",
+          "url": "https://www.aljazeera.com/economy/2025/10/4/how-tensions-with-bangladesh-are-roiling-indias-sari-business?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Trump says Hamas ‘ready for peace’, tells Israel to stop bombing Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
         },
         {
@@ -18,10 +22,33 @@
         {
           "title": "Pro-Palestine protesters target Italy training for Israel World Cup tie",
           "url": "https://www.aljazeera.com/sports/2025/10/3/pro-palestine-protestors-target-italy-training-for-israel-world-cup-tie?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00531433740388963,
+      "chg5d": -0.03348190020654417,
+      "chg1m": -0.0019083969465649047
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.28,
+      "confianca": 93,
+      "razoes": [
+        {
+          "title": "How tensions with Bangladesh are roiling India’s sari business",
+          "url": "https://www.aljazeera.com/economy/2025/10/4/how-tensions-with-bangladesh-are-roiling-indias-sari-business?traffic_source=rss"
         },
         {
-          "title": "What if … the world took action to end Israel’s war on Gaza next week?",
-          "url": "https://www.aljazeera.com/features/2025/10/3/what-if-the-world-took-action-to-end-israels-war-on-gaza-next-week?traffic_source=rss"
+          "title": "LIVE: Trump says Hamas ‘ready for peace’, tells Israel to stop bombing Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben Gvir filmed taunting captured flotilla activists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/israels-ben-gvir-filmed-taunting-captured-flotilla-activists?traffic_source=rss"
+        },
+        {
+          "title": "Pro-Palestine protesters target Italy training for Israel World Cup tie",
+          "url": "https://www.aljazeera.com/sports/2025/10/3/pro-palestine-protestors-target-italy-training-for-israel-world-cup-tie?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -30,12 +57,12 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: Trump tells Israel ‘stop bombing’ Gaza after Hamas ceasefire reply",
+          "title": "LIVE: Trump says Hamas ‘ready for peace’, tells Israel to stop bombing Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
         },
         {
@@ -45,42 +72,11 @@
         {
           "title": "Pro-Palestine protesters target Italy training for Israel World Cup tie",
           "url": "https://www.aljazeera.com/sports/2025/10/3/pro-palestine-protestors-target-italy-training-for-israel-world-cup-tie?traffic_source=rss"
-        },
-        {
-          "title": "What if … the world took action to end Israel’s war on Gaza next week?",
-          "url": "https://www.aljazeera.com/features/2025/10/3/what-if-the-world-took-action-to-end-israels-war-on-gaza-next-week?traffic_source=rss"
         }
       ],
       "chg1d": 0.010273149631528347,
       "chg5d": 0.03497866404070247,
       "chg1m": 0.10427930392907953
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "LIVE: Trump tells Israel ‘stop bombing’ Gaza after Hamas ceasefire reply",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben Gvir filmed taunting captured flotilla activists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/israels-ben-gvir-filmed-taunting-captured-flotilla-activists?traffic_source=rss"
-        },
-        {
-          "title": "Pro-Palestine protesters target Italy training for Israel World Cup tie",
-          "url": "https://www.aljazeera.com/sports/2025/10/3/pro-palestine-protestors-target-italy-training-for-israel-world-cup-tie?traffic_source=rss"
-        },
-        {
-          "title": "What if … the world took action to end Israel’s war on Gaza next week?",
-          "url": "https://www.aljazeera.com/features/2025/10/3/what-if-the-world-took-action-to-end-israels-war-on-gaza-next-week?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00531433740388963,
-      "chg5d": -0.03348190020654417,
-      "chg1m": -0.0019083969465649047
     }
   ]
 }
