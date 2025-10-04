@@ -1,27 +1,31 @@
 {
-  "generated_at": "2025-10-04T06:16:31.267898Z",
+  "generated_at": "2025-10-04T09:11:03.322473Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.28,
-      "confianca": 93,
+      "score": 3.81,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
+          "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
+        },
+        {
+          "title": "Trump orders Israel to stop bombing Gaza, says Hamas ready for peace",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/4/trump-orders-israel-to-stop-bombing-gaza-says-hamas-ready-for-peace?traffic_source=rss"
+        },
+        {
+          "title": "Iran executes six fighters accused of ties to Israel: State media",
+          "url": "https://www.aljazeera.com/news/2025/10/4/iran-executes-six-fighters-accused-of-ties-to-israel-state-media?traffic_source=rss"
+        },
         {
           "title": "How tensions with Bangladesh are roiling India’s sari business",
           "url": "https://www.aljazeera.com/economy/2025/10/4/how-tensions-with-bangladesh-are-roiling-indias-sari-business?traffic_source=rss"
         },
         {
-          "title": "LIVE: Trump says Hamas ‘ready for peace’, tells Israel to stop bombing Gaza",
+          "title": "LIVE: Israel kills 7 people after Trump tells it to ‘stop bombing’ Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben Gvir filmed taunting captured flotilla activists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/israels-ben-gvir-filmed-taunting-captured-flotilla-activists?traffic_source=rss"
-        },
-        {
-          "title": "Pro-Palestine protesters target Italy training for Israel World Cup tie",
-          "url": "https://www.aljazeera.com/sports/2025/10/3/pro-palestine-protestors-target-italy-training-for-israel-world-cup-tie?traffic_source=rss"
         }
       ],
       "chg1d": 0.00531433740388963,
@@ -31,24 +35,28 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.28,
-      "confianca": 93,
+      "score": 3.81,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
+          "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
+        },
+        {
+          "title": "Trump orders Israel to stop bombing Gaza, says Hamas ready for peace",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/4/trump-orders-israel-to-stop-bombing-gaza-says-hamas-ready-for-peace?traffic_source=rss"
+        },
+        {
+          "title": "Iran executes six fighters accused of ties to Israel: State media",
+          "url": "https://www.aljazeera.com/news/2025/10/4/iran-executes-six-fighters-accused-of-ties-to-israel-state-media?traffic_source=rss"
+        },
         {
           "title": "How tensions with Bangladesh are roiling India’s sari business",
           "url": "https://www.aljazeera.com/economy/2025/10/4/how-tensions-with-bangladesh-are-roiling-indias-sari-business?traffic_source=rss"
         },
         {
-          "title": "LIVE: Trump says Hamas ‘ready for peace’, tells Israel to stop bombing Gaza",
+          "title": "LIVE: Israel kills 7 people after Trump tells it to ‘stop bombing’ Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben Gvir filmed taunting captured flotilla activists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/israels-ben-gvir-filmed-taunting-captured-flotilla-activists?traffic_source=rss"
-        },
-        {
-          "title": "Pro-Palestine protesters target Italy training for Israel World Cup tie",
-          "url": "https://www.aljazeera.com/sports/2025/10/3/pro-palestine-protestors-target-italy-training-for-israel-world-cup-tie?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -57,21 +65,25 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 2.19,
-      "confianca": 62,
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "LIVE: Trump says Hamas ‘ready for peace’, tells Israel to stop bombing Gaza",
+          "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
+          "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
+        },
+        {
+          "title": "Trump orders Israel to stop bombing Gaza, says Hamas ready for peace",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/4/trump-orders-israel-to-stop-bombing-gaza-says-hamas-ready-for-peace?traffic_source=rss"
+        },
+        {
+          "title": "Iran executes six fighters accused of ties to Israel: State media",
+          "url": "https://www.aljazeera.com/news/2025/10/4/iran-executes-six-fighters-accused-of-ties-to-israel-state-media?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills 7 people after Trump tells it to ‘stop bombing’ Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben Gvir filmed taunting captured flotilla activists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/israels-ben-gvir-filmed-taunting-captured-flotilla-activists?traffic_source=rss"
-        },
-        {
-          "title": "Pro-Palestine protesters target Italy training for Israel World Cup tie",
-          "url": "https://www.aljazeera.com/sports/2025/10/3/pro-palestine-protestors-target-italy-training-for-israel-world-cup-tie?traffic_source=rss"
         }
       ],
       "chg1d": 0.010273149631528347,
