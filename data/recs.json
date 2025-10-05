@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-10-05T06:16:22.466572Z",
+  "generated_at": "2025-10-05T09:11:04.522426Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: Gaza’s ‘safe zones’ targeted by Israel as Cairo hosts peace talks",
+          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt hosts negotiations",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
         },
         {
@@ -18,24 +18,20 @@
         {
           "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
           "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
-        },
-        {
-          "title": "Gaza plan “an Israeli-led campaign to exclude” Palestinian control",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/4/gaza-plan-an-israeli-led-campaign-to-exclude-palestinian-control?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.00531433740388963,
+      "chg5d": -0.03348190020654417,
+      "chg1m": -0.0019083969465649047
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: Gaza’s ‘safe zones’ targeted by Israel as Cairo hosts peace talks",
+          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt hosts negotiations",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
         },
         {
@@ -45,10 +41,6 @@
         {
           "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
           "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
-        },
-        {
-          "title": "Gaza plan “an Israeli-led campaign to exclude” Palestinian control",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/4/gaza-plan-an-israeli-led-campaign-to-exclude-palestinian-control?traffic_source=rss"
         }
       ],
       "chg1d": 0.010273149631528347,
@@ -56,13 +48,13 @@
       "chg1m": 0.10427930392907953
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: Gaza’s ‘safe zones’ targeted by Israel as Cairo hosts peace talks",
+          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt hosts negotiations",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
         },
         {
@@ -72,15 +64,11 @@
         {
           "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
           "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
-        },
-        {
-          "title": "Gaza plan “an Israeli-led campaign to exclude” Palestinian control",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/4/gaza-plan-an-israeli-led-campaign-to-exclude-palestinian-control?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00531433740388963,
-      "chg5d": -0.03348190020654417,
-      "chg1m": -0.0019083969465649047
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
