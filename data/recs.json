@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-10-05T09:11:04.522426Z",
+  "generated_at": "2025-10-05T12:21:28.783140Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.17,
       "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt hosts negotiations",
+          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt to host negotiations",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
         },
         {
@@ -20,18 +20,18 @@
           "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00531433740388963,
-      "chg5d": -0.03348190020654417,
-      "chg1m": -0.0019083969465649047
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.17,
       "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt hosts negotiations",
+          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt to host negotiations",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
         },
         {
@@ -48,13 +48,13 @@
       "chg1m": 0.10427930392907953
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.17,
       "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt hosts negotiations",
+          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt to host negotiations",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
         },
         {
@@ -66,9 +66,9 @@
           "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.00531433740388963,
+      "chg5d": -0.03348190020654417,
+      "chg1m": -0.0019083969465649047
     }
   ]
 }
