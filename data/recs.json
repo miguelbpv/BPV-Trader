@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-10-04T21:09:37.415214Z",
+  "generated_at": "2025-10-05T01:01:04.461692Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.12,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
-          "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
-        },
-        {
-          "title": "Gaza plan “an Israeli-led campaign to exclude” Palestinian control",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/4/gaza-plan-an-israeli-led-campaign-to-exclude-palestinian-control?traffic_source=rss"
-        },
-        {
-          "title": "Israel says Gaza City still a ‘combat zone’ after Trump says ‘stop bombing’",
-          "url": "https://www.aljazeera.com/news/2025/10/4/israel-says-gaza-city-still-a-combat-zone-after-trump-says-stop-bombing?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
-          "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
-        },
-        {
-          "title": "Trump orders Israel to stop bombing Gaza, says Hamas ready for peace",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/4/trump-orders-israel-to-stop-bombing-gaza-says-hamas-ready-for-peace?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.12,
-      "confianca": 95,
+      "score": 2.93,
+      "confianca": 83,
       "razoes": [
+        {
+          "title": "Israel pounds Gaza, killing 70, despite Trump’s call for it to halt bombing",
+          "url": "https://www.aljazeera.com/news/2025/10/4/israel-pounds-gaza-killing-61-despite-trumps-call-for-it-to-halt-bombing?traffic_source=rss"
+        },
         {
           "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
           "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
@@ -49,14 +22,6 @@
         {
           "title": "Israel says Gaza City still a ‘combat zone’ after Trump says ‘stop bombing’",
           "url": "https://www.aljazeera.com/news/2025/10/4/israel-says-gaza-city-still-a-combat-zone-after-trump-says-stop-bombing?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
-          "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
-        },
-        {
-          "title": "Trump orders Israel to stop bombing Gaza, says Hamas ready for peace",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/4/trump-orders-israel-to-stop-bombing-gaza-says-hamas-ready-for-peace?traffic_source=rss"
         }
       ],
       "chg1d": 0.010273149631528347,
@@ -64,11 +29,15 @@
       "chg1m": 0.10427930392907953
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.12,
-      "confianca": 95,
+      "score": 2.93,
+      "confianca": 83,
       "razoes": [
+        {
+          "title": "Israel pounds Gaza, killing 70, despite Trump’s call for it to halt bombing",
+          "url": "https://www.aljazeera.com/news/2025/10/4/israel-pounds-gaza-killing-61-despite-trumps-call-for-it-to-halt-bombing?traffic_source=rss"
+        },
         {
           "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
           "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
@@ -80,14 +49,33 @@
         {
           "title": "Israel says Gaza City still a ‘combat zone’ after Trump says ‘stop bombing’",
           "url": "https://www.aljazeera.com/news/2025/10/4/israel-says-gaza-city-still-a-combat-zone-after-trump-says-stop-bombing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.93,
+      "confianca": 83,
+      "razoes": [
+        {
+          "title": "Israel pounds Gaza, killing 70, despite Trump’s call for it to halt bombing",
+          "url": "https://www.aljazeera.com/news/2025/10/4/israel-pounds-gaza-killing-61-despite-trumps-call-for-it-to-halt-bombing?traffic_source=rss"
         },
         {
-          "title": "Israeli air strikes hit Gaza despite Trump’s ‘stop bombing’ demand",
-          "url": "https://www.aljazeera.com/gallery/2025/10/4/israeli-air-strikes-hit-gaza-despite-trumps-stop-bombing-demand?traffic_source=rss"
+          "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
+          "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
         },
         {
-          "title": "Trump orders Israel to stop bombing Gaza, says Hamas ready for peace",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/4/trump-orders-israel-to-stop-bombing-gaza-says-hamas-ready-for-peace?traffic_source=rss"
+          "title": "Gaza plan “an Israeli-led campaign to exclude” Palestinian control",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/4/gaza-plan-an-israeli-led-campaign-to-exclude-palestinian-control?traffic_source=rss"
+        },
+        {
+          "title": "Israel says Gaza City still a ‘combat zone’ after Trump says ‘stop bombing’",
+          "url": "https://www.aljazeera.com/news/2025/10/4/israel-says-gaza-city-still-a-combat-zone-after-trump-says-stop-bombing?traffic_source=rss"
         }
       ],
       "chg1d": 0.00531433740388963,
