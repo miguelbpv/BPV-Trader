@@ -1,46 +1,23 @@
 {
-  "generated_at": "2025-10-05T12:21:28.783140Z",
+  "generated_at": "2025-10-05T15:10:43.025229Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.17,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt to host negotiations",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds Gaza, killing 70, despite Trump’s call for it to halt bombing",
-          "url": "https://www.aljazeera.com/news/2025/10/4/israel-pounds-gaza-killing-61-despite-trumps-call-for-it-to-halt-bombing?traffic_source=rss"
-        },
-        {
-          "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
-          "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 2.17,
-      "confianca": 62,
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt to host negotiations",
+          "title": "Gaza bombarded despite Donald Trump telling Israel to stop",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/5/gaza-bombarded-despite-donald-trump-telling-israel-to-stop?traffic_source=rss"
+        },
+        {
+          "title": "Freed flotilla activists describe mistreatment in Israeli detention",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/5/freed-flotilla-activists-describe-mistreatment-in-israeli-detention?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel pummels Gaza as negotiators head to Egypt",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds Gaza, killing 70, despite Trump’s call for it to halt bombing",
-          "url": "https://www.aljazeera.com/news/2025/10/4/israel-pounds-gaza-killing-61-despite-trumps-call-for-it-to-halt-bombing?traffic_source=rss"
-        },
-        {
-          "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
-          "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
         }
       ],
       "chg1d": 0.010273149631528347,
@@ -49,26 +26,49 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.17,
-      "confianca": 62,
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "LIVE: Israel targets Gaza’s ‘safe zones’ as Egypt to host negotiations",
+          "title": "Gaza bombarded despite Donald Trump telling Israel to stop",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/5/gaza-bombarded-despite-donald-trump-telling-israel-to-stop?traffic_source=rss"
+        },
+        {
+          "title": "Freed flotilla activists describe mistreatment in Israeli detention",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/5/freed-flotilla-activists-describe-mistreatment-in-israeli-detention?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel pummels Gaza as negotiators head to Egypt",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds Gaza, killing 70, despite Trump’s call for it to halt bombing",
-          "url": "https://www.aljazeera.com/news/2025/10/4/israel-pounds-gaza-killing-61-despite-trumps-call-for-it-to-halt-bombing?traffic_source=rss"
-        },
-        {
-          "title": "Greta Thunberg mistreated by Israeli forces in detention, activists say",
-          "url": "https://www.aljazeera.com/news/2025/10/4/greta-thunberg-mistreated-by-israeli-forces-in-detention-activists-say?traffic_source=rss"
         }
       ],
       "chg1d": 0.00531433740388963,
       "chg5d": -0.03348190020654417,
       "chg1m": -0.0019083969465649047
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Gaza bombarded despite Donald Trump telling Israel to stop",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/5/gaza-bombarded-despite-donald-trump-telling-israel-to-stop?traffic_source=rss"
+        },
+        {
+          "title": "Freed flotilla activists describe mistreatment in Israeli detention",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/5/freed-flotilla-activists-describe-mistreatment-in-israeli-detention?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel pummels Gaza as negotiators head to Egypt",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
