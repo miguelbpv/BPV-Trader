@@ -1,65 +1,11 @@
 {
-  "generated_at": "2025-10-06T15:12:49.871259Z",
+  "generated_at": "2025-10-06T18:18:06.668022Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "A 10-point plan for Israel",
-          "url": "https://www.aljazeera.com/opinions/2025/10/6/a-10-point-plan-for-israel?traffic_source=rss"
-        },
-        {
-          "title": "Potential hurdles litter road as Israel and Hamas head to Gaza talks",
-          "url": "https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss"
-        },
-        {
-          "title": "Greta Thunberg “humiliated” by Israeli forces",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/6/greta-thunberg-humiliated-by-israeli-forces?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Aid seekers killed in Gaza as Egypt hosts Israel, Hamas officials",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/6/live-trump-urges-negotiators-to-move-fast-on-israel-gaza-peace-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018493924557473965,
-      "chg5d": 0.044392048457254425,
-      "chg1m": 0.10760939857727975
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "A 10-point plan for Israel",
-          "url": "https://www.aljazeera.com/opinions/2025/10/6/a-10-point-plan-for-israel?traffic_source=rss"
-        },
-        {
-          "title": "Potential hurdles litter road as Israel and Hamas head to Gaza talks",
-          "url": "https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss"
-        },
-        {
-          "title": "Greta Thunberg “humiliated” by Israeli forces",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/6/greta-thunberg-humiliated-by-israeli-forces?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Aid seekers killed in Gaza as Egypt hosts Israel, Hamas officials",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/6/live-trump-urges-negotiators-to-move-fast-on-israel-gaza-peace-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006973343830840227,
-      "chg5d": -0.008527131782945693,
-      "chg1m": 0.02483974358974361
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "A 10-point plan for Israel",
@@ -68,19 +14,94 @@
         {
           "title": "Potential hurdles litter road as Israel and Hamas head to Gaza talks",
           "url": "https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss"
-        },
-        {
-          "title": "Greta Thunberg “humiliated” by Israeli forces",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/6/greta-thunberg-humiliated-by-israeli-forces?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Aid seekers killed in Gaza as Egypt hosts Israel, Hamas officials",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/6/live-trump-urges-negotiators-to-move-fast-on-israel-gaza-peace-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "A 10-point plan for Israel",
+          "url": "https://www.aljazeera.com/opinions/2025/10/6/a-10-point-plan-for-israel?traffic_source=rss"
+        },
+        {
+          "title": "Potential hurdles litter road as Israel and Hamas head to Gaza talks",
+          "url": "https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007648183556405431,
+      "chg5d": -0.007862679955703143,
+      "chg1m": 0.02552655677655682
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "A 10-point plan for Israel",
+          "url": "https://www.aljazeera.com/opinions/2025/10/6/a-10-point-plan-for-israel?traffic_source=rss"
+        },
+        {
+          "title": "Potential hurdles litter road as Israel and Hamas head to Gaza talks",
+          "url": "https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019048940514182666,
+      "chg5d": 0.044961177283629424,
+      "chg1m": 0.1082129769346843
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Lula asks Trump to lift 40 percent tariff from Brazilian goods",
+          "url": "https://www.aljazeera.com/economy/2025/10/6/lula-asks-trump-to-lift-40-percent-tariff-from-brazilian-goods?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019986049485574666,
+      "chg5d": 0.09374513042665243,
+      "chg1m": 0.3468722016118714
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Lula asks Trump to lift 40 percent tariff from Brazilian goods",
+          "url": "https://www.aljazeera.com/economy/2025/10/6/lula-asks-trump-to-lift-40-percent-tariff-from-brazilian-goods?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.04150592941848837,
+      "chg5d": 0.08422266017179184,
+      "chg1m": 0.1802469135802468
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Lula asks Trump to lift 40 percent tariff from Brazilian goods",
+          "url": "https://www.aljazeera.com/economy/2025/10/6/lula-asks-trump-to-lift-40-percent-tariff-from-brazilian-goods?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.04384133611691024,
+      "chg5d": 0.11627566519049877,
+      "chg1m": 0.25302986730208293
     }
   ]
 }
