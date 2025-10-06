@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-10-06T00:57:09.887033Z",
+  "generated_at": "2025-10-06T03:30:22.244200Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.89,
+      "score": 4.85,
       "confianca": 95,
       "razoes": [
         {
@@ -33,40 +33,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.89,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel strikes Gaza, killing 24 before Egypt talks on Trump ceasefire plan",
-          "url": "https://www.aljazeera.com/news/2025/10/5/israel-strikes-gaza-killing-24-before-egypt-talks-on-trump-ceasefire-plan?traffic_source=rss"
-        },
-        {
-          "title": "Iran says nuclear cooperation with IAEA ‘no longer relevant’",
-          "url": "https://www.aljazeera.com/news/2025/10/5/iran-says-nuclear-cooperation-with-iaea-no-longer-relevant?traffic_source=rss"
-        },
-        {
-          "title": "Will Israel end its occupation of Palestinian territories?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/10/5/will-israel-end-its-occupation-of-palestinian-territories?traffic_source=rss"
-        },
-        {
-          "title": "Mass protests from Amsterdam to Istanbul denounce Israel’s Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2025/10/5/mass-protests-from-amsterdam-to-istanbul-denounce-israels-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "More Gaza flotilla activists allege mistreatment in Israeli detention",
-          "url": "https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010273149631528347,
-      "chg5d": 0.03497866404070247,
-      "chg1m": 0.10427930392907953
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.89,
+      "score": 4.85,
       "confianca": 95,
       "razoes": [
         {
@@ -93,6 +62,37 @@
       "chg1d": 0.00531433740388963,
       "chg5d": -0.03348190020654417,
       "chg1m": -0.0019083969465649047
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.85,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel strikes Gaza, killing 24 before Egypt talks on Trump ceasefire plan",
+          "url": "https://www.aljazeera.com/news/2025/10/5/israel-strikes-gaza-killing-24-before-egypt-talks-on-trump-ceasefire-plan?traffic_source=rss"
+        },
+        {
+          "title": "Iran says nuclear cooperation with IAEA ‘no longer relevant’",
+          "url": "https://www.aljazeera.com/news/2025/10/5/iran-says-nuclear-cooperation-with-iaea-no-longer-relevant?traffic_source=rss"
+        },
+        {
+          "title": "Will Israel end its occupation of Palestinian territories?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/5/will-israel-end-its-occupation-of-palestinian-territories?traffic_source=rss"
+        },
+        {
+          "title": "Mass protests from Amsterdam to Istanbul denounce Israel’s Gaza genocide",
+          "url": "https://www.aljazeera.com/news/2025/10/5/mass-protests-from-amsterdam-to-istanbul-denounce-israels-gaza-genocide?traffic_source=rss"
+        },
+        {
+          "title": "More Gaza flotilla activists allege mistreatment in Israeli detention",
+          "url": "https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.010273149631528347,
+      "chg5d": 0.03497866404070247,
+      "chg1m": 0.10427930392907953
     }
   ]
 }
