@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-05T21:09:42.559459Z",
+  "generated_at": "2025-10-06T00:57:09.887033Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.44,
+      "score": 4.89,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel strikes Gaza, killing 24 before Egypt talks on Trump ceasefire plan",
+          "url": "https://www.aljazeera.com/news/2025/10/5/israel-strikes-gaza-killing-24-before-egypt-talks-on-trump-ceasefire-plan?traffic_source=rss"
+        },
         {
           "title": "Iran says nuclear cooperation with IAEA ‘no longer relevant’",
           "url": "https://www.aljazeera.com/news/2025/10/5/iran-says-nuclear-cooperation-with-iaea-no-longer-relevant?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "More Gaza flotilla activists allege mistreatment in Israeli detention",
           "url": "https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention?traffic_source=rss"
-        },
-        {
-          "title": "Gaza bombarded despite Donald Trump telling Israel to stop",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/5/gaza-bombarded-despite-donald-trump-telling-israel-to-stop?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00531433740388963,
-      "chg5d": -0.03348190020654417,
-      "chg1m": -0.0019083969465649047
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.44,
+      "score": 4.89,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel strikes Gaza, killing 24 before Egypt talks on Trump ceasefire plan",
+          "url": "https://www.aljazeera.com/news/2025/10/5/israel-strikes-gaza-killing-24-before-egypt-talks-on-trump-ceasefire-plan?traffic_source=rss"
+        },
         {
           "title": "Iran says nuclear cooperation with IAEA ‘no longer relevant’",
           "url": "https://www.aljazeera.com/news/2025/10/5/iran-says-nuclear-cooperation-with-iaea-no-longer-relevant?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "More Gaza flotilla activists allege mistreatment in Israeli detention",
           "url": "https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention?traffic_source=rss"
-        },
-        {
-          "title": "Gaza bombarded despite Donald Trump telling Israel to stop",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/5/gaza-bombarded-despite-donald-trump-telling-israel-to-stop?traffic_source=rss"
         }
       ],
       "chg1d": 0.010273149631528347,
@@ -64,11 +64,15 @@
       "chg1m": 0.10427930392907953
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.44,
+      "score": 4.89,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel strikes Gaza, killing 24 before Egypt talks on Trump ceasefire plan",
+          "url": "https://www.aljazeera.com/news/2025/10/5/israel-strikes-gaza-killing-24-before-egypt-talks-on-trump-ceasefire-plan?traffic_source=rss"
+        },
         {
           "title": "Iran says nuclear cooperation with IAEA ‘no longer relevant’",
           "url": "https://www.aljazeera.com/news/2025/10/5/iran-says-nuclear-cooperation-with-iaea-no-longer-relevant?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "More Gaza flotilla activists allege mistreatment in Israeli detention",
           "url": "https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention?traffic_source=rss"
-        },
-        {
-          "title": "Gaza bombarded despite Donald Trump telling Israel to stop",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/5/gaza-bombarded-despite-donald-trump-telling-israel-to-stop?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.00531433740388963,
+      "chg5d": -0.03348190020654417,
+      "chg1m": -0.0019083969465649047
     }
   ]
 }
