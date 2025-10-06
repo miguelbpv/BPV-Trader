@@ -1,19 +1,81 @@
 {
-  "generated_at": "2025-10-06T18:18:06.668022Z",
+  "generated_at": "2025-10-06T21:10:48.703594Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Israel deports Greta Thunberg and other Gaza flotilla activists",
+          "url": "https://www.aljazeera.com/news/2025/10/6/greta-thunberg-and-other-activists-deported-from-israel-arrive-in-greece?traffic_source=rss"
+        },
+        {
+          "title": "Israel says blind Hezbollah fighter, wife killed in Lebanon car strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss"
+        },
+        {
+          "title": "Gaza flotilla activists arrive in Greece after Israeli prison release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/gaza-flotilla-activists-arrive-in-greece-after-israeli-prison-release?traffic_source=rss"
+        },
         {
           "title": "A 10-point plan for Israel",
           "url": "https://www.aljazeera.com/opinions/2025/10/6/a-10-point-plan-for-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004948824654144615,
+      "chg5d": -0.010520487264673343,
+      "chg1m": 0.02277930402930397
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Israel deports Greta Thunberg and other Gaza flotilla activists",
+          "url": "https://www.aljazeera.com/news/2025/10/6/greta-thunberg-and-other-activists-deported-from-israel-arrive-in-greece?traffic_source=rss"
         },
         {
-          "title": "Potential hurdles litter road as Israel and Hamas head to Gaza talks",
-          "url": "https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss"
+          "title": "Israel says blind Hezbollah fighter, wife killed in Lebanon car strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss"
+        },
+        {
+          "title": "Gaza flotilla activists arrive in Greece after Israeli prison release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/gaza-flotilla-activists-arrive-in-greece-after-israeli-prison-release?traffic_source=rss"
+        },
+        {
+          "title": "A 10-point plan for Israel",
+          "url": "https://www.aljazeera.com/opinions/2025/10/6/a-10-point-plan-for-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019326448492537018,
+      "chg5d": 0.04524574169681692,
+      "chg1m": 0.10851476611338658
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Israel deports Greta Thunberg and other Gaza flotilla activists",
+          "url": "https://www.aljazeera.com/news/2025/10/6/greta-thunberg-and-other-activists-deported-from-israel-arrive-in-greece?traffic_source=rss"
+        },
+        {
+          "title": "Israel says blind Hezbollah fighter, wife killed in Lebanon car strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss"
+        },
+        {
+          "title": "Gaza flotilla activists arrive in Greece after Israeli prison release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/gaza-flotilla-activists-arrive-in-greece-after-israeli-prison-release?traffic_source=rss"
+        },
+        {
+          "title": "A 10-point plan for Israel",
+          "url": "https://www.aljazeera.com/opinions/2025/10/6/a-10-point-plan-for-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -21,87 +83,61 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "score": 1.66,
+      "confianca": 47,
       "razoes": [
         {
-          "title": "A 10-point plan for Israel",
-          "url": "https://www.aljazeera.com/opinions/2025/10/6/a-10-point-plan-for-israel?traffic_source=rss"
+          "title": "Trump announces 25 percent tariffs on medium and heavy imported trucks",
+          "url": "https://www.aljazeera.com/economy/2025/10/6/trump-announces-25-percent-tariffs-on-medium-and-heavy-imported-trucks?traffic_source=rss"
         },
-        {
-          "title": "Potential hurdles litter road as Israel and Hamas head to Gaza talks",
-          "url": "https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007648183556405431,
-      "chg5d": -0.007862679955703143,
-      "chg1m": 0.02552655677655682
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "A 10-point plan for Israel",
-          "url": "https://www.aljazeera.com/opinions/2025/10/6/a-10-point-plan-for-israel?traffic_source=rss"
-        },
-        {
-          "title": "Potential hurdles litter road as Israel and Hamas head to Gaza talks",
-          "url": "https://www.aljazeera.com/news/2025/10/6/potential-hurdles-litter-road-as-israel-and-hamas-head-to-gaza-peace-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019048940514182666,
-      "chg5d": 0.044961177283629424,
-      "chg1m": 0.1082129769346843
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
         {
           "title": "Lula asks Trump to lift 40 percent tariff from Brazilian goods",
           "url": "https://www.aljazeera.com/economy/2025/10/6/lula-asks-trump-to-lift-40-percent-tariff-from-brazilian-goods?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019986049485574666,
-      "chg5d": 0.09374513042665243,
-      "chg1m": 0.3468722016118714
+      "chg1d": 0.03494301653033978,
+      "chg5d": 0.1067598726347764,
+      "chg1m": 0.24234830122016343
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.66,
+      "confianca": 47,
       "razoes": [
+        {
+          "title": "Trump announces 25 percent tariffs on medium and heavy imported trucks",
+          "url": "https://www.aljazeera.com/economy/2025/10/6/trump-announces-25-percent-tariffs-on-medium-and-heavy-imported-trucks?traffic_source=rss"
+        },
         {
           "title": "Lula asks Trump to lift 40 percent tariff from Brazilian goods",
           "url": "https://www.aljazeera.com/economy/2025/10/6/lula-asks-trump-to-lift-40-percent-tariff-from-brazilian-goods?traffic_source=rss"
         }
       ],
-      "chg1d": 0.04150592941848837,
-      "chg5d": 0.08422266017179184,
-      "chg1m": 0.1802469135802468
+      "chg1d": 0.030004286326618213,
+      "chg5d": 0.07224928420034955,
+      "chg1m": 0.16721311475409836
     },
     {
-      "symbol": "TSM",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.66,
+      "confianca": 47,
       "razoes": [
+        {
+          "title": "Trump announces 25 percent tariffs on medium and heavy imported trucks",
+          "url": "https://www.aljazeera.com/economy/2025/10/6/trump-announces-25-percent-tariffs-on-medium-and-heavy-imported-trucks?traffic_source=rss"
+        },
         {
           "title": "Lula asks Trump to lift 40 percent tariff from Brazilian goods",
           "url": "https://www.aljazeera.com/economy/2025/10/6/lula-asks-trump-to-lift-40-percent-tariff-from-brazilian-goods?traffic_source=rss"
         }
       ],
-      "chg1d": 0.04384133611691024,
-      "chg5d": 0.11627566519049877,
-      "chg1m": 0.25302986730208293
+      "chg1d": 0.010533607176764688,
+      "chg5d": 0.08360914596773363,
+      "chg1m": 0.3343904311116797
     }
   ]
 }
