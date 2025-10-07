@@ -1,65 +1,11 @@
 {
-  "generated_at": "2025-10-07T00:56:13.323742Z",
+  "generated_at": "2025-10-07T03:25:53.931257Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.46,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "Cycling team to drop Israel name after mass pro-Palestinian Vuelta protests",
-          "url": "https://www.aljazeera.com/news/2025/10/6/cycling-team-to-drop-israel-name-after-mass-pro-palestinian-vuelta-protests?traffic_source=rss"
-        },
-        {
-          "title": "Israel deports Greta Thunberg and other Gaza flotilla activists",
-          "url": "https://www.aljazeera.com/news/2025/10/6/greta-thunberg-and-other-activists-deported-from-israel-arrive-in-greece?traffic_source=rss"
-        },
-        {
-          "title": "Israel says blind Hezbollah fighter, wife killed in Lebanon car strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss"
-        },
-        {
-          "title": "Gaza flotilla activists arrive in Greece after Israeli prison release",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/gaza-flotilla-activists-arrive-in-greece-after-israeli-prison-release?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004948824654144615,
-      "chg5d": -0.010520487264673343,
-      "chg1m": 0.02277930402930397
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.46,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "Cycling team to drop Israel name after mass pro-Palestinian Vuelta protests",
-          "url": "https://www.aljazeera.com/news/2025/10/6/cycling-team-to-drop-israel-name-after-mass-pro-palestinian-vuelta-protests?traffic_source=rss"
-        },
-        {
-          "title": "Israel deports Greta Thunberg and other Gaza flotilla activists",
-          "url": "https://www.aljazeera.com/news/2025/10/6/greta-thunberg-and-other-activists-deported-from-israel-arrive-in-greece?traffic_source=rss"
-        },
-        {
-          "title": "Israel says blind Hezbollah fighter, wife killed in Lebanon car strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss"
-        },
-        {
-          "title": "Gaza flotilla activists arrive in Greece after Israeli prison release",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/gaza-flotilla-activists-arrive-in-greece-after-israeli-prison-release?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.46,
-      "confianca": 70,
+      "score": 2.44,
+      "confianca": 69,
       "razoes": [
         {
           "title": "Cycling team to drop Israel name after mass pro-Palestinian Vuelta protests",
@@ -83,10 +29,64 @@
       "chg1m": 0.10851476611338658
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.44,
+      "confianca": 69,
+      "razoes": [
+        {
+          "title": "Cycling team to drop Israel name after mass pro-Palestinian Vuelta protests",
+          "url": "https://www.aljazeera.com/news/2025/10/6/cycling-team-to-drop-israel-name-after-mass-pro-palestinian-vuelta-protests?traffic_source=rss"
+        },
+        {
+          "title": "Israel deports Greta Thunberg and other Gaza flotilla activists",
+          "url": "https://www.aljazeera.com/news/2025/10/6/greta-thunberg-and-other-activists-deported-from-israel-arrive-in-greece?traffic_source=rss"
+        },
+        {
+          "title": "Israel says blind Hezbollah fighter, wife killed in Lebanon car strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss"
+        },
+        {
+          "title": "Gaza flotilla activists arrive in Greece after Israeli prison release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/gaza-flotilla-activists-arrive-in-greece-after-israeli-prison-release?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.44,
+      "confianca": 69,
+      "razoes": [
+        {
+          "title": "Cycling team to drop Israel name after mass pro-Palestinian Vuelta protests",
+          "url": "https://www.aljazeera.com/news/2025/10/6/cycling-team-to-drop-israel-name-after-mass-pro-palestinian-vuelta-protests?traffic_source=rss"
+        },
+        {
+          "title": "Israel deports Greta Thunberg and other Gaza flotilla activists",
+          "url": "https://www.aljazeera.com/news/2025/10/6/greta-thunberg-and-other-activists-deported-from-israel-arrive-in-greece?traffic_source=rss"
+        },
+        {
+          "title": "Israel says blind Hezbollah fighter, wife killed in Lebanon car strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/israel-says-blind-hezbollah-fighter-wife-killed-in-lebanon-car-strike?traffic_source=rss"
+        },
+        {
+          "title": "Gaza flotilla activists arrive in Greece after Israeli prison release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/6/gaza-flotilla-activists-arrive-in-greece-after-israeli-prison-release?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004948824654144615,
+      "chg5d": -0.010520487264673343,
+      "chg1m": 0.02277930402930397
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "score": 1.64,
+      "confianca": 46,
       "razoes": [
         {
           "title": "Trump announces 25 percent tariffs on medium and heavy imported trucks",
@@ -102,10 +102,29 @@
       "chg1m": 0.16721311475409836
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.64,
+      "confianca": 46,
+      "razoes": [
+        {
+          "title": "Trump announces 25 percent tariffs on medium and heavy imported trucks",
+          "url": "https://www.aljazeera.com/economy/2025/10/6/trump-announces-25-percent-tariffs-on-medium-and-heavy-imported-trucks?traffic_source=rss"
+        },
+        {
+          "title": "Lula asks Trump to lift 40 percent tariff from Brazilian goods",
+          "url": "https://www.aljazeera.com/economy/2025/10/6/lula-asks-trump-to-lift-40-percent-tariff-from-brazilian-goods?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.010734145821627102,
+      "chg5d": 0.0838241863267574,
+      "chg1m": 0.3346552385825763
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "score": 1.64,
+      "confianca": 46,
       "razoes": [
         {
           "title": "Trump announces 25 percent tariffs on medium and heavy imported trucks",
@@ -119,25 +138,6 @@
       "chg1d": 0.03494301653033978,
       "chg5d": 0.1067598726347764,
       "chg1m": 0.24234830122016343
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
-      "razoes": [
-        {
-          "title": "Trump announces 25 percent tariffs on medium and heavy imported trucks",
-          "url": "https://www.aljazeera.com/economy/2025/10/6/trump-announces-25-percent-tariffs-on-medium-and-heavy-imported-trucks?traffic_source=rss"
-        },
-        {
-          "title": "Lula asks Trump to lift 40 percent tariff from Brazilian goods",
-          "url": "https://www.aljazeera.com/economy/2025/10/6/lula-asks-trump-to-lift-40-percent-tariff-from-brazilian-goods?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010533607176764688,
-      "chg5d": 0.08360914596773363,
-      "chg1m": 0.3343904311116797
     }
   ]
 }
