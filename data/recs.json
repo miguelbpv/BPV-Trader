@@ -1,31 +1,62 @@
 {
-  "generated_at": "2025-10-07T12:25:04.747306Z",
+  "generated_at": "2025-10-07T15:13:43.325753Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.7,
+      "score": 4.45,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israel’s attempt to annihilate Gaz",
+          "title": "Israel is fractured, isolated after two years of its war on Gaza: Analysts",
+          "url": "https://www.aljazeera.com/news/2025/10/7/two-years-into-its-war-on-gaza-israel-is-fractured-isolated-analysts?traffic_source=rss"
+        },
+        {
+          "title": "Gaza girl removes ‘stray bullet’ after being injured by an Israeli drone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-girl-removes-stray-bullet-after-being-injured-by-an-israeli-drone?traffic_source=rss"
+        },
+        {
+          "title": "French lawmaker “beaten” by Israeli police",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/7/aje-onl-qt-rima-hasan-100625?traffic_source=rss"
+        },
+        {
+          "title": "The young children killed by Israeli fire this year in occupied West Bank",
+          "url": "https://www.aljazeera.com/gallery/2025/10/7/the-young-children-killed-by-israeli-fire-this-year-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s attempt to annihilate Gaza",
           "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/10/7/israels-attempt-to-annihilate-gaz?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008617795187464982,
+      "chg5d": -0.008506827848668066,
+      "chg1m": 0.016291877007801762
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel is fractured, isolated after two years of its war on Gaza: Analysts",
+          "url": "https://www.aljazeera.com/news/2025/10/7/two-years-into-its-war-on-gaza-israel-is-fractured-isolated-analysts?traffic_source=rss"
         },
         {
-          "title": "Gaza in a thousand faces: Two years of Israel’s genocide",
-          "url": "https://www.aljazeera.com/features/longform/2025/10/7/gaza-in-a-thousand-faces-two-years-of-israels-genocide?traffic_source=rss"
+          "title": "Gaza girl removes ‘stray bullet’ after being injured by an Israeli drone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-girl-removes-stray-bullet-after-being-injured-by-an-israeli-drone?traffic_source=rss"
         },
         {
-          "title": "Two years of Israel’s genocide in Gaza: By the numbers",
-          "url": "https://www.aljazeera.com/news/2025/10/7/two-years-of-israels-genocide-in-gaza-by-the-numbers?traffic_source=rss"
+          "title": "French lawmaker “beaten” by Israeli police",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/7/aje-onl-qt-rima-hasan-100625?traffic_source=rss"
         },
         {
-          "title": "Venezuela’s Maduro says US embassy ‘false flag’ bombing foiled in Caracas",
-          "url": "https://www.aljazeera.com/news/2025/10/7/venezuelas-maduro-says-us-embassy-false-flag-bombing-foiled-in-caracas?traffic_source=rss"
+          "title": "The young children killed by Israeli fire this year in occupied West Bank",
+          "url": "https://www.aljazeera.com/gallery/2025/10/7/the-young-children-killed-by-israeli-fire-this-year-in-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "After two years of war, do Israelis support Netanyahu?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/after-two-years-of-war-do-israelis-support-netanyahu?traffic_source=rss"
+          "title": "Israel’s attempt to annihilate Gaza",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/10/7/israels-attempt-to-annihilate-gaz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,66 +64,140 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.7,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s attempt to annihilate Gaz",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/10/7/israels-attempt-to-annihilate-gaz?traffic_source=rss"
-        },
-        {
-          "title": "Gaza in a thousand faces: Two years of Israel’s genocide",
-          "url": "https://www.aljazeera.com/features/longform/2025/10/7/gaza-in-a-thousand-faces-two-years-of-israels-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Two years of Israel’s genocide in Gaza: By the numbers",
-          "url": "https://www.aljazeera.com/news/2025/10/7/two-years-of-israels-genocide-in-gaza-by-the-numbers?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela’s Maduro says US embassy ‘false flag’ bombing foiled in Caracas",
-          "url": "https://www.aljazeera.com/news/2025/10/7/venezuelas-maduro-says-us-embassy-false-flag-bombing-foiled-in-caracas?traffic_source=rss"
-        },
-        {
-          "title": "After two years of war, do Israelis support Netanyahu?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/after-two-years-of-war-do-israelis-support-netanyahu?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004948824654144615,
-      "chg5d": -0.010520487264673343,
-      "chg1m": 0.02277930402930397
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.37,
+      "score": 4.45,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israel’s attempt to annihilate Gaz",
+          "title": "Israel is fractured, isolated after two years of its war on Gaza: Analysts",
+          "url": "https://www.aljazeera.com/news/2025/10/7/two-years-into-its-war-on-gaza-israel-is-fractured-isolated-analysts?traffic_source=rss"
+        },
+        {
+          "title": "Gaza girl removes ‘stray bullet’ after being injured by an Israeli drone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-girl-removes-stray-bullet-after-being-injured-by-an-israeli-drone?traffic_source=rss"
+        },
+        {
+          "title": "French lawmaker “beaten” by Israeli police",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/7/aje-onl-qt-rima-hasan-100625?traffic_source=rss"
+        },
+        {
+          "title": "The young children killed by Israeli fire this year in occupied West Bank",
+          "url": "https://www.aljazeera.com/gallery/2025/10/7/the-young-children-killed-by-israeli-fire-this-year-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s attempt to annihilate Gaza",
           "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/10/7/israels-attempt-to-annihilate-gaz?traffic_source=rss"
-        },
-        {
-          "title": "Gaza in a thousand faces: Two years of Israel’s genocide",
-          "url": "https://www.aljazeera.com/features/longform/2025/10/7/gaza-in-a-thousand-faces-two-years-of-israels-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Two years of Israel’s genocide in Gaza: By the numbers",
-          "url": "https://www.aljazeera.com/news/2025/10/7/two-years-of-israels-genocide-in-gaza-by-the-numbers?traffic_source=rss"
-        },
-        {
-          "title": "After two years of war, do Israelis support Netanyahu?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/after-two-years-of-war-do-israelis-support-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Live: Israel’s genocide continues across Gaza two years since start of war",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/7/live-israels-genocide-continues-across-gaza-two-years-since-start-of-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019326448492537018,
-      "chg5d": 0.04524574169681692,
-      "chg1m": 0.10851476611338658
+      "chg1d": -0.007554838207840679,
+      "chg5d": 0.022325273932813923,
+      "chg1m": 0.11161813073119732
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
+          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010637975654174287,
+      "chg5d": 0.06622462787550733,
+      "chg1m": 0.29632828885400303
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
+          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004821522628742748,
+      "chg5d": 0.015126467184658607,
+      "chg1m": 0.030933892969569797
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
+          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0011018299310611949,
+      "chg5d": 0.007040139301690316,
+      "chg1m": 0.03396883621287543
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
+          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004546957671957673,
+      "chg5d": 0.0778223352071322,
+      "chg1m": 0.2177879364051943
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
+          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00019433611426488464,
+      "chg5d": 0.012422506121225153,
+      "chg1m": 0.050025221552334624
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
+          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
+          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004334859203773061,
+      "chg5d": 0.058977574505753944,
+      "chg1m": 0.15374723729154116
     }
   ]
 }
