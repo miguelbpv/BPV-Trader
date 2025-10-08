@@ -1,10 +1,41 @@
 {
-  "generated_at": "2025-10-08T00:55:47.743010Z",
+  "generated_at": "2025-10-08T03:25:20.027094Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.37,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
+          "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss"
+        },
+        {
+          "title": "Israelis mark two years since October 7 with tributes to loved ones",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/israelis-mark-two-years-since-october-7-with-tributes-to-loved-ones?traffic_source=rss"
+        },
+        {
+          "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Gaza-bound ‘Conscience’ sails as activists brace for Israeli interception",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-bound-conscience-sails-as-activists-brace-for-israeli-interception?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006164436838830149,
+      "chg5d": 0.023757536908315165,
+      "chg1m": 0.11317549171222578
+    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.14,
+      "score": 5.37,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.14,
+      "score": 5.37,
       "confianca": 95,
       "razoes": [
         {
@@ -62,37 +93,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.14,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
-          "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss"
-        },
-        {
-          "title": "Israelis mark two years since October 7 with tributes to loved ones",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/israelis-mark-two-years-since-october-7-with-tributes-to-loved-ones?traffic_source=rss"
-        },
-        {
-          "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Gaza-bound ‘Conscience’ sails as activists brace for Israeli interception",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-bound-conscience-sails-as-activists-brace-for-israeli-interception?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006164436838830149,
-      "chg5d": 0.023757536908315165,
-      "chg1m": 0.11317549171222578
     }
   ]
 }
