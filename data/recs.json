@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-08T03:25:20.027094Z",
+  "generated_at": "2025-10-08T06:19:03.001022Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.37,
+      "score": 5.36,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
+        },
         {
           "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
           "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
           "url": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Gaza-bound ‘Conscience’ sails as activists brace for Israeli interception",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-bound-conscience-sails-as-activists-brace-for-israeli-interception?traffic_source=rss"
         }
       ],
       "chg1d": -0.006164436838830149,
@@ -35,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.37,
+      "score": 5.36,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
+        },
         {
           "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
           "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
           "url": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Gaza-bound ‘Conscience’ sails as activists brace for Israeli interception",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-bound-conscience-sails-as-activists-brace-for-israeli-interception?traffic_source=rss"
         }
       ],
       "chg1d": 0.0015668718522663747,
@@ -66,9 +66,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.37,
+      "score": 5.36,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
+        },
         {
           "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
           "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
@@ -84,15 +88,71 @@
         {
           "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
           "url": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Gaza-bound ‘Conscience’ sails as activists brace for Israeli interception",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-bound-conscience-sails-as-activists-brace-for-israeli-interception?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "White House memo says federal workers may not get automatic backpay: Report",
+          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "White House memo says federal workers may not get automatic backpay: Report",
+          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0037075088220842587,
+      "chg5d": 0.0044132216518059,
+      "chg1m": 0.0312716736279148
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "White House memo says federal workers may not get automatic backpay: Report",
+          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010737004173250702,
+      "chg5d": 0.009092411968920435,
+      "chg1m": 0.02480587618048267
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "White House memo says federal workers may not get automatic backpay: Report",
+          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005265669480508869,
+      "chg5d": 0.006895747622299559,
+      "chg1m": 0.044293191908373185
     }
   ]
 }
