@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-08T06:19:03.001022Z",
+  "generated_at": "2025-10-08T09:13:40.107707Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.36,
+      "score": 4.63,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel keeps bombing Gaza as ceasefire talks in Egypt enter third day",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
+        },
         {
           "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Israelis mark two years since October 7 with tributes to loved ones",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/israelis-mark-two-years-since-october-7-with-tributes-to-loved-ones?traffic_source=rss"
-        },
-        {
-          "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006164436838830149,
-      "chg5d": 0.023757536908315165,
-      "chg1m": 0.11317549171222578
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.36,
+      "score": 4.63,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel keeps bombing Gaza as ceasefire talks in Egypt enter third day",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
+        },
         {
           "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israelis mark two years since October 7 with tributes to loved ones",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/israelis-mark-two-years-since-october-7-with-tributes-to-loved-ones?traffic_source=rss"
-        },
-        {
-          "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0015668718522663747,
@@ -64,11 +64,15 @@
       "chg1m": 0.026732446076181717
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.36,
+      "score": 4.63,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel keeps bombing Gaza as ceasefire talks in Egypt enter third day",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
+        },
         {
           "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
@@ -84,36 +88,32 @@
         {
           "title": "Israelis mark two years since October 7 with tributes to loved ones",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/israelis-mark-two-years-since-october-7-with-tributes-to-loved-ones?traffic_source=rss"
-        },
-        {
-          "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.006164436838830149,
+      "chg5d": 0.023757536908315165,
+      "chg1m": 0.11317549171222578
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "White House memo says federal workers may not get automatic backpay: Report",
           "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.005265669480508869,
+      "chg5d": 0.006895747622299559,
+      "chg1m": 0.044293191908373185
     },
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "White House memo says federal workers may not get automatic backpay: Report",
@@ -127,8 +127,8 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "White House memo says federal workers may not get automatic backpay: Report",
@@ -140,19 +140,19 @@
       "chg1m": 0.02480587618048267
     },
     {
-      "symbol": "QQQ",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "White House memo says federal workers may not get automatic backpay: Report",
           "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005265669480508869,
-      "chg5d": 0.006895747622299559,
-      "chg1m": 0.044293191908373185
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
