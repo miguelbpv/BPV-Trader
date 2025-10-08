@@ -1,62 +1,23 @@
 {
-  "generated_at": "2025-10-08T09:13:40.107707Z",
+  "generated_at": "2025-10-08T12:25:31.863848Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.63,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel keeps bombing Gaza as ceasefire talks in Egypt enter third day",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
-        },
-        {
-          "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
-        },
-        {
-          "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
-          "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss"
-        },
-        {
-          "title": "Israelis mark two years since October 7 with tributes to loved ones",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/israelis-mark-two-years-since-october-7-with-tributes-to-loved-ones?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.63,
-      "confianca": 95,
+      "score": 3.07,
+      "confianca": 87,
       "razoes": [
         {
-          "title": "LIVE: Israel keeps bombing Gaza as ceasefire talks in Egypt enter third day",
+          "title": "France’s outgoing PM Lecornu hints at budget deal amid political turmoil",
+          "url": "https://www.aljazeera.com/news/2025/10/8/frances-outgoing-pm-lecornu-hints-at-budget-deal-amid-political-turmoil?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills 8 people in Gaza in 24 hours as talks under way in Egypt",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
         },
         {
           "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
-        },
-        {
-          "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
-          "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss"
-        },
-        {
-          "title": "Israelis mark two years since October 7 with tributes to loved ones",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/israelis-mark-two-years-since-october-7-with-tributes-to-loved-ones?traffic_source=rss"
         }
       ],
       "chg1d": 0.0015668718522663747,
@@ -64,30 +25,41 @@
       "chg1m": 0.026732446076181717
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.63,
-      "confianca": 95,
+      "score": 3.07,
+      "confianca": 87,
       "razoes": [
         {
-          "title": "LIVE: Israel keeps bombing Gaza as ceasefire talks in Egypt enter third day",
+          "title": "France’s outgoing PM Lecornu hints at budget deal amid political turmoil",
+          "url": "https://www.aljazeera.com/news/2025/10/8/frances-outgoing-pm-lecornu-hints-at-budget-deal-amid-political-turmoil?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills 8 people in Gaza in 24 hours as talks under way in Egypt",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
         },
         {
           "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "LIVE: Israel kills 8 people in Gaza in 24 hours as talks under way in Egypt",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
         },
         {
-          "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
-          "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss"
-        },
-        {
-          "title": "Israelis mark two years since October 7 with tributes to loved ones",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/israelis-mark-two-years-since-october-7-with-tributes-to-loved-ones?traffic_source=rss"
+          "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
         }
       ],
       "chg1d": -0.006164436838830149,
@@ -97,7 +69,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -110,9 +82,24 @@
       "chg1m": 0.044293191908373185
     },
     {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "White House memo says federal workers may not get automatic backpay: Report",
+          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -127,7 +114,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -138,21 +125,6 @@
       "chg1d": -0.010737004173250702,
       "chg5d": 0.009092411968920435,
       "chg1m": 0.02480587618048267
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "White House memo says federal workers may not get automatic backpay: Report",
-          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
