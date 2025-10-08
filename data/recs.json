@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-10-08T18:18:35.086160Z",
+  "generated_at": "2025-10-08T21:11:37.303820Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.98,
-      "confianca": 85,
+      "score": 3.72,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Spain’s parliament formally approves Israel arms embargo",
+          "url": "https://www.aljazeera.com/news/2025/10/8/spains-parliament-formally-approves-israel-arms-embargo?traffic_source=rss"
+        },
+        {
+          "title": "Spain approves arms embargo on Israel due to Gaza genocide",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/spain-approves-arms-embargo-on-israel-due-to-gaza-genocide?traffic_source=rss"
+        },
         {
           "title": "Reflections from Gaza as Israel’s war enters its third year",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/reflections-from-gaza-as-israels-war-enters-its-third-year?traffic_source=rss"
@@ -18,10 +26,37 @@
         {
           "title": "What kind of future does Gaza face, if Israel ends its war on it?",
           "url": "https://www.aljazeera.com/features/2025/10/8/what-kind-of-future-does-gaza-face-if-israel-ends-its-war-on-it?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005772203416361729,
+      "chg5d": 0.030100200400801566,
+      "chg1m": 0.12462258784404669
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.72,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Spain’s parliament formally approves Israel arms embargo",
+          "url": "https://www.aljazeera.com/news/2025/10/8/spains-parliament-formally-approves-israel-arms-embargo?traffic_source=rss"
         },
         {
-          "title": "Israeli forces intercept latest Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israeli-forces-intercept-latest-gaza-flotilla?traffic_source=rss"
+          "title": "Spain approves arms embargo on Israel due to Gaza genocide",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/spain-approves-arms-embargo-on-israel-due-to-gaza-genocide?traffic_source=rss"
+        },
+        {
+          "title": "Reflections from Gaza as Israel’s war enters its third year",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/reflections-from-gaza-as-israels-war-enters-its-third-year?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s national security minister urges ‘complete victory’ over Hamas",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israels-national-security-minister-urges-complete-victory-over-hamas?traffic_source=rss"
+        },
+        {
+          "title": "What kind of future does Gaza face, if Israel ends its war on it?",
+          "url": "https://www.aljazeera.com/features/2025/10/8/what-kind-of-future-does-gaza-face-if-israel-ends-its-war-on-it?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,9 +66,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.98,
-      "confianca": 85,
+      "score": 3.72,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Spain’s parliament formally approves Israel arms embargo",
+          "url": "https://www.aljazeera.com/news/2025/10/8/spains-parliament-formally-approves-israel-arms-embargo?traffic_source=rss"
+        },
+        {
+          "title": "Spain approves arms embargo on Israel due to Gaza genocide",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/spain-approves-arms-embargo-on-israel-due-to-gaza-genocide?traffic_source=rss"
+        },
         {
           "title": "Reflections from Gaza as Israel’s war enters its third year",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/reflections-from-gaza-as-israels-war-enters-its-third-year?traffic_source=rss"
@@ -45,87 +88,56 @@
         {
           "title": "What kind of future does Gaza face, if Israel ends its war on it?",
           "url": "https://www.aljazeera.com/features/2025/10/8/what-kind-of-future-does-gaza-face-if-israel-ends-its-war-on-it?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces intercept latest Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israeli-forces-intercept-latest-gaza-flotilla?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005531344284277465,
-      "chg5d": -0.003861652115513755,
-      "chg1m": 0.016156656770952346
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.98,
-      "confianca": 85,
-      "razoes": [
-        {
-          "title": "Reflections from Gaza as Israel’s war enters its third year",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/reflections-from-gaza-as-israels-war-enters-its-third-year?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s national security minister urges ‘complete victory’ over Hamas",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israels-national-security-minister-urges-complete-victory-over-hamas?traffic_source=rss"
-        },
-        {
-          "title": "What kind of future does Gaza face, if Israel ends its war on it?",
-          "url": "https://www.aljazeera.com/features/2025/10/8/what-kind-of-future-does-gaza-face-if-israel-ends-its-war-on-it?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces intercept latest Gaza flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israeli-forces-intercept-latest-gaza-flotilla?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007993034222317843,
-      "chg5d": 0.03237474949899794,
-      "chg1m": 0.12710585043539135
+      "chg1d": -0.00581070510671579,
+      "chg5d": -0.004141481978956845,
+      "chg1m": 0.015871203471112132
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "Will Trump’s tariffs push China and India closer?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/8/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+          "title": "Brazil’s beef exports to China surge as Trump’s tariffs shift global demand",
+          "url": "https://www.aljazeera.com/economy/2025/10/8/brazils-beef-exports-to-china-surge-as-trumps-tariffs-shift-global-demand?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03247967894432545,
-      "chg5d": 0.05237979685929197,
-      "chg1m": 0.20986768691216323
+      "chg1d": 0.03567663163622763,
+      "chg5d": 0.0556383679412069,
+      "chg1m": 0.2136139008448908
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "Will Trump’s tariffs push China and India closer?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/8/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+          "title": "Brazil’s beef exports to China surge as Trump’s tariffs shift global demand",
+          "url": "https://www.aljazeera.com/economy/2025/10/8/brazils-beef-exports-to-china-surge-as-trumps-tariffs-shift-global-demand?traffic_source=rss"
         }
       ],
-      "chg1d": 0.026923486219005973,
-      "chg5d": 0.047622494029094686,
-      "chg1m": 0.1623705131293664
+      "chg1d": 0.03415983824624878,
+      "chg5d": 0.05500470434971429,
+      "chg1m": 0.17056131052758378
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "Will Trump’s tariffs push China and India closer?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/8/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+          "title": "Brazil’s beef exports to China surge as Trump’s tariffs shift global demand",
+          "url": "https://www.aljazeera.com/economy/2025/10/8/brazils-beef-exports-to-china-surge-as-trumps-tariffs-shift-global-demand?traffic_source=rss"
         }
       ],
-      "chg1d": -0.012700788187169415,
-      "chg5d": -0.013655347015260031,
-      "chg1m": 0.229081017972253
+      "chg1d": -0.014456749476204738,
+      "chg5d": -0.015409610573424937,
+      "chg1m": 0.2268950355843155
     }
   ]
 }
