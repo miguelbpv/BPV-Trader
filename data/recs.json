@@ -1,130 +1,127 @@
 {
-  "generated_at": "2025-10-08T12:25:31.863848Z",
+  "generated_at": "2025-10-08T15:13:17.449097Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.07,
-      "confianca": 87,
+      "score": 2.83,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Israeli forces intercept latest Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israeli-forces-intercept-latest-gaza-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "Orphaned by Israel, two child amputees find each other in Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/10/8/injure-orphaned-by-israel-two-child-amputees-found-each-other-in-lebanon?traffic_source=rss"
+        },
         {
           "title": "France’s outgoing PM Lecornu hints at budget deal amid political turmoil",
           "url": "https://www.aljazeera.com/news/2025/10/8/frances-outgoing-pm-lecornu-hints-at-budget-deal-amid-political-turmoil?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 8 people in Gaza in 24 hours as talks under way in Egypt",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
-        },
-        {
-          "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0015668718522663747,
-      "chg5d": 0.0016789791806580644,
-      "chg1m": 0.026732446076181717
+      "chg1d": -0.007095764889931735,
+      "chg5d": -0.0054286993507947105,
+      "chg1m": 0.014558118291847518
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.07,
-      "confianca": 87,
+      "score": 2.83,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Israeli forces intercept latest Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israeli-forces-intercept-latest-gaza-flotilla?traffic_source=rss"
+        },
+        {
+          "title": "Orphaned by Israel, two child amputees find each other in Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/10/8/injure-orphaned-by-israel-two-child-amputees-found-each-other-in-lebanon?traffic_source=rss"
+        },
         {
           "title": "France’s outgoing PM Lecornu hints at budget deal amid political turmoil",
           "url": "https://www.aljazeera.com/news/2025/10/8/frances-outgoing-pm-lecornu-hints-at-budget-deal-amid-political-turmoil?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 8 people in Gaza in 24 hours as talks under way in Egypt",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
-        },
-        {
-          "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Will Trump’s tariffs push China and India closer?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/8/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+        },
+        {
+          "title": "‘Crisis’: Why EU plan for 50 percent tariffs is spooking British steel",
+          "url": "https://www.aljazeera.com/news/2025/10/8/crisis-why-eu-plan-for-50-percent-tariff-is-spooking-british-steel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016530098258309277,
+      "chg5d": 0.0370196135195774,
+      "chg1m": 0.1506062796113386
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Will Trump’s tariffs push China and India closer?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/8/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+        },
+        {
+          "title": "‘Crisis’: Why EU plan for 50 percent tariffs is spooking British steel",
+          "url": "https://www.aljazeera.com/news/2025/10/8/crisis-why-eu-plan-for-50-percent-tariff-is-spooking-british-steel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03304832840186392,
+      "chg5d": 0.05295940652407526,
+      "chg1m": 0.21053403475211238
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Will Trump’s tariffs push China and India closer?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/8/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+        },
+        {
+          "title": "‘Crisis’: Why EU plan for 50 percent tariffs is spooking British steel",
+          "url": "https://www.aljazeera.com/news/2025/10/8/crisis-why-eu-plan-for-50-percent-tariff-is-spooking-british-steel?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013838172203930963,
+      "chg5d": -0.01479163136543506,
+      "chg1m": 0.22766509756188436
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
         {
-          "title": "LIVE: Israel kills 8 people in Gaza in 24 hours as talks under way in Egypt",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/8/live-israel-keeps-bombing-gaza-as-peace-talks-in-egypt-enter-third-day?traffic_source=rss"
+          "title": "Israeli forces intercept latest Gaza flotilla",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israeli-forces-intercept-latest-gaza-flotilla?traffic_source=rss"
         },
         {
-          "title": "Israel intercepts Freedom Flotilla Coalition vessels en route to Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss"
+          "title": "Orphaned by Israel, two child amputees find each other in Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/10/8/injure-orphaned-by-israel-two-child-amputees-found-each-other-in-lebanon?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006164436838830149,
-      "chg5d": 0.023757536908315165,
-      "chg1m": 0.11317549171222578
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "White House memo says federal workers may not get automatic backpay: Report",
-          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005265669480508869,
-      "chg5d": 0.006895747622299559,
-      "chg1m": 0.044293191908373185
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "White House memo says federal workers may not get automatic backpay: Report",
-          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "White House memo says federal workers may not get automatic backpay: Report",
-          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0037075088220842587,
-      "chg5d": 0.0044132216518059,
-      "chg1m": 0.0312716736279148
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "White House memo says federal workers may not get automatic backpay: Report",
-          "url": "https://www.aljazeera.com/news/2025/10/8/white-house-memo-says-federal-workers-may-not-get-automatic-backpay-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010737004173250702,
-      "chg5d": 0.009092411968920435,
-      "chg1m": 0.02480587618048267
+      "chg1d": 0.0056058856908054715,
+      "chg5d": 0.02992985971943877,
+      "chg1m": 0.1244366166367653
     }
   ]
 }
