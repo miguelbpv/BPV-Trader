@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-07T21:10:45.594329Z",
+  "generated_at": "2025-10-08T00:55:47.743010Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.45,
+      "score": 6.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
+          "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
+        },
         {
           "title": "Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Gaza-bound ‘Conscience’ sails as activists brace for Israeli interception",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-bound-conscience-sails-as-activists-brace-for-israeli-interception?traffic_source=rss"
-        },
-        {
-          "title": "Two years after October 7: Israel’s reckoning",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/7/two-years-after-october-7-israels-reckoning?traffic_source=rss"
         }
       ],
       "chg1d": 0.0015668718522663747,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.45,
+      "score": 6.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
+          "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
+        },
         {
           "title": "Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Gaza-bound ‘Conscience’ sails as activists brace for Israeli interception",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-bound-conscience-sails-as-activists-brace-for-israeli-interception?traffic_source=rss"
-        },
-        {
-          "title": "Two years after October 7: Israel’s reckoning",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/7/two-years-after-october-7-israels-reckoning?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.45,
+      "score": 6.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
+          "url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza?traffic_source=rss"
+        },
         {
           "title": "Trump: US-Israel ‘very close to making a deal’ on Gaza peace plan",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/trump-us-israel-very-close-to-making-a-deal-on-gaza-peace-plan?traffic_source=rss"
@@ -84,120 +88,11 @@
         {
           "title": "Gaza-bound ‘Conscience’ sails as activists brace for Israeli interception",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-bound-conscience-sails-as-activists-brace-for-israeli-interception?traffic_source=rss"
-        },
-        {
-          "title": "Two years after October 7: Israel’s reckoning",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/7/two-years-after-october-7-israels-reckoning?traffic_source=rss"
         }
       ],
       "chg1d": -0.006164436838830149,
       "chg5d": 0.023757536908315165,
       "chg1m": 0.11317549171222578
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
-          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
-          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.022367873491468956,
-      "chg5d": 0.03979787547949255,
-      "chg1m": 0.13285111512959627
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
-          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.039298380139940574,
-      "chg5d": 0.03533762356805661,
-      "chg1m": 0.25877551020408157
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
-          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0037075088220842587,
-      "chg5d": 0.0044132216518059,
-      "chg1m": 0.0312716736279148
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
-          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.027678571428571445,
-      "chg5d": 0.05277668373375327,
-      "chg1m": 0.18948986609490664
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
-          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005282124697635445,
-      "chg5d": 0.006879091227076629,
-      "chg1m": 0.0442759168725275
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Malaysia football federation to fight FIFA sanctions for cheating claims",
-          "url": "https://www.aljazeera.com/sports/2025/10/7/malaysia-football-federation-to-fight-fifa-sanctions-for-cheating-claims?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010737004173250702,
-      "chg5d": 0.009092411968920435,
-      "chg1m": 0.02480587618048267
     }
   ]
 }
