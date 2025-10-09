@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-09T18:18:13.231083Z",
+  "generated_at": "2025-10-09T21:11:36.443694Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.46,
-      "confianca": 95,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
         {
           "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
@@ -22,10 +22,6 @@
         {
           "title": "Map of Gaza shows how Israeli forces will withdraw under ceasefire deal",
           "url": "https://www.aljazeera.com/news/2025/10/9/map-of-gaza-shows-how-israeli-forces-will-withdraw-under-ceasefire-deal?traffic_source=rss"
-        },
-        {
-          "title": "How Israel weaponises paid ads",
-          "url": "https://www.aljazeera.com/video/digital-dilemma/2025/10/9/how-israel-weaponises-paid-ads?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,8 +31,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.46,
-      "confianca": 95,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
         {
           "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
@@ -53,21 +49,17 @@
         {
           "title": "Map of Gaza shows how Israeli forces will withdraw under ceasefire deal",
           "url": "https://www.aljazeera.com/news/2025/10/9/map-of-gaza-shows-how-israeli-forces-will-withdraw-under-ceasefire-deal?traffic_source=rss"
-        },
-        {
-          "title": "How Israel weaponises paid ads",
-          "url": "https://www.aljazeera.com/video/digital-dilemma/2025/10/9/how-israel-weaponises-paid-ads?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010701140033461662,
-      "chg5d": 0.018342278115988476,
-      "chg1m": 0.09625412292237052
+      "chg1d": -0.012178514454690462,
+      "chg5d": 0.016821531560397264,
+      "chg1m": 0.09461702632202985
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.46,
-      "confianca": 95,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
         {
           "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
@@ -84,60 +76,11 @@
         {
           "title": "Map of Gaza shows how Israeli forces will withdraw under ceasefire deal",
           "url": "https://www.aljazeera.com/news/2025/10/9/map-of-gaza-shows-how-israeli-forces-will-withdraw-under-ceasefire-deal?traffic_source=rss"
-        },
-        {
-          "title": "How Israel weaponises paid ads",
-          "url": "https://www.aljazeera.com/video/digital-dilemma/2025/10/9/how-israel-weaponises-paid-ads?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011127346296504382,
-      "chg5d": -0.0052012663952961755,
-      "chg1m": -0.01268095612164735
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
-          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004630544288891887,
-      "chg5d": 0.0047524474600894465,
-      "chg1m": 0.0480604442913724
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
-          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004664913609959719,
-      "chg5d": 0.0011207076895490271,
-      "chg1m": 0.02723049324604037
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
-          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009241245136186776,
-      "chg5d": 0.0017211703958691397,
-      "chg1m": 0.03387894937190708
+      "chg1d": -0.0136000899179498,
+      "chg5d": -0.007688828584350889,
+      "chg1m": -0.01514981483559639
     },
     {
       "symbol": "EUROSTOXX50",
@@ -155,24 +98,54 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Will Trump’s tariffs push China and India closer?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/9/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
+          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01077130217349489,
-      "chg5d": -0.05144781929196163,
-      "chg1m": 0.2320271326625816
+      "chg1d": -0.0011759125997645736,
+      "chg5d": 0.008239644726198116,
+      "chg1m": 0.05169795074909584
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
+          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0064040207522698305,
+      "chg5d": 0.004589787722317744,
+      "chg1m": 0.03683965655796633
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
+          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0030158517924261602,
+      "chg5d": 0.002779355070081608,
+      "chg1m": 0.028932399073917914
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -180,14 +153,14 @@
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/9/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
         }
       ],
-      "chg1d": -0.02052410350715881,
-      "chg5d": 0.035264308770955426,
-      "chg1m": 0.14525418522500377
+      "chg1d": -0.015237094443714655,
+      "chg5d": 0.040852452188400196,
+      "chg1m": 0.15143603133159267
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -195,9 +168,24 @@
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/9/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010513137133840974,
-      "chg5d": 0.024086762043381112,
-      "chg1m": 0.1381929374630106
+      "chg1d": -0.004630582424367232,
+      "chg5d": 0.030175015087507542,
+      "chg1m": 0.14495955809824426
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Will Trump’s tariffs push China and India closer?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/9/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007359714924934939,
+      "chg5d": -0.048176514555850106,
+      "chg1m": 0.2362760672768994
     }
   ]
 }
