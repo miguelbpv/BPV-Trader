@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-10-08T21:11:37.303820Z",
+  "generated_at": "2025-10-09T00:56:24.448030Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.72,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Spain’s parliament formally approves Israel arms embargo",
-          "url": "https://www.aljazeera.com/news/2025/10/8/spains-parliament-formally-approves-israel-arms-embargo?traffic_source=rss"
-        },
-        {
-          "title": "Spain approves arms embargo on Israel due to Gaza genocide",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/spain-approves-arms-embargo-on-israel-due-to-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Reflections from Gaza as Israel’s war enters its third year",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/reflections-from-gaza-as-israels-war-enters-its-third-year?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s national security minister urges ‘complete victory’ over Hamas",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israels-national-security-minister-urges-complete-victory-over-hamas?traffic_source=rss"
-        },
-        {
-          "title": "What kind of future does Gaza face, if Israel ends its war on it?",
-          "url": "https://www.aljazeera.com/features/2025/10/8/what-kind-of-future-does-gaza-face-if-israel-ends-its-war-on-it?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005772203416361729,
-      "chg5d": 0.030100200400801566,
-      "chg1m": 0.12462258784404669
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.72,
+      "score": 4.69,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel, Hamas agree on ‘first phase’ of Gaza ceasefire deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/9/live-israel-hamas-agree-on-first-phase-of-gaza-ceasefire-deal?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Israel and Hamas sign off on first phase of Gaza ceasefire plan",
+          "url": "https://www.aljazeera.com/news/2025/10/8/trump-says-he-may-travel-to-middle-east-as-gaza-deal-very-close?traffic_source=rss"
+        },
         {
           "title": "Spain’s parliament formally approves Israel arms embargo",
           "url": "https://www.aljazeera.com/news/2025/10/8/spains-parliament-formally-approves-israel-arms-embargo?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Reflections from Gaza as Israel’s war enters its third year",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/reflections-from-gaza-as-israels-war-enters-its-third-year?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s national security minister urges ‘complete victory’ over Hamas",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israels-national-security-minister-urges-complete-victory-over-hamas?traffic_source=rss"
-        },
-        {
-          "title": "What kind of future does Gaza face, if Israel ends its war on it?",
-          "url": "https://www.aljazeera.com/features/2025/10/8/what-kind-of-future-does-gaza-face-if-israel-ends-its-war-on-it?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.72,
+      "score": 4.69,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel, Hamas agree on ‘first phase’ of Gaza ceasefire deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/9/live-israel-hamas-agree-on-first-phase-of-gaza-ceasefire-deal?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Israel and Hamas sign off on first phase of Gaza ceasefire plan",
+          "url": "https://www.aljazeera.com/news/2025/10/8/trump-says-he-may-travel-to-middle-east-as-gaza-deal-very-close?traffic_source=rss"
+        },
         {
           "title": "Spain’s parliament formally approves Israel arms embargo",
           "url": "https://www.aljazeera.com/news/2025/10/8/spains-parliament-formally-approves-israel-arms-embargo?traffic_source=rss"
@@ -80,14 +57,6 @@
         {
           "title": "Reflections from Gaza as Israel’s war enters its third year",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/reflections-from-gaza-as-israels-war-enters-its-third-year?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s national security minister urges ‘complete victory’ over Hamas",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/israels-national-security-minister-urges-complete-victory-over-hamas?traffic_source=rss"
-        },
-        {
-          "title": "What kind of future does Gaza face, if Israel ends its war on it?",
-          "url": "https://www.aljazeera.com/features/2025/10/8/what-kind-of-future-does-gaza-face-if-israel-ends-its-war-on-it?traffic_source=rss"
         }
       ],
       "chg1d": -0.00581070510671579,
@@ -95,24 +64,40 @@
       "chg1m": 0.015871203471112132
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.69,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Brazil’s beef exports to China surge as Trump’s tariffs shift global demand",
-          "url": "https://www.aljazeera.com/economy/2025/10/8/brazils-beef-exports-to-china-surge-as-trumps-tariffs-shift-global-demand?traffic_source=rss"
+          "title": "LIVE: Israel, Hamas agree on ‘first phase’ of Gaza ceasefire deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/9/live-israel-hamas-agree-on-first-phase-of-gaza-ceasefire-deal?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Israel and Hamas sign off on first phase of Gaza ceasefire plan",
+          "url": "https://www.aljazeera.com/news/2025/10/8/trump-says-he-may-travel-to-middle-east-as-gaza-deal-very-close?traffic_source=rss"
+        },
+        {
+          "title": "Spain’s parliament formally approves Israel arms embargo",
+          "url": "https://www.aljazeera.com/news/2025/10/8/spains-parliament-formally-approves-israel-arms-embargo?traffic_source=rss"
+        },
+        {
+          "title": "Spain approves arms embargo on Israel due to Gaza genocide",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/spain-approves-arms-embargo-on-israel-due-to-gaza-genocide?traffic_source=rss"
+        },
+        {
+          "title": "Reflections from Gaza as Israel’s war enters its third year",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/8/reflections-from-gaza-as-israels-war-enters-its-third-year?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03567663163622763,
-      "chg5d": 0.0556383679412069,
-      "chg1m": 0.2136139008448908
+      "chg1d": 0.005772203416361729,
+      "chg5d": 0.030100200400801566,
+      "chg1m": 0.12462258784404669
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +112,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -138,6 +123,21 @@
       "chg1d": -0.014456749476204738,
       "chg5d": -0.015409610573424937,
       "chg1m": 0.2268950355843155
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Brazil’s beef exports to China surge as Trump’s tariffs shift global demand",
+          "url": "https://www.aljazeera.com/economy/2025/10/8/brazils-beef-exports-to-china-surge-as-trumps-tariffs-shift-global-demand?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03567663163622763,
+      "chg5d": 0.0556383679412069,
+      "chg1m": 0.2136139008448908
     }
   ]
 }
