@@ -1,19 +1,62 @@
 {
-  "generated_at": "2025-10-10T06:19:01.504133Z",
+  "generated_at": "2025-10-10T09:13:58.793333Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.47,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
+          "title": "Video shows Israeli tanks reportedly pulling back from Gaza front line",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/video-shows-israeli-tanks-reportedly-pulling-back-from-gaza-front-line?traffic_source=rss"
         },
         {
-          "title": "What impact has the genocide in Gaza had on US-Israeli relations?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss"
+          "title": "Boy pulled from the rubble of his home after Israeli airstrike in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/boy-pulled-from-the-rubble-of-his-home-after-israeli-airstrike-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Attacks on Gaza continue after Israel agrees ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/attacks-on-gaza-continue-after-israel-agrees-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israeli PM Netanyahu thanks Trump and US team for ceasefire role",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/israeli-pm-netanyahu-thanks-trump-and-us-team-for-ceasefire-role?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel pulling troops back as displaced families head to north Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0136000899179498,
+      "chg5d": -0.007688828584350889,
+      "chg1m": -0.01514981483559639
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.47,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Video shows Israeli tanks reportedly pulling back from Gaza front line",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/video-shows-israeli-tanks-reportedly-pulling-back-from-gaza-front-line?traffic_source=rss"
+        },
+        {
+          "title": "Boy pulled from the rubble of his home after Israeli airstrike in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/boy-pulled-from-the-rubble-of-his-home-after-israeli-airstrike-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Attacks on Gaza continue after Israel agrees ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/attacks-on-gaza-continue-after-israel-agrees-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israeli PM Netanyahu thanks Trump and US team for ceasefire role",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/israeli-pm-netanyahu-thanks-trump-and-us-team-for-ceasefire-role?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel pulling troops back as displaced families head to north Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -22,41 +65,34 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 3.47,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
+          "title": "Video shows Israeli tanks reportedly pulling back from Gaza front line",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/video-shows-israeli-tanks-reportedly-pulling-back-from-gaza-front-line?traffic_source=rss"
         },
         {
-          "title": "What impact has the genocide in Gaza had on US-Israeli relations?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss"
+          "title": "Boy pulled from the rubble of his home after Israeli airstrike in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/boy-pulled-from-the-rubble-of-his-home-after-israeli-airstrike-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Attacks on Gaza continue after Israel agrees ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/attacks-on-gaza-continue-after-israel-agrees-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israeli PM Netanyahu thanks Trump and US team for ceasefire role",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/israeli-pm-netanyahu-thanks-trump-and-us-team-for-ceasefire-role?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel pulling troops back as displaced families head to north Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": -0.012178514454690462,
       "chg5d": 0.016821531560397264,
       "chg1m": 0.09461702632202985
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "What impact has the genocide in Gaza had on US-Israeli relations?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0136000899179498,
-      "chg5d": -0.007688828584350889,
-      "chg1m": -0.01514981483559639
     }
   ]
 }
