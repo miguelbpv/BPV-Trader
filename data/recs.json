@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-10-10T00:56:18.476783Z",
+  "generated_at": "2025-10-10T03:28:50.990160Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "What impact has the genocide in Gaza had on US-Israeli relations?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss"
-        },
-        {
-          "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel announces timeline for implementing first phase of peace plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/israel-announces-timeline-for-implementing-first-phase-of-peace-plan?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0136000899179498,
-      "chg5d": -0.007688828584350889,
-      "chg1m": -0.01514981483559639
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
         {
           "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
@@ -45,10 +18,6 @@
         {
           "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
           "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel announces timeline for implementing first phase of peace plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/israel-announces-timeline-for-implementing-first-phase-of-peace-plan?traffic_source=rss"
         }
       ],
       "chg1d": -0.012178514454690462,
@@ -58,8 +27,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
         {
           "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
@@ -72,10 +41,6 @@
         {
           "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
           "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel announces timeline for implementing first phase of peace plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/israel-announces-timeline-for-implementing-first-phase-of-peace-plan?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -83,19 +48,27 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "Will Trump’s tariffs push China and India closer?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/9/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+          "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "What impact has the genocide in Gaza had on US-Israeli relations?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss"
+        },
+        {
+          "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss"
         }
       ],
-      "chg1d": -0.015237094443714655,
-      "chg5d": 0.040852452188400196,
-      "chg1m": 0.15143603133159267
+      "chg1d": -0.0136000899179498,
+      "chg5d": -0.007688828584350889,
+      "chg1m": -0.01514981483559639
     },
     {
       "symbol": "SOXX",
@@ -111,6 +84,21 @@
       "chg1d": -0.004630582424367232,
       "chg5d": 0.030175015087507542,
       "chg1m": 0.14495955809824426
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Will Trump’s tariffs push China and India closer?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/9/will-trumps-tariffs-push-china-and-india-closer?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.015237094443714655,
+      "chg5d": 0.040852452188400196,
+      "chg1m": 0.15143603133159267
     },
     {
       "symbol": "ASML.AS",
