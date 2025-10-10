@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-10T18:18:06.993268Z",
+  "generated_at": "2025-10-10T21:10:06.812568Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.3,
-      "confianca": 95,
+      "score": 2.58,
+      "confianca": 73,
       "razoes": [
+        {
+          "title": "UK, France, Germany say they hope to restart Iran nuclear talks",
+          "url": "https://www.aljazeera.com/news/2025/10/10/uk-france-germany-say-they-hope-to-restart-iran-nuclear-talks?traffic_source=rss"
+        },
         {
           "title": "Lebanon says it foiled Israeli network plotting bomb attacks",
           "url": "https://www.aljazeera.com/news/2025/10/10/lebanon-says-it-foiled-israeli-network-plotting-bomb-attacks?traffic_source=rss"
@@ -14,130 +18,57 @@
         {
           "title": "Snubbed by Nobel, Trump to head to Middle East to celebrate Gaza ‘peace’",
           "url": "https://www.aljazeera.com/news/2025/10/10/snubbed-by-nobel-trump-to-head-to-middle-east-to-celebrate-gaza-peace?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005337167165590002,
+      "chg5d": 0.0011100319134175153,
+      "chg1m": 0.07290803645401821
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.58,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "UK, France, Germany say they hope to restart Iran nuclear talks",
+          "url": "https://www.aljazeera.com/news/2025/10/10/uk-france-germany-say-they-hope-to-restart-iran-nuclear-talks?traffic_source=rss"
         },
         {
-          "title": "How Israel denies the right to play for Palestinian children",
-          "url": "https://www.aljazeera.com/video/the-stream/2025/10/10/how-israel-denies-the-right-to-play-for-palestinian-children?traffic_source=rss"
+          "title": "Lebanon says it foiled Israeli network plotting bomb attacks",
+          "url": "https://www.aljazeera.com/news/2025/10/10/lebanon-says-it-foiled-israeli-network-plotting-bomb-attacks?traffic_source=rss"
         },
         {
-          "title": "Norway FA president welcomes Gaza deal before vital Israel World Cup tie",
-          "url": "https://www.aljazeera.com/sports/2025/10/10/norway-fa-president-welcomes-israel-peace-deal-ahead-of-vital-world-cup-tie?traffic_source=rss"
+          "title": "Snubbed by Nobel, Trump to head to Middle East to celebrate Gaza ‘peace’",
+          "url": "https://www.aljazeera.com/news/2025/10/10/snubbed-by-nobel-trump-to-head-to-middle-east-to-celebrate-gaza-peace?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02894257064721976,
+      "chg5d": -0.04150264312225844,
+      "chg1m": -0.04386850667564229
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.58,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "UK, France, Germany say they hope to restart Iran nuclear talks",
+          "url": "https://www.aljazeera.com/news/2025/10/10/uk-france-germany-say-they-hope-to-restart-iran-nuclear-talks?traffic_source=rss"
         },
         {
-          "title": "Tens of thousands of Palestinians walk to Gaza City as Israel withdraws",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/tens-of-thousands-of-palestinians-walk-to-gaza-city-as-israel-withdraws?traffic_source=rss"
+          "title": "Lebanon says it foiled Israeli network plotting bomb attacks",
+          "url": "https://www.aljazeera.com/news/2025/10/10/lebanon-says-it-foiled-israeli-network-plotting-bomb-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Snubbed by Nobel, Trump to head to Middle East to celebrate Gaza ‘peace’",
+          "url": "https://www.aljazeera.com/news/2025/10/10/snubbed-by-nobel-trump-to-head-to-middle-east-to-celebrate-gaza-peace?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.3,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Lebanon says it foiled Israeli network plotting bomb attacks",
-          "url": "https://www.aljazeera.com/news/2025/10/10/lebanon-says-it-foiled-israeli-network-plotting-bomb-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Snubbed by Nobel, Trump to head to Middle East to celebrate Gaza ‘peace’",
-          "url": "https://www.aljazeera.com/news/2025/10/10/snubbed-by-nobel-trump-to-head-to-middle-east-to-celebrate-gaza-peace?traffic_source=rss"
-        },
-        {
-          "title": "How Israel denies the right to play for Palestinian children",
-          "url": "https://www.aljazeera.com/video/the-stream/2025/10/10/how-israel-denies-the-right-to-play-for-palestinian-children?traffic_source=rss"
-        },
-        {
-          "title": "Norway FA president welcomes Gaza deal before vital Israel World Cup tie",
-          "url": "https://www.aljazeera.com/sports/2025/10/10/norway-fa-president-welcomes-israel-peace-deal-ahead-of-vital-world-cup-tie?traffic_source=rss"
-        },
-        {
-          "title": "Tens of thousands of Palestinians walk to Gaza City as Israel withdraws",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/tens-of-thousands-of-palestinians-walk-to-gaza-city-as-israel-withdraws?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0031904836930833555,
-      "chg5d": 0.009692957243949307,
-      "chg1m": 0.08210651541223202
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.3,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Lebanon says it foiled Israeli network plotting bomb attacks",
-          "url": "https://www.aljazeera.com/news/2025/10/10/lebanon-says-it-foiled-israeli-network-plotting-bomb-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Snubbed by Nobel, Trump to head to Middle East to celebrate Gaza ‘peace’",
-          "url": "https://www.aljazeera.com/news/2025/10/10/snubbed-by-nobel-trump-to-head-to-middle-east-to-celebrate-gaza-peace?traffic_source=rss"
-        },
-        {
-          "title": "How Israel denies the right to play for Palestinian children",
-          "url": "https://www.aljazeera.com/video/the-stream/2025/10/10/how-israel-denies-the-right-to-play-for-palestinian-children?traffic_source=rss"
-        },
-        {
-          "title": "Norway FA president welcomes Gaza deal before vital Israel World Cup tie",
-          "url": "https://www.aljazeera.com/sports/2025/10/10/norway-fa-president-welcomes-israel-peace-deal-ahead-of-vital-world-cup-tie?traffic_source=rss"
-        },
-        {
-          "title": "Tens of thousands of Palestinians walk to Gaza City as Israel withdraws",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/tens-of-thousands-of-palestinians-walk-to-gaza-city-as-israel-withdraws?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.021991795806745748,
-      "chg5d": -0.034641772579012464,
-      "chg1m": -0.0370245708515651
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China tightens export controls on rare-earth metals: Why this matters",
-          "url": "https://www.aljazeera.com/news/2025/10/10/china-tightens-export-controls-on-rare-earth-metals-why-this-matters?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.05085367480325464,
-      "chg5d": -0.025873575413258503,
-      "chg1m": 0.0993395388358888
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China tightens export controls on rare-earth metals: Why this matters",
-          "url": "https://www.aljazeera.com/news/2025/10/10/china-tightens-export-controls-on-rare-earth-metals-why-this-matters?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.04331644784451564,
-      "chg5d": -0.008358336905272093,
-      "chg1m": 0.08789529370273133
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China tightens export controls on rare-earth metals: Why this matters",
-          "url": "https://www.aljazeera.com/news/2025/10/10/china-tightens-export-controls-on-rare-earth-metals-why-this-matters?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.03157443857466286,
-      "chg5d": -0.08006045222917593,
-      "chg1m": 0.18083465976920027
     }
   ]
 }
