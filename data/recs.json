@@ -1,66 +1,20 @@
 {
-  "generated_at": "2025-10-09T21:11:36.443694Z",
+  "generated_at": "2025-10-10T00:56:18.476783Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.2,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel announces timeline for implementing first phase of peace plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/israel-announces-timeline-for-implementing-first-phase-of-peace-plan?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians in Gaza worry and wait for Israel to implement ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/9/palestinians-in-gaza-worry-and-wait-for-israel-to-implement-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Map of Gaza shows how Israeli forces will withdraw under ceasefire deal",
-          "url": "https://www.aljazeera.com/news/2025/10/9/map-of-gaza-shows-how-israeli-forces-will-withdraw-under-ceasefire-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.2,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel announces timeline for implementing first phase of peace plan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/israel-announces-timeline-for-implementing-first-phase-of-peace-plan?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians in Gaza worry and wait for Israel to implement ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/9/palestinians-in-gaza-worry-and-wait-for-israel-to-implement-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Map of Gaza shows how Israeli forces will withdraw under ceasefire deal",
-          "url": "https://www.aljazeera.com/news/2025/10/9/map-of-gaza-shows-how-israeli-forces-will-withdraw-under-ceasefire-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012178514454690462,
-      "chg5d": 0.016821531560397264,
-      "chg1m": 0.09461702632202985
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.2,
-      "confianca": 91,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "What impact has the genocide in Gaza had on US-Israeli relations?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss"
+        },
         {
           "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
           "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss"
@@ -68,14 +22,6 @@
         {
           "title": "Israel announces timeline for implementing first phase of peace plan",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/israel-announces-timeline-for-implementing-first-phase-of-peace-plan?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians in Gaza worry and wait for Israel to implement ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/9/palestinians-in-gaza-worry-and-wait-for-israel-to-implement-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Map of Gaza shows how Israeli forces will withdraw under ceasefire deal",
-          "url": "https://www.aljazeera.com/news/2025/10/9/map-of-gaza-shows-how-israeli-forces-will-withdraw-under-ceasefire-deal?traffic_source=rss"
         }
       ],
       "chg1d": -0.0136000899179498,
@@ -83,14 +29,53 @@
       "chg1m": -0.01514981483559639
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
-          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
+          "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "What impact has the genocide in Gaza had on US-Israeli relations?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss"
+        },
+        {
+          "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel announces timeline for implementing first phase of peace plan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/israel-announces-timeline-for-implementing-first-phase-of-peace-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.012178514454690462,
+      "chg5d": 0.016821531560397264,
+      "chg1m": 0.09461702632202985
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "What impact has the genocide in Gaza had on US-Israeli relations?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss"
+        },
+        {
+          "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel announces timeline for implementing first phase of peace plan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/israel-announces-timeline-for-implementing-first-phase-of-peace-plan?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -98,54 +83,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
-          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0011759125997645736,
-      "chg5d": 0.008239644726198116,
-      "chg1m": 0.05169795074909584
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
-          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0064040207522698305,
-      "chg5d": 0.004589787722317744,
-      "chg1m": 0.03683965655796633
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
-          "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0030158517924261602,
-      "chg5d": 0.002779355070081608,
-      "chg1m": 0.028932399073917914
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -160,7 +100,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -175,7 +115,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
