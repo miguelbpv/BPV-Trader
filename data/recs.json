@@ -1,12 +1,39 @@
 {
-  "generated_at": "2025-10-11T12:21:14.859354Z",
+  "generated_at": "2025-10-11T15:10:32.025753Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Bari Weiss and the Israel narrative in the US",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2025/10/11/bari-weiss-and-the-israel-narrative-in-the-us?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes kill at least one, injure several people in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/11/israeli-strikes-kill-at-least-one-injure-several-people-in-south-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Intensive Israeli air strikes kill one, injure seven in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/10/11/intensive-israeli-air-strikes-kill-one-injure-seven-in-southern-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005337167165590002,
+      "chg5d": 0.0011100319134175153,
+      "chg1m": 0.07290803645401821
+    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Bari Weiss and the Israel narrative in the US",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2025/10/11/bari-weiss-and-the-israel-narrative-in-the-us?traffic_source=rss"
+        },
         {
           "title": "Israeli strikes kill at least one, injure several people in south Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/11/israeli-strikes-kill-at-least-one-injure-several-people-in-south-lebanon?traffic_source=rss"
@@ -23,9 +50,13 @@
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Bari Weiss and the Israel narrative in the US",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2025/10/11/bari-weiss-and-the-israel-narrative-in-the-us?traffic_source=rss"
+        },
         {
           "title": "Israeli strikes kill at least one, injure several people in south Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/11/israeli-strikes-kill-at-least-one-injure-several-people-in-south-lebanon?traffic_source=rss"
@@ -38,25 +69,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
-      "razoes": [
-        {
-          "title": "Israeli strikes kill at least one, injure several people in south Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/11/israeli-strikes-kill-at-least-one-injure-several-people-in-south-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Intensive Israeli air strikes kill one, injure seven in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/10/11/intensive-israeli-air-strikes-kill-one-injure-seven-in-southern-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005337167165590002,
-      "chg5d": 0.0011100319134175153,
-      "chg1m": 0.07290803645401821
     }
   ]
 }
