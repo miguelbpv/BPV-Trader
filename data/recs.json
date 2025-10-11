@@ -1,46 +1,19 @@
 {
-  "generated_at": "2025-10-11T09:11:09.172748Z",
+  "generated_at": "2025-10-11T12:21:14.859354Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.19,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "US President Trump says Israeli captives to be released from Gaza on Monday",
-          "url": "https://www.aljazeera.com/news/2025/10/11/us-president-trump-says-israeli-captives-to-be-released-from-gaza-on-monday?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel-Hamas ceasefire holds, Palestinians return to north Gaza ruins",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/11/live-trump-says-captive-swap-due-monday-as-israel-gaza-ceasefire-unfolds?traffic_source=rss"
-        },
-        {
-          "title": "Gymnastics governing body reacts to Indonesia’s worlds block on Israel team",
-          "url": "https://www.aljazeera.com/sports/2025/10/10/gymnastics-governing-body-reacts-to-indonesias-worlds-block-on-israel-team?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 2.19,
-      "confianca": 62,
+      "score": 0.5,
+      "confianca": 14,
       "razoes": [
         {
-          "title": "US President Trump says Israeli captives to be released from Gaza on Monday",
-          "url": "https://www.aljazeera.com/news/2025/10/11/us-president-trump-says-israeli-captives-to-be-released-from-gaza-on-monday?traffic_source=rss"
+          "title": "Israeli strikes kill at least one, injure several people in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/11/israeli-strikes-kill-at-least-one-injure-several-people-in-south-lebanon?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel-Hamas ceasefire holds, Palestinians return to north Gaza ruins",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/11/live-trump-says-captive-swap-due-monday-as-israel-gaza-ceasefire-unfolds?traffic_source=rss"
-        },
-        {
-          "title": "Gymnastics governing body reacts to Indonesia’s worlds block on Israel team",
-          "url": "https://www.aljazeera.com/sports/2025/10/10/gymnastics-governing-body-reacts-to-indonesias-worlds-block-on-israel-team?traffic_source=rss"
+          "title": "Intensive Israeli air strikes kill one, injure seven in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/10/11/intensive-israeli-air-strikes-kill-one-injure-seven-in-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": -0.02894257064721976,
@@ -48,22 +21,37 @@
       "chg1m": -0.04386850667564229
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.19,
-      "confianca": 62,
+      "score": 0.5,
+      "confianca": 14,
       "razoes": [
         {
-          "title": "US President Trump says Israeli captives to be released from Gaza on Monday",
-          "url": "https://www.aljazeera.com/news/2025/10/11/us-president-trump-says-israeli-captives-to-be-released-from-gaza-on-monday?traffic_source=rss"
+          "title": "Israeli strikes kill at least one, injure several people in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/11/israeli-strikes-kill-at-least-one-injure-several-people-in-south-lebanon?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel-Hamas ceasefire holds, Palestinians return to north Gaza ruins",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/11/live-trump-says-captive-swap-due-monday-as-israel-gaza-ceasefire-unfolds?traffic_source=rss"
+          "title": "Intensive Israeli air strikes kill one, injure seven in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/10/11/intensive-israeli-air-strikes-kill-one-injure-seven-in-southern-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.5,
+      "confianca": 14,
+      "razoes": [
+        {
+          "title": "Israeli strikes kill at least one, injure several people in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/11/israeli-strikes-kill-at-least-one-injure-several-people-in-south-lebanon?traffic_source=rss"
         },
         {
-          "title": "Gymnastics governing body reacts to Indonesia’s worlds block on Israel team",
-          "url": "https://www.aljazeera.com/sports/2025/10/10/gymnastics-governing-body-reacts-to-indonesias-worlds-block-on-israel-team?traffic_source=rss"
+          "title": "Intensive Israeli air strikes kill one, injure seven in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/10/11/intensive-israeli-air-strikes-kill-one-injure-seven-in-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": -0.005337167165590002,
