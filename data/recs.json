@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-10-11T03:21:29.651744Z",
+  "generated_at": "2025-10-11T06:16:23.103677Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.53,
+      "score": 3.42,
       "confianca": 95,
       "razoes": [
         {
@@ -12,7 +12,38 @@
           "url": "https://www.aljazeera.com/news/2025/10/11/us-president-trump-says-israeli-captives-to-be-released-from-gaza-on-monday?traffic_source=rss"
         },
         {
-          "title": "LIVE: Palestinians return to destroyed Gaza homes as Israel ceases fire",
+          "title": "LIVE: Palestinians return to northern Gaza as Israel-Hamas ceasefire holds",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/11/live-trump-says-captive-swap-due-monday-as-israel-gaza-ceasefire-unfolds?traffic_source=rss"
+        },
+        {
+          "title": "Gymnastics governing body reacts to Indonesia’s worlds block on Israel team",
+          "url": "https://www.aljazeera.com/sports/2025/10/10/gymnastics-governing-body-reacts-to-indonesias-worlds-block-on-israel-team?traffic_source=rss"
+        },
+        {
+          "title": "Attacks by Israeli army, illegal settlers injure 36 in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/10/10/attacks-by-israeli-army-illegal-settlers-injure-36-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "UK, France, Germany say they hope to restart Iran nuclear talks",
+          "url": "https://www.aljazeera.com/news/2025/10/10/uk-france-germany-say-they-hope-to-restart-iran-nuclear-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005337167165590002,
+      "chg5d": 0.0011100319134175153,
+      "chg1m": 0.07290803645401821
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.42,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US President Trump says Israeli captives to be released from Gaza on Monday",
+          "url": "https://www.aljazeera.com/news/2025/10/11/us-president-trump-says-israeli-captives-to-be-released-from-gaza-on-monday?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Palestinians return to northern Gaza as Israel-Hamas ceasefire holds",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/11/live-trump-says-captive-swap-due-monday-as-israel-gaza-ceasefire-unfolds?traffic_source=rss"
         },
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.53,
+      "score": 3.42,
       "confianca": 95,
       "razoes": [
         {
@@ -43,7 +74,7 @@
           "url": "https://www.aljazeera.com/news/2025/10/11/us-president-trump-says-israeli-captives-to-be-released-from-gaza-on-monday?traffic_source=rss"
         },
         {
-          "title": "LIVE: Palestinians return to destroyed Gaza homes as Israel ceases fire",
+          "title": "LIVE: Palestinians return to northern Gaza as Israel-Hamas ceasefire holds",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/11/live-trump-says-captive-swap-due-monday-as-israel-gaza-ceasefire-unfolds?traffic_source=rss"
         },
         {
@@ -62,37 +93,6 @@
       "chg1d": -0.02894257064721976,
       "chg5d": -0.04150264312225844,
       "chg1m": -0.04386850667564229
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.53,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US President Trump says Israeli captives to be released from Gaza on Monday",
-          "url": "https://www.aljazeera.com/news/2025/10/11/us-president-trump-says-israeli-captives-to-be-released-from-gaza-on-monday?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Palestinians return to destroyed Gaza homes as Israel ceases fire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/11/live-trump-says-captive-swap-due-monday-as-israel-gaza-ceasefire-unfolds?traffic_source=rss"
-        },
-        {
-          "title": "Gymnastics governing body reacts to Indonesia’s worlds block on Israel team",
-          "url": "https://www.aljazeera.com/sports/2025/10/10/gymnastics-governing-body-reacts-to-indonesias-worlds-block-on-israel-team?traffic_source=rss"
-        },
-        {
-          "title": "Attacks by Israeli army, illegal settlers injure 36 in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/10/attacks-by-israeli-army-illegal-settlers-injure-36-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "UK, France, Germany say they hope to restart Iran nuclear talks",
-          "url": "https://www.aljazeera.com/news/2025/10/10/uk-france-germany-say-they-hope-to-restart-iran-nuclear-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005337167165590002,
-      "chg5d": 0.0011100319134175153,
-      "chg1m": 0.07290803645401821
     }
   ]
 }
