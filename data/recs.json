@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-12T18:15:38.821364Z",
+  "generated_at": "2025-10-12T21:09:58.551308Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Why does Israel arrest thousands of Palestinians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/12/why-does-israel-arrest-thousands-of-palestinians?traffic_source=rss"
+        },
         {
           "title": "Israel expects to receive all living captives from Gaza on Monday",
           "url": "https://www.aljazeera.com/news/2025/10/12/israel-expects-to-receive-all-living-captives-from-gaza-on-monday?traffic_source=rss"
@@ -14,10 +18,6 @@
         {
           "title": "Police disperse pro-Palestinian protest at Israel vs Norway football match",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/12/police-disperse-pro-palestinian-protest-at-israel-vs-norway-football-match?traffic_source=rss"
-        },
-        {
-          "title": "Haaland scores three as Norway crush Israel amid pro-Palestinian protest",
-          "url": "https://www.aljazeera.com/sports/2025/10/12/haaland-scores-three-as-norway-crush-israel-amid-pro-palestinian-protest?traffic_source=rss"
         }
       ],
       "chg1d": -0.005337167165590002,
@@ -25,11 +25,15 @@
       "chg1m": 0.07290803645401821
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Why does Israel arrest thousands of Palestinians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/12/why-does-israel-arrest-thousands-of-palestinians?traffic_source=rss"
+        },
         {
           "title": "Israel expects to receive all living captives from Gaza on Monday",
           "url": "https://www.aljazeera.com/news/2025/10/12/israel-expects-to-receive-all-living-captives-from-gaza-on-monday?traffic_source=rss"
@@ -37,10 +41,29 @@
         {
           "title": "Police disperse pro-Palestinian protest at Israel vs Norway football match",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/12/police-disperse-pro-palestinian-protest-at-israel-vs-norway-football-match?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Why does Israel arrest thousands of Palestinians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/12/why-does-israel-arrest-thousands-of-palestinians?traffic_source=rss"
         },
         {
-          "title": "Haaland scores three as Norway crush Israel amid pro-Palestinian protest",
-          "url": "https://www.aljazeera.com/sports/2025/10/12/haaland-scores-three-as-norway-crush-israel-amid-pro-palestinian-protest?traffic_source=rss"
+          "title": "Israel expects to receive all living captives from Gaza on Monday",
+          "url": "https://www.aljazeera.com/news/2025/10/12/israel-expects-to-receive-all-living-captives-from-gaza-on-monday?traffic_source=rss"
+        },
+        {
+          "title": "Police disperse pro-Palestinian protest at Israel vs Norway football match",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/12/police-disperse-pro-palestinian-protest-at-israel-vs-norway-football-match?traffic_source=rss"
         }
       ],
       "chg1d": -0.02894257064721976,
@@ -48,27 +71,19 @@
       "chg1m": -0.04386850667564229
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Israel expects to receive all living captives from Gaza on Monday",
-          "url": "https://www.aljazeera.com/news/2025/10/12/israel-expects-to-receive-all-living-captives-from-gaza-on-monday?traffic_source=rss"
-        },
-        {
-          "title": "Police disperse pro-Palestinian protest at Israel vs Norway football match",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/12/police-disperse-pro-palestinian-protest-at-israel-vs-norway-football-match?traffic_source=rss"
-        },
-        {
-          "title": "Haaland scores three as Norway crush Israel amid pro-Palestinian protest",
-          "url": "https://www.aljazeera.com/sports/2025/10/12/haaland-scores-three-as-norway-crush-israel-amid-pro-palestinian-protest?traffic_source=rss"
+          "title": "China slams Trump’s 100 percent tariff threat, defends rare earth curbs",
+          "url": "https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.045230179288963133,
+      "chg5d": -0.09303249307318205,
+      "chg1m": 0.16418374452845216
     },
     {
       "symbol": "TSM",
@@ -99,21 +114,6 @@
       "chg1d": -0.0627175298942072,
       "chg5d": -0.02846835262180301,
       "chg1m": 0.0658333006779263
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China slams Trump’s 100 percent tariff threat, defends rare earth curbs",
-          "url": "https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.045230179288963133,
-      "chg5d": -0.09303249307318205,
-      "chg1m": 0.16418374452845216
     }
   ]
 }
