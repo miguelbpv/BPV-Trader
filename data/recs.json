@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-10-12T09:11:14.106535Z",
+  "generated_at": "2025-10-12T12:21:24.175031Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Police disperse pro-Palestinian protest at Israel vs Norway football match",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/12/police-disperse-pro-palestinian-protest-at-israel-vs-norway-football-match?traffic_source=rss"
-        },
-        {
-          "title": "Haaland scores three as Norway crush Israel amid pro-Palestinian protest",
-          "url": "https://www.aljazeera.com/sports/2025/10/12/haaland-scores-three-as-norway-crush-israel-amid-pro-palestinian-protest?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel-Hamas truce holds, bulldozers clear rubble in Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/12/live-israel-hamas-truce-holds-bulldozers-clear-rubble-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Activists renew calls for football ban on Israel despite Gaza ceasefire",
-          "url": "https://www.aljazeera.com/sports/2025/10/11/activists-renew-calls-for-football-ban-on-israel-despite-gaza-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005337167165590002,
-      "chg5d": 0.0011100319134175153,
-      "chg1m": 0.07290803645401821
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
         {
           "title": "Police disperse pro-Palestinian protest at Israel vs Norway football match",
@@ -45,10 +18,6 @@
         {
           "title": "LIVE: Israel-Hamas truce holds, bulldozers clear rubble in Gaza City",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/12/live-israel-hamas-truce-holds-bulldozers-clear-rubble-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Activists renew calls for football ban on Israel despite Gaza ceasefire",
-          "url": "https://www.aljazeera.com/sports/2025/10/11/activists-renew-calls-for-football-ban-on-israel-despite-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": -0.02894257064721976,
@@ -58,8 +27,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
         {
           "title": "Police disperse pro-Palestinian protest at Israel vs Norway football match",
@@ -72,15 +41,79 @@
         {
           "title": "LIVE: Israel-Hamas truce holds, bulldozers clear rubble in Gaza City",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/12/live-israel-hamas-truce-holds-bulldozers-clear-rubble-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Activists renew calls for football ban on Israel despite Gaza ceasefire",
-          "url": "https://www.aljazeera.com/sports/2025/10/11/activists-renew-calls-for-football-ban-on-israel-despite-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Police disperse pro-Palestinian protest at Israel vs Norway football match",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/12/police-disperse-pro-palestinian-protest-at-israel-vs-norway-football-match?traffic_source=rss"
+        },
+        {
+          "title": "Haaland scores three as Norway crush Israel amid pro-Palestinian protest",
+          "url": "https://www.aljazeera.com/sports/2025/10/12/haaland-scores-three-as-norway-crush-israel-amid-pro-palestinian-protest?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel-Hamas truce holds, bulldozers clear rubble in Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/12/live-israel-hamas-truce-holds-bulldozers-clear-rubble-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005337167165590002,
+      "chg5d": 0.0011100319134175153,
+      "chg1m": 0.07290803645401821
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China slams Trump’s 100 percent tariff threat, defends rare earth curbs",
+          "url": "https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.045230179288963133,
+      "chg5d": -0.09303249307318205,
+      "chg1m": 0.16418374452845216
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China slams Trump’s 100 percent tariff threat, defends rare earth curbs",
+          "url": "https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0640923035881018,
+      "chg5d": -0.03946062493582933,
+      "chg1m": 0.08400602525974275
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China slams Trump’s 100 percent tariff threat, defends rare earth curbs",
+          "url": "https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0627175298942072,
+      "chg5d": -0.02846835262180301,
+      "chg1m": 0.0658333006779263
     }
   ]
 }
