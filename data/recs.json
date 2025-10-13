@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-10-13T12:25:05.253430Z",
+  "generated_at": "2025-10-13T15:12:43.935047Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.15,
+      "score": 5.92,
       "confianca": 95,
       "razoes": [
         {
@@ -24,18 +24,18 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/13/donald-trump-receives-standing-ovation-at-israeli-parliament?traffic_source=rss"
         },
         {
-          "title": "Hamas and Israel begin prisoner exchange before Gaza summit",
+          "title": "Hamas and Israel exchange captives, detainees before Gaza summit",
           "url": "https://www.aljazeera.com/news/2025/10/13/hamas-and-israel-begin-prisoner-exchange-before-gaza-summit?traffic_source=rss"
         }
       ],
-      "chg1d": -0.02894257064721976,
-      "chg5d": -0.04150264312225844,
-      "chg1m": -0.04386850667564229
+      "chg1d": 0.008566064304154,
+      "chg5d": -0.03805260212646885,
+      "chg1m": -0.0299097065462753
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 8.15,
+      "score": 5.92,
       "confianca": 95,
       "razoes": [
         {
@@ -55,18 +55,18 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/13/donald-trump-receives-standing-ovation-at-israeli-parliament?traffic_source=rss"
         },
         {
-          "title": "Hamas and Israel begin prisoner exchange before Gaza summit",
+          "title": "Hamas and Israel exchange captives, detainees before Gaza summit",
           "url": "https://www.aljazeera.com/news/2025/10/13/hamas-and-israel-begin-prisoner-exchange-before-gaza-summit?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005337167165590002,
-      "chg5d": 0.0011100319134175153,
-      "chg1m": 0.07290803645401821
+      "chg1d": 0.0012078012078012349,
+      "chg5d": -0.016684816428126914,
+      "chg1m": 0.07288196728268023
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.15,
+      "score": 5.92,
       "confianca": 95,
       "razoes": [
         {
@@ -86,13 +86,58 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/13/donald-trump-receives-standing-ovation-at-israeli-parliament?traffic_source=rss"
         },
         {
-          "title": "Hamas and Israel begin prisoner exchange before Gaza summit",
+          "title": "Hamas and Israel exchange captives, detainees before Gaza summit",
           "url": "https://www.aljazeera.com/news/2025/10/13/hamas-and-israel-begin-prisoner-exchange-before-gaza-summit?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump’s 100% tariff threat: History of US trade measures against China",
+          "url": "https://www.aljazeera.com/news/2025/10/13/trumps-100-tariff-threat-history-of-us-trade-measures-against-china?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.07175942421435183,
+      "chg5d": -0.005291005291005179,
+      "chg1m": 0.15991208113214833
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump’s 100% tariff threat: History of US trade measures against China",
+          "url": "https://www.aljazeera.com/news/2025/10/13/trumps-100-tariff-threat-history-of-us-trade-measures-against-china?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.035906172892254666,
+      "chg5d": -0.07044474264353494,
+      "chg1m": 0.19159693808593503
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump’s 100% tariff threat: History of US trade measures against China",
+          "url": "https://www.aljazeera.com/news/2025/10/13/trumps-100-tariff-threat-history-of-us-trade-measures-against-china?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.037207250266553936,
+      "chg5d": -0.021674296018865308,
+      "chg1m": 0.10354404631513077
     }
   ]
 }
