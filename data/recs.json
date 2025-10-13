@@ -1,14 +1,37 @@
 {
-  "generated_at": "2025-10-13T03:38:28.345630Z",
+  "generated_at": "2025-10-13T06:20:34.082877Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.2,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.18,
       "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: Israel, Hamas set to free captives; Trump says Gaza ‘war is over’",
+          "title": "LIVE: Hamas hands over 7 Israeli captives to Red Cross in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/13/live-israel-hamas-set-to-free-captives-trump-says-gaza-war-is-over?traffic_source=rss"
+        },
+        {
+          "title": "Why does Israel arrest thousands of Palestinians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/12/why-does-israel-arrest-thousands-of-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Israel expects to receive all living captives from Gaza on Monday",
+          "url": "https://www.aljazeera.com/news/2025/10/12/israel-expects-to-receive-all-living-captives-from-gaza-on-monday?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02894257064721976,
+      "chg5d": -0.04150264312225844,
+      "chg1m": -0.04386850667564229
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 2.18,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "LIVE: Hamas hands over 7 Israeli captives to Red Cross in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/13/live-israel-hamas-set-to-free-captives-trump-says-gaza-war-is-over?traffic_source=rss"
         },
         {
@@ -26,12 +49,12 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.2,
+      "acao": "observar",
+      "score": 2.18,
       "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: Israel, Hamas set to free captives; Trump says Gaza ‘war is over’",
+          "title": "LIVE: Hamas hands over 7 Israeli captives to Red Cross in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/13/live-israel-hamas-set-to-free-captives-trump-says-gaza-war-is-over?traffic_source=rss"
         },
         {
@@ -46,44 +69,6 @@
       "chg1d": -0.005337167165590002,
       "chg5d": 0.0011100319134175153,
       "chg1m": 0.07290803645401821
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "LIVE: Israel, Hamas set to free captives; Trump says Gaza ‘war is over’",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/13/live-israel-hamas-set-to-free-captives-trump-says-gaza-war-is-over?traffic_source=rss"
-        },
-        {
-          "title": "Why does Israel arrest thousands of Palestinians?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/10/12/why-does-israel-arrest-thousands-of-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Israel expects to receive all living captives from Gaza on Monday",
-          "url": "https://www.aljazeera.com/news/2025/10/12/israel-expects-to-receive-all-living-captives-from-gaza-on-monday?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02894257064721976,
-      "chg5d": -0.04150264312225844,
-      "chg1m": -0.04386850667564229
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.82,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "China slams Trump’s 100 percent tariff threat, defends rare earth curbs",
-          "url": "https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0640923035881018,
-      "chg5d": -0.03946062493582933,
-      "chg1m": 0.08400602525974275
     },
     {
       "symbol": "ASML.AS",
@@ -114,6 +99,21 @@
       "chg1d": -0.0627175298942072,
       "chg5d": -0.02846835262180301,
       "chg1m": 0.0658333006779263
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.82,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "China slams Trump’s 100 percent tariff threat, defends rare earth curbs",
+          "url": "https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0640923035881018,
+      "chg5d": -0.03946062493582933,
+      "chg1m": 0.08400602525974275
     }
   ]
 }
