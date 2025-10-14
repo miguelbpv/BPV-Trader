@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-10-14T03:29:31.475128Z",
+  "generated_at": "2025-10-14T06:19:25.070918Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.58,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Reviving US-Iran diplomacy difficult despite Trump’s ‘hand of friendship’",
-          "url": "https://www.aljazeera.com/news/2025/10/13/reviving-us-iran-diplomacy-difficult-despite-trumps-hand-of-friendship?traffic_source=rss"
-        },
-        {
-          "title": "Five key takeaways from Donald Trump’s Gaza remarks in Middle East",
-          "url": "https://www.aljazeera.com/news/2025/10/13/five-key-takeaways-from-donald-trumps-gaza-remarks-in-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Joy and devastation as Israel frees and deports many Palestinian detainees",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/13/joy-and-devastation-as-israel-frees-and-deports-many-palestinian-detainees?traffic_source=rss"
-        },
-        {
-          "title": "What’s the US planning for the Middle East?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/10/13/whats-the-us-planning-for-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Two Palestinian prisoners: One went home, the other was exiled by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/13/two-palestinian-prisoners-one-went-home-the-other-was-exiled-by-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0024156024156024697,
-      "chg5d": -0.020243466085874347,
-      "chg1m": 0.06899917251914872
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.58,
+      "score": 5.82,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Released Palestinians in Gaza allege hunger, abuse in Israeli jails",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/14/live-trump-signs-gaza-ceasefire-deal-with-leaders-of-qatar-egypt-turkiye?traffic_source=rss"
+        },
         {
           "title": "Reviving US-Iran diplomacy difficult despite Trump’s ‘hand of friendship’",
           "url": "https://www.aljazeera.com/news/2025/10/13/reviving-us-iran-diplomacy-difficult-despite-trumps-hand-of-friendship?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "What’s the US planning for the Middle East?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/10/13/whats-the-us-planning-for-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Two Palestinian prisoners: One went home, the other was exiled by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/13/two-palestinian-prisoners-one-went-home-the-other-was-exiled-by-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.01361182820934049,
@@ -64,11 +33,15 @@
       "chg1m": -0.025056433408577865
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.58,
+      "score": 5.82,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Released Palestinians in Gaza allege hunger, abuse in Israeli jails",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/14/live-trump-signs-gaza-ceasefire-deal-with-leaders-of-qatar-egypt-turkiye?traffic_source=rss"
+        },
         {
           "title": "Reviving US-Iran diplomacy difficult despite Trump’s ‘hand of friendship’",
           "url": "https://www.aljazeera.com/news/2025/10/13/reviving-us-iran-diplomacy-difficult-despite-trumps-hand-of-friendship?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "What’s the US planning for the Middle East?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/10/13/whats-the-us-planning-for-the-middle-east?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0024156024156024697,
+      "chg5d": -0.020243466085874347,
+      "chg1m": 0.06899917251914872
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.82,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Released Palestinians in Gaza allege hunger, abuse in Israeli jails",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/14/live-trump-signs-gaza-ceasefire-deal-with-leaders-of-qatar-egypt-turkiye?traffic_source=rss"
         },
         {
-          "title": "Two Palestinian prisoners: One went home, the other was exiled by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/13/two-palestinian-prisoners-one-went-home-the-other-was-exiled-by-israel?traffic_source=rss"
+          "title": "Reviving US-Iran diplomacy difficult despite Trump’s ‘hand of friendship’",
+          "url": "https://www.aljazeera.com/news/2025/10/13/reviving-us-iran-diplomacy-difficult-despite-trumps-hand-of-friendship?traffic_source=rss"
+        },
+        {
+          "title": "Five key takeaways from Donald Trump’s Gaza remarks in Middle East",
+          "url": "https://www.aljazeera.com/news/2025/10/13/five-key-takeaways-from-donald-trumps-gaza-remarks-in-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Joy and devastation as Israel frees and deports many Palestinian detainees",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/13/joy-and-devastation-as-israel-frees-and-deports-many-palestinian-detainees?traffic_source=rss"
+        },
+        {
+          "title": "What’s the US planning for the Middle East?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/13/whats-the-us-planning-for-the-middle-east?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
