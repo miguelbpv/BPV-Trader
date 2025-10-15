@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-14T21:11:10.925996Z",
+  "generated_at": "2025-10-15T00:58:05.416618Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
+      "score": 4.31,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel restricts aid into Gaza; Hamas releases bodies of 4 captives",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/15/live-israel-restricts-aid-into-gaza-hamas-releases-bodies-of-4-captives?traffic_source=rss"
+        },
+        {
+          "title": "US, China roll out port fees, threatening more trade turmoil",
+          "url": "https://www.aljazeera.com/news/2025/10/14/us-china-roll-out-port-fees-threatening-more-trade-turmoil?traffic_source=rss"
+        },
+        {
+          "title": "Israel imposes new Gaza aid restrictions, keeps Rafah crossing closed",
+          "url": "https://www.aljazeera.com/news/2025/10/14/israel-imposes-new-gaza-aid-restrictions-keeps-rafah-crossing-closed?traffic_source=rss"
+        },
         {
           "title": "Israel confirms transfer of 4 more bodies from Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/israel-confirms-transfer-of-4-more-bodies-from-gaza?traffic_source=rss"
@@ -14,19 +26,42 @@
         {
           "title": "‘Show Israel the red card’: Protesters urge boycott of Israel at World Cup",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/show-israel-the-red-card-protesters-urge-boycott-of-israel-at-world-cup?traffic_source=rss"
-        },
-        {
-          "title": "Peace summit was a “Middle East wedding for Trump”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/14/peace-summit-was-a-middle-east-wedding-for?traffic_source=rss"
-        },
-        {
-          "title": "CAS rejects Israel’s appeal to join artistic gymnastics worlds in Indonesia",
-          "url": "https://www.aljazeera.com/sports/2025/10/14/cas-rejects-israels-appeal-to-join-artistic-gymnastics-worlds-in-indonesia?traffic_source=rss"
         }
       ],
       "chg1d": -0.0005788376939105946,
       "chg5d": -0.03531120795619619,
       "chg1m": -0.022310305775764427
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.31,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Israel restricts aid into Gaza; Hamas releases bodies of 4 captives",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/15/live-israel-restricts-aid-into-gaza-hamas-releases-bodies-of-4-captives?traffic_source=rss"
+        },
+        {
+          "title": "US, China roll out port fees, threatening more trade turmoil",
+          "url": "https://www.aljazeera.com/news/2025/10/14/us-china-roll-out-port-fees-threatening-more-trade-turmoil?traffic_source=rss"
+        },
+        {
+          "title": "Israel imposes new Gaza aid restrictions, keeps Rafah crossing closed",
+          "url": "https://www.aljazeera.com/news/2025/10/14/israel-imposes-new-gaza-aid-restrictions-keeps-rafah-crossing-closed?traffic_source=rss"
+        },
+        {
+          "title": "Israel confirms transfer of 4 more bodies from Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/israel-confirms-transfer-of-4-more-bodies-from-gaza?traffic_source=rss"
+        },
+        {
+          "title": "‘Show Israel the red card’: Protesters urge boycott of Israel at World Cup",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/show-israel-the-red-card-protesters-urge-boycott-of-israel-at-world-cup?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
@@ -35,52 +70,25 @@
       "confianca": 84,
       "razoes": [
         {
+          "title": "LIVE: Israel restricts aid into Gaza; Hamas releases bodies of 4 captives",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/15/live-israel-restricts-aid-into-gaza-hamas-releases-bodies-of-4-captives?traffic_source=rss"
+        },
+        {
+          "title": "Israel imposes new Gaza aid restrictions, keeps Rafah crossing closed",
+          "url": "https://www.aljazeera.com/news/2025/10/14/israel-imposes-new-gaza-aid-restrictions-keeps-rafah-crossing-closed?traffic_source=rss"
+        },
+        {
           "title": "Israel confirms transfer of 4 more bodies from Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/israel-confirms-transfer-of-4-more-bodies-from-gaza?traffic_source=rss"
         },
         {
           "title": "‘Show Israel the red card’: Protesters urge boycott of Israel at World Cup",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/show-israel-the-red-card-protesters-urge-boycott-of-israel-at-world-cup?traffic_source=rss"
-        },
-        {
-          "title": "Peace summit was a “Middle East wedding for Trump”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/14/peace-summit-was-a-middle-east-wedding-for?traffic_source=rss"
-        },
-        {
-          "title": "CAS rejects Israel’s appeal to join artistic gymnastics worlds in Indonesia",
-          "url": "https://www.aljazeera.com/sports/2025/10/14/cas-rejects-israels-appeal-to-join-artistic-gymnastics-worlds-in-indonesia?traffic_source=rss"
         }
       ],
       "chg1d": 0.002679475219816253,
       "chg5d": -0.011524840041481571,
       "chg1m": 0.06746962493396726
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Israel confirms transfer of 4 more bodies from Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/israel-confirms-transfer-of-4-more-bodies-from-gaza?traffic_source=rss"
-        },
-        {
-          "title": "‘Show Israel the red card’: Protesters urge boycott of Israel at World Cup",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/show-israel-the-red-card-protesters-urge-boycott-of-israel-at-world-cup?traffic_source=rss"
-        },
-        {
-          "title": "Peace summit was a “Middle East wedding for Trump”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/14/peace-summit-was-a-middle-east-wedding-for?traffic_source=rss"
-        },
-        {
-          "title": "CAS rejects Israel’s appeal to join artistic gymnastics worlds in Indonesia",
-          "url": "https://www.aljazeera.com/sports/2025/10/14/cas-rejects-israels-appeal-to-join-artistic-gymnastics-worlds-in-indonesia?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
