@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T06:19:15.494529Z",
+  "generated_at": "2025-10-15T09:14:11.041328Z",
   "recs": [
     {
       "symbol": "BRENT",
@@ -7,6 +7,10 @@
       "score": 3.53,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Protesters in Italy demand Israel boycott before World Cup qualifier",
+          "url": "https://www.aljazeera.com/gallery/2025/10/15/people-march-in-italy-demanding-israel-boycott-before-world-cup-qualifier?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel to restrict aid into Gaza; Hamas releases bodies of 4 captives",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/15/live-israel-restricts-aid-into-gaza-hamas-releases-bodies-of-4-captives?traffic_source=rss"
@@ -18,10 +22,6 @@
         {
           "title": "Israel imposes new Gaza aid restrictions, keeps Rafah crossing closed",
           "url": "https://www.aljazeera.com/news/2025/10/14/israel-imposes-new-gaza-aid-restrictions-keeps-rafah-crossing-closed?traffic_source=rss"
-        },
-        {
-          "title": "Israel confirms transfer of 4 more bodies from Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/israel-confirms-transfer-of-4-more-bodies-from-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,6 +35,10 @@
       "confianca": 95,
       "razoes": [
         {
+          "title": "Protesters in Italy demand Israel boycott before World Cup qualifier",
+          "url": "https://www.aljazeera.com/gallery/2025/10/15/people-march-in-italy-demanding-israel-boycott-before-world-cup-qualifier?traffic_source=rss"
+        },
+        {
           "title": "LIVE: Israel to restrict aid into Gaza; Hamas releases bodies of 4 captives",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/15/live-israel-restricts-aid-into-gaza-hamas-releases-bodies-of-4-captives?traffic_source=rss"
         },
@@ -45,10 +49,6 @@
         {
           "title": "Israel imposes new Gaza aid restrictions, keeps Rafah crossing closed",
           "url": "https://www.aljazeera.com/news/2025/10/14/israel-imposes-new-gaza-aid-restrictions-keeps-rafah-crossing-closed?traffic_source=rss"
-        },
-        {
-          "title": "Israel confirms transfer of 4 more bodies from Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/israel-confirms-transfer-of-4-more-bodies-from-gaza?traffic_source=rss"
         }
       ],
       "chg1d": -0.00011576753878202021,
@@ -62,21 +62,66 @@
       "confianca": 62,
       "razoes": [
         {
+          "title": "Protesters in Italy demand Israel boycott before World Cup qualifier",
+          "url": "https://www.aljazeera.com/gallery/2025/10/15/people-march-in-italy-demanding-israel-boycott-before-world-cup-qualifier?traffic_source=rss"
+        },
+        {
           "title": "LIVE: Israel to restrict aid into Gaza; Hamas releases bodies of 4 captives",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/15/live-israel-restricts-aid-into-gaza-hamas-releases-bodies-of-4-captives?traffic_source=rss"
         },
         {
           "title": "Israel imposes new Gaza aid restrictions, keeps Rafah crossing closed",
           "url": "https://www.aljazeera.com/news/2025/10/14/israel-imposes-new-gaza-aid-restrictions-keeps-rafah-crossing-closed?traffic_source=rss"
-        },
-        {
-          "title": "Israel confirms transfer of 4 more bodies from Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/14/israel-confirms-transfer-of-4-more-bodies-from-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.002679475219816253,
       "chg5d": -0.011524840041481571,
       "chg1m": 0.06746962493396726
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US, UK sanction huge Southeast Asian crypto scam network",
+          "url": "https://www.aljazeera.com/news/2025/10/15/us-uk-sanction-huge-southeast-asian-crypto-scam-network?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0015030568927345664,
+      "chg5d": -0.019076124912700793,
+      "chg1m": 0.133610054191168
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US, UK sanction huge Southeast Asian crypto scam network",
+          "url": "https://www.aljazeera.com/news/2025/10/15/us-uk-sanction-huge-southeast-asian-crypto-scam-network?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0205005792115703,
+      "chg5d": -0.010216026391401695,
+      "chg1m": 0.08235065942591141
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US, UK sanction huge Southeast Asian crypto scam network",
+          "url": "https://www.aljazeera.com/news/2025/10/15/us-uk-sanction-huge-southeast-asian-crypto-scam-network?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.022945623823830398,
+      "chg5d": 0.006495935788865167,
+      "chg1m": 0.13222128701507385
     }
   ]
 }
