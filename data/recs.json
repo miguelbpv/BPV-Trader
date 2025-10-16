@@ -1,62 +1,38 @@
 {
-  "generated_at": "2025-10-16T09:14:23.382423Z",
+  "generated_at": "2025-10-16T12:25:59.178204Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.26,
-      "confianca": 95,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israeli drone attack kills Gaza resident amid ceasefire",
+          "title": "LIVE: At least three Palestinians killed by Israel in Gaza amid ceasefire",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss"
-        },
-        {
-          "title": "Gaza medics find signs of torture on Palestinian bodies returned by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/15/gaza-medics-find-signs-of-torture-on-palestinian-bodies-returned-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Modi has assured him India will not buy Russian oil",
-          "url": "https://www.aljazeera.com/news/2025/10/15/trump-says-modi-has-assured-him-india-will-not-buy-russian-oil?traffic_source=rss"
-        },
-        {
-          "title": "What Jared Kushner’s Middle East diplomacy means for Gaza",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/15/aje-onl-glb_kushner_av_v3-151025?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.011421671483431612,
+      "chg5d": -0.02842301855958904,
+      "chg1m": 0.052896778546129265
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.26,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israeli drone attack kills Gaza resident amid ceasefire",
+          "title": "LIVE: At least three Palestinians killed by Israel in Gaza amid ceasefire",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss"
-        },
-        {
-          "title": "Gaza medics find signs of torture on Palestinian bodies returned by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/15/gaza-medics-find-signs-of-torture-on-palestinian-bodies-returned-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Modi has assured him India will not buy Russian oil",
-          "url": "https://www.aljazeera.com/news/2025/10/15/trump-says-modi-has-assured-him-india-will-not-buy-russian-oil?traffic_source=rss"
-        },
-        {
-          "title": "What Jared Kushner’s Middle East diplomacy means for Gaza",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/15/aje-onl-glb_kushner_av_v3-151025?traffic_source=rss"
         }
       ],
       "chg1d": -0.0005789047122844896,
@@ -64,31 +40,23 @@
       "chg1m": -0.038538650033415105
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israeli drone attack kills Gaza resident amid ceasefire",
+          "title": "LIVE: At least three Palestinians killed by Israel in Gaza amid ceasefire",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss"
-        },
-        {
-          "title": "Gaza medics find signs of torture on Palestinian bodies returned by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/15/gaza-medics-find-signs-of-torture-on-palestinian-bodies-returned-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "What Jared Kushner’s Middle East diplomacy means for Gaza",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/15/aje-onl-glb_kushner_av_v3-151025?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011421671483431612,
-      "chg5d": -0.02842301855958904,
-      "chg1m": 0.052896778546129265
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
