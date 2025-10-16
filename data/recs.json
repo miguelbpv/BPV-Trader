@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-10-16T03:32:36.877884Z",
+  "generated_at": "2025-10-16T06:19:15.403252Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.02,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Gaza ceasefire fears as Israel demands return of all captives’ bodies",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss"
-        },
-        {
-          "title": "Gaza medics find signs of torture on Palestinian bodies returned by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/15/gaza-medics-find-signs-of-torture-on-palestinian-bodies-returned-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Modi has assured him India will not buy Russian oil",
-          "url": "https://www.aljazeera.com/news/2025/10/15/trump-says-modi-has-assured-him-india-will-not-buy-russian-oil?traffic_source=rss"
-        },
-        {
-          "title": "What Jared Kushner’s Middle East diplomacy means for Gaza",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/15/aje-onl-glb_kushner_av_v3-151025?traffic_source=rss"
-        },
-        {
-          "title": "UN calls for Israel to open more Gaza crossings for surge in aid deliveries",
-          "url": "https://www.aljazeera.com/news/2025/10/15/un-calls-for-israel-to-open-more-gaza-crossings-for-surge-in-aid-deliveries?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0005789047122844896,
-      "chg5d": -0.029785320894683665,
-      "chg1m": -0.038538650033415105
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.02,
+      "score": 4.99,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.99,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Gaza ceasefire fears as Israel demands return of all captives’ bodies",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss"
+        },
+        {
+          "title": "Gaza medics find signs of torture on Palestinian bodies returned by Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/15/gaza-medics-find-signs-of-torture-on-palestinian-bodies-returned-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Modi has assured him India will not buy Russian oil",
+          "url": "https://www.aljazeera.com/news/2025/10/15/trump-says-modi-has-assured-him-india-will-not-buy-russian-oil?traffic_source=rss"
+        },
+        {
+          "title": "What Jared Kushner’s Middle East diplomacy means for Gaza",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/15/aje-onl-glb_kushner_av_v3-151025?traffic_source=rss"
+        },
+        {
+          "title": "UN calls for Israel to open more Gaza crossings for surge in aid deliveries",
+          "url": "https://www.aljazeera.com/news/2025/10/15/un-calls-for-israel-to-open-more-gaza-crossings-for-surge-in-aid-deliveries?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0005789047122844896,
+      "chg5d": -0.029785320894683665,
+      "chg1m": -0.038538650033415105
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.68,
+      "score": 3.65,
       "confianca": 95,
       "razoes": [
         {
@@ -95,25 +95,25 @@
       "chg1m": 0.052896778546129265
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "EU, Spain reject Trump’s US tariff threats over NATO spending",
           "url": "https://www.aljazeera.com/news/2025/10/15/eu-spain-reject-trumps-us-tariff-threats-over-nato-spending?traffic_source=rss"
         }
       ],
-      "chg1d": 0.027085579446286537,
-      "chg5d": 0.022271489456474426,
-      "chg1m": 0.1495753739668951
+      "chg1d": 0.03085689710783792,
+      "chg5d": -0.01337723811483856,
+      "chg1m": 0.11238301492768198
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "EU, Spain reject Trump’s US tariff threats over NATO spending",
@@ -125,19 +125,19 @@
       "chg1m": 0.16274898878119506
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "EU, Spain reject Trump’s US tariff threats over NATO spending",
           "url": "https://www.aljazeera.com/news/2025/10/15/eu-spain-reject-trumps-us-tariff-threats-over-nato-spending?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03085689710783792,
-      "chg5d": -0.01337723811483856,
-      "chg1m": 0.11238301492768198
+      "chg1d": 0.027085579446286537,
+      "chg5d": 0.022271489456474426,
+      "chg1m": 0.1495753739668951
     }
   ]
 }
