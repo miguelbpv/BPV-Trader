@@ -1,54 +1,31 @@
 {
-  "generated_at": "2025-10-16T15:13:20.773785Z",
+  "generated_at": "2025-10-16T18:18:04.802144Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.59,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Donald Trump’s speech to the Israel’s Knesset",
-          "url": "https://www.aljazeera.com/video/fact-check/2025/10/16/donald-trumps-speech-to-the-israels-knesset?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s exploding robots still terrorise Gaza neighbourhoods",
-          "url": "https://www.aljazeera.com/features/2025/10/16/israels-exploding-robots-still-terrorise-gaza-neighbourhoods?traffic_source=rss"
-        },
-        {
-          "title": "On World Food Day, Israel continues to restrict aid into Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/16/on-world-food-day-israel-continues-to-restrict-aid-into-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Can Trump force India to give up buying Russian oil?",
-          "url": "https://www.aljazeera.com/economy/2025/10/16/can-trump-force-india-to-give-up-buying-russian-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0020852641334568192,
-      "chg5d": -0.01845943482224253,
-      "chg1m": -0.04278253139237687
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.59,
+      "score": 5.8,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Donald Trump’s speech to the Israel’s Knesset",
+          "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s relentless bombing of Gaza hinders recovery of captives’ bodies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/16/israels-relentless-bombing-of-gaza-hinders-recovery-of-captives-bodies?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis say military chief killed as Israel claims responsibility",
+          "url": "https://www.aljazeera.com/news/2025/10/16/yemens-houthis-say-military-chief-killed-as-israel-claims-responsibility?traffic_source=rss"
+        },
+        {
+          "title": "Donald Trump’s speech to the Israeli Knesset",
           "url": "https://www.aljazeera.com/video/fact-check/2025/10/16/donald-trumps-speech-to-the-israels-knesset?traffic_source=rss"
         },
         {
           "title": "Israel’s exploding robots still terrorise Gaza neighbourhoods",
           "url": "https://www.aljazeera.com/features/2025/10/16/israels-exploding-robots-still-terrorise-gaza-neighbourhoods?traffic_source=rss"
-        },
-        {
-          "title": "On World Food Day, Israel continues to restrict aid into Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/16/on-world-food-day-israel-continues-to-restrict-aid-into-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Can Trump force India to give up buying Russian oil?",
-          "url": "https://www.aljazeera.com/economy/2025/10/16/can-trump-force-india-to-give-up-buying-russian-oil?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,27 +33,66 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.24,
-      "confianca": 64,
+      "score": 5.8,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Donald Trump’s speech to the Israel’s Knesset",
+          "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s relentless bombing of Gaza hinders recovery of captives’ bodies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/16/israels-relentless-bombing-of-gaza-hinders-recovery-of-captives-bodies?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis say military chief killed as Israel claims responsibility",
+          "url": "https://www.aljazeera.com/news/2025/10/16/yemens-houthis-say-military-chief-killed-as-israel-claims-responsibility?traffic_source=rss"
+        },
+        {
+          "title": "Donald Trump’s speech to the Israeli Knesset",
           "url": "https://www.aljazeera.com/video/fact-check/2025/10/16/donald-trumps-speech-to-the-israels-knesset?traffic_source=rss"
         },
         {
           "title": "Israel’s exploding robots still terrorise Gaza neighbourhoods",
           "url": "https://www.aljazeera.com/features/2025/10/16/israels-exploding-robots-still-terrorise-gaza-neighbourhoods?traffic_source=rss"
-        },
-        {
-          "title": "On World Food Day, Israel continues to restrict aid into Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/16/on-world-food-day-israel-continues-to-restrict-aid-into-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0027832842754451116,
-      "chg5d": -0.01918229084606903,
-      "chg1m": 0.05262935407507604
+      "chg1d": -0.013496292863762652,
+      "chg5d": -0.02968322698268008,
+      "chg1m": -0.053728192021335636
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.46,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s relentless bombing of Gaza hinders recovery of captives’ bodies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/16/israels-relentless-bombing-of-gaza-hinders-recovery-of-captives-bodies?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis say military chief killed as Israel claims responsibility",
+          "url": "https://www.aljazeera.com/news/2025/10/16/yemens-houthis-say-military-chief-killed-as-israel-claims-responsibility?traffic_source=rss"
+        },
+        {
+          "title": "Donald Trump’s speech to the Israeli Knesset",
+          "url": "https://www.aljazeera.com/video/fact-check/2025/10/16/donald-trumps-speech-to-the-israels-knesset?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s exploding robots still terrorise Gaza neighbourhoods",
+          "url": "https://www.aljazeera.com/features/2025/10/16/israels-exploding-robots-still-terrorise-gaza-neighbourhoods?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011360605514507162,
+      "chg5d": -0.027618559949582455,
+      "chg1m": 0.04357541427122083
     }
   ]
 }
