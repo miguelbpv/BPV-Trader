@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-16T18:18:04.802144Z",
+  "generated_at": "2025-10-16T21:11:12.114596Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.8,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel delays Rafah crossing reopening as Gaza awaits much-needed aid surge",
+          "url": "https://www.aljazeera.com/news/2025/10/16/israel-delays-rafah-crossing-reopening-as-gaza-awaits-much-needed-aid-surge?traffic_source=rss"
+        },
         {
           "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Donald Trump’s speech to the Israeli Knesset",
           "url": "https://www.aljazeera.com/video/fact-check/2025/10/16/donald-trumps-speech-to-the-israels-knesset?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s exploding robots still terrorise Gaza neighbourhoods",
-          "url": "https://www.aljazeera.com/features/2025/10/16/israels-exploding-robots-still-terrorise-gaza-neighbourhoods?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,42 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.8,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s relentless bombing of Gaza hinders recovery of captives’ bodies",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/16/israels-relentless-bombing-of-gaza-hinders-recovery-of-captives-bodies?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis say military chief killed as Israel claims responsibility",
-          "url": "https://www.aljazeera.com/news/2025/10/16/yemens-houthis-say-military-chief-killed-as-israel-claims-responsibility?traffic_source=rss"
-        },
-        {
-          "title": "Donald Trump’s speech to the Israeli Knesset",
-          "url": "https://www.aljazeera.com/video/fact-check/2025/10/16/donald-trumps-speech-to-the-israels-knesset?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s exploding robots still terrorise Gaza neighbourhoods",
-          "url": "https://www.aljazeera.com/features/2025/10/16/israels-exploding-robots-still-terrorise-gaza-neighbourhoods?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013496292863762652,
-      "chg5d": -0.02968322698268008,
-      "chg1m": -0.053728192021335636
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.46,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel delays Rafah crossing reopening as Gaza awaits much-needed aid surge",
+          "url": "https://www.aljazeera.com/news/2025/10/16/israel-delays-rafah-crossing-reopening-as-gaza-awaits-much-needed-aid-surge?traffic_source=rss"
+        },
         {
           "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "Donald Trump’s speech to the Israeli Knesset",
           "url": "https://www.aljazeera.com/video/fact-check/2025/10/16/donald-trumps-speech-to-the-israels-knesset?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s exploding robots still terrorise Gaza neighbourhoods",
-          "url": "https://www.aljazeera.com/features/2025/10/16/israels-exploding-robots-still-terrorise-gaza-neighbourhoods?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011360605514507162,
-      "chg5d": -0.027618559949582455,
-      "chg1m": 0.04357541427122083
+      "chg1d": -0.012334554774634118,
+      "chg5d": -0.028576492831258845,
+      "chg1m": 0.04254734528238078
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel delays Rafah crossing reopening as Gaza awaits much-needed aid surge",
+          "url": "https://www.aljazeera.com/news/2025/10/16/israel-delays-rafah-crossing-reopening-as-gaza-awaits-much-needed-aid-surge?traffic_source=rss"
+        },
+        {
+          "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s relentless bombing of Gaza hinders recovery of captives’ bodies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/16/israels-relentless-bombing-of-gaza-hinders-recovery-of-captives-bodies?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis say military chief killed as Israel claims responsibility",
+          "url": "https://www.aljazeera.com/news/2025/10/16/yemens-houthis-say-military-chief-killed-as-israel-claims-responsibility?traffic_source=rss"
+        },
+        {
+          "title": "Donald Trump’s speech to the Israeli Knesset",
+          "url": "https://www.aljazeera.com/video/fact-check/2025/10/16/donald-trumps-speech-to-the-israels-knesset?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.012048192771084246,
+      "chg5d": -0.028258887876025568,
+      "chg1m": -0.05233914879431041
     }
   ]
 }
