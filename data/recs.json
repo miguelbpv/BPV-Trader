@@ -1,81 +1,95 @@
 {
-  "generated_at": "2025-10-17T15:12:40.981019Z",
+  "generated_at": "2025-10-17T18:15:29.595516Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
-          "title": "“Serious pressure” on Israel needed for troop withdrawal",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/serious-pressure-on-israel-needed-for-troop-withdrawal?traffic_source=rss"
+          "title": "For Ukraine, West must target “domestic” Russia with sanctions",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/for-ukraine-west-must-target-domestic-russia-with-sanctions?traffic_source=rss"
         },
         {
-          "title": "Will Gaza ceasefire change South Africa’s ICJ genocide case against Israel?",
-          "url": "https://www.aljazeera.com/news/2025/10/17/will-gaza-ceasefire-change-south-africas-icj-genocide-case-against-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran condemns ongoing Israeli attacks in Lebanon as ‘ceasefire violation’",
-          "url": "https://www.aljazeera.com/news/2025/10/17/iran-condemns-ongoing-israeli-strikes-in-lebanon-as-ceasefire-violation?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian bodies returned by Israel show sign of execution, torture",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/17/palestinian-bodies-returned-by-israel-show-sign-of-execution-torture?traffic_source=rss"
+          "title": "Russia’s funding for Ukraine war set to ‘contract’ as new sanctions loom",
+          "url": "https://www.aljazeera.com/news/2025/10/17/russias-funding-for-ukraine-war-set-to-contract-as-new-sanctions-loom?traffic_source=rss"
         }
       ],
-      "chg1d": -0.001581348200709524,
-      "chg5d": -0.024908424908424875,
-      "chg1m": 0.03979983953380352
+      "chg1d": -0.006678662883244538,
+      "chg5d": 0.05536968270892313,
+      "chg1m": 0.07280337855514452
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "For Ukraine, West must target “domestic” Russia with sanctions",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/for-ukraine-west-must-target-domestic-russia-with-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Russia’s funding for Ukraine war set to ‘contract’ as new sanctions loom",
+          "url": "https://www.aljazeera.com/news/2025/10/17/russias-funding-for-ukraine-war-set-to-contract-as-new-sanctions-loom?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005462980217538471,
+      "chg5d": 0.09503412768775571,
+      "chg1m": 0.10493640870877359
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "For Ukraine, West must target “domestic” Russia with sanctions",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/for-ukraine-west-must-target-domestic-russia-with-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Russia’s funding for Ukraine war set to ‘contract’ as new sanctions loom",
+          "url": "https://www.aljazeera.com/news/2025/10/17/russias-funding-for-ukraine-war-set-to-contract-as-new-sanctions-loom?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00793756670224118,
+      "chg5d": 0.059858904011971616,
+      "chg1m": 0.10728111971411552
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "The six problems a Gaza ceasefire has brought Israel’s Benjamin Netanyahu",
+          "url": "https://www.aljazeera.com/news/2025/10/17/what-are-the-six-main-problems-a-ceasefire-has-brought-benjamin-netanyahu?traffic_source=rss"
+        },
         {
           "title": "“Serious pressure” on Israel needed for troop withdrawal",
           "url": "https://www.aljazeera.com/video/quotable/2025/10/17/serious-pressure-on-israel-needed-for-troop-withdrawal?traffic_source=rss"
-        },
-        {
-          "title": "Will Gaza ceasefire change South Africa’s ICJ genocide case against Israel?",
-          "url": "https://www.aljazeera.com/news/2025/10/17/will-gaza-ceasefire-change-south-africas-icj-genocide-case-against-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran condemns ongoing Israeli attacks in Lebanon as ‘ceasefire violation’",
-          "url": "https://www.aljazeera.com/news/2025/10/17/iran-condemns-ongoing-israeli-strikes-in-lebanon-as-ceasefire-violation?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian bodies returned by Israel show sign of execution, torture",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/17/palestinian-bodies-returned-by-israel-show-sign-of-execution-torture?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002755628517823633,
-      "chg5d": 0.0034616287256512756,
-      "chg1m": -0.04676178798350233
+      "chg1d": 0.006918386491557263,
+      "chg5d": 0.007627317531096054,
+      "chg1m": -0.04280459257607836
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "The six problems a Gaza ceasefire has brought Israel’s Benjamin Netanyahu",
+          "url": "https://www.aljazeera.com/news/2025/10/17/what-are-the-six-main-problems-a-ceasefire-has-brought-benjamin-netanyahu?traffic_source=rss"
+        },
         {
           "title": "“Serious pressure” on Israel needed for troop withdrawal",
           "url": "https://www.aljazeera.com/video/quotable/2025/10/17/serious-pressure-on-israel-needed-for-troop-withdrawal?traffic_source=rss"
-        },
-        {
-          "title": "Will Gaza ceasefire change South Africa’s ICJ genocide case against Israel?",
-          "url": "https://www.aljazeera.com/news/2025/10/17/will-gaza-ceasefire-change-south-africas-icj-genocide-case-against-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran condemns ongoing Israeli attacks in Lebanon as ‘ceasefire violation’",
-          "url": "https://www.aljazeera.com/news/2025/10/17/iran-condemns-ongoing-israeli-strikes-in-lebanon-as-ceasefire-violation?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian bodies returned by Israel show sign of execution, torture",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/17/palestinian-bodies-returned-by-israel-show-sign-of-execution-torture?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -83,61 +97,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "For Ukraine, West must target “domestic” Russia with sanctions",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/for-ukraine-west-must-target-domestic-russia-with-sanctions?traffic_source=rss"
+          "title": "The six problems a Gaza ceasefire has brought Israel’s Benjamin Netanyahu",
+          "url": "https://www.aljazeera.com/news/2025/10/17/what-are-the-six-main-problems-a-ceasefire-has-brought-benjamin-netanyahu?traffic_source=rss"
         },
         {
-          "title": "Russia’s funding for Ukraine war set to ‘contract’ as new sanctions loom",
-          "url": "https://www.aljazeera.com/news/2025/10/17/russias-funding-for-ukraine-war-set-to-contract-as-new-sanctions-loom?traffic_source=rss"
+          "title": "“Serious pressure” on Israel needed for troop withdrawal",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/serious-pressure-on-israel-needed-for-troop-withdrawal?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004244263607257053,
-      "chg5d": 0.0638046034347609,
-      "chg1m": 0.11140336509827291
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "For Ukraine, West must target “domestic” Russia with sanctions",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/for-ukraine-west-must-target-domestic-russia-with-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Russia’s funding for Ukraine war set to ‘contract’ as new sanctions loom",
-          "url": "https://www.aljazeera.com/news/2025/10/17/russias-funding-for-ukraine-war-set-to-contract-as-new-sanctions-loom?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004590080326405663,
-      "chg5d": 0.0940834659631057,
-      "chg1m": 0.10397715024789829
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "For Ukraine, West must target “domestic” Russia with sanctions",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/for-ukraine-west-must-target-domestic-russia-with-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Russia’s funding for Ukraine war set to ‘contract’ as new sanctions loom",
-          "url": "https://www.aljazeera.com/news/2025/10/17/russias-funding-for-ukraine-war-set-to-contract-as-new-sanctions-loom?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011350266454426014,
-      "chg5d": 0.050406264936210816,
-      "chg1m": 0.06775796987704151
+      "chg1d": 0.0018246325392802377,
+      "chg5d": -0.02158202158202165,
+      "chg1m": 0.04334698703602038
     }
   ]
 }
