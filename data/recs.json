@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T00:54:41.203459Z",
+  "generated_at": "2025-10-18T03:23:03.018479Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Hamas hands over remains of one more Israeli captive, vows to return rest",
@@ -27,8 +27,8 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Hamas hands over remains of one more Israeli captive, vows to return rest",
@@ -50,8 +50,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Hamas hands over remains of one more Israeli captive, vows to return rest",
@@ -71,9 +71,24 @@
       "chg1m": 0.045458384358768575
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
+          "url": "https://www.aljazeera.com/news/2025/10/17/us-sanctions-ex-police-officer-gang-leader-in-haiti-over-criminal-ties?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009494012299061338,
+      "chg5d": 0.09942426216900407,
+      "chg1m": 0.10936624272472519
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -88,7 +103,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -99,21 +114,6 @@
       "chg1d": -0.01587513340448236,
       "chg5d": 0.05137889261027563,
       "chg1m": 0.09842167957117332
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
-          "url": "https://www.aljazeera.com/news/2025/10/17/us-sanctions-ex-police-officer-gang-leader-in-haiti-over-criminal-ties?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009494012299061338,
-      "chg5d": 0.09942426216900407,
-      "chg1m": 0.10936624272472519
     }
   ]
 }
