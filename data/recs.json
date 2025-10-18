@@ -1,45 +1,14 @@
 {
-  "generated_at": "2025-10-18T15:10:53.755429Z",
+  "generated_at": "2025-10-18T18:15:33.860018Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.65,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UK military says ship ablaze after being struck off coast of Yemen",
-          "url": "https://www.aljazeera.com/news/2025/10/18/uk-military-says-ship-ablaze-after-being-struck-off-coast-of-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Iran says restrictions on nuclear programme ‘terminated’ as deal expires",
-          "url": "https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian detainee relays how torture in Israeli prison made him blind",
-          "url": "https://www.aljazeera.com/news/2025/10/18/palestinian-detainee-relays-how-torture-in-israeli-prison-made-him-blind?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach",
-          "url": "https://www.aljazeera.com/news/2025/10/18/israel-kills-11-palestinian-family-members-in-gazas-deadliest-truce-breach?traffic_source=rss"
-        },
-        {
-          "title": "US court bars Israeli spyware firm from targeting WhatsApp users",
-          "url": "https://www.aljazeera.com/news/2025/10/18/us-court-bars-israeli-spyware-firm-from-targeting-whatsapp-users?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008208255159474705,
-      "chg5d": 0.008918094344050753,
-      "chg1m": -0.04157841935124278
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.65,
+      "score": 5.35,
       "confianca": 95,
       "razoes": [
         {
-          "title": "UK military says ship ablaze after being struck off coast of Yemen",
+          "title": "LNG tanker on fire off coast of Yemen after explosion",
           "url": "https://www.aljazeera.com/news/2025/10/18/uk-military-says-ship-ablaze-after-being-struck-off-coast-of-yemen?traffic_source=rss"
         },
         {
@@ -64,13 +33,44 @@
       "chg1m": 0.045458384358768575
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.65,
+      "score": 5.35,
       "confianca": 95,
       "razoes": [
         {
-          "title": "UK military says ship ablaze after being struck off coast of Yemen",
+          "title": "LNG tanker on fire off coast of Yemen after explosion",
+          "url": "https://www.aljazeera.com/news/2025/10/18/uk-military-says-ship-ablaze-after-being-struck-off-coast-of-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Iran says restrictions on nuclear programme ‘terminated’ as deal expires",
+          "url": "https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian detainee relays how torture in Israeli prison made him blind",
+          "url": "https://www.aljazeera.com/news/2025/10/18/palestinian-detainee-relays-how-torture-in-israeli-prison-made-him-blind?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach",
+          "url": "https://www.aljazeera.com/news/2025/10/18/israel-kills-11-palestinian-family-members-in-gazas-deadliest-truce-breach?traffic_source=rss"
+        },
+        {
+          "title": "US court bars Israeli spyware firm from targeting WhatsApp users",
+          "url": "https://www.aljazeera.com/news/2025/10/18/us-court-bars-israeli-spyware-firm-from-targeting-whatsapp-users?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008208255159474705,
+      "chg5d": 0.008918094344050753,
+      "chg1m": -0.04157841935124278
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.35,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LNG tanker on fire off coast of Yemen after explosion",
           "url": "https://www.aljazeera.com/news/2025/10/18/uk-military-says-ship-ablaze-after-being-struck-off-coast-of-yemen?traffic_source=rss"
         },
         {
