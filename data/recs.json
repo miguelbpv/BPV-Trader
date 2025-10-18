@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-17T21:11:01.457337Z",
+  "generated_at": "2025-10-18T00:54:41.203459Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Hamas hands over remains of one more Israeli captive, vows to return rest",
+          "url": "https://www.aljazeera.com/news/2025/10/17/hamas-hands-over-remains-of-one-more-israeli-captive-vows-to-return-rest?traffic_source=rss"
+        },
         {
           "title": "Gaza aid deliveries still face Israeli roadblocks a week into ceasefire",
           "url": "https://www.aljazeera.com/news/2025/10/17/gaza-aid-deliveries-still-facing-israeli-roadblocks-a-week-into-ceasefire?traffic_source=rss"
@@ -21,30 +25,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Gaza aid deliveries still face Israeli roadblocks a week into ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/17/gaza-aid-deliveries-still-facing-israeli-roadblocks-a-week-into-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "The six problems a Gaza ceasefire has brought Israel’s Benjamin Netanyahu",
-          "url": "https://www.aljazeera.com/news/2025/10/17/what-are-the-six-main-problems-a-ceasefire-has-brought-benjamin-netanyahu?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003852002027369442,
-      "chg5d": -0.01960201960201967,
-      "chg1m": 0.045458384358768575
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Hamas hands over remains of one more Israeli captive, vows to return rest",
+          "url": "https://www.aljazeera.com/news/2025/10/17/hamas-hands-over-remains-of-one-more-israeli-captive-vows-to-return-rest?traffic_source=rss"
+        },
         {
           "title": "Gaza aid deliveries still face Israeli roadblocks a week into ceasefire",
           "url": "https://www.aljazeera.com/news/2025/10/17/gaza-aid-deliveries-still-facing-israeli-roadblocks-a-week-into-ceasefire?traffic_source=rss"
@@ -59,29 +48,52 @@
       "chg1m": -0.04157841935124278
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Hamas hands over remains of one more Israeli captive, vows to return rest",
+          "url": "https://www.aljazeera.com/news/2025/10/17/hamas-hands-over-remains-of-one-more-israeli-captive-vows-to-return-rest?traffic_source=rss"
+        },
+        {
+          "title": "Gaza aid deliveries still face Israeli roadblocks a week into ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/10/17/gaza-aid-deliveries-still-facing-israeli-roadblocks-a-week-into-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "The six problems a Gaza ceasefire has brought Israel’s Benjamin Netanyahu",
+          "url": "https://www.aljazeera.com/news/2025/10/17/what-are-the-six-main-problems-a-ceasefire-has-brought-benjamin-netanyahu?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003852002027369442,
+      "chg5d": -0.01960201960201967,
+      "chg1m": 0.045458384358768575
+    },
+    {
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "For Ukraine, West must target “domestic” Russia with sanctions",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/for-ukraine-west-must-target-domestic-russia-with-sanctions?traffic_source=rss"
+          "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
+          "url": "https://www.aljazeera.com/news/2025/10/17/us-sanctions-ex-police-officer-gang-leader-in-haiti-over-criminal-ties?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009494012299061338,
-      "chg5d": 0.09942426216900407,
-      "chg1m": 0.10936624272472519
+      "chg1d": -0.0028029621427088456,
+      "chg5d": 0.059487481157395515,
+      "chg1m": 0.07698919908808918
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "For Ukraine, West must target “domestic” Russia with sanctions",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/for-ukraine-west-must-target-domestic-russia-with-sanctions?traffic_source=rss"
+          "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
+          "url": "https://www.aljazeera.com/news/2025/10/17/us-sanctions-ex-police-officer-gang-leader-in-haiti-over-criminal-ties?traffic_source=rss"
         }
       ],
       "chg1d": -0.01587513340448236,
@@ -89,19 +101,19 @@
       "chg1m": 0.09842167957117332
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "For Ukraine, West must target “domestic” Russia with sanctions",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/for-ukraine-west-must-target-domestic-russia-with-sanctions?traffic_source=rss"
+          "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
+          "url": "https://www.aljazeera.com/news/2025/10/17/us-sanctions-ex-police-officer-gang-leader-in-haiti-over-criminal-ties?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0028029621427088456,
-      "chg5d": 0.059487481157395515,
-      "chg1m": 0.07698919908808918
+      "chg1d": 0.009494012299061338,
+      "chg5d": 0.09942426216900407,
+      "chg1m": 0.10936624272472519
     }
   ]
 }
