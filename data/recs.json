@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-10-18T09:11:37.421089Z",
+  "generated_at": "2025-10-18T12:21:43.920325Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.7,
+      "score": 5.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran says restrictions on nuclear programme ‘terminated’ as deal expires",
+          "url": "https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian detainee relays how torture in Israeli prison made him blind",
+          "url": "https://www.aljazeera.com/news/2025/10/18/palestinian-detainee-relays-how-torture-in-israeli-prison-made-him-blind?traffic_source=rss"
+        },
         {
           "title": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach",
           "url": "https://www.aljazeera.com/news/2025/10/18/israel-kills-11-palestinian-family-members-in-gazas-deadliest-truce-breach?traffic_source=rss"
@@ -16,16 +24,39 @@
           "url": "https://www.aljazeera.com/news/2025/10/18/us-court-bars-israeli-spyware-firm-from-targeting-whatsapp-users?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel kills 28 in Gaza since ceasefire, Hamas urges accountability",
+          "title": "LIVE: Israel releases Palestinian bodies to Gaza as part of ceasefire deal",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/18/live-israel-kills-28-in-gaza-since-ceasefire-hamas-urges-accountability?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008208255159474705,
+      "chg5d": 0.008918094344050753,
+      "chg1m": -0.04157841935124278
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.66,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran says restrictions on nuclear programme ‘terminated’ as deal expires",
+          "url": "https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss"
         },
         {
-          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/18/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel?traffic_source=rss"
+          "title": "Palestinian detainee relays how torture in Israeli prison made him blind",
+          "url": "https://www.aljazeera.com/news/2025/10/18/palestinian-detainee-relays-how-torture-in-israeli-prison-made-him-blind?traffic_source=rss"
         },
         {
-          "title": "Hamas hands over remains of one more Israeli captive, vows to return rest",
-          "url": "https://www.aljazeera.com/news/2025/10/17/hamas-hands-over-remains-of-one-more-israeli-captive-vows-to-return-rest?traffic_source=rss"
+          "title": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach",
+          "url": "https://www.aljazeera.com/news/2025/10/18/israel-kills-11-palestinian-family-members-in-gazas-deadliest-truce-breach?traffic_source=rss"
+        },
+        {
+          "title": "US court bars Israeli spyware firm from targeting WhatsApp users",
+          "url": "https://www.aljazeera.com/news/2025/10/18/us-court-bars-israeli-spyware-firm-from-targeting-whatsapp-users?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel releases Palestinian bodies to Gaza as part of ceasefire deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/18/live-israel-kills-28-in-gaza-since-ceasefire-hamas-urges-accountability?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.7,
+      "score": 5.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran says restrictions on nuclear programme ‘terminated’ as deal expires",
+          "url": "https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian detainee relays how torture in Israeli prison made him blind",
+          "url": "https://www.aljazeera.com/news/2025/10/18/palestinian-detainee-relays-how-torture-in-israeli-prison-made-him-blind?traffic_source=rss"
+        },
         {
           "title": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach",
           "url": "https://www.aljazeera.com/news/2025/10/18/israel-kills-11-palestinian-family-members-in-gazas-deadliest-truce-breach?traffic_source=rss"
@@ -47,16 +86,8 @@
           "url": "https://www.aljazeera.com/news/2025/10/18/us-court-bars-israeli-spyware-firm-from-targeting-whatsapp-users?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel kills 28 in Gaza since ceasefire, Hamas urges accountability",
+          "title": "LIVE: Israel releases Palestinian bodies to Gaza as part of ceasefire deal",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/18/live-israel-kills-28-in-gaza-since-ceasefire-hamas-urges-accountability?traffic_source=rss"
-        },
-        {
-          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/18/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Hamas hands over remains of one more Israeli captive, vows to return rest",
-          "url": "https://www.aljazeera.com/news/2025/10/17/hamas-hands-over-remains-of-one-more-israeli-captive-vows-to-return-rest?traffic_source=rss"
         }
       ],
       "chg1d": 0.003852002027369442,
@@ -64,41 +95,25 @@
       "chg1m": 0.045458384358768575
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.7,
-      "confianca": 95,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
-          "title": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach",
-          "url": "https://www.aljazeera.com/news/2025/10/18/israel-kills-11-palestinian-family-members-in-gazas-deadliest-truce-breach?traffic_source=rss"
-        },
-        {
-          "title": "US court bars Israeli spyware firm from targeting WhatsApp users",
-          "url": "https://www.aljazeera.com/news/2025/10/18/us-court-bars-israeli-spyware-firm-from-targeting-whatsapp-users?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 28 in Gaza since ceasefire, Hamas urges accountability",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/18/live-israel-kills-28-in-gaza-since-ceasefire-hamas-urges-accountability?traffic_source=rss"
-        },
-        {
-          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/18/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Hamas hands over remains of one more Israeli captive, vows to return rest",
-          "url": "https://www.aljazeera.com/news/2025/10/17/hamas-hands-over-remains-of-one-more-israeli-captive-vows-to-return-rest?traffic_source=rss"
+          "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
+          "url": "https://www.aljazeera.com/news/2025/10/17/us-sanctions-ex-police-officer-gang-leader-in-haiti-over-criminal-ties?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008208255159474705,
-      "chg5d": 0.008918094344050753,
-      "chg1m": -0.04157841935124278
+      "chg1d": 0.009494012299061338,
+      "chg5d": 0.09942426216900407,
+      "chg1m": 0.10936624272472519
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
@@ -112,8 +127,8 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
@@ -123,21 +138,6 @@
       "chg1d": -0.0028029621427088456,
       "chg5d": 0.059487481157395515,
       "chg1m": 0.07698919908808918
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
-          "url": "https://www.aljazeera.com/news/2025/10/17/us-sanctions-ex-police-officer-gang-leader-in-haiti-over-criminal-ties?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009494012299061338,
-      "chg5d": 0.09942426216900407,
-      "chg1m": 0.10936624272472519
     }
   ]
 }
