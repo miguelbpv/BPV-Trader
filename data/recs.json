@@ -1,54 +1,38 @@
 {
-  "generated_at": "2025-10-19T12:22:05.399990Z",
+  "generated_at": "2025-10-19T15:10:48.089956Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
+        },
         {
           "title": "Israel sending gangs, militias to “wreak havoc” in Gaza",
           "url": "https://www.aljazeera.com/video/quotable/2025/10/19/aje-onl-qt_mouin_rabbani-191025?traffic_source=rss"
-        },
-        {
-          "title": "Hamas rejects US claim on Gaza ceasefire violation as ‘Israeli propaganda’",
-          "url": "https://www.aljazeera.com/news/2025/10/19/us-claims-gaza-ceasefire-in-jeopardy-as-hamas-plans-attack?traffic_source=rss"
-        },
-        {
-          "title": "Live: Israel continues deadly attacks on Gaza, closes Rafah crossing",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-continues-deadly-attacks-on-gaza-closes-rafah-crossing?traffic_source=rss"
-        },
-        {
-          "title": "Hamas returns bodies of two more captives, says Israel violating ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/19/hamas-returns-bodies-of-two-more-captives-says-israel-violating-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003852002027369442,
-      "chg5d": -0.01960201960201967,
-      "chg1m": 0.045458384358768575
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
+        },
         {
           "title": "Israel sending gangs, militias to “wreak havoc” in Gaza",
           "url": "https://www.aljazeera.com/video/quotable/2025/10/19/aje-onl-qt_mouin_rabbani-191025?traffic_source=rss"
-        },
-        {
-          "title": "Hamas rejects US claim on Gaza ceasefire violation as ‘Israeli propaganda’",
-          "url": "https://www.aljazeera.com/news/2025/10/19/us-claims-gaza-ceasefire-in-jeopardy-as-hamas-plans-attack?traffic_source=rss"
-        },
-        {
-          "title": "Live: Israel continues deadly attacks on Gaza, closes Rafah crossing",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-continues-deadly-attacks-on-gaza-closes-rafah-crossing?traffic_source=rss"
-        },
-        {
-          "title": "Hamas returns bodies of two more captives, says Israel violating ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/19/hamas-returns-bodies-of-two-more-captives-says-israel-violating-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.008208255159474705,
@@ -56,31 +40,23 @@
       "chg1m": -0.04157841935124278
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
+        },
         {
           "title": "Israel sending gangs, militias to “wreak havoc” in Gaza",
           "url": "https://www.aljazeera.com/video/quotable/2025/10/19/aje-onl-qt_mouin_rabbani-191025?traffic_source=rss"
-        },
-        {
-          "title": "Hamas rejects US claim on Gaza ceasefire violation as ‘Israeli propaganda’",
-          "url": "https://www.aljazeera.com/news/2025/10/19/us-claims-gaza-ceasefire-in-jeopardy-as-hamas-plans-attack?traffic_source=rss"
-        },
-        {
-          "title": "Live: Israel continues deadly attacks on Gaza, closes Rafah crossing",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-continues-deadly-attacks-on-gaza-closes-rafah-crossing?traffic_source=rss"
-        },
-        {
-          "title": "Hamas returns bodies of two more captives, says Israel violating ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/19/hamas-returns-bodies-of-two-more-captives-says-israel-violating-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.003852002027369442,
+      "chg5d": -0.01960201960201967,
+      "chg1m": 0.045458384358768575
     }
   ]
 }
