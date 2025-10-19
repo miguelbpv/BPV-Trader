@@ -1,31 +1,20 @@
 {
-  "generated_at": "2025-10-19T15:10:48.089956Z",
+  "generated_at": "2025-10-19T18:15:56.060878Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
       "razoes": [
         {
-          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
+          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
+          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
         },
         {
-          "title": "Israel sending gangs, militias to “wreak havoc” in Gaza",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/19/aje-onl-qt_mouin_rabbani-191025?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
+          "title": "Israel strikes Gaza, halts aid as both sides claim the other breached truce",
+          "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
+        },
         {
           "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
@@ -41,10 +30,18 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
+          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
+        },
+        {
+          "title": "Israel strikes Gaza, halts aid as both sides claim the other breached truce",
+          "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
+        },
         {
           "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
@@ -57,6 +54,33 @@
       "chg1d": 0.003852002027369442,
       "chg5d": -0.01960201960201967,
       "chg1m": 0.045458384358768575
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
+          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
+        },
+        {
+          "title": "Israel strikes Gaza, halts aid as both sides claim the other breached truce",
+          "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
+        },
+        {
+          "title": "Israel sending gangs, militias to “wreak havoc” in Gaza",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/19/aje-onl-qt_mouin_rabbani-191025?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
