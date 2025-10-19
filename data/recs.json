@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-10-19T06:17:57.475240Z",
+  "generated_at": "2025-10-19T09:11:17.439944Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.32,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Live: Israel continues deadly attacks on Gaza, closes Rafah crossing",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-continues-deadly-attacks-on-gaza-closes-rafah-crossing?traffic_source=rss"
-        },
-        {
-          "title": "Hamas returns bodies of two more captives, says Israel violating ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/19/hamas-returns-bodies-of-two-more-captives-says-israel-violating-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Does dispute over return of Israeli captives’ remains threaten Gaza truce?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/10/18/does-dispute-over-return-of-israeli-captives-remains-threaten-gaza-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel, Hamas exchange remains of the deceased under new ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/18/israel-hamas-exchange-remains-of-the-deceased-under-new-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "LNG tanker on fire off Yemen coast after explosion",
-          "url": "https://www.aljazeera.com/news/2025/10/18/uk-military-says-ship-ablaze-after-being-struck-off-coast-of-yemen?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003852002027369442,
-      "chg5d": -0.01960201960201967,
-      "chg1m": 0.045458384358768575
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.32,
+      "score": 3.67,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hamas rejects US claim on Gaza ceasefire violation as ‘Israeli propaganda’",
+          "url": "https://www.aljazeera.com/news/2025/10/19/us-claims-gaza-ceasefire-in-jeopardy-as-hamas-plans-attack?traffic_source=rss"
+        },
         {
           "title": "Live: Israel continues deadly attacks on Gaza, closes Rafah crossing",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-continues-deadly-attacks-on-gaza-closes-rafah-crossing?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israel, Hamas exchange remains of the deceased under new ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/18/israel-hamas-exchange-remains-of-the-deceased-under-new-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "LNG tanker on fire off Yemen coast after explosion",
-          "url": "https://www.aljazeera.com/news/2025/10/18/uk-military-says-ship-ablaze-after-being-struck-off-coast-of-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.32,
+      "score": 3.67,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hamas rejects US claim on Gaza ceasefire violation as ‘Israeli propaganda’",
+          "url": "https://www.aljazeera.com/news/2025/10/19/us-claims-gaza-ceasefire-in-jeopardy-as-hamas-plans-attack?traffic_source=rss"
+        },
         {
           "title": "Live: Israel continues deadly attacks on Gaza, closes Rafah crossing",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-continues-deadly-attacks-on-gaza-closes-rafah-crossing?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "Israel, Hamas exchange remains of the deceased under new ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/18/israel-hamas-exchange-remains-of-the-deceased-under-new-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "LNG tanker on fire off Yemen coast after explosion",
-          "url": "https://www.aljazeera.com/news/2025/10/18/uk-military-says-ship-ablaze-after-being-struck-off-coast-of-yemen?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008208255159474705,
-      "chg5d": 0.008918094344050753,
-      "chg1m": -0.04157841935124278
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.67,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Hamas rejects US claim on Gaza ceasefire violation as ‘Israeli propaganda’",
+          "url": "https://www.aljazeera.com/news/2025/10/19/us-claims-gaza-ceasefire-in-jeopardy-as-hamas-plans-attack?traffic_source=rss"
+        },
+        {
+          "title": "Live: Israel continues deadly attacks on Gaza, closes Rafah crossing",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-continues-deadly-attacks-on-gaza-closes-rafah-crossing?traffic_source=rss"
+        },
+        {
+          "title": "Hamas returns bodies of two more captives, says Israel violating ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/10/19/hamas-returns-bodies-of-two-more-captives-says-israel-violating-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Does dispute over return of Israeli captives’ remains threaten Gaza truce?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/18/does-dispute-over-return-of-israeli-captives-remains-threaten-gaza-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israel, Hamas exchange remains of the deceased under new ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/18/israel-hamas-exchange-remains-of-the-deceased-under-new-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
