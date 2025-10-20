@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T09:15:18.413729Z",
+  "generated_at": "2025-10-20T12:25:56.137346Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.91,
-      "confianca": 54,
+      "score": 1.43,
+      "confianca": 40,
       "razoes": [
         {
           "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
@@ -14,10 +14,25 @@
         {
           "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
           "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008208255159474705,
+      "chg5d": 0.008918094344050753,
+      "chg1m": -0.04157841935124278
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.43,
+      "confianca": 40,
+      "razoes": [
+        {
+          "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss"
         },
         {
-          "title": "Israeli strikes kill dozens as both sides say the other breached Gaza truce",
-          "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
+          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
+          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,8 +42,8 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.91,
-      "confianca": 54,
+      "score": 1.43,
+      "confianca": 40,
       "razoes": [
         {
           "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
@@ -37,38 +52,11 @@
         {
           "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
           "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes kill dozens as both sides say the other breached Gaza truce",
-          "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
         }
       ],
       "chg1d": 0.003852002027369442,
       "chg5d": -0.01960201960201967,
       "chg1m": 0.045458384358768575
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.91,
-      "confianca": 54,
-      "razoes": [
-        {
-          "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
-          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes kill dozens as both sides say the other breached Gaza truce",
-          "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008208255159474705,
-      "chg5d": 0.008918094344050753,
-      "chg1m": -0.04157841935124278
     }
   ]
 }
