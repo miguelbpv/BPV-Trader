@@ -1,62 +1,74 @@
 {
-  "generated_at": "2025-10-20T12:25:56.137346Z",
+  "generated_at": "2025-10-20T15:13:01.683273Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.99,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel says it will attack anyone crossing the “yellow line” in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/israel-says-it-will-attack-anyone-crossing-the-yellow-line-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Gaza ceasefire stands as Israel unleashes “massive” strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/trump-says-gaza-ceasefire-stands-as-israel-unleashes-massive-strikes?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013349490053519163,
+      "chg5d": -0.004108528670384839,
+      "chg1m": 0.060937962532245094
+    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.43,
-      "confianca": 40,
+      "score": 1.99,
+      "confianca": 56,
       "razoes": [
         {
-          "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss"
+          "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
-          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
+          "title": "Israel says it will attack anyone crossing the “yellow line” in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/israel-says-it-will-attack-anyone-crossing-the-yellow-line-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Gaza ceasefire stands as Israel unleashes “massive” strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/trump-says-gaza-ceasefire-stands-as-israel-unleashes-massive-strikes?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008208255159474705,
-      "chg5d": 0.008918094344050753,
-      "chg1m": -0.04157841935124278
+      "chg1d": 0.00686206094440555,
+      "chg5d": 0.0021995832368603583,
+      "chg1m": -0.022028920018075045
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.43,
-      "confianca": 40,
+      "score": 1.99,
+      "confianca": 56,
       "razoes": [
         {
-          "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss"
+          "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
-          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
+          "title": "Israel says it will attack anyone crossing the “yellow line” in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/israel-says-it-will-attack-anyone-crossing-the-yellow-line-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Gaza ceasefire stands as Israel unleashes “massive” strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/trump-says-gaza-ceasefire-stands-as-israel-unleashes-massive-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.43,
-      "confianca": 40,
-      "razoes": [
-        {
-          "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
-          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003852002027369442,
-      "chg5d": -0.01960201960201967,
-      "chg1m": 0.045458384358768575
     }
   ]
 }
