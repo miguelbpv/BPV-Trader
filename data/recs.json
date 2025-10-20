@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T06:19:41.304140Z",
+  "generated_at": "2025-10-20T09:15:18.413729Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.64,
-      "confianca": 75,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.91,
+      "confianca": 54,
       "razoes": [
         {
           "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
@@ -16,23 +16,19 @@
           "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
         },
         {
-          "title": "Israeli strikes kill 42 in Gaza as both sides say the other breached truce",
+          "title": "Israeli strikes kill dozens as both sides say the other breached Gaza truce",
           "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008208255159474705,
-      "chg5d": 0.008918094344050753,
-      "chg1m": -0.04157841935124278
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.64,
-      "confianca": 75,
+      "acao": "observar",
+      "score": 1.91,
+      "confianca": 54,
       "razoes": [
         {
           "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
@@ -43,12 +39,8 @@
           "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
         },
         {
-          "title": "Israeli strikes kill 42 in Gaza as both sides say the other breached truce",
+          "title": "Israeli strikes kill dozens as both sides say the other breached Gaza truce",
           "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
         }
       ],
       "chg1d": 0.003852002027369442,
@@ -56,10 +48,10 @@
       "chg1m": 0.045458384358768575
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.64,
-      "confianca": 75,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.91,
+      "confianca": 54,
       "razoes": [
         {
           "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
@@ -70,17 +62,13 @@
           "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
         },
         {
-          "title": "Israeli strikes kill 42 in Gaza as both sides say the other breached truce",
+          "title": "Israeli strikes kill dozens as both sides say the other breached Gaza truce",
           "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.008208255159474705,
+      "chg5d": 0.008918094344050753,
+      "chg1m": -0.04157841935124278
     }
   ]
 }
