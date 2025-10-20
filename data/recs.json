@@ -1,11 +1,38 @@
 {
-  "generated_at": "2025-10-20T03:43:46.432433Z",
+  "generated_at": "2025-10-20T06:19:41.304140Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.64,
+      "confianca": 75,
+      "razoes": [
+        {
+          "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
+          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes kill 42 in Gaza as both sides say the other breached truce",
+          "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008208255159474705,
+      "chg5d": 0.008918094344050753,
+      "chg1m": -0.04157841935124278
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.67,
-      "confianca": 76,
+      "score": 2.64,
+      "confianca": 75,
       "razoes": [
         {
           "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
@@ -31,8 +58,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.67,
-      "confianca": 76,
+      "score": 2.64,
+      "confianca": 75,
       "razoes": [
         {
           "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
@@ -54,33 +81,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.67,
-      "confianca": 76,
-      "razoes": [
-        {
-          "title": "Live: Israel kills 97 Palestinians in Gaza since start of ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/19/live-israel-kills-97-palestinians-in-gaza-since-start-of-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis detain 20 UN staff in latest raid",
-          "url": "https://www.aljazeera.com/news/2025/10/19/yemens-houthis-detain-20-un-staff-in-latest-raid?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes kill 42 in Gaza as both sides say the other breached truce",
-          "url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 11 family members in deadliest Gaza ceasefire violation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/19/israel-kills-11-family-members-in-deadliest-gaza-ceasefire-violation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008208255159474705,
-      "chg5d": 0.008918094344050753,
-      "chg1m": -0.04157841935124278
     }
   ]
 }
