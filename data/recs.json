@@ -1,50 +1,50 @@
 {
-  "generated_at": "2025-10-21T12:26:11.537306Z",
+  "generated_at": "2025-10-21T15:13:44.402190Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.74,
+      "score": 0.75,
       "confianca": 21,
       "razoes": [
         {
-          "title": "Palestinian woman attacked by Israeli settler while harvesting olives",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/palestinian-woman-attacked-by-israeli-settler-while-harvesting-olives?traffic_source=rss"
+          "title": "Israeli basketball clubs to resume hosting EuroLeague games on December 1",
+          "url": "https://www.aljazeera.com/sports/2025/10/21/israeli-basketball-clubs-to-resume-hosting-euroleague-games-on-december-1?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.022494564143111278,
+      "chg5d": -0.02110138960370566,
+      "chg1m": 0.029413601448822824
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israeli basketball clubs to resume hosting EuroLeague games on December 1",
+          "url": "https://www.aljazeera.com/sports/2025/10/21/israeli-basketball-clubs-to-resume-hosting-euroleague-games-on-december-1?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0005754402117619653,
+      "chg5d": 0.005441704295472952,
+      "chg1m": -0.009467320634196398
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israeli basketball clubs to resume hosting EuroLeague games on December 1",
+          "url": "https://www.aljazeera.com/sports/2025/10/21/israeli-basketball-clubs-to-resume-hosting-euroleague-games-on-december-1?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Palestinian woman attacked by Israeli settler while harvesting olives",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/palestinian-woman-attacked-by-israeli-settler-while-harvesting-olives?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010583856710862951,
-      "chg5d": 0.00590414447788846,
-      "chg1m": -0.01841391775869855
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Palestinian woman attacked by Israeli settler while harvesting olives",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/palestinian-woman-attacked-by-israeli-settler-while-harvesting-olives?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02171059274967182,
-      "chg5d": 0.004108528670384839,
-      "chg1m": 0.06969171565103391
     }
   ]
 }
