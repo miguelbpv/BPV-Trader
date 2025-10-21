@@ -1,39 +1,16 @@
 {
-  "generated_at": "2025-10-21T18:17:10.432541Z",
+  "generated_at": "2025-10-21T21:11:45.242636Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Vance in Israel says ‘great optimism’ ceasefire will hold",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/vance-in-israel-says-great-optimism-ceasefire-will-hold?traffic_source=rss"
-        },
-        {
-          "title": "Stories of children killed by Israel in the occupied West Bank this year",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/stories-of-children-killed-by-israel-in-the-occupied-west-bank-this-year?traffic_source=rss"
-        },
-        {
-          "title": "Trump claims Middle East countries offered to fight Hamas in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/21/trump-claims-middle-east-countries-offered-to-fight-hamas-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli basketball clubs to resume hosting EuroLeague games on December 1",
-          "url": "https://www.aljazeera.com/sports/2025/10/21/israeli-basketball-clubs-to-resume-hosting-euroleague-games-on-december-1?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02531132634908075,
-      "chg5d": -0.02392216635654614,
-      "chg1m": 0.026447261599950127
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 3.45,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s Netanyahu fires national security chief Tzachi Hanegbi",
+          "url": "https://www.aljazeera.com/news/2025/10/21/israels-netanyahu-fires-national-security-chief-tzachi-hanegbi?traffic_source=rss"
+        },
         {
           "title": "Vance in Israel says ‘great optimism’ ceasefire will hold",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/vance-in-israel-says-great-optimism-ceasefire-will-hold?traffic_source=rss"
@@ -51,16 +28,20 @@
           "url": "https://www.aljazeera.com/sports/2025/10/21/israeli-basketball-clubs-to-resume-hosting-euroleague-games-on-december-1?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0007480722752905712,
-      "chg5d": 0.0052680328817876374,
-      "chg1m": -0.009638416790236099
+      "chg1d": -0.0025319369317527776,
+      "chg5d": 0.003473428273706115,
+      "chg1m": -0.011406410402646287
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 3.45,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s Netanyahu fires national security chief Tzachi Hanegbi",
+          "url": "https://www.aljazeera.com/news/2025/10/21/israels-netanyahu-fires-national-security-chief-tzachi-hanegbi?traffic_source=rss"
+        },
         {
           "title": "Vance in Israel says ‘great optimism’ ceasefire will hold",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/vance-in-israel-says-great-optimism-ceasefire-will-hold?traffic_source=rss"
@@ -81,6 +62,37 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel’s Netanyahu fires national security chief Tzachi Hanegbi",
+          "url": "https://www.aljazeera.com/news/2025/10/21/israels-netanyahu-fires-national-security-chief-tzachi-hanegbi?traffic_source=rss"
+        },
+        {
+          "title": "Vance in Israel says ‘great optimism’ ceasefire will hold",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/vance-in-israel-says-great-optimism-ceasefire-will-hold?traffic_source=rss"
+        },
+        {
+          "title": "Stories of children killed by Israel in the occupied West Bank this year",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/stories-of-children-killed-by-israel-in-the-occupied-west-bank-this-year?traffic_source=rss"
+        },
+        {
+          "title": "Trump claims Middle East countries offered to fight Hamas in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/21/trump-claims-middle-east-countries-offered-to-fight-hamas-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli basketball clubs to resume hosting EuroLeague games on December 1",
+          "url": "https://www.aljazeera.com/sports/2025/10/21/israeli-basketball-clubs-to-resume-hosting-euroleague-games-on-december-1?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.03241747380905313,
+      "chg5d": -0.03103844174353697,
+      "chg1m": 0.0189637586127938
     }
   ]
 }
