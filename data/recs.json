@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-10-21T03:34:34.042095Z",
+  "generated_at": "2025-10-21T06:19:19.493897Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
+      "score": 3.95,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestinian woman attacked by Israeli settler while harvesting olives",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/palestinian-woman-attacked-by-israeli-settler-while-harvesting-olives?traffic_source=rss"
+        },
+        {
+          "title": "Live: More Palestinians killed in Gaza; US officials visit Israel for talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/21/live-more-palestinians-killed-in-gaza-us-officials-visit-israel-for-talks?traffic_source=rss"
+        },
         {
           "title": "Israel’s Maccabi Tel Aviv to decline tickets to Europa League match in UK",
           "url": "https://www.aljazeera.com/news/2025/10/21/israels-maccabi-tel-aviv-to-decline-tickets-to-europa-league-match-in-uk?traffic_source=rss"
@@ -18,10 +26,6 @@
         {
           "title": "Why is Israel still restricting aid to Gaza?",
           "url": "https://www.aljazeera.com/video/the-take-2/2025/10/20/aje-onl-aje-onl-tt_aj_tt_pal_gaza_humanitarian_full_201025-201025?traffic_source=rss"
-        },
-        {
-          "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.010583856710862951,
@@ -29,38 +33,19 @@
       "chg1m": -0.01841391775869855
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Israel’s Maccabi Tel Aviv to decline tickets to Europa League match in UK",
-          "url": "https://www.aljazeera.com/news/2025/10/21/israels-maccabi-tel-aviv-to-decline-tickets-to-europa-league-match-in-uk?traffic_source=rss"
-        },
-        {
-          "title": "Israel continues deadly Gaza truce breaches as US seeks to strengthen deal",
-          "url": "https://www.aljazeera.com/news/2025/10/20/israel-continues-deadly-breaches-of-gaza-truce-as-us-seeks-to-salvage-deal?traffic_source=rss"
-        },
-        {
-          "title": "Why is Israel still restricting aid to Gaza?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/20/aje-onl-aje-onl-tt_aj_tt_pal_gaza_humanitarian_full_201025-201025?traffic_source=rss"
-        },
-        {
-          "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02171059274967182,
-      "chg5d": 0.004108528670384839,
-      "chg1m": 0.06969171565103391
-    },
-    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
+      "score": 3.95,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestinian woman attacked by Israeli settler while harvesting olives",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/palestinian-woman-attacked-by-israeli-settler-while-harvesting-olives?traffic_source=rss"
+        },
+        {
+          "title": "Live: More Palestinians killed in Gaza; US officials visit Israel for talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/21/live-more-palestinians-killed-in-gaza-us-officials-visit-israel-for-talks?traffic_source=rss"
+        },
         {
           "title": "Israel’s Maccabi Tel Aviv to decline tickets to Europa League match in UK",
           "url": "https://www.aljazeera.com/news/2025/10/21/israels-maccabi-tel-aviv-to-decline-tickets-to-europa-league-match-in-uk?traffic_source=rss"
@@ -72,15 +57,42 @@
         {
           "title": "Why is Israel still restricting aid to Gaza?",
           "url": "https://www.aljazeera.com/video/the-take-2/2025/10/20/aje-onl-aje-onl-tt_aj_tt_pal_gaza_humanitarian_full_201025-201025?traffic_source=rss"
-        },
-        {
-          "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.95,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Palestinian woman attacked by Israeli settler while harvesting olives",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/palestinian-woman-attacked-by-israeli-settler-while-harvesting-olives?traffic_source=rss"
+        },
+        {
+          "title": "Live: More Palestinians killed in Gaza; US officials visit Israel for talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/21/live-more-palestinians-killed-in-gaza-us-officials-visit-israel-for-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Maccabi Tel Aviv to decline tickets to Europa League match in UK",
+          "url": "https://www.aljazeera.com/news/2025/10/21/israels-maccabi-tel-aviv-to-decline-tickets-to-europa-league-match-in-uk?traffic_source=rss"
+        },
+        {
+          "title": "Israel continues deadly Gaza truce breaches as US seeks to strengthen deal",
+          "url": "https://www.aljazeera.com/news/2025/10/20/israel-continues-deadly-breaches-of-gaza-truce-as-us-seeks-to-salvage-deal?traffic_source=rss"
+        },
+        {
+          "title": "Why is Israel still restricting aid to Gaza?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/20/aje-onl-aje-onl-tt_aj_tt_pal_gaza_humanitarian_full_201025-201025?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02171059274967182,
+      "chg5d": 0.004108528670384839,
+      "chg1m": 0.06969171565103391
     }
   ]
 }
