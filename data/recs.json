@@ -1,46 +1,19 @@
 {
-  "generated_at": "2025-10-20T21:11:36.978453Z",
+  "generated_at": "2025-10-21T00:58:34.890307Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel says it will attack anyone crossing the “yellow line” in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/israel-says-it-will-attack-anyone-crossing-the-yellow-line-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Gaza ceasefire stands as Israel unleashes “massive” strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/trump-says-gaza-ceasefire-stands-as-israel-unleashes-massive-strikes?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Israel continues deadly Gaza truce breaches as US seeks to strengthen deal",
+          "url": "https://www.aljazeera.com/news/2025/10/20/israel-continues-deadly-breaches-of-gaza-truce-as-us-seeks-to-salvage-deal?traffic_source=rss"
+        },
         {
           "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel says it will attack anyone crossing the “yellow line” in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/israel-says-it-will-attack-anyone-crossing-the-yellow-line-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Gaza ceasefire stands as Israel unleashes “massive” strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/trump-says-gaza-ceasefire-stands-as-israel-unleashes-massive-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.010583856710862951,
@@ -50,25 +23,40 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Israel continues deadly Gaza truce breaches as US seeks to strengthen deal",
+          "url": "https://www.aljazeera.com/news/2025/10/20/israel-continues-deadly-breaches-of-gaza-truce-as-us-seeks-to-salvage-deal?traffic_source=rss"
+        },
         {
           "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel says it will attack anyone crossing the “yellow line” in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/israel-says-it-will-attack-anyone-crossing-the-yellow-line-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Gaza ceasefire stands as Israel unleashes “massive” strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/trump-says-gaza-ceasefire-stands-as-israel-unleashes-massive-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.02171059274967182,
       "chg5d": 0.004108528670384839,
       "chg1m": 0.06969171565103391
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "Israel continues deadly Gaza truce breaches as US seeks to strengthen deal",
+          "url": "https://www.aljazeera.com/news/2025/10/20/israel-continues-deadly-breaches-of-gaza-truce-as-us-seeks-to-salvage-deal?traffic_source=rss"
+        },
+        {
+          "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/20/conquer-crush-win-israels-ben-gvir-calls-for-return-to-war-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
