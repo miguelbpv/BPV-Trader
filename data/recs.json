@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-10-22T03:40:00.694066Z",
+  "generated_at": "2025-10-22T06:19:42.539340Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.41,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel, Hamas return more bodies of captives under Gaza ceasefire deal",
-          "url": "https://www.aljazeera.com/news/2025/10/22/israel-hamas-return-more-bodies-of-captives-under-gaza-ceasefire-deal?traffic_source=rss"
-        },
-        {
-          "title": "Cold cells, meagre meals: Palestinian American boy suffers in Israeli jail",
-          "url": "https://www.aljazeera.com/news/2025/10/21/cold-cells-meagre-meals-palestinian-american-boy-suffers-in-israeli-jail?traffic_source=rss"
-        },
-        {
-          "title": "Inside Israel’s war of imprisonment against Palestinians",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/21/aje-onl-pal_detaineeszoomin_av_v3-211025?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu fires national security chief Tzachi Hanegbi",
-          "url": "https://www.aljazeera.com/news/2025/10/21/israels-netanyahu-fires-national-security-chief-tzachi-hanegbi?traffic_source=rss"
-        },
-        {
-          "title": "Vance in Israel says ‘great optimism’ ceasefire will hold",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/vance-in-israel-says-great-optimism-ceasefire-will-hold?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0023017608470480245,
-      "chg5d": 0.003704990158619812,
-      "chg1m": -0.011178282194593407
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.41,
+      "score": 3.91,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.91,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel, Hamas return more bodies of captives under Gaza ceasefire deal",
+          "url": "https://www.aljazeera.com/news/2025/10/22/israel-hamas-return-more-bodies-of-captives-under-gaza-ceasefire-deal?traffic_source=rss"
+        },
+        {
+          "title": "Cold cells, meagre meals: Palestinian American boy suffers in Israeli jail",
+          "url": "https://www.aljazeera.com/news/2025/10/21/cold-cells-meagre-meals-palestinian-american-boy-suffers-in-israeli-jail?traffic_source=rss"
+        },
+        {
+          "title": "Inside Israel’s war of imprisonment against Palestinians",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/21/aje-onl-pal_detaineeszoomin_av_v3-211025?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu fires national security chief Tzachi Hanegbi",
+          "url": "https://www.aljazeera.com/news/2025/10/21/israels-netanyahu-fires-national-security-chief-tzachi-hanegbi?traffic_source=rss"
+        },
+        {
+          "title": "Vance in Israel says ‘great optimism’ ceasefire will hold",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/21/vance-in-israel-says-great-optimism-ceasefire-will-hold?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0023017608470480245,
+      "chg5d": 0.003704990158619812,
+      "chg1m": -0.011178282194593407
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.41,
+      "score": 3.91,
       "confianca": 95,
       "razoes": [
         {
