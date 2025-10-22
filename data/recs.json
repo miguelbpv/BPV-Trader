@@ -1,41 +1,18 @@
 {
-  "generated_at": "2025-10-22T09:15:15.484640Z",
+  "generated_at": "2025-10-22T12:26:11.410209Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "LIVE: Gaza Palestinians say ‘no change’ with ceasefire as Israel blocks aid",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/22/live-gaza-palestinians-say-no-change-with-ceasefire-as-israel-blocks-aid?traffic_source=rss"
-        },
-        {
-          "title": "Israel, Hamas return more bodies of captives under Gaza ceasefire deal",
-          "url": "https://www.aljazeera.com/news/2025/10/22/israel-hamas-return-more-bodies-of-captives-under-gaza-ceasefire-deal?traffic_source=rss"
-        },
-        {
-          "title": "Cold cells, meagre meals: Palestinian American boy suffers in Israeli jail",
-          "url": "https://www.aljazeera.com/news/2025/10/21/cold-cells-meagre-meals-palestinian-american-boy-suffers-in-israeli-jail?traffic_source=rss"
-        },
-        {
-          "title": "Inside Israel’s war of imprisonment against Palestinians",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/21/aje-onl-pal_detaineeszoomin_av_v3-211025?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0023017608470480245,
-      "chg5d": 0.003704990158619812,
-      "chg1m": -0.011178282194593407
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
+      "score": 3.18,
+      "confianca": 90,
       "razoes": [
         {
-          "title": "LIVE: Gaza Palestinians say ‘no change’ with ceasefire as Israel blocks aid",
+          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
+          "url": "https://www.aljazeera.com/news/2025/10/22/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills one in Gaza, adding to dozens killed since ceasefire",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/22/live-gaza-palestinians-say-no-change-with-ceasefire-as-israel-blocks-aid?traffic_source=rss"
         },
         {
@@ -45,10 +22,6 @@
         {
           "title": "Cold cells, meagre meals: Palestinian American boy suffers in Israeli jail",
           "url": "https://www.aljazeera.com/news/2025/10/21/cold-cells-meagre-meals-palestinian-american-boy-suffers-in-israeli-jail?traffic_source=rss"
-        },
-        {
-          "title": "Inside Israel’s war of imprisonment against Palestinians",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/21/aje-onl-pal_detaineeszoomin_av_v3-211025?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,11 +31,15 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
+      "score": 3.18,
+      "confianca": 90,
       "razoes": [
         {
-          "title": "LIVE: Gaza Palestinians say ‘no change’ with ceasefire as Israel blocks aid",
+          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
+          "url": "https://www.aljazeera.com/news/2025/10/22/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills one in Gaza, adding to dozens killed since ceasefire",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/22/live-gaza-palestinians-say-no-change-with-ceasefire-as-israel-blocks-aid?traffic_source=rss"
         },
         {
@@ -72,15 +49,38 @@
         {
           "title": "Cold cells, meagre meals: Palestinian American boy suffers in Israeli jail",
           "url": "https://www.aljazeera.com/news/2025/10/21/cold-cells-meagre-meals-palestinian-american-boy-suffers-in-israeli-jail?traffic_source=rss"
-        },
-        {
-          "title": "Inside Israel’s war of imprisonment against Palestinians",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/21/aje-onl-pal_detaineeszoomin_av_v3-211025?traffic_source=rss"
         }
       ],
       "chg1d": -0.03241747380905313,
       "chg5d": -0.03103844174353697,
       "chg1m": 0.0189637586127938
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.18,
+      "confianca": 90,
+      "razoes": [
+        {
+          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
+          "url": "https://www.aljazeera.com/news/2025/10/22/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills one in Gaza, adding to dozens killed since ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/22/live-gaza-palestinians-say-no-change-with-ceasefire-as-israel-blocks-aid?traffic_source=rss"
+        },
+        {
+          "title": "Israel, Hamas return more bodies of captives under Gaza ceasefire deal",
+          "url": "https://www.aljazeera.com/news/2025/10/22/israel-hamas-return-more-bodies-of-captives-under-gaza-ceasefire-deal?traffic_source=rss"
+        },
+        {
+          "title": "Cold cells, meagre meals: Palestinian American boy suffers in Israeli jail",
+          "url": "https://www.aljazeera.com/news/2025/10/21/cold-cells-meagre-meals-palestinian-american-boy-suffers-in-israeli-jail?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0023017608470480245,
+      "chg5d": 0.003704990158619812,
+      "chg1m": -0.011178282194593407
     }
   ]
 }
