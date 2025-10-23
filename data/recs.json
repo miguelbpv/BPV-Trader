@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-10-23T00:58:20.850947Z",
+  "generated_at": "2025-10-23T03:32:35.669220Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.0,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
-          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
-        },
-        {
-          "title": "ICJ tells Israel it must not use ‘starvation… as a method of warfare’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/icj-tells-israel-it-must-not-use-starvation-as-a-method-of?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s parliament advances bill to annex occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/22/israels-parliament-advances-bill-to-annex-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "ICJ says Israel must allow aid into blockaded Gaza, provide ‘basic needs’",
-          "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004821246169560804,
-      "chg5d": -0.024568991409863714,
-      "chg1m": 0.0009657468099532957
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.0,
+      "score": 3.52,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +35,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.0,
+      "score": 3.52,
       "confianca": 95,
       "razoes": [
         {
@@ -90,12 +59,43 @@
           "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01315030568693045,
-      "chg5d": 0.017493049119555203,
-      "chg1m": -0.015137923301188702
+      "chg1d": 0.012804245010958582,
+      "chg5d": 0.017145505097312375,
+      "chg1m": -0.015474321596770684
     },
     {
-      "symbol": "SOXX",
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.52,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
+          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
+        },
+        {
+          "title": "ICJ tells Israel it must not use ‘starvation… as a method of warfare’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/icj-tells-israel-it-must-not-use-starvation-as-a-method-of?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s parliament advances bill to annex occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/10/22/israels-parliament-advances-bill-to-annex-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "ICJ says Israel must allow aid into blockaded Gaza, provide ‘basic needs’",
+          "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004821246169560804,
+      "chg5d": -0.024568991409863714,
+      "chg1m": 0.0009657468099532957
+    },
+    {
+      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
@@ -105,9 +105,9 @@
           "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
         }
       ],
-      "chg1d": -0.024714241581711423,
-      "chg5d": -0.012202753441802222,
-      "chg1m": 0.05424659567362994
+      "chg1d": -0.013126573140036221,
+      "chg5d": 0.0017379507035978146,
+      "chg1m": 0.04987493643034329
     },
     {
       "symbol": "TSM",
@@ -125,7 +125,7 @@
       "chg1m": 0.02182448445403423
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
         }
       ],
-      "chg1d": -0.013126573140036221,
-      "chg5d": 0.0017379507035978146,
-      "chg1m": 0.04987493643034329
+      "chg1d": -0.024714241581711423,
+      "chg5d": -0.012202753441802222,
+      "chg1m": 0.05424659567362994
     }
   ]
 }
