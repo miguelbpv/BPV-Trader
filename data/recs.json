@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-10-23T15:13:29.250748Z",
+  "generated_at": "2025-10-23T18:19:10.181092Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli airstrikes target multiple areas across Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/israeli-airstrikes-target-multiple-areas-across-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Will Trump’s sanctions against Russian oil giants hurt Putin?",
-          "url": "https://www.aljazeera.com/news/2025/10/23/will-trumps-sanctions-against-russian-oil-giants-hurt-putin?traffic_source=rss"
-        },
-        {
-          "title": "US dismisses Israeli parliament vote on annexing occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/us-dismisses-israeli-parliament-vote-on-annexing-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Trump sanctions Russian oil giants after Putin summit cancelled",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
-        },
-        {
-          "title": "Gaza funerals held for unidentified Palestinians, bodies returned by Israel",
-          "url": "https://www.aljazeera.com/gallery/2025/10/23/gaza-funerals-held-for-unidentified-palestinians-bodies-returned-by-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.012699316628701699,
-      "chg5d": 0.0426242964352721,
-      "chg1m": -0.015773743635156046
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
+      "score": 3.15,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
+          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
+        },
         {
           "title": "Israeli airstrikes target multiple areas across Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/israeli-airstrikes-target-multiple-areas-across-lebanon?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Trump sanctions Russian oil giants after Putin summit cancelled",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
-        },
-        {
-          "title": "Gaza funerals held for unidentified Palestinians, bodies returned by Israel",
-          "url": "https://www.aljazeera.com/gallery/2025/10/23/gaza-funerals-held-for-unidentified-palestinians-bodies-returned-by-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,28 +33,40 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 2.19,
-      "confianca": 62,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.15,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
+          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
+        },
+        {
+          "title": "Israeli airstrikes target multiple areas across Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/israeli-airstrikes-target-multiple-areas-across-lebanon?traffic_source=rss"
+        },
         {
           "title": "Will Trump’s sanctions against Russian oil giants hurt Putin?",
           "url": "https://www.aljazeera.com/news/2025/10/23/will-trumps-sanctions-against-russian-oil-giants-hurt-putin?traffic_source=rss"
+        },
+        {
+          "title": "US dismisses Israeli parliament vote on annexing occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/us-dismisses-israeli-parliament-vote-on-annexing-occupied-west-bank?traffic_source=rss"
         },
         {
           "title": "Trump sanctions Russian oil giants after Putin summit cancelled",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015023539185821213,
-      "chg5d": -0.022078441835645505,
-      "chg1m": 0.044565565886502255
+      "chg1d": 0.01651480637813215,
+      "chg5d": 0.046552532833020625,
+      "chg1m": -0.012065530219172053
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.18,
       "confianca": 62,
       "razoes": [
         {
@@ -97,14 +78,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
         }
       ],
-      "chg1d": 0.017542125320666384,
-      "chg5d": 0.009533243754842548,
-      "chg1m": 0.08698544786364489
+      "chg1d": 0.013292716698975464,
+      "chg5d": -0.02374599786552811,
+      "chg1m": 0.04278436820918403
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.18,
       "confianca": 62,
       "razoes": [
         {
@@ -116,16 +97,39 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
         }
       ],
-      "chg1d": 0.017808749516066598,
-      "chg5d": 0.0007266938888503686,
-      "chg1m": 0.07465626161278326
+      "chg1d": 0.024073487488121745,
+      "chg5d": 0.0068862897086303864,
+      "chg1m": 0.08127090301003345
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 2.18,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Will Trump’s sanctions against Russian oil giants hurt Putin?",
+          "url": "https://www.aljazeera.com/news/2025/10/23/will-trumps-sanctions-against-russian-oil-giants-hurt-putin?traffic_source=rss"
+        },
+        {
+          "title": "Trump sanctions Russian oil giants after Putin summit cancelled",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02310775876982695,
+      "chg5d": 0.015055071156052945,
+      "chg1m": 0.09293091431347286
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
+        {
+          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
+          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
+        },
         {
           "title": "Israeli airstrikes target multiple areas across Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/israeli-airstrikes-target-multiple-areas-across-lebanon?traffic_source=rss"
@@ -133,15 +137,11 @@
         {
           "title": "US dismisses Israeli parliament vote on annexing occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/us-dismisses-israeli-parliament-vote-on-annexing-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Gaza funerals held for unidentified Palestinians, bodies returned by Israel",
-          "url": "https://www.aljazeera.com/gallery/2025/10/23/gaza-funerals-held-for-unidentified-palestinians-bodies-returned-by-israel?traffic_source=rss"
         }
       ],
-      "chg1d": 0.012008868087202905,
-      "chg5d": -0.0005271160669031746,
-      "chg1m": 0.013861182519280224
+      "chg1d": 0.0053988586443322155,
+      "chg5d": -0.007055245818550468,
+      "chg1m": 0.007239074550128497
     }
   ]
 }
