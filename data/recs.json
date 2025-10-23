@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-10-23T09:14:31.482161Z",
+  "generated_at": "2025-10-23T12:26:16.425299Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.64,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "IOC wants no sport events in Indonesia after visa ban on Israeli athletes",
-          "url": "https://www.aljazeera.com/sports/2025/10/23/ioc-wants-no-sport-events-in-indonesia-after-visa-ban-on-israeli-athletes?traffic_source=rss"
-        },
-        {
-          "title": "Map of Gaza shows where Israeli forces are positioned under ceasefire deal",
-          "url": "https://www.aljazeera.com/news/2025/10/23/map-of-gaza-shows-where-israeli-forces-are-positioned-under-ceasefire-deal?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: UN urges Israel to allow medical evacuation from Gaza amid ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/23/live-un-urges-israel-to-allow-medical-evacuation-from-gaza-amid-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
-          "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
-        },
-        {
-          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.012804245010958582,
-      "chg5d": 0.017145505097312375,
-      "chg1m": -0.015474321596770684
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.64,
+      "score": 3.79,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza funerals held for unidentified Palestinians, bodies returned by Israel",
+          "url": "https://www.aljazeera.com/gallery/2025/10/23/gaza-funerals-held-for-unidentified-palestinians-bodies-returned-by-israel?traffic_source=rss"
+        },
         {
           "title": "IOC wants no sport events in Indonesia after visa ban on Israeli athletes",
           "url": "https://www.aljazeera.com/sports/2025/10/23/ioc-wants-no-sport-events-in-indonesia-after-visa-ban-on-israeli-athletes?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
           "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
-        },
-        {
-          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.8,
+      "score": 3.79,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza funerals held for unidentified Palestinians, bodies returned by Israel",
+          "url": "https://www.aljazeera.com/gallery/2025/10/23/gaza-funerals-held-for-unidentified-palestinians-bodies-returned-by-israel?traffic_source=rss"
+        },
         {
           "title": "IOC wants no sport events in Indonesia after visa ban on Israeli athletes",
           "url": "https://www.aljazeera.com/sports/2025/10/23/ioc-wants-no-sport-events-in-indonesia-after-visa-ban-on-israeli-athletes?traffic_source=rss"
@@ -82,12 +55,35 @@
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/23/live-un-urges-israel-to-allow-medical-evacuation-from-gaza-amid-ceasefire?traffic_source=rss"
         },
         {
-          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
+          "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
+          "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012804245010958582,
+      "chg5d": 0.017145505097312375,
+      "chg1m": -0.015474321596770684
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Gaza funerals held for unidentified Palestinians, bodies returned by Israel",
+          "url": "https://www.aljazeera.com/gallery/2025/10/23/gaza-funerals-held-for-unidentified-palestinians-bodies-returned-by-israel?traffic_source=rss"
         },
         {
-          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
-          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
+          "title": "IOC wants no sport events in Indonesia after visa ban on Israeli athletes",
+          "url": "https://www.aljazeera.com/sports/2025/10/23/ioc-wants-no-sport-events-in-indonesia-after-visa-ban-on-israeli-athletes?traffic_source=rss"
+        },
+        {
+          "title": "Map of Gaza shows where Israeli forces are positioned under ceasefire deal",
+          "url": "https://www.aljazeera.com/news/2025/10/23/map-of-gaza-shows-where-israeli-forces-are-positioned-under-ceasefire-deal?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: UN urges Israel to allow medical evacuation from Gaza amid ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/23/live-un-urges-israel-to-allow-medical-evacuation-from-gaza-amid-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": -0.004821246169560804,
@@ -97,16 +93,12 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.67,
-      "confianca": 47,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
           "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
-        },
-        {
-          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
-          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
         }
       ],
       "chg1d": -0.024714241581711423,
@@ -114,42 +106,34 @@
       "chg1m": 0.05424659567362994
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.67,
-      "confianca": 47,
-      "razoes": [
-        {
-          "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
-          "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
-        },
-        {
-          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
-          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01911649859087975,
-      "chg5d": -0.05195103541071834,
-      "chg1m": 0.02182448445403423
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.67,
-      "confianca": 47,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
           "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
-        },
-        {
-          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
-          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
         }
       ],
       "chg1d": -0.013126573140036221,
       "chg5d": 0.0017379507035978146,
       "chg1m": 0.04987493643034329
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
+          "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01911649859087975,
+      "chg5d": -0.05195103541071834,
+      "chg1m": 0.02182448445403423
     }
   ]
 }
