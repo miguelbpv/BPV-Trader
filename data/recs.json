@@ -1,31 +1,54 @@
 {
-  "generated_at": "2025-10-23T18:19:10.181092Z",
+  "generated_at": "2025-10-23T21:11:37.047631Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.15,
-      "confianca": 90,
+      "score": 2.48,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
+        },
+        {
+          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel-4?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: America’s 51st state? US pressure comes to bear on Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/23/analysis-americas-51st-state-us-pressure-comes-to-bear-on-israel?traffic_source=rss"
+        },
         {
           "title": "Vance criticises Israeli parliament vote on West Bank annexation",
           "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013325740318906626,
+      "chg5d": 0.04326923076923074,
+      "chg1m": -0.015164932477307998
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.48,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
         },
         {
-          "title": "Israeli airstrikes target multiple areas across Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/israeli-airstrikes-target-multiple-areas-across-lebanon?traffic_source=rss"
+          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel-4?traffic_source=rss"
         },
         {
-          "title": "Will Trump’s sanctions against Russian oil giants hurt Putin?",
-          "url": "https://www.aljazeera.com/news/2025/10/23/will-trumps-sanctions-against-russian-oil-giants-hurt-putin?traffic_source=rss"
+          "title": "Analysis: America’s 51st state? US pressure comes to bear on Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/23/analysis-americas-51st-state-us-pressure-comes-to-bear-on-israel?traffic_source=rss"
         },
         {
-          "title": "US dismisses Israeli parliament vote on annexing occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/us-dismisses-israeli-parliament-vote-on-annexing-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Trump sanctions Russian oil giants after Putin summit cancelled",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
+          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
+          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,115 +56,76 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.15,
-      "confianca": 90,
+      "score": 2.48,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
+        },
+        {
+          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel-4?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: America’s 51st state? US pressure comes to bear on Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/23/analysis-americas-51st-state-us-pressure-comes-to-bear-on-israel?traffic_source=rss"
+        },
         {
           "title": "Vance criticises Israeli parliament vote on West Bank annexation",
           "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
-        },
-        {
-          "title": "Israeli airstrikes target multiple areas across Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/israeli-airstrikes-target-multiple-areas-across-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Will Trump’s sanctions against Russian oil giants hurt Putin?",
-          "url": "https://www.aljazeera.com/news/2025/10/23/will-trumps-sanctions-against-russian-oil-giants-hurt-putin?traffic_source=rss"
-        },
-        {
-          "title": "US dismisses Israeli parliament vote on annexing occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/us-dismisses-israeli-parliament-vote-on-annexing-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Trump sanctions Russian oil giants after Putin summit cancelled",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01651480637813215,
-      "chg5d": 0.046552532833020625,
-      "chg1m": -0.012065530219172053
+      "chg1d": 0.0018680461468982737,
+      "chg5d": -0.01054232133806384,
+      "chg1m": 0.003701799485861206
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Will Trump’s sanctions against Russian oil giants hurt Putin?",
-          "url": "https://www.aljazeera.com/news/2025/10/23/will-trumps-sanctions-against-russian-oil-giants-hurt-putin?traffic_source=rss"
-        },
-        {
-          "title": "Trump sanctions Russian oil giants after Putin summit cancelled",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
+          "title": "Russia’s Putin defiant in face of US sanctions over Ukraine war",
+          "url": "https://www.aljazeera.com/news/2025/10/23/russias-putin-defiant-in-face-of-us-sanctions-over-ukraine-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013292716698975464,
-      "chg5d": -0.02374599786552811,
-      "chg1m": 0.04278436820918403
+      "chg1d": 0.006404043201329351,
+      "chg5d": -0.030382870864460905,
+      "chg1m": 0.03569520145345745
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Will Trump’s sanctions against Russian oil giants hurt Putin?",
-          "url": "https://www.aljazeera.com/news/2025/10/23/will-trumps-sanctions-against-russian-oil-giants-hurt-putin?traffic_source=rss"
-        },
-        {
-          "title": "Trump sanctions Russian oil giants after Putin summit cancelled",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
+          "title": "Russia’s Putin defiant in face of US sanctions over Ukraine war",
+          "url": "https://www.aljazeera.com/news/2025/10/23/russias-putin-defiant-in-face-of-us-sanctions-over-ukraine-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.024073487488121745,
-      "chg5d": 0.0068862897086303864,
-      "chg1m": 0.08127090301003345
+      "chg1d": 0.02439024390243905,
+      "chg5d": 0.007197729946709059,
+      "chg1m": 0.08160535117056848
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Will Trump’s sanctions against Russian oil giants hurt Putin?",
-          "url": "https://www.aljazeera.com/news/2025/10/23/will-trumps-sanctions-against-russian-oil-giants-hurt-putin?traffic_source=rss"
-        },
-        {
-          "title": "Trump sanctions Russian oil giants after Putin summit cancelled",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-sanctions-russian-oil-giants-after-putin-summit-cancelled?traffic_source=rss"
+          "title": "Russia’s Putin defiant in face of US sanctions over Ukraine war",
+          "url": "https://www.aljazeera.com/news/2025/10/23/russias-putin-defiant-in-face-of-us-sanctions-over-ukraine-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02310775876982695,
-      "chg5d": 0.015055071156052945,
-      "chg1m": 0.09293091431347286
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
-          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
-        },
-        {
-          "title": "Israeli airstrikes target multiple areas across Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/israeli-airstrikes-target-multiple-areas-across-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "US dismisses Israeli parliament vote on annexing occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/us-dismisses-israeli-parliament-vote-on-annexing-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0053988586443322155,
-      "chg5d": -0.007055245818550468,
-      "chg1m": 0.007239074550128497
+      "chg1d": 0.024560952583373312,
+      "chg5d": 0.01649682715601374,
+      "chg1m": 0.09448328299575477
     }
   ]
 }
