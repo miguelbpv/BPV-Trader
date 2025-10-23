@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-10-22T21:09:38.857548Z",
+  "generated_at": "2025-10-23T00:58:20.850947Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.44,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "ICJ tells Israel it must not use ‘starvation… as a method of warfare’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/icj-tells-israel-it-must-not-use-starvation-as-a-method-of?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s parliament advances bill to annex occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/22/israels-parliament-advances-bill-to-annex-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "ICJ says Israel must allow aid into blockaded Gaza, provide ‘basic needs’",
-          "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss"
-        },
-        {
-          "title": "Israeli minister says ‘99%’ of settlers are law-abiding",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/israeli-minister-says-99-of-settlers-are-law-abiding?traffic_source=rss"
-        },
-        {
-          "title": "Israel deports 32 activists aiding Palestinian olive farmers amid attacks",
-          "url": "https://www.aljazeera.com/news/2025/10/22/israel-deports-32-activists-aiding-palestinian-olive-farmers-amid-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01315030568693045,
-      "chg5d": 0.017493049119555203,
-      "chg1m": -0.015137923301188702
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.44,
+      "score": 5.0,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
+          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
+        },
         {
           "title": "ICJ tells Israel it must not use ‘starvation… as a method of warfare’",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/icj-tells-israel-it-must-not-use-starvation-as-a-method-of?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "ICJ says Israel must allow aid into blockaded Gaza, provide ‘basic needs’",
           "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss"
-        },
-        {
-          "title": "Israeli minister says ‘99%’ of settlers are law-abiding",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/israeli-minister-says-99-of-settlers-are-law-abiding?traffic_source=rss"
-        },
-        {
-          "title": "Israel deports 32 activists aiding Palestinian olive farmers amid attacks",
-          "url": "https://www.aljazeera.com/news/2025/10/22/israel-deports-32-activists-aiding-palestinian-olive-farmers-amid-attacks?traffic_source=rss"
         }
       ],
       "chg1d": -0.004821246169560804,
@@ -66,9 +35,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.44,
+      "score": 5.0,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
+          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
+        },
         {
           "title": "ICJ tells Israel it must not use ‘starvation… as a method of warfare’",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/icj-tells-israel-it-must-not-use-starvation-as-a-method-of?traffic_source=rss"
@@ -80,19 +57,87 @@
         {
           "title": "ICJ says Israel must allow aid into blockaded Gaza, provide ‘basic needs’",
           "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss"
-        },
-        {
-          "title": "Israeli minister says ‘99%’ of settlers are law-abiding",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/israeli-minister-says-99-of-settlers-are-law-abiding?traffic_source=rss"
-        },
-        {
-          "title": "Israel deports 32 activists aiding Palestinian olive farmers amid attacks",
-          "url": "https://www.aljazeera.com/news/2025/10/22/israel-deports-32-activists-aiding-palestinian-olive-farmers-amid-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.0,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
+          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
+        },
+        {
+          "title": "ICJ tells Israel it must not use ‘starvation… as a method of warfare’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/icj-tells-israel-it-must-not-use-starvation-as-a-method-of?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s parliament advances bill to annex occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/10/22/israels-parliament-advances-bill-to-annex-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "ICJ says Israel must allow aid into blockaded Gaza, provide ‘basic needs’",
+          "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01315030568693045,
+      "chg5d": 0.017493049119555203,
+      "chg1m": -0.015137923301188702
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
+          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.024714241581711423,
+      "chg5d": -0.012202753441802222,
+      "chg1m": 0.05424659567362994
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
+          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01911649859087975,
+      "chg5d": -0.05195103541071834,
+      "chg1m": 0.02182448445403423
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
+          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013126573140036221,
+      "chg5d": 0.0017379507035978146,
+      "chg1m": 0.04987493643034329
     }
   ]
 }
