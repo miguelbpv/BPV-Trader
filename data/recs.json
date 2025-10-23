@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-10-23T03:32:35.669220Z",
+  "generated_at": "2025-10-23T06:19:26.411944Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.52,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
-          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
-        },
-        {
-          "title": "ICJ tells Israel it must not use ‘starvation… as a method of warfare’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/icj-tells-israel-it-must-not-use-starvation-as-a-method-of?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s parliament advances bill to annex occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/22/israels-parliament-advances-bill-to-annex-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "ICJ says Israel must allow aid into blockaded Gaza, provide ‘basic needs’",
-          "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.52,
+      "score": 4.33,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
+          "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
+        },
         {
           "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
           "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israel’s parliament advances bill to annex occupied West Bank",
           "url": "https://www.aljazeera.com/news/2025/10/22/israels-parliament-advances-bill-to-annex-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "ICJ says Israel must allow aid into blockaded Gaza, provide ‘basic needs’",
-          "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss"
         }
       ],
       "chg1d": 0.012804245010958582,
@@ -64,9 +33,40 @@
       "chg1m": -0.015474321596770684
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.33,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
+          "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
+        },
+        {
+          "title": "US lawmakers urge Trump admin to secure release of American teen in Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/22/us-lawmakers-urge-trump-admin-to-secure-release-of-american-teen-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
+          "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
+        },
+        {
+          "title": "ICJ tells Israel it must not use ‘starvation… as a method of warfare’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/22/icj-tells-israel-it-must-not-use-starvation-as-a-method-of?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s parliament advances bill to annex occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/10/22/israels-parliament-advances-bill-to-annex-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.52,
+      "score": 3.49,
       "confianca": 95,
       "razoes": [
         {
@@ -97,9 +97,13 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
+          "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
+        },
         {
           "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
           "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
@@ -112,9 +116,13 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
+          "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
+        },
         {
           "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
           "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
@@ -127,9 +135,13 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
+          "url": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss"
+        },
         {
           "title": "Political infighting as Iran navigates sanctions, lingering threat of war",
           "url": "https://www.aljazeera.com/news/2025/10/22/political-infighting-as-iran-navigates-sanctions-lingering-threat-of-war?traffic_source=rss"
