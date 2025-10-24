@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T03:29:13.857186Z",
+  "generated_at": "2025-10-24T06:18:32.606773Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.67,
-      "confianca": 76,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.44,
+      "confianca": 41,
       "razoes": [
         {
           "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
@@ -18,14 +18,29 @@
         {
           "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel-4?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.44,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
+          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
         },
         {
-          "title": "Analysis: America’s 51st state? US pressure comes to bear on Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/23/analysis-americas-51st-state-us-pressure-comes-to-bear-on-israel?traffic_source=rss"
+          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
         },
         {
-          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
-          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
+          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel-4?traffic_source=rss"
         }
       ],
       "chg1d": 0.0018680461468982737,
@@ -34,9 +49,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.67,
-      "confianca": 76,
+      "acao": "observar",
+      "score": 1.44,
+      "confianca": 41,
       "razoes": [
         {
           "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
@@ -49,65 +64,11 @@
         {
           "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel-4?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: America’s 51st state? US pressure comes to bear on Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/23/analysis-americas-51st-state-us-pressure-comes-to-bear-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
-          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
         }
       ],
       "chg1d": 0.013325740318906626,
       "chg5d": 0.04326923076923074,
       "chg1m": -0.015164932477307998
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.67,
-      "confianca": 76,
-      "razoes": [
-        {
-          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
-          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
-        },
-        {
-          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
-        },
-        {
-          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel-4?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: America’s 51st state? US pressure comes to bear on Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/23/analysis-americas-51st-state-us-pressure-comes-to-bear-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
-          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Russia’s Putin defiant in face of US sanctions over Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/10/23/russias-putin-defiant-in-face-of-us-sanctions-over-ukraine-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02439024390243905,
-      "chg5d": 0.007197729946709059,
-      "chg1m": 0.08160535117056848
     },
     {
       "symbol": "TSM",
@@ -138,6 +99,21 @@
       "chg1d": 0.024560952583373312,
       "chg5d": 0.01649682715601374,
       "chg1m": 0.09448328299575477
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Russia’s Putin defiant in face of US sanctions over Ukraine war",
+          "url": "https://www.aljazeera.com/news/2025/10/23/russias-putin-defiant-in-face-of-us-sanctions-over-ukraine-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02439024390243905,
+      "chg5d": 0.007197729946709059,
+      "chg1m": 0.08160535117056848
     }
   ]
 }
