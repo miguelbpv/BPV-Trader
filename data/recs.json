@@ -1,54 +1,31 @@
 {
-  "generated_at": "2025-10-24T15:13:27.563977Z",
+  "generated_at": "2025-10-24T18:18:54.906612Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Europe is not “off the hook” on pressuring Israel",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/24/europe-is-not-off-the-hook-on-pressuring-israel?traffic_source=rss"
-        },
-        {
-          "title": "Freed Palestinian mother recounts torture in Israeli prison",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/freed-palestinian-mother-recounts-torture-in-israeli-prison?traffic_source=rss"
-        },
-        {
-          "title": "Can Israel annex the West Bank if the US says no?",
-          "url": "https://www.aljazeera.com/news/2025/10/24/can-israel-annex-the-west-bank-if-the-us-says-no?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes in southern Lebanon kill two in latest truce violation",
-          "url": "https://www.aljazeera.com/news/2025/10/24/israeli-strikes-in-southern-lebanon-kill-two-in-latest-truce-violation?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0030529658846429855,
-      "chg5d": -0.01734827829950515,
-      "chg1m": 0.0045835570054094795
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 6.9,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Europe is not “off the hook” on pressuring Israel",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/24/europe-is-not-off-the-hook-on-pressuring-israel?traffic_source=rss"
+          "title": "Russia’s top Indian oil buyer to comply with Western sanctions",
+          "url": "https://www.aljazeera.com/news/2025/10/24/russias-top-indian-oil-buyer-to-comply-with-western-sanctions?traffic_source=rss"
         },
         {
-          "title": "Freed Palestinian mother recounts torture in Israeli prison",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/freed-palestinian-mother-recounts-torture-in-israeli-prison?traffic_source=rss"
+          "title": "Israeli drone strike targeting Hezbollah kills two in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/israeli-drone-strike-targeting-hezbollah-kills-two-in-lebanon?traffic_source=rss"
         },
         {
-          "title": "Can Israel annex the West Bank if the US says no?",
-          "url": "https://www.aljazeera.com/news/2025/10/24/can-israel-annex-the-west-bank-if-the-us-says-no?traffic_source=rss"
+          "title": "Brentford vs Liverpool: Premier League – teams, start, lineups",
+          "url": "https://www.aljazeera.com/sports/2025/10/24/brentford-vs-liverpool-english-premier-league-teams-start-lineups?traffic_source=rss"
         },
         {
-          "title": "Israeli strikes in southern Lebanon kill two in latest truce violation",
-          "url": "https://www.aljazeera.com/news/2025/10/24/israeli-strikes-in-southern-lebanon-kill-two-in-latest-truce-violation?traffic_source=rss"
+          "title": "US rejects Hamas, UNRWA roles in Gaza as Israeli aid blockade persists",
+          "url": "https://www.aljazeera.com/news/2025/10/24/us-rejects-hamas-unrwa-roles-in-gaza-as-israeli-aid-blockade-persists?traffic_source=rss"
+        },
+        {
+          "title": "‘Occupation, expulsion and colonisation’: Israeli protesters block Gaza aid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/occupation-expulsion-and-colonisation-israeli-protesters-block-gaza-aid?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,74 +35,181 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 6.9,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Russia’s top Indian oil buyer to comply with Western sanctions",
+          "url": "https://www.aljazeera.com/news/2025/10/24/russias-top-indian-oil-buyer-to-comply-with-western-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone strike targeting Hezbollah kills two in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/israeli-drone-strike-targeting-hezbollah-kills-two-in-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Brentford vs Liverpool: Premier League – teams, start, lineups",
+          "url": "https://www.aljazeera.com/sports/2025/10/24/brentford-vs-liverpool-english-premier-league-teams-start-lineups?traffic_source=rss"
+        },
+        {
+          "title": "US rejects Hamas, UNRWA roles in Gaza as Israeli aid blockade persists",
+          "url": "https://www.aljazeera.com/news/2025/10/24/us-rejects-hamas-unrwa-roles-in-gaza-as-israeli-aid-blockade-persists?traffic_source=rss"
+        },
+        {
+          "title": "‘Occupation, expulsion and colonisation’: Israeli protesters block Gaza aid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/occupation-expulsion-and-colonisation-israeli-protesters-block-gaza-aid?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008036416769697689,
+      "chg5d": 0.02645964177715738,
+      "chg1m": -0.031760833790455405
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli drone strike targeting Hezbollah kills two in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/israeli-drone-strike-targeting-hezbollah-kills-two-in-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "US rejects Hamas, UNRWA roles in Gaza as Israeli aid blockade persists",
+          "url": "https://www.aljazeera.com/news/2025/10/24/us-rejects-hamas-unrwa-roles-in-gaza-as-israeli-aid-blockade-persists?traffic_source=rss"
+        },
+        {
+          "title": "‘Occupation, expulsion and colonisation’: Israeli protesters block Gaza aid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/occupation-expulsion-and-colonisation-israeli-protesters-block-gaza-aid?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: Gaza security force must include nations Israel ‘comfortable with’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/rubio-gaza-security-force-must-include-nations-israel-comfortable?traffic_source=rss"
+        },
         {
           "title": "Europe is not “off the hook” on pressuring Israel",
           "url": "https://www.aljazeera.com/video/quotable/2025/10/24/europe-is-not-off-the-hook-on-pressuring-israel?traffic_source=rss"
-        },
-        {
-          "title": "Freed Palestinian mother recounts torture in Israeli prison",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/freed-palestinian-mother-recounts-torture-in-israeli-prison?traffic_source=rss"
-        },
-        {
-          "title": "Can Israel annex the West Bank if the US says no?",
-          "url": "https://www.aljazeera.com/news/2025/10/24/can-israel-annex-the-west-bank-if-the-us-says-no?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes in southern Lebanon kill two in latest truce violation",
-          "url": "https://www.aljazeera.com/news/2025/10/24/israeli-strikes-in-southern-lebanon-kill-two-in-latest-truce-violation?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005282679554906135,
-      "chg5d": 0.02930914166085131,
-      "chg1m": -0.02907295666483824
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Canadian ad featuring Reagan on tariffs derails US trade talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/canadian-ad-featuring-reagan-on-tariffs-derails-us-trade-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.017522160379303313,
-      "chg5d": 0.027726689107124298,
-      "chg1m": 0.1040858932299434
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Canadian ad featuring Reagan on tariffs derails US trade talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/canadian-ad-featuring-reagan-on-tariffs-derails-us-trade-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015787844391703557,
-      "chg5d": 0.0008133387555917348,
-      "chg1m": 0.06744740837128593
+      "chg1d": -0.005716627394734188,
+      "chg5d": -0.019973745329698044,
+      "chg1m": 0.001899492092331866
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Canadian ad featuring Reagan on tariffs derails US trade talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/canadian-ad-featuring-reagan-on-tariffs-derails-us-trade-talks?traffic_source=rss"
+          "title": "Russia’s top Indian oil buyer to comply with Western sanctions",
+          "url": "https://www.aljazeera.com/news/2025/10/24/russias-top-indian-oil-buyer-to-comply-with-western-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "‘Can’t control’ US tariffs: Canada ‘stands ready’ to resume trade talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/cant-control-us-tariffs-canada-stands-ready-to-resume-trade-talks?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0024990110091565286,
-      "chg5d": 0.009453301854712581,
-      "chg1m": 0.09420251698172824
+      "chg1d": 0.0013411680705511068,
+      "chg5d": 0.008287427011376969,
+      "chg1m": 0.09293876046548366
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Russia’s top Indian oil buyer to comply with Western sanctions",
+          "url": "https://www.aljazeera.com/news/2025/10/24/russias-top-indian-oil-buyer-to-comply-with-western-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "‘Can’t control’ US tariffs: Canada ‘stands ready’ to resume trade talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/cant-control-us-tariffs-canada-stands-ready-to-resume-trade-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015443882640250435,
+      "chg5d": 0.0004744476074286404,
+      "chg1m": 0.06708595387840671
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Russia’s top Indian oil buyer to comply with Western sanctions",
+          "url": "https://www.aljazeera.com/news/2025/10/24/russias-top-indian-oil-buyer-to-comply-with-western-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "‘Can’t control’ US tariffs: Canada ‘stands ready’ to resume trade talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/cant-control-us-tariffs-canada-stands-ready-to-resume-trade-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.020373806088091827,
+      "chg5d": 0.030606933407363684,
+      "chg1m": 0.1071801371905756
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US consumer prices rise less than expected before Fed decision",
+          "url": "https://www.aljazeera.com/economy/2025/10/24/us-consumer-prices-rise-less-than-expected-before-fed-decision?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015015015015015084,
+      "chg5d": 0.027566657080645856,
+      "chg1m": 0.04525889088553643
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US consumer prices rise less than expected before Fed decision",
+          "url": "https://www.aljazeera.com/economy/2025/10/24/us-consumer-prices-rise-less-than-expected-before-fed-decision?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009125282839109199,
+      "chg5d": 0.020319390719306434,
+      "chg1m": 0.030149684674416886
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US consumer prices rise less than expected before Fed decision",
+          "url": "https://www.aljazeera.com/economy/2025/10/24/us-consumer-prices-rise-less-than-expected-before-fed-decision?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011611909987225126,
+      "chg5d": 0.022750981073965542,
+      "chg1m": 0.04067191211901671
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US consumer prices rise less than expected before Fed decision",
+          "url": "https://www.aljazeera.com/economy/2025/10/24/us-consumer-prices-rise-less-than-expected-before-fed-decision?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
