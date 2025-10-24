@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-23T21:11:37.047631Z",
+  "generated_at": "2025-10-24T00:54:51.793249Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.48,
-      "confianca": 70,
+      "score": 2.69,
+      "confianca": 76,
       "razoes": [
+        {
+          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
+          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
+        },
         {
           "title": "Trump: “Israel’s not going to do anything with the West Bank”",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
@@ -31,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.48,
-      "confianca": 70,
+      "score": 2.69,
+      "confianca": 76,
       "razoes": [
+        {
+          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
+          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
+        },
         {
           "title": "Trump: “Israel’s not going to do anything with the West Bank”",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
@@ -58,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.48,
-      "confianca": 70,
+      "score": 2.69,
+      "confianca": 76,
       "razoes": [
+        {
+          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
+          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
+        },
         {
           "title": "Trump: “Israel’s not going to do anything with the West Bank”",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
@@ -83,24 +95,9 @@
       "chg1m": 0.003701799485861206
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Russia’s Putin defiant in face of US sanctions over Ukraine war",
-          "url": "https://www.aljazeera.com/news/2025/10/23/russias-putin-defiant-in-face-of-us-sanctions-over-ukraine-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006404043201329351,
-      "chg5d": -0.030382870864460905,
-      "chg1m": 0.03569520145345745
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -113,9 +110,24 @@
       "chg1m": 0.08160535117056848
     },
     {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Russia’s Putin defiant in face of US sanctions over Ukraine war",
+          "url": "https://www.aljazeera.com/news/2025/10/23/russias-putin-defiant-in-face-of-us-sanctions-over-ukraine-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006404043201329351,
+      "chg5d": -0.030382870864460905,
+      "chg1m": 0.03569520145345745
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
