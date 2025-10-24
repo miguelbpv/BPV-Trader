@@ -1,10 +1,41 @@
 {
-  "generated_at": "2025-10-24T00:54:51.793249Z",
+  "generated_at": "2025-10-24T03:29:13.857186Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.67,
+      "confianca": 76,
+      "razoes": [
+        {
+          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
+          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
+        },
+        {
+          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
+        },
+        {
+          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel-4?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: America’s 51st state? US pressure comes to bear on Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/23/analysis-americas-51st-state-us-pressure-comes-to-bear-on-israel?traffic_source=rss"
+        },
+        {
+          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
+          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0018680461468982737,
+      "chg5d": -0.01054232133806384,
+      "chg1m": 0.003701799485861206
+    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.69,
+      "score": 2.67,
       "confianca": 76,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.69,
+      "score": 2.67,
       "confianca": 76,
       "razoes": [
         {
@@ -64,40 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
-      "razoes": [
-        {
-          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
-          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
-        },
-        {
-          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
-        },
-        {
-          "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel-4?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: America’s 51st state? US pressure comes to bear on Israel",
-          "url": "https://www.aljazeera.com/news/2025/10/23/analysis-americas-51st-state-us-pressure-comes-to-bear-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "Vance criticises Israeli parliament vote on West Bank annexation",
-          "url": "https://www.aljazeera.com/news/2025/10/23/vance-criticises-israeli-parliament-vote-on-west-bank-annexation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0018680461468982737,
-      "chg5d": -0.01054232133806384,
-      "chg1m": 0.003701799485861206
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -112,7 +112,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
