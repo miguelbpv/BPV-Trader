@@ -1,27 +1,19 @@
 {
-  "generated_at": "2025-10-24T09:14:30.053797Z",
+  "generated_at": "2025-10-24T12:25:59.571017Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
         {
-          "title": "Palestinian child killed in Israeli raid on West Bank as settlers rampage",
+          "title": "Palestinian teen killed in Israeli raid on West Bank as settlers rampage",
           "url": "https://www.aljazeera.com/news/2025/10/24/palestinian-child-killed-in-israeli-raid-on-west-bank-as-settlers-rampage?traffic_source=rss"
         },
         {
-          "title": "LIVE: UN calls on Israel to open Gaza’s Rafah, increase aid amid ceasefire",
+          "title": "LIVE: Israel blocks aid to Gaza despite ceasefire",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/24/live-un-calls-on-israel-to-open-gazas-rafah-increase-aid-amid-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
-          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
-        },
-        {
-          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,26 +21,37 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
         {
-          "title": "Palestinian child killed in Israeli raid on West Bank as settlers rampage",
+          "title": "Palestinian teen killed in Israeli raid on West Bank as settlers rampage",
           "url": "https://www.aljazeera.com/news/2025/10/24/palestinian-child-killed-in-israeli-raid-on-west-bank-as-settlers-rampage?traffic_source=rss"
         },
         {
-          "title": "LIVE: UN calls on Israel to open Gaza’s Rafah, increase aid amid ceasefire",
+          "title": "LIVE: Israel blocks aid to Gaza despite ceasefire",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/24/live-un-calls-on-israel-to-open-gazas-rafah-increase-aid-amid-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013325740318906626,
+      "chg5d": 0.04326923076923074,
+      "chg1m": -0.015164932477307998
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Palestinian teen killed in Israeli raid on West Bank as settlers rampage",
+          "url": "https://www.aljazeera.com/news/2025/10/24/palestinian-child-killed-in-israeli-raid-on-west-bank-as-settlers-rampage?traffic_source=rss"
         },
         {
-          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
-          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
-        },
-        {
-          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
+          "title": "LIVE: Israel blocks aid to Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/24/live-un-calls-on-israel-to-open-gazas-rafah-increase-aid-amid-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0018680461468982737,
@@ -56,31 +59,49 @@
       "chg1m": 0.003701799485861206
     },
     {
-      "symbol": "XLE",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Palestinian child killed in Israeli raid on West Bank as settlers rampage",
-          "url": "https://www.aljazeera.com/news/2025/10/24/palestinian-child-killed-in-israeli-raid-on-west-bank-as-settlers-rampage?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: UN calls on Israel to open Gaza’s Rafah, increase aid amid ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/24/live-un-calls-on-israel-to-open-gazas-rafah-increase-aid-amid-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes kill four in new Lebanon ceasefire breach",
-          "url": "https://www.aljazeera.com/news/2025/10/23/israeli-strikes-kill-four-in-new-lebanon-ceasefire-breach?traffic_source=rss"
-        },
-        {
-          "title": "Trump: “Israel’s not going to do anything with the West Bank”",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/23/trump-israels-not-going-to-do-anything-with-the-west?traffic_source=rss"
+          "title": "Canadian ad featuring Reagan on tariffs derails US trade talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/canadian-ad-featuring-reagan-on-tariffs-derails-us-trade-talks?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013325740318906626,
-      "chg5d": 0.04326923076923074,
-      "chg1m": -0.015164932477307998
+      "chg1d": 0.024560952583373312,
+      "chg5d": 0.01649682715601374,
+      "chg1m": 0.09448328299575477
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Canadian ad featuring Reagan on tariffs derails US trade talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/canadian-ad-featuring-reagan-on-tariffs-derails-us-trade-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006404043201329351,
+      "chg5d": -0.030382870864460905,
+      "chg1m": 0.03569520145345745
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Canadian ad featuring Reagan on tariffs derails US trade talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/canadian-ad-featuring-reagan-on-tariffs-derails-us-trade-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02439024390243905,
+      "chg5d": 0.007197729946709059,
+      "chg1m": 0.08160535117056848
     }
   ]
 }
