@@ -1,42 +1,11 @@
 {
-  "generated_at": "2025-10-25T18:15:57.675025Z",
+  "generated_at": "2025-10-25T21:10:31.289931Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.78,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
-          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Brentford vs Liverpool – English Premier League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2025/10/25/live-brentford-vs-liverpool-premier-league?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian father finds unexploded Israeli bomb under family’s Gaza tent",
-          "url": "https://www.aljazeera.com/news/2025/10/25/gaza-returnee-places-family-tent-over-unexploded-israeli-bomb?traffic_source=rss"
-        },
-        {
-          "title": "‘They killed his childhood’: West Bank family mourn child killed by Israel",
-          "url": "https://www.aljazeera.com/features/2025/10/25/they-killed-his-childhood-west-bank-family-mourn-child-killed-israel?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel wounds several in Gaza as settler attacks surge in West Bank",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/25/live-un-says-1-5m-in-gaza-need-aid-israel-blocks-borders-despite-ceasefir?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.78,
-      "confianca": 95,
+      "score": 2.81,
+      "confianca": 80,
       "razoes": [
         {
           "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
@@ -49,14 +18,6 @@
         {
           "title": "Palestinian father finds unexploded Israeli bomb under family’s Gaza tent",
           "url": "https://www.aljazeera.com/news/2025/10/25/gaza-returnee-places-family-tent-over-unexploded-israeli-bomb?traffic_source=rss"
-        },
-        {
-          "title": "‘They killed his childhood’: West Bank family mourn child killed by Israel",
-          "url": "https://www.aljazeera.com/features/2025/10/25/they-killed-his-childhood-west-bank-family-mourn-child-killed-israel?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel wounds several in Gaza as settler attacks surge in West Bank",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/25/live-un-says-1-5m-in-gaza-need-aid-israel-blocks-borders-despite-ceasefir?traffic_source=rss"
         }
       ],
       "chg1d": -0.010115769360458646,
@@ -64,53 +25,57 @@
       "chg1m": -0.03379045529347243
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.43,
-      "confianca": 69,
+      "score": 2.81,
+      "confianca": 80,
       "razoes": [
         {
           "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
           "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges?traffic_source=rss"
         },
         {
+          "title": "LIVE: Brentford vs Liverpool – English Premier League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2025/10/25/live-brentford-vs-liverpool-premier-league?traffic_source=rss"
+        },
+        {
           "title": "Palestinian father finds unexploded Israeli bomb under family’s Gaza tent",
           "url": "https://www.aljazeera.com/news/2025/10/25/gaza-returnee-places-family-tent-over-unexploded-israeli-bomb?traffic_source=rss"
-        },
-        {
-          "title": "‘They killed his childhood’: West Bank family mourn child killed by Israel",
-          "url": "https://www.aljazeera.com/features/2025/10/25/they-killed-his-childhood-west-bank-family-mourn-child-killed-israel?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel wounds several in Gaza as settler attacks surge in West Bank",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/25/live-un-says-1-5m-in-gaza-need-aid-israel-blocks-borders-despite-ceasefir?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005409281835877444,
-      "chg5d": -0.019670806826214183,
-      "chg1m": 0.002209191889994735
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 1.77,
+      "confianca": 50,
       "razoes": [
+        {
+          "title": "Trump announces additional 10-percent Canada tariff over Reagan ad brouhaha",
+          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
+        },
         {
           "title": "Mexico’s footwear industry could benefit from US tariffs. But it’s not",
           "url": "https://www.aljazeera.com/economy/2025/10/25/mexicos-footwear-industry-could-benefit-from-us-tariffs-but-its-not?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01454958208647185,
-      "chg5d": -0.0004066693777958674,
-      "chg1m": 0.06614617219692023
+      "chg1d": 0.016491445062873672,
+      "chg5d": 0.026685636950411207,
+      "chg1m": 0.10296749179838952
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 1.77,
+      "confianca": 50,
       "razoes": [
+        {
+          "title": "Trump announces additional 10-percent Canada tariff over Reagan ad brouhaha",
+          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
+        },
         {
           "title": "Mexico’s footwear industry could benefit from US tariffs. But it’s not",
           "url": "https://www.aljazeera.com/economy/2025/10/25/mexicos-footwear-industry-could-benefit-from-us-tariffs-but-its-not?traffic_source=rss"
@@ -121,19 +86,42 @@
       "chg1m": 0.08798904744352584
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 1.77,
+      "confianca": 50,
       "razoes": [
+        {
+          "title": "Trump announces additional 10-percent Canada tariff over Reagan ad brouhaha",
+          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
+        },
         {
           "title": "Mexico’s footwear industry could benefit from US tariffs. But it’s not",
           "url": "https://www.aljazeera.com/economy/2025/10/25/mexicos-footwear-industry-could-benefit-from-us-tariffs-but-its-not?traffic_source=rss"
         }
       ],
-      "chg1d": 0.016491445062873672,
-      "chg5d": 0.026685636950411207,
-      "chg1m": 0.10296749179838952
+      "chg1d": 0.01454958208647185,
+      "chg5d": -0.0004066693777958674,
+      "chg1m": 0.06614617219692023
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
+          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian father finds unexploded Israeli bomb under family’s Gaza tent",
+          "url": "https://www.aljazeera.com/news/2025/10/25/gaza-returnee-places-family-tent-over-unexploded-israeli-bomb?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005409281835877444,
+      "chg5d": -0.019670806826214183,
+      "chg1m": 0.002209191889994735
     }
   ]
 }
