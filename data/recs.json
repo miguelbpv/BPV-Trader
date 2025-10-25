@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-10-24T21:11:17.946146Z",
+  "generated_at": "2025-10-25T00:56:41.223156Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.64,
+      "score": 4.12,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +35,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.64,
+      "score": 4.12,
       "confianca": 95,
       "razoes": [
         {
@@ -64,41 +64,33 @@
       "chg1m": -0.03379045529347243
     },
     {
-      "symbol": "LMT",
+      "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 3.2,
-      "confianca": 91,
+      "score": 2.78,
+      "confianca": 79,
       "razoes": [
         {
-          "title": "Are US-Israeli relations experiencing upheaval under Trump?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/10/24/are-us-israeli-relations-experiencing-upheaval-under-trump?traffic_source=rss"
+          "title": "US sanctions Colombia’s President Gustavo Petro, escalating Trump feud",
+          "url": "https://www.aljazeera.com/news/2025/10/24/us-sanctions-colombias-president-gustavo-petro-escalating-trump-feud?traffic_source=rss"
         },
         {
-          "title": "Israeli drone strike targeting Hezbollah kills two in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/israeli-drone-strike-targeting-hezbollah-kills-two-in-lebanon?traffic_source=rss"
+          "title": "Russia’s top Indian oil buyer to comply with Western sanctions",
+          "url": "https://www.aljazeera.com/news/2025/10/24/russias-top-indian-oil-buyer-to-comply-with-western-sanctions?traffic_source=rss"
         },
         {
-          "title": "US rejects Hamas, UNRWA roles in Gaza as Israeli aid blockade persists",
-          "url": "https://www.aljazeera.com/news/2025/10/24/us-rejects-hamas-unrwa-roles-in-gaza-as-israeli-aid-blockade-persists?traffic_source=rss"
-        },
-        {
-          "title": "‘Occupation, expulsion and colonisation’: Israeli protesters block Gaza aid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/occupation-expulsion-and-colonisation-israeli-protesters-block-gaza-aid?traffic_source=rss"
-        },
-        {
-          "title": "Rubio: Gaza security force must include nations Israel ‘comfortable with’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/rubio-gaza-security-force-must-include-nations-israel-comfortable?traffic_source=rss"
+          "title": "‘Can’t control’ US tariffs: Canada ‘stands ready’ to resume trade talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/cant-control-us-tariffs-canada-stands-ready-to-resume-trade-talks?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005409281835877444,
-      "chg5d": -0.019670806826214183,
-      "chg1m": 0.002209191889994735
+      "chg1d": -0.0031937167723200014,
+      "chg5d": 0.0037210838749792835,
+      "chg1m": 0.08798904744352584
     },
     {
       "symbol": "SOXX",
       "acao": "comprar",
-      "score": 2.8,
-      "confianca": 80,
+      "score": 2.78,
+      "confianca": 79,
       "razoes": [
         {
           "title": "US sanctions Colombia’s President Gustavo Petro, escalating Trump feud",
@@ -120,8 +112,8 @@
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.8,
-      "confianca": 80,
+      "score": 2.78,
+      "confianca": 79,
       "razoes": [
         {
           "title": "US sanctions Colombia’s President Gustavo Petro, escalating Trump feud",
@@ -141,51 +133,9 @@
       "chg1m": 0.06614617219692023
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.8,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "US sanctions Colombia’s President Gustavo Petro, escalating Trump feud",
-          "url": "https://www.aljazeera.com/news/2025/10/24/us-sanctions-colombias-president-gustavo-petro-escalating-trump-feud?traffic_source=rss"
-        },
-        {
-          "title": "Russia’s top Indian oil buyer to comply with Western sanctions",
-          "url": "https://www.aljazeera.com/news/2025/10/24/russias-top-indian-oil-buyer-to-comply-with-western-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "‘Can’t control’ US tariffs: Canada ‘stands ready’ to resume trade talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/cant-control-us-tariffs-canada-stands-ready-to-resume-trade-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0031937167723200014,
-      "chg5d": 0.0037210838749792835,
-      "chg1m": 0.08798904744352584
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Trump foe Letitia James slams federal charges against her",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/trump-foe-letitia-james-slams-federal-charges-against-her?traffic_source=rss"
-        },
-        {
-          "title": "US consumer prices rise less than expected before Fed decision",
-          "url": "https://www.aljazeera.com/economy/2025/10/24/us-consumer-prices-rise-less-than-expected-before-fed-decision?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.012296079863647436,
-      "chg5d": 0.024814099667228102,
-      "chg1m": 0.04245894103389192
-    },
-    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -202,9 +152,47 @@
       "chg1m": 0.02919231061469499
     },
     {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Trump foe Letitia James slams federal charges against her",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/trump-foe-letitia-james-slams-federal-charges-against-her?traffic_source=rss"
+        },
+        {
+          "title": "US consumer prices rise less than expected before Fed decision",
+          "url": "https://www.aljazeera.com/economy/2025/10/24/us-consumer-prices-rise-less-than-expected-before-fed-decision?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Trump foe Letitia James slams federal charges against her",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/trump-foe-letitia-james-slams-federal-charges-against-her?traffic_source=rss"
+        },
+        {
+          "title": "US consumer prices rise less than expected before Fed decision",
+          "url": "https://www.aljazeera.com/economy/2025/10/24/us-consumer-prices-rise-less-than-expected-before-fed-decision?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012296079863647436,
+      "chg5d": 0.024814099667228102,
+      "chg1m": 0.04245894103389192
+    },
+    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -221,23 +209,27 @@
       "chg1m": 0.039711556281906646
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
-          "title": "Trump foe Letitia James slams federal charges against her",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/trump-foe-letitia-james-slams-federal-charges-against-her?traffic_source=rss"
+          "title": "Are US-Israeli relations experiencing upheaval under Trump?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/24/are-us-israeli-relations-experiencing-upheaval-under-trump?traffic_source=rss"
         },
         {
-          "title": "US consumer prices rise less than expected before Fed decision",
-          "url": "https://www.aljazeera.com/economy/2025/10/24/us-consumer-prices-rise-less-than-expected-before-fed-decision?traffic_source=rss"
+          "title": "Israeli drone strike targeting Hezbollah kills two in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/24/israeli-drone-strike-targeting-hezbollah-kills-two-in-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "US rejects Hamas, UNRWA roles in Gaza as Israeli aid blockade persists",
+          "url": "https://www.aljazeera.com/news/2025/10/24/us-rejects-hamas-unrwa-roles-in-gaza-as-israeli-aid-blockade-persists?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.005409281835877444,
+      "chg5d": -0.019670806826214183,
+      "chg1m": 0.002209191889994735
     }
   ]
 }
