@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-10-26T15:11:44.604346Z",
+  "generated_at": "2025-10-26T18:16:29.783165Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss"
+        },
+        {
+          "title": "Award-winning Palestinian author on Israeli prison, exile and homeland",
+          "url": "https://www.aljazeera.com/news/2025/10/26/award-winning-palestinian-author-on-israeli-prison-exile-and-homeland?traffic_source=rss"
+        },
+        {
+          "title": "Women in Gaza struggling to overcome damage inflicted by Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/10/26/women-in-gaza-struggling-to-overcome-damage-inflicted-by-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Microsoft “must cancel all contracts” with Israeli military",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/26/aje-onl-qt_zille_eizad-261025?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.96,
+      "score": 2.94,
       "confianca": 84,
       "razoes": [
         {
@@ -31,7 +58,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.96,
+      "score": 2.94,
       "confianca": 84,
       "razoes": [
         {
@@ -54,33 +81,6 @@
       "chg1d": -0.010115769360458646,
       "chg5d": 0.024307978599674217,
       "chg1m": -0.03379045529347243
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss"
-        },
-        {
-          "title": "Award-winning Palestinian author on Israeli prison, exile and homeland",
-          "url": "https://www.aljazeera.com/news/2025/10/26/award-winning-palestinian-author-on-israeli-prison-exile-and-homeland?traffic_source=rss"
-        },
-        {
-          "title": "Women in Gaza struggling to overcome damage inflicted by Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/10/26/women-in-gaza-struggling-to-overcome-damage-inflicted-by-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "Microsoft “must cancel all contracts” with Israeli military",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/26/aje-onl-qt_zille_eizad-261025?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
