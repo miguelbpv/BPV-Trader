@@ -1,12 +1,47 @@
 {
-  "generated_at": "2025-10-26T18:16:29.783165Z",
+  "generated_at": "2025-10-26T21:10:31.291469Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.66,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza Tribunal calls for ‘Israeli perpetrators and enablers’ to face justice",
+          "url": "https://www.aljazeera.com/news/2025/10/26/gaza-tribunal-calls-for-israeli-perpetrators-and-enablers-to-face-justice?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss"
+        },
+        {
+          "title": "Award-winning Palestinian author on Israeli prison, exile and homeland",
+          "url": "https://www.aljazeera.com/news/2025/10/26/award-winning-palestinian-author-on-israeli-prison-exile-and-homeland?traffic_source=rss"
+        },
+        {
+          "title": "Women in Gaza struggling to overcome damage inflicted by Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/10/26/women-in-gaza-struggling-to-overcome-damage-inflicted-by-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Microsoft “must cancel all contracts” with Israeli military",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/26/aje-onl-qt_zille_eizad-261025?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010115769360458646,
+      "chg5d": 0.024307978599674217,
+      "chg1m": -0.03379045529347243
+    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
+      "score": 3.66,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza Tribunal calls for ‘Israeli perpetrators and enablers’ to face justice",
+          "url": "https://www.aljazeera.com/news/2025/10/26/gaza-tribunal-calls-for-israeli-perpetrators-and-enablers-to-face-justice?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss"
@@ -31,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
+      "score": 3.66,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza Tribunal calls for ‘Israeli perpetrators and enablers’ to face justice",
+          "url": "https://www.aljazeera.com/news/2025/10/26/gaza-tribunal-calls-for-israeli-perpetrators-and-enablers-to-face-justice?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss"
@@ -54,33 +93,6 @@
       "chg1d": -0.005409281835877444,
       "chg5d": -0.019670806826214183,
       "chg1m": 0.002209191889994735
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss"
-        },
-        {
-          "title": "Award-winning Palestinian author on Israeli prison, exile and homeland",
-          "url": "https://www.aljazeera.com/news/2025/10/26/award-winning-palestinian-author-on-israeli-prison-exile-and-homeland?traffic_source=rss"
-        },
-        {
-          "title": "Women in Gaza struggling to overcome damage inflicted by Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/10/26/women-in-gaza-struggling-to-overcome-damage-inflicted-by-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "Microsoft “must cancel all contracts” with Israeli military",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/26/aje-onl-qt_zille_eizad-261025?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010115769360458646,
-      "chg5d": 0.024307978599674217,
-      "chg1m": -0.03379045529347243
     }
   ]
 }
