@@ -1,23 +1,54 @@
 {
-  "generated_at": "2025-10-26T09:11:29.901398Z",
+  "generated_at": "2025-10-26T12:22:03.991068Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.99,
+      "confianca": 85,
+      "razoes": [
+        {
+          "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss"
+        },
+        {
+          "title": "Award-winning Palestinian author on Israeli prison, exile and homeland",
+          "url": "https://www.aljazeera.com/news/2025/10/26/award-winning-palestinian-author-on-israeli-prison-exile-and-homeland?traffic_source=rss"
+        },
+        {
+          "title": "Women in Gaza struggling to overcome damage inflicted by Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/10/26/women-in-gaza-struggling-to-overcome-damage-inflicted-by-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Microsoft “must cancel all contracts” with Israeli military",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/26/aje-onl-qt_zille_eizad-261025?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005409281835877444,
+      "chg5d": -0.019670806826214183,
+      "chg1m": 0.002209191889994735
+    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.04,
-      "confianca": 86,
+      "score": 2.99,
+      "confianca": 85,
       "razoes": [
         {
-          "title": "LIVE: Israeli attacks across Gaza threaten ceasefire, one Palestinian dead",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead"
+          "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss"
         },
         {
-          "title": "Liverpool defeated by Brentford, record fourth straight Premier League loss",
-          "url": "https://www.aljazeera.com/sports/2025/10/25/brentford-condemn-liverpool-to-fourth-straight-premier-league-loss"
+          "title": "Award-winning Palestinian author on Israeli prison, exile and homeland",
+          "url": "https://www.aljazeera.com/news/2025/10/26/award-winning-palestinian-author-on-israeli-prison-exile-and-homeland?traffic_source=rss"
         },
         {
-          "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
-          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges"
+          "title": "Women in Gaza struggling to overcome damage inflicted by Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/10/26/women-in-gaza-struggling-to-overcome-damage-inflicted-by-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Microsoft “must cancel all contracts” with Israeli military",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/26/aje-onl-qt_zille_eizad-261025?traffic_source=rss"
         }
       ],
       "chg1d": -0.010115769360458646,
@@ -27,89 +58,29 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.04,
-      "confianca": 86,
+      "score": 2.99,
+      "confianca": 85,
       "razoes": [
         {
-          "title": "LIVE: Israeli attacks across Gaza threaten ceasefire, one Palestinian dead",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead"
+          "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss"
         },
         {
-          "title": "Liverpool defeated by Brentford, record fourth straight Premier League loss",
-          "url": "https://www.aljazeera.com/sports/2025/10/25/brentford-condemn-liverpool-to-fourth-straight-premier-league-loss"
+          "title": "Award-winning Palestinian author on Israeli prison, exile and homeland",
+          "url": "https://www.aljazeera.com/news/2025/10/26/award-winning-palestinian-author-on-israeli-prison-exile-and-homeland?traffic_source=rss"
         },
         {
-          "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
-          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges"
+          "title": "Women in Gaza struggling to overcome damage inflicted by Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/10/26/women-in-gaza-struggling-to-overcome-damage-inflicted-by-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Microsoft “must cancel all contracts” with Israeli military",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/26/aje-onl-qt_zille_eizad-261025?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "LIVE: Israeli attacks across Gaza threaten ceasefire, one Palestinian dead",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead"
-        },
-        {
-          "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
-          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges"
-        }
-      ],
-      "chg1d": -0.005409281835877444,
-      "chg5d": -0.019670806826214183,
-      "chg1m": 0.002209191889994735
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Trump to increase tariffs on Canada by 10 percent over Reagan ad",
-          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha"
-        }
-      ],
-      "chg1d": 0.016491445062873672,
-      "chg5d": 0.026685636950411207,
-      "chg1m": 0.10296749179838952
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Trump to increase tariffs on Canada by 10 percent over Reagan ad",
-          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha"
-        }
-      ],
-      "chg1d": -0.0031937167723200014,
-      "chg5d": 0.0037210838749792835,
-      "chg1m": 0.08798904744352584
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Trump to increase tariffs on Canada by 10 percent over Reagan ad",
-          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha"
-        }
-      ],
-      "chg1d": 0.01454958208647185,
-      "chg5d": -0.0004066693777958674,
-      "chg1m": 0.06614617219692023
     }
   ]
 }
