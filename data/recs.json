@@ -1,54 +1,23 @@
 {
-  "generated_at": "2025-10-26T06:17:29.577429Z",
+  "generated_at": "2025-10-26T09:11:29.901398Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.38,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israeli attacks across Gaza threaten ceasefire, one Palestinian dead",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead?traffic_source=rss"
-        },
-        {
-          "title": "Liverpool defeated by Brentford, record fourth straight Premier League loss",
-          "url": "https://www.aljazeera.com/sports/2025/10/25/brentford-condemn-liverpool-to-fourth-straight-premier-league-loss?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
-          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges?traffic_source=rss"
-        },
-        {
-          "title": "Brentford vs Liverpool 3-2: Premier League – as it happened",
-          "url": "https://www.aljazeera.com/sports/liveblog/2025/10/25/live-brentford-vs-liverpool-premier-league?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.38,
-      "confianca": 95,
+      "score": 3.04,
+      "confianca": 86,
       "razoes": [
         {
           "title": "LIVE: Israeli attacks across Gaza threaten ceasefire, one Palestinian dead",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead"
         },
         {
           "title": "Liverpool defeated by Brentford, record fourth straight Premier League loss",
-          "url": "https://www.aljazeera.com/sports/2025/10/25/brentford-condemn-liverpool-to-fourth-straight-premier-league-loss?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2025/10/25/brentford-condemn-liverpool-to-fourth-straight-premier-league-loss"
         },
         {
           "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
-          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges?traffic_source=rss"
-        },
-        {
-          "title": "Brentford vs Liverpool 3-2: Premier League – as it happened",
-          "url": "https://www.aljazeera.com/sports/liveblog/2025/10/25/live-brentford-vs-liverpool-premier-league?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges"
         }
       ],
       "chg1d": -0.010115769360458646,
@@ -56,18 +25,41 @@
       "chg1m": -0.03379045529347243
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.04,
+      "confianca": 86,
       "razoes": [
         {
           "title": "LIVE: Israeli attacks across Gaza threaten ceasefire, one Palestinian dead",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead"
+        },
+        {
+          "title": "Liverpool defeated by Brentford, record fourth straight Premier League loss",
+          "url": "https://www.aljazeera.com/sports/2025/10/25/brentford-condemn-liverpool-to-fourth-straight-premier-league-loss"
         },
         {
           "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
-          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "LIVE: Israeli attacks across Gaza threaten ceasefire, one Palestinian dead",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/26/live-israeli-attacks-across-gaza-threaten-ceasefire-one-palestinian-dead"
+        },
+        {
+          "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
+          "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges"
         }
       ],
       "chg1d": -0.005409281835877444,
@@ -77,12 +69,12 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Trump to increase tariffs on Canada by 10 percent over Reagan ad",
-          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha"
         }
       ],
       "chg1d": 0.016491445062873672,
@@ -90,34 +82,34 @@
       "chg1m": 0.10296749179838952
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump to increase tariffs on Canada by 10 percent over Reagan ad",
-          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01454958208647185,
-      "chg5d": -0.0004066693777958674,
-      "chg1m": 0.06614617219692023
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Trump to increase tariffs on Canada by 10 percent over Reagan ad",
-          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha"
         }
       ],
       "chg1d": -0.0031937167723200014,
       "chg5d": 0.0037210838749792835,
       "chg1m": 0.08798904744352584
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Trump to increase tariffs on Canada by 10 percent over Reagan ad",
+          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha"
+        }
+      ],
+      "chg1d": 0.01454958208647185,
+      "chg5d": -0.0004066693777958674,
+      "chg1m": 0.06614617219692023
     }
   ]
 }
