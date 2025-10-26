@@ -1,18 +1,22 @@
 {
-  "generated_at": "2025-10-25T21:10:31.289931Z",
+  "generated_at": "2025-10-26T01:01:52.403256Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
+      "score": 4.38,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Liverpool defeated by Brentford, record fourth straight Premier League loss",
+          "url": "https://www.aljazeera.com/sports/2025/10/25/brentford-condemn-liverpool-to-fourth-straight-premier-league-loss?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
           "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges?traffic_source=rss"
         },
         {
-          "title": "LIVE: Brentford vs Liverpool – English Premier League",
+          "title": "Brentford vs Liverpool 3-2: Premier League – as it happened",
           "url": "https://www.aljazeera.com/sports/liveblog/2025/10/25/live-brentford-vs-liverpool-premier-league?traffic_source=rss"
         },
         {
@@ -27,15 +31,19 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
+      "score": 4.38,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Liverpool defeated by Brentford, record fourth straight Premier League loss",
+          "url": "https://www.aljazeera.com/sports/2025/10/25/brentford-condemn-liverpool-to-fourth-straight-premier-league-loss?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
           "url": "https://www.aljazeera.com/news/2025/10/25/israeli-settlers-attack-more-palestinians-as-olive-harvest-violence-surges?traffic_source=rss"
         },
         {
-          "title": "LIVE: Brentford vs Liverpool – English Premier League",
+          "title": "Brentford vs Liverpool 3-2: Premier League – as it happened",
           "url": "https://www.aljazeera.com/sports/liveblog/2025/10/25/live-brentford-vs-liverpool-premier-league?traffic_source=rss"
         },
         {
@@ -48,51 +56,13 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.77,
-      "confianca": 50,
-      "razoes": [
-        {
-          "title": "Trump announces additional 10-percent Canada tariff over Reagan ad brouhaha",
-          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
-        },
-        {
-          "title": "Mexico’s footwear industry could benefit from US tariffs. But it’s not",
-          "url": "https://www.aljazeera.com/economy/2025/10/25/mexicos-footwear-industry-could-benefit-from-us-tariffs-but-its-not?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.016491445062873672,
-      "chg5d": 0.026685636950411207,
-      "chg1m": 0.10296749179838952
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.77,
-      "confianca": 50,
-      "razoes": [
-        {
-          "title": "Trump announces additional 10-percent Canada tariff over Reagan ad brouhaha",
-          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
-        },
-        {
-          "title": "Mexico’s footwear industry could benefit from US tariffs. But it’s not",
-          "url": "https://www.aljazeera.com/economy/2025/10/25/mexicos-footwear-industry-could-benefit-from-us-tariffs-but-its-not?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0031937167723200014,
-      "chg5d": 0.0037210838749792835,
-      "chg1m": 0.08798904744352584
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.77,
+      "score": 1.76,
       "confianca": 50,
       "razoes": [
         {
-          "title": "Trump announces additional 10-percent Canada tariff over Reagan ad brouhaha",
+          "title": "Trump announces additional 10 percent Canada tariff over Reagan ad brouhaha",
           "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
         },
         {
@@ -105,10 +75,48 @@
       "chg1m": 0.06614617219692023
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.76,
+      "confianca": 50,
+      "razoes": [
+        {
+          "title": "Trump announces additional 10 percent Canada tariff over Reagan ad brouhaha",
+          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
+        },
+        {
+          "title": "Mexico’s footwear industry could benefit from US tariffs. But it’s not",
+          "url": "https://www.aljazeera.com/economy/2025/10/25/mexicos-footwear-industry-could-benefit-from-us-tariffs-but-its-not?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0031937167723200014,
+      "chg5d": 0.0037210838749792835,
+      "chg1m": 0.08798904744352584
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.76,
+      "confianca": 50,
+      "razoes": [
+        {
+          "title": "Trump announces additional 10 percent Canada tariff over Reagan ad brouhaha",
+          "url": "https://www.aljazeera.com/news/2025/10/25/trump-announces-additional-10-percent-canada-tariff-over-reagan-ad-brouhaha?traffic_source=rss"
+        },
+        {
+          "title": "Mexico’s footwear industry could benefit from US tariffs. But it’s not",
+          "url": "https://www.aljazeera.com/economy/2025/10/25/mexicos-footwear-industry-could-benefit-from-us-tariffs-but-its-not?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016491445062873672,
+      "chg5d": 0.026685636950411207,
+      "chg1m": 0.10296749179838952
+    },
+    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.45,
+      "confianca": 41,
       "razoes": [
         {
           "title": "Israeli settlers attack more Palestinians as olive harvest violence surges",
