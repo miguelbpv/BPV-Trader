@@ -1,58 +1,16 @@
 {
-  "generated_at": "2025-10-27T18:19:03.731466Z",
+  "generated_at": "2025-10-27T21:11:23.857127Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Despite ceasefires, Israel continues attacks around the region",
-          "url": "https://www.aljazeera.com/news/2025/10/27/despite-ceasefires-israel-continues-attacks-around-the-region?traffic_source=rss"
-        },
-        {
-          "title": "Unexploded Israeli bombs threaten lives in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/unexploded-israeli-bombs-threaten-lives-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "UK journalist Sami Hamdi detained in US after pro-Israel pressure",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/uk-journalist-sami-hamdi-detained-in-us-after-pro-israel-pressure?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0006245032360621393,
-      "chg5d": 0.012947404764644954,
-      "chg1m": -0.0432112186107185
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Despite ceasefires, Israel continues attacks around the region",
-          "url": "https://www.aljazeera.com/news/2025/10/27/despite-ceasefires-israel-continues-attacks-around-the-region?traffic_source=rss"
-        },
-        {
-          "title": "Unexploded Israeli bombs threaten lives in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/unexploded-israeli-bombs-threaten-lives-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "UK journalist Sami Hamdi detained in US after pro-Israel pressure",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/uk-journalist-sami-hamdi-detained-in-us-after-pro-israel-pressure?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0012463690488452263,
-      "chg5d": -0.03930618699347695,
-      "chg1m": -0.002923436730674568
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Israel gives Egypt green light to dig for captives’ remains in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/israel-gives-egypt-green-light-to-dig-for-captives-remains-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Despite ceasefires, Israel continues attacks around the region",
           "url": "https://www.aljazeera.com/news/2025/10/27/despite-ceasefires-israel-continues-attacks-around-the-region?traffic_source=rss"
@@ -69,6 +27,60 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Israel gives Egypt green light to dig for captives’ remains in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/israel-gives-egypt-green-light-to-dig-for-captives-remains-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Despite ceasefires, Israel continues attacks around the region",
+          "url": "https://www.aljazeera.com/news/2025/10/27/despite-ceasefires-israel-continues-attacks-around-the-region?traffic_source=rss"
+        },
+        {
+          "title": "Unexploded Israeli bombs threaten lives in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/unexploded-israeli-bombs-threaten-lives-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "UK journalist Sami Hamdi detained in US after pro-Israel pressure",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/uk-journalist-sami-hamdi-detained-in-us-after-pro-israel-pressure?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0030901711954842296,
+      "chg5d": -0.03753706266060477,
+      "chg1m": -0.0010873133103560903
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Israel gives Egypt green light to dig for captives’ remains in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/israel-gives-egypt-green-light-to-dig-for-captives-remains-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Despite ceasefires, Israel continues attacks around the region",
+          "url": "https://www.aljazeera.com/news/2025/10/27/despite-ceasefires-israel-continues-attacks-around-the-region?traffic_source=rss"
+        },
+        {
+          "title": "Unexploded Israeli bombs threaten lives in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/unexploded-israeli-bombs-threaten-lives-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "UK journalist Sami Hamdi detained in US after pro-Israel pressure",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/27/uk-journalist-sami-hamdi-detained-in-us-after-pro-israel-pressure?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002384466901328579,
+      "chg5d": 0.01599723788698355,
+      "chg1m": -0.04033047070333726
     }
   ]
 }
