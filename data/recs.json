@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-28T03:37:15.918021Z",
+  "generated_at": "2025-10-28T06:20:06.102232Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
+      "score": 3.18,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "LIVE: Israeli attack kills 2 in Gaza as Hamas returns body of captive",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/28/live-israeli-attack-kills-2-in-gaza-as-hamas-returns-body-of-captive?traffic_source=rss"
+        },
         {
           "title": "Hamas hands over remains of captive as Israeli drone strike kills two",
           "url": "https://www.aljazeera.com/news/2025/10/27/hamas-hands-over-remains-of-captive-as-israeli-drone-strike-kills-two?traffic_source=rss"
@@ -31,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
+      "score": 3.18,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "LIVE: Israeli attack kills 2 in Gaza as Hamas returns body of captive",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/28/live-israeli-attack-kills-2-in-gaza-as-hamas-returns-body-of-captive?traffic_source=rss"
+        },
         {
           "title": "Hamas hands over remains of captive as Israeli drone strike kills two",
           "url": "https://www.aljazeera.com/news/2025/10/27/hamas-hands-over-remains-of-captive-as-israeli-drone-strike-kills-two?traffic_source=rss"
@@ -58,9 +66,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
+      "score": 3.18,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "LIVE: Israeli attack kills 2 in Gaza as Hamas returns body of captive",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/28/live-israeli-attack-kills-2-in-gaza-as-hamas-returns-body-of-captive?traffic_source=rss"
+        },
         {
           "title": "Hamas hands over remains of captive as Israeli drone strike kills two",
           "url": "https://www.aljazeera.com/news/2025/10/27/hamas-hands-over-remains-of-captive-as-israeli-drone-strike-kills-two?traffic_source=rss"
@@ -81,6 +93,51 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China, ASEAN sign enhanced free trade pact amid Trump tariffs",
+          "url": "https://www.aljazeera.com/news/2025/10/28/china-asean-sign-enhanced-free-trade-pact-as-trumps-tariffs-linger?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.027783411072804604,
+      "chg5d": 0.03792197153292131,
+      "chg1m": 0.13112375850909497
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China, ASEAN sign enhanced free trade pact amid Trump tariffs",
+          "url": "https://www.aljazeera.com/news/2025/10/28/china-asean-sign-enhanced-free-trade-pact-as-trumps-tariffs-linger?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02601877843384001,
+      "chg5d": 0.017108861488269372,
+      "chg1m": 0.11398604338321847
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China, ASEAN sign enhanced free trade pact amid Trump tariffs",
+          "url": "https://www.aljazeera.com/news/2025/10/28/china-asean-sign-enhanced-free-trade-pact-as-trumps-tariffs-linger?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011154054787089845,
+      "chg5d": 0.001847497480685292,
+      "chg1m": 0.0910520924787825
     }
   ]
 }
