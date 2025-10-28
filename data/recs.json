@@ -1,19 +1,62 @@
 {
-  "generated_at": "2025-10-28T15:14:27.004276Z",
+  "generated_at": "2025-10-28T18:19:48.324229Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.08,
-      "confianca": 59,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.82,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
+          "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian grandparents care for 36 children orphaned by Israel in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/28/palestinian-grandparents-care-for-36-children-orphaned-by-israel-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel orders new Gaza strikes after claiming Hamas breach over captives",
+          "url": "https://www.aljazeera.com/news/2025/10/28/israel-says-return-of-misidentified-body-breaches-gaza-deal-mulls-response?traffic_source=rss"
+        },
         {
           "title": "Ukraine calls for increased pressure on Russian oil",
           "url": "https://www.aljazeera.com/news/2025/10/28/ukraine-calls-for-increased-pressure-on-russian-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006909832351608512,
+      "chg5d": 0.011304648748413935,
+      "chg1m": -0.02912513842746396
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.82,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
         },
         {
-          "title": "The rise of global boycotts against Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/28/the-rise-of-global-boycotts-against-israels-genocide-in-gaza?traffic_source=rss"
+          "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
+          "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian grandparents care for 36 children orphaned by Israel in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/28/palestinian-grandparents-care-for-36-children-orphaned-by-israel-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel orders new Gaza strikes after claiming Hamas breach over captives",
+          "url": "https://www.aljazeera.com/news/2025/10/28/israel-says-return-of-misidentified-body-breaches-gaza-deal-mulls-response?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine calls for increased pressure on Russian oil",
+          "url": "https://www.aljazeera.com/news/2025/10/28/ukraine-calls-for-increased-pressure-on-russian-oil?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -21,38 +64,31 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.08,
-      "confianca": 59,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.48,
+      "confianca": 70,
       "razoes": [
         {
-          "title": "Ukraine calls for increased pressure on Russian oil",
-          "url": "https://www.aljazeera.com/news/2025/10/28/ukraine-calls-for-increased-pressure-on-russian-oil?traffic_source=rss"
+          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
         },
         {
-          "title": "The rise of global boycotts against Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/28/the-rise-of-global-boycotts-against-israels-genocide-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0054372451291346165,
-      "chg5d": 0.012804245010958582,
-      "chg1m": -0.027685492801771874
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
+          "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
+          "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss"
+        },
         {
-          "title": "The rise of global boycotts against Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/28/the-rise-of-global-boycotts-against-israels-genocide-in-gaza?traffic_source=rss"
+          "title": "Palestinian grandparents care for 36 children orphaned by Israel in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/28/palestinian-grandparents-care-for-36-children-orphaned-by-israel-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel orders new Gaza strikes after claiming Hamas breach over captives",
+          "url": "https://www.aljazeera.com/news/2025/10/28/israel-says-return-of-misidentified-body-breaches-gaza-deal-mulls-response?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004282105522581133,
-      "chg5d": -0.0010316649642492246,
-      "chg1m": -0.0060673198097483914
+      "chg1d": 0.0007393563492225602,
+      "chg5d": -0.00455566905005111,
+      "chg1m": -0.00957355990080905
     }
   ]
 }
