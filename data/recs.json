@@ -1,19 +1,19 @@
 {
-  "generated_at": "2025-10-28T12:25:15.758625Z",
+  "generated_at": "2025-10-28T15:14:27.004276Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "score": 2.08,
+      "confianca": 59,
       "razoes": [
+        {
+          "title": "Ukraine calls for increased pressure on Russian oil",
+          "url": "https://www.aljazeera.com/news/2025/10/28/ukraine-calls-for-increased-pressure-on-russian-oil?traffic_source=rss"
+        },
         {
           "title": "The rise of global boycotts against Israel’s genocide in Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/28/the-rise-of-global-boycotts-against-israels-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel accuses Hamas of ‘violation’ over return of captive remains",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/28/live-israeli-attack-kills-2-in-gaza-as-hamas-returns-body-of-captive?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -23,85 +23,36 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "score": 2.08,
+      "confianca": 59,
       "razoes": [
+        {
+          "title": "Ukraine calls for increased pressure on Russian oil",
+          "url": "https://www.aljazeera.com/news/2025/10/28/ukraine-calls-for-increased-pressure-on-russian-oil?traffic_source=rss"
+        },
         {
           "title": "The rise of global boycotts against Israel’s genocide in Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/28/the-rise-of-global-boycotts-against-israels-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel accuses Hamas of ‘violation’ over return of captive remains",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/28/live-israeli-attack-kills-2-in-gaza-as-hamas-returns-body-of-captive?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002384466901328579,
-      "chg5d": 0.01599723788698355,
-      "chg1m": -0.04033047070333726
+      "chg1d": -0.0054372451291346165,
+      "chg5d": 0.012804245010958582,
+      "chg1m": -0.027685492801771874
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "The rise of global boycotts against Israel’s genocide in Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/28/the-rise-of-global-boycotts-against-israels-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel accuses Hamas of ‘violation’ over return of captive remains",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/28/live-israeli-attack-kills-2-in-gaza-as-hamas-returns-body-of-captive?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0030901711954842296,
-      "chg5d": -0.03753706266060477,
-      "chg1m": -0.0010873133103560903
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China, ASEAN sign enhanced free trade pact amid Trump tariffs",
-          "url": "https://www.aljazeera.com/news/2025/10/28/china-asean-sign-enhanced-free-trade-pact-as-trumps-tariffs-linger?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.027783411072804604,
-      "chg5d": 0.03792197153292131,
-      "chg1m": 0.13112375850909497
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China, ASEAN sign enhanced free trade pact amid Trump tariffs",
-          "url": "https://www.aljazeera.com/news/2025/10/28/china-asean-sign-enhanced-free-trade-pact-as-trumps-tariffs-linger?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011154054787089845,
-      "chg5d": 0.001847497480685292,
-      "chg1m": 0.0910520924787825
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China, ASEAN sign enhanced free trade pact amid Trump tariffs",
-          "url": "https://www.aljazeera.com/news/2025/10/28/china-asean-sign-enhanced-free-trade-pact-as-trumps-tariffs-linger?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02601877843384001,
-      "chg5d": 0.017108861488269372,
-      "chg1m": 0.11398604338321847
+      "chg1d": 0.004282105522581133,
+      "chg5d": -0.0010316649642492246,
+      "chg1m": -0.0060673198097483914
     }
   ]
 }
