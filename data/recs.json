@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-10-28T18:19:48.324229Z",
+  "generated_at": "2025-10-28T21:11:58.397960Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.82,
+      "score": 3.95,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Nvidia will build AI supercomputers for US Department of Energy",
+          "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
+        },
         {
           "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
@@ -18,26 +26,22 @@
         {
           "title": "Palestinian grandparents care for 36 children orphaned by Israel in Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/28/palestinian-grandparents-care-for-36-children-orphaned-by-israel-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel orders new Gaza strikes after claiming Hamas breach over captives",
-          "url": "https://www.aljazeera.com/news/2025/10/28/israel-says-return-of-misidentified-body-breaches-gaza-deal-mulls-response?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine calls for increased pressure on Russian oil",
-          "url": "https://www.aljazeera.com/news/2025/10/28/ukraine-calls-for-increased-pressure-on-russian-oil?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006909832351608512,
-      "chg5d": 0.011304648748413935,
-      "chg1m": -0.02912513842746396
+      "chg1d": -0.00234129510587181,
+      "chg5d": -0.00762002042900923,
+      "chg1m": -0.012622464327818278
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.82,
-      "confianca": 95,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
@@ -51,12 +55,8 @@
           "url": "https://www.aljazeera.com/news/2025/10/28/palestinian-grandparents-care-for-36-children-orphaned-by-israel-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Israel orders new Gaza strikes after claiming Hamas breach over captives",
+          "title": "Israel kills 9 in new Gaza attacks after claiming Hamas breached truce",
           "url": "https://www.aljazeera.com/news/2025/10/28/israel-says-return-of-misidentified-body-breaches-gaza-deal-mulls-response?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine calls for increased pressure on Russian oil",
-          "url": "https://www.aljazeera.com/news/2025/10/28/ukraine-calls-for-increased-pressure-on-russian-oil?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.48,
-      "confianca": 70,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
@@ -82,13 +86,58 @@
           "url": "https://www.aljazeera.com/news/2025/10/28/palestinian-grandparents-care-for-36-children-orphaned-by-israel-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Israel orders new Gaza strikes after claiming Hamas breach over captives",
+          "title": "Israel kills 9 in new Gaza attacks after claiming Hamas breached truce",
           "url": "https://www.aljazeera.com/news/2025/10/28/israel-says-return-of-misidentified-body-breaches-gaza-deal-mulls-response?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0007393563492225602,
-      "chg5d": -0.00455566905005111,
-      "chg1m": -0.00957355990080905
+      "chg1d": -0.01042138649750795,
+      "chg5d": 0.007728688430038087,
+      "chg1m": -0.0325581395348837
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Nvidia will build AI supercomputers for US Department of Energy",
+          "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01099748533109798,
+      "chg5d": 0.023836202505857124,
+      "chg1m": 0.10357574204882317
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Nvidia will build AI supercomputers for US Department of Energy",
+          "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007075605200098115,
+      "chg5d": 0.026789721176172208,
+      "chg1m": 0.09336075877042624
+    },
+    {
+      "symbol": "NVDA",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Nvidia will build AI supercomputers for US Department of Energy",
+          "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.049819833933886844,
+      "chg5d": 0.10968204901744318,
+      "chg1m": 0.10547154248006603
     }
   ]
 }
