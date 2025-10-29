@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-29T03:43:40.375990Z",
+  "generated_at": "2025-10-29T06:20:22.917022Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills 63 in Gaza; Trump insists nothing will jeopardise truce",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss"
+        },
         {
           "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss"
@@ -18,10 +22,6 @@
         {
           "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
-          "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss"
         }
       ],
       "chg1d": -0.00234129510587181,
@@ -29,34 +29,15 @@
       "chg1m": -0.012622464327818278
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
-          "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills 63 in Gaza; Trump insists nothing will jeopardise truce",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss"
+        },
         {
           "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss"
@@ -64,10 +45,6 @@
         {
           "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
-          "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss"
         }
       ],
       "chg1d": -0.01042138649750795,
@@ -75,7 +52,30 @@
       "chg1m": -0.0325581395348837
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "LIVE: Israel kills 63 in Gaza; Trump insists nothing will jeopardise truce",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss"
+        },
+        {
+          "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "NVDA",
       "acao": "observar",
       "score": 0.73,
       "confianca": 20,
@@ -85,9 +85,9 @@
           "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007075605200098115,
-      "chg5d": 0.026789721176172208,
-      "chg1m": 0.09336075877042624
+      "chg1d": 0.049819833933886844,
+      "chg5d": 0.10968204901744318,
+      "chg1m": 0.10547154248006603
     },
     {
       "symbol": "TSM",
@@ -105,7 +105,7 @@
       "chg1m": 0.10357574204882317
     },
     {
-      "symbol": "NVDA",
+      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.73,
       "confianca": 20,
@@ -115,9 +115,9 @@
           "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
         }
       ],
-      "chg1d": 0.049819833933886844,
-      "chg5d": 0.10968204901744318,
-      "chg1m": 0.10547154248006603
+      "chg1d": -0.007075605200098115,
+      "chg5d": 0.026789721176172208,
+      "chg1m": 0.09336075877042624
     }
   ]
 }
