@@ -1,62 +1,86 @@
 {
-  "generated_at": "2025-10-29T12:26:38.650660Z",
+  "generated_at": "2025-10-29T15:14:44.803379Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israel kills over 100 Palestinians in Gaza as Trump insists truce holds",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Funerals across Gaza as Israeli ceasefire violation kills 104 people",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01042138649750795,
-      "chg5d": 0.007728688430038087,
-      "chg1m": -0.0325581395348837
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israel kills over 100 Palestinians in Gaza as Trump insists truce holds",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Funerals across Gaza as Israeli ceasefire violation kills 104 people",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00234129510587181,
-      "chg5d": -0.00762002042900923,
-      "chg1m": -0.012622464327818278
-    },
-    {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
+          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
+        },
+        {
+          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
+          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
+        },
         {
           "title": "Israel kills over 100 Palestinians in Gaza as Trump insists truce holds",
           "url": "https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Funerals across Gaza as Israeli ceasefire violation kills 104 people",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
+          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
+        },
+        {
+          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
+          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills over 100 Palestinians in Gaza as Trump insists truce holds",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0014513041151161745,
+      "chg5d": -0.004259555774520648,
+      "chg1m": -0.028334768934917133
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
+          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
+        },
+        {
+          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
+          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills over 100 Palestinians in Gaza as Trump insists truce holds",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009455128205128293,
+      "chg5d": 0.004396355353075284,
+      "chg1m": -0.012916946496530069
     }
   ]
 }
