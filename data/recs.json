@@ -1,10 +1,68 @@
 {
-  "generated_at": "2025-10-29T15:14:44.803379Z",
+  "generated_at": "2025-10-29T18:19:37.070601Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.19,
+      "confianca": 91,
+      "razoes": [
+        {
+          "title": "Chipmaker Nvidia hits $5 trillion valuation",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
+          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
+        },
+        {
+          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
+          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills over 100 Palestinians in Gaza as Trump insists truce holds",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00133808180826324,
+      "chg5d": -0.001478014533809522,
+      "chg1m": -0.025620480358967097
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.45,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
+          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
+        },
+        {
+          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
+          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills over 100 Palestinians in Gaza as Trump insists truce holds",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.010130494505494565,
+      "chg5d": 0.005068337129840631,
+      "chg1m": -0.012256548018804554
+    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.47,
+      "score": 2.45,
       "confianca": 70,
       "razoes": [
         {
@@ -29,58 +87,49 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
-          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
-          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills over 100 Palestinians in Gaza as Trump insists truce holds",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss"
+          "title": "Chipmaker Nvidia hits $5 trillion valuation",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0014513041151161745,
-      "chg5d": -0.004259555774520648,
-      "chg1m": -0.028334768934917133
+      "chg1d": 0.020152401945880243,
+      "chg5d": 0.06141473854868446,
+      "chg1m": 0.10908076728403353
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "symbol": "NVDA",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
-          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
-          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills over 100 Palestinians in Gaza as Trump insists truce holds",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israel-kills-over-100-palestinians-in-gaza-as-trump-insists-truce-holds?traffic_source=rss"
+          "title": "Chipmaker Nvidia hits $5 trillion valuation",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009455128205128293,
-      "chg5d": 0.004396355353075284,
-      "chg1m": -0.012916946496530069
+      "chg1d": 0.030244242152912562,
+      "chg5d": 0.14882405147548264,
+      "chg1m": 0.11003322971379569
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Chipmaker Nvidia hits $5 trillion valuation",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012801379630550903,
+      "chg5d": 0.057151758515646606,
+      "chg1m": 0.09345125138744662
     }
   ]
 }
