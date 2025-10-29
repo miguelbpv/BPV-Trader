@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T01:01:38.262019Z",
+  "generated_at": "2025-10-29T03:43:40.375990Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.17,
-      "confianca": 90,
+      "score": 2.42,
+      "confianca": 69,
       "razoes": [
         {
           "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
@@ -22,10 +22,6 @@
         {
           "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
           "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian grandparents care for 36 children orphaned by Israel in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/28/palestinian-grandparents-care-for-36-children-orphaned-by-israel-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": -0.00234129510587181,
@@ -34,9 +30,9 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.43,
-      "confianca": 69,
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
         {
           "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
@@ -49,10 +45,6 @@
         {
           "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
           "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian grandparents care for 36 children orphaned by Israel in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/28/palestinian-grandparents-care-for-36-children-orphaned-by-israel-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -61,9 +53,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.43,
-      "confianca": 69,
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
         {
           "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
@@ -76,10 +68,6 @@
         {
           "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
           "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian grandparents care for 36 children orphaned by Israel in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/28/palestinian-grandparents-care-for-36-children-orphaned-by-israel-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": -0.01042138649750795,
@@ -87,25 +75,25 @@
       "chg1m": -0.0325581395348837
     },
     {
-      "symbol": "NVDA",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Nvidia will build AI supercomputers for US Department of Energy",
           "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
         }
       ],
-      "chg1d": 0.049819833933886844,
-      "chg5d": 0.10968204901744318,
-      "chg1m": 0.10547154248006603
+      "chg1d": -0.007075605200098115,
+      "chg5d": 0.026789721176172208,
+      "chg1m": 0.09336075877042624
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Nvidia will build AI supercomputers for US Department of Energy",
@@ -117,19 +105,19 @@
       "chg1m": 0.10357574204882317
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Nvidia will build AI supercomputers for US Department of Energy",
           "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007075605200098115,
-      "chg5d": 0.026789721176172208,
-      "chg1m": 0.09336075877042624
+      "chg1d": 0.049819833933886844,
+      "chg5d": 0.10968204901744318,
+      "chg1m": 0.10547154248006603
     }
   ]
 }
