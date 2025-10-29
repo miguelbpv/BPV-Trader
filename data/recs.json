@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-10-29T06:20:22.917022Z",
+  "generated_at": "2025-10-29T09:13:40.603091Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.68,
-      "confianca": 76,
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "LIVE: Israel kills 63 in Gaza; Trump insists nothing will jeopardise truce",
+          "title": "LIVE: Israel kills 91 in Gaza; Trump insists nothing will jeopardise truce",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss"
         },
         {
@@ -18,10 +18,6 @@
         {
           "title": "Nvidia will build AI supercomputers for US Department of Energy",
           "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
-        },
-        {
-          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
         }
       ],
       "chg1d": -0.00234129510587181,
@@ -31,20 +27,16 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "score": 1.21,
+      "confianca": 34,
       "razoes": [
         {
-          "title": "LIVE: Israel kills 63 in Gaza; Trump insists nothing will jeopardise truce",
+          "title": "LIVE: Israel kills 91 in Gaza; Trump insists nothing will jeopardise truce",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss"
         },
         {
           "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
         }
       ],
       "chg1d": -0.01042138649750795,
@@ -54,20 +46,16 @@
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "score": 1.21,
+      "confianca": 34,
       "razoes": [
         {
-          "title": "LIVE: Israel kills 63 in Gaza; Trump insists nothing will jeopardise truce",
+          "title": "LIVE: Israel kills 91 in Gaza; Trump insists nothing will jeopardise truce",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss"
         },
         {
           "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -77,7 +65,7 @@
     {
       "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -90,24 +78,9 @@
       "chg1m": 0.10547154248006603
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Nvidia will build AI supercomputers for US Department of Energy",
-          "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01099748533109798,
-      "chg5d": 0.023836202505857124,
-      "chg1m": 0.10357574204882317
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -118,6 +91,21 @@
       "chg1d": -0.007075605200098115,
       "chg5d": 0.026789721176172208,
       "chg1m": 0.09336075877042624
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Nvidia will build AI supercomputers for US Department of Energy",
+          "url": "https://www.aljazeera.com/economy/2025/10/28/nvidia-will-build-ai-supercomputers-for-us-department-of-energy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01099748533109798,
+      "chg5d": 0.023836202505857124,
+      "chg1m": 0.10357574204882317
     }
   ]
 }
