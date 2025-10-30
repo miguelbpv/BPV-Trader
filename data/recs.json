@@ -1,33 +1,14 @@
 {
-  "generated_at": "2025-10-30T01:01:14.190179Z",
+  "generated_at": "2025-10-30T03:39:12.636795Z",
   "recs": [
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.59,
-      "confianca": 45,
-      "razoes": [
-        {
-          "title": "Trump-Xi meeting live: China and US to negotiate rare earths, tariffs",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "Chipmaker Nvidia hits $5 trillion valuation",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011806453752528779,
-      "chg5d": 0.05611326502353912,
-      "chg1m": 0.09237709907264834
-    },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.59,
+      "score": 1.58,
       "confianca": 45,
       "razoes": [
         {
-          "title": "Trump-Xi meeting live: China and US to negotiate rare earths, tariffs",
+          "title": "Trump-Xi meeting live: China, US presidents begin talks on trade, tariffs",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
         },
         {
@@ -40,9 +21,28 @@
       "chg1m": 0.10645704428307291
     },
     {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.58,
+      "confianca": 45,
+      "razoes": [
+        {
+          "title": "Trump-Xi meeting live: China, US presidents begin talks on trade, tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "Chipmaker Nvidia hits $5 trillion valuation",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011806453752528779,
+      "chg5d": 0.05611326502353912,
+      "chg1m": 0.09237709907264834
+    },
+    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.48,
+      "score": 1.47,
       "confianca": 42,
       "razoes": [
         {
@@ -59,39 +59,9 @@
       "chg1m": -0.02780393020973137
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates as labour market weakens",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0045029387600329,
-      "chg5d": 0.05000908355216432,
-      "chg1m": 0.05896363908922827
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates as labour market weakens",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -104,9 +74,39 @@
       "chg1m": 0.020251281203504733
     },
     {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Federal Reserve cuts interest rates as labour market weakens",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Federal Reserve cuts interest rates as labour market weakens",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0045029387600329,
+      "chg5d": 0.05000908355216432,
+      "chg1m": 0.05896363908922827
+    },
+    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -125,7 +125,7 @@
       "confianca": 24,
       "razoes": [
         {
-          "title": "Trump-Xi meeting live: China and US to negotiate rare earths, tariffs",
+          "title": "Trump-Xi meeting live: China, US presidents begin talks on trade, tariffs",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
         }
       ],
@@ -134,24 +134,9 @@
       "chg1m": 0.14362643847742695
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.75,
+      "score": 0.74,
       "confianca": 21,
       "razoes": [
         {
@@ -162,6 +147,21 @@
       "chg1d": 0.007783882783882862,
       "chg5d": 0.0027334851936219717,
       "chg1m": -0.014551152899037353
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
