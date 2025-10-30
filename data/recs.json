@@ -1,108 +1,62 @@
 {
-  "generated_at": "2025-10-29T21:11:56.943853Z",
+  "generated_at": "2025-10-30T01:01:14.190179Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.59,
+      "confianca": 45,
       "razoes": [
+        {
+          "title": "Trump-Xi meeting live: China and US to negotiate rare earths, tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
+        },
         {
           "title": "Chipmaker Nvidia hits $5 trillion valuation",
           "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011806453752528779,
+      "chg5d": 0.05611326502353912,
+      "chg1m": 0.09237709907264834
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.59,
+      "confianca": 45,
+      "razoes": [
+        {
+          "title": "Trump-Xi meeting live: China and US to negotiate rare earths, tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
         },
         {
-          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
+          "title": "Chipmaker Nvidia hits $5 trillion valuation",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0177390544238371,
+      "chg5d": 0.058903777809631644,
+      "chg1m": 0.10645704428307291
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
         },
         {
-          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
-          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
-          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
+          "title": "Chipmaker Nvidia hits $5 trillion valuation",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
         }
       ],
       "chg1d": -0.000905778454824295,
       "chg5d": -0.003715564314160205,
       "chg1m": -0.02780393020973137
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
-          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
-          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Israel kills over 100 Palestinians in new strikes on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/29/israel-kills-over-100-palestinians-in-new-strikes-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Dr Hussam Abu Safia is still held by Israel, no sign of release",
-          "url": "https://www.aljazeera.com/features/2025/10/29/gazas-dr-hussam-abu-safia-is-still-held-by-israel-no-sign-of-release?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel launch air strikes on Gaza, then ‘resume’ truce?",
-          "url": "https://www.aljazeera.com/news/2025/10/29/why-did-israel-launch-air-strikes-on-gaza-then-resume-truce?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007783882783882862,
-      "chg5d": 0.0027334851936219717,
-      "chg1m": -0.014551152899037353
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates as labour market weakens",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates as labour market weakens",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0003493144703519476,
-      "chg5d": 0.029200359389038637,
-      "chg1m": 0.03170314329460507
     },
     {
       "symbol": "QQQ",
@@ -120,6 +74,21 @@
       "chg1m": 0.05896363908922827
     },
     {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Federal Reserve cuts interest rates as labour market weakens",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "IWM",
       "acao": "observar",
       "score": 0.98,
@@ -135,49 +104,64 @@
       "chg1m": 0.020251281203504733
     },
     {
-      "symbol": "TSM",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Chipmaker Nvidia hits $5 trillion valuation",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
+          "title": "US Federal Reserve cuts interest rates as labour market weakens",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011806453752528779,
-      "chg5d": 0.05611326502353912,
-      "chg1m": 0.09237709907264834
+      "chg1d": 0.0003493144703519476,
+      "chg5d": 0.029200359389038637,
+      "chg1m": 0.03170314329460507
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Chipmaker Nvidia hits $5 trillion valuation",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
+          "title": "Trump-Xi meeting live: China and US to negotiate rare earths, tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0177390544238371,
-      "chg5d": 0.058903777809631644,
-      "chg1m": 0.10645704428307291
+      "chg1d": 0.018426671046148837,
+      "chg5d": 0.09126104248055471,
+      "chg1m": 0.14362643847742695
     },
     {
-      "symbol": "NVDA",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.74,
+      "score": 0.75,
       "confianca": 21,
       "razoes": [
         {
-          "title": "Chipmaker Nvidia hits $5 trillion valuation",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
+          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
         }
       ],
-      "chg1d": 0.029896035417599318,
-      "chg5d": 0.14843576658531168,
-      "chg1m": 0.10965805552577972
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007783882783882862,
+      "chg5d": 0.0027334851936219717,
+      "chg1m": -0.014551152899037353
     }
   ]
 }
