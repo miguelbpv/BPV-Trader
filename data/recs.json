@@ -1,57 +1,23 @@
 {
-  "generated_at": "2025-10-30T09:14:05.699610Z",
+  "generated_at": "2025-10-30T12:25:23.220718Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
-      "razoes": [
-        {
-          "title": "LIVE: Palestinians lose hope in ceasefire after Israeli strike wave on Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/30/live-palestinians-lose-hope-in-ceasefire-after-israeli-strike-wave-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.000905778454824295,
-      "chg5d": -0.003715564314160205,
-      "chg1m": -0.02780393020973137
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
-      "razoes": [
-        {
-          "title": "LIVE: Palestinians lose hope in ceasefire after Israeli strike wave on Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/30/live-palestinians-lose-hope-in-ceasefire-after-israeli-strike-wave-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007440476190476256,
-      "chg5d": 0.002391799544419225,
-      "chg1m": -0.014886948735168997
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "LIVE: Palestinians lose hope in ceasefire after Israeli strike wave on Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/30/live-palestinians-lose-hope-in-ceasefire-after-israeli-strike-wave-on-gaza?traffic_source=rss"
+          "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
         },
         {
-          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
+          "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Gaza residents fear more Israeli attacks, unable to rebuild their lives",
+          "url": "https://www.aljazeera.com/news/2025/10/30/gaza-residents-fear-more-israeli-attacks-unable-to-rebuild-their-lives?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -59,49 +25,50 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Updates: Trump, Xi reach deal on tariffs, rare earths",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
+          "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Gaza residents fear more Israeli attacks, unable to rebuild their lives",
+          "url": "https://www.aljazeera.com/news/2025/10/30/gaza-residents-fear-more-israeli-attacks-unable-to-rebuild-their-lives?traffic_source=rss"
         }
       ],
-      "chg1d": 0.016915749712596597,
-      "chg5d": 0.08964206525182145,
-      "chg1m": 0.14192977279433466
+      "chg1d": 0.007440476190476256,
+      "chg5d": 0.002391799544419225,
+      "chg1m": -0.014886948735168997
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Updates: Trump, Xi reach deal on tariffs, rare earths",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.017444512009729306,
-      "chg5d": 0.058597321971400614,
-      "chg1m": 0.10613682612153817
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
+          "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
+        },
         {
-          "title": "Updates: Trump, Xi reach deal on tariffs, rare earths",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
+          "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Gaza residents fear more Israeli attacks, unable to rebuild their lives",
+          "url": "https://www.aljazeera.com/news/2025/10/30/gaza-residents-fear-more-israeli-attacks-unable-to-rebuild-their-lives?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011806453752528779,
-      "chg5d": 0.05611326502353912,
-      "chg1m": 0.09237709907264834
+      "chg1d": -0.000905778454824295,
+      "chg5d": -0.003715564314160205,
+      "chg1m": -0.02780393020973137
     }
   ]
 }
