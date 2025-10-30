@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-30T12:25:23.220718Z",
+  "generated_at": "2025-10-30T15:14:15.825456Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Lebanon’s Aoun says army to confront Israeli forces after deadly incursion",
+          "url": "https://www.aljazeera.com/news/2025/10/30/lebanons-aoun-says-army-to-confront-israeli-forces-after-deadly-incursion?traffic_source=rss"
+        },
         {
           "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
@@ -14,10 +18,29 @@
         {
           "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.017215090762986048,
+      "chg5d": 0.011545948161049055,
+      "chg1m": -0.010651302605210416
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Lebanon’s Aoun says army to confront Israeli forces after deadly incursion",
+          "url": "https://www.aljazeera.com/news/2025/10/30/lebanons-aoun-says-army-to-confront-israeli-forces-after-deadly-incursion?traffic_source=rss"
         },
         {
-          "title": "Gaza residents fear more Israeli attacks, unable to rebuild their lives",
-          "url": "https://www.aljazeera.com/news/2025/10/30/gaza-residents-fear-more-israeli-attacks-unable-to-rebuild-their-lives?traffic_source=rss"
+          "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,9 +50,13 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Lebanon’s Aoun says army to confront Israeli forces after deadly incursion",
+          "url": "https://www.aljazeera.com/news/2025/10/30/lebanons-aoun-says-army-to-confront-israeli-forces-after-deadly-incursion?traffic_source=rss"
+        },
         {
           "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
@@ -37,38 +64,11 @@
         {
           "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Gaza residents fear more Israeli attacks, unable to rebuild their lives",
-          "url": "https://www.aljazeera.com/news/2025/10/30/gaza-residents-fear-more-israeli-attacks-unable-to-rebuild-their-lives?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007440476190476256,
-      "chg5d": 0.002391799544419225,
-      "chg1m": -0.014886948735168997
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Gaza residents fear more Israeli attacks, unable to rebuild their lives",
-          "url": "https://www.aljazeera.com/news/2025/10/30/gaza-residents-fear-more-israeli-attacks-unable-to-rebuild-their-lives?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.000905778454824295,
-      "chg5d": -0.003715564314160205,
-      "chg1m": -0.02780393020973137
+      "chg1d": 0.003351891830473829,
+      "chg5d": -0.007474429583005418,
+      "chg1m": -0.011584956346541265
     }
   ]
 }
