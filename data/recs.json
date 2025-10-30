@@ -1,46 +1,31 @@
 {
-  "generated_at": "2025-10-30T15:14:15.825456Z",
+  "generated_at": "2025-10-30T18:18:14.390058Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Lebanon’s Aoun says army to confront Israeli forces after deadly incursion",
-          "url": "https://www.aljazeera.com/news/2025/10/30/lebanons-aoun-says-army-to-confront-israeli-forces-after-deadly-incursion?traffic_source=rss"
-        },
-        {
-          "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.017215090762986048,
-      "chg5d": 0.011545948161049055,
-      "chg1m": -0.010651302605210416
-    },
-    {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 3.96,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Spinning genocide: How is Israel using US PR firms to frame its Gaza war?",
+          "url": "https://www.aljazeera.com/news/2025/10/30/spinning-genocide-how-israel-is-using-us-pr-firms-to-frame-its-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli ultra-Orthodox Jews rally in Jerusalem against military service",
+          "url": "https://www.aljazeera.com/news/2025/10/30/thousands-of-ultra-orthodox-rally-in-jerusalem-against-military-service?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s dual-national snipers",
+          "url": "https://www.aljazeera.com/video/birds-eye-view/2025/10/30/israels-dual-national-snipers?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s Erdogan urges Germany to help end Israel’s ‘genocide’ in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/30/turkiyes-erdogan-urges-germany-to-help-end-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Lebanon’s Aoun says army to confront Israeli forces after deadly incursion",
           "url": "https://www.aljazeera.com/news/2025/10/30/lebanons-aoun-says-army-to-confront-israeli-forces-after-deadly-incursion?traffic_source=rss"
-        },
-        {
-          "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -49,26 +34,65 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 3.96,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Spinning genocide: How is Israel using US PR firms to frame its Gaza war?",
+          "url": "https://www.aljazeera.com/news/2025/10/30/spinning-genocide-how-israel-is-using-us-pr-firms-to-frame-its-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli ultra-Orthodox Jews rally in Jerusalem against military service",
+          "url": "https://www.aljazeera.com/news/2025/10/30/thousands-of-ultra-orthodox-rally-in-jerusalem-against-military-service?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s dual-national snipers",
+          "url": "https://www.aljazeera.com/video/birds-eye-view/2025/10/30/israels-dual-national-snipers?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s Erdogan urges Germany to help end Israel’s ‘genocide’ in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/30/turkiyes-erdogan-urges-germany-to-help-end-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Lebanon’s Aoun says army to confront Israeli forces after deadly incursion",
           "url": "https://www.aljazeera.com/news/2025/10/30/lebanons-aoun-says-army-to-confront-israeli-forces-after-deadly-incursion?traffic_source=rss"
-        },
-        {
-          "title": "Footage shows smoke from latest Israeli attacks on Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/footage-shows-smoke-from-latest-israeli-attacks-on-lebanon-2?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills two more Palestinians despite Gaza ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/30/israeli-strike-kills-two-more-palestinians-despite-gaza-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003351891830473829,
-      "chg5d": -0.007474429583005418,
-      "chg1m": -0.011584956346541265
+      "chg1d": 0.0037495739120554285,
+      "chg5d": -0.007081038552320956,
+      "chg1m": -0.011193194537721066
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.96,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Spinning genocide: How is Israel using US PR firms to frame its Gaza war?",
+          "url": "https://www.aljazeera.com/news/2025/10/30/spinning-genocide-how-israel-is-using-us-pr-firms-to-frame-its-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli ultra-Orthodox Jews rally in Jerusalem against military service",
+          "url": "https://www.aljazeera.com/news/2025/10/30/thousands-of-ultra-orthodox-rally-in-jerusalem-against-military-service?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s dual-national snipers",
+          "url": "https://www.aljazeera.com/video/birds-eye-view/2025/10/30/israels-dual-national-snipers?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s Erdogan urges Germany to help end Israel’s ‘genocide’ in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/30/turkiyes-erdogan-urges-germany-to-help-end-israels-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon’s Aoun says army to confront Israeli forces after deadly incursion",
+          "url": "https://www.aljazeera.com/news/2025/10/30/lebanons-aoun-says-army-to-confront-israeli-forces-after-deadly-incursion?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011497331712443165,
+      "chg5d": 0.005860055322200622,
+      "chg1m": -0.01621242484969935
     }
   ]
 }
