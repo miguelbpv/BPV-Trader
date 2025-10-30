@@ -1,50 +1,16 @@
 {
-  "generated_at": "2025-10-30T03:39:12.636795Z",
+  "generated_at": "2025-10-30T06:19:22.452142Z",
   "recs": [
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
-      "razoes": [
-        {
-          "title": "Trump-Xi meeting live: China, US presidents begin talks on trade, tariffs",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "Chipmaker Nvidia hits $5 trillion valuation",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0177390544238371,
-      "chg5d": 0.058903777809631644,
-      "chg1m": 0.10645704428307291
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
-      "razoes": [
-        {
-          "title": "Trump-Xi meeting live: China, US presidents begin talks on trade, tariffs",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "Chipmaker Nvidia hits $5 trillion valuation",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011806453752528779,
-      "chg5d": 0.05611326502353912,
-      "chg1m": 0.09237709907264834
-    },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "LIVE: Palestinians lose hope in ceasefire after Israeli strike wave on Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/30/live-palestinians-lose-hope-in-ceasefire-after-israeli-strike-wave-on-gaza?traffic_source=rss"
+        },
         {
           "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
           "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
@@ -59,29 +25,56 @@
       "chg1m": -0.02780393020973137
     },
     {
-      "symbol": "IWM",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 1.57,
+      "confianca": 44,
       "razoes": [
         {
-          "title": "US Federal Reserve cuts interest rates as labour market weakens",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
+          "title": "Trump-Xi meeting live: China, US leaders end talks on rare earths, tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "Chipmaker Nvidia hits $5 trillion valuation",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
         }
       ],
-      "chg1d": -0.008435089974293037,
-      "chg5d": 0.014465357113503781,
-      "chg1m": 0.020251281203504733
+      "chg1d": 0.011806453752528779,
+      "chg5d": 0.05611326502353912,
+      "chg1m": 0.09237709907264834
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 1.57,
+      "confianca": 44,
       "razoes": [
         {
-          "title": "US Federal Reserve cuts interest rates as labour market weakens",
-          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
+          "title": "Trump-Xi meeting live: China, US leaders end talks on rare earths, tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "Chipmaker Nvidia hits $5 trillion valuation",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/chipmaker-nvidia-hits-5-trillion-valuation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.017444512009729306,
+      "chg5d": 0.058597321971400614,
+      "chg1m": 0.10613682612153817
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "LIVE: Palestinians lose hope in ceasefire after Israeli strike wave on Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/30/live-palestinians-lose-hope-in-ceasefire-after-israeli-strike-wave-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -89,9 +82,43 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "LIVE: Palestinians lose hope in ceasefire after Israeli strike wave on Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/30/live-palestinians-lose-hope-in-ceasefire-after-israeli-strike-wave-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007440476190476256,
+      "chg5d": 0.002391799544419225,
+      "chg1m": -0.014886948735168997
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.96,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Federal Reserve cuts interest rates as labour market weakens",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0004803073967339693,
+      "chg5d": 0.029335130278526553,
+      "chg1m": 0.031838241916599175
+    },
+    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -104,9 +131,9 @@
       "chg1m": 0.05896363908922827
     },
     {
-      "symbol": "SPY",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -114,54 +141,39 @@
           "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0003493144703519476,
-      "chg5d": 0.029200359389038637,
-      "chg1m": 0.03170314329460507
+      "chg1d": -0.00851542416452444,
+      "chg5d": 0.01438316758444974,
+      "chg1m": 0.020168622912878142
     },
     {
-      "symbol": "SOXX",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Trump-Xi meeting live: China, US presidents begin talks on trade, tariffs",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018426671046148837,
-      "chg5d": 0.09126104248055471,
-      "chg1m": 0.14362643847742695
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007783882783882862,
-      "chg5d": 0.0027334851936219717,
-      "chg1m": -0.014551152899037353
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Israeli military kills two in new Gaza attack despite ‘resuming’ ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/10/29/israeli-military-kills-two-in-new-gaza-attack-despite-resuming?traffic_source=rss"
+          "title": "US Federal Reserve cuts interest rates as labour market weakens",
+          "url": "https://www.aljazeera.com/economy/2025/10/29/us-federal-reserve-cuts-interest-rates-as-labour-market-weakens?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump-Xi meeting live: China, US leaders end talks on rare earths, tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/29/trump-xi-meeting-live-china-and-us-to-negotiate-rare-earths-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016915749712596597,
+      "chg5d": 0.08964206525182145,
+      "chg1m": 0.14192977279433466
     }
   ]
 }
