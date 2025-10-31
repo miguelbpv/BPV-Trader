@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-10-31T00:58:57.423867Z",
+  "generated_at": "2025-10-31T03:39:50.544830Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.67,
+      "score": 3.64,
       "confianca": 95,
       "razoes": [
         {
@@ -28,14 +28,14 @@
           "url": "https://www.aljazeera.com/news/2025/10/30/turkiyes-erdogan-urges-germany-to-help-end-israels-genocide-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005794796045903932,
-      "chg5d": -0.016522423288749005,
-      "chg1m": -0.020595477949406797
+      "chg1d": 0.00890116003543979,
+      "chg5d": 0.003278352627804458,
+      "chg1m": -0.018737474949899847
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.67,
+      "score": 3.64,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +64,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.67,
+      "score": 3.64,
       "confianca": 95,
       "razoes": [
         {
@@ -90,9 +90,9 @@
           "url": "https://www.aljazeera.com/news/2025/10/30/turkiyes-erdogan-urges-germany-to-help-end-israels-genocide-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00890116003543979,
-      "chg5d": 0.003278352627804458,
-      "chg1m": -0.018737474949899847
+      "chg1d": -0.005794796045903932,
+      "chg5d": -0.016522423288749005,
+      "chg1m": -0.020595477949406797
     }
   ]
 }
