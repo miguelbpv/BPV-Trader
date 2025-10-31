@@ -1,10 +1,41 @@
 {
-  "generated_at": "2025-10-30T21:11:54.415075Z",
+  "generated_at": "2025-10-31T00:58:57.423867Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.67,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Hamas hands over two bodies after Israel resumes attacks on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/30/hamas-hands-over-two-bodies-after-israel-resumes-attacks-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Spinning genocide: How is Israel using US PR firms to frame its Gaza war?",
+          "url": "https://www.aljazeera.com/news/2025/10/30/spinning-genocide-how-israel-is-using-us-pr-firms-to-frame-its-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli ultra-Orthodox Jews rally in Jerusalem against military service",
+          "url": "https://www.aljazeera.com/news/2025/10/30/thousands-of-ultra-orthodox-rally-in-jerusalem-against-military-service?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s dual-national snipers",
+          "url": "https://www.aljazeera.com/video/birds-eye-view/2025/10/30/israels-dual-national-snipers?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s Erdogan urges Germany to help end Israel’s ‘genocide’ in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/30/turkiyes-erdogan-urges-germany-to-help-end-israels-genocide-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005794796045903932,
+      "chg5d": -0.016522423288749005,
+      "chg1m": -0.020595477949406797
+    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.67,
+      "score": 3.67,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.67,
+      "score": 3.67,
       "confianca": 95,
       "razoes": [
         {
@@ -62,37 +93,6 @@
       "chg1d": 0.00890116003543979,
       "chg5d": 0.003278352627804458,
       "chg1m": -0.018737474949899847
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.67,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Hamas hands over two bodies after Israel resumes attacks on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/30/hamas-hands-over-two-bodies-after-israel-resumes-attacks-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Spinning genocide: How is Israel using US PR firms to frame its Gaza war?",
-          "url": "https://www.aljazeera.com/news/2025/10/30/spinning-genocide-how-israel-is-using-us-pr-firms-to-frame-its-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli ultra-Orthodox Jews rally in Jerusalem against military service",
-          "url": "https://www.aljazeera.com/news/2025/10/30/thousands-of-ultra-orthodox-rally-in-jerusalem-against-military-service?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s dual-national snipers",
-          "url": "https://www.aljazeera.com/video/birds-eye-view/2025/10/30/israels-dual-national-snipers?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye’s Erdogan urges Germany to help end Israel’s ‘genocide’ in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/30/turkiyes-erdogan-urges-germany-to-help-end-israels-genocide-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005794796045903932,
-      "chg5d": -0.016522423288749005,
-      "chg1m": -0.020595477949406797
     }
   ]
 }
