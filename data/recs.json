@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-10-31T18:18:45.277559Z",
+  "generated_at": "2025-10-31T21:11:39.382507Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss"
+        },
         {
           "title": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
           "url": "https://www.aljazeera.com/news/2025/10/31/lebanon-slams-israel-for-intensifying-attacks-despite-calls-to-negotiate?traffic_source=rss"
@@ -18,10 +22,33 @@
         {
           "title": "Spinning genocide: Why is Israel trying to reframe its war on Gaza?",
           "url": "https://www.aljazeera.com/news/2025/10/31/spinning-genocide-why-is-israel-trying-to-reframe-its-war-on-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0044106836559666095,
+      "chg5d": 0.013328938423188583,
+      "chg1m": -0.01497917334187764
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss"
         },
         {
-          "title": "Palestinians mourn 15-year-old boy killed during Israeli raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/31/palestinians-mourn-15-year-old-boy-killed-during-israeli-raid?traffic_source=rss"
+          "title": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
+          "url": "https://www.aljazeera.com/news/2025/10/31/lebanon-slams-israel-for-intensifying-attacks-despite-calls-to-negotiate?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army, settlers target Palestinian olive harvesters in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/10/31/israeli-army-settlers-target-palestinian-olive-harvesters-in-west?traffic_source=rss"
+        },
+        {
+          "title": "Spinning genocide: Why is Israel trying to reframe its war on Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/10/31/spinning-genocide-why-is-israel-trying-to-reframe-its-war-on-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,38 +56,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
-          "url": "https://www.aljazeera.com/news/2025/10/31/lebanon-slams-israel-for-intensifying-attacks-despite-calls-to-negotiate?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army, settlers target Palestinian olive harvesters in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/31/israeli-army-settlers-target-palestinian-olive-harvesters-in-west?traffic_source=rss"
-        },
-        {
-          "title": "Spinning genocide: Why is Israel trying to reframe its war on Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/10/31/spinning-genocide-why-is-israel-trying-to-reframe-its-war-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians mourn 15-year-old boy killed during Israeli raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/31/palestinians-mourn-15-year-old-boy-killed-during-israeli-raid?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0009188924283263674,
-      "chg5d": 0.009806143260336603,
-      "chg1m": -0.01840355655238705
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss"
+        },
         {
           "title": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
           "url": "https://www.aljazeera.com/news/2025/10/31/lebanon-slams-israel-for-intensifying-attacks-despite-calls-to-negotiate?traffic_source=rss"
@@ -72,60 +76,11 @@
         {
           "title": "Spinning genocide: Why is Israel trying to reframe its war on Gaza?",
           "url": "https://www.aljazeera.com/news/2025/10/31/spinning-genocide-why-is-israel-trying-to-reframe-its-war-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians mourn 15-year-old boy killed during Israeli raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/31/palestinians-mourn-15-year-old-boy-killed-during-israeli-raid?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006972225397188244,
-      "chg5d": 0.0003406381287612256,
-      "chg1m": -0.003844414292175525
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US-China minerals deal a “typical Trump mantra” using tariffs for tech",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/31/us-china-minerals-deal-a-typical-trump-mantra-using-tariffs-for-tech?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01721522327023292,
-      "chg5d": 0.010306482234879375,
-      "chg1m": 0.03432716670716041
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US-China minerals deal a “typical Trump mantra” using tariffs for tech",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/31/us-china-minerals-deal-a-typical-trump-mantra-using-tariffs-for-tech?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0011787433286400471,
-      "chg5d": 0.033495572230108725,
-      "chg1m": 0.08548404274202132
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US-China minerals deal a “typical Trump mantra” using tariffs for tech",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/31/us-china-minerals-deal-a-typical-trump-mantra-using-tariffs-for-tech?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.016225765958436045,
-      "chg5d": 0.024102216629561603,
-      "chg1m": 0.02701495869613746
+      "chg1d": 0.007200822951194533,
+      "chg5d": 0.0005677302146021503,
+      "chg1m": -0.0036182722749886157
     }
   ]
 }
