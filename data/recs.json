@@ -1,46 +1,31 @@
 {
-  "generated_at": "2025-10-31T09:14:05.482636Z",
+  "generated_at": "2025-10-31T12:25:53.589254Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "LIVE: Israel bombs south Gaza as Palestinians live ceasefire without peace",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/10/31/live-israel-bombs-south-gaza-as-palestinians-live-ceasefire-without-peace?traffic_source=rss"
-        },
-        {
-          "title": "Iran condemns Trump’s call to resume US nuclear testing",
-          "url": "https://www.aljazeera.com/news/2025/10/31/iran-condemns-trumps-call-to-resume-us-nuclear-testing?traffic_source=rss"
-        },
-        {
-          "title": "Hamas hands over two bodies after Israel resumes attacks on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/30/hamas-hands-over-two-bodies-after-israel-resumes-attacks-on-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0059084194977844584,
-      "chg5d": -0.01663482072608749,
-      "chg1m": -0.020707409894784066
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 3.7,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Israel bombs south Gaza as Palestinians live ceasefire without peace",
+          "title": "Hamas is “still committed” despite Israel’s ceasefire violations",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/31/hamas-is-still-committed-despite-israels-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Ultra-Orthodox Jews rally in Israel against military service",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/31/ultra-orthodox-jews-rally-in-israel-against-military-service?traffic_source=rss"
+        },
+        {
+          "title": "Acute trauma: The ever-present wounds of Gaza’s children from Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/10/31/acute-trauma-the-ever-present-wounds-of-gazas-children-from-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel returns 30 bodies of prisoners to Gaza, per terms of ceasefire",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/31/live-israel-bombs-south-gaza-as-palestinians-live-ceasefire-without-peace?traffic_source=rss"
         },
         {
           "title": "Iran condemns Trump’s call to resume US nuclear testing",
           "url": "https://www.aljazeera.com/news/2025/10/31/iran-condemns-trumps-call-to-resume-us-nuclear-testing?traffic_source=rss"
-        },
-        {
-          "title": "Hamas hands over two bodies after Israel resumes attacks on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/30/hamas-hands-over-two-bodies-after-israel-resumes-attacks-on-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.009045391795273408,
@@ -48,22 +33,121 @@
       "chg1m": -0.0185971943887775
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 3.7,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Israel bombs south Gaza as Palestinians live ceasefire without peace",
+          "title": "Hamas is “still committed” despite Israel’s ceasefire violations",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/31/hamas-is-still-committed-despite-israels-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Ultra-Orthodox Jews rally in Israel against military service",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/31/ultra-orthodox-jews-rally-in-israel-against-military-service?traffic_source=rss"
+        },
+        {
+          "title": "Acute trauma: The ever-present wounds of Gaza’s children from Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/10/31/acute-trauma-the-ever-present-wounds-of-gazas-children-from-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel returns 30 bodies of prisoners to Gaza, per terms of ceasefire",
           "url": "https://www.aljazeera.com/news/liveblog/2025/10/31/live-israel-bombs-south-gaza-as-palestinians-live-ceasefire-without-peace?traffic_source=rss"
         },
         {
           "title": "Iran condemns Trump’s call to resume US nuclear testing",
           "url": "https://www.aljazeera.com/news/2025/10/31/iran-condemns-trumps-call-to-resume-us-nuclear-testing?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0059084194977844584,
+      "chg5d": -0.01663482072608749,
+      "chg1m": -0.020707409894784066
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.7,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Hamas is “still committed” despite Israel’s ceasefire violations",
+          "url": "https://www.aljazeera.com/video/quotable/2025/10/31/hamas-is-still-committed-despite-israels-ceasefire-violations?traffic_source=rss"
         },
         {
-          "title": "Hamas hands over two bodies after Israel resumes attacks on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/30/hamas-hands-over-two-bodies-after-israel-resumes-attacks-on-gaza?traffic_source=rss"
+          "title": "Ultra-Orthodox Jews rally in Israel against military service",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/31/ultra-orthodox-jews-rally-in-israel-against-military-service?traffic_source=rss"
+        },
+        {
+          "title": "Acute trauma: The ever-present wounds of Gaza’s children from Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/10/31/acute-trauma-the-ever-present-wounds-of-gazas-children-from-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel returns 30 bodies of prisoners to Gaza, per terms of ceasefire",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/10/31/live-israel-bombs-south-gaza-as-palestinians-live-ceasefire-without-peace?traffic_source=rss"
+        },
+        {
+          "title": "Iran condemns Trump’s call to resume US nuclear testing",
+          "url": "https://www.aljazeera.com/news/2025/10/31/iran-condemns-trumps-call-to-resume-us-nuclear-testing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Fact check: Do ICE officers really have ‘federal immunity’ in the US?",
+          "url": "https://www.aljazeera.com/news/2025/10/31/fact-check-do-ice-officers-really-have-federal-immunity-in-the-us?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01528854774525383,
+      "chg5d": 0.02533656523305695,
+      "chg1m": 0.037795275590551104
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Fact check: Do ICE officers really have ‘federal immunity’ in the US?",
+          "url": "https://www.aljazeera.com/news/2025/10/31/fact-check-do-ice-officers-really-have-federal-immunity-in-the-us?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010998123336097333,
+      "chg5d": 0.012013219006788213,
+      "chg1m": 0.017024459570648506
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Fact check: Do ICE officers really have ‘federal immunity’ in the US?",
+          "url": "https://www.aljazeera.com/news/2025/10/31/fact-check-do-ice-officers-really-have-federal-immunity-in-the-us?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008061902446929222,
+      "chg5d": -0.006371236100965803,
+      "chg1m": 0.00973236009732354
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Fact check: Do ICE officers really have ‘federal immunity’ in the US?",
+          "url": "https://www.aljazeera.com/news/2025/10/31/fact-check-do-ice-officers-really-have-federal-immunity-in-the-us?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
