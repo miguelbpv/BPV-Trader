@@ -1,27 +1,19 @@
 {
-  "generated_at": "2025-10-31T21:11:39.382507Z",
+  "generated_at": "2025-11-01T01:02:16.388716Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Yemen’s Houthis say arrested UN staff will be tried over Israeli links",
+          "url": "https://www.aljazeera.com/news/2025/10/31/houthis-say-arrested-un-staff-will-be-tried-over-israeli-strike?traffic_source=rss"
+        },
         {
           "title": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
-          "url": "https://www.aljazeera.com/news/2025/10/31/lebanon-slams-israel-for-intensifying-attacks-despite-calls-to-negotiate?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army, settlers target Palestinian olive harvesters in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/31/israeli-army-settlers-target-palestinian-olive-harvesters-in-west?traffic_source=rss"
-        },
-        {
-          "title": "Spinning genocide: Why is Israel trying to reframe its war on Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/10/31/spinning-genocide-why-is-israel-trying-to-reframe-its-war-on-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0044106836559666095,
@@ -29,58 +21,42 @@
       "chg1m": -0.01497917334187764
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
-          "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
-          "url": "https://www.aljazeera.com/news/2025/10/31/lebanon-slams-israel-for-intensifying-attacks-despite-calls-to-negotiate?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army, settlers target Palestinian olive harvesters in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/31/israeli-army-settlers-target-palestinian-olive-harvesters-in-west?traffic_source=rss"
-        },
-        {
-          "title": "Spinning genocide: Why is Israel trying to reframe its war on Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/10/31/spinning-genocide-why-is-israel-trying-to-reframe-its-war-on-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Yemen’s Houthis say arrested UN staff will be tried over Israeli links",
+          "url": "https://www.aljazeera.com/news/2025/10/31/houthis-say-arrested-un-staff-will-be-tried-over-israeli-strike?traffic_source=rss"
+        },
         {
           "title": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
           "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon slams Israel for intensifying attacks despite calls to negotiate",
-          "url": "https://www.aljazeera.com/news/2025/10/31/lebanon-slams-israel-for-intensifying-attacks-despite-calls-to-negotiate?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army, settlers target Palestinian olive harvesters in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/10/31/israeli-army-settlers-target-palestinian-olive-harvesters-in-west?traffic_source=rss"
-        },
-        {
-          "title": "Spinning genocide: Why is Israel trying to reframe its war on Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/10/31/spinning-genocide-why-is-israel-trying-to-reframe-its-war-on-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.007200822951194533,
       "chg5d": 0.0005677302146021503,
       "chg1m": -0.0036182722749886157
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Yemen’s Houthis say arrested UN staff will be tried over Israeli links",
+          "url": "https://www.aljazeera.com/news/2025/10/31/houthis-say-arrested-un-staff-will-be-tried-over-israeli-strike?traffic_source=rss"
+        },
+        {
+          "title": "Israel returns 30 bodies of slain Palestinians as new strikes hit Gaza",
+          "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
