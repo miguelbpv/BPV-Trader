@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-01T09:12:17.039965Z",
+  "generated_at": "2025-11-01T12:21:56.809671Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Iran grapples over social freedoms after war with Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/1/iran-grapples-over-social-freedoms-after-war-with-israel?traffic_source=rss"
+        },
         {
           "title": "Live: Israel continues attacks on Gaza as Palestinians fear return to war",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/1/live-israel-continues-attacks-on-gaza-as-palestinians-fear-return-to-war?traffic_source=rss"
@@ -21,30 +25,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Live: Israel continues attacks on Gaza as Palestinians fear return to war",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/1/live-israel-continues-attacks-on-gaza-as-palestinians-fear-return-to-war?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis say arrested UN staff will be tried over Israeli links",
-          "url": "https://www.aljazeera.com/news/2025/10/31/houthis-say-arrested-un-staff-will-be-tried-over-israeli-strike?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007315121728197515,
-      "chg5d": 0.0006812762575224513,
-      "chg1m": -0.003505201266395322
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Iran grapples over social freedoms after war with Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/1/iran-grapples-over-social-freedoms-after-war-with-israel?traffic_source=rss"
+        },
         {
           "title": "Live: Israel continues attacks on Gaza as Palestinians fear return to war",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/1/live-israel-continues-attacks-on-gaza-as-palestinians-fear-return-to-war?traffic_source=rss"
@@ -57,6 +46,29 @@
       "chg1d": 0.0044106836559666095,
       "chg5d": 0.013328938423188583,
       "chg1m": -0.01497917334187764
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Iran grapples over social freedoms after war with Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/1/iran-grapples-over-social-freedoms-after-war-with-israel?traffic_source=rss"
+        },
+        {
+          "title": "Live: Israel continues attacks on Gaza as Palestinians fear return to war",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/1/live-israel-continues-attacks-on-gaza-as-palestinians-fear-return-to-war?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis say arrested UN staff will be tried over Israeli links",
+          "url": "https://www.aljazeera.com/news/2025/10/31/houthis-say-arrested-un-staff-will-be-tried-over-israeli-strike?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007315121728197515,
+      "chg5d": 0.0006812762575224513,
+      "chg1m": -0.003505201266395322
     }
   ]
 }
