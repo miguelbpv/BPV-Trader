@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T01:02:16.388716Z",
+  "generated_at": "2025-11-01T03:39:16.102901Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Yemen’s Houthis say arrested UN staff will be tried over Israeli links",
@@ -16,15 +16,15 @@
           "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0044106836559666095,
-      "chg5d": 0.013328938423188583,
-      "chg1m": -0.01497917334187764
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Yemen’s Houthis say arrested UN staff will be tried over Israeli links",
@@ -40,10 +40,10 @@
       "chg1m": -0.0036182722749886157
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Yemen’s Houthis say arrested UN staff will be tried over Israeli links",
@@ -54,9 +54,9 @@
           "url": "https://www.aljazeera.com/news/2025/10/31/israel-returns-30-bodies-of-slain-palestinians-as-new-strikes-hit-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.0044106836559666095,
+      "chg5d": 0.013328938423188583,
+      "chg1m": -0.01497917334187764
     }
   ]
 }
