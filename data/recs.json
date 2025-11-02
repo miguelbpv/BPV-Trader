@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-02T12:21:26.499726Z",
+  "generated_at": "2025-11-02T15:11:05.159169Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.19,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.2,
       "confianca": 62,
       "razoes": [
+        {
+          "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
+        },
         {
           "title": "Week in pictures: From Israeli strikes in Gaza to floods in Vietnam",
           "url": "https://www.aljazeera.com/gallery/2025/11/2/week-in-pictures-from-israeli-strikes-in-gaza-to-floods-in-vietnam?traffic_source=rss"
@@ -18,22 +22,22 @@
         {
           "title": "Israeli air strike kills four in Lebanon, straining fragile ceasefire",
           "url": "https://www.aljazeera.com/news/2025/11/2/israeli-air-strike-kills-four-in-lebanon-straining-fragile-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel still blocking most Gaza aid as military carries out more attacks",
-          "url": "https://www.aljazeera.com/news/2025/11/1/israel-still-blocking-most-gaza-aid-as-military-carries-out-more-attacks?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.007315121728197515,
+      "chg5d": 0.0006812762575224513,
+      "chg1m": -0.003505201266395322
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 2.19,
+      "acao": "comprar",
+      "score": 2.2,
       "confianca": 62,
       "razoes": [
+        {
+          "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
+        },
         {
           "title": "Week in pictures: From Israeli strikes in Gaza to floods in Vietnam",
           "url": "https://www.aljazeera.com/gallery/2025/11/2/week-in-pictures-from-israeli-strikes-in-gaza-to-floods-in-vietnam?traffic_source=rss"
@@ -45,10 +49,6 @@
         {
           "title": "Israeli air strike kills four in Lebanon, straining fragile ceasefire",
           "url": "https://www.aljazeera.com/news/2025/11/2/israeli-air-strike-kills-four-in-lebanon-straining-fragile-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel still blocking most Gaza aid as military carries out more attacks",
-          "url": "https://www.aljazeera.com/news/2025/11/1/israel-still-blocking-most-gaza-aid-as-military-carries-out-more-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0044106836559666095,
@@ -56,11 +56,15 @@
       "chg1m": -0.01497917334187764
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.19,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.2,
       "confianca": 62,
       "razoes": [
+        {
+          "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
+        },
         {
           "title": "Week in pictures: From Israeli strikes in Gaza to floods in Vietnam",
           "url": "https://www.aljazeera.com/gallery/2025/11/2/week-in-pictures-from-israeli-strikes-in-gaza-to-floods-in-vietnam?traffic_source=rss"
@@ -72,15 +76,71 @@
         {
           "title": "Israeli air strike kills four in Lebanon, straining fragile ceasefire",
           "url": "https://www.aljazeera.com/news/2025/11/2/israeli-air-strike-kills-four-in-lebanon-straining-fragile-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel still blocking most Gaza aid as military carries out more attacks",
-          "url": "https://www.aljazeera.com/news/2025/11/1/israel-still-blocking-most-gaza-aid-as-military-carries-out-more-attacks?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007315121728197515,
-      "chg5d": 0.0006812762575224513,
-      "chg1m": -0.003505201266395322
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004823895854963814,
+      "chg5d": 0.01939718035974725,
+      "chg1m": 0.038532019216482645
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003280231822661407,
+      "chg5d": 0.007102251753414463,
+      "chg1m": 0.019186515645079224
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005636103736981807,
+      "chg5d": -0.012829250691576864,
+      "chg1m": 0.009056634702073517
     }
   ]
 }
