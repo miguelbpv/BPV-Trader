@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-02T15:11:05.159169Z",
+  "generated_at": "2025-11-02T18:15:05.150289Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.92,
+      "confianca": 83,
       "razoes": [
+        {
+          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
@@ -24,16 +28,20 @@
           "url": "https://www.aljazeera.com/news/2025/11/2/israeli-air-strike-kills-four-in-lebanon-straining-fragile-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007315121728197515,
-      "chg5d": 0.0006812762575224513,
-      "chg1m": -0.003505201266395322
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.92,
+      "confianca": 83,
       "razoes": [
+        {
+          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
@@ -56,11 +64,15 @@
       "chg1m": -0.01497917334187764
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.92,
+      "confianca": 83,
       "razoes": [
+        {
+          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
@@ -78,9 +90,9 @@
           "url": "https://www.aljazeera.com/news/2025/11/2/israeli-air-strike-kills-four-in-lebanon-straining-fragile-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.007315121728197515,
+      "chg5d": 0.0006812762575224513,
+      "chg1m": -0.003505201266395322
     },
     {
       "symbol": "QQQ",
@@ -113,21 +125,6 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003280231822661407,
-      "chg5d": 0.007102251753414463,
-      "chg1m": 0.019186515645079224
-    },
-    {
       "symbol": "IWM",
       "acao": "observar",
       "score": 0.98,
@@ -141,6 +138,21 @@
       "chg1d": 0.005636103736981807,
       "chg5d": -0.012829250691576864,
       "chg1m": 0.009056634702073517
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003280231822661407,
+      "chg5d": 0.007102251753414463,
+      "chg1m": 0.019186515645079224
     }
   ]
 }
