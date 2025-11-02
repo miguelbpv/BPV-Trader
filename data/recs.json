@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T01:03:01.397597Z",
+  "generated_at": "2025-11-02T03:41:54.285650Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 2.9,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Israel still blocking most Gaza aid as military carries out more attacks",
@@ -29,37 +29,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Israel still blocking most Gaza aid as military carries out more attacks",
-          "url": "https://www.aljazeera.com/news/2025/11/1/israel-still-blocking-most-gaza-aid-as-military-carries-out-more-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on olive harvest ‘threaten Palestinian way of life’: UN",
-          "url": "https://www.aljazeera.com/news/2025/11/1/israeli-attacks-on-olive-harvest-threaten-palestinian-way-of-life-un?traffic_source=rss"
-        },
-        {
-          "title": "Why has the Israeli army’s top lawyer resigned after leaking rape evidence?",
-          "url": "https://www.aljazeera.com/news/2025/11/1/why-has-the-israeli-armys-top-lawyer-resigned-after-leaking-rape-evidence?traffic_source=rss"
-        },
-        {
-          "title": "Iran grapples over social freedoms after war with Israel",
-          "url": "https://www.aljazeera.com/news/2025/11/1/iran-grapples-over-social-freedoms-after-war-with-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0044106836559666095,
-      "chg5d": 0.013328938423188583,
-      "chg1m": -0.01497917334187764
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 2.9,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Israel still blocking most Gaza aid as military carries out more attacks",
@@ -83,10 +56,37 @@
       "chg1m": -0.003505201266395322
     },
     {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.9,
+      "confianca": 82,
+      "razoes": [
+        {
+          "title": "Israel still blocking most Gaza aid as military carries out more attacks",
+          "url": "https://www.aljazeera.com/news/2025/11/1/israel-still-blocking-most-gaza-aid-as-military-carries-out-more-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on olive harvest ‘threaten Palestinian way of life’: UN",
+          "url": "https://www.aljazeera.com/news/2025/11/1/israeli-attacks-on-olive-harvest-threaten-palestinian-way-of-life-un?traffic_source=rss"
+        },
+        {
+          "title": "Why has the Israeli army’s top lawyer resigned after leaking rape evidence?",
+          "url": "https://www.aljazeera.com/news/2025/11/1/why-has-the-israeli-armys-top-lawyer-resigned-after-leaking-rape-evidence?traffic_source=rss"
+        },
+        {
+          "title": "Iran grapples over social freedoms after war with Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/1/iran-grapples-over-social-freedoms-after-war-with-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0044106836559666095,
+      "chg5d": 0.013328938423188583,
+      "chg1m": -0.01497917334187764
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Canada’s Carney says he apologised to Trump over Reagan anti-tariff ad",
@@ -100,8 +100,8 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Canada’s Carney says he apologised to Trump over Reagan anti-tariff ad",
@@ -115,8 +115,8 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Canada’s Carney says he apologised to Trump over Reagan anti-tariff ad",
