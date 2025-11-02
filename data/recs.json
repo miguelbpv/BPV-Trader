@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-02T03:41:54.285650Z",
+  "generated_at": "2025-11-02T06:18:12.764654Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.9,
-      "confianca": 82,
+      "score": 2.42,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "Israeli air strike kills four in Lebanon, straining fragile ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/2/israeli-air-strike-kills-four-in-lebanon-straining-fragile-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Israel still blocking most Gaza aid as military carries out more attacks",
           "url": "https://www.aljazeera.com/news/2025/11/1/israel-still-blocking-most-gaza-aid-as-military-carries-out-more-attacks?traffic_source=rss"
@@ -18,22 +22,22 @@
         {
           "title": "Why has the Israeli army’s top lawyer resigned after leaking rape evidence?",
           "url": "https://www.aljazeera.com/news/2025/11/1/why-has-the-israeli-armys-top-lawyer-resigned-after-leaking-rape-evidence?traffic_source=rss"
-        },
-        {
-          "title": "Iran grapples over social freedoms after war with Israel",
-          "url": "https://www.aljazeera.com/news/2025/11/1/iran-grapples-over-social-freedoms-after-war-with-israel?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.0044106836559666095,
+      "chg5d": 0.013328938423188583,
+      "chg1m": -0.01497917334187764
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.9,
-      "confianca": 82,
+      "score": 2.42,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "Israeli air strike kills four in Lebanon, straining fragile ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/2/israeli-air-strike-kills-four-in-lebanon-straining-fragile-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Israel still blocking most Gaza aid as military carries out more attacks",
           "url": "https://www.aljazeera.com/news/2025/11/1/israel-still-blocking-most-gaza-aid-as-military-carries-out-more-attacks?traffic_source=rss"
@@ -45,10 +49,6 @@
         {
           "title": "Why has the Israeli army’s top lawyer resigned after leaking rape evidence?",
           "url": "https://www.aljazeera.com/news/2025/11/1/why-has-the-israeli-armys-top-lawyer-resigned-after-leaking-rape-evidence?traffic_source=rss"
-        },
-        {
-          "title": "Iran grapples over social freedoms after war with Israel",
-          "url": "https://www.aljazeera.com/news/2025/11/1/iran-grapples-over-social-freedoms-after-war-with-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.007315121728197515,
@@ -56,11 +56,15 @@
       "chg1m": -0.003505201266395322
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.9,
-      "confianca": 82,
+      "score": 2.42,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "Israeli air strike kills four in Lebanon, straining fragile ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/2/israeli-air-strike-kills-four-in-lebanon-straining-fragile-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Israel still blocking most Gaza aid as military carries out more attacks",
           "url": "https://www.aljazeera.com/news/2025/11/1/israel-still-blocking-most-gaza-aid-as-military-carries-out-more-attacks?traffic_source=rss"
@@ -72,15 +76,11 @@
         {
           "title": "Why has the Israeli army’s top lawyer resigned after leaking rape evidence?",
           "url": "https://www.aljazeera.com/news/2025/11/1/why-has-the-israeli-armys-top-lawyer-resigned-after-leaking-rape-evidence?traffic_source=rss"
-        },
-        {
-          "title": "Iran grapples over social freedoms after war with Israel",
-          "url": "https://www.aljazeera.com/news/2025/11/1/iran-grapples-over-social-freedoms-after-war-with-israel?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0044106836559666095,
-      "chg5d": 0.013328938423188583,
-      "chg1m": -0.01497917334187764
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "ASML.AS",
@@ -98,21 +98,6 @@
       "chg1m": 0.028208936389139603
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Canada’s Carney says he apologised to Trump over Reagan anti-tariff ad",
-          "url": "https://www.aljazeera.com/news/2025/11/1/canadas-carney-says-he-apologised-to-trump-over-reagan-anti-tariff-ad?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003732687207360552,
-      "chg5d": 0.03613195430271073,
-      "chg1m": 0.08825304412652211
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
       "score": 0.83,
@@ -126,6 +111,21 @@
       "chg1d": -0.009201240023745201,
       "chg5d": 0.01854488744236516,
       "chg1m": 0.04276144528131614
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Canada’s Carney says he apologised to Trump over Reagan anti-tariff ad",
+          "url": "https://www.aljazeera.com/news/2025/11/1/canadas-carney-says-he-apologised-to-trump-over-reagan-anti-tariff-ad?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003732687207360552,
+      "chg5d": 0.03613195430271073,
+      "chg1m": 0.08825304412652211
     }
   ]
 }
