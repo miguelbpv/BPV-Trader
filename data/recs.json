@@ -1,39 +1,16 @@
 {
-  "generated_at": "2025-11-03T12:26:34.070784Z",
+  "generated_at": "2025-11-03T15:13:52.826552Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
-        },
-        {
-          "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
-          "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli air raids hit Gaza; 2 Palestinians killed in West Bank",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
-          "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007315121728197515,
-      "chg5d": 0.0006812762575224513,
-      "chg1m": -0.003505201266395322
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
+        },
         {
           "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
@@ -41,26 +18,45 @@
         {
           "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
           "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli air raids hit Gaza; 2 Palestinians killed in West Bank",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
-          "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0044106836559666095,
-      "chg5d": 0.013328938423188583,
-      "chg1m": -0.01497917334187764
+      "chg1d": -0.011100268358136088,
+      "chg5d": -0.0010063461419975131,
+      "chg1m": -0.035818351206168594
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
+        },
+        {
+          "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
+        },
+        {
+          "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004198343356405201,
+      "chg5d": -0.005890348889895741,
+      "chg1m": -0.012934428073332489
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
+        },
         {
           "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
@@ -68,14 +64,6 @@
         {
           "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
           "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli air raids hit Gaza; 2 Palestinians killed in West Bank",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
-          "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -93,24 +81,9 @@
           "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
         }
       ],
-      "chg1d": -0.015082058673113605,
-      "chg5d": 0.025292808053431527,
-      "chg1m": 0.028208936389139603
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Cuba: Health Under Sanction",
-          "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003732687207360552,
-      "chg5d": 0.03613195430271073,
-      "chg1m": 0.08825304412652211
+      "chg1d": 0.00818991153951451,
+      "chg5d": 0.007476556161436965,
+      "chg1m": 0.034571118559996845
     },
     {
       "symbol": "TSM",
@@ -123,9 +96,24 @@
           "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009201240023745201,
-      "chg5d": 0.01854488744236516,
-      "chg1m": 0.04276144528131614
+      "chg1d": 0.013147821455913153,
+      "chg5d": 0.020553227158424125,
+      "chg1m": 0.04171942913857421
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Cuba: Health Under Sanction",
+          "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007959549828739186,
+      "chg5d": 0.016147066561431285,
+      "chg1m": 0.10369338476925287
     }
   ]
 }
