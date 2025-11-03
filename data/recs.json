@@ -1,45 +1,14 @@
 {
-  "generated_at": "2025-11-03T06:20:47.519840Z",
+  "generated_at": "2025-11-03T09:16:24.037827Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.64,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel kills Palestinian in Gaza City; Hamas returns 3 bodies",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
-          "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Drinking water in Tehran could run dry in two weeks, Iranian official says",
-          "url": "https://www.aljazeera.com/news/2025/11/2/drinking-water-in-tehran-could-run-dry-in-two-weeks-iranian-official-says?traffic_source=rss"
-        },
-        {
-          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007315121728197515,
-      "chg5d": 0.0006812762575224513,
-      "chg1m": -0.003505201266395322
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.64,
-      "confianca": 95,
+      "score": 2.4,
+      "confianca": 68,
       "razoes": [
         {
-          "title": "LIVE: Israel kills Palestinian in Gaza City; Hamas returns 3 bodies",
+          "title": "LIVE: Israeli air strikes hit Gaza; 2 Palestinians killed in West Bank",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
         },
         {
@@ -53,10 +22,6 @@
         {
           "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
           "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,11 +31,11 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.64,
-      "confianca": 95,
+      "score": 2.4,
+      "confianca": 68,
       "razoes": [
         {
-          "title": "LIVE: Israel kills Palestinian in Gaza City; Hamas returns 3 bodies",
+          "title": "LIVE: Israeli air strikes hit Gaza; 2 Palestinians killed in West Bank",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
         },
         {
@@ -84,10 +49,6 @@
         {
           "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
           "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
         }
       ],
       "chg1d": 0.0044106836559666095,
@@ -95,64 +56,31 @@
       "chg1m": -0.01497917334187764
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.95,
-      "confianca": 27,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.4,
+      "confianca": 68,
       "razoes": [
         {
-          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003280231822661407,
-      "chg5d": 0.007102251753414463,
-      "chg1m": 0.019186515645079224
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.95,
-      "confianca": 27,
-      "razoes": [
+          "title": "LIVE: Israeli air strikes hit Gaza; 2 Palestinians killed in West Bank",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
+        },
         {
-          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.95,
-      "confianca": 27,
-      "razoes": [
+          "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
+          "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
+        },
         {
-          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004823895854963814,
-      "chg5d": 0.01939718035974725,
-      "chg1m": 0.038532019216482645
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.95,
-      "confianca": 27,
-      "razoes": [
+          "title": "Drinking water in Tehran could run dry in two weeks, Iranian official says",
+          "url": "https://www.aljazeera.com/news/2025/11/2/drinking-water-in-tehran-could-run-dry-in-two-weeks-iranian-official-says?traffic_source=rss"
+        },
         {
-          "title": "US federal agent in Chicago punches restrained man’s head on the ground",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/us-federal-agent-in-chicago-punches-restrained-mans-head-on-the-ground?traffic_source=rss"
+          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.005636103736981807,
-      "chg5d": -0.012829250691576864,
-      "chg1m": 0.009056634702073517
+      "chg1d": 0.007315121728197515,
+      "chg5d": 0.0006812762575224513,
+      "chg1m": -0.003505201266395322
     }
   ]
 }
