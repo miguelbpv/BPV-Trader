@@ -1,45 +1,14 @@
 {
-  "generated_at": "2025-11-03T01:02:26.416675Z",
+  "generated_at": "2025-11-03T03:46:07.207142Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.41,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Palestinians face hunger, cold and loss amid ongoing Israeli siege on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Drinking water in Tehran could run dry in two weeks, Iranian official says",
-          "url": "https://www.aljazeera.com/news/2025/11/2/drinking-water-in-tehran-could-run-dry-in-two-weeks-iranian-official-says?traffic_source=rss"
-        },
-        {
-          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
-        },
-        {
-          "title": "Week in pictures: From Israeli strikes in Gaza to floods in Vietnam",
-          "url": "https://www.aljazeera.com/gallery/2025/11/2/week-in-pictures-from-israeli-strikes-in-gaza-to-floods-in-vietnam?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0044106836559666095,
-      "chg5d": 0.013328938423188583,
-      "chg1m": -0.01497917334187764
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.41,
+      "score": 3.38,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Palestinians face hunger, cold and loss amid ongoing Israeli siege on Gaza",
+          "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
           "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
         },
         {
@@ -64,13 +33,44 @@
       "chg1m": -0.003505201266395322
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.41,
+      "score": 3.38,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Palestinians face hunger, cold and loss amid ongoing Israeli siege on Gaza",
+          "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
+          "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Drinking water in Tehran could run dry in two weeks, Iranian official says",
+          "url": "https://www.aljazeera.com/news/2025/11/2/drinking-water-in-tehran-could-run-dry-in-two-weeks-iranian-official-says?traffic_source=rss"
+        },
+        {
+          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers intensify attacks on Palestinian farmers and livestock",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/2/israeli-settlers-intensify-attacks-on-palestinian-farmers-and-livestock?traffic_source=rss"
+        },
+        {
+          "title": "Week in pictures: From Israeli strikes in Gaza to floods in Vietnam",
+          "url": "https://www.aljazeera.com/gallery/2025/11/2/week-in-pictures-from-israeli-strikes-in-gaza-to-floods-in-vietnam?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0044106836559666095,
+      "chg5d": 0.013328938423188583,
+      "chg1m": -0.01497917334187764
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.38,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
           "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
         },
         {
