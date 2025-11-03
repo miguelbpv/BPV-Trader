@@ -1,54 +1,54 @@
 {
-  "generated_at": "2025-11-03T09:16:24.037827Z",
+  "generated_at": "2025-11-03T12:26:34.070784Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.4,
-      "confianca": 68,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "LIVE: Israeli air strikes hit Gaza; 2 Palestinians killed in West Bank",
+          "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
+        },
+        {
+          "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israeli air raids hit Gaza; 2 Palestinians killed in West Bank",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
         },
         {
           "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
           "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Drinking water in Tehran could run dry in two weeks, Iranian official says",
-          "url": "https://www.aljazeera.com/news/2025/11/2/drinking-water-in-tehran-could-run-dry-in-two-weeks-iranian-official-says?traffic_source=rss"
-        },
-        {
-          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.007315121728197515,
+      "chg5d": 0.0006812762575224513,
+      "chg1m": -0.003505201266395322
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.4,
-      "confianca": 68,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "LIVE: Israeli air strikes hit Gaza; 2 Palestinians killed in West Bank",
+          "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
+        },
+        {
+          "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israeli air raids hit Gaza; 2 Palestinians killed in West Bank",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
         },
         {
           "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
           "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Drinking water in Tehran could run dry in two weeks, Iranian official says",
-          "url": "https://www.aljazeera.com/news/2025/11/2/drinking-water-in-tehran-could-run-dry-in-two-weeks-iranian-official-says?traffic_source=rss"
-        },
-        {
-          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0044106836559666095,
@@ -56,31 +56,76 @@
       "chg1m": -0.01497917334187764
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.4,
-      "confianca": 68,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "LIVE: Israeli air strikes hit Gaza; 2 Palestinians killed in West Bank",
+          "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
+        },
+        {
+          "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israeli air raids hit Gaza; 2 Palestinians killed in West Bank",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss"
         },
         {
           "title": "Israeli forces kill another Palestinian in Gaza; Hamas returns 3 bodies",
           "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Drinking water in Tehran could run dry in two weeks, Iranian official says",
-          "url": "https://www.aljazeera.com/news/2025/11/2/drinking-water-in-tehran-could-run-dry-in-two-weeks-iranian-official-says?traffic_source=rss"
-        },
-        {
-          "title": "How labour unions in Europe can help end Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/11/2/how-labour-unions-in-europe-can-help-end-israels-genocide-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007315121728197515,
-      "chg5d": 0.0006812762575224513,
-      "chg1m": -0.003505201266395322
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Cuba: Health Under Sanction",
+          "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.015082058673113605,
+      "chg5d": 0.025292808053431527,
+      "chg1m": 0.028208936389139603
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Cuba: Health Under Sanction",
+          "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003732687207360552,
+      "chg5d": 0.03613195430271073,
+      "chg1m": 0.08825304412652211
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Cuba: Health Under Sanction",
+          "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009201240023745201,
+      "chg5d": 0.01854488744236516,
+      "chg1m": 0.04276144528131614
     }
   ]
 }
