@@ -1,27 +1,24 @@
 {
-  "generated_at": "2025-11-03T18:18:25.362110Z",
+  "generated_at": "2025-11-03T21:12:02.128274Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
         {
-          "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
-          "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012187932015938856,
-      "chg5d": -0.0021051118276478897,
-      "chg1m": -0.03687882812345144
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
+          "title": "Israel releases five Palestinian prisoners as killings continue in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-releases-five-palestinian-prisoners-as-killings-continue-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel arrests ex-army lawyer for leaking video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/3/israel-arrests-ex-army-lawyer-for-leaking-video-showing-palestinians-abuse?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye hosts summit on Gaza, says Israel must stop ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2025/11/3/turkiye-hosts-summit-on-gaza-says-israel-must-stop-ceasefire-violations?traffic_source=rss"
+        },
         {
           "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
           "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
@@ -32,19 +29,58 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Israel releases five Palestinian prisoners as killings continue in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-releases-five-palestinian-prisoners-as-killings-continue-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel arrests ex-army lawyer for leaking video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/3/israel-arrests-ex-army-lawyer-for-leaking-video-showing-palestinians-abuse?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye hosts summit on Gaza, says Israel must stop ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2025/11/3/turkiye-hosts-summit-on-gaza-says-israel-must-stop-ceasefire-violations?traffic_source=rss"
+        },
         {
           "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
           "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00136162487234772,
-      "chg5d": -0.0003398278205709236,
-      "chg1m": -0.0074232369812169225
+      "chg1d": -0.007318858258111781,
+      "chg5d": 0.0028136616623194175,
+      "chg1m": -0.03213145949374623
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
+      "razoes": [
+        {
+          "title": "Israel releases five Palestinian prisoners as killings continue in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-releases-five-palestinian-prisoners-as-killings-continue-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel arrests ex-army lawyer for leaking video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/3/israel-arrests-ex-army-lawyer-for-leaking-video-showing-palestinians-abuse?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye hosts summit on Gaza, says Israel must stop ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2025/11/3/turkiye-hosts-summit-on-gaza-says-israel-must-stop-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0005106093271303949,
+      "chg5d": -0.0011893973719982326,
+      "chg1m": -0.008266786638173427
     }
   ]
 }
