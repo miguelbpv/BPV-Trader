@@ -1,69 +1,30 @@
 {
-  "generated_at": "2025-11-03T15:13:52.826552Z",
+  "generated_at": "2025-11-03T18:18:25.362110Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
           "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
-        },
-        {
-          "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
-        },
-        {
-          "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
-          "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011100268358136088,
-      "chg5d": -0.0010063461419975131,
-      "chg1m": -0.035818351206168594
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
-          "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
-        },
-        {
-          "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
-        },
-        {
-          "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
-          "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004198343356405201,
-      "chg5d": -0.005890348889895741,
-      "chg1m": -0.012934428073332489
+      "chg1d": -0.012187932015938856,
+      "chg5d": -0.0021051118276478897,
+      "chg1m": -0.03687882812345144
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
           "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
-        },
-        {
-          "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss"
-        },
-        {
-          "title": "Iran ‘not in hurry’ to resume nuclear talks with US",
-          "url": "https://www.aljazeera.com/news/2025/11/3/iran-not-in-hurry-to-resume-nuclear-talks-with-us?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -71,49 +32,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Cuba: Health Under Sanction",
-          "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
+          "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00818991153951451,
-      "chg5d": 0.007476556161436965,
-      "chg1m": 0.034571118559996845
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Cuba: Health Under Sanction",
-          "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013147821455913153,
-      "chg5d": 0.020553227158424125,
-      "chg1m": 0.04171942913857421
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Cuba: Health Under Sanction",
-          "url": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007959549828739186,
-      "chg5d": 0.016147066561431285,
-      "chg1m": 0.10369338476925287
+      "chg1d": 0.00136162487234772,
+      "chg5d": -0.0003398278205709236,
+      "chg1m": -0.0074232369812169225
     }
   ]
 }
