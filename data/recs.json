@@ -1,42 +1,11 @@
 {
-  "generated_at": "2025-11-04T00:59:38.422545Z",
+  "generated_at": "2025-11-04T03:38:21.656977Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Israel strikes southern Lebanon, killing two and wounding seven",
-          "url": "https://www.aljazeera.com/news/2025/11/3/israel-strikes-southern-lebanon-killing-two-and-wounding-seven?traffic_source=rss"
-        },
-        {
-          "title": "Israel releases five Palestinian prisoners as killings continue in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/11/3/israel-releases-five-palestinian-prisoners-as-killings-continue-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel arrests ex-army lawyer for leaking video showing Palestinian’s abuse",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/3/israel-arrests-ex-army-lawyer-for-leaking-video-showing-palestinians-abuse?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye hosts summit on Gaza, says Israel must stop ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2025/11/3/turkiye-hosts-summit-on-gaza-says-israel-must-stop-ceasefire-violations?traffic_source=rss"
-        },
-        {
-          "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
-          "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00011346873936236374,
-      "chg5d": -0.0015858631626642565,
-      "chg1m": -0.008660443144753076
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
+      "score": 3.16,
+      "confianca": 90,
       "razoes": [
         {
           "title": "Israel strikes southern Lebanon, killing two and wounding seven",
@@ -66,8 +35,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
+      "score": 3.16,
+      "confianca": 90,
       "razoes": [
         {
           "title": "Israel strikes southern Lebanon, killing two and wounding seven",
@@ -95,64 +64,35 @@
       "chg1m": -0.03280540744117824
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.16,
+      "confianca": 90,
       "razoes": [
         {
-          "title": "Trump says he will restrict federal funds for New York City if Mamdani wins",
-          "url": "https://www.aljazeera.com/news/2025/11/3/trump-says-he-will-restrict-federal-funds-for-new-york-city-if-mamdani-wins?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0032083824066928973,
-      "chg5d": -0.019416699960047995,
-      "chg1m": -0.0015864621893178813
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
+          "title": "Israel strikes southern Lebanon, killing two and wounding seven",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-strikes-southern-lebanon-killing-two-and-wounding-seven?traffic_source=rss"
+        },
         {
-          "title": "Trump says he will restrict federal funds for New York City if Mamdani wins",
-          "url": "https://www.aljazeera.com/news/2025/11/3/trump-says-he-will-restrict-federal-funds-for-new-york-city-if-mamdani-wins?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
+          "title": "Israel releases five Palestinian prisoners as killings continue in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-releases-five-palestinian-prisoners-as-killings-continue-in-gaza?traffic_source=rss"
+        },
         {
-          "title": "Trump says he will restrict federal funds for New York City if Mamdani wins",
-          "url": "https://www.aljazeera.com/news/2025/11/3/trump-says-he-will-restrict-federal-funds-for-new-york-city-if-mamdani-wins?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0018913292085741393,
-      "chg5d": -0.0027581577257602976,
-      "chg1m": 0.021129391371916117
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
+          "title": "Israel arrests ex-army lawyer for leaking video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/3/israel-arrests-ex-army-lawyer-for-leaking-video-showing-palestinians-abuse?traffic_source=rss"
+        },
         {
-          "title": "Trump says he will restrict federal funds for New York City if Mamdani wins",
-          "url": "https://www.aljazeera.com/news/2025/11/3/trump-says-he-will-restrict-federal-funds-for-new-york-city-if-mamdani-wins?traffic_source=rss"
+          "title": "Turkiye hosts summit on Gaza, says Israel must stop ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2025/11/3/turkiye-hosts-summit-on-gaza-says-israel-must-stop-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
+          "url": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004800737596769806,
-      "chg5d": 0.006368514066455444,
-      "chg1m": 0.04792930800092855
+      "chg1d": 0.00011346873936236374,
+      "chg5d": -0.0015858631626642565,
+      "chg1m": -0.008660443144753076
     }
   ]
 }
