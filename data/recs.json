@@ -1,38 +1,8 @@
 {
-  "generated_at": "2025-11-04T15:14:27.741113Z",
+  "generated_at": "2025-11-04T18:18:39.874204Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.34,
-      "confianca": 38,
-      "razoes": [
-        {
-          "title": "Chess world roiled by Naroditsky’s ‘unexpected’ death",
-          "url": "https://www.aljazeera.com/gallery/2025/11/4/chess-world-roiled-by-naroditskys-unexpected-death?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.34,
-      "confianca": 38,
-      "razoes": [
-        {
-          "title": "Chess world roiled by Naroditsky’s ‘unexpected’ death",
-          "url": "https://www.aljazeera.com/gallery/2025/11/4/chess-world-roiled-by-naroditskys-unexpected-death?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01679146811890179,
-      "chg5d": -0.008012820512820545,
-      "chg1m": -0.03010632344711805
-    },
-    {
-      "symbol": "SPY",
+      "symbol": "IWM",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -42,9 +12,9 @@
           "url": "https://www.aljazeera.com/news/2025/11/4/can-trump-legally-stop-federal-funding-to-new-york-city-if-mamdani-wins?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00721456376035365,
-      "chg5d": -0.0125898757022676,
-      "chg1m": 0.01012492369083241
+      "chg1d": -0.012732235984354629,
+      "chg5d": -0.02669103470437022,
+      "chg1m": -0.01821239009764598
     },
     {
       "symbol": "EUROSTOXX50",
@@ -72,12 +42,12 @@
           "url": "https://www.aljazeera.com/news/2025/11/4/can-trump-legally-stop-federal-funding-to-new-york-city-if-mamdani-wins?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009239336792811087,
-      "chg5d": -0.010554256462112038,
-      "chg1m": 0.030491517335571195
+      "chg1d": -0.016722566763700875,
+      "chg5d": -0.018027554825254328,
+      "chg1m": 0.022708199634694105
     },
     {
-      "symbol": "IWM",
+      "symbol": "SPY",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -87,9 +57,54 @@
           "url": "https://www.aljazeera.com/news/2025/11/4/can-trump-legally-stop-federal-funding-to-new-york-city-if-mamdani-wins?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007007822685788783,
-      "chg5d": -0.021047557840617,
-      "chg1m": -0.012519752035979107
+      "chg1d": -0.010895015658383893,
+      "chg5d": -0.016250400256163894,
+      "chg1m": 0.006380190884590712
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.49,
+      "confianca": 13,
+      "razoes": [
+        {
+          "title": "How Israel is using ‘no war, no peace’ Lebanonisation model in Gaza",
+          "url": "https://www.aljazeera.com/features/2025/11/4/how-israel-is-using-no-war-no-peace-lebanonisation-model-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013160880417517546,
+      "chg5d": -0.004349816849816798,
+      "chg1m": -0.026524902070509126
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.49,
+      "confianca": 13,
+      "razoes": [
+        {
+          "title": "How Israel is using ‘no war, no peace’ Lebanonisation model in Gaza",
+          "url": "https://www.aljazeera.com/features/2025/11/4/how-israel-is-using-no-war-no-peace-lebanonisation-model-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008402672459728701,
+      "chg5d": -0.003973073676842964,
+      "chg1m": -0.05911636589919111
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.49,
+      "confianca": 13,
+      "razoes": [
+        {
+          "title": "How Israel is using ‘no war, no peace’ Lebanonisation model in Gaza",
+          "url": "https://www.aljazeera.com/features/2025/11/4/how-israel-is-using-no-war-no-peace-lebanonisation-model-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
