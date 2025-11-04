@@ -1,38 +1,15 @@
 {
-  "generated_at": "2025-11-04T12:27:39.194876Z",
+  "generated_at": "2025-11-04T15:14:27.741113Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.08,
-      "confianca": 59,
-      "razoes": [
-        {
-          "title": "Chess world roiled by Naroditsky’s ‘unexpected’ death",
-          "url": "https://www.aljazeera.com/gallery/2025/11/4/chess-world-roiled-by-naroditskys-unexpected-death?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Thousands in overcrowded Gaza shelters amid Israeli shelling",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/4/live-joy-in-gaza-as-palestinians-freed-by-israel-reunite-with-families?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00011346873936236374,
-      "chg5d": -0.0015858631626642565,
-      "chg1m": -0.008660443144753076
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.08,
-      "confianca": 59,
+      "score": 1.34,
+      "confianca": 38,
       "razoes": [
         {
           "title": "Chess world roiled by Naroditsky’s ‘unexpected’ death",
           "url": "https://www.aljazeera.com/gallery/2025/11/4/chess-world-roiled-by-naroditskys-unexpected-death?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Thousands in overcrowded Gaza shelters amid Israeli shelling",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/4/live-joy-in-gaza-as-palestinians-freed-by-israel-reunite-with-families?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -40,19 +17,79 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.34,
+      "confianca": 38,
       "razoes": [
         {
-          "title": "LIVE: Thousands in overcrowded Gaza shelters amid Israeli shelling",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/4/live-joy-in-gaza-as-palestinians-freed-by-israel-reunite-with-families?traffic_source=rss"
+          "title": "Chess world roiled by Naroditsky’s ‘unexpected’ death",
+          "url": "https://www.aljazeera.com/gallery/2025/11/4/chess-world-roiled-by-naroditskys-unexpected-death?traffic_source=rss"
         }
       ],
-      "chg1d": -0.008010083760266727,
-      "chg5d": 0.0021153806658314117,
-      "chg1m": -0.03280540744117824
+      "chg1d": -0.01679146811890179,
+      "chg5d": -0.008012820512820545,
+      "chg1m": -0.03010632344711805
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Can Trump legally stop federal funding to New York City if Mamdani wins?",
+          "url": "https://www.aljazeera.com/news/2025/11/4/can-trump-legally-stop-federal-funding-to-new-york-city-if-mamdani-wins?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00721456376035365,
+      "chg5d": -0.0125898757022676,
+      "chg1m": 0.01012492369083241
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Can Trump legally stop federal funding to New York City if Mamdani wins?",
+          "url": "https://www.aljazeera.com/news/2025/11/4/can-trump-legally-stop-federal-funding-to-new-york-city-if-mamdani-wins?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Can Trump legally stop federal funding to New York City if Mamdani wins?",
+          "url": "https://www.aljazeera.com/news/2025/11/4/can-trump-legally-stop-federal-funding-to-new-york-city-if-mamdani-wins?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009239336792811087,
+      "chg5d": -0.010554256462112038,
+      "chg1m": 0.030491517335571195
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Can Trump legally stop federal funding to New York City if Mamdani wins?",
+          "url": "https://www.aljazeera.com/news/2025/11/4/can-trump-legally-stop-federal-funding-to-new-york-city-if-mamdani-wins?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007007822685788783,
+      "chg5d": -0.021047557840617,
+      "chg1m": -0.012519752035979107
     }
   ]
 }
