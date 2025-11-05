@@ -1,27 +1,43 @@
 {
-  "generated_at": "2025-11-05T06:19:57.570020Z",
+  "generated_at": "2025-11-05T09:15:14.824005Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss"
+        },
+        {
+          "title": "Iran releases two French nationals imprisoned for three years",
+          "url": "https://www.aljazeera.com/news/2025/11/5/iran-releases-two-french-nationals-imprisoned-for-three-years?traffic_source=rss"
+        },
         {
           "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.010778307238484261,
+      "chg5d": -0.0019459706959707155,
+      "chg1m": -0.024174594292109643
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss"
+        },
+        {
+          "title": "Iran releases two French nationals imprisoned for three years",
+          "url": "https://www.aljazeera.com/news/2025/11/5/iran-releases-two-french-nationals-imprisoned-for-three-years?traffic_source=rss"
+        },
         {
           "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss"
@@ -32,19 +48,27 @@
       "chg1m": -0.05689950217797136
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss"
+        },
+        {
+          "title": "Iran releases two French nationals imprisoned for three years",
+          "url": "https://www.aljazeera.com/news/2025/11/5/iran-releases-two-french-nationals-imprisoned-for-three-years?traffic_source=rss"
+        },
         {
           "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010778307238484261,
-      "chg5d": -0.0019459706959707155,
-      "chg1m": -0.024174594292109643
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
