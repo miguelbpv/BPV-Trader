@@ -1,4 +1,50 @@
 {
-  "generated_at": "2025-11-05T03:40:34.109881Z",
-  "recs": []
+  "generated_at": "2025-11-05T06:19:57.570020Z",
+  "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006066319629462597,
+      "chg5d": -0.0016262840438890085,
+      "chg1m": -0.05689950217797136
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010778307238484261,
+      "chg5d": -0.0019459706959707155,
+      "chg1m": -0.024174594292109643
+    }
+  ]
 }
