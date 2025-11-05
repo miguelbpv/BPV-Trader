@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-05T12:26:10.924612Z",
+  "generated_at": "2025-11-05T15:13:57.100087Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.46,
-      "confianca": 70,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Israel sets up checkpoint in Syria’s Quneitra in new breach of sovereignty",
+          "url": "https://www.aljazeera.com/news/2025/11/5/israel-sets-up-checkpoint-in-syrias-quneitra-in-new-breach-of-sovereignty?traffic_source=rss"
+        },
         {
           "title": "Gaza youth artist finds outlet for her trauma and grief from Israel’s war",
           "url": "https://www.aljazeera.com/news/2025/11/5/gaza-youth-artist-finds-outlet-for-her-trauma-and-grief-from-israels-war?traffic_source=rss"
@@ -14,14 +18,52 @@
         {
           "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
           "url": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.002309373582415779,
+      "chg5d": -0.0030288669565037615,
+      "chg1m": -0.0532412389692214
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "Israel sets up checkpoint in Syria’s Quneitra in new breach of sovereignty",
+          "url": "https://www.aljazeera.com/news/2025/11/5/israel-sets-up-checkpoint-in-syrias-quneitra-in-new-breach-of-sovereignty?traffic_source=rss"
         },
         {
-          "title": "Iran releases two French nationals imprisoned for three years",
-          "url": "https://www.aljazeera.com/news/2025/11/5/iran-releases-two-french-nationals-imprisoned-for-three-years?traffic_source=rss"
+          "title": "Gaza youth artist finds outlet for her trauma and grief from Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/11/5/gaza-youth-artist-finds-outlet-for-her-trauma-and-grief-from-israels-war?traffic_source=rss"
         },
         {
-          "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss"
+          "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006078678747562807,
+      "chg5d": -0.0032950801045336466,
+      "chg1m": -0.019778746228628855
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "Israel sets up checkpoint in Syria’s Quneitra in new breach of sovereignty",
+          "url": "https://www.aljazeera.com/news/2025/11/5/israel-sets-up-checkpoint-in-syrias-quneitra-in-new-breach-of-sovereignty?traffic_source=rss"
+        },
+        {
+          "title": "Gaza youth artist finds outlet for her trauma and grief from Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/11/5/gaza-youth-artist-finds-outlet-for-her-trauma-and-grief-from-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,58 +71,64 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.46,
-      "confianca": 70,
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Gaza youth artist finds outlet for her trauma and grief from Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/11/5/gaza-youth-artist-finds-outlet-for-her-trauma-and-grief-from-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
-          "url": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss"
-        },
-        {
-          "title": "Iran releases two French nationals imprisoned for three years",
-          "url": "https://www.aljazeera.com/news/2025/11/5/iran-releases-two-french-nationals-imprisoned-for-three-years?traffic_source=rss"
-        },
-        {
-          "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss"
+          "title": "The federal shutdown and the Senate filibuster: What could happen now?",
+          "url": "https://www.aljazeera.com/news/2025/11/5/the-federal-shutdown-and-the-senate-filibuster-what-could-happen-now?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010778307238484261,
-      "chg5d": -0.0019459706959707155,
-      "chg1m": -0.024174594292109643
+      "chg1d": 0.0031692435282269804,
+      "chg5d": -0.014562329972795635,
+      "chg1m": 0.012344571975131502
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.46,
-      "confianca": 70,
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Gaza youth artist finds outlet for her trauma and grief from Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/11/5/gaza-youth-artist-finds-outlet-for-her-trauma-and-grief-from-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
-          "url": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss"
-        },
-        {
-          "title": "Iran releases two French nationals imprisoned for three years",
-          "url": "https://www.aljazeera.com/news/2025/11/5/iran-releases-two-french-nationals-imprisoned-for-three-years?traffic_source=rss"
-        },
-        {
-          "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss"
+          "title": "The federal shutdown and the Senate filibuster: What could happen now?",
+          "url": "https://www.aljazeera.com/news/2025/11/5/the-federal-shutdown-and-the-senate-filibuster-what-could-happen-now?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006066319629462597,
-      "chg5d": -0.0016262840438890085,
-      "chg1m": -0.05689950217797136
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "The federal shutdown and the Senate filibuster: What could happen now?",
+          "url": "https://www.aljazeera.com/news/2025/11/5/the-federal-shutdown-and-the-senate-filibuster-what-could-happen-now?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008208955223880673,
+      "chg5d": -0.014827418570734064,
+      "chg1m": -0.004013761467889866
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "The federal shutdown and the Senate filibuster: What could happen now?",
+          "url": "https://www.aljazeera.com/news/2025/11/5/the-federal-shutdown-and-the-senate-filibuster-what-could-happen-now?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00427937020589419,
+      "chg5d": -0.021816065558299392,
+      "chg1m": 0.02876710062695404
     }
   ]
 }
