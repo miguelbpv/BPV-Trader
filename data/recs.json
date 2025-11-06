@@ -1,30 +1,56 @@
 {
-  "generated_at": "2025-11-06T15:14:37.972604Z",
+  "generated_at": "2025-11-06T18:19:14.890277Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Israel ramps up Lebanon strikes as Hezbollah vows to defend itself",
-          "url": "https://www.aljazeera.com/news/2025/11/6/israel-ramps-up-lebanon-strikes-as-hezbollah-vows-to-defend-itself?traffic_source=rss"
-        },
-        {
-          "title": "Teenager killed as Israeli attacks in occupied West Bank surge",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/teenager-killed-as-israeli-attacks-in-occupied-west-bank-surge?traffic_source=rss"
+          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
+          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0015745868030604146,
-      "chg5d": -0.03537735849056613,
-      "chg1m": -0.08097933932531809
+      "chg1d": -0.01437133905462461,
+      "chg5d": -0.04551150979486845,
+      "chg1m": -0.04958623407329557
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
+          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02235898778930841,
+      "chg5d": -0.022166923152483673,
+      "chg1m": 0.024353433491116024
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
+          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006285029940119708,
+      "chg5d": -0.035575805476777154,
+      "chg1m": 0.0499893704254868
     },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Israel ramps up Lebanon strikes as Hezbollah vows to defend itself",
@@ -35,15 +61,34 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/teenager-killed-as-israeli-attacks-in-occupied-west-bank-surge?traffic_source=rss"
         }
       ],
-      "chg1d": 0.017330130404941666,
-      "chg5d": 0.016516173276946024,
-      "chg1m": -0.00039339103068446207
+      "chg1d": 0.011439029970258523,
+      "chg5d": 0.010629786261287083,
+      "chg1m": -0.0061818590536135455
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Israel ramps up Lebanon strikes as Hezbollah vows to defend itself",
+          "url": "https://www.aljazeera.com/news/2025/11/6/israel-ramps-up-lebanon-strikes-as-hezbollah-vows-to-defend-itself?traffic_source=rss"
+        },
+        {
+          "title": "Teenager killed as Israeli attacks in occupied West Bank surge",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/teenager-killed-as-israeli-attacks-in-occupied-west-bank-surge?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013367924927082922,
+      "chg5d": -0.04677142040349599,
+      "chg1m": -0.09183475351153654
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Israel ramps up Lebanon strikes as Hezbollah vows to defend itself",
