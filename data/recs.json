@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T03:43:28.895212Z",
+  "generated_at": "2025-11-06T06:20:13.187651Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
@@ -25,33 +25,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
-          "url": "https://www.aljazeera.com/news/2025/11/5/hamas-returns-another-israeli-captives-body-as-gaza-suffers-aid-shortages?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s focus on political drama rather than Palestinian rape victim",
-          "url": "https://www.aljazeera.com/news/2025/11/5/israels-focus-on-political-drama-rather-than-palestinian-rape-victim?traffic_source=rss"
-        },
-        {
-          "title": "Packed soup kitchens feed Gaza as Israel blocks entry of aid trucks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/5/packed-soup-kitchens-feed-gaza-as-israel-blocks-entry-of-aid-trucks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0025232251404977506,
-      "chg5d": -0.0068174071128281844,
-      "chg1m": -0.02324282042686332
-    },
-    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
@@ -71,18 +48,52 @@
       "chg1m": -0.0742168391805428
     },
     {
-      "symbol": "TSM",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 2.19,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
+          "url": "https://www.aljazeera.com/news/2025/11/5/hamas-returns-another-israeli-captives-body-as-gaza-suffers-aid-shortages?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s focus on political drama rather than Palestinian rape victim",
+          "url": "https://www.aljazeera.com/news/2025/11/5/israels-focus-on-political-drama-rather-than-palestinian-rape-victim?traffic_source=rss"
+        },
+        {
+          "title": "Packed soup kitchens feed Gaza as Israel blocks entry of aid trucks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/5/packed-soup-kitchens-feed-gaza-as-israel-blocks-entry-of-aid-trucks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0026379171923386164,
+      "chg5d": -0.006703783660947658,
+      "chg1m": -0.02313107609788796
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
           "title": "The hidden cost of Trump’s tariffs",
           "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.013211796454850698,
+      "chg5d": -0.025297896978073213,
+      "chg1m": 0.04135488376733518
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "US Supreme Court justices grill lawyer for Trump on legality of tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/5/us-supreme-court-justices-grill-lawyer-for-trump-on-legality-of-tariffs?traffic_source=rss"
+          "title": "The hidden cost of Trump’s tariffs",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
         }
       ],
       "chg1d": -0.0013943206937596497,
@@ -92,40 +103,17 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
           "title": "The hidden cost of Trump’s tariffs",
           "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
-        },
-        {
-          "title": "US Supreme Court justices grill lawyer for Trump on legality of tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/5/us-supreme-court-justices-grill-lawyer-for-trump-on-legality-of-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.030581246202659833,
-      "chg5d": -0.013824289405684849,
-      "chg1m": 0.08304068674399619
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "The hidden cost of Trump’s tariffs",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
-        },
-        {
-          "title": "US Supreme Court justices grill lawyer for Trump on legality of tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/5/us-supreme-court-justices-grill-lawyer-for-trump-on-legality-of-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013240918710078117,
-      "chg5d": -0.025269881588285782,
-      "chg1m": 0.041384814925670976
+      "chg1d": 0.031087558225882793,
+      "chg5d": -0.01333979328165373,
+      "chg1m": 0.08357277145188181
     }
   ]
 }
