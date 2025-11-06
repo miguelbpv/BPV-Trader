@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-05T21:12:19.467012Z",
+  "generated_at": "2025-11-06T01:00:18.142050Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
+          "url": "https://www.aljazeera.com/news/2025/11/5/hamas-returns-another-israeli-captives-body-as-gaza-suffers-aid-shortages?traffic_source=rss"
+        },
         {
           "title": "Israel’s focus on political drama rather than Palestinian rape victim",
           "url": "https://www.aljazeera.com/news/2025/11/5/israels-focus-on-political-drama-rather-than-palestinian-rape-victim?traffic_source=rss"
@@ -14,26 +18,22 @@
         {
           "title": "Packed soup kitchens feed Gaza as Israel blocks entry of aid trucks",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/5/packed-soup-kitchens-feed-gaza-as-israel-blocks-entry-of-aid-trucks?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills one in south Lebanon as Bekaa Valley still reels from war",
-          "url": "https://www.aljazeera.com/news/2025/11/5/israel-kills-one-in-south-lebanon-as-bekaa-valley-still-reels-from-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel sets up checkpoint in Syria’s Quneitra in new breach of sovereignty",
-          "url": "https://www.aljazeera.com/news/2025/11/5/israel-sets-up-checkpoint-in-syrias-quneitra-in-new-breach-of-sovereignty?traffic_source=rss"
         }
       ],
-      "chg1d": -0.021547280300218657,
-      "chg5d": -0.022252900088599533,
-      "chg1m": -0.07149705519791813
+      "chg1d": -0.024413377871252487,
+      "chg5d": -0.02511693074815074,
+      "chg1m": -0.0742168391805428
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
+          "url": "https://www.aljazeera.com/news/2025/11/5/hamas-returns-another-israeli-captives-body-as-gaza-suffers-aid-shortages?traffic_source=rss"
+        },
         {
           "title": "Israel’s focus on political drama rather than Palestinian rape victim",
           "url": "https://www.aljazeera.com/news/2025/11/5/israels-focus-on-political-drama-rather-than-palestinian-rape-victim?traffic_source=rss"
@@ -41,14 +41,6 @@
         {
           "title": "Packed soup kitchens feed Gaza as Israel blocks entry of aid trucks",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/5/packed-soup-kitchens-feed-gaza-as-israel-blocks-entry-of-aid-trucks?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills one in south Lebanon as Bekaa Valley still reels from war",
-          "url": "https://www.aljazeera.com/news/2025/11/5/israel-kills-one-in-south-lebanon-as-bekaa-valley-still-reels-from-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel sets up checkpoint in Syria’s Quneitra in new breach of sovereignty",
-          "url": "https://www.aljazeera.com/news/2025/11/5/israel-sets-up-checkpoint-in-syrias-quneitra-in-new-breach-of-sovereignty?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,9 +50,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
+          "url": "https://www.aljazeera.com/news/2025/11/5/hamas-returns-another-israeli-captives-body-as-gaza-suffers-aid-shortages?traffic_source=rss"
+        },
         {
           "title": "Israel’s focus on political drama rather than Palestinian rape victim",
           "url": "https://www.aljazeera.com/news/2025/11/5/israels-focus-on-political-drama-rather-than-palestinian-rape-victim?traffic_source=rss"
@@ -68,124 +64,68 @@
         {
           "title": "Packed soup kitchens feed Gaza as Israel blocks entry of aid trucks",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/5/packed-soup-kitchens-feed-gaza-as-israel-blocks-entry-of-aid-trucks?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills one in south Lebanon as Bekaa Valley still reels from war",
-          "url": "https://www.aljazeera.com/news/2025/11/5/israel-kills-one-in-south-lebanon-as-bekaa-valley-still-reels-from-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel sets up checkpoint in Syria’s Quneitra in new breach of sovereignty",
-          "url": "https://www.aljazeera.com/news/2025/11/5/israel-sets-up-checkpoint-in-syrias-quneitra-in-new-breach-of-sovereignty?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003899529762587492,
-      "chg5d": -0.005453925690262515,
-      "chg1m": -0.021901888479159613
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "The federal shutdown and the Senate filibuster: What could happen now?",
-          "url": "https://www.aljazeera.com/news/2025/11/5/the-federal-shutdown-and-the-senate-filibuster-what-could-happen-now?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007299152200242199,
-      "chg5d": -0.018874750302782455,
-      "chg1m": 0.03186051512795486
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "The federal shutdown and the Senate filibuster: What could happen now?",
-          "url": "https://www.aljazeera.com/news/2025/11/5/the-federal-shutdown-and-the-senate-filibuster-what-could-happen-now?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "The federal shutdown and the Senate filibuster: What could happen now?",
-          "url": "https://www.aljazeera.com/news/2025/11/5/the-federal-shutdown-and-the-senate-filibuster-what-could-happen-now?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004457674308394039,
-      "chg5d": -0.013296672922212989,
-      "chg1m": 0.013644787183165943
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "The federal shutdown and the Senate filibuster: What could happen now?",
-          "url": "https://www.aljazeera.com/news/2025/11/5/the-federal-shutdown-and-the-senate-filibuster-what-could-happen-now?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015464344941956958,
-      "chg5d": -0.007737805866148098,
-      "chg1m": 0.003153669724770684
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US Supreme Court justices grill lawyer for Trump on legality of tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/5/us-supreme-court-justices-grill-lawyer-for-trump-on-legality-of-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03456423411867957,
-      "chg5d": -0.010012919896640899,
-      "chg1m": 0.08722641977936212
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US Supreme Court justices grill lawyer for Trump on legality of tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/5/us-supreme-court-justices-grill-lawyer-for-trump-on-legality-of-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015318306249635944,
-      "chg5d": -0.023271450450113786,
-      "chg1m": 0.04351990422029345
+      "chg1d": 0.0025232251404977506,
+      "chg5d": -0.0068174071128281844,
+      "chg1m": -0.02324282042686332
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "The hidden cost of Trump’s tariffs",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
+        },
         {
           "title": "US Supreme Court justices grill lawyer for Trump on legality of tariffs",
           "url": "https://www.aljazeera.com/economy/2025/11/5/us-supreme-court-justices-grill-lawyer-for-trump-on-legality-of-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0039108995068865065,
-      "chg5d": -0.03241666393523218,
-      "chg1m": 0.00397918579736767
+      "chg1d": -0.0013943206937596497,
+      "chg5d": -0.037529909207119176,
+      "chg1m": -0.0013263952657891589
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "The hidden cost of Trump’s tariffs",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
+        },
+        {
+          "title": "US Supreme Court justices grill lawyer for Trump on legality of tariffs",
+          "url": "https://www.aljazeera.com/economy/2025/11/5/us-supreme-court-justices-grill-lawyer-for-trump-on-legality-of-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013240918710078117,
+      "chg5d": -0.025269881588285782,
+      "chg1m": 0.041384814925670976
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "The hidden cost of Trump’s tariffs",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
+        },
+        {
+          "title": "US Supreme Court justices grill lawyer for Trump on legality of tariffs",
+          "url": "https://www.aljazeera.com/economy/2025/11/5/us-supreme-court-justices-grill-lawyer-for-trump-on-legality-of-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.030581246202659833,
+      "chg5d": -0.013824289405684849,
+      "chg1m": 0.08304068674399619
     }
   ]
 }
