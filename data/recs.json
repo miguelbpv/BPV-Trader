@@ -1,57 +1,20 @@
 {
-  "generated_at": "2025-11-06T18:19:14.890277Z",
+  "generated_at": "2025-11-06T21:11:45.418522Z",
   "recs": [
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
-          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01437133905462461,
-      "chg5d": -0.04551150979486845,
-      "chg1m": -0.04958623407329557
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
-          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02235898778930841,
-      "chg5d": -0.022166923152483673,
-      "chg1m": 0.024353433491116024
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
-          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006285029940119708,
-      "chg5d": -0.035575805476777154,
-      "chg1m": 0.0499893704254868
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Israel pounds southern Lebanon with drone, airstrikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Trump says he was ‘very much in charge’ of Israel’s attack on Iran",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/trump-live-us-shutdown-sends-airlines-scrambling-flights-may-be-cut?traffic_source=rss"
+        },
         {
           "title": "Israel ramps up Lebanon strikes as Hezbollah vows to defend itself",
           "url": "https://www.aljazeera.com/news/2025/11/6/israel-ramps-up-lebanon-strikes-as-hezbollah-vows-to-defend-itself?traffic_source=rss"
@@ -61,35 +24,24 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/teenager-killed-as-israeli-attacks-in-occupied-west-bank-surge?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011439029970258523,
-      "chg5d": 0.010629786261287083,
-      "chg1m": -0.0061818590536135455
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Israel ramps up Lebanon strikes as Hezbollah vows to defend itself",
-          "url": "https://www.aljazeera.com/news/2025/11/6/israel-ramps-up-lebanon-strikes-as-hezbollah-vows-to-defend-itself?traffic_source=rss"
-        },
-        {
-          "title": "Teenager killed as Israeli attacks in occupied West Bank surge",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/teenager-killed-as-israeli-attacks-in-occupied-west-bank-surge?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013367924927082922,
-      "chg5d": -0.04677142040349599,
-      "chg1m": -0.09183475351153654
+      "chg1d": 0.010009151223976206,
+      "chg5d": 0.009201051548748507,
+      "chg1m": -0.0075868270203439045
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Israel pounds southern Lebanon with drone, airstrikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Trump says he was ‘very much in charge’ of Israel’s attack on Iran",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/trump-live-us-shutdown-sends-airlines-scrambling-flights-may-be-cut?traffic_source=rss"
+        },
         {
           "title": "Israel ramps up Lebanon strikes as Hezbollah vows to defend itself",
           "url": "https://www.aljazeera.com/news/2025/11/6/israel-ramps-up-lebanon-strikes-as-hezbollah-vows-to-defend-itself?traffic_source=rss"
@@ -102,6 +54,78 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Israel pounds southern Lebanon with drone, airstrikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Trump says he was ‘very much in charge’ of Israel’s attack on Iran",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/trump-live-us-shutdown-sends-airlines-scrambling-flights-may-be-cut?traffic_source=rss"
+        },
+        {
+          "title": "Israel ramps up Lebanon strikes as Hezbollah vows to defend itself",
+          "url": "https://www.aljazeera.com/news/2025/11/6/israel-ramps-up-lebanon-strikes-as-hezbollah-vows-to-defend-itself?traffic_source=rss"
+        },
+        {
+          "title": "Teenager killed as Israeli attacks in occupied West Bank surge",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/teenager-killed-as-israeli-attacks-in-occupied-west-bank-surge?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0079257724986262,
+      "chg5d": -0.041513517928612347,
+      "chg1m": -0.08682541535348819
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
+          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.027105771434183485,
+      "chg5d": -0.026914639337284392,
+      "chg1m": 0.01937984496124023
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
+          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.016550878626890118,
+      "chg5d": -0.04762218850999292,
+      "chg1m": -0.051687902272428775
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
+          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.014558083832335268,
+      "chg5d": -0.04360500255706912,
+      "chg1m": 0.04124781081382059
     }
   ]
 }
