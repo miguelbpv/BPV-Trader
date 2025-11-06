@@ -1,23 +1,19 @@
 {
-  "generated_at": "2025-11-06T09:14:46.313066Z",
+  "generated_at": "2025-11-06T12:25:59.555976Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "For Gaza’s fishermen, the sea is their last lifeline after Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/11/6/for-gazas-fishermen-the-sea-is-their-last-lifeline-after-israels-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2025/11/6/for-gazas-fishermen-the-sea-is-their-last-lifeline-after-israels-war"
         },
         {
           "title": "LIVE: Israel kills more Palestinians in Gaza as US peace plan given to UN",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/live-israel-kills-more-palestinians-in-gaza-as-us-peace-plan-given-to-un?traffic_source=rss"
-        },
-        {
-          "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
-          "url": "https://www.aljazeera.com/news/2025/11/5/hamas-returns-another-israeli-captives-body-as-gaza-suffers-aid-shortages?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/live-israel-kills-more-palestinians-in-gaza-as-us-peace-plan-given-to-un"
         }
       ],
       "chg1d": -0.024413377871252487,
@@ -25,45 +21,18 @@
       "chg1m": -0.0742168391805428
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "For Gaza’s fishermen, the sea is their last lifeline after Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/11/6/for-gazas-fishermen-the-sea-is-their-last-lifeline-after-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills more Palestinians in Gaza as US peace plan given to UN",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/live-israel-kills-more-palestinians-in-gaza-as-us-peace-plan-given-to-un?traffic_source=rss"
-        },
-        {
-          "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
-          "url": "https://www.aljazeera.com/news/2025/11/5/hamas-returns-another-israeli-captives-body-as-gaza-suffers-aid-shortages?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0026379171923386164,
-      "chg5d": -0.006703783660947658,
-      "chg1m": -0.02313107609788796
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "For Gaza’s fishermen, the sea is their last lifeline after Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/11/6/for-gazas-fishermen-the-sea-is-their-last-lifeline-after-israels-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2025/11/6/for-gazas-fishermen-the-sea-is-their-last-lifeline-after-israels-war"
         },
         {
           "title": "LIVE: Israel kills more Palestinians in Gaza as US peace plan given to UN",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/live-israel-kills-more-palestinians-in-gaza-as-us-peace-plan-given-to-un?traffic_source=rss"
-        },
-        {
-          "title": "Hamas returns another Israeli captive’s body as Gaza suffers aid shortages",
-          "url": "https://www.aljazeera.com/news/2025/11/5/hamas-returns-another-israeli-captives-body-as-gaza-suffers-aid-shortages?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/live-israel-kills-more-palestinians-in-gaza-as-us-peace-plan-given-to-un"
         }
       ],
       "chg1d": 0.0,
@@ -71,37 +40,33 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "North Korea accuses US of ‘wicked’ hostility over cybercrime sanctions",
-          "url": "https://www.aljazeera.com/news/2025/11/6/north-korea-accuses-us-of-wicked-hostility-over-cybercrime-sanctions?traffic_source=rss"
+          "title": "For Gaza’s fishermen, the sea is their last lifeline after Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/11/6/for-gazas-fishermen-the-sea-is-their-last-lifeline-after-israels-war"
         },
         {
-          "title": "The hidden cost of Trump’s tariffs",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
+          "title": "LIVE: Israel kills more Palestinians in Gaza as US peace plan given to UN",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/live-israel-kills-more-palestinians-in-gaza-as-us-peace-plan-given-to-un"
         }
       ],
-      "chg1d": -0.0013943206937596497,
-      "chg5d": -0.037529909207119176,
-      "chg1m": -0.0013263952657891589
+      "chg1d": 0.0026379171923386164,
+      "chg5d": -0.006703783660947658,
+      "chg1m": -0.02313107609788796
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
           "title": "North Korea accuses US of ‘wicked’ hostility over cybercrime sanctions",
-          "url": "https://www.aljazeera.com/news/2025/11/6/north-korea-accuses-us-of-wicked-hostility-over-cybercrime-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "The hidden cost of Trump’s tariffs",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2025/11/6/north-korea-accuses-us-of-wicked-hostility-over-cybercrime-sanctions"
         }
       ],
       "chg1d": 0.031087558225882793,
@@ -109,18 +74,29 @@
       "chg1m": 0.08357277145188181
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
           "title": "North Korea accuses US of ‘wicked’ hostility over cybercrime sanctions",
-          "url": "https://www.aljazeera.com/news/2025/11/6/north-korea-accuses-us-of-wicked-hostility-over-cybercrime-sanctions?traffic_source=rss"
-        },
+          "url": "https://www.aljazeera.com/news/2025/11/6/north-korea-accuses-us-of-wicked-hostility-over-cybercrime-sanctions"
+        }
+      ],
+      "chg1d": -0.0013943206937596497,
+      "chg5d": -0.037529909207119176,
+      "chg1m": -0.0013263952657891589
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "The hidden cost of Trump’s tariffs",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/5/aje-onl-aj_tt_ind_tariffsimpact_v3-051125?traffic_source=rss"
+          "title": "North Korea accuses US of ‘wicked’ hostility over cybercrime sanctions",
+          "url": "https://www.aljazeera.com/news/2025/11/6/north-korea-accuses-us-of-wicked-hostility-over-cybercrime-sanctions"
         }
       ],
       "chg1d": 0.013211796454850698,
