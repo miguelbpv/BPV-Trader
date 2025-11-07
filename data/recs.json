@@ -1,6 +1,25 @@
 {
-  "generated_at": "2025-11-07T12:24:55.154125Z",
+  "generated_at": "2025-11-07T15:13:25.730358Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
+        },
+        {
+          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "XLE",
       "acao": "observar",
@@ -8,17 +27,17 @@
       "confianca": 35,
       "razoes": [
         {
-          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
+          "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel vows to destroy all Hamas tunnels in Gaza as attacks continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/7/live-israel-vows-to-destroy-all-hamas-tunnels-in-gaza-as-attacks-continue?traffic_source=rss"
+          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009723175474719679,
-      "chg5d": 0.008915304606240727,
-      "chg1m": -0.007867820613690039
+      "chg1d": 0.013028208904497629,
+      "chg5d": 0.014637467377737506,
+      "chg1m": 0.018915223336371884
     },
     {
       "symbol": "LMT",
@@ -27,36 +46,17 @@
       "confianca": 35,
       "razoes": [
         {
-          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
+          "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
         },
-        {
-          "title": "LIVE: Israel vows to destroy all Hamas tunnels in Gaza as attacks continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/7/live-israel-vows-to-destroy-all-hamas-tunnels-in-gaza-as-attacks-continue?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00891913598512062,
-      "chg5d": -0.04247325002041985,
-      "chg1m": -0.08773977666238661
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
-      "razoes": [
         {
           "title": "Logic behind Israel’s attack on Lebanon “not very good”",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel vows to destroy all Hamas tunnels in Gaza as attacks continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/7/live-israel-vows-to-destroy-all-hamas-tunnels-in-gaza-as-attacks-continue?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.010801416019790152,
+      "chg5d": -0.056975278523217,
+      "chg1m": -0.08646801638569397
     }
   ]
 }
