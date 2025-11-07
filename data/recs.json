@@ -1,107 +1,107 @@
 {
-  "generated_at": "2025-11-07T18:18:13.639710Z",
+  "generated_at": "2025-11-07T21:09:06.803520Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US removes Syrian president from global ‘terrorist’ sanctions list",
+          "url": "https://www.aljazeera.com/news/2025/11/7/us-removes-syrian-president-from-global-terrorist-sanctions-list?traffic_source=rss"
+        },
+        {
+          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
+          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.017008403361344546,
+      "chg5d": -0.04602838036209432,
+      "chg1m": 0.007753540783624522
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US removes Syrian president from global ‘terrorist’ sanctions list",
+          "url": "https://www.aljazeera.com/news/2025/11/7/us-removes-syrian-president-from-global-terrorist-sanctions-list?traffic_source=rss"
+        },
+        {
+          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
+          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011851749412252791,
+      "chg5d": -0.0486569250740605,
+      "chg1m": -0.04691209817260232
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US removes Syrian president from global ‘terrorist’ sanctions list",
+          "url": "https://www.aljazeera.com/news/2025/11/7/us-removes-syrian-president-from-global-terrorist-sanctions-list?traffic_source=rss"
+        },
+        {
+          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
+          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01648853478429851,
+      "chg5d": -0.044371855026764724,
+      "chg1m": 0.032318926305913126
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
-        },
-        {
-          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008723235527359355,
-      "chg5d": 0.01032565528196994,
-      "chg1m": 0.014585232452142218
+      "chg1d": -0.022626460803548607,
+      "chg5d": -0.06824835325689191,
+      "chg1m": -0.09738853001417991
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014331029794947327,
+      "chg5d": 0.015942357880403962,
+      "chg1m": 0.020225615314493975
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
-        },
-        {
-          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
-      "razoes": [
-        {
-          "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
-        },
-        {
-          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02153207370127108,
-      "chg5d": -0.06720505001219813,
-      "chg1m": -0.09637785567984877
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
-          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02495627671978241,
-      "chg5d": -0.05259952984715315,
-      "chg1m": 0.0234309666102352
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
-          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.027589545014520874,
-      "chg5d": -0.0638085410911028,
-      "chg1m": -0.06209150326797387
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
-          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.03599999999999993,
-      "chg5d": -0.06445930517044525,
-      "chg1m": -0.011716461628588089
     }
   ]
 }
