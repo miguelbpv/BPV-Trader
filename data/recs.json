@@ -1,73 +1,11 @@
 {
-  "generated_at": "2025-11-07T00:59:55.325970Z",
+  "generated_at": "2025-11-07T03:39:44.738410Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.2,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
-          "url": "https://www.aljazeera.com/news/2025/11/6/kazakhstan-which-already-recognises-israel-to-join-abraham-accords?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he was ‘very much in charge’ of Israel’s June 13 attack on Iran",
-          "url": "https://www.aljazeera.com/news/2025/11/6/trump-says-he-was-very-much-in-charge-of-israels-june-13-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Dutch court rejects bid to halt arms exports to Israel over Gaza war",
-          "url": "https://www.aljazeera.com/news/2025/11/6/dutch-court-rejects-bid-to-halt-arms-exports-to-israel-over-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds southern Lebanon with drone, airstrikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
-        },
-        {
-          "title": "Updates: Trump says he was ‘very much in charge’ of Israel’s attack on Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/trump-live-us-shutdown-sends-airlines-scrambling-flights-may-be-cut?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.2,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
-          "url": "https://www.aljazeera.com/news/2025/11/6/kazakhstan-which-already-recognises-israel-to-join-abraham-accords?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he was ‘very much in charge’ of Israel’s June 13 attack on Iran",
-          "url": "https://www.aljazeera.com/news/2025/11/6/trump-says-he-was-very-much-in-charge-of-israels-june-13-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Dutch court rejects bid to halt arms exports to Israel over Gaza war",
-          "url": "https://www.aljazeera.com/news/2025/11/6/dutch-court-rejects-bid-to-halt-arms-exports-to-israel-over-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds southern Lebanon with drone, airstrikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
-        },
-        {
-          "title": "Updates: Trump says he was ‘very much in charge’ of Israel’s attack on Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/trump-live-us-shutdown-sends-airlines-scrambling-flights-may-be-cut?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00891913598512062,
-      "chg5d": -0.04247325002041985,
-      "chg1m": -0.08773977666238661
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.2,
-      "confianca": 91,
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
         {
           "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
@@ -84,10 +22,6 @@
         {
           "title": "Israel pounds southern Lebanon with drone, airstrikes",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
-        },
-        {
-          "title": "Updates: Trump says he was ‘very much in charge’ of Israel’s attack on Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/6/trump-live-us-shutdown-sends-airlines-scrambling-flights-may-be-cut?traffic_source=rss"
         }
       ],
       "chg1d": 0.009723175474719679,
@@ -95,18 +29,83 @@
       "chg1m": -0.007867820613690039
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.45,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
+          "url": "https://www.aljazeera.com/news/2025/11/6/kazakhstan-which-already-recognises-israel-to-join-abraham-accords?traffic_source=rss"
+        },
+        {
+          "title": "Trump says he was ‘very much in charge’ of Israel’s June 13 attack on Iran",
+          "url": "https://www.aljazeera.com/news/2025/11/6/trump-says-he-was-very-much-in-charge-of-israels-june-13-attack-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Dutch court rejects bid to halt arms exports to Israel over Gaza war",
+          "url": "https://www.aljazeera.com/news/2025/11/6/dutch-court-rejects-bid-to-halt-arms-exports-to-israel-over-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel pounds southern Lebanon with drone, airstrikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00891913598512062,
+      "chg5d": -0.04247325002041985,
+      "chg1m": -0.08773977666238661
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.45,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
+          "url": "https://www.aljazeera.com/news/2025/11/6/kazakhstan-which-already-recognises-israel-to-join-abraham-accords?traffic_source=rss"
+        },
+        {
+          "title": "Trump says he was ‘very much in charge’ of Israel’s June 13 attack on Iran",
+          "url": "https://www.aljazeera.com/news/2025/11/6/trump-says-he-was-very-much-in-charge-of-israels-june-13-attack-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Dutch court rejects bid to halt arms exports to Israel over Gaza war",
+          "url": "https://www.aljazeera.com/news/2025/11/6/dutch-court-rejects-bid-to-halt-arms-exports-to-israel-over-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel pounds southern Lebanon with drone, airstrikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
           "title": "UNSC votes to drop sanctions on Syria’s al-Sharaa ahead of Washington visit",
           "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": -0.02654925197237049,
+      "chg5d": -0.026358010543204254,
+      "chg1m": 0.019962955340605038
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
-          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
+          "title": "UNSC votes to drop sanctions on Syria’s al-Sharaa ahead of Washington visit",
+          "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
         }
       ],
       "chg1d": -0.013940119760478998,
@@ -116,40 +115,17 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
           "title": "UNSC votes to drop sanctions on Syria’s al-Sharaa ahead of Washington visit",
           "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
-        },
-        {
-          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
-          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
         }
       ],
       "chg1d": -0.01512055578259092,
       "chg5d": -0.04623705560319252,
       "chg1m": -0.05030868251674765
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "UNSC votes to drop sanctions on Syria’s al-Sharaa ahead of Washington visit",
-          "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
-        },
-        {
-          "title": "What has US Supreme Court said about Trump’s trade tariffs? Does it matter?",
-          "url": "https://www.aljazeera.com/news/2025/11/6/what-has-us-supreme-court-said-about-trumps-trade-tariffs-does-it-matter?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02654925197237049,
-      "chg5d": -0.026358010543204254,
-      "chg1m": 0.019962955340605038
     }
   ]
 }
