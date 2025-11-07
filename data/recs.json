@@ -1,38 +1,19 @@
 {
-  "generated_at": "2025-11-07T09:13:44.616842Z",
+  "generated_at": "2025-11-07T12:24:55.154125Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "LIVE: Israel vows to destroy all Hamas tunnels in Gaza as attacks continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/7/live-israel-vows-to-destroy-all-hamas-tunnels-in-gaza-as-attacks-continue?traffic_source=rss"
-        },
-        {
-          "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
-          "url": "https://www.aljazeera.com/news/2025/11/6/kazakhstan-which-already-recognises-israel-to-join-abraham-accords?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00891913598512062,
-      "chg5d": -0.04247325002041985,
-      "chg1m": -0.08773977666238661
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel vows to destroy all Hamas tunnels in Gaza as attacks continue",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/7/live-israel-vows-to-destroy-all-hamas-tunnels-in-gaza-as-attacks-continue?traffic_source=rss"
-        },
-        {
-          "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
-          "url": "https://www.aljazeera.com/news/2025/11/6/kazakhstan-which-already-recognises-israel-to-join-abraham-accords?traffic_source=rss"
         }
       ],
       "chg1d": 0.009723175474719679,
@@ -40,68 +21,42 @@
       "chg1m": -0.007867820613690039
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel vows to destroy all Hamas tunnels in Gaza as attacks continue",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/7/live-israel-vows-to-destroy-all-hamas-tunnels-in-gaza-as-attacks-continue?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00891913598512062,
+      "chg5d": -0.04247325002041985,
+      "chg1m": -0.08773977666238661
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Logic behind Israel’s attack on Lebanon “not very good”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/logic-behind-israels-attack-on-lebanon-not-very?traffic_source=rss"
         },
         {
-          "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
-          "url": "https://www.aljazeera.com/news/2025/11/6/kazakhstan-which-already-recognises-israel-to-join-abraham-accords?traffic_source=rss"
+          "title": "LIVE: Israel vows to destroy all Hamas tunnels in Gaza as attacks continue",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/7/live-israel-vows-to-destroy-all-hamas-tunnels-in-gaza-as-attacks-continue?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "UNSC votes to drop sanctions on Syria’s al-Sharaa ahead of Washington visit",
-          "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02609094182734811,
-      "chg5d": -0.025899610359844224,
-      "chg1m": 0.02044316388831714
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "UNSC votes to drop sanctions on Syria’s al-Sharaa ahead of Washington visit",
-          "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.014984334559324266,
-      "chg5d": -0.04610513818349719,
-      "chg1m": -0.05017732825430177
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "UNSC votes to drop sanctions on Syria’s al-Sharaa ahead of Washington visit",
-          "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013940119760478998,
-      "chg5d": -0.04300525361476591,
-      "chg1m": 0.04190077039106721
     }
   ]
 }
