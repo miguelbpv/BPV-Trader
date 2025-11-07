@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-11-07T03:39:44.738410Z",
+  "generated_at": "2025-11-07T06:19:58.201043Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
-          "url": "https://www.aljazeera.com/news/2025/11/6/kazakhstan-which-already-recognises-israel-to-join-abraham-accords?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he was ‘very much in charge’ of Israel’s June 13 attack on Iran",
-          "url": "https://www.aljazeera.com/news/2025/11/6/trump-says-he-was-very-much-in-charge-of-israels-june-13-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Dutch court rejects bid to halt arms exports to Israel over Gaza war",
-          "url": "https://www.aljazeera.com/news/2025/11/6/dutch-court-rejects-bid-to-halt-arms-exports-to-israel-over-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel pounds southern Lebanon with drone, airstrikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009723175474719679,
-      "chg5d": 0.008915304606240727,
-      "chg1m": -0.007867820613690039
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
+      "score": 2.42,
+      "confianca": 69,
       "razoes": [
         {
           "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
@@ -58,8 +31,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
+      "score": 2.42,
+      "confianca": 69,
       "razoes": [
         {
           "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
@@ -83,9 +56,36 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.42,
+      "confianca": 69,
+      "razoes": [
+        {
+          "title": "Kazakhstan, which already recognises Israel, to join ‘Abraham Accords’",
+          "url": "https://www.aljazeera.com/news/2025/11/6/kazakhstan-which-already-recognises-israel-to-join-abraham-accords?traffic_source=rss"
+        },
+        {
+          "title": "Trump says he was ‘very much in charge’ of Israel’s June 13 attack on Iran",
+          "url": "https://www.aljazeera.com/news/2025/11/6/trump-says-he-was-very-much-in-charge-of-israels-june-13-attack-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Dutch court rejects bid to halt arms exports to Israel over Gaza war",
+          "url": "https://www.aljazeera.com/news/2025/11/6/dutch-court-rejects-bid-to-halt-arms-exports-to-israel-over-gaza-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel pounds southern Lebanon with drone, airstrikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/6/israel-pounds-southern-lebanon-with-drone-airstrikes-2?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009723175474719679,
+      "chg5d": 0.008915304606240727,
+      "chg1m": -0.007867820613690039
+    },
+    {
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -93,14 +93,29 @@
           "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
         }
       ],
-      "chg1d": -0.02654925197237049,
-      "chg5d": -0.026358010543204254,
-      "chg1m": 0.019962955340605038
+      "chg1d": -0.014984334559324266,
+      "chg5d": -0.04610513818349719,
+      "chg1m": -0.05017732825430177
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "UNSC votes to drop sanctions on Syria’s al-Sharaa ahead of Washington visit",
+          "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02609094182734811,
+      "chg5d": -0.025899610359844224,
+      "chg1m": 0.02044316388831714
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -111,21 +126,6 @@
       "chg1d": -0.013940119760478998,
       "chg5d": -0.04300525361476591,
       "chg1m": 0.04190077039106721
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "UNSC votes to drop sanctions on Syria’s al-Sharaa ahead of Washington visit",
-          "url": "https://www.aljazeera.com/news/2025/11/6/unsc-votes-to-drop-sanctions-on-syrias-al-sharaa-ahead-of-washington-visit?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01512055578259092,
-      "chg5d": -0.04623705560319252,
-      "chg1m": -0.05030868251674765
     }
   ]
 }
