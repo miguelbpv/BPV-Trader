@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-11-08T18:16:20.107393Z",
+  "generated_at": "2025-11-08T21:09:47.245311Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.38,
+      "score": 4.34,
       "confianca": 95,
       "razoes": [
         {
@@ -28,14 +28,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/8/hamas-returns-latest-captive-body-to-israel?traffic_source=rss"
         }
       ],
-      "chg1d": -0.022541158406551208,
-      "chg5d": -0.06816703260957951,
-      "chg1m": -0.097309752639042
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.38,
+      "score": 4.34,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +64,9 @@
       "chg1m": 0.020282588878760267
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.38,
+      "score": 4.34,
       "confianca": 95,
       "razoes": [
         {
@@ -90,9 +90,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/8/hamas-returns-latest-captive-body-to-israel?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.022541158406551208,
+      "chg5d": -0.06816703260957951,
+      "chg1m": -0.097309752639042
     }
   ]
 }
