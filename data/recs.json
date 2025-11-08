@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-11-08T12:21:50.571136Z",
+  "generated_at": "2025-11-08T15:11:12.388821Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.15,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Gaza’s water turns poisonous as Israel’s genocide leaves toxic aftermath",
-          "url": "https://www.aljazeera.com/news/2025/11/8/gazas-water-turns-deadly-as-israels-genocide-leaves-toxic-aftermath?traffic_source=rss"
-        },
-        {
-          "title": "Israel-Premier Tech cycling team loses title sponsor after protests",
-          "url": "https://www.aljazeera.com/sports/2025/11/8/israel-premier-tech-cycling-team-loses-title-sponsor-after-protests?traffic_source=rss"
-        },
-        {
-          "title": "Hamas returns latest captive body to Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/8/hamas-returns-latest-captive-body-to-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israeli orchestra interrupted by protester with flare",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/8/israeli-orchestra-interrupted-by-protester-with-flare?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli air raids, demolitions hit Gaza despite ceasefire with Hamas",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/8/live-israeli-air-raids-demolitions-hit-gaza-despite-ceasefire-with-hamas?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.15,
+      "score": 3.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attacks kill 3 in Lebanon as EU urges it to respect the ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/8/israeli-attacks-kill-two-in-lebanon-as-eu-urges-it-to-respect-the-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Gaza’s water turns poisonous as Israel’s genocide leaves toxic aftermath",
           "url": "https://www.aljazeera.com/news/2025/11/8/gazas-water-turns-deadly-as-israels-genocide-leaves-toxic-aftermath?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israeli orchestra interrupted by protester with flare",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/8/israeli-orchestra-interrupted-by-protester-with-flare?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli air raids, demolitions hit Gaza despite ceasefire with Hamas",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/8/live-israeli-air-raids-demolitions-hit-gaza-despite-ceasefire-with-hamas?traffic_source=rss"
         }
       ],
       "chg1d": -0.022541158406551208,
@@ -66,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.15,
+      "score": 3.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attacks kill 3 in Lebanon as EU urges it to respect the ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/8/israeli-attacks-kill-two-in-lebanon-as-eu-urges-it-to-respect-the-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Gaza’s water turns poisonous as Israel’s genocide leaves toxic aftermath",
           "url": "https://www.aljazeera.com/news/2025/11/8/gazas-water-turns-deadly-as-israels-genocide-leaves-toxic-aftermath?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "Israeli orchestra interrupted by protester with flare",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/8/israeli-orchestra-interrupted-by-protester-with-flare?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli air raids, demolitions hit Gaza despite ceasefire with Hamas",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/8/live-israeli-air-raids-demolitions-hit-gaza-despite-ceasefire-with-hamas?traffic_source=rss"
         }
       ],
       "chg1d": 0.014387674181488732,
       "chg5d": 0.015999092250085226,
       "chg1m": 0.020282588878760267
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.92,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli attacks kill 3 in Lebanon as EU urges it to respect the ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/8/israeli-attacks-kill-two-in-lebanon-as-eu-urges-it-to-respect-the-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s water turns poisonous as Israel’s genocide leaves toxic aftermath",
+          "url": "https://www.aljazeera.com/news/2025/11/8/gazas-water-turns-deadly-as-israels-genocide-leaves-toxic-aftermath?traffic_source=rss"
+        },
+        {
+          "title": "Israel-Premier Tech cycling team loses title sponsor after protests",
+          "url": "https://www.aljazeera.com/sports/2025/11/8/israel-premier-tech-cycling-team-loses-title-sponsor-after-protests?traffic_source=rss"
+        },
+        {
+          "title": "Hamas returns latest captive body to Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/8/hamas-returns-latest-captive-body-to-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israeli orchestra interrupted by protester with flare",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/8/israeli-orchestra-interrupted-by-protester-with-flare?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
