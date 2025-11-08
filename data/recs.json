@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T03:31:26.477688Z",
+  "generated_at": "2025-11-08T06:17:09.943461Z",
   "recs": [
     {
       "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.51,
-      "confianca": 71,
+      "acao": "observar",
+      "score": 1.67,
+      "confianca": 47,
       "razoes": [
         {
           "title": "US removes Syrian president from global ‘terrorist’ sanctions list",
@@ -14,44 +14,17 @@
         {
           "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
           "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
-        },
-        {
-          "title": "Trump exempts Hungary from Russian oil and gas sanctions: PM Viktor Orban",
-          "url": "https://www.aljazeera.com/news/2025/11/7/hungarian-leader-viktor-orban-to-meet-us-president-donald-trump?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010252100840336172,
-      "chg5d": -0.03947153808514116,
-      "chg1m": 0.01468003721699573
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.51,
-      "confianca": 71,
-      "razoes": [
-        {
-          "title": "US removes Syrian president from global ‘terrorist’ sanctions list",
-          "url": "https://www.aljazeera.com/news/2025/11/7/us-removes-syrian-president-from-global-terrorist-sanctions-list?traffic_source=rss"
-        },
-        {
-          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
-          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
-        },
-        {
-          "title": "Trump exempts Hungary from Russian oil and gas sanctions: PM Viktor Orban",
-          "url": "https://www.aljazeera.com/news/2025/11/7/hungarian-leader-viktor-orban-to-meet-us-president-donald-trump?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011892732219199386,
-      "chg5d": -0.03990634706343285,
-      "chg1m": 0.037142798865931095
+      "chg1d": -0.010487394957983209,
+      "chg5d": -0.03969988582612956,
+      "chg1m": 0.01443881594817188
     },
     {
       "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.51,
-      "confianca": 71,
+      "acao": "observar",
+      "score": 1.67,
+      "confianca": 47,
       "razoes": [
         {
           "title": "US removes Syrian president from global ‘terrorist’ sanctions list",
@@ -60,10 +33,6 @@
         {
           "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
           "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
-        },
-        {
-          "title": "Trump exempts Hungary from Russian oil and gas sanctions: PM Viktor Orban",
-          "url": "https://www.aljazeera.com/news/2025/11/7/hungarian-leader-viktor-orban-to-meet-us-president-donald-trump?traffic_source=rss"
         }
       ],
       "chg1d": -0.009473101922279107,
@@ -71,45 +40,37 @@
       "chg1m": -0.044617847138855526
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.31,
-      "confianca": 66,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.67,
+      "confianca": 47,
       "razoes": [
         {
-          "title": "UN warns Gaza aid still too slow as Israel restricts supplies despite truce",
-          "url": "https://www.aljazeera.com/news/2025/11/7/un-warns-gaza-aid-still-too-slow-as-israel-restricts-supplies-despite-truce?traffic_source=rss"
+          "title": "US removes Syrian president from global ‘terrorist’ sanctions list",
+          "url": "https://www.aljazeera.com/news/2025/11/7/us-removes-syrian-president-from-global-terrorist-sanctions-list?traffic_source=rss"
         },
         {
-          "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza ‘genocide’",
-          "url": "https://www.aljazeera.com/news/2025/11/7/turkiye-issues-arrest-warrant-for-israels-netanyahu-over-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Trump exempts Hungary from Russian oil and gas sanctions: PM Viktor Orban",
-          "url": "https://www.aljazeera.com/news/2025/11/7/hungarian-leader-viktor-orban-to-meet-us-president-donald-trump?traffic_source=rss"
+          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
+          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014387674181488732,
-      "chg5d": 0.015999092250085226,
-      "chg1m": 0.020282588878760267
+      "chg1d": -0.011892732219199386,
+      "chg5d": -0.03990634706343285,
+      "chg1m": 0.037142798865931095
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.31,
-      "confianca": 66,
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "UN warns Gaza aid still too slow as Israel restricts supplies despite truce",
           "url": "https://www.aljazeera.com/news/2025/11/7/un-warns-gaza-aid-still-too-slow-as-israel-restricts-supplies-despite-truce?traffic_source=rss"
         },
         {
-          "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza ‘genocide’",
+          "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza genocide",
           "url": "https://www.aljazeera.com/news/2025/11/7/turkiye-issues-arrest-warrant-for-israels-netanyahu-over-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Trump exempts Hungary from Russian oil and gas sanctions: PM Viktor Orban",
-          "url": "https://www.aljazeera.com/news/2025/11/7/hungarian-leader-viktor-orban-to-meet-us-president-donald-trump?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -119,7 +80,7 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.48,
+      "score": 1.47,
       "confianca": 42,
       "razoes": [
         {
@@ -127,13 +88,32 @@
           "url": "https://www.aljazeera.com/news/2025/11/7/un-warns-gaza-aid-still-too-slow-as-israel-restricts-supplies-despite-truce?traffic_source=rss"
         },
         {
-          "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza ‘genocide’",
+          "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza genocide",
           "url": "https://www.aljazeera.com/news/2025/11/7/turkiye-issues-arrest-warrant-for-israels-netanyahu-over-gaza-genocide?traffic_source=rss"
         }
       ],
       "chg1d": -0.022541158406551208,
       "chg5d": -0.06816703260957951,
       "chg1m": -0.097309752639042
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "UN warns Gaza aid still too slow as Israel restricts supplies despite truce",
+          "url": "https://www.aljazeera.com/news/2025/11/7/un-warns-gaza-aid-still-too-slow-as-israel-restricts-supplies-despite-truce?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza genocide",
+          "url": "https://www.aljazeera.com/news/2025/11/7/turkiye-issues-arrest-warrant-for-israels-netanyahu-over-gaza-genocide?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014387674181488732,
+      "chg5d": 0.015999092250085226,
+      "chg1m": 0.020282588878760267
     }
   ]
 }
