@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-11-07T21:09:06.803520Z",
+  "generated_at": "2025-11-08T00:56:39.168530Z",
   "recs": [
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.71,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -16,33 +16,14 @@
           "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
         }
       ],
-      "chg1d": -0.017008403361344546,
-      "chg5d": -0.04602838036209432,
-      "chg1m": 0.007753540783624522
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "US removes Syrian president from global ‘terrorist’ sanctions list",
-          "url": "https://www.aljazeera.com/news/2025/11/7/us-removes-syrian-president-from-global-terrorist-sanctions-list?traffic_source=rss"
-        },
-        {
-          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
-          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011851749412252791,
-      "chg5d": -0.0486569250740605,
-      "chg1m": -0.04691209817260232
+      "chg1d": -0.010252100840336172,
+      "chg5d": -0.03947153808514116,
+      "chg1m": 0.01468003721699573
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.71,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -54,49 +35,80 @@
           "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01648853478429851,
-      "chg5d": -0.044371855026764724,
-      "chg1m": 0.032318926305913126
+      "chg1d": -0.011892732219199386,
+      "chg5d": -0.03990634706343285,
+      "chg1m": 0.037142798865931095
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US removes Syrian president from global ‘terrorist’ sanctions list",
+          "url": "https://www.aljazeera.com/news/2025/11/7/us-removes-syrian-president-from-global-terrorist-sanctions-list?traffic_source=rss"
+        },
+        {
+          "title": "Honda profits tumble as Trump tariffs weigh on the carmaker",
+          "url": "https://www.aljazeera.com/economy/2025/11/7/honda-profits-tumble-as-trump-tariffs-weigh-on-the-carmaker?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009473101922279107,
+      "chg5d": -0.04636687414705591,
+      "chg1m": -0.044617847138855526
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
+          "title": "UN warns Gaza aid still too slow as Israel restricts supplies despite truce",
+          "url": "https://www.aljazeera.com/news/2025/11/7/un-warns-gaza-aid-still-too-slow-as-israel-restricts-supplies-despite-truce?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza ‘genocide’",
+          "url": "https://www.aljazeera.com/news/2025/11/7/turkiye-issues-arrest-warrant-for-israels-netanyahu-over-gaza-genocide?traffic_source=rss"
         }
       ],
-      "chg1d": -0.022626460803548607,
-      "chg5d": -0.06824835325689191,
-      "chg1m": -0.09738853001417991
+      "chg1d": -0.022541158406551208,
+      "chg5d": -0.06816703260957951,
+      "chg1m": -0.097309752639042
     },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
+          "title": "UN warns Gaza aid still too slow as Israel restricts supplies despite truce",
+          "url": "https://www.aljazeera.com/news/2025/11/7/un-warns-gaza-aid-still-too-slow-as-israel-restricts-supplies-despite-truce?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza ‘genocide’",
+          "url": "https://www.aljazeera.com/news/2025/11/7/turkiye-issues-arrest-warrant-for-israels-netanyahu-over-gaza-genocide?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014331029794947327,
-      "chg5d": 0.015942357880403962,
-      "chg1m": 0.020225615314493975
+      "chg1d": 0.014387674181488732,
+      "chg5d": 0.015999092250085226,
+      "chg1m": 0.020282588878760267
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Israeli bureaucracy is “deliberate attempt” to limit Gaza aid",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/7/israeli-bureaucracy-is-deliberate-attempt-to-limit-gaza-aid?traffic_source=rss"
+          "title": "UN warns Gaza aid still too slow as Israel restricts supplies despite truce",
+          "url": "https://www.aljazeera.com/news/2025/11/7/un-warns-gaza-aid-still-too-slow-as-israel-restricts-supplies-despite-truce?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza ‘genocide’",
+          "url": "https://www.aljazeera.com/news/2025/11/7/turkiye-issues-arrest-warrant-for-israels-netanyahu-over-gaza-genocide?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
