@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-11-09T15:11:02.697217Z",
+  "generated_at": "2025-11-09T18:16:01.373251Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.68,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers attack Palestinians “harvesting olives”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/9/israeli-settlers-attack-palestinians-harvesting?traffic_source=rss"
-        },
-        {
-          "title": "It’s not just Israel to blame for the medical evacuation crisis in Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/11/9/its-not-just-israel-to-blame-for-the-medical-evacuation-crisis-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill Palestinian man during occupied West Bank raid",
-          "url": "https://www.aljazeera.com/news/2025/11/9/israel-forces-kill-palestinian-man-during-occupied-west-bank-raid?traffic_source=rss"
-        },
-        {
-          "title": "Why does Israel play in European Football?",
-          "url": "https://www.aljazeera.com/video/game-theory/2025/11/9/aje-onl-israeluefa_v7-091125?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014387674181488732,
-      "chg5d": 0.015999092250085226,
-      "chg1m": 0.020282588878760267
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.68,
+      "score": 4.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel receives remains of soldier killed in Gaza in 2014",
+          "url": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israeli forces kill Palestinian man during occupied West Bank raid",
           "url": "https://www.aljazeera.com/news/2025/11/9/israel-forces-kill-palestinian-man-during-occupied-west-bank-raid?traffic_source=rss"
-        },
-        {
-          "title": "Why does Israel play in European Football?",
-          "url": "https://www.aljazeera.com/video/game-theory/2025/11/9/aje-onl-israeluefa_v7-091125?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.68,
+      "score": 4.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel receives remains of soldier killed in Gaza in 2014",
+          "url": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "Israeli forces kill Palestinian man during occupied West Bank raid",
           "url": "https://www.aljazeera.com/news/2025/11/9/israel-forces-kill-palestinian-man-during-occupied-west-bank-raid?traffic_source=rss"
-        },
-        {
-          "title": "Why does Israel play in European Football?",
-          "url": "https://www.aljazeera.com/video/game-theory/2025/11/9/aje-onl-israeluefa_v7-091125?traffic_source=rss"
         }
       ],
       "chg1d": -0.022541158406551208,
       "chg5d": -0.06816703260957951,
       "chg1m": -0.097309752639042
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.66,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel receives remains of soldier killed in Gaza in 2014",
+          "url": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians “harvesting olives”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/9/israeli-settlers-attack-palestinians-harvesting?traffic_source=rss"
+        },
+        {
+          "title": "It’s not just Israel to blame for the medical evacuation crisis in Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/11/9/its-not-just-israel-to-blame-for-the-medical-evacuation-crisis-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill Palestinian man during occupied West Bank raid",
+          "url": "https://www.aljazeera.com/news/2025/11/9/israel-forces-kill-palestinian-man-during-occupied-west-bank-raid?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014387674181488732,
+      "chg5d": 0.015999092250085226,
+      "chg1m": 0.020282588878760267
     }
   ]
 }
