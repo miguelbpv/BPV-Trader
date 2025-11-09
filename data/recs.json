@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-11-09T01:02:59.332286Z",
+  "generated_at": "2025-11-09T03:40:02.983307Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.6,
+      "score": 3.85,
       "confianca": 95,
       "razoes": [
         {
@@ -28,14 +28,14 @@
           "url": "https://www.aljazeera.com/news/2025/11/8/gazas-water-turns-deadly-as-israels-genocide-leaves-toxic-aftermath?traffic_source=rss"
         }
       ],
-      "chg1d": -0.022541158406551208,
-      "chg5d": -0.06816703260957951,
-      "chg1m": -0.097309752639042
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.6,
+      "score": 3.85,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +64,9 @@
       "chg1m": 0.020282588878760267
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.6,
+      "score": 3.85,
       "confianca": 95,
       "razoes": [
         {
@@ -90,9 +90,24 @@
           "url": "https://www.aljazeera.com/news/2025/11/8/gazas-water-turns-deadly-as-israels-genocide-leaves-toxic-aftermath?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.022541158406551208,
+      "chg5d": -0.06816703260957951,
+      "chg1m": -0.097309752639042
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Hungary claims ‘indefinite’ US sanctions waiver for Russian energy imports",
+          "url": "https://www.aljazeera.com/news/2025/11/8/hungary-claims-indefinite-us-sanctions-waiver-for-russian-energy-imports?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010487394957983209,
+      "chg5d": -0.03969988582612956,
+      "chg1m": 0.01443881594817188
     },
     {
       "symbol": "TSM",
@@ -123,21 +138,6 @@
       "chg1d": -0.011892732219199386,
       "chg5d": -0.03990634706343285,
       "chg1m": 0.037142798865931095
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Hungary claims ‘indefinite’ US sanctions waiver for Russian energy imports",
-          "url": "https://www.aljazeera.com/news/2025/11/8/hungary-claims-indefinite-us-sanctions-waiver-for-russian-energy-imports?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010487394957983209,
-      "chg5d": -0.03969988582612956,
-      "chg1m": 0.01443881594817188
     }
   ]
 }
