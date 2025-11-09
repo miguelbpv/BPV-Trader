@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-11-09T12:22:20.478993Z",
+  "generated_at": "2025-11-09T15:11:02.697217Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.91,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "It’s not just Israel to blame for the medical evacuation crisis in Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/11/9/its-not-just-israel-to-blame-for-the-medical-evacuation-crisis-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill Palestinian man during occupied West Bank raid",
-          "url": "https://www.aljazeera.com/news/2025/11/9/israel-forces-kill-palestinian-man-during-occupied-west-bank-raid?traffic_source=rss"
-        },
-        {
-          "title": "Why does Israel play in European Football?",
-          "url": "https://www.aljazeera.com/video/game-theory/2025/11/9/aje-onl-israeluefa_v7-091125?traffic_source=rss"
-        },
-        {
-          "title": "Activists protest PETA’s ‘silence’ over Israel’s killing of animals",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/activists-protest-petas-silence-over-israels-killing-of-animals?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel’s attacks continue in Gaza; Hamas to hand over Goldin’s body",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/9/live-israeli-killings-continue-in-gaza-west-bank-hamas-retrieves-body?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.022541158406551208,
-      "chg5d": -0.06816703260957951,
-      "chg1m": -0.097309752639042
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.91,
+      "score": 4.68,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians “harvesting olives”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/9/israeli-settlers-attack-palestinians-harvesting?traffic_source=rss"
+        },
         {
           "title": "It’s not just Israel to blame for the medical evacuation crisis in Gaza",
           "url": "https://www.aljazeera.com/opinions/2025/11/9/its-not-just-israel-to-blame-for-the-medical-evacuation-crisis-in-gaza?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Why does Israel play in European Football?",
           "url": "https://www.aljazeera.com/video/game-theory/2025/11/9/aje-onl-israeluefa_v7-091125?traffic_source=rss"
-        },
-        {
-          "title": "Activists protest PETA’s ‘silence’ over Israel’s killing of animals",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/activists-protest-petas-silence-over-israels-killing-of-animals?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel’s attacks continue in Gaza; Hamas to hand over Goldin’s body",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/9/live-israeli-killings-continue-in-gaza-west-bank-hamas-retrieves-body?traffic_source=rss"
         }
       ],
       "chg1d": 0.014387674181488732,
@@ -66,9 +35,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.91,
+      "score": 4.68,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians “harvesting olives”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/9/israeli-settlers-attack-palestinians-harvesting?traffic_source=rss"
+        },
         {
           "title": "It’s not just Israel to blame for the medical evacuation crisis in Gaza",
           "url": "https://www.aljazeera.com/opinions/2025/11/9/its-not-just-israel-to-blame-for-the-medical-evacuation-crisis-in-gaza?traffic_source=rss"
@@ -80,14 +57,6 @@
         {
           "title": "Why does Israel play in European Football?",
           "url": "https://www.aljazeera.com/video/game-theory/2025/11/9/aje-onl-israeluefa_v7-091125?traffic_source=rss"
-        },
-        {
-          "title": "Activists protest PETA’s ‘silence’ over Israel’s killing of animals",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/activists-protest-petas-silence-over-israels-killing-of-animals?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel’s attacks continue in Gaza; Hamas to hand over Goldin’s body",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/9/live-israeli-killings-continue-in-gaza-west-bank-hamas-retrieves-body?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,49 +64,35 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.68,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Hungary claims ‘indefinite’ US sanctions waiver for Russian energy imports",
-          "url": "https://www.aljazeera.com/news/2025/11/8/hungary-claims-indefinite-us-sanctions-waiver-for-russian-energy-imports?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009473101922279107,
-      "chg5d": -0.04636687414705591,
-      "chg1m": -0.044617847138855526
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
+          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
+        },
         {
-          "title": "Hungary claims ‘indefinite’ US sanctions waiver for Russian energy imports",
-          "url": "https://www.aljazeera.com/news/2025/11/8/hungary-claims-indefinite-us-sanctions-waiver-for-russian-energy-imports?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011892732219199386,
-      "chg5d": -0.03990634706343285,
-      "chg1m": 0.037142798865931095
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
+          "title": "Israeli settlers attack Palestinians “harvesting olives”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/9/israeli-settlers-attack-palestinians-harvesting?traffic_source=rss"
+        },
         {
-          "title": "Hungary claims ‘indefinite’ US sanctions waiver for Russian energy imports",
-          "url": "https://www.aljazeera.com/news/2025/11/8/hungary-claims-indefinite-us-sanctions-waiver-for-russian-energy-imports?traffic_source=rss"
+          "title": "It’s not just Israel to blame for the medical evacuation crisis in Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/11/9/its-not-just-israel-to-blame-for-the-medical-evacuation-crisis-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill Palestinian man during occupied West Bank raid",
+          "url": "https://www.aljazeera.com/news/2025/11/9/israel-forces-kill-palestinian-man-during-occupied-west-bank-raid?traffic_source=rss"
+        },
+        {
+          "title": "Why does Israel play in European Football?",
+          "url": "https://www.aljazeera.com/video/game-theory/2025/11/9/aje-onl-israeluefa_v7-091125?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010487394957983209,
-      "chg5d": -0.03969988582612956,
-      "chg1m": 0.01443881594817188
+      "chg1d": -0.022541158406551208,
+      "chg5d": -0.06816703260957951,
+      "chg1m": -0.097309752639042
     }
   ]
 }
