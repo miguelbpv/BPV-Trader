@@ -1,46 +1,19 @@
 {
-  "generated_at": "2025-11-10T06:21:29.193905Z",
+  "generated_at": "2025-11-10T09:16:22.133687Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Live: Israeli air raids hit Gaza City, southern Lebanon",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel receives remains of soldier killed in Gaza in 2014",
-          "url": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.022541158406551208,
-      "chg5d": -0.06816703260957951,
-      "chg1m": -0.097309752639042
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.21,
+      "confianca": 34,
       "razoes": [
         {
-          "title": "Live: Israeli air raids hit Gaza City, southern Lebanon",
+          "title": "LIVE: Israel’s air raids hit Gaza City, southern Lebanon",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon?traffic_source=rss"
         },
         {
           "title": "Israel receives remains of soldier killed in Gaza in 2014",
           "url": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.014387674181488732,
@@ -50,25 +23,40 @@
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.21,
+      "confianca": 34,
       "razoes": [
         {
-          "title": "Live: Israeli air raids hit Gaza City, southern Lebanon",
+          "title": "LIVE: Israel’s air raids hit Gaza City, southern Lebanon",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon?traffic_source=rss"
         },
         {
           "title": "Israel receives remains of soldier killed in Gaza in 2014",
           "url": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.21,
+      "confianca": 34,
+      "razoes": [
+        {
+          "title": "LIVE: Israel’s air raids hit Gaza City, southern Lebanon",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israel receives remains of soldier killed in Gaza in 2014",
+          "url": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.022541158406551208,
+      "chg5d": -0.06816703260957951,
+      "chg1m": -0.097309752639042
     }
   ]
 }
