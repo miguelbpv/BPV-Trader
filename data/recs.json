@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T01:03:15.414757Z",
+  "generated_at": "2025-11-10T03:46:28.092117Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.85,
-      "confianca": 95,
+      "score": 3.1,
+      "confianca": 88,
       "razoes": [
         {
           "title": "Israel receives remains of soldier killed in Gaza in 2014",
@@ -33,41 +33,10 @@
       "chg1m": -0.097309752639042
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.85,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel receives remains of soldier killed in Gaza in 2014",
-          "url": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers attack Palestinians “harvesting olives”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/9/israeli-settlers-attack-palestinians-harvesting?traffic_source=rss"
-        },
-        {
-          "title": "It’s not just Israel to blame for the medical evacuation crisis in Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/11/9/its-not-just-israel-to-blame-for-the-medical-evacuation-crisis-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill Palestinian man during occupied West Bank raid",
-          "url": "https://www.aljazeera.com/news/2025/11/9/israel-forces-kill-palestinian-man-during-occupied-west-bank-raid?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.85,
-      "confianca": 95,
+      "score": 3.1,
+      "confianca": 88,
       "razoes": [
         {
           "title": "Israel receives remains of soldier killed in Gaza in 2014",
@@ -93,6 +62,37 @@
       "chg1d": 0.014387674181488732,
       "chg5d": 0.015999092250085226,
       "chg1m": 0.020282588878760267
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.1,
+      "confianca": 88,
+      "razoes": [
+        {
+          "title": "Israel receives remains of soldier killed in Gaza in 2014",
+          "url": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack journalists at olive harvest in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/israeli-settlers-attack-journalists-at-olive-harvest-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians “harvesting olives”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/9/israeli-settlers-attack-palestinians-harvesting?traffic_source=rss"
+        },
+        {
+          "title": "It’s not just Israel to blame for the medical evacuation crisis in Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/11/9/its-not-just-israel-to-blame-for-the-medical-evacuation-crisis-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill Palestinian man during occupied West Bank raid",
+          "url": "https://www.aljazeera.com/news/2025/11/9/israel-forces-kill-palestinian-man-during-occupied-west-bank-raid?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
