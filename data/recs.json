@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-10T12:25:58.122410Z",
+  "generated_at": "2025-11-10T15:14:33.697045Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
+        {
+          "title": "Iran dismisses US accusation of plot to kill Israeli ambassador in Mexico",
+          "url": "https://www.aljazeera.com/news/2025/11/10/iran-dismisses-us-accusation-of-plot-to-kill-israeli-ambassador-in-mexico?traffic_source=rss"
+        },
         {
           "title": "LIVE: Child among 2 killed as Israeli air raids, drones target Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon?traffic_source=rss"
@@ -17,34 +21,42 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "LIVE: Child among 2 killed as Israeli air raids, drones target Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014387674181488732,
-      "chg5d": 0.015999092250085226,
-      "chg1m": 0.020282588878760267
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
+        {
+          "title": "Iran dismisses US accusation of plot to kill Israeli ambassador in Mexico",
+          "url": "https://www.aljazeera.com/news/2025/11/10/iran-dismisses-us-accusation-of-plot-to-kill-israeli-ambassador-in-mexico?traffic_source=rss"
+        },
         {
           "title": "LIVE: Child among 2 killed as Israeli air raids, drones target Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon?traffic_source=rss"
         }
       ],
-      "chg1d": -0.022541158406551208,
-      "chg5d": -0.06816703260957951,
-      "chg1m": -0.097309752639042
+      "chg1d": -0.011432311552307207,
+      "chg5d": -0.07138172726154852,
+      "chg1m": -0.10284130284130283
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.22,
+      "confianca": 34,
+      "razoes": [
+        {
+          "title": "Iran dismisses US accusation of plot to kill Israeli ambassador in Mexico",
+          "url": "https://www.aljazeera.com/news/2025/11/10/iran-dismisses-us-accusation-of-plot-to-kill-israeli-ambassador-in-mexico?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Child among 2 killed as Israeli air raids, drones target Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008599508599508714,
+      "chg5d": 0.007147719537100017,
+      "chg1m": 0.04165688805444728
     }
   ]
 }
