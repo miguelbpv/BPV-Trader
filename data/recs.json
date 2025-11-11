@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-11T09:14:20.092626Z",
+  "generated_at": "2025-11-11T12:25:52.946382Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 3.33,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Russia says Ukrainian-British plot to hijack hypersonic missile foiled",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russia-says-ukrainian-british-plot-to-hijack-hypersonic-missile-foiled?traffic_source=rss"
+        },
+        {
+          "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
+          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss"
+        },
+        {
+          "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
+          "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
+        },
         {
           "title": "Israel’s parliament advances ‘terrorists’ death penalty bill",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israels-parliament-advances-terrorists-death-penalty-bill?traffic_source=rss"
@@ -18,10 +30,22 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 3.33,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Russia says Ukrainian-British plot to hijack hypersonic missile foiled",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russia-says-ukrainian-british-plot-to-hijack-hypersonic-missile-foiled?traffic_source=rss"
+        },
+        {
+          "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
+          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss"
+        },
+        {
+          "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
+          "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
+        },
         {
           "title": "Israel’s parliament advances ‘terrorists’ death penalty bill",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israels-parliament-advances-terrorists-death-penalty-bill?traffic_source=rss"
@@ -33,10 +57,18 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
+          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss"
+        },
+        {
+          "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
+          "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
+        },
         {
           "title": "Israel’s parliament advances ‘terrorists’ death penalty bill",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israels-parliament-advances-terrorists-death-penalty-bill?traffic_source=rss"
@@ -45,6 +77,51 @@
       "chg1d": -0.013635867786625941,
       "chg5d": -0.0734516538918719,
       "chg1m": -0.10484110484110482
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
+          "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.021465937696664498,
+      "chg5d": -0.026274348062465997,
+      "chg1m": 0.10959313814503456
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
+          "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02588491065969157,
+      "chg5d": -0.020688760620014252,
+      "chg1m": 0.1103349387845141
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
+          "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.030610820244328034,
+      "chg5d": -0.03145706225808578,
+      "chg1m": 0.052055868310411015
     }
   ]
 }
