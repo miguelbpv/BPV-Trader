@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-11-11T12:25:52.946382Z",
+  "generated_at": "2025-11-11T15:14:32.078819Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.33,
+      "score": 4.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills three in Gaza as crews work to find thousands of missing",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/11/live-israel-kills-three-in-gaza-as-crews-work-to-find-thousands-of-missing?traffic_source=rss"
+        },
+        {
+          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
+        },
         {
           "title": "Russia says Ukrainian-British plot to hijack hypersonic missile foiled",
           "url": "https://www.aljazeera.com/news/2025/11/11/russia-says-ukrainian-british-plot-to-hijack-hypersonic-missile-foiled?traffic_source=rss"
@@ -18,10 +26,37 @@
         {
           "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
           "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015329275041505315,
+      "chg5d": 0.052127537561647,
+      "chg1m": 0.06199351701782825
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.17,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Israel kills three in Gaza as crews work to find thousands of missing",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/11/live-israel-kills-three-in-gaza-as-crews-work-to-find-thousands-of-missing?traffic_source=rss"
         },
         {
-          "title": "Israel’s parliament advances ‘terrorists’ death penalty bill",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israels-parliament-advances-terrorists-death-penalty-bill?traffic_source=rss"
+          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
+        },
+        {
+          "title": "Russia says Ukrainian-British plot to hijack hypersonic missile foiled",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russia-says-ukrainian-british-plot-to-hijack-hypersonic-missile-foiled?traffic_source=rss"
+        },
+        {
+          "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
+          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss"
+        },
+        {
+          "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
+          "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,38 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.33,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Russia says Ukrainian-British plot to hijack hypersonic missile foiled",
-          "url": "https://www.aljazeera.com/news/2025/11/11/russia-says-ukrainian-british-plot-to-hijack-hypersonic-missile-foiled?traffic_source=rss"
-        },
-        {
-          "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
-          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss"
-        },
-        {
-          "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
-          "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s parliament advances ‘terrorists’ death penalty bill",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israels-parliament-advances-terrorists-death-penalty-bill?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009046236318963457,
-      "chg5d": 0.025073746312684296,
-      "chg1m": 0.06019713682234212
-    },
-    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills three in Gaza as crews work to find thousands of missing",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/11/live-israel-kills-three-in-gaza-as-crews-work-to-find-thousands-of-missing?traffic_source=rss"
+        },
         {
           "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
           "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss"
@@ -68,60 +80,68 @@
         {
           "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
           "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s parliament advances ‘terrorists’ death penalty bill",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israels-parliament-advances-terrorists-death-penalty-bill?traffic_source=rss"
         }
       ],
-      "chg1d": -0.013635867786625941,
-      "chg5d": -0.0734516538918719,
-      "chg1m": -0.10484110484110482
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
-          "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.021465937696664498,
-      "chg5d": -0.026274348062465997,
-      "chg1m": 0.10959313814503456
+      "chg1d": -0.00033178500331792544,
+      "chg5d": -0.06810590127427942,
+      "chg1m": -0.1029712402993073
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
+        },
         {
           "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
           "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02588491065969157,
-      "chg5d": -0.020688760620014252,
-      "chg1m": 0.1103349387845141
+      "chg1d": -0.010794701986754937,
+      "chg5d": 0.008371025450617763,
+      "chg1m": 0.048688875627479214
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
+        },
+        {
+          "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
+          "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007152552488953555,
+      "chg5d": 0.0011843050459158946,
+      "chg1m": 0.047427538439664386
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
+        },
         {
           "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
           "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
         }
       ],
-      "chg1d": 0.030610820244328034,
-      "chg5d": -0.03145706225808578,
-      "chg1m": 0.052055868310411015
+      "chg1d": -0.010194059674196468,
+      "chg5d": -0.006087400102023534,
+      "chg1m": -0.03509524910033344
     }
   ]
 }
