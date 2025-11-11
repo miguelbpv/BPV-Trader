@@ -1,49 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:11:59.849484Z",
+  "generated_at": "2025-11-11T01:00:55.825987Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
-      "razoes": [
-        {
-          "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
-          "url": "https://www.aljazeera.com/news/2025/11/10/israeli-drone-strike-kills-two-in-gaza-as-ceasefire-violations-mount?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013875859059670587,
-      "chg5d": -0.07367709144566953,
-      "chg1m": -0.10505890505890506
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
-      "razoes": [
-        {
-          "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
-          "url": "https://www.aljazeera.com/news/2025/11/10/israeli-drone-strike-kills-two-in-gaza-as-ceasefire-violations-mount?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00910207728389544,
-      "chg5d": 0.025130474245518532,
-      "chg1m": 0.060255808495658356
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
@@ -52,11 +14,106 @@
         {
           "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Inside the attempted cover-up of Israel’s Sde Teiman scandal",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/10/aje-onl-sde-teiman-cover-upthe-take-horizontal-03op2copy-101125?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
+          "url": "https://www.aljazeera.com/news/2025/11/10/israeli-drone-strike-kills-two-in-gaza-as-ceasefire-violations-mount?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Inside the attempted cover-up of Israel’s Sde Teiman scandal",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/10/aje-onl-sde-teiman-cover-upthe-take-horizontal-03op2copy-101125?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013635867786625941,
+      "chg5d": -0.0734516538918719,
+      "chg1m": -0.10484110484110482
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
+          "url": "https://www.aljazeera.com/news/2025/11/10/israeli-drone-strike-kills-two-in-gaza-as-ceasefire-violations-mount?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Inside the attempted cover-up of Israel’s Sde Teiman scandal",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/10/aje-onl-sde-teiman-cover-upthe-take-horizontal-03op2copy-101125?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009269600178691068,
+      "chg5d": 0.025300658044020922,
+      "chg1m": 0.060431823515606733
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Ahmed al-Sharaa meets Trump as US extends Syria sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.021465937696664498,
+      "chg5d": -0.026274348062465997,
+      "chg1m": 0.10959313814503456
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Ahmed al-Sharaa meets Trump as US extends Syria sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.030610820244328034,
+      "chg5d": -0.03145706225808578,
+      "chg1m": 0.052055868310411015
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Ahmed al-Sharaa meets Trump as US extends Syria sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02625857734900475,
+      "chg5d": -0.02033205785070362,
+      "chg1m": 0.11073936541784626
     }
   ]
 }
