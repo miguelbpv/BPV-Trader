@@ -1,19 +1,15 @@
 {
-  "generated_at": "2025-11-11T06:20:13.400466Z",
+  "generated_at": "2025-11-11T09:14:20.092626Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.2,
-      "confianca": 34,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
-          "url": "https://www.aljazeera.com/news/2025/11/10/israeli-drone-strike-kills-two-in-gaza-as-ceasefire-violations-mount?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
+          "title": "Israel’s parliament advances ‘terrorists’ death penalty bill",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israels-parliament-advances-terrorists-death-penalty-bill?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -21,37 +17,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.2,
-      "confianca": 34,
-      "razoes": [
-        {
-          "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
-          "url": "https://www.aljazeera.com/news/2025/11/10/israeli-drone-strike-kills-two-in-gaza-as-ceasefire-violations-mount?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013635867786625941,
-      "chg5d": -0.0734516538918719,
-      "chg1m": -0.10484110484110482
-    },
-    {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.2,
-      "confianca": 34,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
-          "url": "https://www.aljazeera.com/news/2025/11/10/israeli-drone-strike-kills-two-in-gaza-as-ceasefire-violations-mount?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
+          "title": "Israel’s parliament advances ‘terrorists’ death penalty bill",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israels-parliament-advances-terrorists-death-penalty-bill?traffic_source=rss"
         }
       ],
       "chg1d": 0.009046236318963457,
@@ -59,49 +32,19 @@
       "chg1m": 0.06019713682234212
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Trump hosts Syria’s al-Sharaa at White House as US extends sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss"
+          "title": "Israel’s parliament advances ‘terrorists’ death penalty bill",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israels-parliament-advances-terrorists-death-penalty-bill?traffic_source=rss"
         }
       ],
-      "chg1d": 0.021465937696664498,
-      "chg5d": -0.026274348062465997,
-      "chg1m": 0.10959313814503456
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump hosts Syria’s al-Sharaa at White House as US extends sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.030610820244328034,
-      "chg5d": -0.03145706225808578,
-      "chg1m": 0.052055868310411015
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump hosts Syria’s al-Sharaa at White House as US extends sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02588491065969157,
-      "chg5d": -0.020688760620014252,
-      "chg1m": 0.1103349387845141
+      "chg1d": -0.013635867786625941,
+      "chg5d": -0.0734516538918719,
+      "chg1m": -0.10484110484110482
     }
   ]
 }
