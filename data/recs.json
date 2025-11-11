@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-11-11T15:14:32.078819Z",
+  "generated_at": "2025-11-11T18:18:24.867392Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.17,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel kills three in Gaza as crews work to find thousands of missing",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/11/live-israel-kills-three-in-gaza-as-crews-work-to-find-thousands-of-missing?traffic_source=rss"
-        },
-        {
-          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
-        },
-        {
-          "title": "Russia says Ukrainian-British plot to hijack hypersonic missile foiled",
-          "url": "https://www.aljazeera.com/news/2025/11/11/russia-says-ukrainian-british-plot-to-hijack-hypersonic-missile-foiled?traffic_source=rss"
-        },
-        {
-          "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
-          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss"
-        },
-        {
-          "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
-          "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015329275041505315,
-      "chg5d": 0.052127537561647,
-      "chg1m": 0.06199351701782825
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.17,
+      "score": 4.16,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel advances bill mandating death penalty for Palestinian ‘terrorists’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-advances-bill-mandating-death-penalty-for-palestinian?traffic_source=rss"
+        },
+        {
+          "title": "‘You can do anything’: Israeli war crimes in Gaza aired in UK documentary",
+          "url": "https://www.aljazeera.com/news/2025/11/11/you-can-do-anything-israeli-war-crimes-in-gaza-aired-in-uk-documentary?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel kills three in Gaza as crews work to find thousands of missing",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/11/live-israel-kills-three-in-gaza-as-crews-work-to-find-thousands-of-missing?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Russia says Ukrainian-British plot to hijack hypersonic missile foiled",
           "url": "https://www.aljazeera.com/news/2025/11/11/russia-says-ukrainian-british-plot-to-hijack-hypersonic-missile-foiled?traffic_source=rss"
-        },
-        {
-          "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
-          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss"
-        },
-        {
-          "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
-          "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,51 +33,63 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.16,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel advances bill mandating death penalty for Palestinian ‘terrorists’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-advances-bill-mandating-death-penalty-for-palestinian?traffic_source=rss"
+        },
+        {
+          "title": "‘You can do anything’: Israeli war crimes in Gaza aired in UK documentary",
+          "url": "https://www.aljazeera.com/news/2025/11/11/you-can-do-anything-israeli-war-crimes-in-gaza-aired-in-uk-documentary?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel kills three in Gaza as crews work to find thousands of missing",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/11/live-israel-kills-three-in-gaza-as-crews-work-to-find-thousands-of-missing?traffic_source=rss"
         },
         {
-          "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
-          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss"
-        },
-        {
-          "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
-          "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00033178500331792544,
-      "chg5d": -0.06810590127427942,
-      "chg1m": -0.1029712402993073
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
-      "razoes": [
-        {
           "title": "Russians agree to quit Serbian oil company as US sanctions bite",
           "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
         },
         {
-          "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
-          "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
+          "title": "Russia says Ukrainian-British plot to hijack hypersonic missile foiled",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russia-says-ukrainian-british-plot-to-hijack-hypersonic-missile-foiled?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010794701986754937,
-      "chg5d": 0.008371025450617763,
-      "chg1m": 0.048688875627479214
+      "chg1d": 0.01798561151079137,
+      "chg5d": 0.05488014680582632,
+      "chg1m": 0.0647719379485992
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.99,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "Israel advances bill mandating death penalty for Palestinian ‘terrorists’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-advances-bill-mandating-death-penalty-for-palestinian?traffic_source=rss"
+        },
+        {
+          "title": "‘You can do anything’: Israeli war crimes in Gaza aired in UK documentary",
+          "url": "https://www.aljazeera.com/news/2025/11/11/you-can-do-anything-israeli-war-crimes-in-gaza-aired-in-uk-documentary?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills three in Gaza as crews work to find thousands of missing",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/11/live-israel-kills-three-in-gaza-as-crews-work-to-find-thousands-of-missing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016124751161247432,
+      "chg5d": -0.05276506247680323,
+      "chg1m": -0.08820435464343132
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.95,
+      "score": 1.94,
       "confianca": 55,
       "razoes": [
         {
@@ -120,14 +101,14 @@
           "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007152552488953555,
-      "chg5d": 0.0011843050459158946,
-      "chg1m": 0.047427538439664386
+      "chg1d": -0.010069407676238736,
+      "chg5d": -0.0017570427320560047,
+      "chg1m": 0.0443503341254849
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.95,
+      "score": 1.94,
       "confianca": 55,
       "razoes": [
         {
@@ -139,9 +120,28 @@
           "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010194059674196468,
-      "chg5d": -0.006087400102023534,
-      "chg1m": -0.03509524910033344
+      "chg1d": -0.011955159684356599,
+      "chg5d": -0.00785580683557219,
+      "chg1m": -0.03681204397636098
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
+          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
+        },
+        {
+          "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
+          "url": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.017218543046357577,
+      "chg5d": 0.0018227232836023103,
+      "chg1m": 0.041878751711306936
     }
   ]
 }
