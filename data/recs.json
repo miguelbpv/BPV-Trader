@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T03:42:07.646564Z",
+  "generated_at": "2025-11-11T06:20:13.400466Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 1.2,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
@@ -14,10 +14,6 @@
         {
           "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Inside the attempted cover-up of Israel’s Sde Teiman scandal",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/10/aje-onl-sde-teiman-cover-upthe-take-horizontal-03op2copy-101125?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,8 +23,8 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 1.2,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
@@ -37,10 +33,6 @@
         {
           "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Inside the attempted cover-up of Israel’s Sde Teiman scandal",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/10/aje-onl-sde-teiman-cover-upthe-take-horizontal-03op2copy-101125?traffic_source=rss"
         }
       ],
       "chg1d": -0.013635867786625941,
@@ -50,8 +42,8 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 1.2,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Israeli drone strike kills two in Gaza as ceasefire violations mount",
@@ -60,20 +52,16 @@
         {
           "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Inside the attempted cover-up of Israel’s Sde Teiman scandal",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/10/aje-onl-sde-teiman-cover-upthe-take-horizontal-03op2copy-101125?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009269600178691068,
-      "chg5d": 0.025300658044020922,
-      "chg1m": 0.060431823515606733
+      "chg1d": 0.009046236318963457,
+      "chg5d": 0.025073746312684296,
+      "chg1m": 0.06019713682234212
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -86,24 +74,9 @@
       "chg1m": 0.10959313814503456
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump hosts Syria’s al-Sharaa at White House as US extends sanctions relief",
-          "url": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02625857734900475,
-      "chg5d": -0.02033205785070362,
-      "chg1m": 0.11073936541784626
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -114,6 +87,21 @@
       "chg1d": 0.030610820244328034,
       "chg5d": -0.03145706225808578,
       "chg1m": 0.052055868310411015
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump hosts Syria’s al-Sharaa at White House as US extends sanctions relief",
+          "url": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02588491065969157,
+      "chg5d": -0.020688760620014252,
+      "chg1m": 0.1103349387845141
     }
   ]
 }
