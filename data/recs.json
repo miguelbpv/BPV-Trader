@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-11-12T18:19:04.645823Z",
+  "generated_at": "2025-11-12T21:12:28.901818Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.7,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
-          "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
-        },
-        {
-          "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Trump formally asks Israel’s president to pardon Netanyahu after Gaza truce",
-          "url": "https://www.aljazeera.com/news/2025/11/12/trump-formally-asks-israeli-president-to-pardon-netanyahu-after-gaza-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
-        },
-        {
-          "title": "Israel is intensifying attacks on Lebanon, is it planning another war?",
-          "url": "https://www.aljazeera.com/features/2025/11/12/israel-intensifying-attacks-on-lebanon-is-it-planning-another-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004594482245607943,
-      "chg5d": -0.02952614448154874,
-      "chg1m": -0.0910764479987331
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.7,
+      "score": 4.19,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
+        },
         {
           "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
           "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
@@ -53,22 +26,53 @@
         {
           "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
-        },
-        {
-          "title": "Israel is intensifying attacks on Lebanon, is it planning another war?",
-          "url": "https://www.aljazeera.com/features/2025/11/12/israel-intensifying-attacks-on-lebanon-is-it-planning-another-war?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009723587894679347,
-      "chg5d": 0.03683367650423243,
-      "chg1m": 0.049438462429084125
+      "chg1d": -0.01447612804544961,
+      "chg5d": 0.031857698467169945,
+      "chg1m": 0.044401991432210186
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.19,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
+        },
+        {
+          "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
+          "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
+        },
+        {
+          "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
+        },
+        {
+          "title": "Trump formally asks Israel’s president to pardon Netanyahu after Gaza truce",
+          "url": "https://www.aljazeera.com/news/2025/11/12/trump-formally-asks-israeli-president-to-pardon-netanyahu-after-gaza-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00031723805981574336,
+      "chg5d": -0.033658113877499285,
+      "chg1m": -0.09494635575438463
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.7,
+      "score": 4.19,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
+        },
         {
           "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
           "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
@@ -84,15 +88,56 @@
         {
           "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
-        },
-        {
-          "title": "Israel is intensifying attacks on Lebanon, is it planning another war?",
-          "url": "https://www.aljazeera.com/features/2025/11/12/israel-intensifying-attacks-on-lebanon-is-it-planning-another-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "White House explores $2,000 tariff dividend; budget experts are sceptical",
+          "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.003297042964591257,
+      "chg5d": -0.011680969895109682,
+      "chg1m": -0.01936203284449557
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "White House explores $2,000 tariff dividend; budget experts are sceptical",
+          "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014230052515670154,
+      "chg5d": -0.020034700625265998,
+      "chg1m": 0.07282371071211
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "White House explores $2,000 tariff dividend; budget experts are sceptical",
+          "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012519316914770906,
+      "chg5d": -0.008172455089820334,
+      "chg1m": 0.052930287434650905
     }
   ]
 }
