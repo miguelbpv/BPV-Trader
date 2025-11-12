@@ -1,40 +1,103 @@
 {
-  "generated_at": "2025-11-12T12:26:24.988908Z",
+  "generated_at": "2025-11-12T15:14:47.332387Z",
   "recs": [
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.98,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Sanctions are not a humane alternative to war",
-          "url": "https://www.aljazeera.com/opinions/2025/11/12/sanctions-are-not-a-humane-alternative-to-war?traffic_source=rss"
+          "title": "Trump formally asks Israel’s president to pardon Netanyahu after Gaza truce",
+          "url": "https://www.aljazeera.com/news/2025/11/12/trump-formally-asks-israeli-president-to-pardon-netanyahu-after-gaza-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
+        },
+        {
+          "title": "Israel is intensifying attacks on Lebanon, is it planning another war?",
+          "url": "https://www.aljazeera.com/features/2025/11/12/israel-intensifying-attacks-on-lebanon-is-it-planning-another-war?traffic_source=rss"
+        },
+        {
+          "title": "As the dams feeding Tehran run dry, Iran struggles with a dire water crisis",
+          "url": "https://www.aljazeera.com/news/2025/11/12/as-the-dams-feeding-tehran-run-dry-iran-struggles-with-a-dire-water-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s war on Gaza live: Air strikes target northern Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/12/israels-war-on-gaza-live-air-strikes-target-northern-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.015758719279161337,
-      "chg5d": -0.007494127011862602,
-      "chg1m": 0.03834826234436251
+      "chg1d": -0.006556320332131516,
+      "chg5d": 0.04014985129261041,
+      "chg1m": 0.052794951950908865
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.98,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Sanctions are not a humane alternative to war",
-          "url": "https://www.aljazeera.com/opinions/2025/11/12/sanctions-are-not-a-humane-alternative-to-war?traffic_source=rss"
+          "title": "Trump formally asks Israel’s president to pardon Netanyahu after Gaza truce",
+          "url": "https://www.aljazeera.com/news/2025/11/12/trump-formally-asks-israeli-president-to-pardon-netanyahu-after-gaza-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
+        },
+        {
+          "title": "Israel is intensifying attacks on Lebanon, is it planning another war?",
+          "url": "https://www.aljazeera.com/features/2025/11/12/israel-intensifying-attacks-on-lebanon-is-it-planning-another-war?traffic_source=rss"
+        },
+        {
+          "title": "As the dams feeding Tehran run dry, Iran struggles with a dire water crisis",
+          "url": "https://www.aljazeera.com/news/2025/11/12/as-the-dams-feeding-tehran-run-dry-iran-struggles-with-a-dire-water-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s war on Gaza live: Air strikes target northern Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/12/israels-war-on-gaza-live-air-strikes-target-northern-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.013885596233955248,
-      "chg5d": -0.00979425267811595,
-      "chg1m": -0.03869391528277583
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.98,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump formally asks Israel’s president to pardon Netanyahu after Gaza truce",
+          "url": "https://www.aljazeera.com/news/2025/11/12/trump-formally-asks-israeli-president-to-pardon-netanyahu-after-gaza-truce?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
+        },
+        {
+          "title": "Israel is intensifying attacks on Lebanon, is it planning another war?",
+          "url": "https://www.aljazeera.com/features/2025/11/12/israel-intensifying-attacks-on-lebanon-is-it-planning-another-war?traffic_source=rss"
+        },
+        {
+          "title": "As the dams feeding Tehran run dry, Iran struggles with a dire water crisis",
+          "url": "https://www.aljazeera.com/news/2025/11/12/as-the-dams-feeding-tehran-run-dry-iran-struggles-with-a-dire-water-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s war on Gaza live: Air strikes target northern Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/12/israels-war-on-gaza-live-air-strikes-target-northern-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0006344761196316111,
+      "chg5d": -0.03335165067421899,
+      "chg1m": -0.09465932934795517
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -42,9 +105,39 @@
           "url": "https://www.aljazeera.com/opinions/2025/11/12/sanctions-are-not-a-humane-alternative-to-war?traffic_source=rss"
         }
       ],
-      "chg1d": -0.022682119205298088,
-      "chg5d": -0.003746708971849098,
-      "chg1m": 0.0360866360094077
+      "chg1d": 0.011993901406064784,
+      "chg5d": -0.02219530559465751,
+      "chg1m": 0.07045837365157878
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Sanctions are not a humane alternative to war",
+          "url": "https://www.aljazeera.com/opinions/2025/11/12/sanctions-are-not-a-humane-alternative-to-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006113267163512631,
+      "chg5d": -0.0023498161013485825,
+      "chg1m": -0.01010339933770362
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Sanctions are not a humane alternative to war",
+          "url": "https://www.aljazeera.com/opinions/2025/11/12/sanctions-are-not-a-humane-alternative-to-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005526104731910543,
+      "chg5d": -0.015022754491018026,
+      "chg1m": 0.0456579670050245
     }
   ]
 }
