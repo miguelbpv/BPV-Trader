@@ -1,46 +1,15 @@
 {
-  "generated_at": "2025-11-12T06:20:12.172443Z",
+  "generated_at": "2025-11-12T09:15:06.980917Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "More than 70 athletes call on UEFA to ban Israel over rights abuses",
-          "url": "https://www.aljazeera.com/news/2025/11/12/dozens-of-athletes-call-on-uefa-to-ban-israel-over-rights-abuses?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill three in Gaza as settlers attack in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-forces-kill-three-in-gaza-as-settlers-attack-in-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
-          "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "score": 0.48,
+      "confianca": 13,
       "razoes": [
         {
           "title": "More than 70 athletes call on UEFA to ban Israel over rights abuses",
           "url": "https://www.aljazeera.com/news/2025/11/12/dozens-of-athletes-call-on-uefa-to-ban-israel-over-rights-abuses?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill three in Gaza as settlers attack in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-forces-kill-three-in-gaza-as-settlers-attack-in-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
-          "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.010993143109931365,
@@ -48,22 +17,29 @@
       "chg1m": -0.09280908242859694
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "score": 0.48,
+      "confianca": 13,
       "razoes": [
         {
           "title": "More than 70 athletes call on UEFA to ban Israel over rights abuses",
           "url": "https://www.aljazeera.com/news/2025/11/12/dozens-of-athletes-call-on-uefa-to-ban-israel-over-rights-abuses?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.48,
+      "confianca": 13,
+      "razoes": [
         {
-          "title": "Israeli forces kill three in Gaza as settlers attack in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-forces-kill-three-in-gaza-as-settlers-attack-in-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
-          "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
+          "title": "More than 70 athletes call on UEFA to ban Israel over rights abuses",
+          "url": "https://www.aljazeera.com/news/2025/11/12/dozens-of-athletes-call-on-uefa-to-ban-israel-over-rights-abuses?traffic_source=rss"
         }
       ],
       "chg1d": 0.013060320973990115,
