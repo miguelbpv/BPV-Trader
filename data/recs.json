@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-11-11T21:11:44.549534Z",
+  "generated_at": "2025-11-12T01:00:20.960392Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.04,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
-          "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Israel returns unrecognisable bodies of Palestinians to Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-returns-unrecognisable-bodies-of-palestinians-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza despite ceasefire follow Lebanon pattern",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israeli-attacks-on-gaza-despite-ceasefire-follow-lebanon-pattern?traffic_source=rss"
-        },
-        {
-          "title": "Israel advances bill mandating death penalty for Palestinian ‘terrorists’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-advances-bill-mandating-death-penalty-for-palestinian?traffic_source=rss"
-        },
-        {
-          "title": "‘You can do anything’: Israeli war crimes in Gaza aired in UK documentary",
-          "url": "https://www.aljazeera.com/news/2025/11/11/you-can-do-anything-israeli-war-crimes-in-gaza-aired-in-uk-documentary?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013004980630880039,
-      "chg5d": 0.049719004472990116,
-      "chg1m": 0.059562398703403685
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.04,
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Dozens of athletes call on UEFA to ban Israel over rights abuses",
+          "url": "https://www.aljazeera.com/news/2025/11/12/dozens-of-athletes-call-on-uefa-to-ban-israel-over-rights-abuses?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill three in Gaza as settlers attack in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-forces-kill-three-in-gaza-as-settlers-attack-in-the-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
           "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Israeli attacks on Gaza despite ceasefire follow Lebanon pattern",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israeli-attacks-on-gaza-despite-ceasefire-follow-lebanon-pattern?traffic_source=rss"
-        },
-        {
-          "title": "Israel advances bill mandating death penalty for Palestinian ‘terrorists’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-advances-bill-mandating-death-penalty-for-palestinian?traffic_source=rss"
-        },
-        {
-          "title": "‘You can do anything’: Israeli war crimes in Gaza aired in UK documentary",
-          "url": "https://www.aljazeera.com/news/2025/11/11/you-can-do-anything-israeli-war-crimes-in-gaza-aired-in-uk-documentary?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.96,
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Dozens of athletes call on UEFA to ban Israel over rights abuses",
+          "url": "https://www.aljazeera.com/news/2025/11/12/dozens-of-athletes-call-on-uefa-to-ban-israel-over-rights-abuses?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill three in Gaza as settlers attack in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-forces-kill-three-in-gaza-as-settlers-attack-in-the-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
           "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
@@ -80,64 +57,42 @@
         {
           "title": "Israeli attacks on Gaza despite ceasefire follow Lebanon pattern",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israeli-attacks-on-gaza-despite-ceasefire-follow-lebanon-pattern?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013060320973990115,
+      "chg5d": 0.049776350498910465,
+      "chg1m": 0.059620282472794696
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.42,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Dozens of athletes call on UEFA to ban Israel over rights abuses",
+          "url": "https://www.aljazeera.com/news/2025/11/12/dozens-of-athletes-call-on-uefa-to-ban-israel-over-rights-abuses?traffic_source=rss"
         },
         {
-          "title": "Israel advances bill mandating death penalty for Palestinian ‘terrorists’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-advances-bill-mandating-death-penalty-for-palestinian?traffic_source=rss"
+          "title": "Israeli forces kill three in Gaza as settlers attack in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/11/israeli-forces-kill-three-in-gaza-as-settlers-attack-in-the-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "‘You can do anything’: Israeli war crimes in Gaza aired in UK documentary",
-          "url": "https://www.aljazeera.com/news/2025/11/11/you-can-do-anything-israeli-war-crimes-in-gaza-aired-in-uk-documentary?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.012054855120548526,
-      "chg5d": -0.056559033362200514,
-      "chg1m": -0.0918563801282178
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
+          "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
+          "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
+        },
         {
-          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.014054932773393767,
-      "chg5d": -0.009964291787111059,
-      "chg1m": -0.038858991713163135
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
+          "title": "Israel returns unrecognisable bodies of Palestinians to Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-returns-unrecognisable-bodies-of-palestinians-to-gaza?traffic_source=rss"
+        },
         {
-          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
+          "title": "Israeli attacks on Gaza despite ceasefire follow Lebanon pattern",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israeli-attacks-on-gaza-despite-ceasefire-follow-lebanon-pattern?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01600901048335082,
-      "chg5d": -0.007746519890500448,
-      "chg1m": 0.0380842118091524
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Russians agree to quit Serbian oil company as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.023112582781457013,
-      "chg5d": -0.004185512725308881,
-      "chg1m": 0.035630287499561125
+      "chg1d": 0.010993143109931365,
+      "chg5d": -0.057548764897521594,
+      "chg1m": -0.09280908242859694
     }
   ]
 }
