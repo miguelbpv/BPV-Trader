@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T03:40:47.350963Z",
+  "generated_at": "2025-11-12T06:20:12.172443Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.38,
-      "confianca": 95,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
           "title": "More than 70 athletes call on UEFA to ban Israel over rights abuses",
@@ -18,25 +18,17 @@
         {
           "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
           "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Israel returns unrecognisable bodies of Palestinians to Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-returns-unrecognisable-bodies-of-palestinians-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza despite ceasefire follow Lebanon pattern",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israeli-attacks-on-gaza-despite-ceasefire-follow-lebanon-pattern?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013060320973990115,
-      "chg5d": 0.049776350498910465,
-      "chg1m": 0.059620282472794696
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.38,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
           "title": "More than 70 athletes call on UEFA to ban Israel over rights abuses",
@@ -49,14 +41,6 @@
         {
           "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
           "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Israel returns unrecognisable bodies of Palestinians to Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-returns-unrecognisable-bodies-of-palestinians-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza despite ceasefire follow Lebanon pattern",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israeli-attacks-on-gaza-despite-ceasefire-follow-lebanon-pattern?traffic_source=rss"
         }
       ],
       "chg1d": 0.010993143109931365,
@@ -64,10 +48,10 @@
       "chg1m": -0.09280908242859694
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.38,
-      "confianca": 95,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
           "title": "More than 70 athletes call on UEFA to ban Israel over rights abuses",
@@ -80,19 +64,11 @@
         {
           "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
           "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Israel returns unrecognisable bodies of Palestinians to Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-returns-unrecognisable-bodies-of-palestinians-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza despite ceasefire follow Lebanon pattern",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israeli-attacks-on-gaza-despite-ceasefire-follow-lebanon-pattern?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.013060320973990115,
+      "chg5d": 0.049776350498910465,
+      "chg1m": 0.059620282472794696
     }
   ]
 }
