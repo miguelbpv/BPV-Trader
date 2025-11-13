@@ -1,27 +1,46 @@
 {
-  "generated_at": "2025-11-13T06:20:41.917151Z",
+  "generated_at": "2025-11-13T09:15:34.221689Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Israeli president condemns ‘shocking’ settler attacks in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/13/israeli-president-condemns-shocking-settler-attacks-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel attacks Gaza’s south, north during repeatedly violated truce",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/13/live-israel-attacks-gazas-south-north-during-repeatedly-violated-truce?traffic_source=rss"
+        },
         {
           "title": "US knew Israeli officials discussed use of human shields in Gaza: Report",
           "url": "https://www.aljazeera.com/news/2025/11/13/us-knew-israeli-officials-discussed-use-of-human-shields-in-gaza-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013984485960887152,
+      "chg5d": 0.0323724548158316,
+      "chg1m": 0.044923005673266125
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.98,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "Israeli president condemns ‘shocking’ settler attacks in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/13/israeli-president-condemns-shocking-settler-attacks-in-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
+          "title": "LIVE: Israel attacks Gaza’s south, north during repeatedly violated truce",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/13/live-israel-attacks-gazas-south-north-during-repeatedly-violated-truce?traffic_source=rss"
         },
         {
-          "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
-          "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
-        },
-        {
-          "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
+          "title": "US knew Israeli officials discussed use of human shields in Gaza: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/13/us-knew-israeli-officials-discussed-use-of-human-shields-in-gaza-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -30,25 +49,21 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "acao": "observar",
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Israeli president condemns ‘shocking’ settler attacks in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/13/israeli-president-condemns-shocking-settler-attacks-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel attacks Gaza’s south, north during repeatedly violated truce",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/13/live-israel-attacks-gazas-south-north-during-repeatedly-violated-truce?traffic_source=rss"
+        },
         {
           "title": "US knew Israeli officials discussed use of human shields in Gaza: Report",
           "url": "https://www.aljazeera.com/news/2025/11/13/us-knew-israeli-officials-discussed-use-of-human-shields-in-gaza-report?traffic_source=rss"
-        },
-        {
-          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
-        },
-        {
-          "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
-          "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
-        },
-        {
-          "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
         }
       ],
       "chg1d": -6.563546065148164e-05,
@@ -56,53 +71,34 @@
       "chg1m": -0.09529276693455795
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "US knew Israeli officials discussed use of human shields in Gaza: Report",
-          "url": "https://www.aljazeera.com/news/2025/11/13/us-knew-israeli-officials-discussed-use-of-human-shields-in-gaza-report?traffic_source=rss"
-        },
-        {
-          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
-        },
-        {
-          "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
-          "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
-        },
-        {
-          "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013984485960887152,
-      "chg5d": 0.0323724548158316,
-      "chg1m": 0.044923005673266125
-    },
-    {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
+          "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
+        },
         {
           "title": "White House explores $2,000 tariff dividend; budget experts are sceptical",
           "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014583048062440063,
-      "chg5d": -0.006150898203592884,
-      "chg1m": 0.05507638479220486
+      "chg1d": 0.015314246993054512,
+      "chg5d": -0.018987134579500478,
+      "chg1m": 0.07397054080206446
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
+          "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
+        },
         {
           "title": "White House explores $2,000 tariff dividend; budget experts are sceptical",
           "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
@@ -113,19 +109,23 @@
       "chg1m": -0.017976616881800342
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
+          "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
+        },
         {
           "title": "White House explores $2,000 tariff dividend; budget experts are sceptical",
           "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015314246993054512,
-      "chg5d": -0.018987134579500478,
-      "chg1m": 0.07397054080206446
+      "chg1d": 0.014583048062440063,
+      "chg5d": -0.006150898203592884,
+      "chg1m": 0.05507638479220486
     }
   ]
 }
