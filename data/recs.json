@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-13T12:26:49.349007Z",
+  "generated_at": "2025-11-13T15:15:07.316209Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "UN investigates Israel over reported torture of Palestinian detainees",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
+        },
         {
           "title": "Gaza woman blinded in Israeli strike opens bakery to subsist and hope",
           "url": "https://www.aljazeera.com/news/2025/11/13/gaza-woman-blinded-in-israeli-strike-opens-bakery-to-subsist-and-hope?traffic_source=rss"
@@ -18,26 +22,49 @@
         {
           "title": "Trump is “very rude” to ask Israel’s president to pardon Netanyahu",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/13/trump-is-very-rude-to-ask-israels-president-to-pardon-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Israeli president condemns ‘shocking’ settler attacks in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/13/israeli-president-condemns-shocking-settler-attacks-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel attacks Gaza’s south, north during repeatedly violated truce",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/13/live-israel-attacks-gazas-south-north-during-repeatedly-violated-truce?traffic_source=rss"
         }
       ],
-      "chg1d": -0.013984485960887152,
-      "chg5d": 0.0323724548158316,
-      "chg1m": 0.044923005673266125
+      "chg1d": 0.0010064764572028258,
+      "chg5d": -0.024353834342745063,
+      "chg1m": -0.08391902444884969
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.71,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "UN investigates Israel over reported torture of Palestinian detainees",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
+        },
+        {
+          "title": "Gaza woman blinded in Israeli strike opens bakery to subsist and hope",
+          "url": "https://www.aljazeera.com/news/2025/11/13/gaza-woman-blinded-in-israeli-strike-opens-bakery-to-subsist-and-hope?traffic_source=rss"
+        },
+        {
+          "title": "Israeli soldiers accused of rape are seeking public sympathy",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/israeli-soldiers-accused-of-rape-are-seeking-public-sympathy?traffic_source=rss"
+        },
+        {
+          "title": "Trump is “very rude” to ask Israel’s president to pardon Netanyahu",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/13/trump-is-very-rude-to-ask-israels-president-to-pardon-netanyahu?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004210526315789423,
+      "chg5d": 0.02673615044749065,
+      "chg1m": 0.049930491195551464
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "UN investigates Israel over reported torture of Palestinian detainees",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
+        },
         {
           "title": "Gaza woman blinded in Israeli strike opens bakery to subsist and hope",
           "url": "https://www.aljazeera.com/news/2025/11/13/gaza-woman-blinded-in-israeli-strike-opens-bakery-to-subsist-and-hope?traffic_source=rss"
@@ -49,50 +76,11 @@
         {
           "title": "Trump is “very rude” to ask Israel’s president to pardon Netanyahu",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/13/trump-is-very-rude-to-ask-israels-president-to-pardon-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Israeli president condemns ‘shocking’ settler attacks in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/13/israeli-president-condemns-shocking-settler-attacks-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel attacks Gaza’s south, north during repeatedly violated truce",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/13/live-israel-attacks-gazas-south-north-during-repeatedly-violated-truce?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Gaza woman blinded in Israeli strike opens bakery to subsist and hope",
-          "url": "https://www.aljazeera.com/news/2025/11/13/gaza-woman-blinded-in-israeli-strike-opens-bakery-to-subsist-and-hope?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers accused of rape are seeking public sympathy",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/israeli-soldiers-accused-of-rape-are-seeking-public-sympathy?traffic_source=rss"
-        },
-        {
-          "title": "Trump is “very rude” to ask Israel’s president to pardon Netanyahu",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/13/trump-is-very-rude-to-ask-israels-president-to-pardon-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Israeli president condemns ‘shocking’ settler attacks in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/13/israeli-president-condemns-shocking-settler-attacks-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel attacks Gaza’s south, north during repeatedly violated truce",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/13/live-israel-attacks-gazas-south-north-during-repeatedly-violated-truce?traffic_source=rss"
-        }
-      ],
-      "chg1d": -6.563546065148164e-05,
-      "chg5d": -0.03402798326076841,
-      "chg1m": -0.09529276693455795
     },
     {
       "symbol": "ASML.AS",
@@ -105,24 +93,9 @@
           "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014583048062440063,
-      "chg5d": -0.006150898203592884,
-      "chg1m": 0.05507638479220486
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
-          "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0018889308651303751,
-      "chg5d": -0.0102847023566271,
-      "chg1m": -0.017976616881800342
+      "chg1d": -0.003518648838845752,
+      "chg5d": 0.004352895452778875,
+      "chg1m": 0.023638110139531317
     },
     {
       "symbol": "SOXX",
@@ -135,9 +108,24 @@
           "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015314246993054512,
-      "chg5d": -0.018987134579500478,
-      "chg1m": 0.07397054080206446
+      "chg1d": -0.01726899589548507,
+      "chg5d": -0.010100840336134438,
+      "chg1m": 0.0238318731748019
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
+          "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01390131443121609,
+      "chg5d": -0.009196515004840358,
+      "chg1m": -0.059499195956811385
     }
   ]
 }
