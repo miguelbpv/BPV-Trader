@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-13T18:18:42.155188Z",
+  "generated_at": "2025-11-13T21:12:26.381226Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "West Bank mosque torched amid surge in Israeli settler violence",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/west-bank-mosque-torched-amid-surge-in-israeli-settler-violence?traffic_source=rss"
+        },
         {
           "title": "Gaza girl shares story of being found alive in morgue after Israeli attack",
           "url": "https://www.aljazeera.com/news/2025/11/13/gaza-girl-shares-story-of-being-found-alive-in-morgue-after-israeli-attack?traffic_source=rss"
@@ -14,22 +18,22 @@
         {
           "title": "Italian journalist who lost job over Israel question says he stands by it",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/italian-journalist-who-lost-job-over-israel-question-says-he-stands-by-it?traffic_source=rss"
-        },
-        {
-          "title": "UN investigates Israel over reported torture of Palestinian detainees",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00919667590027699,
-      "chg5d": 0.03183414523620712,
-      "chg1m": 0.05514365152919376
+      "chg1d": 0.00177285318559553,
+      "chg5d": 0.024243797439673736,
+      "chg1m": 0.04738183503243749
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "West Bank mosque torched amid surge in Israeli settler violence",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/west-bank-mosque-torched-amid-surge-in-israeli-settler-violence?traffic_source=rss"
+        },
         {
           "title": "Gaza girl shares story of being found alive in morgue after Israeli attack",
           "url": "https://www.aljazeera.com/news/2025/11/13/gaza-girl-shares-story-of-being-found-alive-in-morgue-after-israeli-attack?traffic_source=rss"
@@ -37,10 +41,6 @@
         {
           "title": "Italian journalist who lost job over Israel question says he stands by it",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/italian-journalist-who-lost-job-over-israel-question-says-he-stands-by-it?traffic_source=rss"
-        },
-        {
-          "title": "UN investigates Israel over reported torture of Palestinian detainees",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -49,10 +49,14 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "West Bank mosque torched amid surge in Israeli settler violence",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/west-bank-mosque-torched-amid-surge-in-israeli-settler-violence?traffic_source=rss"
+        },
         {
           "title": "Gaza girl shares story of being found alive in morgue after Israeli attack",
           "url": "https://www.aljazeera.com/news/2025/11/13/gaza-girl-shares-story-of-being-found-alive-in-morgue-after-israeli-attack?traffic_source=rss"
@@ -60,15 +64,11 @@
         {
           "title": "Italian journalist who lost job over Israel question says he stands by it",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/italian-journalist-who-lost-job-over-israel-question-says-he-stands-by-it?traffic_source=rss"
-        },
-        {
-          "title": "UN investigates Israel over reported torture of Palestinian detainees",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00037195869070531914,
-      "chg5d": -0.024972276720975937,
-      "chg1m": -0.08449970965739581
+      "chg1d": -0.0036539471381061084,
+      "chg5d": -0.02889618698285424,
+      "chg1m": -0.08818405718748126
     }
   ]
 }
