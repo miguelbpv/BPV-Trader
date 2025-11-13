@@ -1,73 +1,11 @@
 {
-  "generated_at": "2025-11-12T21:12:28.901818Z",
+  "generated_at": "2025-11-13T01:00:52.084355Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
-        },
-        {
-          "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
-          "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
-        },
-        {
-          "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Trump formally asks Israel’s president to pardon Netanyahu after Gaza truce",
-          "url": "https://www.aljazeera.com/news/2025/11/12/trump-formally-asks-israeli-president-to-pardon-netanyahu-after-gaza-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01447612804544961,
-      "chg5d": 0.031857698467169945,
-      "chg1m": 0.044401991432210186
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
-        },
-        {
-          "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
-          "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
-        },
-        {
-          "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Trump formally asks Israel’s president to pardon Netanyahu after Gaza truce",
-          "url": "https://www.aljazeera.com/news/2025/11/12/trump-formally-asks-israeli-president-to-pardon-netanyahu-after-gaza-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00031723805981574336,
-      "chg5d": -0.033658113877499285,
-      "chg1m": -0.09494635575438463
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.19,
-      "confianca": 95,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
         {
           "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
@@ -80,14 +18,6 @@
         {
           "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Trump formally asks Israel’s president to pardon Netanyahu after Gaza truce",
-          "url": "https://www.aljazeera.com/news/2025/11/12/trump-formally-asks-israeli-president-to-pardon-netanyahu-after-gaza-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish more Palestinian homes in Masafer Yatta",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/israeli-forces-demolish-more-palestinian-homes-in-masafer-yatta?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,24 +25,55 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "White House explores $2,000 tariff dividend; budget experts are sceptical",
-          "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
+          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
+        },
+        {
+          "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
+          "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
+        },
+        {
+          "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
         }
       ],
-      "chg1d": -0.003297042964591257,
-      "chg5d": -0.011680969895109682,
-      "chg1m": -0.01936203284449557
+      "chg1d": -0.014202993554025971,
+      "chg5d": 0.03214367421642647,
+      "chg1m": 0.04469144378835243
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Why did Iran’s president warn Tehran may need to be evacuated?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/why-did-irans-president-warn-tehran-may-need-to-be-evacuated?traffic_source=rss"
+        },
+        {
+          "title": "IAEA demands ‘long overdue’ inspections of Iran nuclear sites’",
+          "url": "https://www.aljazeera.com/news/2025/11/12/iaea-demands-long-overdue-inspections-of-iran-nuclear-sites?traffic_source=rss"
+        },
+        {
+          "title": "Trump sends letter to Israel’s president requesting pardon for Netanyahu",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/trump-sends-letter-to-israels-president-requesting-pardon-for-netanyahu?traffic_source=rss"
+        }
+      ],
+      "chg1d": -6.563546065148164e-05,
+      "chg5d": -0.03402798326076841,
+      "chg1m": -0.09529276693455795
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -120,14 +81,14 @@
           "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014230052515670154,
-      "chg5d": -0.020034700625265998,
-      "chg1m": 0.07282371071211
+      "chg1d": 0.015348128070472743,
+      "chg5d": -0.018954398140570334,
+      "chg1m": 0.0740063792423755
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -135,9 +96,24 @@
           "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
         }
       ],
-      "chg1d": 0.012519316914770906,
-      "chg5d": -0.008172455089820334,
-      "chg1m": 0.052930287434650905
+      "chg1d": 0.014592828778779718,
+      "chg5d": -0.00614131736526954,
+      "chg1m": 0.05508655586972881
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "White House explores $2,000 tariff dividend; budget experts are sceptical",
+          "url": "https://www.aljazeera.com/economy/2025/11/12/white-house-explores-2000-tariff-dividend-budget-experts-are-sceptical?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0018889308651303751,
+      "chg5d": -0.0102847023566271,
+      "chg1m": -0.017976616881800342
     }
   ]
 }
