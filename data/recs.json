@@ -1,81 +1,46 @@
 {
-  "generated_at": "2025-11-13T15:15:07.316209Z",
+  "generated_at": "2025-11-13T18:18:42.155188Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "UN investigates Israel over reported torture of Palestinian detainees",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
-        },
-        {
-          "title": "Gaza woman blinded in Israeli strike opens bakery to subsist and hope",
-          "url": "https://www.aljazeera.com/news/2025/11/13/gaza-woman-blinded-in-israeli-strike-opens-bakery-to-subsist-and-hope?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers accused of rape are seeking public sympathy",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/israeli-soldiers-accused-of-rape-are-seeking-public-sympathy?traffic_source=rss"
-        },
-        {
-          "title": "Trump is “very rude” to ask Israel’s president to pardon Netanyahu",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/13/trump-is-very-rude-to-ask-israels-president-to-pardon-netanyahu?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0010064764572028258,
-      "chg5d": -0.024353834342745063,
-      "chg1m": -0.08391902444884969
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Gaza girl shares story of being found alive in morgue after Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/11/13/gaza-girl-shares-story-of-being-found-alive-in-morgue-after-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Italian journalist who lost job over Israel question says he stands by it",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/italian-journalist-who-lost-job-over-israel-question-says-he-stands-by-it?traffic_source=rss"
+        },
         {
           "title": "UN investigates Israel over reported torture of Palestinian detainees",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
-        },
-        {
-          "title": "Gaza woman blinded in Israeli strike opens bakery to subsist and hope",
-          "url": "https://www.aljazeera.com/news/2025/11/13/gaza-woman-blinded-in-israeli-strike-opens-bakery-to-subsist-and-hope?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers accused of rape are seeking public sympathy",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/israeli-soldiers-accused-of-rape-are-seeking-public-sympathy?traffic_source=rss"
-        },
-        {
-          "title": "Trump is “very rude” to ask Israel’s president to pardon Netanyahu",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/13/trump-is-very-rude-to-ask-israels-president-to-pardon-netanyahu?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004210526315789423,
-      "chg5d": 0.02673615044749065,
-      "chg1m": 0.049930491195551464
+      "chg1d": 0.00919667590027699,
+      "chg5d": 0.03183414523620712,
+      "chg1m": 0.05514365152919376
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Gaza girl shares story of being found alive in morgue after Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/11/13/gaza-girl-shares-story-of-being-found-alive-in-morgue-after-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Italian journalist who lost job over Israel question says he stands by it",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/italian-journalist-who-lost-job-over-israel-question-says-he-stands-by-it?traffic_source=rss"
+        },
         {
           "title": "UN investigates Israel over reported torture of Palestinian detainees",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
-        },
-        {
-          "title": "Gaza woman blinded in Israeli strike opens bakery to subsist and hope",
-          "url": "https://www.aljazeera.com/news/2025/11/13/gaza-woman-blinded-in-israeli-strike-opens-bakery-to-subsist-and-hope?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers accused of rape are seeking public sympathy",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/israeli-soldiers-accused-of-rape-are-seeking-public-sympathy?traffic_source=rss"
-        },
-        {
-          "title": "Trump is “very rude” to ask Israel’s president to pardon Netanyahu",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/13/trump-is-very-rude-to-ask-israels-president-to-pardon-netanyahu?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -83,49 +48,27 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
-          "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003518648838845752,
-      "chg5d": 0.004352895452778875,
-      "chg1m": 0.023638110139531317
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
+          "title": "Gaza girl shares story of being found alive in morgue after Israeli attack",
+          "url": "https://www.aljazeera.com/news/2025/11/13/gaza-girl-shares-story-of-being-found-alive-in-morgue-after-israeli-attack?traffic_source=rss"
+        },
         {
-          "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
-          "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01726899589548507,
-      "chg5d": -0.010100840336134438,
-      "chg1m": 0.0238318731748019
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
+          "title": "Italian journalist who lost job over Israel question says he stands by it",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/italian-journalist-who-lost-job-over-israel-question-says-he-stands-by-it?traffic_source=rss"
+        },
         {
-          "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
-          "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss"
+          "title": "UN investigates Israel over reported torture of Palestinian detainees",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/un-investigates-israel-over-reported-torture-of-palestinian-detainees?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01390131443121609,
-      "chg5d": -0.009196515004840358,
-      "chg1m": -0.059499195956811385
+      "chg1d": 0.00037195869070531914,
+      "chg5d": -0.024972276720975937,
+      "chg1m": -0.08449970965739581
     }
   ]
 }
