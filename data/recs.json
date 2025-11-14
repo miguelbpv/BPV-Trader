@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-11-14T18:18:30.666769Z",
+  "generated_at": "2025-11-14T21:12:05.885315Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.99,
+      "score": 1.97,
       "confianca": 56,
       "razoes": [
         {
@@ -27,7 +27,7 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.99,
+      "score": 1.97,
       "confianca": 56,
       "razoes": [
         {
@@ -43,14 +43,14 @@
           "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01285510584622125,
-      "chg5d": 0.007330642522090011,
-      "chg1m": -0.06394323365433355
+      "chg1d": 0.022715805637819372,
+      "chg5d": 0.017137558634231397,
+      "chg1m": -0.05483020780537256
     },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.99,
+      "score": 1.97,
       "confianca": 56,
       "razoes": [
         {
@@ -66,9 +66,54 @@
           "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015583554376657786,
-      "chg5d": 0.026245253517980724,
-      "chg1m": 0.07750938086303939
+      "chg1d": 0.016854553492484433,
+      "chg5d": 0.027529595711413772,
+      "chg1m": 0.07885787992495302
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
+          "url": "https://www.aljazeera.com/economy/2025/11/14/us-to-slash-tariffs-on-switzerland-to-15-from-crippling-39?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004008570046305785,
+      "chg5d": -0.020925334601535322,
+      "chg1m": -0.0026299397882206064
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
+          "url": "https://www.aljazeera.com/economy/2025/11/14/us-to-slash-tariffs-on-switzerland-to-15-from-crippling-39?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.014315690388876926,
+      "chg5d": -0.011504877281309044,
+      "chg1m": -0.014054669033631206
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
+          "url": "https://www.aljazeera.com/economy/2025/11/14/us-to-slash-tariffs-on-switzerland-to-15-from-crippling-39?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008504606661942006,
+      "chg5d": -0.0066317626527049815,
+      "chg1m": -0.05082710779082162
     }
   ]
 }
