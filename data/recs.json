@@ -1,38 +1,23 @@
 {
-  "generated_at": "2025-11-14T15:12:34.132271Z",
+  "generated_at": "2025-11-14T18:18:30.666769Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israel linked to “forced migration” with South Africa flights",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss"
-        },
-        {
-          "title": "Amputees from Israel’s Gaza war use homemade prosthetics to re-enter life",
-          "url": "https://www.aljazeera.com/news/2025/11/14/amputees-from-israels-gaza-war-use-homemade-prosthetics-to-re-enter-life?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005352637929143353,
-      "chg5d": -0.000130904330751614,
-      "chg1m": -0.07087683730359853
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 1.99,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
+          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
+        },
+        {
+          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
+          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
+        },
         {
           "title": "Israel linked to “forced migration” with South Africa flights",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss"
-        },
-        {
-          "title": "Amputees from Israel’s Gaza war use homemade prosthetics to re-enter life",
-          "url": "https://www.aljazeera.com/news/2025/11/14/amputees-from-israels-gaza-war-use-homemade-prosthetics-to-re-enter-life?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -40,23 +25,50 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 1.99,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
+          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
+        },
+        {
+          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
+          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
+        },
         {
           "title": "Israel linked to “forced migration” with South Africa flights",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss"
-        },
-        {
-          "title": "Amputees from Israel’s Gaza war use homemade prosthetics to re-enter life",
-          "url": "https://www.aljazeera.com/news/2025/11/14/amputees-from-israels-gaza-war-use-homemade-prosthetics-to-re-enter-life?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0023209549071618917,
-      "chg5d": 0.008152780880053492,
-      "chg1m": 0.058513133208255096
+      "chg1d": 0.01285510584622125,
+      "chg5d": 0.007330642522090011,
+      "chg1m": -0.06394323365433355
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.99,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
+          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
+        },
+        {
+          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
+          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
+        },
+        {
+          "title": "Israel linked to “forced migration” with South Africa flights",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015583554376657786,
+      "chg5d": 0.026245253517980724,
+      "chg1m": 0.07750938086303939
     }
   ]
 }
