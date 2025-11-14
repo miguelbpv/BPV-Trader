@@ -1,46 +1,38 @@
 {
-  "generated_at": "2025-11-14T09:14:09.938876Z",
+  "generated_at": "2025-11-14T12:26:12.388424Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Amputees from Israel’s Gaza war use homemade prosthetics to re-enter life",
+          "url": "https://www.aljazeera.com/news/2025/11/14/amputees-from-israels-gaza-war-use-homemade-prosthetics-to-re-enter-life?traffic_source=rss"
+        },
         {
           "title": "How many times has Israel violated the Gaza ceasefire?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/14/how-many-times-has-israel-violated-the-gaza-ceasefire-2?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler attack on West Bank mosque draws international condemnation",
-          "url": "https://www.aljazeera.com/news/2025/11/13/israeli-settler-attack-on-west-bank-mosque-draws-international-condemnation?traffic_source=rss"
-        },
-        {
-          "title": "West Bank mosque torched amid surge in Israeli settler violence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/west-bank-mosque-torched-amid-surge-in-israeli-settler-violence?traffic_source=rss"
         }
       ],
-      "chg1d": -0.002603710834937856,
-      "chg5d": -0.027872558218885936,
-      "chg1m": -0.08722292304919806
+      "chg1d": 0.002548476454293673,
+      "chg5d": 0.025036818851251932,
+      "chg1m": 0.04819277108433748
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Amputees from Israel’s Gaza war use homemade prosthetics to re-enter life",
+          "url": "https://www.aljazeera.com/news/2025/11/14/amputees-from-israels-gaza-war-use-homemade-prosthetics-to-re-enter-life?traffic_source=rss"
+        },
         {
           "title": "How many times has Israel violated the Gaza ceasefire?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/14/how-many-times-has-israel-violated-the-gaza-ceasefire-2?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler attack on West Bank mosque draws international condemnation",
-          "url": "https://www.aljazeera.com/news/2025/11/13/israeli-settler-attack-on-west-bank-mosque-draws-international-condemnation?traffic_source=rss"
-        },
-        {
-          "title": "West Bank mosque torched amid surge in Israeli settler violence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/west-bank-mosque-torched-amid-surge-in-israeli-settler-violence?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,27 +40,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Amputees from Israel’s Gaza war use homemade prosthetics to re-enter life",
+          "url": "https://www.aljazeera.com/news/2025/11/14/amputees-from-israels-gaza-war-use-homemade-prosthetics-to-re-enter-life?traffic_source=rss"
+        },
         {
           "title": "How many times has Israel violated the Gaza ceasefire?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/14/how-many-times-has-israel-violated-the-gaza-ceasefire-2?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler attack on West Bank mosque draws international condemnation",
-          "url": "https://www.aljazeera.com/news/2025/11/13/israeli-settler-attack-on-west-bank-mosque-draws-international-condemnation?traffic_source=rss"
-        },
-        {
-          "title": "West Bank mosque torched amid surge in Israeli settler violence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/west-bank-mosque-torched-amid-surge-in-israeli-settler-violence?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002548476454293673,
-      "chg5d": 0.025036818851251932,
-      "chg1m": 0.04819277108433748
+      "chg1d": -0.002603710834937856,
+      "chg5d": -0.027872558218885936,
+      "chg1m": -0.08722292304919806
     }
   ]
 }
