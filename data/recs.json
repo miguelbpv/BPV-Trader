@@ -1,39 +1,16 @@
 {
-  "generated_at": "2025-11-15T18:16:21.744243Z",
+  "generated_at": "2025-11-15T21:10:26.071400Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.31,
-      "confianca": 94,
-      "razoes": [
-        {
-          "title": "Ukraine says it attacked Russian oil refinery near Moscow as winter looms",
-          "url": "https://www.aljazeera.com/news/2025/11/15/ukraine-says-it-attacked-russian-oil-refinery-near-moscow?traffic_source=rss"
-        },
-        {
-          "title": "More details emerge of Israel’s ‘brutal’ treatment of Palestinian detainees",
-          "url": "https://www.aljazeera.com/news/2025/11/15/more-details-emerge-of-israels-brutal-treatment-of-palestinian-detainees?traffic_source=rss"
-        },
-        {
-          "title": "IRGC says tanker seized near Iran’s waters based on judicial order",
-          "url": "https://www.aljazeera.com/news/2025/11/15/irgc-says-tanker-seized-near-irans-waters-based-on-judicial-order?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01702033598585314,
-      "chg5d": 0.0276971186062094,
-      "chg1m": 0.07903377110694178
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.31,
-      "confianca": 94,
+      "score": 4.03,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza’s medical students help health system decimated by Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/11/15/gazas-medical-students-help-health-system-decimated-by-israels-war?traffic_source=rss"
+        },
         {
           "title": "Ukraine says it attacked Russian oil refinery near Moscow as winter looms",
           "url": "https://www.aljazeera.com/news/2025/11/15/ukraine-says-it-attacked-russian-oil-refinery-near-moscow?traffic_source=rss"
@@ -56,11 +33,46 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.03,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza’s medical students help health system decimated by Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/11/15/gazas-medical-students-help-health-system-decimated-by-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine says it attacked Russian oil refinery near Moscow as winter looms",
+          "url": "https://www.aljazeera.com/news/2025/11/15/ukraine-says-it-attacked-russian-oil-refinery-near-moscow?traffic_source=rss"
+        },
+        {
+          "title": "More details emerge of Israel’s ‘brutal’ treatment of Palestinian detainees",
+          "url": "https://www.aljazeera.com/news/2025/11/15/more-details-emerge-of-israels-brutal-treatment-of-palestinian-detainees?traffic_source=rss"
+        },
+        {
+          "title": "IRGC says tanker seized near Iran’s waters based on judicial order",
+          "url": "https://www.aljazeera.com/news/2025/11/15/irgc-says-tanker-seized-near-irans-waters-based-on-judicial-order?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01702033598585314,
+      "chg5d": 0.0276971186062094,
+      "chg1m": 0.07903377110694178
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Gaza’s medical students help health system decimated by Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/11/15/gazas-medical-students-help-health-system-decimated-by-israels-war?traffic_source=rss"
+        },
         {
           "title": "More details emerge of Israel’s ‘brutal’ treatment of Palestinian detainees",
           "url": "https://www.aljazeera.com/news/2025/11/15/more-details-emerge-of-israels-brutal-treatment-of-palestinian-detainees?traffic_source=rss"
