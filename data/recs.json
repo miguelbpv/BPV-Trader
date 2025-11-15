@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-11-15T15:11:17.714330Z",
+  "generated_at": "2025-11-15T18:16:21.744243Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 3.31,
+      "confianca": 94,
       "razoes": [
+        {
+          "title": "Ukraine says it attacked Russian oil refinery near Moscow as winter looms",
+          "url": "https://www.aljazeera.com/news/2025/11/15/ukraine-says-it-attacked-russian-oil-refinery-near-moscow?traffic_source=rss"
+        },
+        {
+          "title": "More details emerge of Israel’s ‘brutal’ treatment of Palestinian detainees",
+          "url": "https://www.aljazeera.com/news/2025/11/15/more-details-emerge-of-israels-brutal-treatment-of-palestinian-detainees?traffic_source=rss"
+        },
         {
           "title": "IRGC says tanker seized near Iran’s waters based on judicial order",
           "url": "https://www.aljazeera.com/news/2025/11/15/irgc-says-tanker-seized-near-irans-waters-based-on-judicial-order?traffic_source=rss"
@@ -21,30 +29,19 @@
       "chg1m": 0.07903377110694178
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.31,
+      "confianca": 94,
       "razoes": [
         {
-          "title": "IRGC says tanker seized near Iran’s waters based on judicial order",
-          "url": "https://www.aljazeera.com/news/2025/11/15/irgc-says-tanker-seized-near-irans-waters-based-on-judicial-order?traffic_source=rss"
+          "title": "Ukraine says it attacked Russian oil refinery near Moscow as winter looms",
+          "url": "https://www.aljazeera.com/news/2025/11/15/ukraine-says-it-attacked-russian-oil-refinery-near-moscow?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.021761544367664712,
-      "chg5d": 0.016188502236282227,
-      "chg1m": -0.05571211353269137
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
+          "title": "More details emerge of Israel’s ‘brutal’ treatment of Palestinian detainees",
+          "url": "https://www.aljazeera.com/news/2025/11/15/more-details-emerge-of-israels-brutal-treatment-of-palestinian-detainees?traffic_source=rss"
+        },
         {
           "title": "IRGC says tanker seized near Iran’s waters based on judicial order",
           "url": "https://www.aljazeera.com/news/2025/11/15/irgc-says-tanker-seized-near-irans-waters-based-on-judicial-order?traffic_source=rss"
@@ -57,6 +54,29 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "More details emerge of Israel’s ‘brutal’ treatment of Palestinian detainees",
+          "url": "https://www.aljazeera.com/news/2025/11/15/more-details-emerge-of-israels-brutal-treatment-of-palestinian-detainees?traffic_source=rss"
+        },
+        {
+          "title": "IRGC says tanker seized near Iran’s waters based on judicial order",
+          "url": "https://www.aljazeera.com/news/2025/11/15/irgc-says-tanker-seized-near-irans-waters-based-on-judicial-order?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.021761544367664712,
+      "chg5d": 0.016188502236282227,
+      "chg1m": -0.05571211353269137
     }
   ]
 }
