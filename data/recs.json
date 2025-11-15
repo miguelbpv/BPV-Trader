@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T21:12:05.885315Z",
+  "generated_at": "2025-11-15T00:59:03.472810Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
@@ -14,10 +14,6 @@
         {
           "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
           "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
-        },
-        {
-          "title": "Israel linked to “forced migration” with South Africa flights",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -25,33 +21,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
-      "razoes": [
-        {
-          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
-          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
-        },
-        {
-          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
-          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
-        },
-        {
-          "title": "Israel linked to “forced migration” with South Africa flights",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.022715805637819372,
-      "chg5d": 0.017137558634231397,
-      "chg1m": -0.05483020780537256
-    },
-    {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
@@ -60,35 +33,35 @@
         {
           "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
           "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
-        },
-        {
-          "title": "Israel linked to “forced migration” with South Africa flights",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss"
         }
       ],
-      "chg1d": 0.016854553492484433,
-      "chg5d": 0.027529595711413772,
-      "chg1m": 0.07885787992495302
+      "chg1d": 0.01702033598585314,
+      "chg5d": 0.0276971186062094,
+      "chg1m": 0.07903377110694178
     },
     {
-      "symbol": "SOXX",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
-          "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
-          "url": "https://www.aljazeera.com/economy/2025/11/14/us-to-slash-tariffs-on-switzerland-to-15-from-crippling-39?traffic_source=rss"
+          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
+          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
+        },
+        {
+          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
+          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004008570046305785,
-      "chg5d": -0.020925334601535322,
-      "chg1m": -0.0026299397882206064
+      "chg1d": 0.021761544367664712,
+      "chg5d": 0.016188502236282227,
+      "chg1m": -0.05571211353269137
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -96,14 +69,14 @@
           "url": "https://www.aljazeera.com/economy/2025/11/14/us-to-slash-tariffs-on-switzerland-to-15-from-crippling-39?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014315690388876926,
-      "chg5d": -0.011504877281309044,
-      "chg1m": -0.014054669033631206
+      "chg1d": -0.012629184397858526,
+      "chg5d": -0.009813561988672139,
+      "chg1m": -0.012367716435037627
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -111,9 +84,24 @@
           "url": "https://www.aljazeera.com/economy/2025/11/14/us-to-slash-tariffs-on-switzerland-to-15-from-crippling-39?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008504606661942006,
-      "chg5d": -0.0066317626527049815,
-      "chg1m": -0.05082710779082162
+      "chg1d": 0.009284195605953241,
+      "chg5d": -0.005863874345549762,
+      "chg1m": -0.05009338313767337
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
+          "url": "https://www.aljazeera.com/economy/2025/11/14/us-to-slash-tariffs-on-switzerland-to-15-from-crippling-39?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0030064275347294373,
+      "chg5d": -0.019940213329709914,
+      "chg1m": -0.0016264101321891732
     }
   ]
 }
