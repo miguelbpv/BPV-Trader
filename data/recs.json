@@ -1,29 +1,10 @@
 {
-  "generated_at": "2025-11-15T00:59:03.472810Z",
+  "generated_at": "2025-11-15T03:35:53.015252Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
-      "razoes": [
-        {
-          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
-          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
-        },
-        {
-          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
-          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.22,
+      "score": 1.21,
       "confianca": 34,
       "razoes": [
         {
@@ -40,9 +21,28 @@
       "chg1m": 0.07903377110694178
     },
     {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.21,
+      "confianca": 34,
+      "razoes": [
+        {
+          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
+          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
+        },
+        {
+          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
+          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.22,
+      "score": 1.21,
       "confianca": 34,
       "razoes": [
         {
@@ -61,7 +61,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -76,7 +76,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -91,7 +91,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
