@@ -1,62 +1,20 @@
 {
-  "generated_at": "2025-11-15T03:35:53.015252Z",
+  "generated_at": "2025-11-15T06:18:14.693759Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.21,
-      "confianca": 34,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
-          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
-        },
-        {
-          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
-          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
+          "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
+          "url": "https://www.aljazeera.com/economy/2025/11/14/us-to-slash-tariffs-on-switzerland-to-15-from-crippling-39?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01702033598585314,
-      "chg5d": 0.0276971186062094,
-      "chg1m": 0.07903377110694178
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.21,
-      "confianca": 34,
-      "razoes": [
-        {
-          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
-          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
-        },
-        {
-          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
-          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.21,
-      "confianca": 34,
-      "razoes": [
-        {
-          "title": "UN peacekeepers say Israel built walls inside Lebanese territory",
-          "url": "https://www.aljazeera.com/news/2025/11/14/un-peacekeepers-say-israel-built-walls-inside-lebanese-territory?traffic_source=rss"
-        },
-        {
-          "title": "Normalising hate: Israel leans in to anti-Palestinian violence, rhetoric",
-          "url": "https://www.aljazeera.com/news/2025/11/14/normalising-hate-israel-leans-in-to-anti-palestinian-violence-rhetoric?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.021761544367664712,
-      "chg5d": 0.016188502236282227,
-      "chg1m": -0.05571211353269137
+      "chg1d": -0.0029718708963992454,
+      "chg5d": -0.01990624363068148,
+      "chg1m": -0.0015918056612915646
     },
     {
       "symbol": "ASML.AS",
@@ -87,21 +45,6 @@
       "chg1d": 0.009284195605953241,
       "chg5d": -0.005863874345549762,
       "chg1m": -0.05009338313767337
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
-          "url": "https://www.aljazeera.com/economy/2025/11/14/us-to-slash-tariffs-on-switzerland-to-15-from-crippling-39?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0030064275347294373,
-      "chg5d": -0.019940213329709914,
-      "chg1m": -0.0016264101321891732
     }
   ]
 }
