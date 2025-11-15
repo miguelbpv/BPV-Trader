@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T06:18:14.693759Z",
+  "generated_at": "2025-11-15T09:12:21.149826Z",
   "recs": [
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
@@ -19,8 +19,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
@@ -34,8 +34,8 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US to slash tariffs on Switzerland to 15% from crippling 39%",
@@ -45,6 +45,51 @@
       "chg1d": 0.009284195605953241,
       "chg5d": -0.005863874345549762,
       "chg1m": -0.05009338313767337
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01702033598585314,
+      "chg5d": 0.0276971186062094,
+      "chg1m": 0.07903377110694178
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.021761544367664712,
+      "chg5d": 0.016188502236282227,
+      "chg1m": -0.05571211353269137
     }
   ]
 }
