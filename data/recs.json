@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-11-16T15:11:09.608284Z",
+  "generated_at": "2025-11-16T18:16:53.924873Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.21,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran says no prospect of talks as West builds pressure over nuclear issue",
-          "url": "https://www.aljazeera.com/news/2025/11/16/iran-says-no-prospect-of-talks-as-west-builds-pressure-over-nuclear-issue?traffic_source=rss"
-        },
-        {
-          "title": "UN peacekeepers say Israeli forces fire on them in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/11/16/un-peacekeepers-say-israeli-forces-fired-on-them-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Lawyers describe harrowing abuse of detainees in underground Israeli prison",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/16/lawyers-describe-harrowing-abuse-of-detainees-in-underground-israeli-prison?traffic_source=rss"
-        },
-        {
-          "title": "Israel not to be “trusted” on Gaza ceasefire",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/16/aje-onl-mahathirmohamad_quotable-161125?traffic_source=rss"
-        },
-        {
-          "title": "Man says shadowy group sending Palestinians out of Gaza has Israeli support",
-          "url": "https://www.aljazeera.com/news/2025/11/16/man-says-shadowy-group-sending-palestinians-out-of-gaza-has-israeli-support?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.021761544367664712,
-      "chg5d": 0.016188502236282227,
-      "chg1m": -0.05571211353269137
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.21,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel can’t fly us all out to South Africa",
+          "url": "https://www.aljazeera.com/opinions/2025/11/16/israel-cant-fly-us-all-out-to-south-africa?traffic_source=rss"
+        },
         {
           "title": "Iran says no prospect of talks as West builds pressure over nuclear issue",
           "url": "https://www.aljazeera.com/news/2025/11/16/iran-says-no-prospect-of-talks-as-west-builds-pressure-over-nuclear-issue?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israel not to be “trusted” on Gaza ceasefire",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/16/aje-onl-mahathirmohamad_quotable-161125?traffic_source=rss"
-        },
-        {
-          "title": "Man says shadowy group sending Palestinians out of Gaza has Israeli support",
-          "url": "https://www.aljazeera.com/news/2025/11/16/man-says-shadowy-group-sending-palestinians-out-of-gaza-has-israeli-support?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.21,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel can’t fly us all out to South Africa",
+          "url": "https://www.aljazeera.com/opinions/2025/11/16/israel-cant-fly-us-all-out-to-south-africa?traffic_source=rss"
+        },
         {
           "title": "Iran says no prospect of talks as West builds pressure over nuclear issue",
           "url": "https://www.aljazeera.com/news/2025/11/16/iran-says-no-prospect-of-talks-as-west-builds-pressure-over-nuclear-issue?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Israel not to be “trusted” on Gaza ceasefire",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/16/aje-onl-mahathirmohamad_quotable-161125?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.021761544367664712,
+      "chg5d": 0.016188502236282227,
+      "chg1m": -0.05571211353269137
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel can’t fly us all out to South Africa",
+          "url": "https://www.aljazeera.com/opinions/2025/11/16/israel-cant-fly-us-all-out-to-south-africa?traffic_source=rss"
         },
         {
-          "title": "Man says shadowy group sending Palestinians out of Gaza has Israeli support",
-          "url": "https://www.aljazeera.com/news/2025/11/16/man-says-shadowy-group-sending-palestinians-out-of-gaza-has-israeli-support?traffic_source=rss"
+          "title": "Iran says no prospect of talks as West builds pressure over nuclear issue",
+          "url": "https://www.aljazeera.com/news/2025/11/16/iran-says-no-prospect-of-talks-as-west-builds-pressure-over-nuclear-issue?traffic_source=rss"
+        },
+        {
+          "title": "UN peacekeepers say Israeli forces fire on them in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/11/16/un-peacekeepers-say-israeli-forces-fired-on-them-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Lawyers describe harrowing abuse of detainees in underground Israeli prison",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/16/lawyers-describe-harrowing-abuse-of-detainees-in-underground-israeli-prison?traffic_source=rss"
+        },
+        {
+          "title": "Israel not to be “trusted” on Gaza ceasefire",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/16/aje-onl-mahathirmohamad_quotable-161125?traffic_source=rss"
         }
       ],
       "chg1d": 0.01702033598585314,
