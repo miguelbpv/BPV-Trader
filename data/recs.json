@@ -1,62 +1,86 @@
 {
-  "generated_at": "2025-11-17T12:26:14.353997Z",
+  "generated_at": "2025-11-17T15:15:03.745461Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
+        },
         {
           "title": "Trita Parsi on Iran, the US and the Middle East",
           "url": "https://www.aljazeera.com/video/centre-stage/2025/11/17/trita-parsi-on-iran-the-us-and-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills at least three in Gaza, as thousands endure heavy flooding",
-          "url": "https://www.aljazeera.com/news/2025/11/16/israel-kills-at-least-three-in-gaza-as-thousands-endure-heavy-flooding?traffic_source=rss"
         }
       ],
-      "chg1d": 0.021761544367664712,
-      "chg5d": 0.016188502236282227,
-      "chg1m": -0.05571211353269137
+      "chg1d": -0.0013848036584579982,
+      "chg5d": 0.028809997788099926,
+      "chg1m": -0.060638190447339146
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
+      "razoes": [
+        {
+          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
+        },
+        {
+          "title": "Trita Parsi on Iran, the US and the Middle East",
+          "url": "https://www.aljazeera.com/video/centre-stage/2025/11/17/trita-parsi-on-iran-the-us-and-the-middle-east?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.003966529015431372,
+      "chg5d": 0.014443829551743297,
+      "chg1m": 0.06600372179576643
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
+        },
         {
           "title": "Trita Parsi on Iran, the US and the Middle East",
           "url": "https://www.aljazeera.com/video/centre-stage/2025/11/17/trita-parsi-on-iran-the-us-and-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills at least three in Gaza, as thousands endure heavy flooding",
-          "url": "https://www.aljazeera.com/news/2025/11/16/israel-kills-at-least-three-in-gaza-as-thousands-endure-heavy-flooding?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Trita Parsi on Iran, the US and the Middle East",
-          "url": "https://www.aljazeera.com/video/centre-stage/2025/11/17/trita-parsi-on-iran-the-us-and-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills at least three in Gaza, as thousands endure heavy flooding",
-          "url": "https://www.aljazeera.com/news/2025/11/16/israel-kills-at-least-three-in-gaza-as-thousands-endure-heavy-flooding?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01702033598585314,
-      "chg5d": 0.0276971186062094,
-      "chg1m": 0.07903377110694178
     }
   ]
 }
