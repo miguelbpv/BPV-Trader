@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-11-17T18:18:26.567552Z",
+  "generated_at": "2025-11-17T21:11:54.404965Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 4.19,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
+        },
         {
           "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
           "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
           "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011078429267664352,
+      "chg5d": 0.04165007741650074,
+      "chg1m": -0.04891447036251635
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.19,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
         },
         {
-          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
-          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
         },
         {
-          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
+          "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
+        },
+        {
+          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 4.19,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
+        },
         {
           "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
           "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
@@ -49,50 +88,11 @@
         {
           "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
           "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
-          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
-        },
-        {
-          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007933058030862744,
-      "chg5d": 0.010403984504704061,
-      "chg1m": 0.06175854849965111
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
-          "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
-        },
-        {
-          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
-          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
-        },
-        {
-          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0022328617128626158,
-      "chg5d": 0.032537049325370444,
-      "chg1m": -0.05723518125820454
+      "chg1d": -0.01787654857639639,
+      "chg5d": 0.00027670171555069933,
+      "chg1m": 0.05111653872993715
     }
   ]
 }
