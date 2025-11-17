@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-16T21:11:09.541656Z",
+  "generated_at": "2025-11-17T01:01:21.700840Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.18,
+      "score": 4.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel kills at least three in Gaza, as thousands endure heavy flooding",
+          "url": "https://www.aljazeera.com/news/2025/11/16/israel-kills-at-least-three-in-gaza-as-thousands-endure-heavy-flooding?traffic_source=rss"
+        },
         {
           "title": "Are Israeli-backed human trafficking networks forcing people out of Gaza?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/11/16/are-israeli-backed-human-trafficking-networks-forcing-people-out-of-gaza?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Iran says no prospect of talks as West builds pressure over nuclear issue",
           "url": "https://www.aljazeera.com/news/2025/11/16/iran-says-no-prospect-of-talks-as-west-builds-pressure-over-nuclear-issue?traffic_source=rss"
-        },
-        {
-          "title": "UN peacekeepers say Israeli forces fire on them in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/11/16/un-peacekeepers-say-israeli-forces-fired-on-them-in-southern-lebanon?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01702033598585314,
-      "chg5d": 0.0276971186062094,
-      "chg1m": 0.07903377110694178
+      "chg1d": 0.021761544367664712,
+      "chg5d": 0.016188502236282227,
+      "chg1m": -0.05571211353269137
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.18,
+      "score": 4.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel kills at least three in Gaza, as thousands endure heavy flooding",
+          "url": "https://www.aljazeera.com/news/2025/11/16/israel-kills-at-least-three-in-gaza-as-thousands-endure-heavy-flooding?traffic_source=rss"
+        },
         {
           "title": "Are Israeli-backed human trafficking networks forcing people out of Gaza?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/11/16/are-israeli-backed-human-trafficking-networks-forcing-people-out-of-gaza?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Iran says no prospect of talks as West builds pressure over nuclear issue",
           "url": "https://www.aljazeera.com/news/2025/11/16/iran-says-no-prospect-of-talks-as-west-builds-pressure-over-nuclear-issue?traffic_source=rss"
-        },
-        {
-          "title": "UN peacekeepers say Israeli forces fire on them in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/11/16/un-peacekeepers-say-israeli-forces-fired-on-them-in-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.18,
+      "score": 4.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel kills at least three in Gaza, as thousands endure heavy flooding",
+          "url": "https://www.aljazeera.com/news/2025/11/16/israel-kills-at-least-three-in-gaza-as-thousands-endure-heavy-flooding?traffic_source=rss"
+        },
         {
           "title": "Are Israeli-backed human trafficking networks forcing people out of Gaza?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/11/16/are-israeli-backed-human-trafficking-networks-forcing-people-out-of-gaza?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "Iran says no prospect of talks as West builds pressure over nuclear issue",
           "url": "https://www.aljazeera.com/news/2025/11/16/iran-says-no-prospect-of-talks-as-west-builds-pressure-over-nuclear-issue?traffic_source=rss"
-        },
-        {
-          "title": "UN peacekeepers say Israeli forces fire on them in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/11/16/un-peacekeepers-say-israeli-forces-fired-on-them-in-southern-lebanon?traffic_source=rss"
         }
       ],
-      "chg1d": 0.021761544367664712,
-      "chg5d": 0.016188502236282227,
-      "chg1m": -0.05571211353269137
+      "chg1d": 0.01702033598585314,
+      "chg5d": 0.0276971186062094,
+      "chg1m": 0.07903377110694178
     }
   ]
 }
