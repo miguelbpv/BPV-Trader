@@ -1,66 +1,20 @@
 {
-  "generated_at": "2025-11-17T15:15:03.745461Z",
+  "generated_at": "2025-11-17T18:18:26.567552Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.98,
-      "confianca": 85,
-      "razoes": [
-        {
-          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
-          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
-        },
-        {
-          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
-        },
-        {
-          "title": "Trita Parsi on Iran, the US and the Middle East",
-          "url": "https://www.aljazeera.com/video/centre-stage/2025/11/17/trita-parsi-on-iran-the-us-and-the-middle-east?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0013848036584579982,
-      "chg5d": 0.028809997788099926,
-      "chg1m": -0.060638190447339146
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.98,
-      "confianca": 85,
-      "razoes": [
-        {
-          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
-          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
-        },
-        {
-          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
-        },
-        {
-          "title": "Trita Parsi on Iran, the US and the Middle East",
-          "url": "https://www.aljazeera.com/video/centre-stage/2025/11/17/trita-parsi-on-iran-the-us-and-the-middle-east?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003966529015431372,
-      "chg5d": 0.014443829551743297,
-      "chg1m": 0.06600372179576643
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.98,
-      "confianca": 85,
+      "score": 3.71,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
+        },
         {
           "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
           "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
@@ -72,15 +26,73 @@
         {
           "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
-        },
-        {
-          "title": "Trita Parsi on Iran, the US and the Middle East",
-          "url": "https://www.aljazeera.com/video/centre-stage/2025/11/17/trita-parsi-on-iran-the-us-and-the-middle-east?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.71,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
+        },
+        {
+          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007933058030862744,
+      "chg5d": 0.010403984504704061,
+      "chg1m": 0.06175854849965111
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.71,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
+        },
+        {
+          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian deaths in Israeli jails surge amid Gaza war: Report",
+          "url": "https://www.aljazeera.com/news/2025/11/17/palestinian-deaths-in-israeli-jails-surge-amid-gaza-war-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel linked to shady company behind Gaza ‘displacement’ flights",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israel-linked-to-shady-company-behind-gaza-displacement-flights?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0022328617128626158,
+      "chg5d": 0.032537049325370444,
+      "chg1m": -0.05723518125820454
     }
   ]
 }
