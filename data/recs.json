@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-17T21:11:54.404965Z",
+  "generated_at": "2025-11-18T01:00:17.868824Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 3.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
+          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
           "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
           "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
-        },
-        {
-          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011078429267664352,
-      "chg5d": 0.04165007741650074,
-      "chg1m": -0.04891447036251635
+      "chg1d": -0.018365572701586588,
+      "chg5d": -0.0002213613724404651,
+      "chg1m": 0.05059316120027907
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 3.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
+          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
           "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
           "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
-        },
-        {
-          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 3.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
+          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
           "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
@@ -84,15 +88,71 @@
         {
           "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
           "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
-        },
-        {
-          "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
-          "url": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01787654857639639,
-      "chg5d": 0.00027670171555069933,
-      "chg1m": 0.05111653872993715
+      "chg1d": 0.010756381905232176,
+      "chg5d": 0.041318292413182814,
+      "chg1m": -0.04921740886600021
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
+          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
+          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008507702920211647,
+      "chg5d": -0.03136883654509582,
+      "chg1m": -0.00041395525971553
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
+          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009316446653669269,
+      "chg5d": -0.02314216952336243,
+      "chg1m": 0.001926579268200865
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
+          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01995957554320356,
+      "chg5d": -0.04630388460908041,
+      "chg1m": -0.04383550388233839
     }
   ]
 }
