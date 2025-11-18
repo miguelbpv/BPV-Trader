@@ -1,72 +1,10 @@
 {
-  "generated_at": "2025-11-18T01:00:17.868824Z",
+  "generated_at": "2025-11-18T03:41:15.771915Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.44,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
-          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
-          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
-        },
-        {
-          "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
-          "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.018365572701586588,
-      "chg5d": -0.0002213613724404651,
-      "chg1m": 0.05059316120027907
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.44,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
-          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
-          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
-        },
-        {
-          "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
-          "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.44,
+      "score": 3.41,
       "confianca": 95,
       "razoes": [
         {
@@ -95,14 +33,30 @@
       "chg1m": -0.04921740886600021
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.41,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
-          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
+          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
+          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
+        },
+        {
+          "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -110,10 +64,56 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.41,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
+          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
+        },
+        {
+          "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.018365572701586588,
+      "chg5d": -0.0002213613724404651,
+      "chg1m": 0.05059316120027907
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
+          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01995957554320356,
+      "chg5d": -0.04630388460908041,
+      "chg1m": -0.04383550388233839
+    },
+    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
@@ -127,8 +127,8 @@
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
@@ -140,19 +140,19 @@
       "chg1m": 0.001926579268200865
     },
     {
-      "symbol": "IWM",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
           "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01995957554320356,
-      "chg5d": -0.04630388460908041,
-      "chg1m": -0.04383550388233839
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
