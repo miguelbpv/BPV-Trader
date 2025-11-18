@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-11-18T06:19:53.999457Z",
+  "generated_at": "2025-11-18T09:15:23.749764Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
-      "razoes": [
-        {
-          "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/18/israels-war-on-gaza-live-hamas-says-un-resolution-does-not-meet-demands?traffic_source=rss"
-        },
-        {
-          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
-          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
-          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010756381905232176,
-      "chg5d": 0.041318292413182814,
-      "chg1m": -0.04921740886600021
-    },
-    {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
@@ -45,10 +18,6 @@
         {
           "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
           "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
         }
       ],
       "chg1d": -0.018256900673766494,
@@ -56,10 +25,10 @@
       "chg1m": 0.050709467317980914
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
@@ -72,30 +41,34 @@
         {
           "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
           "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.010756381905232176,
+      "chg5d": 0.041318292413182814,
+      "chg1m": -0.04921740886600021
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/18/israels-war-on-gaza-live-hamas-says-un-resolution-does-not-meet-demands?traffic_source=rss"
         },
         {
-          "title": "Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss"
+          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
+          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
+          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
-          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009316446653669269,
-      "chg5d": -0.02314216952336243,
-      "chg1m": 0.001926579268200865
     },
     {
       "symbol": "QQQ",
@@ -111,6 +84,21 @@
       "chg1d": -0.008540551194034829,
       "chg5d": -0.031400927426471846,
       "chg1m": -0.00044707168049274224
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
+          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009316446653669269,
+      "chg5d": -0.02314216952336243,
+      "chg1m": 0.001926579268200865
     },
     {
       "symbol": "EUROSTOXX50",
