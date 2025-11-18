@@ -1,4 +1,62 @@
 {
-  "generated_at": "2025-11-18T15:14:18.880777Z",
-  "recs": []
+  "generated_at": "2025-11-18T18:19:31.534154Z",
+  "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Israeli army fires on Al Jazeera cameraman at protest in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/israeli-army-fires-on-al-jazeera-cameraman-at-protest-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Polish company accused of supplying explosives for Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/18/polish-company-accused-of-supplying-explosives-for-israels-war-on-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0062806406389397254,
+      "chg5d": 0.036464436519570355,
+      "chg1m": -0.06357620083020352
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Israeli army fires on Al Jazeera cameraman at protest in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/israeli-army-fires-on-al-jazeera-cameraman-at-protest-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Polish company accused of supplying explosives for Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/18/polish-company-accused-of-supplying-explosives-for-israels-war-on-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Israeli army fires on Al Jazeera cameraman at protest in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/israeli-army-fires-on-al-jazeera-cameraman-at-protest-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Polish company accused of supplying explosives for Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/18/polish-company-accused-of-supplying-explosives-for-israels-war-on-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007195040956386888,
+      "chg5d": -0.005899705014749331,
+      "chg1m": 0.047186097364483766
+    }
+  ]
 }
