@@ -1,69 +1,15 @@
 {
-  "generated_at": "2025-11-18T09:15:23.749764Z",
+  "generated_at": "2025-11-18T12:26:55.577561Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/18/israels-war-on-gaza-live-hamas-says-un-resolution-does-not-meet-demands?traffic_source=rss"
-        },
-        {
-          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
-          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
-          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.018256900673766494,
-      "chg5d": -0.0001106806862201539,
-      "chg1m": 0.050709467317980914
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/18/israels-war-on-gaza-live-hamas-says-un-resolution-does-not-meet-demands?traffic_source=rss"
-        },
-        {
-          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
-          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
-          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010756381905232176,
-      "chg5d": 0.041318292413182814,
-      "chg1m": -0.04921740886600021
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/18/israels-war-on-gaza-live-hamas-says-un-resolution-does-not-meet-demands?traffic_source=rss"
-        },
-        {
-          "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
-          "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
-          "url": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
+          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
+          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -73,7 +19,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -88,7 +34,7 @@
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -101,24 +47,9 @@
       "chg1m": 0.001926579268200865
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
-          "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -129,6 +60,51 @@
       "chg1d": -0.01987535792487788,
       "chg5d": -0.04622193083101132,
       "chg1m": -0.04375333798940063
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/18/israels-war-on-gaza-live-hamas-says-un-resolution-does-not-meet-demands?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.018256900673766494,
+      "chg5d": -0.0001106806862201539,
+      "chg1m": 0.050709467317980914
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/18/israels-war-on-gaza-live-hamas-says-un-resolution-does-not-meet-demands?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.010756381905232176,
+      "chg5d": 0.041318292413182814,
+      "chg1m": -0.04921740886600021
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israel’s war on Gaza live: Hamas says UN resolution does not meet demands",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/18/israels-war-on-gaza-live-hamas-says-un-resolution-does-not-meet-demands?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
