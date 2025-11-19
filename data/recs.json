@@ -1,38 +1,58 @@
 {
-  "generated_at": "2025-11-18T18:19:31.534154Z",
+  "generated_at": "2025-11-19T01:00:11.745775Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
+      "acao": "comprar",
+      "score": 3.45,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attack on Palestinian refugee camp in Lebanon kills at least 13",
+          "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
+        },
+        {
+          "title": "Palestine Action activists on trial in UK over attack on Israeli arms maker",
+          "url": "https://www.aljazeera.com/news/2025/11/18/palestine-action-activists-on-trial-in-uk-over-attack-on-israeli-arms-maker?traffic_source=rss"
+        },
+        {
+          "title": "MBS: No normalisation with Israel without path to Palestinian statehood",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/mbs-no-normalisation-with-israel-without-path-to-palestinian-statehood?traffic_source=rss"
+        },
+        {
+          "title": "Microsoft, Nvidia invest in Anthropic in cloud services deal",
+          "url": "https://www.aljazeera.com/economy/2025/11/18/microsoft-nvidia-invest-in-anthropic-in-cloud-services-deal?traffic_source=rss"
+        },
         {
           "title": "Israeli army fires on Al Jazeera cameraman at protest in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/israeli-army-fires-on-al-jazeera-cameraman-at-protest-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Polish company accused of supplying explosives for Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/11/18/polish-company-accused-of-supplying-explosives-for-israels-war-on-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0062806406389397254,
-      "chg5d": 0.036464436519570355,
-      "chg1m": -0.06357620083020352
+      "chg1d": 0.00836908959598975,
+      "chg5d": 0.03861552934999023,
+      "chg1m": -0.06163273374184612
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
+      "acao": "comprar",
+      "score": 2.46,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Israeli attack on Palestinian refugee camp in Lebanon kills at least 13",
+          "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
+        },
+        {
+          "title": "Palestine Action activists on trial in UK over attack on Israeli arms maker",
+          "url": "https://www.aljazeera.com/news/2025/11/18/palestine-action-activists-on-trial-in-uk-over-attack-on-israeli-arms-maker?traffic_source=rss"
+        },
+        {
+          "title": "MBS: No normalisation with Israel without path to Palestinian statehood",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/mbs-no-normalisation-with-israel-without-path-to-palestinian-statehood?traffic_source=rss"
+        },
         {
           "title": "Israeli army fires on Al Jazeera cameraman at protest in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/israeli-army-fires-on-al-jazeera-cameraman-at-protest-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Polish company accused of supplying explosives for Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/11/18/polish-company-accused-of-supplying-explosives-for-israels-war-on-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -41,22 +61,75 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
+      "acao": "comprar",
+      "score": 2.46,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Israeli attack on Palestinian refugee camp in Lebanon kills at least 13",
+          "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
+        },
+        {
+          "title": "Palestine Action activists on trial in UK over attack on Israeli arms maker",
+          "url": "https://www.aljazeera.com/news/2025/11/18/palestine-action-activists-on-trial-in-uk-over-attack-on-israeli-arms-maker?traffic_source=rss"
+        },
+        {
+          "title": "MBS: No normalisation with Israel without path to Palestinian statehood",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/mbs-no-normalisation-with-israel-without-path-to-palestinian-statehood?traffic_source=rss"
+        },
         {
           "title": "Israeli army fires on Al Jazeera cameraman at protest in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/israeli-army-fires-on-al-jazeera-cameraman-at-protest-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Polish company accused of supplying explosives for Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/11/18/polish-company-accused-of-supplying-explosives-for-israels-war-on-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007195040956386888,
-      "chg5d": -0.005899705014749331,
-      "chg1m": 0.047186097364483766
+      "chg1d": 0.007859198583130327,
+      "chg5d": -0.005244182235332721,
+      "chg1m": 0.047876625618598186
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Microsoft, Nvidia invest in Anthropic in cloud services deal",
+          "url": "https://www.aljazeera.com/economy/2025/11/18/microsoft-nvidia-invest-in-anthropic-in-cloud-services-deal?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01453849154285297,
+      "chg5d": -0.045540405948414985,
+      "chg1m": -0.06647631844138382
+    },
+    {
+      "symbol": "NVDA",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Microsoft, Nvidia invest in Anthropic in cloud services deal",
+          "url": "https://www.aljazeera.com/economy/2025/11/18/microsoft-nvidia-invest-in-anthropic-in-cloud-services-deal?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02808145766345113,
+      "chg5d": -0.0610892524332159,
+      "chg1m": -0.007008322382829462
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Microsoft, Nvidia invest in Anthropic in cloud services deal",
+          "url": "https://www.aljazeera.com/economy/2025/11/18/microsoft-nvidia-invest-in-anthropic-in-cloud-services-deal?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01562745098039221,
+      "chg5d": -0.017957395199624436,
+      "chg1m": -0.0365494410593486
     }
   ]
 }
