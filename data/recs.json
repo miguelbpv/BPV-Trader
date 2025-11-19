@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-11-19T12:26:08.094576Z",
+  "generated_at": "2025-11-19T15:14:10.788676Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.57,
+      "confianca": 73,
       "razoes": [
+        {
+          "title": "Trump’s Russian oil waiver gives Orban a win at Hungary’s expense",
+          "url": "https://www.aljazeera.com/opinions/2025/11/19/trumps-russian-oil-waiver-gives-orban-a-win-at-hungarys-expense?traffic_source=rss"
+        },
+        {
+          "title": "Deadly Israeli attack on Gaza brings death toll since ceasefire to 280",
+          "url": "https://www.aljazeera.com/news/2025/11/19/deadly-israeli-attack-on-gaza-brings-death-toll-since-ceasefire-to-280?traffic_source=rss"
+        },
         {
           "title": "Israeli air strike on Lebanon refugee camp kills 13 people",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-air-strike-on-lebanon-refugee-camp-kills-13-people?traffic_source=rss"
@@ -14,14 +22,33 @@
         {
           "title": "Israeli attack on refugee camp in Lebanon opens “very dangerous door”",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/19/israeli-attack-on-refugee-camp-in-lebanon-opens-very-dangerous?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02015154842960694,
+      "chg5d": -0.01135734072022167,
+      "chg1m": 0.0292421271196216
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.57,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Trump’s Russian oil waiver gives Orban a win at Hungary’s expense",
+          "url": "https://www.aljazeera.com/opinions/2025/11/19/trumps-russian-oil-waiver-gives-orban-a-win-at-hungarys-expense?traffic_source=rss"
         },
         {
-          "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
+          "title": "Deadly Israeli attack on Gaza brings death toll since ceasefire to 280",
+          "url": "https://www.aljazeera.com/news/2025/11/19/deadly-israeli-attack-on-gaza-brings-death-toll-since-ceasefire-to-280?traffic_source=rss"
         },
         {
-          "title": "Israeli attack on Palestinian refugee camp in Lebanon kills at least 13",
-          "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
+          "title": "Israeli air strike on Lebanon refugee camp kills 13 people",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-air-strike-on-lebanon-refugee-camp-kills-13-people?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attack on refugee camp in Lebanon opens “very dangerous door”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/19/israeli-attack-on-refugee-camp-in-lebanon-opens-very-dangerous?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,38 +56,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "Israeli air strike on Lebanon refugee camp kills 13 people",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-air-strike-on-lebanon-refugee-camp-kills-13-people?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack on refugee camp in Lebanon opens “very dangerous door”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/19/israeli-attack-on-refugee-camp-in-lebanon-opens-very-dangerous?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack on Palestinian refugee camp in Lebanon kills at least 13",
-          "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007969891520920952,
-      "chg5d": -0.0051349284387632345,
-      "chg1m": 0.04799171366095065
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Deadly Israeli attack on Gaza brings death toll since ceasefire to 280",
+          "url": "https://www.aljazeera.com/news/2025/11/19/deadly-israeli-attack-on-gaza-brings-death-toll-since-ceasefire-to-280?traffic_source=rss"
+        },
         {
           "title": "Israeli air strike on Lebanon refugee camp kills 13 people",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-air-strike-on-lebanon-refugee-camp-kills-13-people?traffic_source=rss"
@@ -68,19 +72,11 @@
         {
           "title": "Israeli attack on refugee camp in Lebanon opens “very dangerous door”",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/19/israeli-attack-on-refugee-camp-in-lebanon-opens-very-dangerous?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack on Palestinian refugee camp in Lebanon kills at least 13",
-          "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00836908959598975,
-      "chg5d": 0.03861552934999023,
-      "chg1m": -0.06163273374184612
+      "chg1d": -0.006466970003370513,
+      "chg5d": 0.03196656747768238,
+      "chg1m": -0.03646578140960168
     }
   ]
 }
