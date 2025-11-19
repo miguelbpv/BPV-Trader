@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-11-19T06:19:34.120712Z",
+  "generated_at": "2025-11-19T09:15:12.405728Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: 13 killed in Israeli air attack on refugee camp in Lebanon",
+          "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
         },
         {
@@ -16,16 +16,12 @@
           "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
         },
         {
-          "title": "Palestine Action activists on trial in UK over attack on Israeli arms maker",
+          "title": "Palestine Action activists on trial in UK over Israeli arms maker protest",
           "url": "https://www.aljazeera.com/news/2025/11/18/palestine-action-activists-on-trial-in-uk-over-attack-on-israeli-arms-maker?traffic_source=rss"
         },
         {
           "title": "MBS: No normalisation with Israel without path to Palestinian statehood",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/mbs-no-normalisation-with-israel-without-path-to-palestinian-statehood?traffic_source=rss"
-        },
-        {
-          "title": "Microsoft, Nvidia invest in Anthropic in cloud services deal",
-          "url": "https://www.aljazeera.com/economy/2025/11/18/microsoft-nvidia-invest-in-anthropic-in-cloud-services-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.00836908959598975,
@@ -33,40 +29,13 @@
       "chg1m": -0.06163273374184612
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "LIVE: 13 killed in Israeli air attack on refugee camp in Lebanon",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack on Palestinian refugee camp in Lebanon kills at least 13",
-          "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
-        },
-        {
-          "title": "Palestine Action activists on trial in UK over attack on Israeli arms maker",
-          "url": "https://www.aljazeera.com/news/2025/11/18/palestine-action-activists-on-trial-in-uk-over-attack-on-israeli-arms-maker?traffic_source=rss"
-        },
-        {
-          "title": "MBS: No normalisation with Israel without path to Palestinian statehood",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/mbs-no-normalisation-with-israel-without-path-to-palestinian-statehood?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007969891520920952,
-      "chg5d": -0.0051349284387632345,
-      "chg1m": 0.04799171366095065
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
       "razoes": [
         {
-          "title": "LIVE: 13 killed in Israeli air attack on refugee camp in Lebanon",
+          "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
         },
         {
@@ -74,7 +43,7 @@
           "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
         },
         {
-          "title": "Palestine Action activists on trial in UK over attack on Israeli arms maker",
+          "title": "Palestine Action activists on trial in UK over Israeli arms maker protest",
           "url": "https://www.aljazeera.com/news/2025/11/18/palestine-action-activists-on-trial-in-uk-over-attack-on-israeli-arms-maker?traffic_source=rss"
         },
         {
@@ -87,49 +56,31 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
+      "score": 2.17,
+      "confianca": 62,
       "razoes": [
         {
-          "title": "Microsoft, Nvidia invest in Anthropic in cloud services deal",
-          "url": "https://www.aljazeera.com/economy/2025/11/18/microsoft-nvidia-invest-in-anthropic-in-cloud-services-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01562745098039221,
-      "chg5d": -0.017957395199624436,
-      "chg1m": -0.0365494410593486
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
+          "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
+        },
         {
-          "title": "Microsoft, Nvidia invest in Anthropic in cloud services deal",
-          "url": "https://www.aljazeera.com/economy/2025/11/18/microsoft-nvidia-invest-in-anthropic-in-cloud-services-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01453849154285297,
-      "chg5d": -0.045540405948414985,
-      "chg1m": -0.06647631844138382
-    },
-    {
-      "symbol": "NVDA",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
+          "title": "Israeli attack on Palestinian refugee camp in Lebanon kills at least 13",
+          "url": "https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss"
+        },
         {
-          "title": "Microsoft, Nvidia invest in Anthropic in cloud services deal",
-          "url": "https://www.aljazeera.com/economy/2025/11/18/microsoft-nvidia-invest-in-anthropic-in-cloud-services-deal?traffic_source=rss"
+          "title": "Palestine Action activists on trial in UK over Israeli arms maker protest",
+          "url": "https://www.aljazeera.com/news/2025/11/18/palestine-action-activists-on-trial-in-uk-over-attack-on-israeli-arms-maker?traffic_source=rss"
+        },
+        {
+          "title": "MBS: No normalisation with Israel without path to Palestinian statehood",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/mbs-no-normalisation-with-israel-without-path-to-palestinian-statehood?traffic_source=rss"
         }
       ],
-      "chg1d": -0.02808145766345113,
-      "chg5d": -0.0610892524332159,
-      "chg1m": -0.007008322382829462
+      "chg1d": 0.007969891520920952,
+      "chg5d": -0.0051349284387632345,
+      "chg1m": 0.04799171366095065
     }
   ]
 }
