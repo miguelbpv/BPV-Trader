@@ -1,39 +1,20 @@
 {
-  "generated_at": "2025-11-19T18:19:12.794190Z",
+  "generated_at": "2025-11-19T21:10:26.112742Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "Videos show the moment Israel bombed villages in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/videos-show-the-moment-israel-bombed-villages-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "‘Mostly children killed’ in Israeli attack on Lebanon camp",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-strike-on-palestinian-refugee-camp-in-lebanon-killed-mostly-childr?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s Russian oil waiver gives Orban a win at Hungary’s expense",
-          "url": "https://www.aljazeera.com/opinions/2025/11/19/trumps-russian-oil-waiver-gives-orban-a-win-at-hungarys-expense?traffic_source=rss"
-        },
-        {
-          "title": "Deadly Israeli attack on Gaza brings death toll since ceasefire to 280",
-          "url": "https://www.aljazeera.com/news/2025/11/19/deadly-israeli-attack-on-gaza-brings-death-toll-since-ceasefire-to-280?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012079947287502838,
-      "chg5d": -0.003213296398892036,
-      "chg1m": 0.03772061368093201
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
+      "score": 4.04,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
+          "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss"
+        },
         {
           "title": "Videos show the moment Israel bombed villages in southern Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/videos-show-the-moment-israel-bombed-villages-in-southern-lebanon?traffic_source=rss"
@@ -45,10 +26,6 @@
         {
           "title": "Trump’s Russian oil waiver gives Orban a win at Hungary’s expense",
           "url": "https://www.aljazeera.com/opinions/2025/11/19/trumps-russian-oil-waiver-gives-orban-a-win-at-hungarys-expense?traffic_source=rss"
-        },
-        {
-          "title": "Deadly Israeli attack on Gaza brings death toll since ceasefire to 280",
-          "url": "https://www.aljazeera.com/news/2025/11/19/deadly-israeli-attack-on-gaza-brings-death-toll-since-ceasefire-to-280?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,11 +33,50 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.73,
-      "confianca": 49,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.04,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
+          "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss"
+        },
+        {
+          "title": "Videos show the moment Israel bombed villages in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/videos-show-the-moment-israel-bombed-villages-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "‘Mostly children killed’ in Israeli attack on Lebanon camp",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-strike-on-palestinian-refugee-camp-in-lebanon-killed-mostly-childr?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s Russian oil waiver gives Orban a win at Hungary’s expense",
+          "url": "https://www.aljazeera.com/opinions/2025/11/19/trumps-russian-oil-waiver-gives-orban-a-win-at-hungarys-expense?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011366132220513908,
+      "chg5d": -0.0024930747922437043,
+      "chg1m": 0.0384704118122045
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
+          "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss"
+        },
         {
           "title": "Videos show the moment Israel bombed villages in southern Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/videos-show-the-moment-israel-bombed-villages-in-southern-lebanon?traffic_source=rss"
@@ -74,9 +90,9 @@
           "url": "https://www.aljazeera.com/news/2025/11/19/deadly-israeli-attack-on-gaza-brings-death-toll-since-ceasefire-to-280?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006867205931917862,
-      "chg5d": 0.031550848941011636,
-      "chg1m": -0.03685393258426971
+      "chg1d": -0.009321284125379194,
+      "chg5d": 0.02900183791353053,
+      "chg1m": -0.03923391215526044
     }
   ]
 }
