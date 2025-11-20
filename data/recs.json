@@ -1,23 +1,31 @@
 {
-  "generated_at": "2025-11-20T09:14:25.203024Z",
+  "generated_at": "2025-11-20T12:25:58.283886Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
+      "score": 5.17,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Video: Girl in Gaza rebuilds life after Israeli strike kills family",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-girl-in-gaza-rebuilds-life-after-israeli-strike-kills-family?traffic_source=rss"
+        },
+        {
+          "title": "Israel “seems to be testing” UN ceasefire resolution",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/20/israel-seems-to-be-testing-un-ceasefire-resolution?traffic_source=rss"
+        },
+        {
+          "title": "Huge fire seen after ‘explosion’ at Venezuela oil plant",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/huge-fire-seen-after-explosion-at-venezuela-oil-plant?traffic_source=rss"
+        },
+        {
+          "title": "Gaza girl orphaned in Israeli strike rebuilds her life with severe burns",
+          "url": "https://www.aljazeera.com/news/2025/11/20/gaza-girl-orphaned-in-israeli-strike-rebuilds-her-life-with-severe-burns?traffic_source=rss"
+        },
         {
           "title": "Will a global oil glut push prices lower in 2026?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/11/20/will-a-global-oil-glut-push-prices-lower-in-2026?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel attacks southern Gaza, kills at least 4 Palestinians",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/20/live-israel-bombs-house-in-southern-gaza-kills-at-least-3-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory",
-          "url": "https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss"
         }
       ],
       "chg1d": -0.01295848890841211,
@@ -27,20 +35,28 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
+      "score": 5.17,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Video: Girl in Gaza rebuilds life after Israeli strike kills family",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-girl-in-gaza-rebuilds-life-after-israeli-strike-kills-family?traffic_source=rss"
+        },
+        {
+          "title": "Israel “seems to be testing” UN ceasefire resolution",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/20/israel-seems-to-be-testing-un-ceasefire-resolution?traffic_source=rss"
+        },
+        {
+          "title": "Huge fire seen after ‘explosion’ at Venezuela oil plant",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/huge-fire-seen-after-explosion-at-venezuela-oil-plant?traffic_source=rss"
+        },
+        {
+          "title": "Gaza girl orphaned in Israeli strike rebuilds her life with severe burns",
+          "url": "https://www.aljazeera.com/news/2025/11/20/gaza-girl-orphaned-in-israeli-strike-rebuilds-her-life-with-severe-burns?traffic_source=rss"
+        },
         {
           "title": "Will a global oil glut push prices lower in 2026?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2025/11/20/will-a-global-oil-glut-push-prices-lower-in-2026?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel attacks southern Gaza, kills at least 4 Palestinians",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/20/live-israel-bombs-house-in-southern-gaza-kills-at-least-3-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory",
-          "url": "https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,70 +66,29 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.48,
+      "confianca": 70,
       "razoes": [
         {
-          "title": "LIVE: Israel attacks southern Gaza, kills at least 4 Palestinians",
+          "title": "Video: Girl in Gaza rebuilds life after Israeli strike kills family",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-girl-in-gaza-rebuilds-life-after-israeli-strike-kills-family?traffic_source=rss"
+        },
+        {
+          "title": "Israel “seems to be testing” UN ceasefire resolution",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/20/israel-seems-to-be-testing-un-ceasefire-resolution?traffic_source=rss"
+        },
+        {
+          "title": "Gaza girl orphaned in Israeli strike rebuilds her life with severe burns",
+          "url": "https://www.aljazeera.com/news/2025/11/20/gaza-girl-orphaned-in-israeli-strike-rebuilds-her-life-with-severe-burns?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel attacks southern Gaza, kills at least 5 Palestinians",
           "url": "https://www.aljazeera.com/news/liveblog/2025/11/20/live-israel-bombs-house-in-southern-gaza-kills-at-least-3-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory",
-          "url": "https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss"
-        },
-        {
-          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
-          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
         }
       ],
       "chg1d": -0.01013228850690934,
       "chg5d": 0.028159460878697716,
       "chg1m": -0.040020429009193004
-    },
-    {
-      "symbol": "NVDA",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
-          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.028451698279664733,
-      "chg5d": -0.03756449948400413,
-      "chg1m": 0.029587105321263046
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
-          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.016048360980173364,
-      "chg5d": -0.02838758516275549,
-      "chg1m": -0.04122101117109771
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
-          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03512738282572753,
-      "chg5d": 0.0019280267610114429,
-      "chg1m": 0.013960703205791054
     }
   ]
 }
