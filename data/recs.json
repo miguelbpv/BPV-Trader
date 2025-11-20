@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-11-20T03:39:41.642101Z",
+  "generated_at": "2025-11-20T06:19:37.680082Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.65,
+      "score": 4.14,
       "confianca": 95,
       "razoes": [
         {
@@ -33,40 +33,9 @@
       "chg1m": -0.040020429009193004
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.91,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory",
-          "url": "https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss"
-        },
-        {
-          "title": "Family demands independent medical care for US teen detained by Israel",
-          "url": "https://www.aljazeera.com/news/2025/11/19/family-demands-independent-medical-care-for-us-teen-detained-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills at least 28 Palestinians in wave of Gaza ‘ceasefire’ attacks",
-          "url": "https://www.aljazeera.com/news/2025/11/19/israel-kills-at-least-25-palestinians-in-wave-of-gaza-attacks?traffic_source=rss"
-        },
-        {
-          "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
-          "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01295848890841211,
-      "chg5d": -0.004099722991689801,
-      "chg1m": 0.036797785211673754
-    },
-    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.91,
+      "score": 3.41,
       "confianca": 95,
       "razoes": [
         {
@@ -95,25 +64,71 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.41,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory",
+          "url": "https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss"
+        },
+        {
+          "title": "Family demands independent medical care for US teen detained by Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/19/family-demands-independent-medical-care-for-us-teen-detained-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills at least 28 Palestinians in wave of Gaza ‘ceasefire’ attacks",
+          "url": "https://www.aljazeera.com/news/2025/11/19/israel-kills-at-least-25-palestinians-in-wave-of-gaza-attacks?traffic_source=rss"
+        },
+        {
+          "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
+          "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01295848890841211,
+      "chg5d": -0.004099722991689801,
+      "chg1m": 0.036797785211673754
+    },
+    {
       "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
           "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02985774150860163,
-      "chg5d": -0.03624871001031994,
-      "chg1m": 0.030994700816957436
+      "chg1d": 0.028451698279664733,
+      "chg5d": -0.03756449948400413,
+      "chg1m": 0.029587105321263046
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
+          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03512738282572753,
+      "chg5d": 0.0019280267610114429,
+      "chg1m": 0.013960703205791054
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
@@ -123,21 +138,6 @@
       "chg1d": 0.016048360980173364,
       "chg5d": -0.02838758516275549,
       "chg1m": -0.04122101117109771
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
-          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03499790849152451,
-      "chg5d": 0.0018027050215458132,
-      "chg1m": 0.01383387641216763
     }
   ]
 }
