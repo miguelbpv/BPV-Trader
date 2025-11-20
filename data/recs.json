@@ -1,43 +1,24 @@
 {
-  "generated_at": "2025-11-20T18:19:22.267374Z",
+  "generated_at": "2025-11-20T21:12:20.566277Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.89,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s emptying of West Bank refugee camps amounts to war crimes: HRW",
-          "url": "https://www.aljazeera.com/news/2025/11/20/israels-emptying-of-west-bank-refugee-camps-amounts-to-war-crimes-hrw?traffic_source=rss"
-        },
-        {
-          "title": "Video shows Palestinian child after shooting by Israeli forces",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-shows-palestinian-child-after-shooting-by-israeli-forces?traffic_source=rss"
-        },
-        {
-          "title": "Will a global oil glut push prices lower in 2026?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/11/20/will-a-global-oil-glut-push-prices-lower-in-2026?traffic_source=rss"
-        },
-        {
-          "title": "IAEA passes resolution demanding nuclear access from Iran; Tehran rejects",
-          "url": "https://www.aljazeera.com/news/2025/11/20/iaea-passes-resolution-demanding-nuclear-access-from-iran-tehran-rejects?traffic_source=rss"
-        },
-        {
-          "title": "More than 30 killed as Israel breaks Gaza ceasefire again",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/more-than-30-killed-as-israel-breaks-gaza-ceasefire-again?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005117935024477011,
-      "chg5d": -0.011715296198054843,
-      "chg1m": 0.01845102505694766
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.89,
+      "score": 5.79,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestinians doubt Gaza ceasefire will last considering Israel’s violations",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/palestinians-doubt-gaza-ceasefire-will-last-considering-israels-violations?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians ‘squeezed’ as Israel moves beyond ‘yellow line’ in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/11/20/palestinians-squeezed-as-israel-moves-beyond-yellow-line-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "After Israel PM’s trip to occupied Syria, is a deal off the table?",
+          "url": "https://www.aljazeera.com/news/2025/11/20/after-israel-pms-trip-to-occupied-syria-is-a-deal-off-the-table?traffic_source=rss"
+        },
         {
           "title": "Israel’s emptying of West Bank refugee camps amounts to war crimes: HRW",
           "url": "https://www.aljazeera.com/news/2025/11/20/israels-emptying-of-west-bank-refugee-camps-amounts-to-war-crimes-hrw?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Video shows Palestinian child after shooting by Israeli forces",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-shows-palestinian-child-after-shooting-by-israeli-forces?traffic_source=rss"
-        },
-        {
-          "title": "Will a global oil glut push prices lower in 2026?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/11/20/will-a-global-oil-glut-push-prices-lower-in-2026?traffic_source=rss"
-        },
-        {
-          "title": "IAEA passes resolution demanding nuclear access from Iran; Tehran rejects",
-          "url": "https://www.aljazeera.com/news/2025/11/20/iaea-passes-resolution-demanding-nuclear-access-from-iran-tehran-rejects?traffic_source=rss"
-        },
-        {
-          "title": "More than 30 killed as Israel breaks Gaza ceasefire again",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/more-than-30-killed-as-israel-breaks-gaza-ceasefire-again?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "score": 5.79,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestinians doubt Gaza ceasefire will last considering Israel’s violations",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/palestinians-doubt-gaza-ceasefire-will-last-considering-israels-violations?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians ‘squeezed’ as Israel moves beyond ‘yellow line’ in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/11/20/palestinians-squeezed-as-israel-moves-beyond-yellow-line-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "After Israel PM’s trip to occupied Syria, is a deal off the table?",
+          "url": "https://www.aljazeera.com/news/2025/11/20/after-israel-pms-trip-to-occupied-syria-is-a-deal-off-the-table?traffic_source=rss"
+        },
         {
           "title": "Israel’s emptying of West Bank refugee camps amounts to war crimes: HRW",
           "url": "https://www.aljazeera.com/news/2025/11/20/israels-emptying-of-west-bank-refugee-camps-amounts-to-war-crimes-hrw?traffic_source=rss"
@@ -76,23 +57,87 @@
         {
           "title": "Video shows Palestinian child after shooting by Israeli forces",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-shows-palestinian-child-after-shooting-by-israeli-forces?traffic_source=rss"
-        },
-        {
-          "title": "IAEA passes resolution demanding nuclear access from Iran; Tehran rejects",
-          "url": "https://www.aljazeera.com/news/2025/11/20/iaea-passes-resolution-demanding-nuclear-access-from-iran-tehran-rejects?traffic_source=rss"
-        },
-        {
-          "title": "More than 30 killed as Israel breaks Gaza ceasefire again",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/more-than-30-killed-as-israel-breaks-gaza-ceasefire-again?traffic_source=rss"
-        },
-        {
-          "title": "Video: Girl in Gaza rebuilds life after Israeli strike kills family",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-girl-in-gaza-rebuilds-life-after-israeli-strike-kills-family?traffic_source=rss"
         }
       ],
-      "chg1d": -0.002191909088974547,
-      "chg5d": 0.0285839640232532,
-      "chg1m": -0.03748409081578189
+      "chg1d": -0.011515353805073394,
+      "chg5d": -0.018070291777188385,
+      "chg1m": 0.011902050113895236
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Palestinians doubt Gaza ceasefire will last considering Israel’s violations",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/palestinians-doubt-gaza-ceasefire-will-last-considering-israels-violations?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians ‘squeezed’ as Israel moves beyond ‘yellow line’ in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/11/20/palestinians-squeezed-as-israel-moves-beyond-yellow-line-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "After Israel PM’s trip to occupied Syria, is a deal off the table?",
+          "url": "https://www.aljazeera.com/news/2025/11/20/after-israel-pms-trip-to-occupied-syria-is-a-deal-off-the-table?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s emptying of West Bank refugee camps amounts to war crimes: HRW",
+          "url": "https://www.aljazeera.com/news/2025/11/20/israels-emptying-of-west-bank-refugee-camps-amounts-to-war-crimes-hrw?traffic_source=rss"
+        },
+        {
+          "title": "Video shows Palestinian child after shooting by Israeli forces",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-shows-palestinian-child-after-shooting-by-israeli-forces?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0038730820795472537,
+      "chg5d": 0.026850937808489527,
+      "chg1m": -0.039105801207045224
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US tariffs cast shadow over Nuevo Leon’s steel industry in Mexico",
+          "url": "https://www.aljazeera.com/economy/2025/11/20/us-tariffs-cast-shadow-over-nuevo-leons-steel-industry-in-mexico?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.015546977370117173,
+      "chg5d": -0.014953933380581043,
+      "chg1m": -0.03773193021323725
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US tariffs cast shadow over Nuevo Leon’s steel industry in Mexico",
+          "url": "https://www.aljazeera.com/economy/2025/11/20/us-tariffs-cast-shadow-over-nuevo-leons-steel-industry-in-mexico?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.05669036783312323,
+      "chg5d": -0.03868177985213661,
+      "chg1m": -0.030798811742201525
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US tariffs cast shadow over Nuevo Leon’s steel industry in Mexico",
+          "url": "https://www.aljazeera.com/economy/2025/11/20/us-tariffs-cast-shadow-over-nuevo-leons-steel-industry-in-mexico?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.04822271936365911,
+      "chg5d": -0.07377842283502668,
+      "chg1m": -0.0566642030056665
     }
   ]
 }
