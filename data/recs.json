@@ -1,12 +1,55 @@
 {
-  "generated_at": "2025-11-19T21:10:26.112742Z",
+  "generated_at": "2025-11-20T00:59:10.996955Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.04,
+      "score": 5.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory",
+          "url": "https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss"
+        },
+        {
+          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
+          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
+        },
+        {
+          "title": "Family demands independent medical care for US teen detained by Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/19/family-demands-independent-medical-care-for-us-teen-detained-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills at least 28 Palestinians in wave of Gaza ‘ceasefire’ attacks",
+          "url": "https://www.aljazeera.com/news/2025/11/19/israel-kills-at-least-25-palestinians-in-wave-of-gaza-attacks?traffic_source=rss"
+        },
+        {
+          "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01013228850690934,
+      "chg5d": 0.028159460878697716,
+      "chg1m": -0.040020429009193004
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.42,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory",
+          "url": "https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss"
+        },
+        {
+          "title": "Family demands independent medical care for US teen detained by Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/19/family-demands-independent-medical-care-for-us-teen-detained-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills at least 28 Palestinians in wave of Gaza ‘ceasefire’ attacks",
+          "url": "https://www.aljazeera.com/news/2025/11/19/israel-kills-at-least-25-palestinians-in-wave-of-gaza-attacks?traffic_source=rss"
+        },
         {
           "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
@@ -14,18 +57,37 @@
         {
           "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
           "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01295848890841211,
+      "chg5d": -0.004099722991689801,
+      "chg1m": 0.036797785211673754
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.42,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory",
+          "url": "https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss"
         },
         {
-          "title": "Videos show the moment Israel bombed villages in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/videos-show-the-moment-israel-bombed-villages-in-southern-lebanon?traffic_source=rss"
+          "title": "Family demands independent medical care for US teen detained by Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/19/family-demands-independent-medical-care-for-us-teen-detained-by-israel?traffic_source=rss"
         },
         {
-          "title": "‘Mostly children killed’ in Israeli attack on Lebanon camp",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-strike-on-palestinian-refugee-camp-in-lebanon-killed-mostly-childr?traffic_source=rss"
+          "title": "Israel kills at least 28 Palestinians in wave of Gaza ‘ceasefire’ attacks",
+          "url": "https://www.aljazeera.com/news/2025/11/19/israel-kills-at-least-25-palestinians-in-wave-of-gaza-attacks?traffic_source=rss"
         },
         {
-          "title": "Trump’s Russian oil waiver gives Orban a win at Hungary’s expense",
-          "url": "https://www.aljazeera.com/opinions/2025/11/19/trumps-russian-oil-waiver-gives-orban-a-win-at-hungarys-expense?traffic_source=rss"
+          "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
+          "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,66 +95,49 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.04,
-      "confianca": 95,
+      "symbol": "NVDA",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
-          "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss"
-        },
-        {
-          "title": "Videos show the moment Israel bombed villages in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/videos-show-the-moment-israel-bombed-villages-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "‘Mostly children killed’ in Israeli attack on Lebanon camp",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-strike-on-palestinian-refugee-camp-in-lebanon-killed-mostly-childr?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s Russian oil waiver gives Orban a win at Hungary’s expense",
-          "url": "https://www.aljazeera.com/opinions/2025/11/19/trumps-russian-oil-waiver-gives-orban-a-win-at-hungarys-expense?traffic_source=rss"
+          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
+          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011366132220513908,
-      "chg5d": -0.0024930747922437043,
-      "chg1m": 0.0384704118122045
+      "chg1d": 0.02985774150860163,
+      "chg5d": -0.03624871001031994,
+      "chg1m": 0.030994700816957436
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "New wave of deadly Israeli air strikes across Gaza despite ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/new-wave-of-deadly-israeli-air-strikes-across-gaza-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
-          "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss"
-        },
-        {
-          "title": "Videos show the moment Israel bombed villages in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/videos-show-the-moment-israel-bombed-villages-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "‘Mostly children killed’ in Israeli attack on Lebanon camp",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-strike-on-palestinian-refugee-camp-in-lebanon-killed-mostly-childr?traffic_source=rss"
-        },
-        {
-          "title": "Deadly Israeli attack on Gaza brings death toll since ceasefire to 280",
-          "url": "https://www.aljazeera.com/news/2025/11/19/deadly-israeli-attack-on-gaza-brings-death-toll-since-ceasefire-to-280?traffic_source=rss"
+          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
+          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009321284125379194,
-      "chg5d": 0.02900183791353053,
-      "chg1m": -0.03923391215526044
+      "chg1d": 0.03499790849152451,
+      "chg5d": 0.0018027050215458132,
+      "chg1m": 0.01383387641216763
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Nvidia forecasts Q4 revenue above estimates despite AI bubble concerns",
+          "url": "https://www.aljazeera.com/economy/2025/11/19/nvidia-forecasts-q4-revenue-above-estimates-despite-ai-bubble-concerns?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016048360980173364,
+      "chg5d": -0.02838758516275549,
+      "chg1m": -0.04122101117109771
     }
   ]
 }
