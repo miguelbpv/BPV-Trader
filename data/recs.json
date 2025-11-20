@@ -1,43 +1,24 @@
 {
-  "generated_at": "2025-11-20T12:25:58.283886Z",
+  "generated_at": "2025-11-20T15:13:50.265436Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.17,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Video: Girl in Gaza rebuilds life after Israeli strike kills family",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-girl-in-gaza-rebuilds-life-after-israeli-strike-kills-family?traffic_source=rss"
-        },
-        {
-          "title": "Israel “seems to be testing” UN ceasefire resolution",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/20/israel-seems-to-be-testing-un-ceasefire-resolution?traffic_source=rss"
-        },
-        {
-          "title": "Huge fire seen after ‘explosion’ at Venezuela oil plant",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/huge-fire-seen-after-explosion-at-venezuela-oil-plant?traffic_source=rss"
-        },
-        {
-          "title": "Gaza girl orphaned in Israeli strike rebuilds her life with severe burns",
-          "url": "https://www.aljazeera.com/news/2025/11/20/gaza-girl-orphaned-in-israeli-strike-rebuilds-her-life-with-severe-burns?traffic_source=rss"
-        },
-        {
-          "title": "Will a global oil glut push prices lower in 2026?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/11/20/will-a-global-oil-glut-push-prices-lower-in-2026?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01295848890841211,
-      "chg5d": -0.004099722991689801,
-      "chg1m": 0.036797785211673754
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.17,
+      "score": 5.9,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "IAEA passes resolution demanding nuclear access from Iran; Tehran rejects",
+          "url": "https://www.aljazeera.com/news/2025/11/20/iaea-passes-resolution-demanding-nuclear-access-from-iran-tehran-rejects?traffic_source=rss"
+        },
+        {
+          "title": "More than 30 killed as Israel breaks Gaza ceasefire again",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/more-than-30-killed-as-israel-breaks-gaza-ceasefire-again?traffic_source=rss"
+        },
+        {
+          "title": "Sudan has vast oil, gold and agricultural resources. Who controls them?",
+          "url": "https://www.aljazeera.com/news/2025/11/20/sudan-has-vast-oil-gold-and-agricultural-resources-who-controls-them?traffic_source=rss"
+        },
         {
           "title": "Video: Girl in Gaza rebuilds life after Israeli strike kills family",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-girl-in-gaza-rebuilds-life-after-israeli-strike-kills-family?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Israel “seems to be testing” UN ceasefire resolution",
           "url": "https://www.aljazeera.com/video/quotable/2025/11/20/israel-seems-to-be-testing-un-ceasefire-resolution?traffic_source=rss"
-        },
-        {
-          "title": "Huge fire seen after ‘explosion’ at Venezuela oil plant",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/huge-fire-seen-after-explosion-at-venezuela-oil-plant?traffic_source=rss"
-        },
-        {
-          "title": "Gaza girl orphaned in Israeli strike rebuilds her life with severe burns",
-          "url": "https://www.aljazeera.com/news/2025/11/20/gaza-girl-orphaned-in-israeli-strike-rebuilds-her-life-with-severe-burns?traffic_source=rss"
-        },
-        {
-          "title": "Will a global oil glut push prices lower in 2026?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2025/11/20/will-a-global-oil-glut-push-prices-lower-in-2026?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,50 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.9,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "IAEA passes resolution demanding nuclear access from Iran; Tehran rejects",
+          "url": "https://www.aljazeera.com/news/2025/11/20/iaea-passes-resolution-demanding-nuclear-access-from-iran-tehran-rejects?traffic_source=rss"
+        },
+        {
+          "title": "More than 30 killed as Israel breaks Gaza ceasefire again",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/more-than-30-killed-as-israel-breaks-gaza-ceasefire-again?traffic_source=rss"
+        },
+        {
+          "title": "Sudan has vast oil, gold and agricultural resources. Who controls them?",
+          "url": "https://www.aljazeera.com/news/2025/11/20/sudan-has-vast-oil-gold-and-agricultural-resources-who-controls-them?traffic_source=rss"
+        },
+        {
+          "title": "Video: Girl in Gaza rebuilds life after Israeli strike kills family",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-girl-in-gaza-rebuilds-life-after-israeli-strike-kills-family?traffic_source=rss"
+        },
+        {
+          "title": "Israel “seems to be testing” UN ceasefire resolution",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/20/israel-seems-to-be-testing-un-ceasefire-resolution?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011960391633288861,
+      "chg5d": 0.0052497789566754455,
+      "chg1m": 0.035933940774487486
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.48,
-      "confianca": 70,
+      "score": 3.22,
+      "confianca": 92,
       "razoes": [
+        {
+          "title": "IAEA passes resolution demanding nuclear access from Iran; Tehran rejects",
+          "url": "https://www.aljazeera.com/news/2025/11/20/iaea-passes-resolution-demanding-nuclear-access-from-iran-tehran-rejects?traffic_source=rss"
+        },
+        {
+          "title": "More than 30 killed as Israel breaks Gaza ceasefire again",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/more-than-30-killed-as-israel-breaks-gaza-ceasefire-again?traffic_source=rss"
+        },
         {
           "title": "Video: Girl in Gaza rebuilds life after Israeli strike kills family",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-girl-in-gaza-rebuilds-life-after-israeli-strike-kills-family?traffic_source=rss"
@@ -80,15 +88,11 @@
         {
           "title": "Gaza girl orphaned in Israeli strike rebuilds her life with severe burns",
           "url": "https://www.aljazeera.com/news/2025/11/20/gaza-girl-orphaned-in-israeli-strike-rebuilds-her-life-with-severe-burns?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel attacks southern Gaza, kills at least 5 Palestinians",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/20/live-israel-bombs-house-in-southern-gaza-kills-at-least-3-palestinians?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01013228850690934,
-      "chg5d": 0.028159460878697716,
-      "chg1m": -0.040020429009193004
+      "chg1d": 0.004639186227149773,
+      "chg5d": 0.035625754085773724,
+      "chg1m": -0.030894609352547547
     }
   ]
 }
