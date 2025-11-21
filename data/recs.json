@@ -1,37 +1,10 @@
 {
-  "generated_at": "2025-11-21T03:39:52.476556Z",
+  "generated_at": "2025-11-21T06:20:26.521963Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Olive farmers face danger, neglect after Israel’s war in southern Lebanon",
-          "url": "https://www.aljazeera.com/features/2025/11/20/olive-farmers-face-danger-neglect-after-israels-war-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians doubt Gaza ceasefire will last considering Israel’s violations",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/palestinians-doubt-gaza-ceasefire-will-last-considering-israels-violations?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians ‘squeezed’ as Israel moves beyond ‘yellow line’ in Gaza City",
-          "url": "https://www.aljazeera.com/news/2025/11/20/palestinians-squeezed-as-israel-moves-beyond-yellow-line-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "After Israel PM’s trip to occupied Syria, is a deal off the table?",
-          "url": "https://www.aljazeera.com/news/2025/11/20/after-israel-pms-trip-to-occupied-syria-is-a-deal-off-the-table?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011348464619492613,
-      "chg5d": -0.01790450928381968,
-      "chg1m": 0.01207289293849661
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.93,
+      "score": 2.91,
       "confianca": 83,
       "razoes": [
         {
@@ -58,7 +31,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.93,
+      "score": 2.91,
       "confianca": 83,
       "razoes": [
         {
@@ -83,28 +56,36 @@
       "chg1m": -0.03875682555322904
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
         {
-          "title": "Lebanon arrests alleged drug kingpin sanctioned by US State Department",
-          "url": "https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss"
+          "title": "Olive farmers face danger, neglect after Israel’s war in southern Lebanon",
+          "url": "https://www.aljazeera.com/features/2025/11/20/olive-farmers-face-danger-neglect-after-israels-war-in-southern-lebanon?traffic_source=rss"
         },
         {
-          "title": "US tariffs cast shadow over Nuevo Leon’s steel industry in Mexico",
-          "url": "https://www.aljazeera.com/economy/2025/11/20/us-tariffs-cast-shadow-over-nuevo-leons-steel-industry-in-mexico?traffic_source=rss"
+          "title": "Palestinians doubt Gaza ceasefire will last considering Israel’s violations",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/palestinians-doubt-gaza-ceasefire-will-last-considering-israels-violations?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians ‘squeezed’ as Israel moves beyond ‘yellow line’ in Gaza City",
+          "url": "https://www.aljazeera.com/news/2025/11/20/palestinians-squeezed-as-israel-moves-beyond-yellow-line-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "After Israel PM’s trip to occupied Syria, is a deal off the table?",
+          "url": "https://www.aljazeera.com/news/2025/11/20/after-israel-pms-trip-to-occupied-syria-is-a-deal-off-the-table?traffic_source=rss"
         }
       ],
-      "chg1d": -0.04769006782429604,
-      "chg5d": -0.07326007326007322,
-      "chg1m": -0.05613627564847073
+      "chg1d": -0.011348464619492613,
+      "chg5d": -0.01790450928381968,
+      "chg1m": 0.01207289293849661
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.45,
+      "score": 1.44,
       "confianca": 41,
       "razoes": [
         {
@@ -116,14 +97,14 @@
           "url": "https://www.aljazeera.com/economy/2025/11/20/us-tariffs-cast-shadow-over-nuevo-leons-steel-industry-in-mexico?traffic_source=rss"
         }
       ],
-      "chg1d": -0.017246874667988826,
-      "chg5d": -0.016654854712969486,
-      "chg1m": -0.039393519800609234
+      "chg1d": -0.04797414864528955,
+      "chg5d": -0.07353652636671495,
+      "chg1m": -0.056417836905641686
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.45,
+      "score": 1.44,
       "confianca": 41,
       "razoes": [
         {
@@ -138,6 +119,25 @@
       "chg1d": -0.05608420809560002,
       "chg5d": -0.03806404800658919,
       "chg1m": -0.030176014393538814
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.44,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "Lebanon arrests alleged drug kingpin sanctioned by US State Department",
+          "url": "https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss"
+        },
+        {
+          "title": "US tariffs cast shadow over Nuevo Leon’s steel industry in Mexico",
+          "url": "https://www.aljazeera.com/economy/2025/11/20/us-tariffs-cast-shadow-over-nuevo-leons-steel-industry-in-mexico?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.017246874667988826,
+      "chg5d": -0.016654854712969486,
+      "chg1m": -0.039393519800609234
     }
   ]
 }
