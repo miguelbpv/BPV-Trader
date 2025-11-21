@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T12:25:05.604596Z",
+  "generated_at": "2025-11-21T15:12:29.398673Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
         {
           "title": "Israeli incursions, abductions stoke fear in Syria’s occupied Golan Heights",
@@ -14,14 +14,6 @@
         {
           "title": "Israel plans to seize major Roman-era historical site in occupied West Bank",
           "url": "https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "White House unaware that US ambassador to Israel met with convicted spy",
-          "url": "https://www.aljazeera.com/news/2025/11/21/white-house-unaware-that-us-ambassador-to-israel-met-with-convicted-spy?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel keeps bombing Gaza, kills two in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/21/live-israel-keeps-bombing-gaza-kills-two-in-occupied-east-jerusalem?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -30,9 +22,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
         {
           "title": "Israeli incursions, abductions stoke fear in Syria’s occupied Golan Heights",
@@ -41,25 +33,17 @@
         {
           "title": "Israel plans to seize major Roman-era historical site in occupied West Bank",
           "url": "https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "White House unaware that US ambassador to Israel met with convicted spy",
-          "url": "https://www.aljazeera.com/news/2025/11/21/white-house-unaware-that-us-ambassador-to-israel-met-with-convicted-spy?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel keeps bombing Gaza, kills two in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/21/live-israel-keeps-bombing-gaza-kills-two-in-occupied-east-jerusalem?traffic_source=rss"
         }
       ],
-      "chg1d": -0.003511310676512596,
-      "chg5d": 0.02722386750027414,
-      "chg1m": -0.03875682555322904
+      "chg1d": -0.009097509930380538,
+      "chg5d": -0.003800158876698761,
+      "chg1m": -0.049277737936686834
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
         {
           "title": "Israeli incursions, abductions stoke fear in Syria’s occupied Golan Heights",
@@ -68,64 +52,11 @@
         {
           "title": "Israel plans to seize major Roman-era historical site in occupied West Bank",
           "url": "https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "White House unaware that US ambassador to Israel met with convicted spy",
-          "url": "https://www.aljazeera.com/news/2025/11/21/white-house-unaware-that-us-ambassador-to-israel-met-with-convicted-spy?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel keeps bombing Gaza, kills two in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/21/live-israel-keeps-bombing-gaza-kills-two-in-occupied-east-jerusalem?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011348464619492613,
-      "chg5d": -0.01790450928381968,
-      "chg1m": 0.01207289293849661
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "Lebanon arrests alleged drug kingpin sanctioned by US State Department",
-          "url": "https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.017246874667988826,
-      "chg5d": -0.016654854712969486,
-      "chg1m": -0.039393519800609234
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "Lebanon arrests alleged drug kingpin sanctioned by US State Department",
-          "url": "https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.05608420809560002,
-      "chg5d": -0.03806404800658919,
-      "chg1m": -0.030176014393538814
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "Lebanon arrests alleged drug kingpin sanctioned by US State Department",
-          "url": "https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.04797414864528955,
-      "chg5d": -0.07353652636671495,
-      "chg1m": -0.056417836905641686
+      "chg1d": -0.006414584740040436,
+      "chg5d": -0.04053466637687448,
+      "chg1m": -0.007643025739013067
     }
   ]
 }
