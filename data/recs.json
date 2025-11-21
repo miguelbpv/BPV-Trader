@@ -1,62 +1,50 @@
 {
-  "generated_at": "2025-11-21T15:12:29.398673Z",
+  "generated_at": "2025-11-21T18:18:48.960475Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "Israeli incursions, abductions stoke fear in Syria’s occupied Golan Heights",
           "url": "https://www.aljazeera.com/news/2025/11/21/israeli-incursions-abductions-stoke-fear-in-syrias-occupied-golan-heights?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.00040575748515781347,
+      "chg5d": 0.005753912875453565,
+      "chg1m": -0.04015981969060552
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
         {
-          "title": "Israel plans to seize major Roman-era historical site in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss"
+          "title": "Israeli incursions, abductions stoke fear in Syria’s occupied Golan Heights",
+          "url": "https://www.aljazeera.com/news/2025/11/21/israeli-incursions-abductions-stoke-fear-in-syrias-occupied-golan-heights?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007652487058294023,
+      "chg5d": -0.026950662899369593,
+      "chg1m": 0.006406653928290518
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israeli incursions, abductions stoke fear in Syria’s occupied Golan Heights",
+          "url": "https://www.aljazeera.com/news/2025/11/21/israeli-incursions-abductions-stoke-fear-in-syrias-occupied-golan-heights?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
-      "razoes": [
-        {
-          "title": "Israeli incursions, abductions stoke fear in Syria’s occupied Golan Heights",
-          "url": "https://www.aljazeera.com/news/2025/11/21/israeli-incursions-abductions-stoke-fear-in-syrias-occupied-golan-heights?traffic_source=rss"
-        },
-        {
-          "title": "Israel plans to seize major Roman-era historical site in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009097509930380538,
-      "chg5d": -0.003800158876698761,
-      "chg1m": -0.049277737936686834
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
-      "razoes": [
-        {
-          "title": "Israeli incursions, abductions stoke fear in Syria’s occupied Golan Heights",
-          "url": "https://www.aljazeera.com/news/2025/11/21/israeli-incursions-abductions-stoke-fear-in-syrias-occupied-golan-heights?traffic_source=rss"
-        },
-        {
-          "title": "Israel plans to seize major Roman-era historical site in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006414584740040436,
-      "chg5d": -0.04053466637687448,
-      "chg1m": -0.007643025739013067
     }
   ]
 }
