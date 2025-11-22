@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-22T12:21:55.074132Z",
+  "generated_at": "2025-11-22T15:11:17.640943Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.47,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Mamdani says Israel is ‘committing genocide’ in Gaza at Trump meeting",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/mamdani-says-israel-is-committing-genocide-in-gaza-at-trump-meeting?traffic_source=rss"
+        },
         {
           "title": "Israeli violence in the West Bank is spiralling",
           "url": "https://www.aljazeera.com/video/the-listening-post/2025/11/22/israeli-violence-in-the-west-bank-is-spiralling?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Indonesian Muslim group tells leader to resign over pro-Israel speaker",
           "url": "https://www.aljazeera.com/news/2025/11/22/indonesian-muslim-group-tells-leader-to-resign-over-pro-israel-speaker?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel attacks Gaza as large-scale recovery of bodies set to begin",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/22/live-israel-3?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01597403152094994,
-      "chg5d": -0.010713442256907936,
-      "chg1m": -0.055875422600143505
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.47,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Mamdani says Israel is ‘committing genocide’ in Gaza at Trump meeting",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/mamdani-says-israel-is-committing-genocide-in-gaza-at-trump-meeting?traffic_source=rss"
+        },
         {
           "title": "Israeli violence in the West Bank is spiralling",
           "url": "https://www.aljazeera.com/video/the-listening-post/2025/11/22/israeli-violence-in-the-west-bank-is-spiralling?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Indonesian Muslim group tells leader to resign over pro-Israel speaker",
           "url": "https://www.aljazeera.com/news/2025/11/22/indonesian-muslim-group-tells-leader-to-resign-over-pro-israel-speaker?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel attacks Gaza as large-scale recovery of bodies set to begin",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/22/live-israel-3?traffic_source=rss"
         }
       ],
       "chg1d": 0.006302048165653863,
@@ -64,11 +64,15 @@
       "chg1m": 0.005057884680229323
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.47,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Mamdani says Israel is ‘committing genocide’ in Gaza at Trump meeting",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/mamdani-says-israel-is-committing-genocide-in-gaza-at-trump-meeting?traffic_source=rss"
+        },
         {
           "title": "Israeli violence in the West Bank is spiralling",
           "url": "https://www.aljazeera.com/video/the-listening-post/2025/11/22/israeli-violence-in-the-west-bank-is-spiralling?traffic_source=rss"
@@ -84,30 +88,11 @@
         {
           "title": "Indonesian Muslim group tells leader to resign over pro-Israel speaker",
           "url": "https://www.aljazeera.com/news/2025/11/22/indonesian-muslim-group-tells-leader-to-resign-over-pro-israel-speaker?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel attacks Gaza as large-scale recovery of bodies set to begin",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/22/live-israel-3?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Jake Paul dwarfed by Anthony Joshua in heavyweight boxing face-off",
-          "url": "https://www.aljazeera.com/sports/2025/11/22/jake-paul-dwarfed-by-anthony-joshua-in-heavyweight-fight-face-off?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.01597403152094994,
+      "chg5d": -0.010713442256907936,
+      "chg1m": -0.055875422600143505
     },
     {
       "symbol": "QQQ",
@@ -125,7 +110,7 @@
       "chg1m": -0.033591011824822284
     },
     {
-      "symbol": "SPY",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -135,9 +120,9 @@
           "url": "https://www.aljazeera.com/sports/2025/11/22/jake-paul-dwarfed-by-anthony-joshua-in-heavyweight-fight-face-off?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009961227836268065,
-      "chg5d": -0.01919842840772101,
-      "chg1m": -0.01895022031677983
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "IWM",
@@ -155,9 +140,24 @@
       "chg1m": -0.043908773638503346
     },
     {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Jake Paul dwarfed by Anthony Joshua in heavyweight boxing face-off",
+          "url": "https://www.aljazeera.com/sports/2025/11/22/jake-paul-dwarfed-by-anthony-joshua-in-heavyweight-fight-face-off?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009961227836268065,
+      "chg5d": -0.01919842840772101,
+      "chg1m": -0.01895022031677983
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -172,7 +172,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -187,7 +187,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
