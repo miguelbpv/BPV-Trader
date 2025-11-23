@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-11-23T06:18:15.475711Z",
+  "generated_at": "2025-11-23T09:12:30.090785Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.38,
-      "confianca": 68,
+      "score": 3.15,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "Israeli jets bomb villages across Lebanon despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/israeli-jets-bomb-villages-across-lebanon-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel has violated Gaza truce nearly 500 times in 44 days, killed hundreds",
+          "url": "https://www.aljazeera.com/news/2025/11/23/israel-has-violated-gaza-truce-nearly-500-times-in-44-days-killed-hundreds?traffic_source=rss"
+        },
         {
           "title": "Israel launches fresh wave of deadly air strikes across Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/israel-launches-fresh-wave-of-deadly-air-strikes-across-gaza?traffic_source=rss"
@@ -18,22 +26,26 @@
         {
           "title": "Mamdani says Israel is ‘committing genocide’ in Gaza at Trump meeting",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/mamdani-says-israel-is-committing-genocide-in-gaza-at-trump-meeting?traffic_source=rss"
-        },
-        {
-          "title": "Israeli violence in the West Bank is spiralling",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2025/11/22/israeli-violence-in-the-west-bank-is-spiralling?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.006302048165653863,
+      "chg5d": -0.02825472723321011,
+      "chg1m": 0.005057884680229323
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.38,
-      "confianca": 68,
+      "score": 3.15,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "Israeli jets bomb villages across Lebanon despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/israeli-jets-bomb-villages-across-lebanon-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel has violated Gaza truce nearly 500 times in 44 days, killed hundreds",
+          "url": "https://www.aljazeera.com/news/2025/11/23/israel-has-violated-gaza-truce-nearly-500-times-in-44-days-killed-hundreds?traffic_source=rss"
+        },
         {
           "title": "Israel launches fresh wave of deadly air strikes across Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/israel-launches-fresh-wave-of-deadly-air-strikes-across-gaza?traffic_source=rss"
@@ -45,10 +57,6 @@
         {
           "title": "Mamdani says Israel is ‘committing genocide’ in Gaza at Trump meeting",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/mamdani-says-israel-is-committing-genocide-in-gaza-at-trump-meeting?traffic_source=rss"
-        },
-        {
-          "title": "Israeli violence in the West Bank is spiralling",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2025/11/22/israeli-violence-in-the-west-bank-is-spiralling?traffic_source=rss"
         }
       ],
       "chg1d": -0.01597403152094994,
@@ -56,11 +64,19 @@
       "chg1m": -0.055875422600143505
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.38,
-      "confianca": 68,
+      "score": 3.15,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "Israeli jets bomb villages across Lebanon despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/israeli-jets-bomb-villages-across-lebanon-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel has violated Gaza truce nearly 500 times in 44 days, killed hundreds",
+          "url": "https://www.aljazeera.com/news/2025/11/23/israel-has-violated-gaza-truce-nearly-500-times-in-44-days-killed-hundreds?traffic_source=rss"
+        },
         {
           "title": "Israel launches fresh wave of deadly air strikes across Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/israel-launches-fresh-wave-of-deadly-air-strikes-across-gaza?traffic_source=rss"
@@ -72,15 +88,11 @@
         {
           "title": "Mamdani says Israel is ‘committing genocide’ in Gaza at Trump meeting",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/mamdani-says-israel-is-committing-genocide-in-gaza-at-trump-meeting?traffic_source=rss"
-        },
-        {
-          "title": "Israeli violence in the West Bank is spiralling",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2025/11/22/israeli-violence-in-the-west-bank-is-spiralling?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006302048165653863,
-      "chg5d": -0.02825472723321011,
-      "chg1m": 0.005057884680229323
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
