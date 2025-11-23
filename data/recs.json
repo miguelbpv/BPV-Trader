@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-11-23T01:08:13.815650Z",
+  "generated_at": "2025-11-23T03:54:00.880613Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.14,
+      "score": 3.12,
       "confianca": 89,
       "razoes": [
         {
@@ -33,40 +33,9 @@
       "chg1m": 0.005057884680229323
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.14,
-      "confianca": 89,
-      "razoes": [
-        {
-          "title": "Israel launches fresh wave of deadly air strikes across Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/israel-launches-fresh-wave-of-deadly-air-strikes-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill 24 Palestinians in Gaza; Hamas urges US to intervene",
-          "url": "https://www.aljazeera.com/news/2025/11/22/violence-never-ended-israeli-attacks-kill-nearly-two-dozen-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Mamdani says Israel is ‘committing genocide’ in Gaza at Trump meeting",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/mamdani-says-israel-is-committing-genocide-in-gaza-at-trump-meeting?traffic_source=rss"
-        },
-        {
-          "title": "Israeli violence in the West Bank is spiralling",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2025/11/22/israeli-violence-in-the-west-bank-is-spiralling?traffic_source=rss"
-        },
-        {
-          "title": "How the US-Israeli ‘peace plan’ will partition Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/11/22/how-the-us-israeli-peace-plan-will-partition-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01597403152094994,
-      "chg5d": -0.010713442256907936,
-      "chg1m": -0.055875422600143505
-    },
-    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.14,
+      "score": 3.12,
       "confianca": 89,
       "razoes": [
         {
@@ -93,6 +62,37 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.12,
+      "confianca": 89,
+      "razoes": [
+        {
+          "title": "Israel launches fresh wave of deadly air strikes across Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/israel-launches-fresh-wave-of-deadly-air-strikes-across-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill 24 Palestinians in Gaza; Hamas urges US to intervene",
+          "url": "https://www.aljazeera.com/news/2025/11/22/violence-never-ended-israeli-attacks-kill-nearly-two-dozen-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Mamdani says Israel is ‘committing genocide’ in Gaza at Trump meeting",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/mamdani-says-israel-is-committing-genocide-in-gaza-at-trump-meeting?traffic_source=rss"
+        },
+        {
+          "title": "Israeli violence in the West Bank is spiralling",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2025/11/22/israeli-violence-in-the-west-bank-is-spiralling?traffic_source=rss"
+        },
+        {
+          "title": "How the US-Israeli ‘peace plan’ will partition Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/11/22/how-the-us-israeli-peace-plan-will-partition-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01597403152094994,
+      "chg5d": -0.010713442256907936,
+      "chg1m": -0.055875422600143505
     }
   ]
 }
