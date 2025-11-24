@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-24T09:17:00.972726Z",
+  "generated_at": "2025-11-24T12:26:42.936555Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Who was Haytham Ali Tabatabai, Hezbollah official killed by Israel?",
+          "url": "https://www.aljazeera.com/news/2025/11/24/who-was-haytham-ali-tabatabai-hezbollah-official-killed-by-israel?traffic_source=rss"
+        },
         {
           "title": "Israeli strike on Lebanon’s capital Beirut kills Hezbollah official",
           "url": "https://www.aljazeera.com/gallery/2025/11/24/israeli-strike-on-lebanons-capital-beirut-kills-hezbollah-official?traffic_source=rss"
@@ -18,10 +22,6 @@
         {
           "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
           "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
-          "url": "https://www.aljazeera.com/features/2025/11/23/israel-attacks-beirut-suburb-two-days-after-lebanon-agreed-for-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,38 +29,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "Israeli strike on Lebanon’s capital Beirut kills Hezbollah official",
-          "url": "https://www.aljazeera.com/gallery/2025/11/24/israeli-strike-on-lebanons-capital-beirut-kills-hezbollah-official?traffic_source=rss"
-        },
-        {
-          "title": "Live: Hezbollah considering response; Israeli attacks on Gaza continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/24/hezbollah-considering-response-israeli-attacks-on-gaza-continue?traffic_source=rss"
-        },
-        {
-          "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
-          "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
-          "url": "https://www.aljazeera.com/features/2025/11/23/israel-attacks-beirut-suburb-two-days-after-lebanon-agreed-for-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006302048165653863,
-      "chg5d": -0.02825472723321011,
-      "chg1m": 0.005057884680229323
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Who was Haytham Ali Tabatabai, Hezbollah official killed by Israel?",
+          "url": "https://www.aljazeera.com/news/2025/11/24/who-was-haytham-ali-tabatabai-hezbollah-official-killed-by-israel?traffic_source=rss"
+        },
         {
           "title": "Israeli strike on Lebanon’s capital Beirut kills Hezbollah official",
           "url": "https://www.aljazeera.com/gallery/2025/11/24/israeli-strike-on-lebanons-capital-beirut-kills-hezbollah-official?traffic_source=rss"
@@ -72,15 +49,38 @@
         {
           "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
           "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
-          "url": "https://www.aljazeera.com/features/2025/11/23/israel-attacks-beirut-suburb-two-days-after-lebanon-agreed-for-talks?traffic_source=rss"
         }
       ],
       "chg1d": -0.01597403152094994,
       "chg5d": -0.010713442256907936,
       "chg1m": -0.055875422600143505
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.45,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Who was Haytham Ali Tabatabai, Hezbollah official killed by Israel?",
+          "url": "https://www.aljazeera.com/news/2025/11/24/who-was-haytham-ali-tabatabai-hezbollah-official-killed-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strike on Lebanon’s capital Beirut kills Hezbollah official",
+          "url": "https://www.aljazeera.com/gallery/2025/11/24/israeli-strike-on-lebanons-capital-beirut-kills-hezbollah-official?traffic_source=rss"
+        },
+        {
+          "title": "Live: Hezbollah considering response; Israeli attacks on Gaza continue",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/24/hezbollah-considering-response-israeli-attacks-on-gaza-continue?traffic_source=rss"
+        },
+        {
+          "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
+          "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006302048165653863,
+      "chg5d": -0.02825472723321011,
+      "chg1m": 0.005057884680229323
     }
   ]
 }
