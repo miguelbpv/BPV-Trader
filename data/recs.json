@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T21:11:22.611208Z",
+  "generated_at": "2025-11-24T01:04:15.851489Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
@@ -14,14 +14,25 @@
         {
           "title": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
           "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.96,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
+          "url": "https://www.aljazeera.com/features/2025/11/23/israel-attacks-beirut-suburb-two-days-after-lebanon-agreed-for-talks?traffic_source=rss"
         },
         {
-          "title": "US senator demands more be done to free US teen from Israeli detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/us-senator-demands-more-be-done-to-free-us-teen-from-israeli-detention?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian sculptors create art on Gaza beach sand to escape Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/11/23/palestinian-sculptors-create-art-on-gaza-beach-sand-to-escape-israels-war?traffic_source=rss"
+          "title": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
+          "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss"
         }
       ],
       "chg1d": -0.01597403152094994,
@@ -30,9 +41,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
+      "acao": "observar",
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
@@ -41,46 +52,11 @@
         {
           "title": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
           "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss"
-        },
-        {
-          "title": "US senator demands more be done to free US teen from Israeli detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/us-senator-demands-more-be-done-to-free-us-teen-from-israeli-detention?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian sculptors create art on Gaza beach sand to escape Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/11/23/palestinian-sculptors-create-art-on-gaza-beach-sand-to-escape-israels-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.006302048165653863,
       "chg5d": -0.02825472723321011,
       "chg1m": 0.005057884680229323
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
-          "url": "https://www.aljazeera.com/features/2025/11/23/israel-attacks-beirut-suburb-two-days-after-lebanon-agreed-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
-          "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss"
-        },
-        {
-          "title": "US senator demands more be done to free US teen from Israeli detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/us-senator-demands-more-be-done-to-free-us-teen-from-israeli-detention?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian sculptors create art on Gaza beach sand to escape Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/11/23/palestinian-sculptors-create-art-on-gaza-beach-sand-to-escape-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
