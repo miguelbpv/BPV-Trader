@@ -1,27 +1,46 @@
 {
-  "generated_at": "2025-11-24T12:26:42.936555Z",
+  "generated_at": "2025-11-24T15:15:07.802438Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israel fires military commanders over October 7 failures",
+          "url": "https://www.aljazeera.com/news/2025/11/24/israel-fires-military-commanders-over-october-7-failures?traffic_source=rss"
+        },
+        {
+          "title": "What we know about Israeli assassination of Hezbollah commander",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/what-we-know-about-israeli-assassination-of-hezbollah-commander?traffic_source=rss"
+        },
         {
           "title": "Who was Haytham Ali Tabatabai, Hezbollah official killed by Israel?",
           "url": "https://www.aljazeera.com/news/2025/11/24/who-was-haytham-ali-tabatabai-hezbollah-official-killed-by-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009755197708233751,
+      "chg5d": -0.030789328348697798,
+      "chg1m": -0.06000082404565213
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Israel fires military commanders over October 7 failures",
+          "url": "https://www.aljazeera.com/news/2025/11/24/israel-fires-military-commanders-over-october-7-failures?traffic_source=rss"
         },
         {
-          "title": "Israeli strike on Lebanon’s capital Beirut kills Hezbollah official",
-          "url": "https://www.aljazeera.com/gallery/2025/11/24/israeli-strike-on-lebanons-capital-beirut-kills-hezbollah-official?traffic_source=rss"
+          "title": "What we know about Israeli assassination of Hezbollah commander",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/what-we-know-about-israeli-assassination-of-hezbollah-commander?traffic_source=rss"
         },
         {
-          "title": "Live: Hezbollah considering response; Israeli attacks on Gaza continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/24/hezbollah-considering-response-israeli-attacks-on-gaza-continue?traffic_source=rss"
-        },
-        {
-          "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
-          "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
+          "title": "Who was Haytham Ali Tabatabai, Hezbollah official killed by Israel?",
+          "url": "https://www.aljazeera.com/news/2025/11/24/who-was-haytham-ali-tabatabai-hezbollah-official-killed-by-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,58 +48,27 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "Who was Haytham Ali Tabatabai, Hezbollah official killed by Israel?",
-          "url": "https://www.aljazeera.com/news/2025/11/24/who-was-haytham-ali-tabatabai-hezbollah-official-killed-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike on Lebanon’s capital Beirut kills Hezbollah official",
-          "url": "https://www.aljazeera.com/gallery/2025/11/24/israeli-strike-on-lebanons-capital-beirut-kills-hezbollah-official?traffic_source=rss"
-        },
-        {
-          "title": "Live: Hezbollah considering response; Israeli attacks on Gaza continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/24/hezbollah-considering-response-israeli-attacks-on-gaza-continue?traffic_source=rss"
-        },
-        {
-          "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
-          "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01597403152094994,
-      "chg5d": -0.010713442256907936,
-      "chg1m": -0.055875422600143505
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israel fires military commanders over October 7 failures",
+          "url": "https://www.aljazeera.com/news/2025/11/24/israel-fires-military-commanders-over-october-7-failures?traffic_source=rss"
+        },
+        {
+          "title": "What we know about Israeli assassination of Hezbollah commander",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/what-we-know-about-israeli-assassination-of-hezbollah-commander?traffic_source=rss"
+        },
         {
           "title": "Who was Haytham Ali Tabatabai, Hezbollah official killed by Israel?",
           "url": "https://www.aljazeera.com/news/2025/11/24/who-was-haytham-ali-tabatabai-hezbollah-official-killed-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike on Lebanon’s capital Beirut kills Hezbollah official",
-          "url": "https://www.aljazeera.com/gallery/2025/11/24/israeli-strike-on-lebanons-capital-beirut-kills-hezbollah-official?traffic_source=rss"
-        },
-        {
-          "title": "Live: Hezbollah considering response; Israeli attacks on Gaza continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/11/24/hezbollah-considering-response-israeli-attacks-on-gaza-continue?traffic_source=rss"
-        },
-        {
-          "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
-          "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006302048165653863,
-      "chg5d": -0.02825472723321011,
-      "chg1m": 0.005057884680229323
+      "chg1d": -0.011630507716394612,
+      "chg5d": -0.021695815806951603,
+      "chg1m": 0.003519927330532557
     }
   ]
 }
