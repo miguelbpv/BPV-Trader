@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-24T03:53:40.278448Z",
+  "generated_at": "2025-11-24T06:20:54.431510Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Live: Hezbollah considering response; Israeli attacks on Gaza continue",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/24/hezbollah-considering-response-israeli-attacks-on-gaza-continue?traffic_source=rss"
+        },
         {
           "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
           "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
@@ -14,22 +18,22 @@
         {
           "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
           "url": "https://www.aljazeera.com/features/2025/11/23/israel-attacks-beirut-suburb-two-days-after-lebanon-agreed-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
-          "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01597403152094994,
-      "chg5d": -0.010713442256907936,
-      "chg1m": -0.055875422600143505
+      "chg1d": 0.006302048165653863,
+      "chg5d": -0.02825472723321011,
+      "chg1m": 0.005057884680229323
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Live: Hezbollah considering response; Israeli attacks on Gaza continue",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/24/hezbollah-considering-response-israeli-attacks-on-gaza-continue?traffic_source=rss"
+        },
         {
           "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
           "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
@@ -37,10 +41,6 @@
         {
           "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
           "url": "https://www.aljazeera.com/features/2025/11/23/israel-attacks-beirut-suburb-two-days-after-lebanon-agreed-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
-          "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,11 +48,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Live: Hezbollah considering response; Israeli attacks on Gaza continue",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/11/24/hezbollah-considering-response-israeli-attacks-on-gaza-continue?traffic_source=rss"
+        },
         {
           "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
           "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss"
@@ -60,15 +64,11 @@
         {
           "title": "Israel attacks Beirut suburb two days after Lebanon agreed for talks",
           "url": "https://www.aljazeera.com/features/2025/11/23/israel-attacks-beirut-suburb-two-days-after-lebanon-agreed-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills top Hezbollah commander in attack on Lebanon’s capital",
-          "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006302048165653863,
-      "chg5d": -0.02825472723321011,
-      "chg1m": 0.005057884680229323
+      "chg1d": -0.01597403152094994,
+      "chg5d": -0.010713442256907936,
+      "chg1m": -0.055875422600143505
     }
   ]
 }
