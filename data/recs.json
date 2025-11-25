@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T06:20:33.640355Z",
+  "generated_at": "2025-11-25T09:16:19.757131Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 2.18,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Israel kills four Palestinians in Gaza; fighters recover body of captive",
@@ -18,10 +18,29 @@
         {
           "title": "France seeks progress on nuclear talks as Iran top diplomat to visit Paris",
           "url": "https://www.aljazeera.com/news/2025/11/24/france-seeks-progress-on-nuclear-dispute-as-araghchi-set-to-visit-paris?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.021094665567081842,
+      "chg5d": -0.041887930668252624,
+      "chg1m": -0.07076492037658891
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.18,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Israel kills four Palestinians in Gaza; fighters recover body of captive",
+          "url": "https://www.aljazeera.com/news/2025/11/24/israel-kills-four-palestinians-as-attacks-continue-despite-gaza-ceasefire?traffic_source=rss"
         },
         {
-          "title": "Thousands mourn Hezbollah commander killed by Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/thousands-mourn-hezbollah-commander-killed-by-israel?traffic_source=rss"
+          "title": "‘Reckless’: Rights group decries Germany lifting arms embargo on Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/24/reckless-rights-group-decries-germany-lifting-arms-embargo-on-israel?traffic_source=rss"
+        },
+        {
+          "title": "France seeks progress on nuclear talks as Iran top diplomat to visit Paris",
+          "url": "https://www.aljazeera.com/news/2025/11/24/france-seeks-progress-on-nuclear-dispute-as-araghchi-set-to-visit-paris?traffic_source=rss"
         }
       ],
       "chg1d": -0.0027957951241333033,
@@ -30,9 +49,9 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
+      "acao": "observar",
+      "score": 2.18,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Israel kills four Palestinians in Gaza; fighters recover body of captive",
@@ -45,42 +64,11 @@
         {
           "title": "France seeks progress on nuclear talks as Iran top diplomat to visit Paris",
           "url": "https://www.aljazeera.com/news/2025/11/24/france-seeks-progress-on-nuclear-dispute-as-araghchi-set-to-visit-paris?traffic_source=rss"
-        },
-        {
-          "title": "Thousands mourn Hezbollah commander killed by Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/thousands-mourn-hezbollah-commander-killed-by-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Israel kills four Palestinians in Gaza; fighters recover body of captive",
-          "url": "https://www.aljazeera.com/news/2025/11/24/israel-kills-four-palestinians-as-attacks-continue-despite-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "‘Reckless’: Rights group decries Germany lifting arms embargo on Israel",
-          "url": "https://www.aljazeera.com/news/2025/11/24/reckless-rights-group-decries-germany-lifting-arms-embargo-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "France seeks progress on nuclear talks as Iran top diplomat to visit Paris",
-          "url": "https://www.aljazeera.com/news/2025/11/24/france-seeks-progress-on-nuclear-dispute-as-araghchi-set-to-visit-paris?traffic_source=rss"
-        },
-        {
-          "title": "Thousands mourn Hezbollah commander killed by Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/thousands-mourn-hezbollah-commander-killed-by-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.021094665567081842,
-      "chg5d": -0.041887930668252624,
-      "chg1m": -0.07076492037658891
     }
   ]
 }
