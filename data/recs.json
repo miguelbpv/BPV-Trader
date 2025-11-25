@@ -1,50 +1,20 @@
 {
-  "generated_at": "2025-11-25T15:14:37.071844Z",
+  "generated_at": "2025-11-25T18:20:18.009713Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Hunger stalks Gaza as UN demands Israel let in more aid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/25/hunger-stalks-gaza-as-un-demands-israel-let-in-more-aid?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s war and restrictions drive Palestinian economy to record collapse",
-          "url": "https://www.aljazeera.com/news/2025/11/25/israels-war-on-gaza-curbs-drive-palestinian-economy-to-record-collapse?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.001186094976278156,
-      "chg5d": -0.04871292551398719,
-      "chg1m": -0.07252880409110513
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Hunger stalks Gaza as UN demands Israel let in more aid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/25/hunger-stalks-gaza-as-un-demands-israel-let-in-more-aid?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s war and restrictions drive Palestinian economy to record collapse",
-          "url": "https://www.aljazeera.com/news/2025/11/25/israels-war-on-gaza-curbs-drive-palestinian-economy-to-record-collapse?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0068408657620275815,
-      "chg5d": -0.02745442565341533,
-      "chg1m": 0.003171726325328513
-    },
-    {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "acao": "comprar",
+      "score": 2.46,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "UN calls for probe into Israel’s strikes on Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/11/25/un-calls-for-probe-into-israels-strikes-on-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israel says it receives remains believed to be of Gaza captive",
+          "url": "https://www.aljazeera.com/news/2025/11/25/israel-says-red-cross-receives-remains-of-deceased-gaza-captive?traffic_source=rss"
+        },
         {
           "title": "Hunger stalks Gaza as UN demands Israel let in more aid",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/25/hunger-stalks-gaza-as-un-demands-israel-let-in-more-aid?traffic_source=rss"
@@ -57,6 +27,105 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.46,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "UN calls for probe into Israel’s strikes on Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/11/25/un-calls-for-probe-into-israels-strikes-on-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israel says it receives remains believed to be of Gaza captive",
+          "url": "https://www.aljazeera.com/news/2025/11/25/israel-says-red-cross-receives-remains-of-deceased-gaza-captive?traffic_source=rss"
+        },
+        {
+          "title": "Hunger stalks Gaza as UN demands Israel let in more aid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/25/hunger-stalks-gaza-as-un-demands-israel-let-in-more-aid?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s war and restrictions drive Palestinian economy to record collapse",
+          "url": "https://www.aljazeera.com/news/2025/11/25/israels-war-on-gaza-curbs-drive-palestinian-economy-to-record-collapse?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007289447123472083,
+      "chg5d": -0.027893696463870042,
+      "chg1m": 0.002718622564567228
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.46,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "UN calls for probe into Israel’s strikes on Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/11/25/un-calls-for-probe-into-israels-strikes-on-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israel says it receives remains believed to be of Gaza captive",
+          "url": "https://www.aljazeera.com/news/2025/11/25/israel-says-red-cross-receives-remains-of-deceased-gaza-captive?traffic_source=rss"
+        },
+        {
+          "title": "Hunger stalks Gaza as UN demands Israel let in more aid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/25/hunger-stalks-gaza-as-un-demands-israel-let-in-more-aid?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s war and restrictions drive Palestinian economy to record collapse",
+          "url": "https://www.aljazeera.com/news/2025/11/25/israels-war-on-gaza-curbs-drive-palestinian-economy-to-record-collapse?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0010863299782734206,
+      "chg5d": -0.050872093023255884,
+      "chg1m": -0.07463391591875301
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US imposes visa sanctions against Haitian official on governing council",
+          "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011698988195615458,
+      "chg5d": 0.0122341765319707,
+      "chg1m": -0.05679798826487845
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US imposes visa sanctions against Haitian official on governing council",
+          "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005978068623983013,
+      "chg5d": 0.014549786988230097,
+      "chg1m": -0.07586819258089975
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US imposes visa sanctions against Haitian official on governing council",
+          "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009738616347107777,
+      "chg5d": -0.006593231480190319,
+      "chg1m": -0.05900111322855145
     }
   ]
 }
