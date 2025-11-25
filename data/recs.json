@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-11-25T00:59:50.834469Z",
+  "generated_at": "2025-11-25T03:44:30.100769Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.17,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel kills four Palestinians in Gaza; fighters recover body of captive",
-          "url": "https://www.aljazeera.com/news/2025/11/24/israel-kills-four-palestinians-as-attacks-continue-despite-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "‘Reckless’: Rights group decries Germany lifting arms embargo on Israel",
-          "url": "https://www.aljazeera.com/news/2025/11/24/reckless-rights-group-decries-germany-lifting-arms-embargo-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "France seeks progress on nuclear talks as Iran top diplomat to visit Paris",
-          "url": "https://www.aljazeera.com/news/2025/11/24/france-seeks-progress-on-nuclear-dispute-as-araghchi-set-to-visit-paris?traffic_source=rss"
-        },
-        {
-          "title": "Thousands mourn Hezbollah commander killed by Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/thousands-mourn-hezbollah-commander-killed-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians mourn loved ones killed as Israel violates fragile ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/palestinians-mourn-loved-ones-killed-as-israel-violates-fragile-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0030194587340639234,
-      "chg5d": -0.01317245959707768,
-      "chg1m": 0.0122629726354038
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.17,
+      "score": 5.13,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": -0.07076492037658891
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.13,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel kills four Palestinians in Gaza; fighters recover body of captive",
+          "url": "https://www.aljazeera.com/news/2025/11/24/israel-kills-four-palestinians-as-attacks-continue-despite-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "‘Reckless’: Rights group decries Germany lifting arms embargo on Israel",
+          "url": "https://www.aljazeera.com/news/2025/11/24/reckless-rights-group-decries-germany-lifting-arms-embargo-on-israel?traffic_source=rss"
+        },
+        {
+          "title": "France seeks progress on nuclear talks as Iran top diplomat to visit Paris",
+          "url": "https://www.aljazeera.com/news/2025/11/24/france-seeks-progress-on-nuclear-dispute-as-araghchi-set-to-visit-paris?traffic_source=rss"
+        },
+        {
+          "title": "Thousands mourn Hezbollah commander killed by Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/thousands-mourn-hezbollah-commander-killed-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians mourn loved ones killed as Israel violates fragile ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/palestinians-mourn-loved-ones-killed-as-israel-violates-fragile-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0030194587340639234,
+      "chg5d": -0.01317245959707768,
+      "chg1m": 0.0122629726354038
+    },
+    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.17,
+      "score": 5.13,
       "confianca": 95,
       "razoes": [
         {
@@ -95,24 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Associated Press, Trump argue Oval Office access in federal appeals court",
-          "url": "https://www.aljazeera.com/economy/2025/11/24/associated-press-trump-argue-oval-office-access-in-federal-appeals-court?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02564102564102563,
-      "chg5d": 0.0025511049266144477,
-      "chg1m": -0.01928374655647379
-    },
-    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -125,9 +110,9 @@
       "chg1m": -0.012668881506090869
     },
     {
-      "symbol": "IWM",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -135,14 +120,14 @@
           "url": "https://www.aljazeera.com/economy/2025/11/24/associated-press-trump-argue-oval-office-access-in-federal-appeals-court?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01808149405772504,
-      "chg5d": 0.03050352294208637,
-      "chg1m": -0.038367477849496824
+      "chg1d": 0.025624078499161124,
+      "chg5d": 0.002534539310207876,
+      "chg1m": -0.01929995138551283
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -153,6 +138,21 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Associated Press, Trump argue Oval Office access in federal appeals court",
+          "url": "https://www.aljazeera.com/economy/2025/11/24/associated-press-trump-argue-oval-office-access-in-federal-appeals-court?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01808149405772504,
+      "chg5d": 0.03050352294208637,
+      "chg1m": -0.038367477849496824
     }
   ]
 }
