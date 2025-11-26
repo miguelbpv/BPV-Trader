@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-26T12:27:46.238403Z",
+  "generated_at": "2025-11-26T15:12:35.497551Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.48,
-      "confianca": 95,
+      "score": 3.21,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Israel’s systematic campaign to expel West Bank Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/israels-systematic-campaign-to-expel-west-bank-palestinians?traffic_source=rss"
+        },
         {
           "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
           "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "What’s the price tag on Israel’s propaganda machine?",
           "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
-        },
-        {
-          "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
-          "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,42 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.48,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
-          "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
-        },
-        {
-          "title": "It is Israel, not Gaza, that needs stabilisation",
-          "url": "https://www.aljazeera.com/opinions/2025/11/26/it-is-israel-not-gaza-that-needs-stabilisation?traffic_source=rss"
-        },
-        {
-          "title": "Pope urges Israel and Hezbollah to pursue dialogue over conflict",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-urges-israel-and-hezbollah-to-pursue-dialogue-over-conflict?traffic_source=rss"
-        },
-        {
-          "title": "What’s the price tag on Israel’s propaganda machine?",
-          "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
-        },
-        {
-          "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
-          "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0029929499401410518,
-      "chg5d": -0.04699612403100775,
-      "chg1m": -0.07085498346717052
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.48,
-      "confianca": 95,
+      "score": 3.21,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Israel’s systematic campaign to expel West Bank Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/israels-systematic-campaign-to-expel-west-bank-palestinians?traffic_source=rss"
+        },
         {
           "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
           "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "What’s the price tag on Israel’s propaganda machine?",
           "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
-        },
-        {
-          "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
-          "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0062801390602220735,
-      "chg5d": -0.026905337140347055,
-      "chg1m": 0.0037381060262799987
+      "chg1d": 0.00524771470488662,
+      "chg5d": -0.008956386292834809,
+      "chg1m": 0.019631410256410294
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.21,
+      "confianca": 91,
+      "razoes": [
+        {
+          "title": "Israel’s systematic campaign to expel West Bank Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/israels-systematic-campaign-to-expel-west-bank-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
+          "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
+        },
+        {
+          "title": "It is Israel, not Gaza, that needs stabilisation",
+          "url": "https://www.aljazeera.com/opinions/2025/11/26/it-is-israel-not-gaza-that-needs-stabilisation?traffic_source=rss"
+        },
+        {
+          "title": "Pope urges Israel and Hezbollah to pursue dialogue over conflict",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-urges-israel-and-hezbollah-to-pursue-dialogue-over-conflict?traffic_source=rss"
+        },
+        {
+          "title": "What’s the price tag on Israel’s propaganda machine?",
+          "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002276695917419979,
+      "chg5d": -0.03504926475282506,
+      "chg1m": -0.06655413055561271
     }
   ]
 }
