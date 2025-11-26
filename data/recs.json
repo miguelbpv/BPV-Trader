@@ -1,38 +1,30 @@
 {
-  "generated_at": "2025-11-26T06:21:03.623858Z",
+  "generated_at": "2025-11-26T09:15:40.375487Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.3,
-      "confianca": 37,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Israel’s push to displace thousands of Palestinians from the West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/25/israels-push-to-displace-thousands-from-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
+          "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
+          "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.0029929499401410518,
+      "chg5d": -0.04699612403100775,
+      "chg1m": -0.07085498346717052
     },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.3,
-      "confianca": 37,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Israel’s push to displace thousands of Palestinians from the West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/25/israels-push-to-displace-thousands-from-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
+          "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
+          "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
         }
       ],
       "chg1d": -0.0062801390602220735,
@@ -40,64 +32,19 @@
       "chg1m": 0.0037381060262799987
     },
     {
-      "symbol": "TSM",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.82,
-      "confianca": 23,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
+          "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
+          "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0001405283867341922,
-      "chg5d": 0.02436040444748293,
-      "chg1m": -0.045498742665549013
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.82,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015589884796825309,
-      "chg5d": -0.0008366033902355619,
-      "chg1m": -0.053548180154342526
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.82,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003112840466926054,
-      "chg5d": 0.02382843526608407,
-      "chg1m": -0.06741646935017101
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.48,
-      "confianca": 13,
-      "razoes": [
-        {
-          "title": "Israel’s push to displace thousands of Palestinians from the West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/25/israels-push-to-displace-thousands-from-the-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0029929499401410518,
-      "chg5d": -0.04699612403100775,
-      "chg1m": -0.07085498346717052
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
