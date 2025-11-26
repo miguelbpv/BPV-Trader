@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-25T21:12:30.511214Z",
+  "generated_at": "2025-11-26T01:00:36.541836Z",
   "recs": [
     {
       "symbol": "XLE",
@@ -16,17 +16,13 @@
           "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
         },
         {
-          "title": "UN calls for probe into Israel’s strikes on Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/11/25/un-calls-for-probe-into-israels-strikes-on-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel says it receives remains believed to be of Gaza captive",
-          "url": "https://www.aljazeera.com/news/2025/11/25/israel-says-red-cross-receives-remains-of-deceased-gaza-captive?traffic_source=rss"
+          "title": "Did the UN just outsource Israel’s occupation?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/25/aje-onl-pal_scgazaresolution_av_v1-251125?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005999775709319239,
-      "chg5d": -0.02663079288381284,
-      "chg1m": 0.004021295876755822
+      "chg1d": -0.0062801390602220735,
+      "chg5d": -0.026905337140347055,
+      "chg1m": 0.0037381060262799987
     },
     {
       "symbol": "BRENT",
@@ -43,12 +39,8 @@
           "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
         },
         {
-          "title": "UN calls for probe into Israel’s strikes on Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/11/25/un-calls-for-probe-into-israels-strikes-on-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel says it receives remains believed to be of Gaza captive",
-          "url": "https://www.aljazeera.com/news/2025/11/25/israel-says-red-cross-receives-remains-of-deceased-gaza-captive?traffic_source=rss"
+          "title": "Did the UN just outsource Israel’s occupation?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/25/aje-onl-pal_scgazaresolution_av_v1-251125?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,28 +48,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
-        },
-        {
-          "title": "US imposes visa sanctions against Haitian official on governing council",
-          "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.017270352898301256,
-      "chg5d": 0.0008166842618967492,
-      "chg1m": -0.05198211287005417
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.7,
+      "score": 1.68,
       "confianca": 48,
       "razoes": [
         {
@@ -89,14 +62,33 @@
           "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
         }
       ],
-      "chg1d": 0.001967397414277692,
-      "chg5d": 0.02623151379943134,
-      "chg1m": -0.04375523889354572
+      "chg1d": 0.0001405283867341922,
+      "chg5d": 0.02436040444748293,
+      "chg1m": -0.045498742665549013
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.68,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
+          "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
+        },
+        {
+          "title": "US imposes visa sanctions against Haitian official on governing council",
+          "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015589884796825309,
+      "chg5d": -0.0008366033902355619,
+      "chg1m": -0.053548180154342526
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.7,
+      "score": 1.68,
       "confianca": 48,
       "razoes": [
         {
@@ -108,9 +100,9 @@
           "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0033250795896710215,
-      "chg5d": 0.02404505740486666,
-      "chg1m": -0.06721915285451197
+      "chg1d": 0.003112840466926054,
+      "chg5d": 0.02382843526608407,
+      "chg1m": -0.06741646935017101
     },
     {
       "symbol": "LMT",
@@ -123,17 +115,13 @@
           "url": "https://www.aljazeera.com/news/2025/11/25/israels-push-to-displace-thousands-from-the-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "UN calls for probe into Israel’s strikes on Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/11/25/un-calls-for-probe-into-israels-strikes-on-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel says it receives remains believed to be of Gaza captive",
-          "url": "https://www.aljazeera.com/news/2025/11/25/israel-says-red-cross-receives-remains-of-deceased-gaza-captive?traffic_source=rss"
+          "title": "Did the UN just outsource Israel’s occupation?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/25/aje-onl-pal_scgazaresolution_av_v1-251125?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0037688999246219762,
-      "chg5d": -0.046258847320525855,
-      "chg1m": -0.07013616479431524
+      "chg1d": 0.0029929499401410518,
+      "chg5d": -0.04699612403100775,
+      "chg1m": -0.07085498346717052
     }
   ]
 }
