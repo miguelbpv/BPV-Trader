@@ -1,11 +1,34 @@
 {
-  "generated_at": "2025-11-26T15:12:35.497551Z",
+  "generated_at": "2025-11-26T18:16:29.387461Z",
   "recs": [
     {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "China blocks ByteDance from Nvidia chip use: Report",
+          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s systematic campaign to expel West Bank Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/israels-systematic-campaign-to-expel-west-bank-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
+          "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0084989279635728,
+      "chg5d": -0.029058755931987038,
+      "chg1m": -0.06075920703213453
+    },
+    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Israel’s systematic campaign to expel West Bank Palestinians",
@@ -14,18 +37,6 @@
         {
           "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
           "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
-        },
-        {
-          "title": "It is Israel, not Gaza, that needs stabilisation",
-          "url": "https://www.aljazeera.com/opinions/2025/11/26/it-is-israel-not-gaza-that-needs-stabilisation?traffic_source=rss"
-        },
-        {
-          "title": "Pope urges Israel and Hezbollah to pursue dialogue over conflict",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-urges-israel-and-hezbollah-to-pursue-dialogue-over-conflict?traffic_source=rss"
-        },
-        {
-          "title": "What’s the price tag on Israel’s propaganda machine?",
-          "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -34,9 +45,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Israel’s systematic campaign to expel West Bank Palestinians",
@@ -45,54 +56,56 @@
         {
           "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
           "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
-        },
-        {
-          "title": "It is Israel, not Gaza, that needs stabilisation",
-          "url": "https://www.aljazeera.com/opinions/2025/11/26/it-is-israel-not-gaza-that-needs-stabilisation?traffic_source=rss"
-        },
-        {
-          "title": "Pope urges Israel and Hezbollah to pursue dialogue over conflict",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-urges-israel-and-hezbollah-to-pursue-dialogue-over-conflict?traffic_source=rss"
-        },
-        {
-          "title": "What’s the price tag on Israel’s propaganda machine?",
-          "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00524771470488662,
-      "chg5d": -0.008956386292834809,
-      "chg1m": 0.019631410256410294
+      "chg1d": 0.011906105405710493,
+      "chg5d": -0.002392078326657646,
+      "chg1m": 0.02638507326007334
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "symbol": "NVDA",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Israel’s systematic campaign to expel West Bank Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/israels-systematic-campaign-to-expel-west-bank-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
-          "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
-        },
-        {
-          "title": "It is Israel, not Gaza, that needs stabilisation",
-          "url": "https://www.aljazeera.com/opinions/2025/11/26/it-is-israel-not-gaza-that-needs-stabilisation?traffic_source=rss"
-        },
-        {
-          "title": "Pope urges Israel and Hezbollah to pursue dialogue over conflict",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-urges-israel-and-hezbollah-to-pursue-dialogue-over-conflict?traffic_source=rss"
-        },
-        {
-          "title": "What’s the price tag on Israel’s propaganda machine?",
-          "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
+          "title": "China blocks ByteDance from Nvidia chip use: Report",
+          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002276695917419979,
-      "chg5d": -0.03504926475282506,
-      "chg1m": -0.06655413055561271
+      "chg1d": 0.018080080980767087,
+      "chg5d": -0.0294070340982201,
+      "chg1m": -0.09946276675123118
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "China blocks ByteDance from Nvidia chip use: Report",
+          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.04321086102749139,
+      "chg5d": 0.006966026189949304,
+      "chg1m": -0.005615308604439117
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "China blocks ByteDance from Nvidia chip use: Report",
+          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.025994098637066098,
+      "chg5d": 0.03438750575486057,
+      "chg1m": -0.031340165157695714
     }
   ]
 }
