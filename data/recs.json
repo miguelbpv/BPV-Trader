@@ -1,34 +1,11 @@
 {
-  "generated_at": "2025-11-26T01:00:36.541836Z",
+  "generated_at": "2025-11-26T03:44:11.646496Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.06,
-      "confianca": 58,
-      "razoes": [
-        {
-          "title": "Israel’s push to displace thousands of Palestinians from the West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/25/israels-push-to-displace-thousands-from-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
-          "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
-        },
-        {
-          "title": "Did the UN just outsource Israel’s occupation?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/25/aje-onl-pal_scgazaresolution_av_v1-251125?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0062801390602220735,
-      "chg5d": -0.026905337140347055,
-      "chg1m": 0.0037381060262799987
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.06,
-      "confianca": 58,
+      "score": 1.31,
+      "confianca": 37,
       "razoes": [
         {
           "title": "Israel’s push to displace thousands of Palestinians from the West Bank",
@@ -37,10 +14,6 @@
         {
           "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
           "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
-        },
-        {
-          "title": "Did the UN just outsource Israel’s occupation?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/25/aje-onl-pal_scgazaresolution_av_v1-251125?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,37 +21,33 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.31,
+      "confianca": 37,
       "razoes": [
+        {
+          "title": "Israel’s push to displace thousands of Palestinians from the West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/25/israels-push-to-displace-thousands-from-the-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
           "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
-        },
-        {
-          "title": "US imposes visa sanctions against Haitian official on governing council",
-          "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0001405283867341922,
-      "chg5d": 0.02436040444748293,
-      "chg1m": -0.045498742665549013
+      "chg1d": -0.0062801390602220735,
+      "chg5d": -0.026905337140347055,
+      "chg1m": 0.0037381060262799987
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
           "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
-        },
-        {
-          "title": "US imposes visa sanctions against Haitian official on governing council",
-          "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
         }
       ],
       "chg1d": 0.015589884796825309,
@@ -86,18 +55,29 @@
       "chg1m": -0.053548180154342526
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
           "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0001405283867341922,
+      "chg5d": 0.02436040444748293,
+      "chg1m": -0.045498742665549013
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
         {
-          "title": "US imposes visa sanctions against Haitian official on governing council",
-          "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss"
+          "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
+          "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss"
         }
       ],
       "chg1d": 0.003112840466926054,
@@ -107,16 +87,12 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "score": 0.48,
+      "confianca": 13,
       "razoes": [
         {
           "title": "Israel’s push to displace thousands of Palestinians from the West Bank",
           "url": "https://www.aljazeera.com/news/2025/11/25/israels-push-to-displace-thousands-from-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Did the UN just outsource Israel’s occupation?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/11/25/aje-onl-pal_scgazaresolution_av_v1-251125?traffic_source=rss"
         }
       ],
       "chg1d": 0.0029929499401410518,
