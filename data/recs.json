@@ -1,12 +1,59 @@
 {
-  "generated_at": "2025-11-26T09:15:40.375487Z",
+  "generated_at": "2025-11-26T12:27:46.238403Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.48,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
+          "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
+        },
+        {
+          "title": "It is Israel, not Gaza, that needs stabilisation",
+          "url": "https://www.aljazeera.com/opinions/2025/11/26/it-is-israel-not-gaza-that-needs-stabilisation?traffic_source=rss"
+        },
+        {
+          "title": "Pope urges Israel and Hezbollah to pursue dialogue over conflict",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-urges-israel-and-hezbollah-to-pursue-dialogue-over-conflict?traffic_source=rss"
+        },
+        {
+          "title": "What’s the price tag on Israel’s propaganda machine?",
+          "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
+        },
+        {
+          "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
+          "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.48,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
+          "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
+        },
+        {
+          "title": "It is Israel, not Gaza, that needs stabilisation",
+          "url": "https://www.aljazeera.com/opinions/2025/11/26/it-is-israel-not-gaza-that-needs-stabilisation?traffic_source=rss"
+        },
+        {
+          "title": "Pope urges Israel and Hezbollah to pursue dialogue over conflict",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-urges-israel-and-hezbollah-to-pursue-dialogue-over-conflict?traffic_source=rss"
+        },
+        {
+          "title": "What’s the price tag on Israel’s propaganda machine?",
+          "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
+        },
         {
           "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
           "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
@@ -18,10 +65,26 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 3.48,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel lays siege to occupied West Bank’s Tubas, displaces tens of families",
+          "url": "https://www.aljazeera.com/news/2025/11/26/israels-siege-on-west-bank-city-raises-alarms-over-ethnic-cleansing?traffic_source=rss"
+        },
+        {
+          "title": "It is Israel, not Gaza, that needs stabilisation",
+          "url": "https://www.aljazeera.com/opinions/2025/11/26/it-is-israel-not-gaza-that-needs-stabilisation?traffic_source=rss"
+        },
+        {
+          "title": "Pope urges Israel and Hezbollah to pursue dialogue over conflict",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-urges-israel-and-hezbollah-to-pursue-dialogue-over-conflict?traffic_source=rss"
+        },
+        {
+          "title": "What’s the price tag on Israel’s propaganda machine?",
+          "url": "https://www.aljazeera.com/video/money-works/2025/11/26/whats-the-price-tag-on-israels-propaganda-machine?traffic_source=rss"
+        },
         {
           "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
           "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
@@ -30,21 +93,6 @@
       "chg1d": -0.0062801390602220735,
       "chg5d": -0.026905337140347055,
       "chg1m": 0.0037381060262799987
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
-          "url": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
