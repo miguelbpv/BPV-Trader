@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-11-27T00:59:28.303578Z",
+  "generated_at": "2025-11-27T03:41:20.388103Z",
   "recs": [
     {
       "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.54,
-      "confianca": 44,
+      "acao": "comprar",
+      "score": 2.39,
+      "confianca": 68,
       "razoes": [
+        {
+          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
+          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
+        },
         {
           "title": "Canada announces new support for lumber, steel industries hit by tariffs",
           "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
@@ -22,10 +26,14 @@
     },
     {
       "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.54,
-      "confianca": 44,
+      "acao": "comprar",
+      "score": 2.39,
+      "confianca": 68,
       "razoes": [
+        {
+          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
+          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
+        },
         {
           "title": "Canada announces new support for lumber, steel industries hit by tariffs",
           "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
@@ -42,9 +50,13 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.81,
-      "confianca": 23,
+      "score": 1.66,
+      "confianca": 47,
       "razoes": [
+        {
+          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
+          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
+        },
         {
           "title": "Canada announces new support for lumber, steel industries hit by tariffs",
           "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
@@ -53,21 +65,6 @@
       "chg1d": 0.02725862190563516,
       "chg5d": 0.034444799545470646,
       "chg1m": -0.043159796354081084
-    },
-    {
-      "symbol": "NVDA",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "China blocks ByteDance from Nvidia chip use: Report",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013721741086491946,
-      "chg5d": -0.033562084494960426,
-      "chg1m": -0.10331791274934095
     },
     {
       "symbol": "LMT",
@@ -83,6 +80,21 @@
       "chg1d": 0.003868172675228222,
       "chg5d": -0.03351705645761954,
       "chg1m": -0.06507194762953653
+    },
+    {
+      "symbol": "NVDA",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "China blocks ByteDance from Nvidia chip use: Report",
+          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013721741086491946,
+      "chg5d": -0.033562084494960426,
+      "chg1m": -0.10331791274934095
     }
   ]
 }
