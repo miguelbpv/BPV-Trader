@@ -1,71 +1,45 @@
 {
-  "generated_at": "2025-11-27T09:14:44.802707Z",
+  "generated_at": "2025-11-27T12:26:45.865307Z",
   "recs": [
     {
-      "symbol": "TSM",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.63,
-      "confianca": 46,
+      "score": 1.73,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
-          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
+          "title": "Israel is now at the centre of a Republican civil war",
+          "url": "https://www.aljazeera.com/opinions/2025/11/27/israel-is-now-at-the-centre-of-a-republican-civil-war?traffic_source=rss"
         },
         {
-          "title": "Canada announces new support for lumber, steel industries hit by tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018547140649149828,
-      "chg5d": 0.026879626022594378,
-      "chg1m": -0.038370974695718485
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.63,
-      "confianca": 46,
-      "razoes": [
-        {
-          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
-          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
+          "title": "Beirut attacks leave Lebanon worried and waiting for another Israeli war",
+          "url": "https://www.aljazeera.com/features/2025/11/27/beirut-attacks-leaves-lebanon-worried-and-waiting-for-another-israeli-war?traffic_source=rss"
         },
         {
-          "title": "Canada announces new support for lumber, steel industries hit by tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
+          "title": "Amnesty warns ‘genocide not over’ as Israel strikes across Gaza",
+          "url": "https://www.aljazeera.com/news/2025/11/27/israel-escalates-aerial-assault-of-southern-central-gaza-past-yellow-line?traffic_source=rss"
         }
       ],
-      "chg1d": 0.037628835150814374,
-      "chg5d": 0.0015779396341875057,
-      "chg1m": -0.010936074794770437
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.63,
-      "confianca": 46,
-      "razoes": [
-        {
-          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
-          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
-        },
-        {
-          "title": "Canada announces new support for lumber, steel industries hit by tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.027540729247478676,
-      "chg5d": 0.03472888036646416,
-      "chg1m": -0.04289702742650683
+      "chg1d": 0.003868172675228222,
+      "chg5d": -0.03351705645761954,
+      "chg1m": -0.06507194762953653
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "score": 1.73,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Israel escalates aerial assault of southern, central Gaza past yellow line",
+          "title": "Israel is now at the centre of a Republican civil war",
+          "url": "https://www.aljazeera.com/opinions/2025/11/27/israel-is-now-at-the-centre-of-a-republican-civil-war?traffic_source=rss"
+        },
+        {
+          "title": "Beirut attacks leave Lebanon worried and waiting for another Israeli war",
+          "url": "https://www.aljazeera.com/features/2025/11/27/beirut-attacks-leaves-lebanon-worried-and-waiting-for-another-israeli-war?traffic_source=rss"
+        },
+        {
+          "title": "Amnesty warns ‘genocide not over’ as Israel strikes across Gaza",
           "url": "https://www.aljazeera.com/news/2025/11/27/israel-escalates-aerial-assault-of-southern-central-gaza-past-yellow-line?traffic_source=rss"
         }
       ],
@@ -76,32 +50,25 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "score": 1.73,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Israel escalates aerial assault of southern, central Gaza past yellow line",
+          "title": "Israel is now at the centre of a Republican civil war",
+          "url": "https://www.aljazeera.com/opinions/2025/11/27/israel-is-now-at-the-centre-of-a-republican-civil-war?traffic_source=rss"
+        },
+        {
+          "title": "Beirut attacks leave Lebanon worried and waiting for another Israeli war",
+          "url": "https://www.aljazeera.com/features/2025/11/27/beirut-attacks-leaves-lebanon-worried-and-waiting-for-another-israeli-war?traffic_source=rss"
+        },
+        {
+          "title": "Amnesty warns ‘genocide not over’ as Israel strikes across Gaza",
           "url": "https://www.aljazeera.com/news/2025/11/27/israel-escalates-aerial-assault-of-southern-central-gaza-past-yellow-line?traffic_source=rss"
         }
       ],
       "chg1d": 0.007561223338223696,
       "chg5d": -0.0066755674232309116,
       "chg1m": 0.021978021978021997
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Israel escalates aerial assault of southern, central Gaza past yellow line",
-          "url": "https://www.aljazeera.com/news/2025/11/27/israel-escalates-aerial-assault-of-southern-central-gaza-past-yellow-line?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003868172675228222,
-      "chg5d": -0.03351705645761954,
-      "chg1m": -0.06507194762953653
     }
   ]
 }
