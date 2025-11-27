@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T06:21:08.900457Z",
+  "generated_at": "2025-11-27T09:14:44.802707Z",
   "recs": [
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "score": 1.63,
+      "confianca": 46,
       "razoes": [
         {
           "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
@@ -16,15 +16,15 @@
           "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.027540729247478676,
-      "chg5d": 0.03472888036646416,
-      "chg1m": -0.04289702742650683
+      "chg1d": 0.018547140649149828,
+      "chg5d": 0.026879626022594378,
+      "chg1m": -0.038370974695718485
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "score": 1.63,
+      "confianca": 46,
       "razoes": [
         {
           "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
@@ -40,10 +40,10 @@
       "chg1m": -0.010936074794770437
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "score": 1.63,
+      "confianca": 46,
       "razoes": [
         {
           "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
@@ -54,9 +54,54 @@
           "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.018547140649149828,
-      "chg5d": 0.026879626022594378,
-      "chg1m": -0.038370974695718485
+      "chg1d": 0.027540729247478676,
+      "chg5d": 0.03472888036646416,
+      "chg1m": -0.04289702742650683
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israel escalates aerial assault of southern, central Gaza past yellow line",
+          "url": "https://www.aljazeera.com/news/2025/11/27/israel-escalates-aerial-assault-of-southern-central-gaza-past-yellow-line?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israel escalates aerial assault of southern, central Gaza past yellow line",
+          "url": "https://www.aljazeera.com/news/2025/11/27/israel-escalates-aerial-assault-of-southern-central-gaza-past-yellow-line?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007561223338223696,
+      "chg5d": -0.0066755674232309116,
+      "chg1m": 0.021978021978021997
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israel escalates aerial assault of southern, central Gaza past yellow line",
+          "url": "https://www.aljazeera.com/news/2025/11/27/israel-escalates-aerial-assault-of-southern-central-gaza-past-yellow-line?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003868172675228222,
+      "chg5d": -0.03351705645761954,
+      "chg1m": -0.06507194762953653
     }
   ]
 }
