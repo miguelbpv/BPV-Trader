@@ -1,56 +1,10 @@
 {
-  "generated_at": "2025-11-27T03:41:20.388103Z",
+  "generated_at": "2025-11-27T06:21:08.900457Z",
   "recs": [
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.39,
-      "confianca": 68,
-      "razoes": [
-        {
-          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
-          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
-        },
-        {
-          "title": "Canada announces new support for lumber, steel industries hit by tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "China blocks ByteDance from Nvidia chip use: Report",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03749925240724855,
-      "chg5d": 0.0014528590534286425,
-      "chg1m": -0.011059592581331807
-    },
-    {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.39,
-      "confianca": 68,
-      "razoes": [
-        {
-          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
-          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
-        },
-        {
-          "title": "Canada announces new support for lumber, steel industries hit by tariffs",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "China blocks ByteDance from Nvidia chip use: Report",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018547140649149828,
-      "chg5d": 0.026879626022594378,
-      "chg1m": -0.038370974695718485
-    },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.66,
+      "score": 1.65,
       "confianca": 47,
       "razoes": [
         {
@@ -62,39 +16,47 @@
           "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02725862190563516,
-      "chg5d": 0.034444799545470646,
-      "chg1m": -0.043159796354081084
+      "chg1d": 0.027540729247478676,
+      "chg5d": 0.03472888036646416,
+      "chg1m": -0.04289702742650683
     },
     {
-      "symbol": "LMT",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.65,
+      "confianca": 47,
       "razoes": [
         {
-          "title": "China blocks ByteDance from Nvidia chip use: Report",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
+          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
+          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
+        },
+        {
+          "title": "Canada announces new support for lumber, steel industries hit by tariffs",
+          "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003868172675228222,
-      "chg5d": -0.03351705645761954,
-      "chg1m": -0.06507194762953653
+      "chg1d": 0.037628835150814374,
+      "chg5d": 0.0015779396341875057,
+      "chg1m": -0.010936074794770437
     },
     {
-      "symbol": "NVDA",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.65,
+      "confianca": 47,
       "razoes": [
         {
-          "title": "China blocks ByteDance from Nvidia chip use: Report",
-          "url": "https://www.aljazeera.com/economy/2025/11/26/china-blocks-bytedance-from-nvidia-chip-use-report?traffic_source=rss"
+          "title": "Russia’s ‘shadow vessels’ using false flags to skirt sanctions, report says",
+          "url": "https://www.aljazeera.com/economy/2025/11/27/russias-shadow-vessels-using-false-flags-to-skirt-sanctions-report-says?traffic_source=rss"
+        },
+        {
+          "title": "Canada announces new support for lumber, steel industries hit by tariffs",
+          "url": "https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013721741086491946,
-      "chg5d": -0.033562084494960426,
-      "chg1m": -0.10331791274934095
+      "chg1d": 0.018547140649149828,
+      "chg5d": 0.026879626022594378,
+      "chg1m": -0.038370974695718485
     }
   ]
 }
