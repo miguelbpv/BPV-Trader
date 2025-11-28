@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-28T18:18:07.836428Z",
+  "generated_at": "2025-11-28T21:11:06.900947Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 3.47,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Jenin killings latest example of Israel’s ‘shoot to kill’ policy",
+          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
+        },
+        {
+          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah leader promises response to Israel’s strike killing top commander",
+          "url": "https://www.aljazeera.com/news/2025/11/28/hezbollah-leader-promises-response-to-israels-strike-killing-top-commander?traffic_source=rss"
+        },
         {
           "title": "Jenin killings highlight Israeli system of ‘total impunity’: Rights groups",
           "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-highlight-israeli-system-of-total-impunity-rights-groups?traffic_source=rss"
@@ -14,14 +26,37 @@
         {
           "title": "‘Helicopters, artillery, tanks’: Syrians mourn victims of Israeli raid",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/helicopters-artillery-tanks-syrians-mourn-victims-of-israeli-raid?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013216845878136117,
+      "chg5d": 0.018005851901868042,
+      "chg1m": 0.02783774571071456
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.47,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Jenin killings latest example of Israel’s ‘shoot to kill’ policy",
+          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
         },
         {
-          "title": "Palestinian American teen freed after 9 months of Israeli detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/palestinian-american-teen-freed-after-9-months-of-israeli-detention?traffic_source=rss"
+          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
         },
         {
-          "title": "Iran to boycott FIFA 2026 World Cup draw in US over visa dispute",
-          "url": "https://www.aljazeera.com/sports/2025/11/28/iran-to-boycott-fifa-2026-world-cup-draw-in-us-over-visa-row?traffic_source=rss"
+          "title": "Hezbollah leader promises response to Israel’s strike killing top commander",
+          "url": "https://www.aljazeera.com/news/2025/11/28/hezbollah-leader-promises-response-to-israels-strike-killing-top-commander?traffic_source=rss"
+        },
+        {
+          "title": "Jenin killings highlight Israeli system of ‘total impunity’: Rights groups",
+          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-highlight-israeli-system-of-total-impunity-rights-groups?traffic_source=rss"
+        },
+        {
+          "title": "‘Helicopters, artillery, tanks’: Syrians mourn victims of Israeli raid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/helicopters-artillery-tanks-syrians-mourn-victims-of-israeli-raid?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,9 +66,21 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 3.47,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Jenin killings latest example of Israel’s ‘shoot to kill’ policy",
+          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
+        },
+        {
+          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah leader promises response to Israel’s strike killing top commander",
+          "url": "https://www.aljazeera.com/news/2025/11/28/hezbollah-leader-promises-response-to-israels-strike-killing-top-commander?traffic_source=rss"
+        },
         {
           "title": "Jenin killings highlight Israeli system of ‘total impunity’: Rights groups",
           "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-highlight-israeli-system-of-total-impunity-rights-groups?traffic_source=rss"
@@ -41,46 +88,11 @@
         {
           "title": "‘Helicopters, artillery, tanks’: Syrians mourn victims of Israeli raid",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/helicopters-artillery-tanks-syrians-mourn-victims-of-israeli-raid?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian American teen freed after 9 months of Israeli detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/palestinian-american-teen-freed-after-9-months-of-israeli-detention?traffic_source=rss"
-        },
-        {
-          "title": "Iran to boycott FIFA 2026 World Cup draw in US over visa dispute",
-          "url": "https://www.aljazeera.com/sports/2025/11/28/iran-to-boycott-fifa-2026-world-cup-draw-in-us-over-visa-row?traffic_source=rss"
         }
       ],
       "chg1d": 0.008146908578474521,
       "chg5d": -0.022209883398112112,
       "chg1m": -0.05660066346609517
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Jenin killings highlight Israeli system of ‘total impunity’: Rights groups",
-          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-highlight-israeli-system-of-total-impunity-rights-groups?traffic_source=rss"
-        },
-        {
-          "title": "‘Helicopters, artillery, tanks’: Syrians mourn victims of Israeli raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/helicopters-artillery-tanks-syrians-mourn-victims-of-israeli-raid?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian American teen freed after 9 months of Israeli detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/palestinian-american-teen-freed-after-9-months-of-israeli-detention?traffic_source=rss"
-        },
-        {
-          "title": "Iran to boycott FIFA 2026 World Cup draw in US over visa dispute",
-          "url": "https://www.aljazeera.com/sports/2025/11/28/iran-to-boycott-fifa-2026-world-cup-draw-in-us-over-visa-row?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013216845878136117,
-      "chg5d": 0.018005851901868042,
-      "chg1m": 0.02783774571071456
     }
   ]
 }
