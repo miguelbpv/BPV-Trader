@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-11-28T12:25:40.685333Z",
+  "generated_at": "2025-11-28T15:13:01.641022Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.45,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Palestinian American teen freed after 9 months of Israeli detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/palestinian-american-teen-freed-after-9-months-of-israeli-detention?traffic_source=rss"
-        },
-        {
-          "title": "Iran to boycott FIFA 2026 World Cup draw in US over visa dispute",
-          "url": "https://www.aljazeera.com/sports/2025/11/28/iran-to-boycott-fifa-2026-world-cup-draw-in-us-over-visa-row?traffic_source=rss"
-        },
-        {
-          "title": "Israel looks at Syria as “part of a warzone”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/28/israel-looks-at-syria-as-part-of-a?traffic_source=rss"
-        },
-        {
-          "title": "“No justification [for Israeli] field execution” in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/28/no-justification-for-israeli-field-execution-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israeli occupation now “far more extreme” for Palestinians",
-          "url": "https://www.aljazeera.com/video/quotable/2025/11/28/israeli-occupation-now-far-more-extreme-for-palestinians?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003868172675228222,
-      "chg5d": -0.03351705645761954,
-      "chg1m": -0.06507194762953653
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.45,
+      "score": 3.93,
       "confianca": 95,
       "razoes": [
         {
@@ -59,14 +28,45 @@
           "url": "https://www.aljazeera.com/video/quotable/2025/11/28/israeli-occupation-now-far-more-extreme-for-palestinians?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007561223338223696,
-      "chg5d": -0.0066755674232309116,
-      "chg1m": 0.021978021978021997
+      "chg1d": 0.011928763440860189,
+      "chg5d": 0.01671168129642133,
+      "chg1m": 0.026531076014089234
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.93,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Palestinian American teen freed after 9 months of Israeli detention",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/palestinian-american-teen-freed-after-9-months-of-israeli-detention?traffic_source=rss"
+        },
+        {
+          "title": "Iran to boycott FIFA 2026 World Cup draw in US over visa dispute",
+          "url": "https://www.aljazeera.com/sports/2025/11/28/iran-to-boycott-fifa-2026-world-cup-draw-in-us-over-visa-row?traffic_source=rss"
+        },
+        {
+          "title": "Israel looks at Syria as “part of a warzone”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/28/israel-looks-at-syria-as-part-of-a?traffic_source=rss"
+        },
+        {
+          "title": "“No justification [for Israeli] field execution” in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/28/no-justification-for-israeli-field-execution-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli occupation now “far more extreme” for Palestinians",
+          "url": "https://www.aljazeera.com/video/quotable/2025/11/28/israeli-occupation-now-far-more-extreme-for-palestinians?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0013433591685750514,
+      "chg5d": -0.03141438517063173,
+      "chg1m": -0.06548142500978717
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.45,
+      "score": 3.93,
       "confianca": 95,
       "razoes": [
         {
