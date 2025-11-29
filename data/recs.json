@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-11-29T06:18:25.811809Z",
+  "generated_at": "2025-11-29T09:12:50.723605Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
-          "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss"
-        },
-        {
-          "title": "Jenin killings latest example of Israeli indifference to Palestinian death",
-          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
-        },
-        {
-          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah leader promises response to Israel’s strike killing top commander",
-          "url": "https://www.aljazeera.com/news/2025/11/28/hezbollah-leader-promises-response-to-israels-strike-killing-top-commander?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "acao": "observar",
+      "score": 1.92,
+      "confianca": 54,
       "razoes": [
         {
           "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
@@ -45,10 +18,6 @@
         {
           "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah leader promises response to Israel’s strike killing top commander",
-          "url": "https://www.aljazeera.com/news/2025/11/28/hezbollah-leader-promises-response-to-israels-strike-killing-top-commander?traffic_source=rss"
         }
       ],
       "chg1d": 0.013104838709677439,
@@ -57,9 +26,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "acao": "observar",
+      "score": 1.92,
+      "confianca": 54,
       "razoes": [
         {
           "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
@@ -72,15 +41,34 @@
         {
           "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah leader promises response to Israel’s strike killing top commander",
-          "url": "https://www.aljazeera.com/news/2025/11/28/hezbollah-leader-promises-response-to-israels-strike-killing-top-commander?traffic_source=rss"
         }
       ],
       "chg1d": 0.008146908578474521,
       "chg5d": -0.022209883398112112,
       "chg1m": -0.05660066346609517
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.92,
+      "confianca": 54,
+      "razoes": [
+        {
+          "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
+          "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss"
+        },
+        {
+          "title": "Jenin killings latest example of Israeli indifference to Palestinian death",
+          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
+        },
+        {
+          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
