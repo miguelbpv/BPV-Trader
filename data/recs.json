@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T00:58:56.018573Z",
+  "generated_at": "2025-11-29T03:41:08.316904Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.93,
-      "confianca": 95,
+      "score": 3.17,
+      "confianca": 90,
       "razoes": [
         {
           "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
@@ -33,41 +33,10 @@
       "chg1m": -0.05660066346609517
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.93,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
-          "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss"
-        },
-        {
-          "title": "Jenin killings latest example of Israeli indifference to Palestinian death",
-          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
-        },
-        {
-          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah leader promises response to Israel’s strike killing top commander",
-          "url": "https://www.aljazeera.com/news/2025/11/28/hezbollah-leader-promises-response-to-israels-strike-killing-top-commander?traffic_source=rss"
-        },
-        {
-          "title": "Jenin killings highlight Israeli system of ‘total impunity’: Rights groups",
-          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-highlight-israeli-system-of-total-impunity-rights-groups?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013216845878136117,
-      "chg5d": 0.018005851901868042,
-      "chg1m": 0.02783774571071456
-    },
-    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.93,
-      "confianca": 95,
+      "score": 3.17,
+      "confianca": 90,
       "razoes": [
         {
           "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
@@ -93,6 +62,37 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.17,
+      "confianca": 90,
+      "razoes": [
+        {
+          "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
+          "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss"
+        },
+        {
+          "title": "Jenin killings latest example of Israeli indifference to Palestinian death",
+          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
+        },
+        {
+          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah leader promises response to Israel’s strike killing top commander",
+          "url": "https://www.aljazeera.com/news/2025/11/28/hezbollah-leader-promises-response-to-israels-strike-killing-top-commander?traffic_source=rss"
+        },
+        {
+          "title": "Jenin killings highlight Israeli system of ‘total impunity’: Rights groups",
+          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-highlight-israeli-system-of-total-impunity-rights-groups?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013216845878136117,
+      "chg5d": 0.018005851901868042,
+      "chg1m": 0.02783774571071456
     }
   ]
 }
