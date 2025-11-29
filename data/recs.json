@@ -1,23 +1,23 @@
 {
-  "generated_at": "2025-11-29T09:12:50.723605Z",
+  "generated_at": "2025-11-29T12:23:05.462628Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.92,
-      "confianca": 54,
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Israeli attack kills two children in southern Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-attack-kills-two-children-in-southern-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces injure hundreds of Palestinians in raids on Tubas, West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-forces-injure-hundreds-of-palestinians-in-raids-on-tubas-west-bank?traffic_source=rss"
+        },
         {
           "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
           "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss"
-        },
-        {
-          "title": "Jenin killings latest example of Israeli indifference to Palestinian death",
-          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
-        },
-        {
-          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
         }
       ],
       "chg1d": 0.013104838709677439,
@@ -25,50 +25,50 @@
       "chg1m": 0.027724122258834197
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.92,
-      "confianca": 54,
-      "razoes": [
-        {
-          "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
-          "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss"
-        },
-        {
-          "title": "Jenin killings latest example of Israeli indifference to Palestinian death",
-          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
-        },
-        {
-          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008146908578474521,
-      "chg5d": -0.022209883398112112,
-      "chg1m": -0.05660066346609517
-    },
-    {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.92,
-      "confianca": 54,
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "Israeli attack kills two children in southern Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-attack-kills-two-children-in-southern-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces injure hundreds of Palestinians in raids on Tubas, West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-forces-injure-hundreds-of-palestinians-in-raids-on-tubas-west-bank?traffic_source=rss"
+        },
         {
           "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
           "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss"
-        },
-        {
-          "title": "Jenin killings latest example of Israeli indifference to Palestinian death",
-          "url": "https://www.aljazeera.com/news/2025/11/28/jenin-killings-latest-example-of-israels-shoot-to-kill-policy?traffic_source=rss"
-        },
-        {
-          "title": "‘War crimes’: Deadly Israeli raids on Syria sparks outrage",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/war-crimes-deadly-israeli-raids-on-syria-sparks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Israeli attack kills two children in southern Gaza despite ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-attack-kills-two-children-in-southern-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces injure hundreds of Palestinians in raids on Tubas, West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-forces-injure-hundreds-of-palestinians-in-raids-on-tubas-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
+          "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008146908578474521,
+      "chg5d": -0.022209883398112112,
+      "chg1m": -0.05660066346609517
     }
   ]
 }
