@@ -1,35 +1,16 @@
 {
-  "generated_at": "2025-11-30T03:54:03.904591Z",
+  "generated_at": "2025-11-30T06:19:23.743538Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.91,
-      "confianca": 54,
-      "razoes": [
-        {
-          "title": "US whistleblower exposes Biden administration’s Israel cover-up",
-          "url": "https://www.aljazeera.com/video/upfront/2025/11/29/us-whistleblower-exposes-biden-administrations-israel-cover-up?traffic_source=rss"
-        },
-        {
-          "title": "Gaza death toll surpasses 70,000 as Israel keeps up attacks despite truce",
-          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-attack-kills-two-children-in-southern-gaza-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces injure hundreds of Palestinians in raids on Tubas, West Bank",
-          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-forces-injure-hundreds-of-palestinians-in-raids-on-tubas-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.91,
-      "confianca": 54,
+      "acao": "comprar",
+      "score": 2.64,
+      "confianca": 75,
       "razoes": [
+        {
+          "title": "Tens of thousands rally in Europe, demanding justice over Israel’s Gaza war",
+          "url": "https://www.aljazeera.com/news/2025/11/30/tens-of-thousands-march-in-europe-denouncing-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "US whistleblower exposes Biden administration’s Israel cover-up",
           "url": "https://www.aljazeera.com/video/upfront/2025/11/29/us-whistleblower-exposes-biden-administrations-israel-cover-up?traffic_source=rss"
@@ -48,11 +29,42 @@
       "chg1m": -0.05660066346609517
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.91,
-      "confianca": 54,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.64,
+      "confianca": 75,
       "razoes": [
+        {
+          "title": "Tens of thousands rally in Europe, demanding justice over Israel’s Gaza war",
+          "url": "https://www.aljazeera.com/news/2025/11/30/tens-of-thousands-march-in-europe-denouncing-israels-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "US whistleblower exposes Biden administration’s Israel cover-up",
+          "url": "https://www.aljazeera.com/video/upfront/2025/11/29/us-whistleblower-exposes-biden-administrations-israel-cover-up?traffic_source=rss"
+        },
+        {
+          "title": "Gaza death toll surpasses 70,000 as Israel keeps up attacks despite truce",
+          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-attack-kills-two-children-in-southern-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces injure hundreds of Palestinians in raids on Tubas, West Bank",
+          "url": "https://www.aljazeera.com/news/2025/11/29/israeli-forces-injure-hundreds-of-palestinians-in-raids-on-tubas-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.64,
+      "confianca": 75,
+      "razoes": [
+        {
+          "title": "Tens of thousands rally in Europe, demanding justice over Israel’s Gaza war",
+          "url": "https://www.aljazeera.com/news/2025/11/30/tens-of-thousands-march-in-europe-denouncing-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "US whistleblower exposes Biden administration’s Israel cover-up",
           "url": "https://www.aljazeera.com/video/upfront/2025/11/29/us-whistleblower-exposes-biden-administrations-israel-cover-up?traffic_source=rss"
