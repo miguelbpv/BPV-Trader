@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T15:14:19.336541Z",
+  "generated_at": "2025-12-01T18:21:44.835799Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.29,
-      "confianca": 95,
+      "score": 2.8,
+      "confianca": 80,
       "razoes": [
         {
           "title": "Mourning begins in Syrian town after deadly Israeli raid",
@@ -18,25 +18,17 @@
         {
           "title": "Israel’s war forces Gaza children into work as breadwinners",
           "url": "https://www.aljazeera.com/news/2025/12/1/israels-genocidal-war-forces-gaza-children-into-work-as-breadwinners?traffic_source=rss"
-        },
-        {
-          "title": "Israelis protest against Netanyahu’s pardon request",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/israelis-protest-against-netanyahus-pardon-request?traffic_source=rss"
-        },
-        {
-          "title": "Pope Leo says two-state is ‘only solution’ for Israel-Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/pope-leo-says-two-state-is-only-solution-for-israel-palestine?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014372581536760609,
-      "chg5d": 0.02605681055692237,
-      "chg1m": 0.04869127900331473
+      "chg1d": 0.011111111111111061,
+      "chg5d": 0.02275777231044505,
+      "chg1m": 0.045319465081723666
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.29,
-      "confianca": 95,
+      "score": 2.8,
+      "confianca": 80,
       "razoes": [
         {
           "title": "Mourning begins in Syrian town after deadly Israeli raid",
@@ -49,14 +41,6 @@
         {
           "title": "Israel’s war forces Gaza children into work as breadwinners",
           "url": "https://www.aljazeera.com/news/2025/12/1/israels-genocidal-war-forces-gaza-children-into-work-as-breadwinners?traffic_source=rss"
-        },
-        {
-          "title": "Israelis protest against Netanyahu’s pardon request",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/israelis-protest-against-netanyahus-pardon-request?traffic_source=rss"
-        },
-        {
-          "title": "Pope Leo says two-state is ‘only solution’ for Israel-Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/pope-leo-says-two-state-is-only-solution-for-israel-palestine?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,9 +49,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Mourning begins in Syrian town after deadly Israeli raid",
@@ -76,19 +60,56 @@
         {
           "title": "Israel’s war forces Gaza children into work as breadwinners",
           "url": "https://www.aljazeera.com/news/2025/12/1/israels-genocidal-war-forces-gaza-children-into-work-as-breadwinners?traffic_source=rss"
-        },
-        {
-          "title": "Israelis protest against Netanyahu’s pardon request",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/israelis-protest-against-netanyahus-pardon-request?traffic_source=rss"
-        },
-        {
-          "title": "Pope Leo says two-state is ‘only solution’ for Israel-Palestine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/pope-leo-says-two-state-is-only-solution-for-israel-palestine?traffic_source=rss"
         }
       ],
-      "chg1d": -0.018040449045559757,
-      "chg5d": -0.02426320586831015,
-      "chg1m": -0.08192436494323287
+      "chg1d": -0.03210588389464026,
+      "chg5d": -0.038239506923043426,
+      "chg1m": -0.09507473658417055
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
+          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.024363207547169856,
+      "chg5d": 0.12337957933724406,
+      "chg1m": 0.00964712445952857
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
+          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006234413965087167,
+      "chg5d": 0.10249972307351472,
+      "chg1m": -0.022330637503683734
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
+          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0050084045144248215,
+      "chg5d": 0.05449720061077586,
+      "chg1m": -0.043433810434667944
     }
   ]
 }
