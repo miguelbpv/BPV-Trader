@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-12-01T12:27:20.253754Z",
+  "generated_at": "2025-12-01T15:14:19.336541Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.38,
+      "score": 4.29,
       "confianca": 95,
       "razoes": [
         {
@@ -28,14 +28,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/pope-leo-says-two-state-is-only-solution-for-israel-palestine?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013104838709677439,
-      "chg5d": 0.01789331532748147,
-      "chg1m": 0.027724122258834197
+      "chg1d": 0.014372581536760609,
+      "chg5d": 0.02605681055692237,
+      "chg1m": 0.04869127900331473
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.38,
+      "score": 4.29,
       "confianca": 95,
       "razoes": [
         {
@@ -66,8 +66,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.7,
-      "confianca": 95,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
         {
           "title": "Mourning begins in Syrian town after deadly Israeli raid",
@@ -84,15 +84,11 @@
         {
           "title": "Pope Leo says two-state is ‘only solution’ for Israel-Palestine",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/pope-leo-says-two-state-is-only-solution-for-israel-palestine?traffic_source=rss"
-        },
-        {
-          "title": "Israelis protest in Tel Aviv after Netanyahu seeks pardon on fraud cases",
-          "url": "https://www.aljazeera.com/news/2025/12/1/israelis-protest-in-tel-aviv-after-netanyahu-seeks-pardon-on-fraud-cases?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008146908578474521,
-      "chg5d": -0.022209883398112112,
-      "chg1m": -0.05660066346609517
+      "chg1d": -0.018040449045559757,
+      "chg5d": -0.02426320586831015,
+      "chg1m": -0.08192436494323287
     }
   ]
 }
