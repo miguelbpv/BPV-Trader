@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-11-30T21:11:11.146524Z",
+  "generated_at": "2025-12-01T01:12:50.930667Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Pope Leo insists on two-state solution to resolve Israel-Palestine conflict",
-          "url": "https://www.aljazeera.com/news/2025/11/30/pope-leo-insists-on-2-state-solution-to-resolve-israel-palestine-conflict?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks on Syria: What happened, who did Israel claim it was after?",
-          "url": "https://www.aljazeera.com/news/2025/11/30/israel-attacks-on-syria-what-happened-who-did-israel-claim-it-was-after?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu requests Israel’s president grant a pardon in corruption cases",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/30/netanyahu-requests-israels-president-grant-a-pardon-in-corruption-cases?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu writes to Israeli president requesting pardon in corruption cases",
-          "url": "https://www.aljazeera.com/news/2025/11/30/netanyahu-writes-to-israeli-president-requesting-pardon-in-corruption-cases?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008146908578474521,
-      "chg5d": -0.022209883398112112,
-      "chg1m": -0.05660066346609517
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
         {
           "title": "Pope Leo insists on two-state solution to resolve Israel-Palestine conflict",
@@ -47,7 +20,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/30/netanyahu-requests-israels-president-grant-a-pardon-in-corruption-cases?traffic_source=rss"
         },
         {
-          "title": "Netanyahu writes to Israeli president requesting pardon in corruption cases",
+          "title": "Israel’s Netanyahu urges president to pardon corruption cases",
           "url": "https://www.aljazeera.com/news/2025/11/30/netanyahu-writes-to-israeli-president-requesting-pardon-in-corruption-cases?traffic_source=rss"
         }
       ],
@@ -56,10 +29,10 @@
       "chg1m": 0.027724122258834197
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
         {
           "title": "Pope Leo insists on two-state solution to resolve Israel-Palestine conflict",
@@ -74,7 +47,34 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/11/30/netanyahu-requests-israels-president-grant-a-pardon-in-corruption-cases?traffic_source=rss"
         },
         {
-          "title": "Netanyahu writes to Israeli president requesting pardon in corruption cases",
+          "title": "Israel’s Netanyahu urges president to pardon corruption cases",
+          "url": "https://www.aljazeera.com/news/2025/11/30/netanyahu-writes-to-israeli-president-requesting-pardon-in-corruption-cases?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008146908578474521,
+      "chg5d": -0.022209883398112112,
+      "chg1m": -0.05660066346609517
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.91,
+      "confianca": 83,
+      "razoes": [
+        {
+          "title": "Pope Leo insists on two-state solution to resolve Israel-Palestine conflict",
+          "url": "https://www.aljazeera.com/news/2025/11/30/pope-leo-insists-on-2-state-solution-to-resolve-israel-palestine-conflict?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacks on Syria: What happened, who did Israel claim it was after?",
+          "url": "https://www.aljazeera.com/news/2025/11/30/israel-attacks-on-syria-what-happened-who-did-israel-claim-it-was-after?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu requests Israel’s president grant a pardon in corruption cases",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/11/30/netanyahu-requests-israels-president-grant-a-pardon-in-corruption-cases?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu urges president to pardon corruption cases",
           "url": "https://www.aljazeera.com/news/2025/11/30/netanyahu-writes-to-israeli-president-requesting-pardon-in-corruption-cases?traffic_source=rss"
         }
       ],
