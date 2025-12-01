@@ -1,46 +1,60 @@
 {
-  "generated_at": "2025-12-01T18:21:44.835799Z",
+  "generated_at": "2025-12-01T21:11:07.611236Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.8,
-      "confianca": 80,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Mourning begins in Syrian town after deadly Israeli raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/mourning-begins-in-syrian-town-after-deadly-israeli-raid?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela’s OPEC plea unlikely to “obtain much” for support",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/1/venezuelas-opec-plea-unlikely-to-obtain-much-for-support?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s war forces Gaza children into work as breadwinners",
-          "url": "https://www.aljazeera.com/news/2025/12/1/israels-genocidal-war-forces-gaza-children-into-work-as-breadwinners?traffic_source=rss"
+          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
+          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011111111111111061,
-      "chg5d": 0.02275777231044505,
-      "chg1m": 0.045319465081723666
+      "chg1d": 0.027160377358490532,
+      "chg5d": 0.12644712747136774,
+      "chg1m": 0.012404109907480513
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
+          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0013311316303834394,
+      "chg5d": 0.09712734925968322,
+      "chg1m": -0.027094725123604446
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
+          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010874412541593825,
+      "chg5d": 0.04828037519086735,
+      "chg1m": -0.04907328012664089
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.8,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Mourning begins in Syrian town after deadly Israeli raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/mourning-begins-in-syrian-town-after-deadly-israeli-raid?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela’s OPEC plea unlikely to “obtain much” for support",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/1/venezuelas-opec-plea-unlikely-to-obtain-much-for-support?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s war forces Gaza children into work as breadwinners",
-          "url": "https://www.aljazeera.com/news/2025/12/1/israels-genocidal-war-forces-gaza-children-into-work-as-breadwinners?traffic_source=rss"
+          "title": "Trump says Israel must seek ‘strong and true dialogue’ with Syria",
+          "url": "https://www.aljazeera.com/news/2025/12/1/trump-says-israel-must-seek-strong-and-true-dialogue-with-syria?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,66 +64,32 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Mourning begins in Syrian town after deadly Israeli raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/mourning-begins-in-syrian-town-after-deadly-israeli-raid?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s war forces Gaza children into work as breadwinners",
-          "url": "https://www.aljazeera.com/news/2025/12/1/israels-genocidal-war-forces-gaza-children-into-work-as-breadwinners?traffic_source=rss"
+          "title": "Trump says Israel must seek ‘strong and true dialogue’ with Syria",
+          "url": "https://www.aljazeera.com/news/2025/12/1/trump-says-israel-must-seek-strong-and-true-dialogue-with-syria?traffic_source=rss"
         }
       ],
-      "chg1d": -0.03210588389464026,
-      "chg5d": -0.038239506923043426,
-      "chg1m": -0.09507473658417055
+      "chg1d": -0.04179618223911238,
+      "chg5d": -0.047868397065844774,
+      "chg1m": -0.10413460753083395
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
-          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
+          "title": "Trump says Israel must seek ‘strong and true dialogue’ with Syria",
+          "url": "https://www.aljazeera.com/news/2025/12/1/trump-says-israel-must-seek-strong-and-true-dialogue-with-syria?traffic_source=rss"
         }
       ],
-      "chg1d": 0.024363207547169856,
-      "chg5d": 0.12337957933724406,
-      "chg1m": 0.00964712445952857
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
-          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006234413965087167,
-      "chg5d": 0.10249972307351472,
-      "chg1m": -0.022330637503683734
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
-          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0050084045144248215,
-      "chg5d": 0.05449720061077586,
-      "chg1m": -0.043433810434667944
+      "chg1d": 0.009016030956329465,
+      "chg5d": 0.02063855960635206,
+      "chg1m": 0.04315350325751524
     }
   ]
 }
