@@ -1,58 +1,20 @@
 {
-  "generated_at": "2025-12-02T15:15:18.545258Z",
+  "generated_at": "2025-12-02T18:20:56.370660Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.24,
-      "confianca": 64,
-      "razoes": [
-        {
-          "title": "Israel’s genocide in Gaza has not stopped, despite the ceasefire: Analysts",
-          "url": "https://www.aljazeera.com/features/2025/12/2/israels-genocide-in-gaza-has-not-stopped-despite-ceasefire-analysts?traffic_source=rss"
-        },
-        {
-          "title": "Israel targeted Al Shifa Hospital “the same way” as military systems",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/2/israel-targeted-al-shifa-hospital-the-same-way-as-military-systems?traffic_source=rss"
-        },
-        {
-          "title": "Beyond Netanyahu: Israel’s major political corruption scandals",
-          "url": "https://www.aljazeera.com/news/2025/12/2/beyond-netanyahu-israels-major-political-corruption-scandals?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.04077665661992752,
-      "chg5d": -0.046855332262684964,
-      "chg1m": -0.10318140978518342
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.24,
-      "confianca": 64,
-      "razoes": [
-        {
-          "title": "Israel’s genocide in Gaza has not stopped, despite the ceasefire: Analysts",
-          "url": "https://www.aljazeera.com/features/2025/12/2/israels-genocide-in-gaza-has-not-stopped-despite-ceasefire-analysts?traffic_source=rss"
-        },
-        {
-          "title": "Israel targeted Al Shifa Hospital “the same way” as military systems",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/2/israel-targeted-al-shifa-hospital-the-same-way-as-military-systems?traffic_source=rss"
-        },
-        {
-          "title": "Beyond Netanyahu: Israel’s major political corruption scandals",
-          "url": "https://www.aljazeera.com/news/2025/12/2/beyond-netanyahu-israels-major-political-corruption-scandals?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.002244853263250091,
-      "chg5d": 0.021812268700235428,
-      "chg1m": 0.03387041869964824
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.24,
-      "confianca": 64,
+      "score": 3.71,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu says deal with Syria possible but demands buffer zone",
+          "url": "https://www.aljazeera.com/news/2025/12/2/israels-netanyahu-says-deal-with-syria-possible-but-demands-buffer-zone?traffic_source=rss"
+        },
         {
           "title": "Israel’s genocide in Gaza has not stopped, despite the ceasefire: Analysts",
           "url": "https://www.aljazeera.com/features/2025/12/2/israels-genocide-in-gaza-has-not-stopped-despite-ceasefire-analysts?traffic_source=rss"
@@ -69,6 +31,68 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.71,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu says deal with Syria possible but demands buffer zone",
+          "url": "https://www.aljazeera.com/news/2025/12/2/israels-netanyahu-says-deal-with-syria-possible-but-demands-buffer-zone?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s genocide in Gaza has not stopped, despite the ceasefire: Analysts",
+          "url": "https://www.aljazeera.com/features/2025/12/2/israels-genocide-in-gaza-has-not-stopped-despite-ceasefire-analysts?traffic_source=rss"
+        },
+        {
+          "title": "Israel targeted Al Shifa Hospital “the same way” as military systems",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/2/israel-targeted-al-shifa-hospital-the-same-way-as-military-systems?traffic_source=rss"
+        },
+        {
+          "title": "Beyond Netanyahu: Israel’s major political corruption scandals",
+          "url": "https://www.aljazeera.com/news/2025/12/2/beyond-netanyahu-israels-major-political-corruption-scandals?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006056604203192297,
+      "chg5d": -0.020418569591628563,
+      "chg1m": -0.10171179962592497
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.71,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu says deal with Syria possible but demands buffer zone",
+          "url": "https://www.aljazeera.com/news/2025/12/2/israels-netanyahu-says-deal-with-syria-possible-but-demands-buffer-zone?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s genocide in Gaza has not stopped, despite the ceasefire: Analysts",
+          "url": "https://www.aljazeera.com/features/2025/12/2/israels-genocide-in-gaza-has-not-stopped-despite-ceasefire-analysts?traffic_source=rss"
+        },
+        {
+          "title": "Israel targeted Al Shifa Hospital “the same way” as military systems",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/2/israel-targeted-al-shifa-hospital-the-same-way-as-military-systems?traffic_source=rss"
+        },
+        {
+          "title": "Beyond Netanyahu: Israel’s major political corruption scandals",
+          "url": "https://www.aljazeera.com/news/2025/12/2/beyond-netanyahu-israels-major-political-corruption-scandals?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.013523872098116509,
+      "chg5d": 0.010261298643041292,
+      "chg1m": 0.022183138545330744
     }
   ]
 }
