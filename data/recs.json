@@ -1,31 +1,95 @@
 {
-  "generated_at": "2025-12-02T18:20:56.370660Z",
+  "generated_at": "2025-12-02T21:13:06.796660Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "OECD warns tariffs, AI will test resilience of the global economy",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
+        },
+        {
+          "title": "Costco sues Trump administration for US tariff refund",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.020039067762360193,
+      "chg5d": 0.07134771842943055,
+      "chg1m": -0.01200456695481979
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "OECD warns tariffs, AI will test resilience of the global economy",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
+        },
+        {
+          "title": "Costco sues Trump administration for US tariff refund",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015190489432703019,
+      "chg5d": 0.026032883642495872,
+      "chg1m": -0.027893352860899362
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "OECD warns tariffs, AI will test resilience of the global economy",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
+        },
+        {
+          "title": "Costco sues Trump administration for US tariff refund",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019145396556953583,
+      "chg5d": 0.12249195197505607,
+      "chg1m": 0.046817027463345935
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.012428821725799288,
+      "chg5d": 0.011382752046652468,
+      "chg1m": 0.023317825938953898
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
         },
         {
-          "title": "Israel’s Netanyahu says deal with Syria possible but demands buffer zone",
-          "url": "https://www.aljazeera.com/news/2025/12/2/israels-netanyahu-says-deal-with-syria-possible-but-demands-buffer-zone?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s genocide in Gaza has not stopped, despite the ceasefire: Analysts",
-          "url": "https://www.aljazeera.com/features/2025/12/2/israels-genocide-in-gaza-has-not-stopped-despite-ceasefire-analysts?traffic_source=rss"
-        },
-        {
-          "title": "Israel targeted Al Shifa Hospital “the same way” as military systems",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/2/israel-targeted-al-shifa-hospital-the-same-way-as-military-systems?traffic_source=rss"
-        },
-        {
-          "title": "Beyond Netanyahu: Israel’s major political corruption scandals",
-          "url": "https://www.aljazeera.com/news/2025/12/2/beyond-netanyahu-israels-major-political-corruption-scandals?traffic_source=rss"
+          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -34,65 +98,22 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu says deal with Syria possible but demands buffer zone",
-          "url": "https://www.aljazeera.com/news/2025/12/2/israels-netanyahu-says-deal-with-syria-possible-but-demands-buffer-zone?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s genocide in Gaza has not stopped, despite the ceasefire: Analysts",
-          "url": "https://www.aljazeera.com/features/2025/12/2/israels-genocide-in-gaza-has-not-stopped-despite-ceasefire-analysts?traffic_source=rss"
-        },
-        {
-          "title": "Israel targeted Al Shifa Hospital “the same way” as military systems",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/2/israel-targeted-al-shifa-hospital-the-same-way-as-military-systems?traffic_source=rss"
-        },
-        {
-          "title": "Beyond Netanyahu: Israel’s major political corruption scandals",
-          "url": "https://www.aljazeera.com/news/2025/12/2/beyond-netanyahu-israels-major-political-corruption-scandals?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006056604203192297,
-      "chg5d": -0.020418569591628563,
-      "chg1m": -0.10171179962592497
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Netanyahu says deal with Syria possible but demands buffer zone",
-          "url": "https://www.aljazeera.com/news/2025/12/2/israels-netanyahu-says-deal-with-syria-possible-but-demands-buffer-zone?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s genocide in Gaza has not stopped, despite the ceasefire: Analysts",
-          "url": "https://www.aljazeera.com/features/2025/12/2/israels-genocide-in-gaza-has-not-stopped-despite-ceasefire-analysts?traffic_source=rss"
-        },
-        {
-          "title": "Israel targeted Al Shifa Hospital “the same way” as military systems",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/2/israel-targeted-al-shifa-hospital-the-same-way-as-military-systems?traffic_source=rss"
-        },
-        {
-          "title": "Beyond Netanyahu: Israel’s major political corruption scandals",
-          "url": "https://www.aljazeera.com/news/2025/12/2/beyond-netanyahu-israels-major-political-corruption-scandals?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013523872098116509,
-      "chg5d": 0.010261298643041292,
-      "chg1m": 0.022183138545330744
+      "chg1d": 0.006443680411666896,
+      "chg5d": -0.020041679599166452,
+      "chg1m": -0.10136618687484755
     }
   ]
 }
