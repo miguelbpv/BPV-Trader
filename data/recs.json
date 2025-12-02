@@ -1,38 +1,19 @@
 {
-  "generated_at": "2025-12-02T09:19:15.232747Z",
+  "generated_at": "2025-12-02T12:28:33.734859Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
+      "score": 1.48,
       "confianca": 42,
       "razoes": [
         {
-          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
+          "title": "Video: Moment Palestinian prisoner’s home is blown up by Israeli forces",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/video-moment-palestinian-prisoners-home-is-blown-up-by-israeli-forces?traffic_source=rss"
         },
         {
-          "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
+          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": -0.04077665661992752,
@@ -42,21 +23,40 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.47,
+      "score": 1.48,
       "confianca": 42,
       "razoes": [
         {
-          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
+          "title": "Video: Moment Palestinian prisoner’s home is blown up by Israeli forces",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/video-moment-palestinian-prisoners-home-is-blown-up-by-israeli-forces?traffic_source=rss"
         },
         {
-          "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
+          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
         }
       ],
       "chg1d": 0.009618573797678168,
       "chg5d": 0.021248042943413013,
       "chg1m": 0.04377643159218195
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Video: Moment Palestinian prisoner’s home is blown up by Israeli forces",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/video-moment-palestinian-prisoners-home-is-blown-up-by-israeli-forces?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
