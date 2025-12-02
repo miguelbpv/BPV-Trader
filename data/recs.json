@@ -1,29 +1,10 @@
 {
-  "generated_at": "2025-12-02T06:21:55.306488Z",
+  "generated_at": "2025-12-02T09:19:15.232747Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.48,
+      "score": 1.47,
       "confianca": 42,
       "razoes": [
         {
@@ -42,7 +23,7 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.48,
+      "score": 1.47,
       "confianca": 42,
       "razoes": [
         {
@@ -54,9 +35,28 @@
           "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.04077665661992752,
+      "chg5d": -0.046855332262684964,
+      "chg1m": -0.10318140978518342
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009618573797678168,
+      "chg5d": 0.021248042943413013,
+      "chg1m": 0.04377643159218195
     }
   ]
 }
