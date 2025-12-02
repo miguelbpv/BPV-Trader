@@ -1,19 +1,38 @@
 {
-  "generated_at": "2025-12-02T03:48:31.978746Z",
+  "generated_at": "2025-12-02T06:21:55.306488Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.47,
+      "score": 1.48,
       "confianca": 42,
       "razoes": [
         {
-          "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
+          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
         },
         {
-          "title": "Trump says Israel must seek ‘strong and true dialogue’ with Syria",
-          "url": "https://www.aljazeera.com/news/2025/12/1/trump-says-israel-must-seek-strong-and-true-dialogue-with-syria?traffic_source=rss"
+          "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -23,85 +42,21 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
+      "score": 1.48,
       "confianca": 42,
       "razoes": [
         {
-          "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
+          "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
         },
-        {
-          "title": "Trump says Israel must seek ‘strong and true dialogue’ with Syria",
-          "url": "https://www.aljazeera.com/news/2025/12/1/trump-says-israel-must-seek-strong-and-true-dialogue-with-syria?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.04077665661992752,
-      "chg5d": -0.046855332262684964,
-      "chg1m": -0.10318140978518342
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
         {
           "title": "What does Netanyahu’s pardon request mean for Israel’s future?",
           "url": "https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Israel must seek ‘strong and true dialogue’ with Syria",
-          "url": "https://www.aljazeera.com/news/2025/12/1/trump-says-israel-must-seek-strong-and-true-dialogue-with-syria?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009950248756218812,
-      "chg5d": 0.02158353835830902,
-      "chg1m": 0.04411932792319122
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
-          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0005391925591425765,
-      "chg5d": 0.09625964627256949,
-      "chg1m": -0.02786418257424461
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
-          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.013138485815237844,
-      "chg5d": 0.045880898713008086,
-      "chg1m": -0.051249917551612754
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
-          "url": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.027132075471698106,
-      "chg5d": 0.12641608988485048,
-      "chg1m": 0.012376214607838528
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
