@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-03T15:15:21.615199Z",
+  "generated_at": "2025-12-03T18:21:02.833423Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Yemen’s Houthis release 9 mariners held since July ship attack",
+          "url": "https://www.aljazeera.com/news/2025/12/3/yemens-houthis-release-9-mariners-held-since-july-ship-attack?traffic_source=rss"
+        },
         {
           "title": "Israel preparing to receive remains found in northern Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
@@ -14,26 +18,22 @@
         {
           "title": "Lebanon and Israel talks raise hope of more robust, expanded truce",
           "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-talks-raise-hope-of-more-robust-expanded-truce?traffic_source=rss"
-        },
-        {
-          "title": "Funeral held in Gaza for journalist killed in Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
-        },
-        {
-          "title": "Oil presses stand silent as West Bank has its worst olive harvest in years",
-          "url": "https://www.aljazeera.com/news/longform/2025/12/3/oil-presses-stand-silent-as-west-bank-has-its-worst-olive-harvest-in-years?traffic_source=rss"
         }
       ],
-      "chg1d": 0.012868870645662266,
-      "chg5d": 0.03035774743256966,
-      "chg1m": 0.03585205355116856
+      "chg1d": -0.0030779502965007964,
+      "chg5d": -0.02641387237240559,
+      "chg1m": -0.09730684100504157
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Yemen’s Houthis release 9 mariners held since July ship attack",
+          "url": "https://www.aljazeera.com/news/2025/12/3/yemens-houthis-release-9-mariners-held-since-july-ship-attack?traffic_source=rss"
+        },
         {
           "title": "Israel preparing to receive remains found in northern Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
@@ -41,14 +41,6 @@
         {
           "title": "Lebanon and Israel talks raise hope of more robust, expanded truce",
           "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-talks-raise-hope-of-more-robust-expanded-truce?traffic_source=rss"
-        },
-        {
-          "title": "Funeral held in Gaza for journalist killed in Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
-        },
-        {
-          "title": "Oil presses stand silent as West Bank has its worst olive harvest in years",
-          "url": "https://www.aljazeera.com/news/longform/2025/12/3/oil-presses-stand-silent-as-west-bank-has-its-worst-olive-harvest-in-years?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,11 +48,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Yemen’s Houthis release 9 mariners held since July ship attack",
+          "url": "https://www.aljazeera.com/news/2025/12/3/yemens-houthis-release-9-mariners-held-since-july-ship-attack?traffic_source=rss"
+        },
         {
           "title": "Israel preparing to receive remains found in northern Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
@@ -68,35 +64,16 @@
         {
           "title": "Lebanon and Israel talks raise hope of more robust, expanded truce",
           "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-talks-raise-hope-of-more-robust-expanded-truce?traffic_source=rss"
-        },
-        {
-          "title": "Funeral held in Gaza for journalist killed in Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
         }
       ],
-      "chg1d": -0.003892988094699132,
-      "chg5d": -0.02720983178974824,
-      "chg1m": -0.0980448415788826
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "ICC judge speaks out on impact of US sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009860317025574208,
-      "chg5d": 0.015912252353519733,
-      "chg1m": -0.05133536705372961
+      "chg1d": 0.01797204348790775,
+      "chg5d": 0.03554903509761884,
+      "chg1m": 0.04107102337190838
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -104,14 +81,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0017831197992339866,
-      "chg5d": 0.06982156710628398,
-      "chg1m": -0.016213762241390494
+      "chg1d": 0.011359133535860514,
+      "chg5d": 0.08004795824811337,
+      "chg1m": -0.00680978014138408
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -119,9 +96,24 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004008910694637292,
-      "chg5d": 0.10965192081497566,
-      "chg1m": 0.043498434600026226
+      "chg1d": 0.02164541207453237,
+      "chg5d": 0.12914415581826513,
+      "chg1m": 0.06182861213700534
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "ICC judge speaks out on impact of US sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0076688691841556005,
+      "chg5d": 0.03389770970914703,
+      "chg1m": -0.03454044479433192
     }
   ]
 }
