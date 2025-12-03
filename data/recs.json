@@ -1,54 +1,27 @@
 {
-  "generated_at": "2025-12-03T09:17:56.134050Z",
+  "generated_at": "2025-12-03T12:28:00.267839Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.9,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Oil presses stand silent as West Bank has its worst olive harvest in years",
-          "url": "https://www.aljazeera.com/news/longform/2025/12/3/oil-presses-stand-silent-as-west-bank-has-its-worst-olive-harvest-in-years?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli forces kill 357 Palestinians in 50 days of ceasefire in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/3/live-israeli-forces-kill-357-palestinians-in-50-days-of-ceasefire-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela denounces US-ordered ‘forced sale’ of oil company Citgo",
-          "url": "https://www.aljazeera.com/news/2025/12/3/venezuela-denounces-us-ordered-forced-sale-of-oil-company-citgo?traffic_source=rss"
-        },
-        {
-          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012921594393342013,
-      "chg5d": 0.010878098015027463,
-      "chg1m": 0.022807216611823503
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.9,
+      "score": 3.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Funeral held in Gaza for journalist killed in Israeli strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
+        },
         {
           "title": "Oil presses stand silent as West Bank has its worst olive harvest in years",
           "url": "https://www.aljazeera.com/news/longform/2025/12/3/oil-presses-stand-silent-as-west-bank-has-its-worst-olive-harvest-in-years?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israeli forces kill 357 Palestinians in 50 days of ceasefire in Gaza",
+          "title": "LIVE: Israel says remains returned yesterday not of captives held in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/3/live-israeli-forces-kill-357-palestinians-in-50-days-of-ceasefire-in-gaza?traffic_source=rss"
         },
         {
           "title": "Venezuela denounces US-ordered ‘forced sale’ of oil company Citgo",
           "url": "https://www.aljazeera.com/news/2025/12/3/venezuela-denounces-us-ordered-forced-sale-of-oil-company-citgo?traffic_source=rss"
-        },
-        {
-          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,18 +29,45 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.66,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Israeli forces kill 357 Palestinians in 50 days of ceasefire in Gaza",
+          "title": "Funeral held in Gaza for journalist killed in Israeli strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
+        },
+        {
+          "title": "Oil presses stand silent as West Bank has its worst olive harvest in years",
+          "url": "https://www.aljazeera.com/news/longform/2025/12/3/oil-presses-stand-silent-as-west-bank-has-its-worst-olive-harvest-in-years?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel says remains returned yesterday not of captives held in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/3/live-israeli-forces-kill-357-palestinians-in-50-days-of-ceasefire-in-gaza?traffic_source=rss"
         },
         {
-          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
+          "title": "Venezuela denounces US-ordered ‘forced sale’ of oil company Citgo",
+          "url": "https://www.aljazeera.com/news/2025/12/3/venezuela-denounces-us-ordered-forced-sale-of-oil-company-citgo?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.012921594393342013,
+      "chg5d": 0.010878098015027463,
+      "chg1m": 0.022807216611823503
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Funeral held in Gaza for journalist killed in Israeli strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel says remains returned yesterday not of captives held in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/3/live-israeli-forces-kill-357-palestinians-in-50-days-of-ceasefire-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.005988296636990814,
@@ -75,7 +75,7 @@
       "chg1m": -0.10177279011140929
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.59,
       "confianca": 16,
@@ -85,9 +85,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/3/trump-and-lula-hold-phone-call-to-discuss-us-tariffs-on-brazil-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019108631513157257,
-      "chg5d": 0.12245145876779162,
-      "chg1m": 0.04677926418247213
+      "chg1d": 0.019938030445911217,
+      "chg5d": 0.07124159886805796,
+      "chg1m": -0.012102430272386352
     },
     {
       "symbol": "TSM",
@@ -105,7 +105,7 @@
       "chg1m": -0.0277602103651434
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.59,
       "confianca": 16,
@@ -115,9 +115,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/3/trump-and-lula-hold-phone-call-to-discuss-us-tariffs-on-brazil-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019938030445911217,
-      "chg5d": 0.07124159886805796,
-      "chg1m": -0.012102430272386352
+      "chg1d": 0.019108631513157257,
+      "chg5d": 0.12245145876779162,
+      "chg1m": 0.04677926418247213
     }
   ]
 }
