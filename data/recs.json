@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-12-03T12:28:00.267839Z",
+  "generated_at": "2025-12-03T15:15:21.615199Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.66,
-      "confianca": 95,
+      "score": 2.82,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Israel preparing to receive remains found in northern Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon and Israel talks raise hope of more robust, expanded truce",
+          "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-talks-raise-hope-of-more-robust-expanded-truce?traffic_source=rss"
+        },
         {
           "title": "Funeral held in Gaza for journalist killed in Israeli strike",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
@@ -14,14 +22,33 @@
         {
           "title": "Oil presses stand silent as West Bank has its worst olive harvest in years",
           "url": "https://www.aljazeera.com/news/longform/2025/12/3/oil-presses-stand-silent-as-west-bank-has-its-worst-olive-harvest-in-years?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012868870645662266,
+      "chg5d": 0.03035774743256966,
+      "chg1m": 0.03585205355116856
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.82,
+      "confianca": 80,
+      "razoes": [
+        {
+          "title": "Israel preparing to receive remains found in northern Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel says remains returned yesterday not of captives held in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/3/live-israeli-forces-kill-357-palestinians-in-50-days-of-ceasefire-in-gaza?traffic_source=rss"
+          "title": "Lebanon and Israel talks raise hope of more robust, expanded truce",
+          "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-talks-raise-hope-of-more-robust-expanded-truce?traffic_source=rss"
         },
         {
-          "title": "Venezuela denounces US-ordered ‘forced sale’ of oil company Citgo",
-          "url": "https://www.aljazeera.com/news/2025/12/3/venezuela-denounces-us-ordered-forced-sale-of-oil-company-citgo?traffic_source=rss"
+          "title": "Funeral held in Gaza for journalist killed in Israeli strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
+        },
+        {
+          "title": "Oil presses stand silent as West Bank has its worst olive harvest in years",
+          "url": "https://www.aljazeera.com/news/longform/2025/12/3/oil-presses-stand-silent-as-west-bank-has-its-worst-olive-harvest-in-years?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,95 +56,72 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.66,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Funeral held in Gaza for journalist killed in Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
-        },
-        {
-          "title": "Oil presses stand silent as West Bank has its worst olive harvest in years",
-          "url": "https://www.aljazeera.com/news/longform/2025/12/3/oil-presses-stand-silent-as-west-bank-has-its-worst-olive-harvest-in-years?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel says remains returned yesterday not of captives held in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/3/live-israeli-forces-kill-357-palestinians-in-50-days-of-ceasefire-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela denounces US-ordered ‘forced sale’ of oil company Citgo",
-          "url": "https://www.aljazeera.com/news/2025/12/3/venezuela-denounces-us-ordered-forced-sale-of-oil-company-citgo?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012921594393342013,
-      "chg5d": 0.010878098015027463,
-      "chg1m": 0.022807216611823503
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Israel preparing to receive remains found in northern Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon and Israel talks raise hope of more robust, expanded truce",
+          "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-talks-raise-hope-of-more-robust-expanded-truce?traffic_source=rss"
+        },
         {
           "title": "Funeral held in Gaza for journalist killed in Israeli strike",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/funeral-held-in-gaza-for-journalist-killed-in-israeli-strike?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel says remains returned yesterday not of captives held in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/3/live-israeli-forces-kill-357-palestinians-in-50-days-of-ceasefire-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.005988296636990814,
-      "chg5d": -0.020485079590298428,
-      "chg1m": -0.10177279011140929
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "Trump and Lula hold phone call to discuss US tariffs on Brazil, sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/3/trump-and-lula-hold-phone-call-to-discuss-us-tariffs-on-brazil-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019938030445911217,
-      "chg5d": 0.07124159886805796,
-      "chg1m": -0.012102430272386352
+      "chg1d": -0.003892988094699132,
+      "chg5d": -0.02720983178974824,
+      "chg1m": -0.0980448415788826
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump and Lula hold phone call to discuss US tariffs on Brazil, sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/3/trump-and-lula-hold-phone-call-to-discuss-us-tariffs-on-brazil-sanctions?traffic_source=rss"
+          "title": "ICC judge speaks out on impact of US sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01532953281423793,
-      "chg5d": 0.026173412029229865,
-      "chg1m": -0.0277602103651434
+      "chg1d": -0.009860317025574208,
+      "chg5d": 0.015912252353519733,
+      "chg1m": -0.05133536705372961
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "ICC judge speaks out on impact of US sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0017831197992339866,
+      "chg5d": 0.06982156710628398,
+      "chg1m": -0.016213762241390494
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump and Lula hold phone call to discuss US tariffs on Brazil, sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/3/trump-and-lula-hold-phone-call-to-discuss-us-tariffs-on-brazil-sanctions?traffic_source=rss"
+          "title": "ICC judge speaks out on impact of US sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019108631513157257,
-      "chg5d": 0.12245145876779162,
-      "chg1m": 0.04677926418247213
+      "chg1d": 0.004008910694637292,
+      "chg5d": 0.10965192081497566,
+      "chg1m": 0.043498434600026226
     }
   ]
 }
