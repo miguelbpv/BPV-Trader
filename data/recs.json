@@ -1,29 +1,10 @@
 {
-  "generated_at": "2025-12-02T21:13:06.796660Z",
+  "generated_at": "2025-12-03T01:02:08.111962Z",
   "recs": [
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "OECD warns tariffs, AI will test resilience of the global economy",
-          "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
-        },
-        {
-          "title": "Costco sues Trump administration for US tariff refund",
-          "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.020039067762360193,
-      "chg5d": 0.07134771842943055,
-      "chg1m": -0.01200456695481979
-    },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.71,
+      "score": 1.7,
       "confianca": 48,
       "razoes": [
         {
@@ -35,14 +16,14 @@
           "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015190489432703019,
-      "chg5d": 0.026032883642495872,
-      "chg1m": -0.027893352860899362
+      "chg1d": 0.01532953281423793,
+      "chg5d": 0.026173412029229865,
+      "chg1m": -0.0277602103651434
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.71,
+      "score": 1.7,
       "confianca": 48,
       "razoes": [
         {
@@ -54,33 +35,33 @@
           "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019145396556953583,
-      "chg5d": 0.12249195197505607,
-      "chg1m": 0.046817027463345935
+      "chg1d": 0.019108631513157257,
+      "chg5d": 0.12245145876779162,
+      "chg1m": 0.04677926418247213
     },
     {
-      "symbol": "XLE",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.24,
-      "confianca": 35,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
-          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
+          "title": "OECD warns tariffs, AI will test resilience of the global economy",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
         },
         {
-          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
+          "title": "Costco sues Trump administration for US tariff refund",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
         }
       ],
-      "chg1d": -0.012428821725799288,
-      "chg5d": 0.011382752046652468,
-      "chg1m": 0.023317825938953898
+      "chg1d": 0.019938030445911217,
+      "chg5d": 0.07124159886805796,
+      "chg1m": -0.012102430272386352
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.24,
+      "score": 1.23,
       "confianca": 35,
       "razoes": [
         {
@@ -97,9 +78,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.24,
+      "score": 1.23,
       "confianca": 35,
       "razoes": [
         {
@@ -111,9 +92,28 @@
           "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006443680411666896,
-      "chg5d": -0.020041679599166452,
-      "chg1m": -0.10136618687484755
+      "chg1d": -0.012921594393342013,
+      "chg5d": 0.010878098015027463,
+      "chg1m": 0.022807216611823503
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005988296636990814,
+      "chg5d": -0.020485079590298428,
+      "chg1m": -0.10177279011140929
     }
   ]
 }
