@@ -1,50 +1,16 @@
 {
-  "generated_at": "2025-12-03T01:02:08.111962Z",
+  "generated_at": "2025-12-03T03:47:11.870360Z",
   "recs": [
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "OECD warns tariffs, AI will test resilience of the global economy",
-          "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
-        },
-        {
-          "title": "Costco sues Trump administration for US tariff refund",
-          "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01532953281423793,
-      "chg5d": 0.026173412029229865,
-      "chg1m": -0.0277602103651434
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "OECD warns tariffs, AI will test resilience of the global economy",
-          "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
-        },
-        {
-          "title": "Costco sues Trump administration for US tariff refund",
-          "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019108631513157257,
-      "chg5d": 0.12245145876779162,
-      "chg1m": 0.04677926418247213
-    },
-    {
       "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "acao": "comprar",
+      "score": 2.29,
+      "confianca": 65,
       "razoes": [
+        {
+          "title": "Trump and Lula hold phone call to discuss US tariffs on Brazil, sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/3/trump-and-lula-hold-phone-call-to-discuss-us-tariffs-on-brazil-sanctions?traffic_source=rss"
+        },
         {
           "title": "OECD warns tariffs, AI will test resilience of the global economy",
           "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
@@ -59,37 +25,60 @@
       "chg1m": -0.012102430272386352
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.29,
+      "confianca": 65,
       "razoes": [
         {
-          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
+          "title": "Trump and Lula hold phone call to discuss US tariffs on Brazil, sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/3/trump-and-lula-hold-phone-call-to-discuss-us-tariffs-on-brazil-sanctions?traffic_source=rss"
         },
         {
-          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
+          "title": "OECD warns tariffs, AI will test resilience of the global economy",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
+        },
+        {
+          "title": "Costco sues Trump administration for US tariff refund",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.019108631513157257,
+      "chg5d": 0.12245145876779162,
+      "chg1m": 0.04677926418247213
+    },
+    {
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.29,
+      "confianca": 65,
+      "razoes": [
+        {
+          "title": "Trump and Lula hold phone call to discuss US tariffs on Brazil, sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/3/trump-and-lula-hold-phone-call-to-discuss-us-tariffs-on-brazil-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "OECD warns tariffs, AI will test resilience of the global economy",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy?traffic_source=rss"
+        },
+        {
+          "title": "Costco sues Trump administration for US tariff refund",
+          "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01532953281423793,
+      "chg5d": 0.026173412029229865,
+      "chg1m": -0.0277602103651434
     },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": -0.012921594393342013,
@@ -97,18 +86,29 @@
       "chg1m": 0.022807216611823503
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
         {
-          "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
+          "title": "‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss"
         }
       ],
       "chg1d": 0.005988296636990814,
