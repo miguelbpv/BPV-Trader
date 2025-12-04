@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-03T21:12:52.559097Z",
+  "generated_at": "2025-12-04T01:01:50.393232Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Lebanon and Israel hold first direct talks in 40 years as war fears rise",
+          "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-hold-first-direct-talks-in-40-years-as-war-fears-rise?traffic_source=rss"
+        },
         {
           "title": "Israel accused of ‘manoeuvring’ as it says Gaza crossing open one way only",
           "url": "https://www.aljazeera.com/news/2025/12/3/israel-accused-of-manoeuvring-as-it-says-gaza-crossing-open-one-way-only?traffic_source=rss"
@@ -18,49 +22,22 @@
         {
           "title": "Yemen’s Houthis release 9 mariners held since July ship attack",
           "url": "https://www.aljazeera.com/news/2025/12/3/yemens-houthis-release-9-mariners-held-since-july-ship-attack?traffic_source=rss"
-        },
-        {
-          "title": "Israel preparing to receive remains found in northern Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Israel accused of ‘manoeuvring’ as it says Gaza crossing open one way only",
-          "url": "https://www.aljazeera.com/news/2025/12/3/israel-accused-of-manoeuvring-as-it-says-gaza-crossing-open-one-way-only?traffic_source=rss"
-        },
-        {
-          "title": "Why did it take months to free a US teen from Israeli prison?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/12/3/aje-onl-pal_mohammedibrahim_v4-031225?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis release 9 mariners held since July ship attack",
-          "url": "https://www.aljazeera.com/news/2025/12/3/yemens-houthis-release-9-mariners-held-since-july-ship-attack?traffic_source=rss"
-        },
-        {
-          "title": "Israel preparing to receive remains found in northern Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010909193789326012,
-      "chg5d": -0.012754138944762523,
-      "chg1m": -0.08464175923269252
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Lebanon and Israel hold first direct talks in 40 years as war fears rise",
+          "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-hold-first-direct-talks-in-40-years-as-war-fears-rise?traffic_source=rss"
+        },
         {
           "title": "Israel accused of ‘manoeuvring’ as it says Gaza crossing open one way only",
           "url": "https://www.aljazeera.com/news/2025/12/3/israel-accused-of-manoeuvring-as-it-says-gaza-crossing-open-one-way-only?traffic_source=rss"
@@ -72,66 +49,74 @@
         {
           "title": "Yemen’s Houthis release 9 mariners held since July ship attack",
           "url": "https://www.aljazeera.com/news/2025/12/3/yemens-houthis-release-9-mariners-held-since-july-ship-attack?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.018748613268249364,
+      "chg5d": 0.03633901365534363,
+      "chg1m": 0.041865214431586084
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.7,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "Lebanon and Israel hold first direct talks in 40 years as war fears rise",
+          "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-hold-first-direct-talks-in-40-years-as-war-fears-rise?traffic_source=rss"
         },
         {
-          "title": "Israel preparing to receive remains found in northern Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
+          "title": "Israel accused of ‘manoeuvring’ as it says Gaza crossing open one way only",
+          "url": "https://www.aljazeera.com/news/2025/12/3/israel-accused-of-manoeuvring-as-it-says-gaza-crossing-open-one-way-only?traffic_source=rss"
+        },
+        {
+          "title": "Why did it take months to free a US teen from Israeli prison?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/12/3/aje-onl-pal_mohammedibrahim_v4-031225?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Houthis release 9 mariners held since July ship attack",
+          "url": "https://www.aljazeera.com/news/2025/12/3/yemens-houthis-release-9-mariners-held-since-july-ship-attack?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01869314399822501,
-      "chg5d": 0.036282586615506186,
-      "chg1m": 0.04180848649875201
+      "chg1d": 0.011271558553257024,
+      "chg5d": -0.012400256404588788,
+      "chg1m": -0.08431364512030165
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
-          "title": "ICC judge speaks out on impact of US sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
+          "title": "Bessent to push residency requirement for regional US Fed bank presidents",
+          "url": "https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents?traffic_source=rss"
         }
       ],
-      "chg1d": 0.028599000703475926,
-      "chg5d": 0.13682940930204737,
-      "chg1m": 0.06905569824337758
+      "chg1d": 0.003462796942174246,
+      "chg5d": 0.013140351396995651,
+      "chg1m": 0.0008048701963882613
     },
     {
-      "symbol": "SOXX",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
-          "title": "ICC judge speaks out on impact of US sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
+          "title": "Bessent to push residency requirement for regional US Fed bank presidents",
+          "url": "https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02093514727248723,
-      "chg5d": 0.09027434938994296,
-      "chg1m": 0.0025942019586225155
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "ICC judge speaks out on impact of US sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009466260399192178,
-      "chg5d": 0.03574188562596604,
-      "chg1m": -0.03281834284589646
+      "chg1d": 0.018150670963005332,
+      "chg5d": 0.018316811487782032,
+      "chg1m": 0.01703063885267278
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Bessent to push residency requirement for regional US Fed bank presidents",
@@ -143,49 +128,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Bessent to push residency requirement for regional US Fed bank presidents",
-          "url": "https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01833421707386713,
-      "chg5d": 0.018500387549463537,
-      "chg1m": 0.017213983050847436
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Bessent to push residency requirement for regional US Fed bank presidents",
-          "url": "https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0032280310477895992,
-      "chg5d": 0.012903321383070186,
-      "chg1m": 0.000570726139257158
-    },
-    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Bessent to push residency requirement for regional US Fed bank presidents",
           "url": "https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0022668810289388558,
-      "chg5d": 0.023846671812642647,
-      "chg1m": -0.01371661814960143
+      "chg1d": 0.0024437299035369483,
+      "chg5d": 0.024027328417283902,
+      "chg1m": -0.013542589545627228
     }
   ]
 }
