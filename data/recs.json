@@ -1,38 +1,31 @@
 {
-  "generated_at": "2025-12-04T06:21:01.848852Z",
+  "generated_at": "2025-12-04T09:17:11.181893Z",
   "recs": [
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.21,
+      "confianca": 91,
       "razoes": [
         {
-          "title": "Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?",
-          "url": "https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve?traffic_source=rss"
+          "title": "Armed clashes reported between Yemeni army and southern separatists",
+          "url": "https://www.aljazeera.com/news/2025/12/4/armed-clashes-reported-between-yemeni-army-and-southern-separatists?traffic_source=rss"
         },
         {
-          "title": "Bessent to push residency requirement for regional US Fed bank presidents",
-          "url": "https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003462796942174246,
-      "chg5d": 0.013140351396995651,
-      "chg1m": 0.0008048701963882613
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?",
-          "url": "https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve?traffic_source=rss"
+          "title": "LIVE: Gaza mourns victims of Israeli genocide that ‘never really ended’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/4/live-gaza-mourns-victims-of-israeli-genocide-that-never-really-ended?traffic_source=rss"
         },
         {
-          "title": "Bessent to push residency requirement for regional US Fed bank presidents",
-          "url": "https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents?traffic_source=rss"
+          "title": "Video: Five killed in Israeli strike on Gaza encampment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/4/video-five-killed-in-israeli-strike-on-gaza-encampment?traffic_source=rss"
+        },
+        {
+          "title": "UN’s Guterres says Israel’s conduct of war in Gaza ‘fundamentally wrong’",
+          "url": "https://www.aljazeera.com/news/2025/12/4/uns-guterres-says-israels-conduct-of-war-in-gaza-fundamentally-wrong?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon and Israel hold first direct talks in 40 years as war fears rise",
+          "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-hold-first-direct-talks-in-40-years-as-war-fears-rise?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -40,56 +33,30 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?",
-          "url": "https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve?traffic_source=rss"
-        },
-        {
-          "title": "Bessent to push residency requirement for regional US Fed bank presidents",
-          "url": "https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0024437299035369483,
-      "chg5d": 0.024027328417283902,
-      "chg1m": -0.013542589545627228
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?",
-          "url": "https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve?traffic_source=rss"
-        },
-        {
-          "title": "Bessent to push residency requirement for regional US Fed bank presidents",
-          "url": "https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01819145898764126,
-      "chg5d": 0.018357606168155672,
-      "chg1m": 0.017071382007822676
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.21,
-      "confianca": 34,
+      "acao": "comprar",
+      "score": 3.21,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Armed clashes reported between Yemeni army and southern separatists",
+          "url": "https://www.aljazeera.com/news/2025/12/4/armed-clashes-reported-between-yemeni-army-and-southern-separatists?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Gaza mourns victims of Israeli genocide that ‘never really ended’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/4/live-gaza-mourns-victims-of-israeli-genocide-that-never-really-ended?traffic_source=rss"
+        },
+        {
+          "title": "Video: Five killed in Israeli strike on Gaza encampment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/4/video-five-killed-in-israeli-strike-on-gaza-encampment?traffic_source=rss"
+        },
+        {
+          "title": "UN’s Guterres says Israel’s conduct of war in Gaza ‘fundamentally wrong’",
+          "url": "https://www.aljazeera.com/news/2025/12/4/uns-guterres-says-israels-conduct-of-war-in-gaza-fundamentally-wrong?traffic_source=rss"
+        },
         {
           "title": "Lebanon and Israel hold first direct talks in 40 years as war fears rise",
           "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-hold-first-direct-talks-in-40-years-as-war-fears-rise?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills seven people in Gaza, says Rafah crossing to partially reopen",
-          "url": "https://www.aljazeera.com/news/2025/12/3/israel-accused-of-manoeuvring-as-it-says-gaza-crossing-open-one-way-only?traffic_source=rss"
         }
       ],
       "chg1d": 0.018748613268249364,
@@ -97,18 +64,45 @@
       "chg1m": 0.041865214431586084
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.21,
-      "confianca": 34,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.21,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Armed clashes reported between Yemeni army and southern separatists",
+          "url": "https://www.aljazeera.com/news/2025/12/4/armed-clashes-reported-between-yemeni-army-and-southern-separatists?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Gaza mourns victims of Israeli genocide that ‘never really ended’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/4/live-gaza-mourns-victims-of-israeli-genocide-that-never-really-ended?traffic_source=rss"
+        },
+        {
+          "title": "Video: Five killed in Israeli strike on Gaza encampment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/4/video-five-killed-in-israeli-strike-on-gaza-encampment?traffic_source=rss"
+        },
+        {
+          "title": "UN’s Guterres says Israel’s conduct of war in Gaza ‘fundamentally wrong’",
+          "url": "https://www.aljazeera.com/news/2025/12/4/uns-guterres-says-israels-conduct-of-war-in-gaza-fundamentally-wrong?traffic_source=rss"
+        },
         {
           "title": "Lebanon and Israel hold first direct talks in 40 years as war fears rise",
           "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-hold-first-direct-talks-in-40-years-as-war-fears-rise?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.011271558553257024,
+      "chg5d": -0.012400256404588788,
+      "chg1m": -0.08431364512030165
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
         {
-          "title": "Israel kills seven people in Gaza, says Rafah crossing to partially reopen",
-          "url": "https://www.aljazeera.com/news/2025/12/3/israel-accused-of-manoeuvring-as-it-says-gaza-crossing-open-one-way-only?traffic_source=rss"
+          "title": "Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?",
+          "url": "https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -116,23 +110,49 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 1.21,
-      "confianca": 34,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Lebanon and Israel hold first direct talks in 40 years as war fears rise",
-          "url": "https://www.aljazeera.com/news/2025/12/3/lebanon-and-israel-hold-first-direct-talks-in-40-years-as-war-fears-rise?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills seven people in Gaza, says Rafah crossing to partially reopen",
-          "url": "https://www.aljazeera.com/news/2025/12/3/israel-accused-of-manoeuvring-as-it-says-gaza-crossing-open-one-way-only?traffic_source=rss"
+          "title": "Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?",
+          "url": "https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011271558553257024,
-      "chg5d": -0.012400256404588788,
-      "chg1m": -0.08431364512030165
+      "chg1d": 0.003462796942174246,
+      "chg5d": 0.013140351396995651,
+      "chg1m": 0.0008048701963882613
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?",
+          "url": "https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01819145898764126,
+      "chg5d": 0.018357606168155672,
+      "chg1m": 0.017071382007822676
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?",
+          "url": "https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0024437299035369483,
+      "chg5d": 0.024027328417283902,
+      "chg1m": -0.013542589545627228
     }
   ]
 }
