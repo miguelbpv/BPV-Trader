@@ -1,39 +1,24 @@
 {
-  "generated_at": "2025-12-05T09:14:45.608012Z",
+  "generated_at": "2025-12-05T12:27:15.882512Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.55,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel sets military budget at $34bn as it keeps attacking Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel “art-washing its war crimes” through Eurovision",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss"
-        },
-        {
-          "title": "Putin challenges US pressure on India over Russian oil during state visit",
-          "url": "https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss"
-        },
-        {
-          "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
-          "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0042469781117282,
-      "chg5d": 0.03293010752688169,
-      "chg1m": 0.057690102075926154
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.55,
+      "score": 3.48,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Abu Shabab’s killing “a heavy hit” to Israeli-backed Gaza gangs",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/abu-shababs-killing-a-heavy-hit-to-israeli-backed-gaza-gangs?traffic_source=rss"
+        },
+        {
+          "title": "Iranian delegation in the US for World Cup draw after threatening boycott",
+          "url": "https://www.aljazeera.com/sports/2025/12/5/iranian-delegation-in-us-for-world-cup-draw-after-threatening-boycott?traffic_source=rss"
+        },
+        {
+          "title": "UNSC delegation meets Lebanon’s Aoun, tours south amid Israeli escalation",
+          "url": "https://www.aljazeera.com/news/2025/12/5/unsc-delegation-meets-lebanons-aoun-tours-south-amid-israeli-escalation?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel sets military budget at $34bn as it keeps attacking Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss"
@@ -41,14 +26,6 @@
         {
           "title": "Israel “art-washing its war crimes” through Eurovision",
           "url": "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss"
-        },
-        {
-          "title": "Putin challenges US pressure on India over Russian oil during state visit",
-          "url": "https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss"
-        },
-        {
-          "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
-          "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,11 +33,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "score": 3.48,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Abu Shabab’s killing “a heavy hit” to Israeli-backed Gaza gangs",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/abu-shababs-killing-a-heavy-hit-to-israeli-backed-gaza-gangs?traffic_source=rss"
+        },
+        {
+          "title": "Iranian delegation in the US for World Cup draw after threatening boycott",
+          "url": "https://www.aljazeera.com/sports/2025/12/5/iranian-delegation-in-us-for-world-cup-draw-after-threatening-boycott?traffic_source=rss"
+        },
+        {
+          "title": "UNSC delegation meets Lebanon’s Aoun, tours south amid Israeli escalation",
+          "url": "https://www.aljazeera.com/news/2025/12/5/unsc-delegation-meets-lebanons-aoun-tours-south-amid-israeli-escalation?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel sets military budget at $34bn as it keeps attacking Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss"
@@ -68,60 +57,42 @@
         {
           "title": "Israel “art-washing its war crimes” through Eurovision",
           "url": "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0042469781117282,
+      "chg5d": 0.03293010752688169,
+      "chg1m": 0.057690102075926154
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.48,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Abu Shabab’s killing “a heavy hit” to Israeli-backed Gaza gangs",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/abu-shababs-killing-a-heavy-hit-to-israeli-backed-gaza-gangs?traffic_source=rss"
         },
         {
-          "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
-          "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
+          "title": "Iranian delegation in the US for World Cup draw after threatening boycott",
+          "url": "https://www.aljazeera.com/sports/2025/12/5/iranian-delegation-in-us-for-world-cup-draw-after-threatening-boycott?traffic_source=rss"
+        },
+        {
+          "title": "UNSC delegation meets Lebanon’s Aoun, tours south amid Israeli escalation",
+          "url": "https://www.aljazeera.com/news/2025/12/5/unsc-delegation-meets-lebanons-aoun-tours-south-amid-israeli-escalation?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel sets military budget at $34bn as it keeps attacking Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel “art-washing its war crimes” through Eurovision",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss"
         }
       ],
       "chg1d": 0.0034691136974037856,
       "chg5d": -0.012792848335388414,
       "chg1m": -0.07552888778918718
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
-      "razoes": [
-        {
-          "title": "Putin, Modi discuss trade, peace at India summit amid US sanctions, tariffs",
-          "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.027030817235213812,
-      "chg5d": 0.06639000163309211,
-      "chg1m": 0.0776011027627311
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
-      "razoes": [
-        {
-          "title": "Putin, Modi discuss trade, peace at India summit amid US sanctions, tariffs",
-          "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009956038272562842,
-      "chg5d": 0.051099900477023875,
-      "chg1m": 0.033821643151285975
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
-      "razoes": [
-        {
-          "title": "Putin, Modi discuss trade, peace at India summit amid US sanctions, tariffs",
-          "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.008529361990184402,
-      "chg5d": 0.010242792109256544,
-      "chg1m": -0.003808876041489558
     }
   ]
 }
