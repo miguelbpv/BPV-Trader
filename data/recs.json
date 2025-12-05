@@ -1,42 +1,11 @@
 {
-  "generated_at": "2025-12-05T03:47:14.709419Z",
+  "generated_at": "2025-12-05T06:21:13.138263Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.01,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Putin challenges US pressure on India over Russian oil during state visit",
-          "url": "https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss"
-        },
-        {
-          "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
-          "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Four countries to boycott Eurovision 2026 over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/news/2025/12/4/spain-ireland-boycott-eurovision-song-contest-over-israels-inclusion?traffic_source=rss"
-        },
-        {
-          "title": "Qalqilya targeted as Israel escalates raids in northern West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/4/qalqilya-targeted-as-israel-escalates-raids-in-northern-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu will win again, because in Israel, ‘there is none like him’",
-          "url": "https://www.aljazeera.com/opinions/2025/12/4/netanyahu-will-win-again-because-in-israel-there-is-none-like-him?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0042469781117282,
-      "chg5d": 0.03293010752688169,
-      "chg1m": 0.057690102075926154
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.01,
-      "confianca": 95,
+      "score": 2.79,
+      "confianca": 79,
       "razoes": [
         {
           "title": "Putin challenges US pressure on India over Russian oil during state visit",
@@ -49,14 +18,6 @@
         {
           "title": "Four countries to boycott Eurovision 2026 over Israel’s inclusion",
           "url": "https://www.aljazeera.com/news/2025/12/4/spain-ireland-boycott-eurovision-song-contest-over-israels-inclusion?traffic_source=rss"
-        },
-        {
-          "title": "Qalqilya targeted as Israel escalates raids in northern West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/4/qalqilya-targeted-as-israel-escalates-raids-in-northern-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu will win again, because in Israel, ‘there is none like him’",
-          "url": "https://www.aljazeera.com/opinions/2025/12/4/netanyahu-will-win-again-because-in-israel-there-is-none-like-him?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,10 +25,33 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.68,
-      "confianca": 76,
+      "score": 2.79,
+      "confianca": 79,
+      "razoes": [
+        {
+          "title": "Putin challenges US pressure on India over Russian oil during state visit",
+          "url": "https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss"
+        },
+        {
+          "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
+          "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Four countries to boycott Eurovision 2026 over Israel’s inclusion",
+          "url": "https://www.aljazeera.com/news/2025/12/4/spain-ireland-boycott-eurovision-song-contest-over-israels-inclusion?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0042469781117282,
+      "chg5d": 0.03293010752688169,
+      "chg1m": 0.057690102075926154
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
       "razoes": [
         {
           "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
@@ -76,19 +60,56 @@
         {
           "title": "Four countries to boycott Eurovision 2026 over Israel’s inclusion",
           "url": "https://www.aljazeera.com/news/2025/12/4/spain-ireland-boycott-eurovision-song-contest-over-israels-inclusion?traffic_source=rss"
-        },
-        {
-          "title": "Qalqilya targeted as Israel escalates raids in northern West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/4/qalqilya-targeted-as-israel-escalates-raids-in-northern-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu will win again, because in Israel, ‘there is none like him’",
-          "url": "https://www.aljazeera.com/opinions/2025/12/4/netanyahu-will-win-again-because-in-israel-there-is-none-like-him?traffic_source=rss"
         }
       ],
       "chg1d": 0.0034691136974037856,
       "chg5d": -0.012792848335388414,
       "chg1m": -0.07552888778918718
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Putin, Modi kick off India summit as trade, US sanctions loom large",
+          "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009956038272562842,
+      "chg5d": 0.051099900477023875,
+      "chg1m": 0.033821643151285975
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Putin, Modi kick off India summit as trade, US sanctions loom large",
+          "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008529361990184402,
+      "chg5d": 0.010242792109256544,
+      "chg1m": -0.003808876041489558
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Putin, Modi kick off India summit as trade, US sanctions loom large",
+          "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.027030817235213812,
+      "chg5d": 0.06639000163309211,
+      "chg1m": 0.0776011027627311
     }
   ]
 }
