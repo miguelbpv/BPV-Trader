@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-12-05T18:17:09.401961Z",
+  "generated_at": "2025-12-05T21:12:17.540777Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.77,
+      "score": 3.79,
       "confianca": 95,
       "razoes": [
         {
@@ -22,20 +22,16 @@
         {
           "title": "‘Uninterrupted oil shipments’: Key takeaways from Putin-Modi talks in Delhi",
           "url": "https://www.aljazeera.com/news/2025/12/5/uninterrupted-oil-shipments-key-takeaways-from-putin-modi-talks-in-delhi?traffic_source=rss"
-        },
-        {
-          "title": "Abu Shabab’s killing “a heavy hit” to Israeli-backed Gaza gangs",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/abu-shababs-killing-a-heavy-hit-to-israeli-backed-gaza-gangs?traffic_source=rss"
         }
       ],
-      "chg1d": -0.4970180004337454,
-      "chg5d": -0.487175234936429,
-      "chg1m": -0.4694005948295585
+      "chg1d": -0.5018434179136847,
+      "chg5d": -0.4920950801547817,
+      "chg1m": -0.47449096316632355
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.77,
+      "score": 3.79,
       "confianca": 95,
       "razoes": [
         {
@@ -53,10 +49,6 @@
         {
           "title": "‘Uninterrupted oil shipments’: Key takeaways from Putin-Modi talks in Delhi",
           "url": "https://www.aljazeera.com/news/2025/12/5/uninterrupted-oil-shipments-key-takeaways-from-putin-modi-talks-in-delhi?traffic_source=rss"
-        },
-        {
-          "title": "Abu Shabab’s killing “a heavy hit” to Israeli-backed Gaza gangs",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/abu-shababs-killing-a-heavy-hit-to-israeli-backed-gaza-gangs?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,8 +58,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.43,
-      "confianca": 95,
+      "score": 2.46,
+      "confianca": 70,
       "razoes": [
         {
           "title": "Israel awaits return of final captive from Gaza amid fragile peace deal",
@@ -80,19 +72,11 @@
         {
           "title": "Who was Yasser Abu Shabab, the Israel-backed militia leader killed in Gaza?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/who-was-yasser-abu-shabab-the-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Abu Shabab’s killing “a heavy hit” to Israeli-backed Gaza gangs",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/abu-shababs-killing-a-heavy-hit-to-israeli-backed-gaza-gangs?traffic_source=rss"
-        },
-        {
-          "title": "Iranian delegation in the US for World Cup draw after threatening boycott",
-          "url": "https://www.aljazeera.com/sports/2025/12/5/iranian-delegation-in-us-for-world-cup-draw-after-threatening-boycott?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0011821121891378893,
-      "chg5d": -0.019612982134276893,
-      "chg1m": -0.05127446421777908
+      "chg1d": 0.007048065127690349,
+      "chg5d": -0.01386886821299092,
+      "chg1m": -0.04571585577207591
     }
   ]
 }
