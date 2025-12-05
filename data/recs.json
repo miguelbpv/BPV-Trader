@@ -1,35 +1,20 @@
 {
-  "generated_at": "2025-12-05T06:21:13.138263Z",
+  "generated_at": "2025-12-05T09:14:45.608012Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.79,
-      "confianca": 79,
-      "razoes": [
-        {
-          "title": "Putin challenges US pressure on India over Russian oil during state visit",
-          "url": "https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss"
-        },
-        {
-          "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
-          "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Four countries to boycott Eurovision 2026 over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/news/2025/12/4/spain-ireland-boycott-eurovision-song-contest-over-israels-inclusion?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.79,
-      "confianca": 79,
+      "score": 3.55,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel sets military budget at $34bn as it keeps attacking Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel “art-washing its war crimes” through Eurovision",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss"
+        },
         {
           "title": "Putin challenges US pressure on India over Russian oil during state visit",
           "url": "https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss"
@@ -37,10 +22,6 @@
         {
           "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
           "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Four countries to boycott Eurovision 2026 over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/news/2025/12/4/spain-ireland-boycott-eurovision-song-contest-over-israels-inclusion?traffic_source=rss"
         }
       ],
       "chg1d": 0.0042469781117282,
@@ -48,18 +29,49 @@
       "chg1m": 0.057690102075926154
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.55,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel sets military budget at $34bn as it keeps attacking Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel “art-washing its war crimes” through Eurovision",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss"
+        },
+        {
+          "title": "Putin challenges US pressure on India over Russian oil during state visit",
+          "url": "https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss"
+        },
         {
           "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
           "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "LIVE: Israel sets military budget at $34bn as it keeps attacking Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss"
         },
         {
-          "title": "Four countries to boycott Eurovision 2026 over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/news/2025/12/4/spain-ireland-boycott-eurovision-song-contest-over-israels-inclusion?traffic_source=rss"
+          "title": "Israel “art-washing its war crimes” through Eurovision",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss"
+        },
+        {
+          "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
+          "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0034691136974037856,
@@ -67,13 +79,28 @@
       "chg1m": -0.07552888778918718
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 0.6,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "Putin, Modi kick off India summit as trade, US sanctions loom large",
+          "title": "Putin, Modi discuss trade, peace at India summit amid US sanctions, tariffs",
+          "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.027030817235213812,
+      "chg5d": 0.06639000163309211,
+      "chg1m": 0.0776011027627311
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.6,
+      "confianca": 17,
+      "razoes": [
+        {
+          "title": "Putin, Modi discuss trade, peace at India summit amid US sanctions, tariffs",
           "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
         }
       ],
@@ -84,32 +111,17 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 0.6,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "Putin, Modi kick off India summit as trade, US sanctions loom large",
+          "title": "Putin, Modi discuss trade, peace at India summit amid US sanctions, tariffs",
           "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
         }
       ],
       "chg1d": -0.008529361990184402,
       "chg5d": 0.010242792109256544,
       "chg1m": -0.003808876041489558
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Putin, Modi kick off India summit as trade, US sanctions loom large",
-          "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.027030817235213812,
-      "chg5d": 0.06639000163309211,
-      "chg1m": 0.0776011027627311
     }
   ]
 }
