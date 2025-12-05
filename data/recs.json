@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-12-05T01:02:20.824656Z",
+  "generated_at": "2025-12-05T03:47:14.709419Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.27,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Putin challenges US pressure on India over Russian oil during state visit",
-          "url": "https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss"
-        },
-        {
-          "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
-          "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Four countries to boycott Eurovision 2026 over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/news/2025/12/4/spain-ireland-boycott-eurovision-song-contest-over-israels-inclusion?traffic_source=rss"
-        },
-        {
-          "title": "Qalqilya targeted as Israel escalates raids in northern West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/4/qalqilya-targeted-as-israel-escalates-raids-in-northern-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu will win again, because in Israel, ‘there is none like him’",
-          "url": "https://www.aljazeera.com/opinions/2025/12/4/netanyahu-will-win-again-because-in-israel-there-is-none-like-him?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.27,
+      "score": 4.01,
       "confianca": 95,
       "razoes": [
         {
@@ -64,10 +33,41 @@
       "chg1m": 0.057690102075926154
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.01,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Putin challenges US pressure on India over Russian oil during state visit",
+          "url": "https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss"
+        },
+        {
+          "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
+          "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Four countries to boycott Eurovision 2026 over Israel’s inclusion",
+          "url": "https://www.aljazeera.com/news/2025/12/4/spain-ireland-boycott-eurovision-song-contest-over-israels-inclusion?traffic_source=rss"
+        },
+        {
+          "title": "Qalqilya targeted as Israel escalates raids in northern West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/4/qalqilya-targeted-as-israel-escalates-raids-in-northern-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu will win again, because in Israel, ‘there is none like him’",
+          "url": "https://www.aljazeera.com/opinions/2025/12/4/netanyahu-will-win-again-because-in-israel-there-is-none-like-him?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
           "title": "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
@@ -84,10 +84,6 @@
         {
           "title": "Netanyahu will win again, because in Israel, ‘there is none like him’",
           "url": "https://www.aljazeera.com/opinions/2025/12/4/netanyahu-will-win-again-because-in-israel-there-is-none-like-him?traffic_source=rss"
-        },
-        {
-          "title": "Another devastating Israeli strike on Lebanon captured on video",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/4/another-devastating-israeli-strike-on-lebanon-captured-on-video?traffic_source=rss"
         }
       ],
       "chg1d": 0.0034691136974037856,
