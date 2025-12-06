@@ -1,34 +1,11 @@
 {
-  "generated_at": "2025-12-06T18:17:27.199401Z",
+  "generated_at": "2025-12-06T21:11:06.633648Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
-        },
-        {
-          "title": "Arab, Muslim nations reject Israel exit-only plan for Gaza’s Rafah crossing",
-          "url": "https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.5020602906094123,
-      "chg5d": -0.4923161967938087,
-      "chg1m": -0.4747197437657287
-    },
-    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
@@ -37,10 +14,6 @@
         {
           "title": "LIVE: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
-        },
-        {
-          "title": "Arab, Muslim nations reject Israel exit-only plan for Gaza’s Rafah crossing",
-          "url": "https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss"
         }
       ],
       "chg1d": 0.008587041373926543,
@@ -49,9 +22,9 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
@@ -60,15 +33,45 @@
         {
           "title": "LIVE: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
-        },
-        {
-          "title": "Arab, Muslim nations reject Israel exit-only plan for Gaza’s Rafah crossing",
-          "url": "https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
+          "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.5020602906094123,
+      "chg5d": -0.4923161967938087,
+      "chg1m": -0.4747197437657287
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.6,
+      "confianca": 17,
+      "razoes": [
+        {
+          "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/6/francesca-albanese-tells-al-jazeera-us-sanctions-have-made-her-non-person?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01018675721561971,
+      "chg5d": 0.04266361124216475,
+      "chg1m": 0.012865420499557894
     },
     {
       "symbol": "ASML.AS",
@@ -99,21 +102,6 @@
       "chg1d": 0.00611067490526754,
       "chg5d": 0.011011629103632934,
       "chg1m": 0.003677973028197933
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
-      "razoes": [
-        {
-          "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/6/francesca-albanese-tells-al-jazeera-us-sanctions-have-made-her-non-person?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01018675721561971,
-      "chg5d": 0.04266361124216475,
-      "chg1m": 0.012865420499557894
     }
   ]
 }
