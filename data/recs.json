@@ -1,36 +1,6 @@
 {
-  "generated_at": "2025-12-06T09:12:30.720234Z",
+  "generated_at": "2025-12-06T12:23:18.133034Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Arab, Muslim nations reject Israel exit-only plan for Gaza Rafah crossing",
-          "url": "https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008587041373926543,
-      "chg5d": -0.012361857336303728,
-      "chg1m": -0.044257513632328695
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Arab, Muslim nations reject Israel exit-only plan for Gaza Rafah crossing",
-          "url": "https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
@@ -38,7 +8,7 @@
       "confianca": 21,
       "razoes": [
         {
-          "title": "Arab, Muslim nations reject Israel exit-only plan for Gaza Rafah crossing",
+          "title": "Arab, Muslim nations reject Israel exit-only plan for Gaza’s Rafah crossing",
           "url": "https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss"
         }
       ],
@@ -47,10 +17,55 @@
       "chg1m": -0.4747197437657287
     },
     {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Arab, Muslim nations reject Israel exit-only plan for Gaza’s Rafah crossing",
+          "url": "https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Arab, Muslim nations reject Israel exit-only plan for Gaza’s Rafah crossing",
+          "url": "https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008587041373926543,
+      "chg5d": -0.012361857336303728,
+      "chg1m": -0.044257513632328695
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.59,
+      "confianca": 16,
+      "razoes": [
+        {
+          "title": "Australia sanctions Afghan Taliban officials over women’s rights abuses",
+          "url": "https://www.aljazeera.com/news/2025/12/6/australia-sanctions-afghan-taliban-officials-over-womens-rights-abuses?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01018675721561971,
+      "chg5d": 0.04266361124216475,
+      "chg1m": 0.012865420499557894
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
+      "score": 0.59,
+      "confianca": 16,
       "razoes": [
         {
           "title": "Australia sanctions Afghan Taliban officials over women’s rights abuses",
@@ -64,8 +79,8 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
+      "score": 0.59,
+      "confianca": 16,
       "razoes": [
         {
           "title": "Australia sanctions Afghan Taliban officials over women’s rights abuses",
@@ -75,21 +90,6 @@
       "chg1d": 0.00611067490526754,
       "chg5d": 0.011011629103632934,
       "chg1m": 0.003677973028197933
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
-      "razoes": [
-        {
-          "title": "Australia sanctions Afghan Taliban officials over women’s rights abuses",
-          "url": "https://www.aljazeera.com/news/2025/12/6/australia-sanctions-afghan-taliban-officials-over-womens-rights-abuses?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01018675721561971,
-      "chg5d": 0.04266361124216475,
-      "chg1m": 0.012865420499557894
     }
   ]
 }
