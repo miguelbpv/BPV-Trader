@@ -1,19 +1,30 @@
 {
-  "generated_at": "2025-12-06T00:59:15.599971Z",
+  "generated_at": "2025-12-06T03:38:57.329587Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Israel awaits return of final captive from Gaza amid fragile peace deal",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/israel-awaits-return-of-final-captive-from-gaza-amid-fragile-peace-deal?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": -0.5020602906094123,
+      "chg5d": -0.4923161967938087,
+      "chg1m": -0.4747197437657287
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
         {
-          "title": "Eurovision hit by boycotts over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/eurovision-hit-by-boycotts-over-israels-inclusion?traffic_source=rss"
+          "title": "Israel awaits return of final captive from Gaza amid fragile peace deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/israel-awaits-return-of-final-captive-from-gaza-amid-fragile-peace-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.008587041373926543,
@@ -23,40 +34,17 @@
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Israel awaits return of final captive from Gaza amid fragile peace deal",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/israel-awaits-return-of-final-captive-from-gaza-amid-fragile-peace-deal?traffic_source=rss"
-        },
-        {
-          "title": "Eurovision hit by boycotts over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/eurovision-hit-by-boycotts-over-israels-inclusion?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Israel awaits return of final captive from Gaza amid fragile peace deal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/israel-awaits-return-of-final-captive-from-gaza-amid-fragile-peace-deal?traffic_source=rss"
-        },
-        {
-          "title": "Eurovision hit by boycotts over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/eurovision-hit-by-boycotts-over-israels-inclusion?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.5020602906094123,
-      "chg5d": -0.4923161967938087,
-      "chg1m": -0.4747197437657287
     }
   ]
 }
