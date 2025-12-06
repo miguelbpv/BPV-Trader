@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T21:12:17.540777Z",
+  "generated_at": "2025-12-06T00:59:15.599971Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.79,
-      "confianca": 95,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Israel awaits return of final captive from Gaza amid fragile peace deal",
@@ -14,25 +14,17 @@
         {
           "title": "Eurovision hit by boycotts over Israel’s inclusion",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/eurovision-hit-by-boycotts-over-israels-inclusion?traffic_source=rss"
-        },
-        {
-          "title": "Who was Yasser Abu Shabab, the Israel-backed militia leader killed in Gaza?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/who-was-yasser-abu-shabab-the-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "‘Uninterrupted oil shipments’: Key takeaways from Putin-Modi talks in Delhi",
-          "url": "https://www.aljazeera.com/news/2025/12/5/uninterrupted-oil-shipments-key-takeaways-from-putin-modi-talks-in-delhi?traffic_source=rss"
         }
       ],
-      "chg1d": -0.5018434179136847,
-      "chg5d": -0.4920950801547817,
-      "chg1m": -0.47449096316632355
+      "chg1d": 0.008587041373926543,
+      "chg5d": -0.012361857336303728,
+      "chg1m": -0.044257513632328695
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.79,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Israel awaits return of final captive from Gaza amid fragile peace deal",
@@ -41,14 +33,6 @@
         {
           "title": "Eurovision hit by boycotts over Israel’s inclusion",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/eurovision-hit-by-boycotts-over-israels-inclusion?traffic_source=rss"
-        },
-        {
-          "title": "Who was Yasser Abu Shabab, the Israel-backed militia leader killed in Gaza?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/who-was-yasser-abu-shabab-the-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "‘Uninterrupted oil shipments’: Key takeaways from Putin-Modi talks in Delhi",
-          "url": "https://www.aljazeera.com/news/2025/12/5/uninterrupted-oil-shipments-key-takeaways-from-putin-modi-talks-in-delhi?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,10 +40,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.46,
-      "confianca": 70,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Israel awaits return of final captive from Gaza amid fragile peace deal",
@@ -68,15 +52,11 @@
         {
           "title": "Eurovision hit by boycotts over Israel’s inclusion",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/eurovision-hit-by-boycotts-over-israels-inclusion?traffic_source=rss"
-        },
-        {
-          "title": "Who was Yasser Abu Shabab, the Israel-backed militia leader killed in Gaza?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/who-was-yasser-abu-shabab-the-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007048065127690349,
-      "chg5d": -0.01386886821299092,
-      "chg1m": -0.04571585577207591
+      "chg1d": -0.5020602906094123,
+      "chg5d": -0.4923161967938087,
+      "chg1m": -0.4747197437657287
     }
   ]
 }
