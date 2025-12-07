@@ -1,18 +1,26 @@
 {
-  "generated_at": "2025-12-06T21:11:06.633648Z",
+  "generated_at": "2025-12-07T01:08:06.073883Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
+          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
+          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
+        },
         {
           "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
           "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
+          "title": "Updates: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
         }
       ],
@@ -21,36 +29,25 @@
       "chg1m": -0.044257513632328695
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
+          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
+          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
+        },
         {
           "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
           "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
+          "title": "Updates: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
         }
       ],
@@ -59,25 +56,37 @@
       "chg1m": -0.4747197437657287
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/6/francesca-albanese-tells-al-jazeera-us-sanctions-have-made-her-non-person?traffic_source=rss"
+          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
+          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
+          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
+        },
+        {
+          "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
+          "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
+        },
+        {
+          "title": "Updates: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01018675721561971,
-      "chg5d": 0.04266361124216475,
-      "chg1m": 0.012865420499557894
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
+      "score": 0.59,
+      "confianca": 16,
       "razoes": [
         {
           "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
@@ -91,8 +100,8 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
+      "score": 0.59,
+      "confianca": 16,
       "razoes": [
         {
           "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
@@ -102,6 +111,21 @@
       "chg1d": 0.00611067490526754,
       "chg5d": 0.011011629103632934,
       "chg1m": 0.003677973028197933
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.59,
+      "confianca": 16,
+      "razoes": [
+        {
+          "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/6/francesca-albanese-tells-al-jazeera-us-sanctions-have-made-her-non-person?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01018675721561971,
+      "chg5d": 0.04266361124216475,
+      "chg1m": 0.012865420499557894
     }
   ]
 }
