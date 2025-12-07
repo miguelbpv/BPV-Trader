@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-07T06:18:23.498440Z",
+  "generated_at": "2025-12-07T09:12:33.921366Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
@@ -18,14 +22,33 @@
         {
           "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
           "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008587041373926543,
+      "chg5d": -0.012361857336303728,
+      "chg1m": -0.044257513632328695
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
+          "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
         },
         {
-          "title": "Updates: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
+          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
+          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
+          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
         }
       ],
       "chg1d": -0.5020602906094123,
@@ -35,9 +58,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
@@ -49,50 +76,11 @@
         {
           "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
           "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
-        },
-        {
-          "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
-        },
-        {
-          "title": "Updates: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
-          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
-          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
-        },
-        {
-          "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
-        },
-        {
-          "title": "Updates: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008587041373926543,
-      "chg5d": -0.012361857336303728,
-      "chg1m": -0.044257513632328695
     }
   ]
 }
