@@ -1,42 +1,11 @@
 {
-  "generated_at": "2025-12-07T18:17:26.211233Z",
+  "generated_at": "2025-12-07T21:10:39.207376Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.69,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Abu Shabab’s death signals the inevitable failure of Israel’s plan for Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/12/7/abu-shababs-death-signals-the-inevitable-failure-of-israels-plan-for-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Muslim scholar says staying vocal about Gaza matters amid Israeli assaults",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/7/muslim-scholar-says-staying-vocal-about-gaza-matters-amid-israeli-assaults?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s Merz meets Netanyahu under shadow of Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/7/germanys-merz-meets-netanyahu-under-shadow-of-israels-war-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "German chancellor “signals business as usual” on Israel trip",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-renewildangel_qt-071225?traffic_source=rss"
-        },
-        {
-          "title": "No essential supplies in truce: Gaza’s healthcare system broken by Israel",
-          "url": "https://www.aljazeera.com/news/2025/12/7/no-gauze-no-gloves-israels-severe-restrictions-on-medical-aid-to-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008587041373926543,
-      "chg5d": -0.012361857336303728,
-      "chg1m": -0.044257513632328695
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.69,
-      "confianca": 95,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
         {
           "title": "Abu Shabab’s death signals the inevitable failure of Israel’s plan for Gaza",
@@ -53,10 +22,6 @@
         {
           "title": "German chancellor “signals business as usual” on Israel trip",
           "url": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-renewildangel_qt-071225?traffic_source=rss"
-        },
-        {
-          "title": "No essential supplies in truce: Gaza’s healthcare system broken by Israel",
-          "url": "https://www.aljazeera.com/news/2025/12/7/no-gauze-no-gloves-israels-severe-restrictions-on-medical-aid-to-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,10 +29,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.69,
-      "confianca": 95,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
         {
           "title": "Abu Shabab’s death signals the inevitable failure of Israel’s plan for Gaza",
@@ -84,10 +49,33 @@
         {
           "title": "German chancellor “signals business as usual” on Israel trip",
           "url": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-renewildangel_qt-071225?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008587041373926543,
+      "chg5d": -0.012361857336303728,
+      "chg1m": -0.044257513632328695
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Abu Shabab’s death signals the inevitable failure of Israel’s plan for Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/12/7/abu-shababs-death-signals-the-inevitable-failure-of-israels-plan-for-gaza?traffic_source=rss"
         },
         {
-          "title": "No essential supplies in truce: Gaza’s healthcare system broken by Israel",
-          "url": "https://www.aljazeera.com/news/2025/12/7/no-gauze-no-gloves-israels-severe-restrictions-on-medical-aid-to-gaza?traffic_source=rss"
+          "title": "Muslim scholar says staying vocal about Gaza matters amid Israeli assaults",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/7/muslim-scholar-says-staying-vocal-about-gaza-matters-amid-israeli-assaults?traffic_source=rss"
+        },
+        {
+          "title": "Germany’s Merz meets Netanyahu under shadow of Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/7/germanys-merz-meets-netanyahu-under-shadow-of-israels-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "German chancellor “signals business as usual” on Israel trip",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-renewildangel_qt-071225?traffic_source=rss"
         }
       ],
       "chg1d": -0.5020602906094123,
