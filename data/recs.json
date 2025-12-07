@@ -1,39 +1,16 @@
 {
-  "generated_at": "2025-12-07T03:54:18.265751Z",
+  "generated_at": "2025-12-07T06:18:23.498440Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
-          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
-          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
-        },
-        {
-          "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
-          "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
-        },
-        {
-          "title": "Updates: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008587041373926543,
-      "chg5d": -0.012361857336303728,
-      "chg1m": -0.044257513632328695
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
+      "score": 3.65,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
+        },
         {
           "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
           "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
@@ -58,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
+      "score": 3.65,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
+        },
         {
           "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
           "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
@@ -83,49 +64,35 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.58,
-      "confianca": 16,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.65,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/6/francesca-albanese-tells-al-jazeera-us-sanctions-have-made-her-non-person?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01018675721561971,
-      "chg5d": 0.04266361124216475,
-      "chg1m": 0.012865420499557894
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.58,
-      "confianca": 16,
-      "razoes": [
+          "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
+        },
         {
-          "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/6/francesca-albanese-tells-al-jazeera-us-sanctions-have-made-her-non-person?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00611067490526754,
-      "chg5d": 0.011011629103632934,
-      "chg1m": 0.003677973028197933
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.58,
-      "confianca": 16,
-      "razoes": [
+          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
+          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
+        },
         {
-          "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/6/francesca-albanese-tells-al-jazeera-us-sanctions-have-made-her-non-person?traffic_source=rss"
+          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
+          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
+        },
+        {
+          "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
+          "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
+        },
+        {
+          "title": "Updates: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009557869703084372,
-      "chg5d": 0.0372358490566038,
-      "chg1m": 0.05338443113772458
+      "chg1d": 0.008587041373926543,
+      "chg5d": -0.012361857336303728,
+      "chg1m": -0.044257513632328695
     }
   ]
 }
