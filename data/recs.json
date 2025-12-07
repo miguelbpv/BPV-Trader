@@ -1,39 +1,20 @@
 {
-  "generated_at": "2025-12-07T09:12:33.921366Z",
+  "generated_at": "2025-12-07T12:23:02.900681Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
-          "url": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
-          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
-          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008587041373926543,
-      "chg5d": -0.012361857336303728,
-      "chg1m": -0.044257513632328695
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.94,
+      "score": 2.97,
       "confianca": 84,
       "razoes": [
+        {
+          "title": "German chancellor “signals business as usual” on Israel trip",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-renewildangel_qt-071225?traffic_source=rss"
+        },
+        {
+          "title": "No essential supplies in truce: Gaza’s healthcare system broken by Israel",
+          "url": "https://www.aljazeera.com/news/2025/12/7/no-gauze-no-gloves-israels-severe-restrictions-on-medical-aid-to-gaza?traffic_source=rss"
+        },
         {
           "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
           "url": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss"
@@ -41,14 +22,6 @@
         {
           "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
-          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
-          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
         }
       ],
       "chg1d": -0.5020602906094123,
@@ -56,11 +29,19 @@
       "chg1m": -0.4747197437657287
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.94,
+      "score": 2.97,
       "confianca": 84,
       "razoes": [
+        {
+          "title": "German chancellor “signals business as usual” on Israel trip",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-renewildangel_qt-071225?traffic_source=rss"
+        },
+        {
+          "title": "No essential supplies in truce: Gaza’s healthcare system broken by Israel",
+          "url": "https://www.aljazeera.com/news/2025/12/7/no-gauze-no-gloves-israels-severe-restrictions-on-medical-aid-to-gaza?traffic_source=rss"
+        },
         {
           "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
           "url": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss"
@@ -68,14 +49,33 @@
         {
           "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008587041373926543,
+      "chg5d": -0.012361857336303728,
+      "chg1m": -0.044257513632328695
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.97,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "German chancellor “signals business as usual” on Israel trip",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-renewildangel_qt-071225?traffic_source=rss"
         },
         {
-          "title": "Germany’s Merz makes first visit to Israel as chancellor amid strained ties",
-          "url": "https://www.aljazeera.com/news/2025/12/6/germanys-merz-makes-first-visit-to-israel-as-chancellor-amid-strained-ties?traffic_source=rss"
+          "title": "No essential supplies in truce: Gaza’s healthcare system broken by Israel",
+          "url": "https://www.aljazeera.com/news/2025/12/7/no-gauze-no-gloves-israels-severe-restrictions-on-medical-aid-to-gaza?traffic_source=rss"
         },
         {
-          "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
-          "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss"
+          "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
+          "url": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
