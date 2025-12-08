@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-12-08T15:15:06.482504Z",
+  "generated_at": "2025-12-08T18:20:26.352917Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.18,
+      "score": 3.58,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Yemeni separatist group claims broad control of south",
+          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
+        },
+        {
+          "title": "Condemnation as Israel raids UNRWA HQ in East Jerusalem, removes UN flag",
+          "url": "https://www.aljazeera.com/news/2025/12/8/condemnation-as-israel-raids-unrwa-hq-in-east-jerusalem-removes-un-flag?traffic_source=rss"
+        },
         {
           "title": "Trump to host Netanyahu at White House on December 29: Israeli government",
           "url": "https://www.aljazeera.com/news/2025/12/8/trump-to-host-netanyahu-at-white-house-on-december-29-israeli-government?traffic_source=rss"
@@ -14,26 +22,26 @@
         {
           "title": "RSF seizes key Heglig oilfield as it pushes to expand control in Sudan",
           "url": "https://www.aljazeera.com/news/2025/12/8/rsf-claims-seizure-of-key-heglig-oil-field-in-sudan?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s chancellor pledges staunch support in Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/germanys-chancellor-pledges-staunch-support-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Benin’s foiled coup: How it unfolded and what we know",
-          "url": "https://www.aljazeera.com/news/2025/12/8/benins-foiled-coup-how-it-unfolded-and-what-we-know?traffic_source=rss"
         }
       ],
-      "chg1d": -0.002831010452961728,
-      "chg5d": -0.4985764345159877,
-      "chg1m": -0.4812507080548318
+      "chg1d": -0.010017421602787475,
+      "chg5d": -0.5021901007446342,
+      "chg1m": -0.4849892375665571
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.18,
+      "score": 3.58,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Yemeni separatist group claims broad control of south",
+          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
+        },
+        {
+          "title": "Condemnation as Israel raids UNRWA HQ in East Jerusalem, removes UN flag",
+          "url": "https://www.aljazeera.com/news/2025/12/8/condemnation-as-israel-raids-unrwa-hq-in-east-jerusalem-removes-un-flag?traffic_source=rss"
+        },
         {
           "title": "Trump to host Netanyahu at White House on December 29: Israeli government",
           "url": "https://www.aljazeera.com/news/2025/12/8/trump-to-host-netanyahu-at-white-house-on-december-29-israeli-government?traffic_source=rss"
@@ -41,14 +49,6 @@
         {
           "title": "RSF seizes key Heglig oilfield as it pushes to expand control in Sudan",
           "url": "https://www.aljazeera.com/news/2025/12/8/rsf-claims-seizure-of-key-heglig-oil-field-in-sudan?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s chancellor pledges staunch support in Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/germanys-chancellor-pledges-staunch-support-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Benin’s foiled coup: How it unfolded and what we know",
-          "url": "https://www.aljazeera.com/news/2025/12/8/benins-foiled-coup-how-it-unfolded-and-what-we-know?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -57,22 +57,26 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Yemeni separatist group claims broad control of south",
+          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
+        },
+        {
+          "title": "Condemnation as Israel raids UNRWA HQ in East Jerusalem, removes UN flag",
+          "url": "https://www.aljazeera.com/news/2025/12/8/condemnation-as-israel-raids-unrwa-hq-in-east-jerusalem-removes-un-flag?traffic_source=rss"
+        },
         {
           "title": "Trump to host Netanyahu at White House on December 29: Israeli government",
           "url": "https://www.aljazeera.com/news/2025/12/8/trump-to-host-netanyahu-at-white-house-on-december-29-israeli-government?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s chancellor pledges staunch support in Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/germanys-chancellor-pledges-staunch-support-in-israel?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01674038036267137,
-      "chg5d": 0.046858990414171506,
-      "chg1m": -0.01951292331314517
+      "chg1d": 0.022843874391861974,
+      "chg5d": 0.05314328650470178,
+      "chg1m": -0.013627057920327652
     }
   ]
 }
