@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T01:02:21.187064Z",
+  "generated_at": "2025-12-08T03:52:01.945025Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 2.9,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Hamas and Israel move towards phase two of US-backed Gaza plan",
@@ -24,15 +24,15 @@
           "url": "https://www.aljazeera.com/news/2025/12/7/germanys-merz-meets-netanyahu-under-shadow-of-israels-war-on-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008587041373926543,
-      "chg5d": -0.012361857336303728,
-      "chg1m": -0.044257513632328695
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 2.9,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Hamas and Israel move towards phase two of US-backed Gaza plan",
@@ -56,10 +56,10 @@
       "chg1m": -0.4747197437657287
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 2.9,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Hamas and Israel move towards phase two of US-backed Gaza plan",
@@ -78,9 +78,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/7/germanys-merz-meets-netanyahu-under-shadow-of-israels-war-on-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.008587041373926543,
+      "chg5d": -0.012361857336303728,
+      "chg1m": -0.044257513632328695
     }
   ]
 }
