@@ -1,37 +1,10 @@
 {
-  "generated_at": "2025-12-08T03:52:01.945025Z",
+  "generated_at": "2025-12-08T06:23:05.665777Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.9,
-      "confianca": 82,
-      "razoes": [
-        {
-          "title": "Hamas and Israel move towards phase two of US-backed Gaza plan",
-          "url": "https://www.aljazeera.com/news/2025/12/7/hamas-and-israel-move-towards-phase-two-of-us-backed-gaza-plan?traffic_source=rss"
-        },
-        {
-          "title": "Abu Shabab’s death signals the inevitable failure of Israel’s plan for Gaza",
-          "url": "https://www.aljazeera.com/opinions/2025/12/7/abu-shababs-death-signals-the-inevitable-failure-of-israels-plan-for-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Muslim scholar says staying vocal about Gaza matters amid Israeli assaults",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/7/muslim-scholar-says-staying-vocal-about-gaza-matters-amid-israeli-assaults?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s Merz meets Netanyahu under shadow of Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/7/germanys-merz-meets-netanyahu-under-shadow-of-israels-war-on-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.9,
+      "score": 2.88,
       "confianca": 82,
       "razoes": [
         {
@@ -58,7 +31,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.9,
+      "score": 2.88,
       "confianca": 82,
       "razoes": [
         {
@@ -81,6 +54,33 @@
       "chg1d": 0.008587041373926543,
       "chg5d": -0.012361857336303728,
       "chg1m": -0.044257513632328695
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.88,
+      "confianca": 82,
+      "razoes": [
+        {
+          "title": "Hamas and Israel move towards phase two of US-backed Gaza plan",
+          "url": "https://www.aljazeera.com/news/2025/12/7/hamas-and-israel-move-towards-phase-two-of-us-backed-gaza-plan?traffic_source=rss"
+        },
+        {
+          "title": "Abu Shabab’s death signals the inevitable failure of Israel’s plan for Gaza",
+          "url": "https://www.aljazeera.com/opinions/2025/12/7/abu-shababs-death-signals-the-inevitable-failure-of-israels-plan-for-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Muslim scholar says staying vocal about Gaza matters amid Israeli assaults",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/7/muslim-scholar-says-staying-vocal-about-gaza-matters-amid-israeli-assaults?traffic_source=rss"
+        },
+        {
+          "title": "Germany’s Merz meets Netanyahu under shadow of Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/7/germanys-merz-meets-netanyahu-under-shadow-of-israels-war-on-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
