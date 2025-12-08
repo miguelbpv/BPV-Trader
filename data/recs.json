@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-08T18:20:26.352917Z",
+  "generated_at": "2025-12-08T21:11:59.910500Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.58,
-      "confianca": 95,
+      "score": 2.97,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
+        },
         {
           "title": "Yemeni separatist group claims broad control of south",
           "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
@@ -18,22 +22,22 @@
         {
           "title": "Trump to host Netanyahu at White House on December 29: Israeli government",
           "url": "https://www.aljazeera.com/news/2025/12/8/trump-to-host-netanyahu-at-white-house-on-december-29-israeli-government?traffic_source=rss"
-        },
-        {
-          "title": "RSF seizes key Heglig oilfield as it pushes to expand control in Sudan",
-          "url": "https://www.aljazeera.com/news/2025/12/8/rsf-claims-seizure-of-key-heglig-oil-field-in-sudan?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010017421602787475,
-      "chg5d": -0.5021901007446342,
-      "chg1m": -0.4849892375665571
+      "chg1d": 0.027045555064130956,
+      "chg5d": 0.057469432364124884,
+      "chg1m": -0.009575194062953188
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.58,
-      "confianca": 95,
+      "score": 2.97,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
+        },
         {
           "title": "Yemeni separatist group claims broad control of south",
           "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
@@ -45,10 +49,6 @@
         {
           "title": "Trump to host Netanyahu at White House on December 29: Israeli government",
           "url": "https://www.aljazeera.com/news/2025/12/8/trump-to-host-netanyahu-at-white-house-on-december-29-israeli-government?traffic_source=rss"
-        },
-        {
-          "title": "RSF seizes key Heglig oilfield as it pushes to expand control in Sudan",
-          "url": "https://www.aljazeera.com/news/2025/12/8/rsf-claims-seizure-of-key-heglig-oil-field-in-sudan?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,11 +56,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 2.97,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
+        },
         {
           "title": "Yemeni separatist group claims broad control of south",
           "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
@@ -74,9 +78,54 @@
           "url": "https://www.aljazeera.com/news/2025/12/8/trump-to-host-netanyahu-at-white-house-on-december-29-israeli-government?traffic_source=rss"
         }
       ],
-      "chg1d": 0.022843874391861974,
-      "chg5d": 0.05314328650470178,
-      "chg1m": -0.013627057920327652
+      "chg1d": -0.012195121951219561,
+      "chg5d": -0.5032851511169514,
+      "chg1m": -0.486122125297383
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.81,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
+          "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016580716163242304,
+      "chg5d": 0.02730723627974525,
+      "chg1m": 0.08598911776136806
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.81,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
+          "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0091144149967681,
+      "chg5d": 0.051529031388926345,
+      "chg1m": 0.049478991596638745
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.81,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
+          "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.022190553745928213,
+      "chg5d": 0.047205228031145664,
+      "chg1m": 0.04155718434518041
     }
   ]
 }
