@@ -1,42 +1,11 @@
 {
-  "generated_at": "2025-12-09T18:17:55.288909Z",
+  "generated_at": "2025-12-09T21:11:25.203905Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.8,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel bids farewell to Thai captive before remains return home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-bids-farewell-to-thai-captive-before-remains-return-home?traffic_source=rss"
-        },
-        {
-          "title": "How India plans to continue buying Russian oil despite sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Who are the groups controlling Yemen?",
-          "url": "https://www.aljazeera.com/news/2025/12/9/who-are-the-groups-controlling-yemen?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Hamas says no Gaza truce phase two while Israel continues violations",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/9/live-gazas-displaced-brace-for-winter-storm-as-israel-kills-one?traffic_source=rss"
-        },
-        {
-          "title": "Who are the separatists that claim control of all south Yemen?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/who-are-the-separatists-that-claim-control-of-all-south-yemen?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0090268604139145,
-      "chg5d": -0.49156867095629025,
-      "chg1m": -0.48816171543444276
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.8,
-      "confianca": 95,
+      "score": 2.56,
+      "confianca": 73,
       "razoes": [
         {
           "title": "Israel bids farewell to Thai captive before remains return home",
@@ -49,14 +18,6 @@
         {
           "title": "Who are the groups controlling Yemen?",
           "url": "https://www.aljazeera.com/news/2025/12/9/who-are-the-groups-controlling-yemen?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Hamas says no Gaza truce phase two while Israel continues violations",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/9/live-gazas-displaced-brace-for-winter-storm-as-israel-kills-one?traffic_source=rss"
-        },
-        {
-          "title": "Who are the separatists that claim control of all south Yemen?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/who-are-the-separatists-that-claim-control-of-all-south-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,10 +25,90 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
+      "score": 2.56,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Israel bids farewell to Thai captive before remains return home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-bids-farewell-to-thai-captive-before-remains-return-home?traffic_source=rss"
+        },
+        {
+          "title": "How India plans to continue buying Russian oil despite sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Who are the groups controlling Yemen?",
+          "url": "https://www.aljazeera.com/news/2025/12/9/who-are-the-groups-controlling-yemen?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006054601497137793,
+      "chg5d": -0.4930663412469492,
+      "chg1m": -0.48966942148760334
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
+          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
+        },
+        {
+          "title": "How India plans to continue buying Russian oil despite sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007533044025573926,
+      "chg5d": 0.041268102297237264,
+      "chg1m": 0.061584642233856915
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
+          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
+        },
+        {
+          "title": "How India plans to continue buying Russian oil despite sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0007993349533188388,
+      "chg5d": 0.03193105270109634,
+      "chg1m": 0.06158706433860994
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
+          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
+        },
+        {
+          "title": "How India plans to continue buying Russian oil despite sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005278246657557075,
+      "chg5d": 0.00450946084886091,
+      "chg1m": 0.09520531780994329
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Israel bids farewell to Thai captive before remains return home",
@@ -76,68 +117,11 @@
         {
           "title": "Who are the groups controlling Yemen?",
           "url": "https://www.aljazeera.com/news/2025/12/9/who-are-the-groups-controlling-yemen?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Hamas says no Gaza truce phase two while Israel continues violations",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/9/live-gazas-displaced-brace-for-winter-storm-as-israel-kills-one?traffic_source=rss"
-        },
-        {
-          "title": "Who are the separatists that claim control of all south Yemen?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/who-are-the-separatists-that-claim-control-of-all-south-yemen?traffic_source=rss"
-        },
-        {
-          "title": "World Cup 2026: Iran objects to ‘Pride Match’ branding for Egypt game",
-          "url": "https://www.aljazeera.com/sports/2025/12/9/world-cup-2026-iran-objects-to-pride-match-branding-for-egypt-game?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007198418496712413,
-      "chg5d": 0.06090715676067182,
-      "chg1m": 0.022646449220028352
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "How India plans to continue buying Russian oil despite sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006291920085023598,
-      "chg5d": 0.003485813236169492,
-      "chg1m": 0.09408924638137188
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "How India plans to continue buying Russian oil despite sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0011350556337128093,
-      "chg5d": 0.03158433496235635,
-      "chg1m": 0.061230382498810985
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "How India plans to continue buying Russian oil despite sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0074369761818001276,
-      "chg5d": 0.041168817830120975,
-      "chg1m": 0.06148342059336827
+      "chg1d": 0.00307275774635783,
+      "chg5d": 0.05656149563170524,
+      "chg1m": 0.018457510635976827
     }
   ]
 }
