@@ -1,81 +1,20 @@
 {
-  "generated_at": "2025-12-09T01:02:01.083453Z",
+  "generated_at": "2025-12-09T03:47:17.469609Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 3.25,
+      "confianca": 92,
       "razoes": [
         {
-          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
+          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
+          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
         },
         {
-          "title": "Yemeni separatist group claims broad control of south",
-          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
+          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
+          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
         },
-        {
-          "title": "Condemnation as Israel raids UNRWA HQ in East Jerusalem, removes UN flag",
-          "url": "https://www.aljazeera.com/news/2025/12/8/condemnation-as-israel-raids-unrwa-hq-in-east-jerusalem-removes-un-flag?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010670731707317116,
-      "chg5d": -0.5025186158563294,
-      "chg1m": -0.4853291038858049
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni separatist group claims broad control of south",
-          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
-        },
-        {
-          "title": "Condemnation as Israel raids UNRWA HQ in East Jerusalem, removes UN flag",
-          "url": "https://www.aljazeera.com/news/2025/12/8/condemnation-as-israel-raids-unrwa-hq-in-east-jerusalem-removes-un-flag?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.029146395400265385,
-      "chg5d": 0.059632505293836374,
-      "chg1m": -0.007549262134266016
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni separatist group claims broad control of south",
-          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
-        },
-        {
-          "title": "Condemnation as Israel raids UNRWA HQ in East Jerusalem, removes UN flag",
-          "url": "https://www.aljazeera.com/news/2025/12/8/condemnation-as-israel-raids-unrwa-hq-in-east-jerusalem-removes-un-flag?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
-      "razoes": [
         {
           "title": "US tariffs ruin education dreams for children in India’s diamond hub",
           "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
@@ -85,16 +24,24 @@
           "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010867808661926347,
-      "chg5d": 0.053356122861376705,
-      "chg1m": 0.05130252100840332
+      "chg1d": 0.024260314875135643,
+      "chg5d": 0.04932563959955505,
+      "chg1m": 0.04366615959065134
     },
     {
       "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
+      "acao": "comprar",
+      "score": 3.25,
+      "confianca": 92,
       "razoes": [
+        {
+          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
+          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
+        },
+        {
+          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
+          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
+        },
         {
           "title": "US tariffs ruin education dreams for children in India’s diamond hub",
           "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
@@ -109,11 +56,15 @@
       "chg1m": 0.08792265837543724
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.5,
+      "confianca": 71,
       "razoes": [
+        {
+          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
+          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
+        },
         {
           "title": "US tariffs ruin education dreams for children in India’s diamond hub",
           "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
@@ -123,9 +74,85 @@
           "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.024260314875135643,
-      "chg5d": 0.04932563959955505,
-      "chg1m": 0.04366615959065134
+      "chg1d": 0.010867808661926347,
+      "chg5d": 0.053356122861376705,
+      "chg1m": 0.05130252100840332
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
+          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
+        },
+        {
+          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni separatist group claims broad control of south",
+          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.029146395400265385,
+      "chg5d": 0.059632505293836374,
+      "chg1m": -0.007549262134266016
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni separatist group claims broad control of south",
+          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010670731707317116,
+      "chg5d": -0.5025186158563294,
+      "chg1m": -0.4853291038858049
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni separatist group claims broad control of south",
+          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "NVDA",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
+          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01734828134422457,
+      "chg5d": 0.03142785682525574,
+      "chg1m": -0.013321458953636813
     }
   ]
 }
