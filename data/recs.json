@@ -1,37 +1,10 @@
 {
-  "generated_at": "2025-12-09T03:47:17.469609Z",
+  "generated_at": "2025-12-09T06:21:39.386004Z",
   "recs": [
-    {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 3.25,
-      "confianca": 92,
-      "razoes": [
-        {
-          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
-        },
-        {
-          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
-          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
-        },
-        {
-          "title": "US tariffs ruin education dreams for children in India’s diamond hub",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
-          "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.024260314875135643,
-      "chg5d": 0.04932563959955505,
-      "chg1m": 0.04366615959065134
-    },
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 3.25,
+      "score": 3.23,
       "confianca": 92,
       "razoes": [
         {
@@ -56,11 +29,15 @@
       "chg1m": 0.08792265837543724
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.5,
-      "confianca": 71,
+      "score": 3.23,
+      "confianca": 92,
       "razoes": [
+        {
+          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
+          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
+        },
         {
           "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
           "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
@@ -74,16 +51,20 @@
           "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010867808661926347,
-      "chg5d": 0.053356122861376705,
-      "chg1m": 0.05130252100840332
+      "chg1d": 0.024260314875135643,
+      "chg5d": 0.04932563959955505,
+      "chg1m": 0.04366615959065134
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 2.69,
+      "confianca": 76,
       "razoes": [
+        {
+          "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
+        },
         {
           "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
           "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
@@ -102,30 +83,38 @@
       "chg1m": -0.007549262134266016
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.49,
+      "confianca": 71,
       "razoes": [
         {
-          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
+          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
+          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
         },
         {
-          "title": "Yemeni separatist group claims broad control of south",
-          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
+          "title": "US tariffs ruin education dreams for children in India’s diamond hub",
+          "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
+        },
+        {
+          "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
+          "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010670731707317116,
-      "chg5d": -0.5025186158563294,
-      "chg1m": -0.4853291038858049
+      "chg1d": 0.010859728506787375,
+      "chg5d": 0.05334770308500598,
+      "chg1m": 0.051294117647058796
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
+        },
         {
           "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
@@ -140,9 +129,32 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
+        },
+        {
+          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni separatist group claims broad control of south",
+          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010888501742160278,
+      "chg5d": -0.502628120893561,
+      "chg1m": -0.48544239265888744
+    },
+    {
       "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.75,
+      "score": 0.74,
       "confianca": 21,
       "razoes": [
         {
@@ -150,9 +162,9 @@
           "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01734828134422457,
-      "chg5d": 0.03142785682525574,
-      "chg1m": -0.013321458953636813
+      "chg1d": 0.017213968532427033,
+      "chg5d": 0.03129168519341943,
+      "chg1m": -0.013451722671203748
     }
   ]
 }
