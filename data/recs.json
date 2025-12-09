@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-12-09T06:21:39.386004Z",
+  "generated_at": "2025-12-09T09:17:09.041023Z",
   "recs": [
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 3.23,
-      "confianca": 92,
-      "razoes": [
-        {
-          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
-        },
-        {
-          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
-          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
-        },
-        {
-          "title": "US tariffs ruin education dreams for children in India’s diamond hub",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
-          "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018390679145406447,
-      "chg5d": 0.02913629720861409,
-      "chg1m": 0.08792265837543724
-    },
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 3.23,
-      "confianca": 92,
+      "score": 2.42,
+      "confianca": 69,
       "razoes": [
         {
           "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
@@ -45,10 +18,6 @@
         {
           "title": "US tariffs ruin education dreams for children in India’s diamond hub",
           "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
-          "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
         }
       ],
       "chg1d": 0.024260314875135643,
@@ -56,11 +25,42 @@
       "chg1m": 0.04366615959065134
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.42,
+      "confianca": 69,
+      "razoes": [
+        {
+          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
+          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
+        },
+        {
+          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
+          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
+        },
+        {
+          "title": "US tariffs ruin education dreams for children in India’s diamond hub",
+          "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.018390679145406447,
+      "chg5d": 0.02913629720861409,
+      "chg1m": 0.08792265837543724
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches wave of air strikes in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-launches-wave-of-air-strikes-in-south-lebanon?traffic_source=rss"
+        },
         {
           "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
           "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
@@ -68,14 +68,6 @@
         {
           "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
           "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
-        },
-        {
-          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni separatist group claims broad control of south",
-          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
         }
       ],
       "chg1d": 0.029146395400265385,
@@ -84,9 +76,9 @@
     },
     {
       "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.49,
-      "confianca": 71,
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
@@ -95,10 +87,6 @@
         {
           "title": "US tariffs ruin education dreams for children in India’s diamond hub",
           "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
-          "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
         }
       ],
       "chg1d": 0.010859728506787375,
@@ -106,50 +94,50 @@
       "chg1m": 0.051294117647058796
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
-          "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
-        },
-        {
-          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni separatist group claims broad control of south",
-          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches wave of air strikes in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-launches-wave-of-air-strikes-in-south-lebanon?traffic_source=rss"
+        },
         {
           "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
           "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
-        },
-        {
-          "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni separatist group claims broad control of south",
-          "url": "https://www.aljazeera.com/news/2025/12/8/yemeni-separatist-group-claims-broad-control-of-south?traffic_source=rss"
         }
       ],
       "chg1d": -0.010888501742160278,
       "chg5d": -0.502628120893561,
       "chg1m": -0.48544239265888744
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches wave of air strikes in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-launches-wave-of-air-strikes-in-south-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "NVDA",
