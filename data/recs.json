@@ -1,138 +1,31 @@
 {
-  "generated_at": "2025-12-09T09:17:09.041023Z",
+  "generated_at": "2025-12-09T12:27:53.956697Z",
   "recs": [
     {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
-        },
-        {
-          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
-          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
-        },
-        {
-          "title": "US tariffs ruin education dreams for children in India’s diamond hub",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.024260314875135643,
-      "chg5d": 0.04932563959955505,
-      "chg1m": 0.04366615959065134
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
-        },
-        {
-          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
-          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
-        },
-        {
-          "title": "US tariffs ruin education dreams for children in India’s diamond hub",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018390679145406447,
-      "chg5d": 0.02913629720861409,
-      "chg1m": 0.08792265837543724
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal",
-          "url": "https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches wave of air strikes in south Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-launches-wave-of-air-strikes-in-south-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
-          "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
-        },
-        {
-          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.029146395400265385,
-      "chg5d": 0.059632505293836374,
-      "chg1m": -0.007549262134266016
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
-          "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss"
-        },
-        {
-          "title": "US tariffs ruin education dreams for children in India’s diamond hub",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/us-tariffs-ruin-education-dreams-for-children-in-indias-diamond-hub?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010859728506787375,
-      "chg5d": 0.05334770308500598,
-      "chg1m": 0.051294117647058796
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal",
-          "url": "https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches wave of air strikes in south Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-launches-wave-of-air-strikes-in-south-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
-          "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010888501742160278,
-      "chg5d": -0.502628120893561,
-      "chg1m": -0.48544239265888744
-    },
-    {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 4.56,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "RSF’s oilfield takeover “geopolitical push” on South Sudan",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/9/aje-onl-qt-ahmed-ibrahim-091225?traffic_source=rss"
+        },
+        {
+          "title": "Israel shot my little sister during the Gaza ceasefire",
+          "url": "https://www.aljazeera.com/features/2025/12/9/israel-shot-my-little-sister-during-the-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel remained leading killer of journalists in 2025: RSF",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-the-top-killer-of-journalists-worldwide-once-again-says-rsf-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacked Syria more than 600 times over the past year",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-attacked-syria-more-than-600-times-over-the-past-year?traffic_source=rss"
+        },
         {
           "title": "Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal",
           "url": "https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches wave of air strikes in south Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-launches-wave-of-air-strikes-in-south-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
-          "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -140,19 +33,66 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "NVDA",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.56,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
-          "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss"
+          "title": "RSF’s oilfield takeover “geopolitical push” on South Sudan",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/9/aje-onl-qt-ahmed-ibrahim-091225?traffic_source=rss"
+        },
+        {
+          "title": "Israel shot my little sister during the Gaza ceasefire",
+          "url": "https://www.aljazeera.com/features/2025/12/9/israel-shot-my-little-sister-during-the-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel remained leading killer of journalists in 2025: RSF",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-the-top-killer-of-journalists-worldwide-once-again-says-rsf-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacked Syria more than 600 times over the past year",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-attacked-syria-more-than-600-times-over-the-past-year?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss"
         }
       ],
-      "chg1d": 0.017213968532427033,
-      "chg5d": 0.03129168519341943,
-      "chg1m": -0.013451722671203748
+      "chg1d": -0.010888501742160278,
+      "chg5d": -0.502628120893561,
+      "chg1m": -0.48544239265888744
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.22,
+      "confianca": 92,
+      "razoes": [
+        {
+          "title": "Israel shot my little sister during the Gaza ceasefire",
+          "url": "https://www.aljazeera.com/features/2025/12/9/israel-shot-my-little-sister-during-the-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel remained leading killer of journalists in 2025: RSF",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-the-top-killer-of-journalists-worldwide-once-again-says-rsf-report?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacked Syria more than 600 times over the past year",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israel-attacked-syria-more-than-600-times-over-the-past-year?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal",
+          "url": "https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches wave of air strikes in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-launches-wave-of-air-strikes-in-south-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.029146395400265385,
+      "chg5d": 0.059632505293836374,
+      "chg1m": -0.007549262134266016
     }
   ]
 }
