@@ -1,12 +1,74 @@
 {
-  "generated_at": "2025-12-10T12:28:03.414370Z",
+  "generated_at": "2025-12-10T15:16:37.554361Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
+          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
+        },
+        {
+          "title": "Israeli troops used this Palestinian woman as a human shield",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
+        },
+        {
+          "title": "STC controls more land in Yemen but it can’t declare independence",
+          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
+        },
+        {
+          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
+          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.012979502666580999,
+      "chg5d": 0.031401074306177196,
+      "chg1m": 0.019309887193098785
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
+          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
+        },
+        {
+          "title": "Israeli troops used this Palestinian woman as a human shield",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
+        },
+        {
+          "title": "STC controls more land in Yemen but it can’t declare independence",
+          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
+        },
+        {
+          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
+          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002407002188183795,
+      "chg5d": -0.5011434171839267,
+      "chg1m": -0.4929717764250138
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
+          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
+        },
+        {
+          "title": "Israeli troops used this Palestinian woman as a human shield",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
+        },
         {
           "title": "STC controls more land in Yemen but it can’t declare independence",
           "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
@@ -19,44 +81,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "STC controls more land in Yemen but it can’t declare independence",
-          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
-          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006164685160722174,
-      "chg5d": -0.4930108719769248,
-      "chg1m": -0.48961358052267145
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "STC controls more land in Yemen but it can’t declare independence",
-          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
-          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0032446602776225685,
-      "chg5d": 0.056742564845412145,
-      "chg1m": 0.018632049743645605
     }
   ]
 }
