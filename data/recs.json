@@ -1,23 +1,122 @@
 {
-  "generated_at": "2025-12-10T18:21:15.861084Z",
+  "generated_at": "2025-12-10T21:14:42.723696Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.83,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Trump administration says it seized oil tanker off Venezuela coast",
+          "url": "https://www.aljazeera.com/news/2025/12/10/trump-admin-seizes-oil-tanker-off-venezuela-coast-reports?traffic_source=rss"
+        },
+        {
+          "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
+          "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
+        },
         {
           "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.010175054704595104,
+      "chg5d": -0.4972775781335076,
+      "chg1m": -0.48904261206419475
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.83,
+      "confianca": 80,
+      "razoes": [
+        {
+          "title": "Trump administration says it seized oil tanker off Venezuela coast",
+          "url": "https://www.aljazeera.com/news/2025/12/10/trump-admin-seizes-oil-tanker-off-venezuela-coast-reports?traffic_source=rss"
         },
         {
-          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
-          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
+          "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
+          "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
         },
         {
-          "title": "Israeli troops used this Palestinian woman as a human shield",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
+          "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US Federal Reserve cuts interest rates in final decision of the year",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
+        },
+        {
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013524802100322232,
+      "chg5d": 0.020670592476865746,
+      "chg1m": 0.04405015571217833
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US Federal Reserve cuts interest rates in final decision of the year",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
+        },
+        {
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003983681305495575,
+      "chg5d": 0.006447267128560402,
+      "chg1m": 0.006915584936540194
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US Federal Reserve cuts interest rates in final decision of the year",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
+        },
+        {
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006295385336144396,
+      "chg5d": 0.005044670926611071,
+      "chg1m": 0.00865813571260856
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US Federal Reserve cuts interest rates in final decision of the year",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
+        },
+        {
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,48 +126,21 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
+          "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
+        },
         {
           "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
-          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
-        },
-        {
-          "title": "Israeli troops used this Palestinian woman as a human shield",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
         }
       ],
-      "chg1d": -6.425496369588707e-05,
-      "chg5d": 0.04489704565801254,
-      "chg1m": 0.03264764432647642
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
-      "razoes": [
-        {
-          "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
-          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
-        },
-        {
-          "title": "Israeli troops used this Palestinian woman as a human shield",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006236323851203426,
-      "chg5d": -0.49923772187738213,
-      "chg1m": -0.49103486441615934
+      "chg1d": 0.0023560153355180508,
+      "chg5d": 0.04742614145031333,
+      "chg1m": 0.03514709135147088
     },
     {
       "symbol": "TSM",
@@ -81,24 +153,9 @@
           "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
         }
       ],
-      "chg1d": 0.012507827691901912,
-      "chg5d": 0.03978676595024538,
-      "chg1m": 0.0404206319639652
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004008313539192538,
-      "chg5d": -0.02974354030081002,
-      "chg1m": 0.06564849488347013
+      "chg1d": 0.022659108137503707,
+      "chg5d": 0.05021154171602653,
+      "chg1m": 0.05085176279337571
     },
     {
       "symbol": "SOXX",
@@ -111,69 +168,24 @@
           "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0005445576270101093,
-      "chg5d": 0.009665115076286555,
-      "chg1m": 0.03427152317880802
+      "chg1d": 0.01338971106412969,
+      "chg5d": 0.022627359710369794,
+      "chg1m": 0.04754966887417223
     },
     {
-      "symbol": "QQQ",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "US federal judge halts Trump’s National Guard operations in California",
-          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
+          "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0018718502519797762,
-      "chg5d": 0.0005773672055427471,
-      "chg1m": 0.0010429536447218158
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "US federal judge halts Trump’s National Guard operations in California",
-          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0011199929725930933,
-      "chg5d": -0.00012428899384409243,
-      "chg1m": 0.003470591688189562
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "US federal judge halts Trump’s National Guard operations in California",
-          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "US federal judge halts Trump’s National Guard operations in California",
-          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00395560682604723,
-      "chg5d": 0.011033930216720762,
-      "chg1m": 0.034192755286018714
+      "chg1d": 0.007116893399553601,
+      "chg5d": -0.01890579532307275,
+      "chg1m": 0.07755176695963568
     }
   ]
 }
