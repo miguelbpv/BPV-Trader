@@ -1,15 +1,38 @@
 {
-  "generated_at": "2025-12-10T09:17:20.637351Z",
+  "generated_at": "2025-12-10T12:28:03.414370Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "STC controls more land in Yemen but it can’t declare independence",
+          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
+        },
+        {
+          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
+          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Hamas urges more international pressure on Israel amid ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2025/12/9/hamas-urges-more-international-pressure-on-israel-amid-ceasefire-violations?traffic_source=rss"
+          "title": "STC controls more land in Yemen but it can’t declare independence",
+          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
+        },
+        {
+          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
+          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
         }
       ],
       "chg1d": 0.006164685160722174,
@@ -19,32 +42,21 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Hamas urges more international pressure on Israel amid ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2025/12/9/hamas-urges-more-international-pressure-on-israel-amid-ceasefire-violations?traffic_source=rss"
+          "title": "STC controls more land in Yemen but it can’t declare independence",
+          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
+        },
+        {
+          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
+          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
         }
       ],
       "chg1d": 0.0032446602776225685,
       "chg5d": 0.056742564845412145,
       "chg1m": 0.018632049743645605
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Hamas urges more international pressure on Israel amid ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2025/12/9/hamas-urges-more-international-pressure-on-israel-amid-ceasefire-violations?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
