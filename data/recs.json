@@ -1,66 +1,16 @@
 {
-  "generated_at": "2025-12-10T15:16:37.554361Z",
+  "generated_at": "2025-12-10T18:21:15.861084Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
-          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
-        },
-        {
-          "title": "Israeli troops used this Palestinian woman as a human shield",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
-        },
-        {
-          "title": "STC controls more land in Yemen but it can’t declare independence",
-          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
-          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012979502666580999,
-      "chg5d": 0.031401074306177196,
-      "chg1m": 0.019309887193098785
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
-          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
-        },
-        {
-          "title": "Israeli troops used this Palestinian woman as a human shield",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
-        },
-        {
-          "title": "STC controls more land in Yemen but it can’t declare independence",
-          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
-          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002407002188183795,
-      "chg5d": -0.5011434171839267,
-      "chg1m": -0.4929717764250138
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
           "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
@@ -68,19 +18,162 @@
         {
           "title": "Israeli troops used this Palestinian woman as a human shield",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
-        },
-        {
-          "title": "STC controls more land in Yemen but it can’t declare independence",
-          "url": "https://www.aljazeera.com/opinions/2025/12/10/stc-controls-more-land-in-yemen-but-it-cant-declare-independence-2?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
-          "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
+          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
+        },
+        {
+          "title": "Israeli troops used this Palestinian woman as a human shield",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
+        }
+      ],
+      "chg1d": -6.425496369588707e-05,
+      "chg5d": 0.04489704565801254,
+      "chg1m": 0.03264764432647642
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Young Palestinian dies in Israeli custody, dozens taken in West Bank raids",
+          "url": "https://www.aljazeera.com/news/2025/12/10/young-palestinian-dies-in-israeli-custody-dozens-taken-in-west-bank-raids?traffic_source=rss"
+        },
+        {
+          "title": "Israeli troops used this Palestinian woman as a human shield",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006236323851203426,
+      "chg5d": -0.49923772187738213,
+      "chg1m": -0.49103486441615934
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012507827691901912,
+      "chg5d": 0.03978676595024538,
+      "chg1m": 0.0404206319639652
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004008313539192538,
+      "chg5d": -0.02974354030081002,
+      "chg1m": 0.06564849488347013
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0005445576270101093,
+      "chg5d": 0.009665115076286555,
+      "chg1m": 0.03427152317880802
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0018718502519797762,
+      "chg5d": 0.0005773672055427471,
+      "chg1m": 0.0010429536447218158
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0011199929725930933,
+      "chg5d": -0.00012428899384409243,
+      "chg1m": 0.003470591688189562
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00395560682604723,
+      "chg5d": 0.011033930216720762,
+      "chg1m": 0.034192755286018714
     }
   ]
 }
