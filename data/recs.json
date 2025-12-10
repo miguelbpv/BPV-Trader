@@ -1,66 +1,6 @@
 {
-  "generated_at": "2025-12-10T06:22:01.400623Z",
+  "generated_at": "2025-12-10T09:17:20.637351Z",
   "recs": [
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.001854457091699655,
-      "chg5d": 0.030841368379342336,
-      "chg1m": 0.060466064270670604
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0073681108163866785,
-      "chg5d": 0.002399033171594078,
-      "chg1m": 0.09290434235368157
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005101533772816181,
-      "chg5d": 0.038755178198500634,
-      "chg1m": 0.05902268760907513
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Hamas urges more international pressure on Israel amid ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2025/12/9/hamas-urges-more-international-pressure-on-israel-amid-ceasefire-violations?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
@@ -90,6 +30,21 @@
       "chg1d": 0.0032446602776225685,
       "chg5d": 0.056742564845412145,
       "chg1m": 0.018632049743645605
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Hamas urges more international pressure on Israel amid ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2025/12/9/hamas-urges-more-international-pressure-on-israel-amid-ceasefire-violations?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
