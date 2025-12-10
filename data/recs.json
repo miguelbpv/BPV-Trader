@@ -1,23 +1,60 @@
 {
-  "generated_at": "2025-12-09T21:11:25.203905Z",
+  "generated_at": "2025-12-10T01:03:30.992831Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.56,
-      "confianca": 73,
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Israel bids farewell to Thai captive before remains return home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-bids-farewell-to-thai-captive-before-remains-return-home?traffic_source=rss"
-        },
+          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
+          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.001854457091699655,
+      "chg5d": 0.030841368379342336,
+      "chg1m": 0.060466064270670604
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "How India plans to continue buying Russian oil despite sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
-        },
+          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
+          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0073681108163866785,
+      "chg5d": 0.002399033171594078,
+      "chg1m": 0.09290434235368157
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Who are the groups controlling Yemen?",
-          "url": "https://www.aljazeera.com/news/2025/12/9/who-are-the-groups-controlling-yemen?traffic_source=rss"
+          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
+          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005101533772816181,
+      "chg5d": 0.038755178198500634,
+      "chg1m": 0.05902268760907513
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Hamas urges more international pressure on Israel amid ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2025/12/9/hamas-urges-more-international-pressure-on-israel-amid-ceasefire-violations?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,102 +63,33 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.56,
-      "confianca": 73,
-      "razoes": [
-        {
-          "title": "Israel bids farewell to Thai captive before remains return home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-bids-farewell-to-thai-captive-before-remains-return-home?traffic_source=rss"
-        },
-        {
-          "title": "How India plans to continue buying Russian oil despite sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Who are the groups controlling Yemen?",
-          "url": "https://www.aljazeera.com/news/2025/12/9/who-are-the-groups-controlling-yemen?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006054601497137793,
-      "chg5d": -0.4930663412469492,
-      "chg1m": -0.48966942148760334
-    },
-    {
-      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
-        },
-        {
-          "title": "How India plans to continue buying Russian oil despite sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
+          "title": "Hamas urges more international pressure on Israel amid ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2025/12/9/hamas-urges-more-international-pressure-on-israel-amid-ceasefire-violations?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007533044025573926,
-      "chg5d": 0.041268102297237264,
-      "chg1m": 0.061584642233856915
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
-        },
-        {
-          "title": "How India plans to continue buying Russian oil despite sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0007993349533188388,
-      "chg5d": 0.03193105270109634,
-      "chg1m": 0.06158706433860994
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "US sanctions Colombian citizens for recruiting fighters for Sudan’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/9/us-sanctions-colombian-citizens-for-recruiting-fighters-for-sudans-war?traffic_source=rss"
-        },
-        {
-          "title": "How India plans to continue buying Russian oil despite sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/9/how-india-plans-to-continue-buying-russian-oil-despite-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005278246657557075,
-      "chg5d": 0.00450946084886091,
-      "chg1m": 0.09520531780994329
+      "chg1d": 0.006164685160722174,
+      "chg5d": -0.4930108719769248,
+      "chg1m": -0.48961358052267145
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Israel bids farewell to Thai captive before remains return home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-bids-farewell-to-thai-captive-before-remains-return-home?traffic_source=rss"
-        },
-        {
-          "title": "Who are the groups controlling Yemen?",
-          "url": "https://www.aljazeera.com/news/2025/12/9/who-are-the-groups-controlling-yemen?traffic_source=rss"
+          "title": "Hamas urges more international pressure on Israel amid ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2025/12/9/hamas-urges-more-international-pressure-on-israel-amid-ceasefire-violations?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00307275774635783,
-      "chg5d": 0.05656149563170524,
-      "chg1m": 0.018457510635976827
+      "chg1d": 0.0032446602776225685,
+      "chg5d": 0.056742564845412145,
+      "chg1m": 0.018632049743645605
     }
   ]
 }
