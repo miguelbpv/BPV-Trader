@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-11T15:15:54.218266Z",
+  "generated_at": "2025-12-11T18:18:56.825062Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.91,
+      "score": 4.3,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Baby in Gaza dies from cold as Israel restricts entry of needed supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/baby-in-gaza-dies-from-cold-as-israel-restricts-entry-of-needed-supplies?traffic_source=rss"
+        },
         {
           "title": "Venezuela’s crisis is not an oil grab but a power grab",
           "url": "https://www.aljazeera.com/opinions/2025/12/11/venezuelas-crisis-is-not-an-oil-grab-but-a-power-grab?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Israel prepares for Storm Byron, but not all citizens will get help",
           "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
-        },
-        {
-          "title": "US says it seized oil tanker off Venezuela coast",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0033564313555652044,
-      "chg5d": -0.5009217089568423,
-      "chg1m": -0.49715940128919484
+      "chg1d": -0.0023819835426591475,
+      "chg5d": -0.5004337453914552,
+      "chg1m": -0.49666775920463235
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.91,
+      "score": 4.3,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Baby in Gaza dies from cold as Israel restricts entry of needed supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/baby-in-gaza-dies-from-cold-as-israel-restricts-entry-of-needed-supplies?traffic_source=rss"
+        },
         {
           "title": "Venezuela’s crisis is not an oil grab but a power grab",
           "url": "https://www.aljazeera.com/opinions/2025/12/11/venezuelas-crisis-is-not-an-oil-grab-but-a-power-grab?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israel prepares for Storm Byron, but not all citizens will get help",
           "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
-        },
-        {
-          "title": "US says it seized oil tanker off Venezuela coast",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Baby in Gaza dies from cold as Israel restricts entry of needed supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/baby-in-gaza-dies-from-cold-as-israel-restricts-entry-of-needed-supplies?traffic_source=rss"
+        },
         {
           "title": "Israeli right-wing TV show mocks Gaza ‘drowning’ in winter storm",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/israeli-right-wing-tv-show-mocks-gaza-drowning-in-winter-storm?traffic_source=rss"
@@ -82,54 +86,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01333504295422492,
-      "chg5d": 0.05761124121779856,
-      "chg1m": 0.03743409105826244
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Video: Celebrations in Syria as US advances bill to lift sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.020333774077118245,
-      "chg5d": -0.012179302392620337,
-      "chg1m": 0.0725142309422742
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Video: Celebrations in Syria as US advances bill to lift sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.032276420194101034,
-      "chg5d": -0.0005223978059291112,
-      "chg1m": 0.0371675419278334
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Video: Celebrations in Syria as US advances bill to lift sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.032952859998710164,
-      "chg5d": 0.023862356194312664,
-      "chg1m": 0.030051172854346258
+      "chg1d": 0.02423387613796635,
+      "chg5d": 0.06898628303780517,
+      "chg1m": 0.0485921193690244
     }
   ]
 }
