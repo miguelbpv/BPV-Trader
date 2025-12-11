@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-11T12:29:12.044285Z",
+  "generated_at": "2025-12-11T15:15:54.218266Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.16,
+      "score": 4.91,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Venezuela’s crisis is not an oil grab but a power grab",
+          "url": "https://www.aljazeera.com/opinions/2025/12/11/venezuelas-crisis-is-not-an-oil-grab-but-a-power-grab?traffic_source=rss"
+        },
+        {
+          "title": "Israeli right-wing TV show mocks Gaza ‘drowning’ in winter storm",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/israeli-right-wing-tv-show-mocks-gaza-drowning-in-winter-storm?traffic_source=rss"
+        },
+        {
+          "title": "Why are Israeli lawmakers wearing gold nooses?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/aje-onl-pp-ben-gvir-noose-111225?traffic_source=rss"
+        },
         {
           "title": "Israel prepares for Storm Byron, but not all citizens will get help",
           "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
@@ -14,14 +26,37 @@
         {
           "title": "US says it seized oil tanker off Venezuela coast",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0033564313555652044,
+      "chg5d": -0.5009217089568423,
+      "chg1m": -0.49715940128919484
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.91,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Venezuela’s crisis is not an oil grab but a power grab",
+          "url": "https://www.aljazeera.com/opinions/2025/12/11/venezuelas-crisis-is-not-an-oil-grab-but-a-power-grab?traffic_source=rss"
         },
         {
-          "title": "South Sudan army to secure critical Heglig oilfield in Sudan war spillover",
-          "url": "https://www.aljazeera.com/news/2025/12/11/south-sudan-army-to-secure-critical-heglig-oilfield-in-sudan-war-spillover?traffic_source=rss"
+          "title": "Israeli right-wing TV show mocks Gaza ‘drowning’ in winter storm",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/israeli-right-wing-tv-show-mocks-gaza-drowning-in-winter-storm?traffic_source=rss"
         },
         {
-          "title": "LIVE: Baby dies in flooded Gaza tent; Israeli attack kills woman in Jabalia",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/11/live-heavy-rains-flooding-as-storm-byron-batters-war-torn-gaza?traffic_source=rss"
+          "title": "Why are Israeli lawmakers wearing gold nooses?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/aje-onl-pp-ben-gvir-noose-111225?traffic_source=rss"
+        },
+        {
+          "title": "Israel prepares for Storm Byron, but not all citizens will get help",
+          "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
+        },
+        {
+          "title": "US says it seized oil tanker off Venezuela coast",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,50 +64,27 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.16,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel prepares for Storm Byron, but not all citizens will get help",
-          "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
-        },
-        {
-          "title": "US says it seized oil tanker off Venezuela coast",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss"
-        },
-        {
-          "title": "South Sudan army to secure critical Heglig oilfield in Sudan war spillover",
-          "url": "https://www.aljazeera.com/news/2025/12/11/south-sudan-army-to-secure-critical-heglig-oilfield-in-sudan-war-spillover?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Baby dies in flooded Gaza tent; Israeli attack kills woman in Jabalia",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/11/live-heavy-rains-flooding-as-storm-byron-batters-war-torn-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01050328227571109,
-      "chg5d": -0.497114232821518,
-      "chg1m": -0.48887659103486436
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israeli right-wing TV show mocks Gaza ‘drowning’ in winter storm",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/israeli-right-wing-tv-show-mocks-gaza-drowning-in-winter-storm?traffic_source=rss"
+        },
+        {
+          "title": "Why are Israeli lawmakers wearing gold nooses?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/aje-onl-pp-ben-gvir-noose-111225?traffic_source=rss"
+        },
         {
           "title": "Israel prepares for Storm Byron, but not all citizens will get help",
           "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Baby dies in flooded Gaza tent; Israeli attack kills woman in Jabalia",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/11/live-heavy-rains-flooding-as-storm-byron-batters-war-torn-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002248923729358117,
-      "chg5d": 0.04731423455684867,
-      "chg1m": 0.035036496350364904
+      "chg1d": 0.01333504295422492,
+      "chg5d": 0.05761124121779856,
+      "chg1m": 0.03743409105826244
     },
     {
       "symbol": "ASML.AS",
@@ -85,9 +97,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0070899013891886934,
-      "chg5d": -0.018932089892367682,
-      "chg1m": 0.07752288720530615
+      "chg1d": -0.020333774077118245,
+      "chg5d": -0.012179302392620337,
+      "chg1m": 0.0725142309422742
     },
     {
       "symbol": "SOXX",
@@ -100,9 +112,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013293612659363114,
-      "chg5d": 0.022530385311610973,
-      "chg1m": 0.04745033112582776
+      "chg1d": -0.032276420194101034,
+      "chg5d": -0.0005223978059291112,
+      "chg1m": 0.0371675419278334
     },
     {
       "symbol": "TSM",
@@ -115,9 +127,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02218120694769441,
-      "chg5d": 0.049720764934845146,
-      "chg1m": 0.05036068682900398
+      "chg1d": -0.032952859998710164,
+      "chg5d": 0.023862356194312664,
+      "chg1m": 0.030051172854346258
     }
   ]
 }
