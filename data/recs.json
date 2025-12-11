@@ -1,19 +1,38 @@
 {
-  "generated_at": "2025-12-11T06:22:29.958885Z",
+  "generated_at": "2025-12-11T09:18:58.715275Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.05,
-      "confianca": 58,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "Trump administration says it seized oil tanker off Venezuela coast",
-          "url": "https://www.aljazeera.com/news/2025/12/10/trump-admin-seizes-oil-tanker-off-venezuela-coast-reports?traffic_source=rss"
+          "title": "US says it seized oil tanker off Venezuela coast",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss"
         },
         {
-          "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
-          "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
+          "title": "South Sudan army to secure critical Heglig oilfield in Sudan war spillover",
+          "url": "https://www.aljazeera.com/news/2025/12/11/south-sudan-army-to-secure-critical-heglig-oilfield-in-sudan-war-spillover?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.7,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "US says it seized oil tanker off Venezuela coast",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss"
+        },
+        {
+          "title": "South Sudan army to secure critical Heglig oilfield in Sudan war spillover",
+          "url": "https://www.aljazeera.com/news/2025/12/11/south-sudan-army-to-secure-critical-heglig-oilfield-in-sudan-war-spillover?traffic_source=rss"
         }
       ],
       "chg1d": 0.01050328227571109,
@@ -21,88 +40,24 @@
       "chg1m": -0.48887659103486436
     },
     {
-      "symbol": "BRENT",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 2.05,
-      "confianca": 58,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump administration says it seized oil tanker off Venezuela coast",
-          "url": "https://www.aljazeera.com/news/2025/12/10/trump-admin-seizes-oil-tanker-off-venezuela-coast-reports?traffic_source=rss"
-        },
-        {
-          "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
-          "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
+          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
+          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates in final decision of the year",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006632115249473072,
-      "chg5d": 0.0053809823217184985,
-      "chg1m": 0.008995656257337396
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates in final decision of the year",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004095672346212398,
-      "chg5d": 0.006559532974082679,
-      "chg1m": 0.007027903021356474
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates in final decision of the year",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013604359759735932,
-      "chg5d": 0.020750711052357516,
-      "chg1m": 0.04413210949024755
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates in final decision of the year",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.013293612659363114,
+      "chg5d": 0.022530385311610973,
+      "chg1m": 0.04745033112582776
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -117,7 +72,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -128,36 +83,6 @@
       "chg1d": 0.02218120694769441,
       "chg5d": 0.049720764934845146,
       "chg1m": 0.05036068682900398
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
-          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013293612659363114,
-      "chg5d": 0.022530385311610973,
-      "chg1m": 0.04745033112582776
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
-          "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002248923729358117,
-      "chg5d": 0.04731423455684867,
-      "chg1m": 0.035036496350364904
     }
   ]
 }
