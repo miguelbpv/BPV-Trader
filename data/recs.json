@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-11T09:18:58.715275Z",
+  "generated_at": "2025-12-11T12:29:12.044285Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "score": 4.16,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel prepares for Storm Byron, but not all citizens will get help",
+          "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
+        },
         {
           "title": "US says it seized oil tanker off Venezuela coast",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss"
@@ -14,6 +18,10 @@
         {
           "title": "South Sudan army to secure critical Heglig oilfield in Sudan war spillover",
           "url": "https://www.aljazeera.com/news/2025/12/11/south-sudan-army-to-secure-critical-heglig-oilfield-in-sudan-war-spillover?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Baby dies in flooded Gaza tent; Israeli attack kills woman in Jabalia",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/11/live-heavy-rains-flooding-as-storm-byron-batters-war-torn-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -23,9 +31,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "score": 4.16,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel prepares for Storm Byron, but not all citizens will get help",
+          "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
+        },
         {
           "title": "US says it seized oil tanker off Venezuela coast",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss"
@@ -33,6 +45,10 @@
         {
           "title": "South Sudan army to secure critical Heglig oilfield in Sudan war spillover",
           "url": "https://www.aljazeera.com/news/2025/12/11/south-sudan-army-to-secure-critical-heglig-oilfield-in-sudan-war-spillover?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Baby dies in flooded Gaza tent; Israeli attack kills woman in Jabalia",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/11/live-heavy-rains-flooding-as-storm-byron-batters-war-torn-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.01050328227571109,
@@ -40,29 +56,33 @@
       "chg1m": -0.48887659103486436
     },
     {
-      "symbol": "SOXX",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
-          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
+          "title": "Israel prepares for Storm Byron, but not all citizens will get help",
+          "url": "https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Baby dies in flooded Gaza tent; Israeli attack kills woman in Jabalia",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/11/live-heavy-rains-flooding-as-storm-byron-batters-war-torn-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013293612659363114,
-      "chg5d": 0.022530385311610973,
-      "chg1m": 0.04745033112582776
+      "chg1d": 0.002248923729358117,
+      "chg5d": 0.04731423455684867,
+      "chg1m": 0.035036496350364904
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
-          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
-          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
+          "title": "Video: Celebrations in Syria as US advances bill to lift sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0070899013891886934,
@@ -70,14 +90,29 @@
       "chg1m": 0.07752288720530615
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
-          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
-          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
+          "title": "Video: Celebrations in Syria as US advances bill to lift sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013293612659363114,
+      "chg5d": 0.022530385311610973,
+      "chg1m": 0.04745033112582776
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Video: Celebrations in Syria as US advances bill to lift sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.02218120694769441,
