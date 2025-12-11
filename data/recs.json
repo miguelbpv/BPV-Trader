@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-12-10T21:14:42.723696Z",
+  "generated_at": "2025-12-11T01:04:20.908777Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.83,
+      "score": 2.81,
       "confianca": 80,
       "razoes": [
         {
@@ -20,14 +20,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010175054704595104,
-      "chg5d": -0.4972775781335076,
-      "chg1m": -0.48904261206419475
+      "chg1d": 0.01050328227571109,
+      "chg5d": -0.497114232821518,
+      "chg1m": -0.48887659103486436
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.83,
+      "score": 2.81,
       "confianca": 80,
       "razoes": [
         {
@@ -48,29 +48,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates in final decision of the year",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
-        },
-        {
-          "title": "US federal judge halts Trump’s National Guard operations in California",
-          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013524802100322232,
-      "chg5d": 0.020670592476865746,
-      "chg1m": 0.04405015571217833
-    },
-    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
           "title": "US Federal Reserve cuts interest rates in final decision of the year",
@@ -81,15 +62,34 @@
           "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003983681305495575,
-      "chg5d": 0.006447267128560402,
-      "chg1m": 0.006915584936540194
+      "chg1d": 0.0040316774658028885,
+      "chg5d": 0.006495381062355768,
+      "chg1m": 0.006963721258604418
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US Federal Reserve cuts interest rates in final decision of the year",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
+        },
+        {
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013723696248856427,
+      "chg5d": 0.020870888915595114,
+      "chg1m": 0.0442550401573513
     },
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
           "title": "US Federal Reserve cuts interest rates in final decision of the year",
@@ -100,15 +100,15 @@
           "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006295385336144396,
-      "chg5d": 0.005044670926611071,
-      "chg1m": 0.00865813571260856
+      "chg1d": 0.006485710939330147,
+      "chg5d": 0.005234759976019595,
+      "chg1m": 0.008848908194411793
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
           "title": "US Federal Reserve cuts interest rates in final decision of the year",
@@ -126,7 +126,7 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.48,
+      "score": 1.47,
       "confianca": 42,
       "razoes": [
         {
@@ -138,54 +138,54 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0023560153355180508,
-      "chg5d": 0.04742614145031333,
-      "chg1m": 0.03514709135147088
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.022659108137503707,
-      "chg5d": 0.05021154171602653,
-      "chg1m": 0.05085176279337571
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01338971106412969,
-      "chg5d": 0.022627359710369794,
-      "chg1m": 0.04754966887417223
+      "chg1d": 0.002248923729358117,
+      "chg5d": 0.04731423455684867,
+      "chg1m": 0.035036496350364904
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
+          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
+          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007116893399553601,
-      "chg5d": -0.01890579532307275,
-      "chg1m": 0.07755176695963568
+      "chg1d": 0.0070899013891886934,
+      "chg5d": -0.018932089892367682,
+      "chg1m": 0.07752288720530615
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
+          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02218120694769441,
+      "chg5d": 0.049720764934845146,
+      "chg1m": 0.05036068682900398
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
+          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013133448651418944,
+      "chg5d": 0.022368761313679722,
+      "chg1m": 0.04728476821192044
     }
   ]
 }
