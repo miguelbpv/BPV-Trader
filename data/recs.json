@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T01:04:20.908777Z",
+  "generated_at": "2025-12-11T03:54:09.710718Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 2.06,
+      "confianca": 58,
       "razoes": [
         {
           "title": "Trump administration says it seized oil tanker off Venezuela coast",
@@ -14,10 +14,6 @@
         {
           "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
           "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
-        },
-        {
-          "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.01050328227571109,
@@ -26,9 +22,9 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 2.06,
+      "confianca": 58,
       "razoes": [
         {
           "title": "Trump administration says it seized oil tanker off Venezuela coast",
@@ -37,10 +33,6 @@
         {
           "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
           "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
-        },
-        {
-          "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,28 +40,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "US Federal Reserve cuts interest rates in final decision of the year",
-          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
-        },
-        {
-          "title": "US federal judge halts Trump’s National Guard operations in California",
-          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0040316774658028885,
-      "chg5d": 0.006495381062355768,
-      "chg1m": 0.006963721258604418
-    },
-    {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 1.7,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -88,7 +61,7 @@
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 1.7,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -107,7 +80,7 @@
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.7,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -124,28 +97,43 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
         {
-          "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
-          "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
+          "title": "US Federal Reserve cuts interest rates in final decision of the year",
+          "url": "https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss"
         },
         {
-          "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
+          "title": "US federal judge halts Trump’s National Guard operations in California",
+          "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002248923729358117,
-      "chg5d": 0.04731423455684867,
-      "chg1m": 0.035036496350364904
+      "chg1d": 0.0040316774658028885,
+      "chg5d": 0.006495381062355768,
+      "chg1m": 0.006963721258604418
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
+          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013133448651418944,
+      "chg5d": 0.022368761313679722,
+      "chg1m": 0.04728476821192044
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -160,7 +148,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -173,19 +161,19 @@
       "chg1m": 0.05036068682900398
     },
     {
-      "symbol": "SOXX",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
-          "title": "US Congress advances bill to nix Caesar Act sanctions on Syria",
-          "url": "https://www.aljazeera.com/news/2025/12/11/us-congress-advances-bill-to-nix-caesar-act-sanctions-on-syria?traffic_source=rss"
+          "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
+          "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013133448651418944,
-      "chg5d": 0.022368761313679722,
-      "chg1m": 0.04728476821192044
+      "chg1d": 0.002248923729358117,
+      "chg5d": 0.04731423455684867,
+      "chg1m": 0.035036496350364904
     }
   ]
 }
