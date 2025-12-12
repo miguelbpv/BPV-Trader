@@ -1,39 +1,16 @@
 {
-  "generated_at": "2025-12-12T15:15:13.663224Z",
+  "generated_at": "2025-12-12T18:20:31.212527Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "New footage shows six Israeli captives held in Gaza tunnel prior to deaths",
-          "url": "https://www.aljazeera.com/news/2025/12/12/new-footage-shows-six-israeli-captives-held-in-gaza-tunnel-prior-to-deaths?traffic_source=rss"
-        },
-        {
-          "title": "Newly released video shows Israeli captives inside Gaza tunnel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/12/newly-released-video-shows-israeli-captives-inside-gaza-tunnel?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombards areas across southern Lebanon in latest truce violation",
-          "url": "https://www.aljazeera.com/news/2025/12/12/israel-bombards-areas-across-southern-lebanon-in-latest-truce-violation?traffic_source=rss"
-        },
-        {
-          "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
-          "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0026109660574411974,
-      "chg5d": -0.0017421602787456073,
-      "chg1m": -0.4920775623268698
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 3.55,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Nobel peace laureate Narges Mohammadi arrested in Iran, supporters say",
+          "url": "https://www.aljazeera.com/news/2025/12/12/nobel-peace-laureate-narges-mohammadi-arrested-in-iran-supporters-say?traffic_source=rss"
+        },
         {
           "title": "New footage shows six Israeli captives held in Gaza tunnel prior to deaths",
           "url": "https://www.aljazeera.com/news/2025/12/12/new-footage-shows-six-israeli-captives-held-in-gaza-tunnel-prior-to-deaths?traffic_source=rss"
@@ -58,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 3.55,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Nobel peace laureate Narges Mohammadi arrested in Iran, supporters say",
+          "url": "https://www.aljazeera.com/news/2025/12/12/nobel-peace-laureate-narges-mohammadi-arrested-in-iran-supporters-say?traffic_source=rss"
+        },
         {
           "title": "New footage shows six Israeli captives held in Gaza tunnel prior to deaths",
           "url": "https://www.aljazeera.com/news/2025/12/12/new-footage-shows-six-israeli-captives-held-in-gaza-tunnel-prior-to-deaths?traffic_source=rss"
@@ -78,33 +59,45 @@
           "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0054013645552560595,
-      "chg5d": 0.0444825298540469,
-      "chg1m": 0.03342158235603006
+      "chg1d": 0.00974983153638813,
+      "chg5d": 0.060393631136665196,
+      "chg1m": 0.0491641869420619
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.55,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "US slaps sanctions on Maduro family, Venezuelan tankers: What we know",
-          "url": "https://www.aljazeera.com/news/2025/12/12/us-slaps-sanctions-on-maduro-family-venezuelan-tankers-what-we-know?traffic_source=rss"
+          "title": "Nobel peace laureate Narges Mohammadi arrested in Iran, supporters say",
+          "url": "https://www.aljazeera.com/news/2025/12/12/nobel-peace-laureate-narges-mohammadi-arrested-in-iran-supporters-say?traffic_source=rss"
+        },
+        {
+          "title": "New footage shows six Israeli captives held in Gaza tunnel prior to deaths",
+          "url": "https://www.aljazeera.com/news/2025/12/12/new-footage-shows-six-israeli-captives-held-in-gaza-tunnel-prior-to-deaths?traffic_source=rss"
+        },
+        {
+          "title": "Newly released video shows Israeli captives inside Gaza tunnel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/12/newly-released-video-shows-israeli-captives-inside-gaza-tunnel?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombards areas across southern Lebanon in latest truce violation",
+          "url": "https://www.aljazeera.com/news/2025/12/12/israel-bombards-areas-across-southern-lebanon-in-latest-truce-violation?traffic_source=rss"
         },
         {
           "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
           "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
         }
       ],
-      "chg1d": -0.016374157446267256,
-      "chg5d": -9.696186166765584e-05,
-      "chg1m": 0.03236893916641635
+      "chg1d": -0.007177980852915624,
+      "chg5d": -0.006313153310104593,
+      "chg1m": -0.494403324099723
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.71,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -116,14 +109,14 @@
           "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009529407573652362,
-      "chg5d": 0.011523734162823972,
-      "chg1m": 0.07211784099563319
+      "chg1d": -0.029024616151900468,
+      "chg5d": -0.008385858640981588,
+      "chg1m": 0.05101558809636285
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.71,
+      "score": 1.69,
       "confianca": 48,
       "razoes": [
         {
@@ -135,9 +128,28 @@
           "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014925373134328394,
-      "chg5d": 0.01893322475570027,
-      "chg1m": 0.0333080999242998
+      "chg1d": -0.029785140232901557,
+      "chg5d": 0.0035627035830617347,
+      "chg1m": 0.01772073498038668
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US slaps sanctions on Maduro family, Venezuelan tankers: What we know",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-slaps-sanctions-on-maduro-family-venezuelan-tankers-what-we-know?traffic_source=rss"
+        },
+        {
+          "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
+          "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.03672262495230814,
+      "chg5d": -0.020782159017452975,
+      "chg1m": 0.011012113324657161
     }
   ]
 }
