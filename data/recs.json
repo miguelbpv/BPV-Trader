@@ -1,54 +1,19 @@
 {
-  "generated_at": "2025-12-12T06:21:58.474887Z",
+  "generated_at": "2025-12-12T09:18:08.814016Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
-        },
-        {
-          "title": "Who was Israel-backed Gaza militia leader Yasser Abu Shabab?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/12/11/aje-onl-aj_tt_pal_abushabab_av_v2-111225?traffic_source=rss"
-        },
-        {
-          "title": "US lawmakers join calls for justice in Israel’s attacks on journalists",
-          "url": "https://www.aljazeera.com/news/2025/12/11/us-lawmakers-join-calls-for-justice-in-israels-attacks-on-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Nuclear ambition, proxies & defiance: Iran’s former top diplomat",
-          "url": "https://www.aljazeera.com/video/on-the-record/2025/12/11/aje-onl-otr_zarif-full-iv-111225?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004763967085318295,
-      "chg5d": -0.501626545217957,
-      "chg1m": -0.4978695509668961
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "acao": "observar",
+      "score": 1.82,
+      "confianca": 52,
       "razoes": [
+        {
+          "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
+        },
         {
           "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
-        },
-        {
-          "title": "Who was Israel-backed Gaza militia leader Yasser Abu Shabab?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/12/11/aje-onl-aj_tt_pal_abushabab_av_v2-111225?traffic_source=rss"
-        },
-        {
-          "title": "US lawmakers join calls for justice in Israel’s attacks on journalists",
-          "url": "https://www.aljazeera.com/news/2025/12/11/us-lawmakers-join-calls-for-justice-in-israels-attacks-on-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Nuclear ambition, proxies & defiance: Iran’s former top diplomat",
-          "url": "https://www.aljazeera.com/video/on-the-record/2025/12/11/aje-onl-otr_zarif-full-iv-111225?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,26 +21,78 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.82,
+      "confianca": 52,
+      "razoes": [
+        {
+          "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004763967085318295,
+      "chg5d": -0.501626545217957,
+      "chg1m": -0.4978695509668961
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01705681305216987,
+      "chg5d": 0.040692315570272815,
+      "chg1m": 0.046982862245423654
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005721872727847508,
+      "chg5d": 0.02690348700535461,
+      "chg1m": 0.06562764695917332
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0031447664653539487,
+      "chg5d": 0.011494667051023342,
+      "chg1m": 0.09821795348291305
+    },
+    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
-        },
-        {
-          "title": "Who was Israel-backed Gaza militia leader Yasser Abu Shabab?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/12/11/aje-onl-aj_tt_pal_abushabab_av_v2-111225?traffic_source=rss"
-        },
-        {
-          "title": "US lawmakers join calls for justice in Israel’s attacks on journalists",
-          "url": "https://www.aljazeera.com/news/2025/12/11/us-lawmakers-join-calls-for-justice-in-israels-attacks-on-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Nuclear ambition, proxies & defiance: Iran’s former top diplomat",
-          "url": "https://www.aljazeera.com/video/on-the-record/2025/12/11/aje-onl-otr_zarif-full-iv-111225?traffic_source=rss"
         }
       ],
       "chg1d": 0.014830961234346279,
