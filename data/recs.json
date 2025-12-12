@@ -1,19 +1,15 @@
 {
-  "generated_at": "2025-12-11T21:15:02.432747Z",
+  "generated_at": "2025-12-12T01:04:03.574977Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.08,
+      "score": 3.69,
       "confianca": 95,
       "razoes": [
         {
           "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
-        },
-        {
-          "title": "Russia’s Putin affirms support for Venezuela after US seizes oil tanker",
-          "url": "https://www.aljazeera.com/news/2025/12/11/russias-putin-affirms-support-for-venezuela-after-us-seizes-oil-tanker?traffic_source=rss"
         },
         {
           "title": "Who was Israel-backed Gaza militia leader Yasser Abu Shabab?",
@@ -26,47 +22,20 @@
         {
           "title": "Nuclear ambition, proxies & defiance: Iran’s former top diplomat",
           "url": "https://www.aljazeera.com/video/on-the-record/2025/12/11/aje-onl-otr_zarif-full-iv-111225?traffic_source=rss"
+        },
+        {
+          "title": "Baby in Gaza dies from cold as Israel restricts entry of needed supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/baby-in-gaza-dies-from-cold-as-israel-restricts-entry-of-needed-supplies?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004961022087483814,
-      "chg5d": -0.5017252222945131,
-      "chg1m": -0.4979689719217743
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.08,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
-        },
-        {
-          "title": "Russia’s Putin affirms support for Venezuela after US seizes oil tanker",
-          "url": "https://www.aljazeera.com/news/2025/12/11/russias-putin-affirms-support-for-venezuela-after-us-seizes-oil-tanker?traffic_source=rss"
-        },
-        {
-          "title": "Who was Israel-backed Gaza militia leader Yasser Abu Shabab?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2025/12/11/aje-onl-aj_tt_pal_abushabab_av_v2-111225?traffic_source=rss"
-        },
-        {
-          "title": "US lawmakers join calls for justice in Israel’s attacks on journalists",
-          "url": "https://www.aljazeera.com/news/2025/12/11/us-lawmakers-join-calls-for-justice-in-israels-attacks-on-journalists?traffic_source=rss"
-        },
-        {
-          "title": "Nuclear ambition, proxies & defiance: Iran’s former top diplomat",
-          "url": "https://www.aljazeera.com/video/on-the-record/2025/12/11/aje-onl-otr_zarif-full-iv-111225?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.004763967085318295,
+      "chg5d": -0.501626545217957,
+      "chg1m": -0.4978695509668961
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.73,
+      "score": 3.69,
       "confianca": 95,
       "razoes": [
         {
@@ -93,6 +62,37 @@
       "chg1d": 0.014830961234346279,
       "chg5d": 0.05917252146760337,
       "chg1m": 0.038965585140131716
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.69,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
+        },
+        {
+          "title": "Who was Israel-backed Gaza militia leader Yasser Abu Shabab?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/12/11/aje-onl-aj_tt_pal_abushabab_av_v2-111225?traffic_source=rss"
+        },
+        {
+          "title": "US lawmakers join calls for justice in Israel’s attacks on journalists",
+          "url": "https://www.aljazeera.com/news/2025/12/11/us-lawmakers-join-calls-for-justice-in-israels-attacks-on-journalists?traffic_source=rss"
+        },
+        {
+          "title": "Nuclear ambition, proxies & defiance: Iran’s former top diplomat",
+          "url": "https://www.aljazeera.com/video/on-the-record/2025/12/11/aje-onl-otr_zarif-full-iv-111225?traffic_source=rss"
+        },
+        {
+          "title": "Baby in Gaza dies from cold as Israel restricts entry of needed supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/baby-in-gaza-dies-from-cold-as-israel-restricts-entry-of-needed-supplies?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
