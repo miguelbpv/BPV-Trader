@@ -1,19 +1,23 @@
 {
-  "generated_at": "2025-12-12T09:18:08.814016Z",
+  "generated_at": "2025-12-12T12:27:37.247180Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.82,
-      "confianca": 52,
+      "acao": "comprar",
+      "score": 2.44,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "Israel bombards areas across southern Lebanon in latest truce violation",
+          "url": "https://www.aljazeera.com/news/2025/12/12/israel-bombards-areas-across-southern-lebanon-in-latest-truce-violation?traffic_source=rss"
+        },
+        {
+          "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
+          "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
+        },
         {
           "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
           "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -22,17 +26,21 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.82,
-      "confianca": 52,
+      "acao": "comprar",
+      "score": 2.44,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "Israel bombards areas across southern Lebanon in latest truce violation",
+          "url": "https://www.aljazeera.com/news/2025/12/12/israel-bombards-areas-across-southern-lebanon-in-latest-truce-violation?traffic_source=rss"
+        },
+        {
+          "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
+          "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
+        },
         {
           "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
           "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
         }
       ],
       "chg1d": -0.004763967085318295,
@@ -40,26 +48,15 @@
       "chg1m": -0.4978695509668961
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
-          "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01705681305216987,
-      "chg5d": 0.040692315570272815,
-      "chg1m": 0.046982862245423654
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.94,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
+          "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
+        },
         {
           "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
           "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
@@ -72,9 +69,13 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.94,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
+          "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
+        },
         {
           "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
           "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
@@ -85,14 +86,37 @@
       "chg1m": 0.09821795348291305
     },
     {
-      "symbol": "LMT",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
+      "score": 1.94,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss"
+          "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
+          "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
+        },
+        {
+          "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01705681305216987,
+      "chg5d": 0.040692315570272815,
+      "chg1m": 0.046982862245423654
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.35,
+      "confianca": 38,
+      "razoes": [
+        {
+          "title": "Israel bombards areas across southern Lebanon in latest truce violation",
+          "url": "https://www.aljazeera.com/news/2025/12/12/israel-bombards-areas-across-southern-lebanon-in-latest-truce-violation?traffic_source=rss"
+        },
+        {
+          "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
+          "url": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
         }
       ],
       "chg1d": 0.014830961234346279,
