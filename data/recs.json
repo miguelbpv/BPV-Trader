@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-13T03:44:29.186985Z",
+  "generated_at": "2025-12-13T06:19:09.629058Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.65,
-      "confianca": 75,
+      "score": 3.97,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Venezuela oil exports fall steeply after US forces seize tanker off coast",
+          "url": "https://www.aljazeera.com/news/2025/12/13/venezuela-oil-exports-fall-steeply-after-us-forces-seize-tanker-off-coast?traffic_source=rss"
+        },
         {
           "title": "US forces stormed cargo ship travelling from China to Iran: Report",
           "url": "https://www.aljazeera.com/news/2025/12/12/us-forces-stormed-cargo-ship-travelling-from-china-to-iran-report?traffic_source=rss"
@@ -24,16 +28,20 @@
           "url": "https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009138381201044423,
-      "chg5d": -0.008275261324041867,
-      "chg1m": -0.4954016620498615
+      "chg1d": -0.00979112271540476,
+      "chg5d": -0.008928571428571508,
+      "chg1m": -0.4957340720221607
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.65,
-      "confianca": 75,
+      "score": 3.97,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Venezuela oil exports fall steeply after US forces seize tanker off coast",
+          "url": "https://www.aljazeera.com/news/2025/12/13/venezuela-oil-exports-fall-steeply-after-us-forces-seize-tanker-off-coast?traffic_source=rss"
+        },
         {
           "title": "US forces stormed cargo ship travelling from China to Iran: Report",
           "url": "https://www.aljazeera.com/news/2025/12/12/us-forces-stormed-cargo-ship-travelling-from-china-to-iran-report?traffic_source=rss"
@@ -58,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.65,
+      "score": 2.63,
       "confianca": 75,
       "razoes": [
         {
