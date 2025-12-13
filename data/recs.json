@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-12-12T21:11:56.409319Z",
+  "generated_at": "2025-12-13T00:59:51.413791Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "acao": "comprar",
+      "score": 3.4,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "US forces stormed cargo ship travelling from China to Iran: Report",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-forces-stormed-cargo-ship-travelling-from-china-to-iran-report?traffic_source=rss"
+        },
+        {
+          "title": "UN General Assembly adopts resolution demanding Israel allow aid into Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/12/un-general-assembly-adopts-resolution-demanding-israel-allow-aid-into-gaza?traffic_source=rss"
+        },
         {
           "title": "Israel approves 19 new West Bank settlements in major annexation push",
           "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss"
@@ -25,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.4,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "US forces stormed cargo ship travelling from China to Iran: Report",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-forces-stormed-cargo-ship-travelling-from-china-to-iran-report?traffic_source=rss"
+        },
+        {
+          "title": "UN General Assembly adopts resolution demanding Israel allow aid into Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/12/un-general-assembly-adopts-resolution-demanding-israel-allow-aid-into-gaza?traffic_source=rss"
+        },
         {
           "title": "Israel approves 19 new West Bank settlements in major annexation push",
           "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss"
@@ -43,16 +59,24 @@
           "url": "https://www.aljazeera.com/news/2025/12/12/nobel-peace-laureate-narges-mohammadi-arrested-in-iran-supporters-say?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009355961705831152,
-      "chg5d": -0.00849303135888503,
-      "chg1m": -0.4955124653739612
+      "chg1d": 0.011308119946091653,
+      "chg5d": 0.06203007518796995,
+      "chg1m": 0.05078330124277958
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.4,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "US forces stormed cargo ship travelling from China to Iran: Report",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-forces-stormed-cargo-ship-travelling-from-china-to-iran-report?traffic_source=rss"
+        },
+        {
+          "title": "UN General Assembly adopts resolution demanding Israel allow aid into Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/12/un-general-assembly-adopts-resolution-demanding-israel-allow-aid-into-gaza?traffic_source=rss"
+        },
         {
           "title": "Israel approves 19 new West Bank settlements in major annexation push",
           "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss"
@@ -66,9 +90,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/12/nobel-peace-laureate-narges-mohammadi-arrested-in-iran-supporters-say?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010339454177897627,
-      "chg5d": 0.06101282618310489,
-      "chg1m": 0.049776824785576754
+      "chg1d": -0.009138381201044423,
+      "chg5d": -0.008275261324041867,
+      "chg1m": -0.4954016620498615
     }
   ]
 }
