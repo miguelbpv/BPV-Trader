@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T00:59:51.413791Z",
+  "generated_at": "2025-12-13T03:44:29.186985Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.4,
-      "confianca": 95,
+      "score": 2.65,
+      "confianca": 75,
       "razoes": [
         {
           "title": "US forces stormed cargo ship travelling from China to Iran: Report",
@@ -22,10 +22,33 @@
         {
           "title": "Eurovision winner Nemo returns trophy in protest over Israel’s inclusion",
           "url": "https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009138381201044423,
+      "chg5d": -0.008275261324041867,
+      "chg1m": -0.4954016620498615
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.65,
+      "confianca": 75,
+      "razoes": [
+        {
+          "title": "US forces stormed cargo ship travelling from China to Iran: Report",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-forces-stormed-cargo-ship-travelling-from-china-to-iran-report?traffic_source=rss"
         },
         {
-          "title": "Nobel peace laureate Narges Mohammadi arrested in Iran, supporters say",
-          "url": "https://www.aljazeera.com/news/2025/12/12/nobel-peace-laureate-narges-mohammadi-arrested-in-iran-supporters-say?traffic_source=rss"
+          "title": "UN General Assembly adopts resolution demanding Israel allow aid into Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/12/un-general-assembly-adopts-resolution-demanding-israel-allow-aid-into-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel approves 19 new West Bank settlements in major annexation push",
+          "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss"
+        },
+        {
+          "title": "Eurovision winner Nemo returns trophy in protest over Israel’s inclusion",
+          "url": "https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,8 +58,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.4,
-      "confianca": 95,
+      "score": 2.65,
+      "confianca": 75,
       "razoes": [
         {
           "title": "US forces stormed cargo ship travelling from China to Iran: Report",
@@ -53,46 +76,11 @@
         {
           "title": "Eurovision winner Nemo returns trophy in protest over Israel’s inclusion",
           "url": "https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss"
-        },
-        {
-          "title": "Nobel peace laureate Narges Mohammadi arrested in Iran, supporters say",
-          "url": "https://www.aljazeera.com/news/2025/12/12/nobel-peace-laureate-narges-mohammadi-arrested-in-iran-supporters-say?traffic_source=rss"
         }
       ],
       "chg1d": 0.011308119946091653,
       "chg5d": 0.06203007518796995,
       "chg1m": 0.05078330124277958
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.4,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US forces stormed cargo ship travelling from China to Iran: Report",
-          "url": "https://www.aljazeera.com/news/2025/12/12/us-forces-stormed-cargo-ship-travelling-from-china-to-iran-report?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly adopts resolution demanding Israel allow aid into Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/12/un-general-assembly-adopts-resolution-demanding-israel-allow-aid-into-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel approves 19 new West Bank settlements in major annexation push",
-          "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss"
-        },
-        {
-          "title": "Eurovision winner Nemo returns trophy in protest over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss"
-        },
-        {
-          "title": "Nobel peace laureate Narges Mohammadi arrested in Iran, supporters say",
-          "url": "https://www.aljazeera.com/news/2025/12/12/nobel-peace-laureate-narges-mohammadi-arrested-in-iran-supporters-say?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009138381201044423,
-      "chg5d": -0.008275261324041867,
-      "chg1m": -0.4954016620498615
     }
   ]
 }
