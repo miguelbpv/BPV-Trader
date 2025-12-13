@@ -1,42 +1,11 @@
 {
-  "generated_at": "2025-12-13T06:19:09.629058Z",
+  "generated_at": "2025-12-13T09:12:34.777957Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.97,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Venezuela oil exports fall steeply after US forces seize tanker off coast",
-          "url": "https://www.aljazeera.com/news/2025/12/13/venezuela-oil-exports-fall-steeply-after-us-forces-seize-tanker-off-coast?traffic_source=rss"
-        },
-        {
-          "title": "US forces stormed cargo ship travelling from China to Iran: Report",
-          "url": "https://www.aljazeera.com/news/2025/12/12/us-forces-stormed-cargo-ship-travelling-from-china-to-iran-report?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly adopts resolution demanding Israel allow aid into Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/12/un-general-assembly-adopts-resolution-demanding-israel-allow-aid-into-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel approves 19 new West Bank settlements in major annexation push",
-          "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss"
-        },
-        {
-          "title": "Eurovision winner Nemo returns trophy in protest over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00979112271540476,
-      "chg5d": -0.008928571428571508,
-      "chg1m": -0.4957340720221607
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.97,
-      "confianca": 95,
+      "score": 3.22,
+      "confianca": 92,
       "razoes": [
         {
           "title": "Venezuela oil exports fall steeply after US forces seize tanker off coast",
@@ -53,10 +22,6 @@
         {
           "title": "Israel approves 19 new West Bank settlements in major annexation push",
           "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss"
-        },
-        {
-          "title": "Eurovision winner Nemo returns trophy in protest over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,10 +29,37 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.63,
-      "confianca": 75,
+      "score": 3.22,
+      "confianca": 92,
+      "razoes": [
+        {
+          "title": "Venezuela oil exports fall steeply after US forces seize tanker off coast",
+          "url": "https://www.aljazeera.com/news/2025/12/13/venezuela-oil-exports-fall-steeply-after-us-forces-seize-tanker-off-coast?traffic_source=rss"
+        },
+        {
+          "title": "US forces stormed cargo ship travelling from China to Iran: Report",
+          "url": "https://www.aljazeera.com/news/2025/12/12/us-forces-stormed-cargo-ship-travelling-from-china-to-iran-report?traffic_source=rss"
+        },
+        {
+          "title": "UN General Assembly adopts resolution demanding Israel allow aid into Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/12/un-general-assembly-adopts-resolution-demanding-israel-allow-aid-into-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel approves 19 new West Bank settlements in major annexation push",
+          "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00979112271540476,
+      "chg5d": -0.008928571428571508,
+      "chg1m": -0.4957340720221607
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.88,
+      "confianca": 53,
       "razoes": [
         {
           "title": "US forces stormed cargo ship travelling from China to Iran: Report",
@@ -80,10 +72,6 @@
         {
           "title": "Israel approves 19 new West Bank settlements in major annexation push",
           "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss"
-        },
-        {
-          "title": "Eurovision winner Nemo returns trophy in protest over Israel’s inclusion",
-          "url": "https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss"
         }
       ],
       "chg1d": 0.011308119946091653,
