@@ -1,23 +1,23 @@
 {
-  "generated_at": "2025-12-13T15:12:24.501702Z",
+  "generated_at": "2025-12-13T18:17:05.875869Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.3,
-      "confianca": 65,
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
+        {
+          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
           "url": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel attacks Gaza City, threatens southern Lebanon strike",
+          "title": "LIVE: Hamas slams Israeli ‘escalation’ in Gaza city attack that killed 5",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/13/live-storm-byron-passes-misery-remains-in-gaza-after-14-killed?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela oil exports fall steeply after US forces seize tanker off coast",
-          "url": "https://www.aljazeera.com/news/2025/12/13/venezuela-oil-exports-fall-steeply-after-us-forces-seize-tanker-off-coast?traffic_source=rss"
         }
       ],
       "chg1d": -0.00979112271540476,
@@ -27,20 +27,20 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.3,
-      "confianca": 65,
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
+        {
+          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
           "url": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel attacks Gaza City, threatens southern Lebanon strike",
+          "title": "LIVE: Hamas slams Israeli ‘escalation’ in Gaza city attack that killed 5",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/13/live-storm-byron-passes-misery-remains-in-gaza-after-14-killed?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela oil exports fall steeply after US forces seize tanker off coast",
-          "url": "https://www.aljazeera.com/news/2025/12/13/venezuela-oil-exports-fall-steeply-after-us-forces-seize-tanker-off-coast?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -49,22 +49,71 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
+        {
+          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
+        },
         {
           "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
           "url": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss"
         },
         {
-          "title": "LIVE: Israel attacks Gaza City, threatens southern Lebanon strike",
+          "title": "LIVE: Hamas slams Israeli ‘escalation’ in Gaza city attack that killed 5",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/13/live-storm-byron-passes-misery-remains-in-gaza-after-14-killed?traffic_source=rss"
         }
       ],
       "chg1d": 0.011308119946091653,
       "chg5d": 0.06203007518796995,
       "chg1m": 0.05078330124277958
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/13/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.03739624523529622,
+      "chg5d": -0.016935432526581095,
+      "chg1m": 0.04195386231960898
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/13/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.047818898639196125,
+      "chg5d": -0.03206205559146723,
+      "chg1m": -0.0006340307671772207
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/13/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.04202066590126292,
+      "chg5d": -0.00909337676438656,
+      "chg1m": 0.004886105567407666
     }
   ]
 }
