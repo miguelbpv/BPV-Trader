@@ -1,29 +1,10 @@
 {
-  "generated_at": "2025-12-14T12:24:14.640627Z",
+  "generated_at": "2025-12-14T15:12:28.052125Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israel kills senior Hamas commander Raed Saad as Gaza ceasefire strains",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/israel-kills-senior-hamas-commander-raed-saad-as-gaza-ceasefire-strains?traffic_source=rss"
-        },
-        {
-          "title": "Hamas confirms killing of senior commander in Israeli attack in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/14/hamas-confirms-killing-of-senior-commander-in-israeli-strike-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00979112271540476,
-      "chg5d": -0.008928571428571508,
-      "chg1m": -0.4957340720221607
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.49,
+      "score": 1.48,
       "confianca": 42,
       "razoes": [
         {
@@ -42,7 +23,7 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.49,
+      "score": 1.48,
       "confianca": 42,
       "razoes": [
         {
@@ -59,24 +40,28 @@
       "chg1m": 0.05078330124277958
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Video: Belarus frees prisoners after US lifts potash sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/video-belarus-frees-prisoners-after-us-lifts-potash-sanctions?traffic_source=rss"
+          "title": "Israel kills senior Hamas commander Raed Saad as Gaza ceasefire strains",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/israel-kills-senior-hamas-commander-raed-saad-as-gaza-ceasefire-strains?traffic_source=rss"
+        },
+        {
+          "title": "Hamas confirms killing of senior commander in Israeli attack in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/14/hamas-confirms-killing-of-senior-commander-in-israeli-strike-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.03739624523529622,
-      "chg5d": -0.016935432526581095,
-      "chg1m": 0.04195386231960898
+      "chg1d": -0.00979112271540476,
+      "chg5d": -0.008928571428571508,
+      "chg1m": -0.4957340720221607
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -91,7 +76,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -102,6 +87,21 @@
       "chg1d": -0.04202066590126292,
       "chg5d": -0.00909337676438656,
       "chg1m": 0.004886105567407666
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Video: Belarus frees prisoners after US lifts potash sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/video-belarus-frees-prisoners-after-us-lifts-potash-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.03739624523529622,
+      "chg5d": -0.016935432526581095,
+      "chg1m": 0.04195386231960898
     }
   ]
 }
