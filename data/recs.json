@@ -1,29 +1,10 @@
 {
-  "generated_at": "2025-12-13T21:11:03.012749Z",
+  "generated_at": "2025-12-14T01:08:28.076808Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.46,
+      "score": 1.45,
       "confianca": 41,
       "razoes": [
         {
@@ -42,7 +23,7 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.46,
+      "score": 1.45,
       "confianca": 41,
       "razoes": [
         {
@@ -59,9 +40,28 @@
       "chg1m": 0.05078330124277958
     },
     {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.45,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
+        },
+        {
+          "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
+          "url": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -74,24 +74,9 @@
       "chg1m": 0.04195386231960898
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/13/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.047818898639196125,
-      "chg5d": -0.03206205559146723,
-      "chg1m": -0.0006340307671772207
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -102,6 +87,21 @@
       "chg1d": -0.04202066590126292,
       "chg5d": -0.00909337676438656,
       "chg1m": 0.004886105567407666
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/13/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.047818898639196125,
+      "chg5d": -0.03206205559146723,
+      "chg1m": -0.0006340307671772207
     }
   ]
 }
