@@ -1,82 +1,10 @@
 {
-  "generated_at": "2025-12-14T18:18:21.767552Z",
+  "generated_at": "2025-12-14T21:11:38.109746Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israel kills senior Hamas commander Raed Saad as Gaza ceasefire strains",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/israel-kills-senior-hamas-commander-raed-saad-as-gaza-ceasefire-strains?traffic_source=rss"
-        },
-        {
-          "title": "Hamas confirms killing of senior commander in Israeli attack in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/14/hamas-confirms-killing-of-senior-commander-in-israeli-strike-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011308119946091653,
-      "chg5d": 0.06203007518796995,
-      "chg1m": 0.05078330124277958
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israel kills senior Hamas commander Raed Saad as Gaza ceasefire strains",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/israel-kills-senior-hamas-commander-raed-saad-as-gaza-ceasefire-strains?traffic_source=rss"
-        },
-        {
-          "title": "Hamas confirms killing of senior commander in Israeli attack in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/14/hamas-confirms-killing-of-senior-commander-in-israeli-strike-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israel kills senior Hamas commander Raed Saad as Gaza ceasefire strains",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/israel-kills-senior-hamas-commander-raed-saad-as-gaza-ceasefire-strains?traffic_source=rss"
-        },
-        {
-          "title": "Hamas confirms killing of senior commander in Israeli attack in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/14/hamas-confirms-killing-of-senior-commander-in-israeli-strike-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00979112271540476,
-      "chg5d": -0.008928571428571508,
-      "chg1m": -0.4957340720221607
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Video: Belarus frees prisoners after US lifts potash sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/video-belarus-frees-prisoners-after-us-lifts-potash-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.04202066590126292,
-      "chg5d": -0.00909337676438656,
-      "chg1m": 0.004886105567407666
-    },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -91,7 +19,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -102,6 +30,66 @@
       "chg1d": -0.03739624523529622,
       "chg5d": -0.016935432526581095,
       "chg1m": 0.04195386231960898
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Video: Belarus frees prisoners after US lifts potash sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/video-belarus-frees-prisoners-after-us-lifts-potash-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.04202066590126292,
+      "chg5d": -0.00909337676438656,
+      "chg1m": 0.004886105567407666
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Israel kills senior Hamas commander Raed Saad as Gaza ceasefire strains",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/israel-kills-senior-hamas-commander-raed-saad-as-gaza-ceasefire-strains?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00979112271540476,
+      "chg5d": -0.008928571428571508,
+      "chg1m": -0.4957340720221607
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Israel kills senior Hamas commander Raed Saad as Gaza ceasefire strains",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/israel-kills-senior-hamas-commander-raed-saad-as-gaza-ceasefire-strains?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Israel kills senior Hamas commander Raed Saad as Gaza ceasefire strains",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/israel-kills-senior-hamas-commander-raed-saad-as-gaza-ceasefire-strains?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011308119946091653,
+      "chg5d": 0.06203007518796995,
+      "chg1m": 0.05078330124277958
     }
   ]
 }
