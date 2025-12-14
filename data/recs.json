@@ -1,10 +1,25 @@
 {
-  "generated_at": "2025-12-14T06:19:50.053481Z",
+  "generated_at": "2025-12-14T09:13:11.643611Z",
   "recs": [
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.82,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions",
+          "url": "https://www.aljazeera.com/news/2025/12/13/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.03739624523529622,
+      "chg5d": -0.016935432526581095,
+      "chg1m": 0.04195386231960898
+    },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.83,
+      "score": 0.82,
       "confianca": 23,
       "razoes": [
         {
@@ -19,7 +34,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.83,
+      "score": 0.82,
       "confianca": 23,
       "razoes": [
         {
@@ -32,24 +47,24 @@
       "chg1m": 0.004886105567407666
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "score": 0.71,
+      "confianca": 20,
       "razoes": [
         {
-          "title": "Belarus frees 123 prisoners including Ales Bialiatski as US lifts sanctions",
-          "url": "https://www.aljazeera.com/news/2025/12/13/belarus-frees-123-prisoners-including-ales-bialiatski-as-us-lifts-sanctions?traffic_source=rss"
+          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
         }
       ],
-      "chg1d": -0.03739624523529622,
-      "chg5d": -0.016935432526581095,
-      "chg1m": 0.04195386231960898
+      "chg1d": 0.011308119946091653,
+      "chg5d": 0.06203007518796995,
+      "chg1m": 0.05078330124277958
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -64,7 +79,7 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -75,21 +90,6 @@
       "chg1d": -0.00979112271540476,
       "chg5d": -0.008928571428571508,
       "chg1m": -0.4957340720221607
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011308119946091653,
-      "chg5d": 0.06203007518796995,
-      "chg1m": 0.05078330124277958
     }
   ]
 }
