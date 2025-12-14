@@ -1,63 +1,6 @@
 {
-  "generated_at": "2025-12-14T03:56:38.736677Z",
+  "generated_at": "2025-12-14T06:19:50.053481Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.44,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011308119946091653,
-      "chg5d": 0.06203007518796995,
-      "chg1m": 0.05078330124277958
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.44,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00979112271540476,
-      "chg5d": -0.008928571428571508,
-      "chg1m": -0.4957340720221607
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.44,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
-        },
-        {
-          "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
-          "url": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "SOXX",
       "acao": "observar",
@@ -102,6 +45,51 @@
       "chg1d": -0.03739624523529622,
       "chg5d": -0.016935432526581095,
       "chg1m": 0.04195386231960898
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00979112271540476,
+      "chg5d": -0.008928571428571508,
+      "chg1m": -0.4957340720221607
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Israel claims to have killed senior Hamas commander, Raed Saad, in Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011308119946091653,
+      "chg5d": 0.06203007518796995,
+      "chg1m": 0.05078330124277958
     }
   ]
 }
