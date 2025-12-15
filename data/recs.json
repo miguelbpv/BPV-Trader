@@ -1,4 +1,70 @@
 {
-  "generated_at": "2025-12-15T09:24:07.316711Z",
-  "recs": []
+  "generated_at": "2025-12-15T12:29:54.625691Z",
+  "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.84,
+      "confianca": 81,
+      "razoes": [
+        {
+          "title": "The real reason Israel wants to open the Rafah crossing",
+          "url": "https://www.aljazeera.com/opinions/2025/12/15/the-real-reason-israel-wants-to-open-the-rafah-crossing?traffic_source=rss"
+        },
+        {
+          "title": "Israel and Hamas trade blame over delay of second phase of Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-and-hamas-trade-blame-over-delay-of-second-phase-of-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Spurring conflict: Venezuela and the US thirst for foreign oil",
+          "url": "https://www.aljazeera.com/gallery/2025/12/15/spurring-conflict-venezuela-and-the-us-thirst-for-foreign-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00979112271540476,
+      "chg5d": -0.008928571428571508,
+      "chg1m": -0.4957340720221607
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.84,
+      "confianca": 81,
+      "razoes": [
+        {
+          "title": "The real reason Israel wants to open the Rafah crossing",
+          "url": "https://www.aljazeera.com/opinions/2025/12/15/the-real-reason-israel-wants-to-open-the-rafah-crossing?traffic_source=rss"
+        },
+        {
+          "title": "Israel and Hamas trade blame over delay of second phase of Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-and-hamas-trade-blame-over-delay-of-second-phase-of-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Spurring conflict: Venezuela and the US thirst for foreign oil",
+          "url": "https://www.aljazeera.com/gallery/2025/12/15/spurring-conflict-venezuela-and-the-us-thirst-for-foreign-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "The real reason Israel wants to open the Rafah crossing",
+          "url": "https://www.aljazeera.com/opinions/2025/12/15/the-real-reason-israel-wants-to-open-the-rafah-crossing?traffic_source=rss"
+        },
+        {
+          "title": "Israel and Hamas trade blame over delay of second phase of Gaza ceasefire",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-and-hamas-trade-blame-over-delay-of-second-phase-of-gaza-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011308119946091653,
+      "chg5d": 0.06203007518796995,
+      "chg1m": 0.05078330124277958
+    }
+  ]
 }
