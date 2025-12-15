@@ -1,27 +1,16 @@
 {
-  "generated_at": "2025-12-15T18:21:10.434271Z",
+  "generated_at": "2025-12-15T21:13:37.810939Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Israel demolishes more buildings in military-controlled Gaza: Analysis",
-          "url": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012744451768841977,
-      "chg5d": -0.010788199031263804,
-      "chg1m": -0.5034261715296199
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "ICC rejects Israeli bid to block Gaza war crimes investigation",
+          "url": "https://www.aljazeera.com/news/2025/12/15/icc-rejects-israeli-bid-to-block-gaza-war-crimes-investigation?traffic_source=rss"
+        },
         {
           "title": "Israel demolishes more buildings in military-controlled Gaza: Analysis",
           "url": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
@@ -32,19 +21,42 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "ICC rejects Israeli bid to block Gaza war crimes investigation",
+          "url": "https://www.aljazeera.com/news/2025/12/15/icc-rejects-israeli-bid-to-block-gaza-war-crimes-investigation?traffic_source=rss"
+        },
         {
           "title": "Israel demolishes more buildings in military-controlled Gaza: Analysis",
           "url": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00655908381051531,
-      "chg5d": 0.03872104516739005,
-      "chg1m": 0.060436547109794785
+      "chg1d": -0.006701823774994501,
+      "chg5d": -0.004733597534126011,
+      "chg1m": -0.5003868258178603
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "ICC rejects Israeli bid to block Gaza war crimes investigation",
+          "url": "https://www.aljazeera.com/news/2025/12/15/icc-rejects-israeli-bid-to-block-gaza-war-crimes-investigation?traffic_source=rss"
+        },
+        {
+          "title": "Israel demolishes more buildings in military-controlled Gaza: Analysis",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007881311816762155,
+      "chg5d": 0.040085521509304285,
+      "chg1m": 0.061829549193813754
     }
   ]
 }
