@@ -1,50 +1,50 @@
 {
-  "generated_at": "2025-12-15T15:18:02.711624Z",
+  "generated_at": "2025-12-15T18:21:10.434271Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.74,
+      "score": 0.75,
       "confianca": 21,
       "razoes": [
         {
-          "title": "The real reason Israel wants to open the Rafah crossing",
-          "url": "https://www.aljazeera.com/opinions/2025/12/15/the-real-reason-israel-wants-to-open-the-rafah-crossing?traffic_source=rss"
+          "title": "Israel demolishes more buildings in military-controlled Gaza: Analysis",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009338606899582448,
-      "chg5d": -0.007375605460149732,
-      "chg1m": -0.5017130857648099
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "The real reason Israel wants to open the Rafah crossing",
-          "url": "https://www.aljazeera.com/opinions/2025/12/15/the-real-reason-israel-wants-to-open-the-rafah-crossing?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0032170744403956604,
-      "chg5d": 0.028632515363788708,
-      "chg1m": 0.05013710650433248
+      "chg1d": -0.012744451768841977,
+      "chg5d": -0.010788199031263804,
+      "chg1m": -0.5034261715296199
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.74,
+      "score": 0.75,
       "confianca": 21,
       "razoes": [
         {
-          "title": "The real reason Israel wants to open the Rafah crossing",
-          "url": "https://www.aljazeera.com/opinions/2025/12/15/the-real-reason-israel-wants-to-open-the-rafah-crossing?traffic_source=rss"
+          "title": "Israel demolishes more buildings in military-controlled Gaza: Analysis",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Israel demolishes more buildings in military-controlled Gaza: Analysis",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00655908381051531,
+      "chg5d": 0.03872104516739005,
+      "chg1m": 0.060436547109794785
     }
   ]
 }
