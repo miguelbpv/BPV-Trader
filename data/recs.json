@@ -1,46 +1,31 @@
 {
-  "generated_at": "2025-12-16T15:16:18.741739Z",
+  "generated_at": "2025-12-16T18:21:07.126096Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "Comparing criticism of Israel & anti-semitism “dishonest conflation”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/16/comparing-criticism-of-israel-anti-semitism-dishonest-conflation?traffic_source=rss"
-        },
-        {
-          "title": "Israel is imploding",
-          "url": "https://www.aljazeera.com/opinions/2025/12/16/israel-is-imploding?traffic_source=rss"
-        },
-        {
-          "title": "Has Benin’s foiled coup made ECOWAS a West African heavyweight once more?",
-          "url": "https://www.aljazeera.com/features/2025/12/16/has-benins-foiled-coup-made-ecowas-a-west-african-heavyweight-once-more?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01792431953972107,
-      "chg5d": -0.028884026258205693,
-      "chg1m": -0.5177135405346663
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 3.97,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Weather becomes weapon in Israel’s genocidal war on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/weather-becomes-weapon-in-israels-genocidal-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s foreign minister says strikes won’t stop nuclear programme",
+          "url": "https://www.aljazeera.com/video/fault-lines/2025/12/16/irans-foreign-minister-says-strikes-wont-stop-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Israel denies entry to Canadian MPs trying to reach occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/16/israel-denies-entry-to-canadian-mps-trying-to-reach-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli leaders condemned for politicising Bondi massacre",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/israeli-leaders-condemned-for-politicising-bondi-massacre?traffic_source=rss"
+        },
         {
           "title": "Comparing criticism of Israel & anti-semitism “dishonest conflation”",
           "url": "https://www.aljazeera.com/video/quotable/2025/12/16/comparing-criticism-of-israel-anti-semitism-dishonest-conflation?traffic_source=rss"
-        },
-        {
-          "title": "Israel is imploding",
-          "url": "https://www.aljazeera.com/opinions/2025/12/16/israel-is-imploding?traffic_source=rss"
-        },
-        {
-          "title": "Has Benin’s foiled coup made ECOWAS a West African heavyweight once more?",
-          "url": "https://www.aljazeera.com/features/2025/12/16/has-benins-foiled-coup-made-ecowas-a-west-african-heavyweight-once-more?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -49,22 +34,65 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 3.97,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Weather becomes weapon in Israel’s genocidal war on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/weather-becomes-weapon-in-israels-genocidal-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s foreign minister says strikes won’t stop nuclear programme",
+          "url": "https://www.aljazeera.com/video/fault-lines/2025/12/16/irans-foreign-minister-says-strikes-wont-stop-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Israel denies entry to Canadian MPs trying to reach occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/16/israel-denies-entry-to-canadian-mps-trying-to-reach-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli leaders condemned for politicising Bondi massacre",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/israeli-leaders-condemned-for-politicising-bondi-massacre?traffic_source=rss"
+        },
         {
           "title": "Comparing criticism of Israel & anti-semitism “dishonest conflation”",
           "url": "https://www.aljazeera.com/video/quotable/2025/12/16/comparing-criticism-of-israel-anti-semitism-dishonest-conflation?traffic_source=rss"
-        },
-        {
-          "title": "Israel is imploding",
-          "url": "https://www.aljazeera.com/opinions/2025/12/16/israel-is-imploding?traffic_source=rss"
         }
       ],
-      "chg1d": -0.016209694067131856,
-      "chg5d": 0.020728008738675096,
-      "chg1m": 0.023182472035554073
+      "chg1d": -0.01891953263696796,
+      "chg5d": 0.017916425710552828,
+      "chg1m": 0.020364128217789927
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.97,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Weather becomes weapon in Israel’s genocidal war on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/weather-becomes-weapon-in-israels-genocidal-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s foreign minister says strikes won’t stop nuclear programme",
+          "url": "https://www.aljazeera.com/video/fault-lines/2025/12/16/irans-foreign-minister-says-strikes-wont-stop-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Israel denies entry to Canadian MPs trying to reach occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/16/israel-denies-entry-to-canadian-mps-trying-to-reach-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli leaders condemned for politicising Bondi massacre",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/israeli-leaders-condemned-for-politicising-bondi-massacre?traffic_source=rss"
+        },
+        {
+          "title": "Comparing criticism of Israel & anti-semitism “dishonest conflation”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/16/comparing-criticism-of-israel-anti-semitism-dishonest-conflation?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.030869661429519718,
+      "chg5d": -0.041684901531728685,
+      "chg1m": -0.5240708541621386
     }
   ]
 }
