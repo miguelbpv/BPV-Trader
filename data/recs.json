@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-15T21:13:37.810939Z",
+  "generated_at": "2025-12-16T01:04:21.600933Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "Israel to demolish 25 homes in occupied West Bank’s Nur Shams camp",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-to-demolish-25-homes-in-occupied-west-bank-nur-shams-camp?traffic_source=rss"
+        },
         {
           "title": "ICC rejects Israeli bid to block Gaza war crimes investigation",
           "url": "https://www.aljazeera.com/news/2025/12/15/icc-rejects-israeli-bid-to-block-gaza-war-crimes-investigation?traffic_source=rss"
@@ -23,9 +27,13 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "Israel to demolish 25 homes in occupied West Bank’s Nur Shams camp",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-to-demolish-25-homes-in-occupied-west-bank-nur-shams-camp?traffic_source=rss"
+        },
         {
           "title": "ICC rejects Israeli bid to block Gaza war crimes investigation",
           "url": "https://www.aljazeera.com/news/2025/12/15/icc-rejects-israeli-bid-to-block-gaza-war-crimes-investigation?traffic_source=rss"
@@ -35,16 +43,20 @@
           "url": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006701823774994501,
-      "chg5d": -0.004733597534126011,
-      "chg1m": -0.5003868258178603
+      "chg1d": -0.007031421665568013,
+      "chg5d": -0.0050638485248789954,
+      "chg1m": -0.500552608311229
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "Israel to demolish 25 homes in occupied West Bank’s Nur Shams camp",
+          "url": "https://www.aljazeera.com/news/2025/12/15/israel-to-demolish-25-homes-in-occupied-west-bank-nur-shams-camp?traffic_source=rss"
+        },
         {
           "title": "ICC rejects Israeli bid to block Gaza war crimes investigation",
           "url": "https://www.aljazeera.com/news/2025/12/15/icc-rejects-israeli-bid-to-block-gaza-war-crimes-investigation?traffic_source=rss"
@@ -54,9 +66,54 @@
           "url": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007881311816762155,
-      "chg5d": 0.040085521509304285,
-      "chg1m": 0.061829549193813754
+      "chg1d": 0.008682977615825125,
+      "chg5d": 0.040912802441015986,
+      "chg1m": 0.06267412526050234
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Venezuela slams European Council’s renewed sanctions as ‘futile’",
+          "url": "https://www.aljazeera.com/news/2025/12/15/venezuela-slams-european-councils-renewed-sanctions-as-futile?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004841725657807017,
+      "chg5d": -0.04709681544954604,
+      "chg1m": 0.02989149215564302
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Venezuela slams European Council’s renewed sanctions as ‘futile’",
+          "url": "https://www.aljazeera.com/news/2025/12/15/venezuela-slams-european-councils-renewed-sanctions-as-futile?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0068325854651431666,
+      "chg5d": -0.028092597058114437,
+      "chg1m": 0.06704351577667511
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Venezuela slams European Council’s renewed sanctions as ‘futile’",
+          "url": "https://www.aljazeera.com/news/2025/12/15/venezuela-slams-european-councils-renewed-sanctions-as-futile?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.014724010409532978,
+      "chg5d": -0.046808228707721854,
+      "chg1m": 0.01963146704464926
     }
   ]
 }
