@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-12-17T06:21:43.804624Z",
+  "generated_at": "2025-12-17T09:20:32.971636Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.54,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
-          "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
-        },
-        {
-          "title": "Canadian MP blocked from West Bank rejects Israel’s ‘safety concern’ claims",
-          "url": "https://www.aljazeera.com/news/2025/12/16/canadian-mp-blocked-from-west-bank-rejects-israels-safety-concern-claims?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian infant freezes to death in Gaza as Israel keeps blocking aid",
-          "url": "https://www.aljazeera.com/news/2025/12/16/palestinian-infant-freezes-to-death-in-gaza-as-israel-keeps-blocking-aid?traffic_source=rss"
-        },
-        {
-          "title": "Canada announces new methane emission standards for oil and gas sector",
-          "url": "https://www.aljazeera.com/economy/2025/12/16/canada-announces-new-methane-emission-standards-for-oil-and-gas-sector?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians mourn teenager killed by Israeli troops in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/palestinians-mourn-teenager-killed-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.54,
+      "score": 4.06,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
+        },
         {
           "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
           "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Canada announces new methane emission standards for oil and gas sector",
           "url": "https://www.aljazeera.com/economy/2025/12/16/canada-announces-new-methane-emission-standards-for-oil-and-gas-sector?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians mourn teenager killed by Israeli troops in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/palestinians-mourn-teenager-killed-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": -0.030537729586191536,
@@ -64,11 +33,19 @@
       "chg1m": -0.5239078461204085
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "score": 4.06,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
+        },
+        {
+          "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
+          "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
+        },
         {
           "title": "Canadian MP blocked from West Bank rejects Israel’s ‘safety concern’ claims",
           "url": "https://www.aljazeera.com/news/2025/12/16/canadian-mp-blocked-from-west-bank-rejects-israels-safety-concern-claims?traffic_source=rss"
@@ -78,12 +55,31 @@
           "url": "https://www.aljazeera.com/news/2025/12/16/palestinian-infant-freezes-to-death-in-gaza-as-israel-keeps-blocking-aid?traffic_source=rss"
         },
         {
-          "title": "Palestinians mourn teenager killed by Israeli troops in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/palestinians-mourn-teenager-killed-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
+          "title": "Canada announces new methane emission standards for oil and gas sector",
+          "url": "https://www.aljazeera.com/economy/2025/12/16/canada-announces-new-methane-emission-standards-for-oil-and-gas-sector?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
         },
         {
-          "title": "Weather becomes weapon in Israel’s genocidal war on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/weather-becomes-weapon-in-israels-genocidal-war-on-gaza?traffic_source=rss"
+          "title": "Canadian MP blocked from West Bank rejects Israel’s ‘safety concern’ claims",
+          "url": "https://www.aljazeera.com/news/2025/12/16/canadian-mp-blocked-from-west-bank-rejects-israels-safety-concern-claims?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian infant freezes to death in Gaza as Israel keeps blocking aid",
+          "url": "https://www.aljazeera.com/news/2025/12/16/palestinian-infant-freezes-to-death-in-gaza-as-israel-keeps-blocking-aid?traffic_source=rss"
         }
       ],
       "chg1d": -0.015193427191280322,
@@ -93,8 +89,8 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
@@ -108,8 +104,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
@@ -123,8 +119,8 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
