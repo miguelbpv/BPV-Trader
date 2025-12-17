@@ -1,45 +1,14 @@
 {
-  "generated_at": "2025-12-17T01:00:03.095467Z",
+  "generated_at": "2025-12-17T03:51:23.628119Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.57,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump orders ‘total’ blockade of sanctioned Venezuelan oil tankers",
-          "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
-        },
-        {
-          "title": "Canadian MP blocked from West Bank rejects Israel’s ‘safety concern’ claims",
-          "url": "https://www.aljazeera.com/news/2025/12/16/canadian-mp-blocked-from-west-bank-rejects-israels-safety-concern-claims?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian infant freezes to death in Gaza as Israel keeps blocking aid",
-          "url": "https://www.aljazeera.com/news/2025/12/16/palestinian-infant-freezes-to-death-in-gaza-as-israel-keeps-blocking-aid?traffic_source=rss"
-        },
-        {
-          "title": "Canada announces new methane emission standards for oil and gas sector",
-          "url": "https://www.aljazeera.com/economy/2025/12/16/canada-announces-new-methane-emission-standards-for-oil-and-gas-sector?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians mourn teenager killed by Israeli troops in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/palestinians-mourn-teenager-killed-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.57,
+      "score": 5.52,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Trump orders ‘total’ blockade of sanctioned Venezuelan oil tankers",
+          "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
           "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
         },
         {
@@ -64,9 +33,40 @@
       "chg1m": -0.5239078461204085
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.52,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
+          "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
+        },
+        {
+          "title": "Canadian MP blocked from West Bank rejects Israel’s ‘safety concern’ claims",
+          "url": "https://www.aljazeera.com/news/2025/12/16/canadian-mp-blocked-from-west-bank-rejects-israels-safety-concern-claims?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian infant freezes to death in Gaza as Israel keeps blocking aid",
+          "url": "https://www.aljazeera.com/news/2025/12/16/palestinian-infant-freezes-to-death-in-gaza-as-israel-keeps-blocking-aid?traffic_source=rss"
+        },
+        {
+          "title": "Canada announces new methane emission standards for oil and gas sector",
+          "url": "https://www.aljazeera.com/economy/2025/12/16/canada-announces-new-methane-emission-standards-for-oil-and-gas-sector?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians mourn teenager killed by Israeli troops in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/palestinians-mourn-teenager-killed-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.43,
+      "score": 3.39,
       "confianca": 95,
       "razoes": [
         {
@@ -95,28 +95,13 @@
       "chg1m": 0.02423943147905623
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Trump orders ‘total’ blockade of sanctioned Venezuelan oil tankers",
-          "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006073621690547305,
-      "chg5d": -0.05118841693894554,
-      "chg1m": 0.026618605295993372
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
-          "title": "Trump orders ‘total’ blockade of sanctioned Venezuelan oil tankers",
+          "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
           "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
         }
       ],
@@ -127,17 +112,32 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
-          "title": "Trump orders ‘total’ blockade of sanctioned Venezuelan oil tankers",
+          "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
           "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
         }
       ],
       "chg1d": -0.003023562938764178,
       "chg5d": -0.0545136943409908,
       "chg1m": 0.007197528263464684
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
+          "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006073621690547305,
+      "chg5d": -0.05118841693894554,
+      "chg1m": 0.026618605295993372
     }
   ]
 }
