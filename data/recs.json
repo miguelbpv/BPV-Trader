@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:15:29.284300Z",
+  "generated_at": "2025-12-17T18:21:47.969925Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.66,
-      "confianca": 95,
+      "score": 3.17,
+      "confianca": 90,
       "razoes": [
         {
           "title": "Satellite images reveal Israeli demolitions in Gaza during ceasefire",
@@ -18,25 +18,17 @@
         {
           "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
-        },
-        {
-          "title": "Israel to advance plans for 9,000 units in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011070531842045182,
-      "chg5d": -0.040818536162841014,
-      "chg1m": -0.5096856320566748
+      "chg1d": 0.013581374115498718,
+      "chg5d": -0.03843655262018186,
+      "chg1m": -0.5084680097409785
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.66,
-      "confianca": 95,
+      "score": 3.17,
+      "confianca": 90,
       "razoes": [
         {
           "title": "Satellite images reveal Israeli demolitions in Gaza during ceasefire",
@@ -49,42 +41,11 @@
         {
           "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
-        },
-        {
-          "title": "Israel to advance plans for 9,000 units in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Satellite images reveal Israeli demolitions in Gaza during ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/satellite-images-reveal-israeli-demolitions-in-gaza-during-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel to advance plans for 9,000 units in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009327967132016913,
-      "chg5d": 0.009979911954524119,
-      "chg1m": 0.003887165979863293
     },
     {
       "symbol": "TSM",
@@ -97,24 +58,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005333426290654406,
-      "chg5d": -0.07996388727671379,
-      "chg1m": 0.011808091911634283
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.02034292086798929,
-      "chg5d": -0.058213915591609065,
-      "chg1m": 0.033490196078431456
+      "chg1d": -0.032662878655837155,
+      "chg5d": -0.10524279357709418,
+      "chg1m": -0.01599234069713837
     },
     {
       "symbol": "SOXX",
@@ -127,9 +73,39 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0009199864956110045,
-      "chg5d": -0.06449751841431409,
-      "chg1m": 0.043615107913669085
+      "chg1d": -0.027616475354490234,
+      "chg5d": -0.08949514747257611,
+      "chg1m": 0.015728593595711594
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.044575066214395165,
+      "chg5d": -0.08150930922345702,
+      "chg1m": 0.00792647058823533
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Satellite images reveal Israeli demolitions in Gaza during ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/satellite-images-reveal-israeli-demolitions-in-gaza-during-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00737852681004482,
+      "chg5d": 0.011967346240971113,
+      "chg1m": 0.005862610986023298
     }
   ]
 }
