@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-17T09:20:32.971636Z",
+  "generated_at": "2025-12-17T12:28:24.354407Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.06,
-      "confianca": 95,
+      "score": 3.03,
+      "confianca": 86,
       "razoes": [
+        {
+          "title": "Israel to advance plans for 9,000 houses in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss"
+        },
         {
           "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
@@ -18,14 +22,6 @@
         {
           "title": "Canadian MP blocked from West Bank rejects Israel’s ‘safety concern’ claims",
           "url": "https://www.aljazeera.com/news/2025/12/16/canadian-mp-blocked-from-west-bank-rejects-israels-safety-concern-claims?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian infant freezes to death in Gaza as Israel keeps blocking aid",
-          "url": "https://www.aljazeera.com/news/2025/12/16/palestinian-infant-freezes-to-death-in-gaza-as-israel-keeps-blocking-aid?traffic_source=rss"
-        },
-        {
-          "title": "Canada announces new methane emission standards for oil and gas sector",
-          "url": "https://www.aljazeera.com/economy/2025/12/16/canada-announces-new-methane-emission-standards-for-oil-and-gas-sector?traffic_source=rss"
         }
       ],
       "chg1d": -0.030537729586191536,
@@ -35,9 +31,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.06,
-      "confianca": 95,
+      "score": 3.03,
+      "confianca": 86,
       "razoes": [
+        {
+          "title": "Israel to advance plans for 9,000 houses in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss"
+        },
         {
           "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
@@ -49,14 +49,6 @@
         {
           "title": "Canadian MP blocked from West Bank rejects Israel’s ‘safety concern’ claims",
           "url": "https://www.aljazeera.com/news/2025/12/16/canadian-mp-blocked-from-west-bank-rejects-israels-safety-concern-claims?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian infant freezes to death in Gaza as Israel keeps blocking aid",
-          "url": "https://www.aljazeera.com/news/2025/12/16/palestinian-infant-freezes-to-death-in-gaza-as-israel-keeps-blocking-aid?traffic_source=rss"
-        },
-        {
-          "title": "Canada announces new methane emission standards for oil and gas sector",
-          "url": "https://www.aljazeera.com/economy/2025/12/16/canada-announces-new-methane-emission-standards-for-oil-and-gas-sector?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +58,13 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.95,
+      "score": 1.96,
       "confianca": 55,
       "razoes": [
+        {
+          "title": "Israel to advance plans for 9,000 houses in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss"
+        },
         {
           "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
@@ -76,10 +72,6 @@
         {
           "title": "Canadian MP blocked from West Bank rejects Israel’s ‘safety concern’ claims",
           "url": "https://www.aljazeera.com/news/2025/12/16/canadian-mp-blocked-from-west-bank-rejects-israels-safety-concern-claims?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian infant freezes to death in Gaza as Israel keeps blocking aid",
-          "url": "https://www.aljazeera.com/news/2025/12/16/palestinian-infant-freezes-to-death-in-gaza-as-israel-keeps-blocking-aid?traffic_source=rss"
         }
       ],
       "chg1d": -0.015193427191280322,
@@ -87,9 +79,24 @@
       "chg1m": 0.02423943147905623
     },
     {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.07,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
+          "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006073621690547305,
+      "chg5d": -0.05118841693894554,
+      "chg1m": 0.026618605295993372
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -104,7 +111,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -115,21 +122,6 @@
       "chg1d": -0.01081980474710888,
       "chg5d": -0.03184157489383151,
       "chg1m": 0.06859123319231755
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump orders naval blockade of sanctioned Venezuelan oil tankers",
-          "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006073621690547305,
-      "chg5d": -0.05118841693894554,
-      "chg1m": 0.026618605295993372
     }
   ]
 }
