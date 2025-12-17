@@ -1,111 +1,50 @@
 {
-  "generated_at": "2025-12-17T18:21:47.969925Z",
+  "generated_at": "2025-12-17T21:14:00.863788Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.17,
-      "confianca": 90,
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Satellite images reveal Israeli demolitions in Gaza during ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/satellite-images-reveal-israeli-demolitions-in-gaza-during-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Trump orders naval blockade targeting Venezuelan oil",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/trump-orders-naval-blockade-targeting-venezuelan-oil?traffic_source=rss"
-        },
-        {
-          "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
+          "title": "Analysis: Yemen’s future after the separatist STC’s expansion eastwards",
+          "url": "https://www.aljazeera.com/news/2025/12/17/analysis-yemens-future-after-the-separatist-stcs-expansion-eastwards?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013581374115498718,
-      "chg5d": -0.03843655262018186,
-      "chg1m": -0.5084680097409785
+      "chg1d": 0.021456288518603005,
+      "chg5d": -0.03096578605456907,
+      "chg1m": -0.5046491033872039
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Analysis: Yemen’s future after the separatist STC’s expansion eastwards",
+          "url": "https://www.aljazeera.com/news/2025/12/17/analysis-yemens-future-after-the-separatist-stcs-expansion-eastwards?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004318115121787621,
+      "chg5d": 0.015087404368081384,
+      "chg1m": 0.008963847232252915
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.17,
-      "confianca": 90,
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Satellite images reveal Israeli demolitions in Gaza during ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/satellite-images-reveal-israeli-demolitions-in-gaza-during-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Trump orders naval blockade targeting Venezuelan oil",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/trump-orders-naval-blockade-targeting-venezuelan-oil?traffic_source=rss"
-        },
-        {
-          "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
+          "title": "Analysis: Yemen’s future after the separatist STC’s expansion eastwards",
+          "url": "https://www.aljazeera.com/news/2025/12/17/analysis-yemens-future-after-the-separatist-stcs-expansion-eastwards?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.032662878655837155,
-      "chg5d": -0.10524279357709418,
-      "chg1m": -0.01599234069713837
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.027616475354490234,
-      "chg5d": -0.08949514747257611,
-      "chg1m": 0.015728593595711594
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.044575066214395165,
-      "chg5d": -0.08150930922345702,
-      "chg1m": 0.00792647058823533
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Satellite images reveal Israeli demolitions in Gaza during ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/satellite-images-reveal-israeli-demolitions-in-gaza-during-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00737852681004482,
-      "chg5d": 0.011967346240971113,
-      "chg1m": 0.005862610986023298
     }
   ]
 }
