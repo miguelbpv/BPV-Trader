@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-12-18T12:27:46.043861Z",
+  "generated_at": "2025-12-18T15:15:28.315033Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.62,
+      "score": 5.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Why is the US claiming it owns Venezuelan oil and land?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/why-is-the-us-claiming-it-owns-venezuelan-oil-and-land?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches several air strikes on southern and eastern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/israel-launch-several-air-strikes-on-southern-and-eastern-lebanon?traffic_source=rss"
+        },
         {
           "title": "India’s Mohun Bagan banned by AFC for refusal to play football game in Iran",
           "url": "https://www.aljazeera.com/sports/2025/12/18/indias-mohun-bagan-banned-by-afc-for-refusal-to-play-football-game-in-iran?traffic_source=rss"
@@ -18,26 +26,26 @@
         {
           "title": "Gaza doctors use 3D tech to save limbs shattered by Israel from amputation",
           "url": "https://www.aljazeera.com/news/2025/12/18/gaza-doctors-use-3d-printing-to-save-shattered-limbs-from-amputation?traffic_source=rss"
-        },
-        {
-          "title": "Video: Netanyahu announces major Israeli gas deal with Egypt",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/netanyahu-announces-major-israeli-gas-deal-with-egypt?traffic_source=rss"
-        },
-        {
-          "title": "Israel strikes hit southern, eastern Lebanon in latest truce violation",
-          "url": "https://www.aljazeera.com/news/2025/12/18/israel-strikes-across-south-eastern-lebanon-in-latest-truce-violation?traffic_source=rss"
         }
       ],
-      "chg1d": 0.022141063684090363,
-      "chg5d": -0.030316154179298366,
-      "chg1m": -0.5043170245738322
+      "chg1d": -0.0027914247431889234,
+      "chg5d": -0.028394255874673622,
+      "chg1m": -0.5096090489786954
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.62,
+      "score": 5.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Why is the US claiming it owns Venezuelan oil and land?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/why-is-the-us-claiming-it-owns-venezuelan-oil-and-land?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches several air strikes on southern and eastern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/israel-launch-several-air-strikes-on-southern-and-eastern-lebanon?traffic_source=rss"
+        },
         {
           "title": "India’s Mohun Bagan banned by AFC for refusal to play football game in Iran",
           "url": "https://www.aljazeera.com/sports/2025/12/18/indias-mohun-bagan-banned-by-afc-for-refusal-to-play-football-game-in-iran?traffic_source=rss"
@@ -49,14 +57,6 @@
         {
           "title": "Gaza doctors use 3D tech to save limbs shattered by Israel from amputation",
           "url": "https://www.aljazeera.com/news/2025/12/18/gaza-doctors-use-3d-printing-to-save-shattered-limbs-from-amputation?traffic_source=rss"
-        },
-        {
-          "title": "Video: Netanyahu announces major Israeli gas deal with Egypt",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/netanyahu-announces-major-israeli-gas-deal-with-egypt?traffic_source=rss"
-        },
-        {
-          "title": "Israel strikes hit southern, eastern Lebanon in latest truce violation",
-          "url": "https://www.aljazeera.com/news/2025/12/18/israel-strikes-across-south-eastern-lebanon-in-latest-truce-violation?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.27,
-      "confianca": 93,
+      "score": 2.75,
+      "confianca": 78,
       "razoes": [
+        {
+          "title": "Israel launches several air strikes on southern and eastern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/israel-launch-several-air-strikes-on-southern-and-eastern-lebanon?traffic_source=rss"
+        },
         {
           "title": "India’s Mohun Bagan banned by AFC for refusal to play football game in Iran",
           "url": "https://www.aljazeera.com/sports/2025/12/18/indias-mohun-bagan-banned-by-afc-for-refusal-to-play-football-game-in-iran?traffic_source=rss"
@@ -84,15 +88,56 @@
         {
           "title": "Israel strikes hit southern, eastern Lebanon in latest truce violation",
           "url": "https://www.aljazeera.com/news/2025/12/18/israel-strikes-across-south-eastern-lebanon-in-latest-truce-violation?traffic_source=rss"
-        },
-        {
-          "title": "Qatar’s PM says Israeli ceasefire violations ‘endanger’ entire Gaza process",
-          "url": "https://www.aljazeera.com/news/2025/12/18/qatars-pm-says-israeli-ceasefire-violations-endanger-entire-gaza-process?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0047583113235232085,
-      "chg5d": 0.014638628884045012,
-      "chg1m": 0.008517779005055542
+      "chg1d": -0.0029486720444828955,
+      "chg5d": -0.003137634770889507,
+      "chg1m": -0.0028016514998315655
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US sanctions may cause “Great Depression in Venezuela”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/18/us-sanctions-may-cause-great-depression-in?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03581320337972855,
+      "chg5d": -0.06064797151214546,
+      "chg1m": 0.06666546321034
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US sanctions may cause “Great Depression in Venezuela”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/18/us-sanctions-may-cause-great-depression-in?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.030952404400106312,
+      "chg5d": -0.06766769976131953,
+      "chg1m": 0.04262693464533988
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US sanctions may cause “Great Depression in Venezuela”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/18/us-sanctions-may-cause-great-depression-in?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.028812824956672513,
+      "chg5d": -0.06531080859439076,
+      "chg1m": 0.025295959123457133
     }
   ]
 }
