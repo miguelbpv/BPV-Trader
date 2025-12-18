@@ -1,42 +1,16 @@
 {
-  "generated_at": "2025-12-17T21:14:00.863788Z",
+  "generated_at": "2025-12-18T01:00:45.540745Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Analysis: Yemen’s future after the separatist STC’s expansion eastwards",
-          "url": "https://www.aljazeera.com/news/2025/12/17/analysis-yemens-future-after-the-separatist-stcs-expansion-eastwards?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.021456288518603005,
-      "chg5d": -0.03096578605456907,
-      "chg1m": -0.5046491033872039
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Analysis: Yemen’s future after the separatist STC’s expansion eastwards",
-          "url": "https://www.aljazeera.com/news/2025/12/17/analysis-yemens-future-after-the-separatist-stcs-expansion-eastwards?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004318115121787621,
-      "chg5d": 0.015087404368081384,
-      "chg1m": 0.008963847232252915
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "score": 2.08,
+      "confianca": 59,
       "razoes": [
+        {
+          "title": "Trump aide Stephen Miller suggests Venezuelan oil belongs to US",
+          "url": "https://www.aljazeera.com/news/2025/12/17/trump-aide-stephen-miller-suggests-venezuelan-oil-belongs-to-us?traffic_source=rss"
+        },
         {
           "title": "Analysis: Yemen’s future after the separatist STC’s expansion eastwards",
           "url": "https://www.aljazeera.com/news/2025/12/17/analysis-yemens-future-after-the-separatist-stcs-expansion-eastwards?traffic_source=rss"
@@ -45,6 +19,40 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.08,
+      "confianca": 59,
+      "razoes": [
+        {
+          "title": "Trump aide Stephen Miller suggests Venezuelan oil belongs to US",
+          "url": "https://www.aljazeera.com/news/2025/12/17/trump-aide-stephen-miller-suggests-venezuelan-oil-belongs-to-us?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: Yemen’s future after the separatist STC’s expansion eastwards",
+          "url": "https://www.aljazeera.com/news/2025/12/17/analysis-yemens-future-after-the-separatist-stcs-expansion-eastwards?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.022141063684090363,
+      "chg5d": -0.030316154179298366,
+      "chg1m": -0.5043170245738322
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Analysis: Yemen’s future after the separatist STC’s expansion eastwards",
+          "url": "https://www.aljazeera.com/news/2025/12/17/analysis-yemens-future-after-the-separatist-stcs-expansion-eastwards?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0047583113235232085,
+      "chg5d": 0.014638628884045012,
+      "chg1m": 0.008517779005055542
     }
   ]
 }
