@@ -1,75 +1,31 @@
 {
-  "generated_at": "2025-12-18T09:19:23.588973Z",
+  "generated_at": "2025-12-18T12:27:46.043861Z",
   "recs": [
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "From A for algebra to T for tariffs: Arabic words used in English speech",
-          "url": "https://www.aljazeera.com/news/2025/12/18/from-a-for-algebra-to-t-for-tariffs-arabic-words-used-in-english-speech?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.03454526440547992,
-      "chg5d": -0.10698394273553881,
-      "chg1m": -0.017907166412538603
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "From A for algebra to T for tariffs: Arabic words used in English speech",
-          "url": "https://www.aljazeera.com/news/2025/12/18/from-a-for-algebra-to-t-for-tariffs-arabic-words-used-in-english-speech?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.03703578663065486,
-      "chg5d": -0.0983150507381531,
-      "chg1m": 0.005889406122161151
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "From A for algebra to T for tariffs: Arabic words used in English speech",
-          "url": "https://www.aljazeera.com/news/2025/12/18/from-a-for-algebra-to-t-for-tariffs-arabic-words-used-in-english-speech?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.05633567213419451,
-      "chg5d": -0.092815280706143,
-      "chg1m": -0.004480392156862794
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Qatar’s PM says Israeli ceasefire violations ‘endanger’ entire Gaza process",
-          "url": "https://www.aljazeera.com/news/2025/12/18/qatars-pm-says-israeli-ceasefire-violations-endanger-entire-gaza-process?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 4.62,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Qatar’s PM says Israeli ceasefire violations ‘endanger’ entire Gaza process",
-          "url": "https://www.aljazeera.com/news/2025/12/18/qatars-pm-says-israeli-ceasefire-violations-endanger-entire-gaza-process?traffic_source=rss"
+          "title": "India’s Mohun Bagan banned by AFC for refusal to play football game in Iran",
+          "url": "https://www.aljazeera.com/sports/2025/12/18/indias-mohun-bagan-banned-by-afc-for-refusal-to-play-football-game-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Does the US have any real claim on Venezuelan oil as Stephen Miller says?",
+          "url": "https://www.aljazeera.com/news/2025/12/18/does-the-us-have-any-real-claim-on-venezuelan-oil-as-stephen-miller-says?traffic_source=rss"
+        },
+        {
+          "title": "Gaza doctors use 3D tech to save limbs shattered by Israel from amputation",
+          "url": "https://www.aljazeera.com/news/2025/12/18/gaza-doctors-use-3d-printing-to-save-shattered-limbs-from-amputation?traffic_source=rss"
+        },
+        {
+          "title": "Video: Netanyahu announces major Israeli gas deal with Egypt",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/netanyahu-announces-major-israeli-gas-deal-with-egypt?traffic_source=rss"
+        },
+        {
+          "title": "Israel strikes hit southern, eastern Lebanon in latest truce violation",
+          "url": "https://www.aljazeera.com/news/2025/12/18/israel-strikes-across-south-eastern-lebanon-in-latest-truce-violation?traffic_source=rss"
         }
       ],
       "chg1d": 0.022141063684090363,
@@ -77,11 +33,58 @@
       "chg1m": -0.5043170245738322
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.62,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "India’s Mohun Bagan banned by AFC for refusal to play football game in Iran",
+          "url": "https://www.aljazeera.com/sports/2025/12/18/indias-mohun-bagan-banned-by-afc-for-refusal-to-play-football-game-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Does the US have any real claim on Venezuelan oil as Stephen Miller says?",
+          "url": "https://www.aljazeera.com/news/2025/12/18/does-the-us-have-any-real-claim-on-venezuelan-oil-as-stephen-miller-says?traffic_source=rss"
+        },
+        {
+          "title": "Gaza doctors use 3D tech to save limbs shattered by Israel from amputation",
+          "url": "https://www.aljazeera.com/news/2025/12/18/gaza-doctors-use-3d-printing-to-save-shattered-limbs-from-amputation?traffic_source=rss"
+        },
+        {
+          "title": "Video: Netanyahu announces major Israeli gas deal with Egypt",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/netanyahu-announces-major-israeli-gas-deal-with-egypt?traffic_source=rss"
+        },
+        {
+          "title": "Israel strikes hit southern, eastern Lebanon in latest truce violation",
+          "url": "https://www.aljazeera.com/news/2025/12/18/israel-strikes-across-south-eastern-lebanon-in-latest-truce-violation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.27,
+      "confianca": 93,
+      "razoes": [
+        {
+          "title": "India’s Mohun Bagan banned by AFC for refusal to play football game in Iran",
+          "url": "https://www.aljazeera.com/sports/2025/12/18/indias-mohun-bagan-banned-by-afc-for-refusal-to-play-football-game-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Gaza doctors use 3D tech to save limbs shattered by Israel from amputation",
+          "url": "https://www.aljazeera.com/news/2025/12/18/gaza-doctors-use-3d-printing-to-save-shattered-limbs-from-amputation?traffic_source=rss"
+        },
+        {
+          "title": "Video: Netanyahu announces major Israeli gas deal with Egypt",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/netanyahu-announces-major-israeli-gas-deal-with-egypt?traffic_source=rss"
+        },
+        {
+          "title": "Israel strikes hit southern, eastern Lebanon in latest truce violation",
+          "url": "https://www.aljazeera.com/news/2025/12/18/israel-strikes-across-south-eastern-lebanon-in-latest-truce-violation?traffic_source=rss"
+        },
         {
           "title": "Qatar’s PM says Israeli ceasefire violations ‘endanger’ entire Gaza process",
           "url": "https://www.aljazeera.com/news/2025/12/18/qatars-pm-says-israeli-ceasefire-violations-endanger-entire-gaza-process?traffic_source=rss"
