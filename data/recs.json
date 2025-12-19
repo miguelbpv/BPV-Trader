@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T01:03:53.485092Z",
+  "generated_at": "2025-12-19T03:54:33.803435Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 2.06,
-      "confianca": 58,
+      "score": 1.06,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
@@ -14,10 +14,6 @@
         {
           "title": "Israel-Lebanon talks: Everything you need to know",
           "url": "https://www.aljazeera.com/news/2025/12/18/israel-lebanon-talks-everything-you-need-to-know?traffic_source=rss"
-        },
-        {
-          "title": "Egypt says gas deal with Israel is ‘purely commercial’",
-          "url": "https://www.aljazeera.com/news/2025/12/18/egypt-says-gas-deal-with-israel-is-purely-commercial?traffic_source=rss"
         }
       ],
       "chg1d": -0.014738722644037599,
@@ -27,8 +23,8 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 2.06,
-      "confianca": 58,
+      "score": 1.06,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
@@ -37,10 +33,6 @@
         {
           "title": "Israel-Lebanon talks: Everything you need to know",
           "url": "https://www.aljazeera.com/news/2025/12/18/israel-lebanon-talks-everything-you-need-to-know?traffic_source=rss"
-        },
-        {
-          "title": "Egypt says gas deal with Israel is ‘purely commercial’",
-          "url": "https://www.aljazeera.com/news/2025/12/18/egypt-says-gas-deal-with-israel-is-purely-commercial?traffic_source=rss"
         }
       ],
       "chg1d": -0.009793803576318023,
@@ -50,8 +42,8 @@
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.06,
-      "confianca": 58,
+      "score": 1.06,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
@@ -60,30 +52,11 @@
         {
           "title": "Israel-Lebanon talks: Everything you need to know",
           "url": "https://www.aljazeera.com/news/2025/12/18/israel-lebanon-talks-everything-you-need-to-know?traffic_source=rss"
-        },
-        {
-          "title": "Egypt says gas deal with Israel is ‘purely commercial’",
-          "url": "https://www.aljazeera.com/news/2025/12/18/egypt-says-gas-deal-with-israel-is-purely-commercial?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Instacart settles Federal Trade Commission’s claim it deceived US shoppers",
-          "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014490098432737707,
-      "chg5d": -0.026327568016880378,
-      "chg1m": 0.02146534520635252
     },
     {
       "symbol": "IWM",
@@ -116,6 +89,21 @@
       "chg1m": 0.024830323597139718
     },
     {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Instacart settles Federal Trade Commission’s claim it deceived US shoppers",
+          "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014490098432737707,
+      "chg5d": -0.026327568016880378,
+      "chg1m": 0.02146534520635252
+    },
+    {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
       "score": 0.73,
@@ -146,21 +134,6 @@
       "chg1m": 0.05437215683442848
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
-          "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.027874061236279706,
-      "chg5d": -0.0661636870592095,
-      "chg1m": 0.02436040444748293
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.59,
@@ -174,6 +147,21 @@
       "chg1d": 0.020670060959396656,
       "chg5d": -0.07696644223575917,
       "chg1m": 0.03222815369599442
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.59,
+      "confianca": 16,
+      "razoes": [
+        {
+          "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
+          "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.027874061236279706,
+      "chg5d": -0.0661636870592095,
+      "chg1m": 0.02436040444748293
     }
   ]
 }
