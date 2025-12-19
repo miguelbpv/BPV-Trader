@@ -1,57 +1,15 @@
 {
-  "generated_at": "2025-12-19T03:54:33.803435Z",
+  "generated_at": "2025-12-19T06:21:14.013584Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.06,
-      "confianca": 30,
+      "score": 0.72,
+      "confianca": 20,
       "razoes": [
         {
-          "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
-          "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss"
-        },
-        {
-          "title": "Israel-Lebanon talks: Everything you need to know",
-          "url": "https://www.aljazeera.com/news/2025/12/18/israel-lebanon-talks-everything-you-need-to-know?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.014738722644037599,
-      "chg5d": -0.040034812880765956,
-      "chg1m": -0.5154842960685263
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.06,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
-          "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss"
-        },
-        {
-          "title": "Israel-Lebanon talks: Everything you need to know",
-          "url": "https://www.aljazeera.com/news/2025/12/18/israel-lebanon-talks-everything-you-need-to-know?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009793803576318023,
-      "chg5d": -0.009981469002695437,
-      "chg1m": -0.009647792382878414
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.06,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
-          "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss"
-        },
-        {
-          "title": "Israel-Lebanon talks: Everything you need to know",
-          "url": "https://www.aljazeera.com/news/2025/12/18/israel-lebanon-talks-everything-you-need-to-know?traffic_source=rss"
+          "title": "Instacart settles Federal Trade Commission’s claim it deceived US shoppers",
+          "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -61,7 +19,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -69,29 +27,14 @@
           "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
         }
       ],
-      "chg1d": 0.005864746804724108,
-      "chg5d": -0.03533747090768043,
-      "chg1m": 0.06519038848674348
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Instacart settles Federal Trade Commission’s claim it deceived US shoppers",
-          "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007551385165326259,
-      "chg5d": -0.018427964072725064,
-      "chg1m": 0.024830323597139718
+      "chg1d": 0.0059456398640996555,
+      "chg5d": -0.0352598913886734,
+      "chg1m": 0.0652760525977642
     },
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -104,9 +47,9 @@
       "chg1m": 0.02146534520635252
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -114,54 +57,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
-          "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0238754689198191,
-      "chg5d": -0.07147399211496873,
-      "chg1m": 0.05437215683442848
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
-          "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.020670060959396656,
-      "chg5d": -0.07696644223575917,
-      "chg1m": 0.03222815369599442
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
-          "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.027874061236279706,
-      "chg5d": -0.0661636870592095,
-      "chg1m": 0.02436040444748293
+      "chg1d": 0.007551385165326259,
+      "chg5d": -0.018427964072725064,
+      "chg1m": 0.024830323597139718
     }
   ]
 }
