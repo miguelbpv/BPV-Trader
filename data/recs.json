@@ -1,30 +1,54 @@
 {
-  "generated_at": "2025-12-19T18:19:26.942226Z",
+  "generated_at": "2025-12-19T21:12:49.061227Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.49,
-      "confianca": 13,
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
+          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
+        },
         {
           "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israeli attack on school-turned-shelter in Gaza City kills six people",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/19/live-gaza-ceasefire-mediators-to-hold-talks-on-second-phase?traffic_source=rss"
         }
       ],
-      "chg1d": 0.005189943421108601,
-      "chg5d": -0.015970848516397743,
-      "chg1m": 0.005681939094720178
+      "chg1d": 0.006753307525417985,
+      "chg5d": -0.014440395627277464,
+      "chg1m": 0.0072460683960757855
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.49,
-      "confianca": 13,
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
+          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
+        },
         {
           "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israeli attack on school-turned-shelter in Gaza City kills six people",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/19/live-gaza-ceasefire-mediators-to-hold-talks-on-second-phase?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,18 +57,30 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.49,
-      "confianca": 13,
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
+          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
+        },
         {
           "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israeli attack on school-turned-shelter in Gaza City kills six people",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/19/live-gaza-ceasefire-mediators-to-hold-talks-on-second-phase?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0028325402220711533,
-      "chg5d": -0.02757635684464943,
-      "chg1m": -0.5076212728081887
+      "chg1d": -0.0003399048266485513,
+      "chg5d": -0.030652603823335445,
+      "chg1m": -0.5091789052069425
     }
   ]
 }
