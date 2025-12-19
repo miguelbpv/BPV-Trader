@@ -1,6 +1,81 @@
 {
-  "generated_at": "2025-12-19T06:21:14.013584Z",
+  "generated_at": "2025-12-19T09:17:17.134501Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "How much is US support for Israel costing Donald Trump?",
+          "url": "https://www.aljazeera.com/news/2025/12/19/how-much-is-us-support-for-israel-costing-donald-trump?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "How much is US support for Israel costing Donald Trump?",
+          "url": "https://www.aljazeera.com/news/2025/12/19/how-much-is-us-support-for-israel-costing-donald-trump?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01451540866458237,
+      "chg5d": -0.039817232375979075,
+      "chg1m": -0.5153744783659125
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "How much is US support for Israel costing Donald Trump?",
+          "url": "https://www.aljazeera.com/news/2025/12/19/how-much-is-us-support-for-israel-costing-donald-trump?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009793803576318023,
+      "chg5d": -0.009981469002695437,
+      "chg1m": -0.009647792382878414
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Instacart settles Federal Trade Commission’s claim it deceived US shoppers",
+          "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007551385165326259,
+      "chg5d": -0.018427964072725064,
+      "chg1m": 0.024830323597139718
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Instacart settles Federal Trade Commission’s claim it deceived US shoppers",
+          "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014490098432737707,
+      "chg5d": -0.026327568016880378,
+      "chg1m": 0.02146534520635252
+    },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
@@ -30,36 +105,6 @@
       "chg1d": 0.0059456398640996555,
       "chg5d": -0.0352598913886734,
       "chg1m": 0.0652760525977642
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Instacart settles Federal Trade Commission’s claim it deceived US shoppers",
-          "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014490098432737707,
-      "chg5d": -0.026327568016880378,
-      "chg1m": 0.02146534520635252
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Instacart settles Federal Trade Commission’s claim it deceived US shoppers",
-          "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007551385165326259,
-      "chg5d": -0.018427964072725064,
-      "chg1m": 0.024830323597139718
     }
   ]
 }
