@@ -1,62 +1,50 @@
 {
-  "generated_at": "2025-12-19T12:26:33.839453Z",
+  "generated_at": "2025-12-19T15:14:46.857498Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Gaza’s tech workers code from rubble as Israel’s war destroys digital life",
-          "url": "https://www.aljazeera.com/news/2025/12/19/gazas-tech-workers-code-from-rubble-as-israels-war-destroys-digital-life?traffic_source=rss"
-        },
-        {
-          "title": "How much is US support for Israel costing Donald Trump?",
-          "url": "https://www.aljazeera.com/news/2025/12/19/how-much-is-us-support-for-israel-costing-donald-trump?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01451540866458237,
-      "chg5d": -0.039817232375979075,
-      "chg1m": -0.5153744783659125
-    },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "Gaza’s tech workers code from rubble as Israel’s war destroys digital life",
           "url": "https://www.aljazeera.com/news/2025/12/19/gazas-tech-workers-code-from-rubble-as-israels-war-destroys-digital-life?traffic_source=rss"
-        },
-        {
-          "title": "How much is US support for Israel costing Donald Trump?",
-          "url": "https://www.aljazeera.com/news/2025/12/19/how-much-is-us-support-for-israel-costing-donald-trump?traffic_source=rss"
         }
       ],
-      "chg1d": -0.009793803576318023,
-      "chg5d": -0.009981469002695437,
-      "chg1m": -0.009647792382878414
+      "chg1d": 0.0016059046241544976,
+      "chg5d": -0.01947943779281628,
+      "chg1m": 0.0020961460705240507
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "Gaza’s tech workers code from rubble as Israel’s war destroys digital life",
           "url": "https://www.aljazeera.com/news/2025/12/19/gazas-tech-workers-code-from-rubble-as-israels-war-destroys-digital-life?traffic_source=rss"
-        },
-        {
-          "title": "How much is US support for Israel costing Donald Trump?",
-          "url": "https://www.aljazeera.com/news/2025/12/19/how-much-is-us-support-for-israel-costing-donald-trump?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Gaza’s tech workers code from rubble as Israel’s war destroys digital life",
+          "url": "https://www.aljazeera.com/news/2025/12/19/gazas-tech-workers-code-from-rubble-as-israels-war-destroys-digital-life?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006684794924087799,
+      "chg5d": -0.023840914084816544,
+      "chg1m": -0.5057298620382733
     }
   ]
 }
