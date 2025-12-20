@@ -1,38 +1,11 @@
 {
-  "generated_at": "2025-12-19T21:12:49.061227Z",
+  "generated_at": "2025-12-20T01:00:09.021565Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
-          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli attack on school-turned-shelter in Gaza City kills six people",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/19/live-gaza-ceasefire-mediators-to-hold-talks-on-second-phase?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006753307525417985,
-      "chg5d": -0.014440395627277464,
-      "chg1m": 0.0072460683960757855
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
@@ -45,10 +18,6 @@
         {
           "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli attack on school-turned-shelter in Gaza City kills six people",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/19/live-gaza-ceasefire-mediators-to-hold-talks-on-second-phase?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,10 +25,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
@@ -72,15 +41,34 @@
         {
           "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
           "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli attack on school-turned-shelter in Gaza City kills six people",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/19/live-gaza-ceasefire-mediators-to-hold-talks-on-second-phase?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0003399048266485513,
-      "chg5d": -0.030652603823335445,
-      "chg1m": -0.5091789052069425
+      "chg1d": 0.008486833709107945,
+      "chg5d": -0.012743362831858417,
+      "chg1m": 0.0089804430635653
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
+          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
+          "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00022660321776564717,
+      "chg5d": -0.030103274005712975,
+      "chg1m": -0.5089007565643079
     }
   ]
 }
