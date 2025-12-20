@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T03:44:52.396482Z",
+  "generated_at": "2025-12-20T06:20:34.908034Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.45,
+      "confianca": 41,
       "razoes": [
         {
           "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
@@ -21,29 +21,10 @@
       "chg1m": 0.0089804430635653
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
-          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00022660321776564717,
-      "chg5d": -0.030103274005712975,
-      "chg1m": -0.5089007565643079
-    },
-    {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.45,
+      "confianca": 41,
       "razoes": [
         {
           "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
@@ -57,6 +38,70 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.45,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
+          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": -0.03032300593276193,
+      "chg1m": -0.5090120160213618
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US sanctions more relatives, associates of Venezuelan President Maduro",
+          "url": "https://www.aljazeera.com/news/2025/12/20/us-sanctions-more-relatives-associates-of-venezuelan-president-maduro?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014999297456793528,
+      "chg5d": -0.010580742364059826,
+      "chg1m": 0.023302758791656282
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US sanctions more relatives, associates of Venezuelan President Maduro",
+          "url": "https://www.aljazeera.com/news/2025/12/20/us-sanctions-more-relatives-associates-of-venezuelan-president-maduro?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019019405390279007,
+      "chg5d": -0.022972660406161752,
+      "chg1m": 0.01605842225279753
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US sanctions more relatives, associates of Venezuelan President Maduro",
+          "url": "https://www.aljazeera.com/news/2025/12/20/us-sanctions-more-relatives-associates-of-venezuelan-president-maduro?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.026605944391179227,
+      "chg5d": 0.001101909977293923,
+      "chg1m": 0.06462838677603774
     }
   ]
 }
