@@ -1,19 +1,38 @@
 {
-  "generated_at": "2025-12-20T06:20:34.908034Z",
+  "generated_at": "2025-12-20T09:13:11.475513Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Netanyahu finally announces October 7 inquiry: Why are Israelis furious?",
+          "url": "https://www.aljazeera.com/news/2025/12/20/netanyahu-finally-announces-october-7-inquiry-why-are-israelis-furious?traffic_source=rss"
+        },
         {
           "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
           "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": -0.03032300593276193,
+      "chg1m": -0.5090120160213618
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Netanyahu finally announces October 7 inquiry: Why are Israelis furious?",
+          "url": "https://www.aljazeera.com/news/2025/12/20/netanyahu-finally-announces-october-7-inquiry-why-are-israelis-furious?traffic_source=rss"
         },
         {
-          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
+          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
+          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.008486833709107945,
@@ -23,16 +42,16 @@
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Netanyahu finally announces October 7 inquiry: Why are Israelis furious?",
+          "url": "https://www.aljazeera.com/news/2025/12/20/netanyahu-finally-announces-october-7-inquiry-why-are-israelis-furious?traffic_source=rss"
+        },
         {
           "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
           "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -40,28 +59,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
-          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": -0.03032300593276193,
-      "chg1m": -0.5090120160213618
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -76,7 +76,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -91,7 +91,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
