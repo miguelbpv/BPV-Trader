@@ -1,34 +1,11 @@
 {
-  "generated_at": "2025-12-20T01:00:09.021565Z",
+  "generated_at": "2025-12-20T03:44:52.396482Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
-          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
@@ -37,10 +14,6 @@
         {
           "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
         }
       ],
       "chg1d": 0.008486833709107945,
@@ -50,8 +23,8 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
@@ -60,15 +33,30 @@
         {
           "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah",
-          "url": "https://www.aljazeera.com/news/2025/12/19/israel-lebanon-officials-meet-as-pressure-mounts-to-disarm-hezbollah?traffic_source=rss"
         }
       ],
       "chg1d": 0.00022660321776564717,
       "chg5d": -0.030103274005712975,
       "chg1m": -0.5089007565643079
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
+          "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
