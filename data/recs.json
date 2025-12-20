@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-20T15:12:28.873822Z",
+  "generated_at": "2025-12-20T18:17:21.270158Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 3.67,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel launches new raids in Syria’s Quneitra, establishes checkpoints",
+          "url": "https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss"
+        },
         {
           "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
           "url": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
@@ -29,38 +33,15 @@
       "chg1m": -0.5090120160213618
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
-          "url": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
-        },
-        {
-          "title": "Iran executes man accused of spying for Israel’s Mossad: State media",
-          "url": "https://www.aljazeera.com/news/2025/12/20/iran-executes-man-accused-of-spying-for-israels-mossad-state-media?traffic_source=rss"
-        },
-        {
-          "title": "Islamic University of Gaza resumes classes on site amid Israeli destruction",
-          "url": "https://www.aljazeera.com/news/2025/12/20/islamic-university-of-gaza-resumes-classes-on-site-amid-israeli-destruction?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu finally announces October 7 inquiry: Why are Israelis furious?",
-          "url": "https://www.aljazeera.com/news/2025/12/20/netanyahu-finally-announces-october-7-inquiry-why-are-israelis-furious?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 3.67,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel launches new raids in Syria’s Quneitra, establishes checkpoints",
+          "url": "https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss"
+        },
         {
           "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
           "url": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
@@ -83,25 +64,56 @@
       "chg1m": 0.0089804430635653
     },
     {
-      "symbol": "SOXX",
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.67,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel launches new raids in Syria’s Quneitra, establishes checkpoints",
+          "url": "https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss"
+        },
+        {
+          "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
+          "url": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
+        },
+        {
+          "title": "Iran executes man accused of spying for Israel’s Mossad: State media",
+          "url": "https://www.aljazeera.com/news/2025/12/20/iran-executes-man-accused-of-spying-for-israels-mossad-state-media?traffic_source=rss"
+        },
+        {
+          "title": "Islamic University of Gaza resumes classes on site amid Israeli destruction",
+          "url": "https://www.aljazeera.com/news/2025/12/20/islamic-university-of-gaza-resumes-classes-on-site-amid-israeli-destruction?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu finally announces October 7 inquiry: Why are Israelis furious?",
+          "url": "https://www.aljazeera.com/news/2025/12/20/netanyahu-finally-announces-october-7-inquiry-why-are-israelis-furious?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US sanctions more relatives, associates of Venezuelan President Maduro",
           "url": "https://www.aljazeera.com/news/2025/12/20/us-sanctions-more-relatives-associates-of-venezuelan-president-maduro?traffic_source=rss"
         }
       ],
-      "chg1d": 0.026605944391179227,
-      "chg5d": 0.001101909977293923,
-      "chg1m": 0.06462838677603774
+      "chg1d": 0.019019405390279007,
+      "chg5d": -0.022972660406161752,
+      "chg1m": 0.01605842225279753
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US sanctions more relatives, associates of Venezuelan President Maduro",
@@ -113,19 +125,19 @@
       "chg1m": 0.023302758791656282
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US sanctions more relatives, associates of Venezuelan President Maduro",
           "url": "https://www.aljazeera.com/news/2025/12/20/us-sanctions-more-relatives-associates-of-venezuelan-president-maduro?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019019405390279007,
-      "chg5d": -0.022972660406161752,
-      "chg1m": 0.01605842225279753
+      "chg1d": 0.026605944391179227,
+      "chg5d": 0.001101909977293923,
+      "chg1m": 0.06462838677603774
     }
   ]
 }
