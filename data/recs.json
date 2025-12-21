@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-12-21T03:57:25.927291Z",
+  "generated_at": "2025-12-21T06:19:56.497000Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.37,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US, Egypt, Qatar, Turkiye urge restraint in Gaza as Israeli attacks continue",
-          "url": "https://www.aljazeera.com/news/2025/12/20/us-qatar-egypt-turkey-urge-gaza-restraint-as-israeli-strikes-continue?traffic_source=rss"
-        },
-        {
-          "title": "US seizes second oil tanker off Venezuela’s coast",
-          "url": "https://www.aljazeera.com/news/2025/12/20/us-seizes-second-oil-vessel-off-venezuela-coast-officials-say?traffic_source=rss"
-        },
-        {
-          "title": "‘Red Ribbon’ vigil for Palestinian prisoners held by Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/20/red-ribbon-vigil-for-palestinian-prisoners-held-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches new raids in Syria’s Quneitra, establishes checkpoints",
-          "url": "https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss"
-        },
-        {
-          "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
-          "url": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.37,
+      "score": 5.63,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": -0.5090120160213618
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.63,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US, Egypt, Qatar, Turkiye urge restraint in Gaza as Israeli attacks continue",
+          "url": "https://www.aljazeera.com/news/2025/12/20/us-qatar-egypt-turkey-urge-gaza-restraint-as-israeli-strikes-continue?traffic_source=rss"
+        },
+        {
+          "title": "US seizes second oil tanker off Venezuela’s coast",
+          "url": "https://www.aljazeera.com/news/2025/12/20/us-seizes-second-oil-vessel-off-venezuela-coast-officials-say?traffic_source=rss"
+        },
+        {
+          "title": "‘Red Ribbon’ vigil for Palestinian prisoners held by Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/20/red-ribbon-vigil-for-palestinian-prisoners-held-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches new raids in Syria’s Quneitra, establishes checkpoints",
+          "url": "https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss"
+        },
+        {
+          "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
+          "url": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.04,
+      "score": 4.3,
       "confianca": 95,
       "razoes": [
         {
