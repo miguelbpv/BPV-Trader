@@ -1,62 +1,31 @@
 {
-  "generated_at": "2025-12-21T06:19:56.497000Z",
+  "generated_at": "2025-12-21T09:13:20.154299Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.63,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US, Egypt, Qatar, Turkiye urge restraint in Gaza as Israeli attacks continue",
-          "url": "https://www.aljazeera.com/news/2025/12/20/us-qatar-egypt-turkey-urge-gaza-restraint-as-israeli-strikes-continue?traffic_source=rss"
-        },
-        {
-          "title": "US seizes second oil tanker off Venezuela’s coast",
-          "url": "https://www.aljazeera.com/news/2025/12/20/us-seizes-second-oil-vessel-off-venezuela-coast-officials-say?traffic_source=rss"
-        },
-        {
-          "title": "‘Red Ribbon’ vigil for Palestinian prisoners held by Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/20/red-ribbon-vigil-for-palestinian-prisoners-held-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches new raids in Syria’s Quneitra, establishes checkpoints",
-          "url": "https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss"
-        },
-        {
-          "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
-          "url": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": -0.03032300593276193,
-      "chg1m": -0.5090120160213618
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.63,
+      "score": 6.33,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US, Egypt, Qatar, Turkiye urge restraint in Gaza as Israeli attacks continue",
+          "title": "US seizes second oil tanker off Venezuela",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/us-seizes-second-oil-tanker-off-venezuela?traffic_source=rss"
+        },
+        {
+          "title": "Israeli death penalty bill violates international law: Palestinian analysts",
+          "url": "https://www.aljazeera.com/features/2025/12/21/israeli-death-penalty-bill-violates-international-law-palestinian-analysts?traffic_source=rss"
+        },
+        {
+          "title": "Vigil in London for Palestinian prisoners held in Israel",
+          "url": "https://www.aljazeera.com/news/2025/12/21/vigil-in-london-for-palestinian-prisoners-held-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israeli truce violations making Gaza peace efforts ‘incredibly difficult’",
           "url": "https://www.aljazeera.com/news/2025/12/20/us-qatar-egypt-turkey-urge-gaza-restraint-as-israeli-strikes-continue?traffic_source=rss"
         },
         {
           "title": "US seizes second oil tanker off Venezuela’s coast",
           "url": "https://www.aljazeera.com/news/2025/12/20/us-seizes-second-oil-vessel-off-venezuela-coast-officials-say?traffic_source=rss"
-        },
-        {
-          "title": "‘Red Ribbon’ vigil for Palestinian prisoners held by Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/20/red-ribbon-vigil-for-palestinian-prisoners-held-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches new raids in Syria’s Quneitra, establishes checkpoints",
-          "url": "https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss"
-        },
-        {
-          "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
-          "url": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,13 +33,52 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.3,
+      "score": 6.33,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US, Egypt, Qatar, Turkiye urge restraint in Gaza as Israeli attacks continue",
+          "title": "US seizes second oil tanker off Venezuela",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/us-seizes-second-oil-tanker-off-venezuela?traffic_source=rss"
+        },
+        {
+          "title": "Israeli death penalty bill violates international law: Palestinian analysts",
+          "url": "https://www.aljazeera.com/features/2025/12/21/israeli-death-penalty-bill-violates-international-law-palestinian-analysts?traffic_source=rss"
+        },
+        {
+          "title": "Vigil in London for Palestinian prisoners held in Israel",
+          "url": "https://www.aljazeera.com/news/2025/12/21/vigil-in-london-for-palestinian-prisoners-held-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israeli truce violations making Gaza peace efforts ‘incredibly difficult’",
+          "url": "https://www.aljazeera.com/news/2025/12/20/us-qatar-egypt-turkey-urge-gaza-restraint-as-israeli-strikes-continue?traffic_source=rss"
+        },
+        {
+          "title": "US seizes second oil tanker off Venezuela’s coast",
+          "url": "https://www.aljazeera.com/news/2025/12/20/us-seizes-second-oil-vessel-off-venezuela-coast-officials-say?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": -0.03032300593276193,
+      "chg1m": -0.5090120160213618
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.66,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli death penalty bill violates international law: Palestinian analysts",
+          "url": "https://www.aljazeera.com/features/2025/12/21/israeli-death-penalty-bill-violates-international-law-palestinian-analysts?traffic_source=rss"
+        },
+        {
+          "title": "Vigil in London for Palestinian prisoners held in Israel",
+          "url": "https://www.aljazeera.com/news/2025/12/21/vigil-in-london-for-palestinian-prisoners-held-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israeli truce violations making Gaza peace efforts ‘incredibly difficult’",
           "url": "https://www.aljazeera.com/news/2025/12/20/us-qatar-egypt-turkey-urge-gaza-restraint-as-israeli-strikes-continue?traffic_source=rss"
         },
         {
@@ -80,14 +88,6 @@
         {
           "title": "Israel launches new raids in Syria’s Quneitra, establishes checkpoints",
           "url": "https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss"
-        },
-        {
-          "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
-          "url": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
-        },
-        {
-          "title": "Iran executes man accused of spying for Israel’s Mossad: State media",
-          "url": "https://www.aljazeera.com/news/2025/12/20/iran-executes-man-accused-of-spying-for-israels-mossad-state-media?traffic_source=rss"
         }
       ],
       "chg1d": 0.008486833709107945,
