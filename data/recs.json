@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-12-22T01:06:57.244960Z",
+  "generated_at": "2025-12-22T04:01:10.011346Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.46,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "‘Alarming’ medicine shortages in Gaza amid Israeli restrictions",
-          "url": "https://www.aljazeera.com/news/2025/12/21/alarming-medicine-shortages-in-gaza-amid-israeli-restrictions?traffic_source=rss"
-        },
-        {
-          "title": "US pursues another oil tanker off the coast of Venezuela",
-          "url": "https://www.aljazeera.com/news/2025/12/21/us-pursues-another-oil-tanker-near-venezuela-reports?traffic_source=rss"
-        },
-        {
-          "title": "Israeli arms companies’ revenues soared in 2024",
-          "url": "https://www.aljazeera.com/news/2025/12/21/israeli-arms-companies-revenues-soared-in-2024?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two Palestinians, including 16-year-old, in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians attending wedding killed in Israeli attack on Gaza school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinians-attending-wedding-killed-in-israeli-attack-on-gaza-school?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.46,
+      "score": 3.99,
       "confianca": 95,
       "razoes": [
         {
@@ -43,7 +12,7 @@
           "url": "https://www.aljazeera.com/news/2025/12/21/alarming-medicine-shortages-in-gaza-amid-israeli-restrictions?traffic_source=rss"
         },
         {
-          "title": "US pursues another oil tanker off the coast of Venezuela",
+          "title": "US pursues third oil tanker off the coast of Venezuela",
           "url": "https://www.aljazeera.com/news/2025/12/21/us-pursues-another-oil-tanker-near-venezuela-reports?traffic_source=rss"
         },
         {
@@ -64,10 +33,41 @@
       "chg1m": -0.5090120160213618
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.99,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘Alarming’ medicine shortages in Gaza amid Israeli restrictions",
+          "url": "https://www.aljazeera.com/news/2025/12/21/alarming-medicine-shortages-in-gaza-amid-israeli-restrictions?traffic_source=rss"
+        },
+        {
+          "title": "US pursues third oil tanker off the coast of Venezuela",
+          "url": "https://www.aljazeera.com/news/2025/12/21/us-pursues-another-oil-tanker-near-venezuela-reports?traffic_source=rss"
+        },
+        {
+          "title": "Israeli arms companies’ revenues soared in 2024",
+          "url": "https://www.aljazeera.com/news/2025/12/21/israeli-arms-companies-revenues-soared-in-2024?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills two Palestinians, including 16-year-old, in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians attending wedding killed in Israeli attack on Gaza school",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinians-attending-wedding-killed-in-israeli-attack-on-gaza-school?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.12,
-      "confianca": 95,
+      "score": 2.65,
+      "confianca": 75,
       "razoes": [
         {
           "title": "‘Alarming’ medicine shortages in Gaza amid Israeli restrictions",
@@ -84,10 +84,6 @@
         {
           "title": "Palestinians attending wedding killed in Israeli attack on Gaza school",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinians-attending-wedding-killed-in-israeli-attack-on-gaza-school?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s yellow line in Gaza has become a “site of killing”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/21/aje-onl-gordon_quotable-211225?traffic_source=rss"
         }
       ],
       "chg1d": 0.008486833709107945,
@@ -95,24 +91,9 @@
       "chg1m": 0.0089804430635653
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Swedish authorities board sanctioned Russian ship in national waters",
-          "url": "https://www.aljazeera.com/news/2025/12/21/swedish-authorities-board-sanctioned-russian-ship-in-national-waters?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.026605944391179227,
-      "chg5d": 0.001101909977293923,
-      "chg1m": 0.06462838677603774
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +108,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -138,6 +119,21 @@
       "chg1d": 0.014999297456793528,
       "chg5d": -0.010580742364059826,
       "chg1m": 0.023302758791656282
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Swedish authorities board sanctioned Russian ship in national waters",
+          "url": "https://www.aljazeera.com/news/2025/12/21/swedish-authorities-board-sanctioned-russian-ship-in-national-waters?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.026605944391179227,
+      "chg5d": 0.001101909977293923,
+      "chg1m": 0.06462838677603774
     }
   ]
 }
