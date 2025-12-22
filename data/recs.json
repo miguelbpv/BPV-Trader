@@ -1,39 +1,24 @@
 {
-  "generated_at": "2025-12-22T12:28:13.846596Z",
+  "generated_at": "2025-12-22T15:14:33.694452Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.58,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli military storms West Bank towns, carries out demolition",
-          "url": "https://www.aljazeera.com/news/2025/12/22/israeli-military-storms-west-bank-towns-carries-out-demolition?traffic_source=rss"
-        },
-        {
-          "title": "Israel demolishes residential building in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/israel-demolishes-residential-building-in-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Israeli arms firms make record profits of the back of Gaza war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/israeli-arms-firms-make-record-profits-of-the-back-of-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "US accused of stealing oil after intercepting third Venezuelan tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/us-accused-of-stealing-oil-after-intercepting-third-venezuelan-tanker?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": -0.03032300593276193,
-      "chg1m": -0.5090120160213618
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.58,
+      "score": 5.9,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "Seizing ships as leverage: US vs Houthis",
+          "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/22/seizing-ships-as-leverage-us-vs-houthis?traffic_source=rss"
+        },
+        {
+          "title": "Are US oil tanker seizures off Venezuela legal or acts of piracy?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/are-us-oil-tanker-seizures-off-venezuela-legal-or-acts-of-piracy?traffic_source=rss"
+        },
         {
           "title": "Israeli military storms West Bank towns, carries out demolition",
           "url": "https://www.aljazeera.com/news/2025/12/22/israeli-military-storms-west-bank-towns-carries-out-demolition?traffic_source=rss"
@@ -41,14 +26,6 @@
         {
           "title": "Israel demolishes residential building in occupied East Jerusalem",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/israel-demolishes-residential-building-in-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Israeli arms firms make record profits of the back of Gaza war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/israeli-arms-firms-make-record-profits-of-the-back-of-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "US accused of stealing oil after intercepting third Venezuelan tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/us-accused-of-stealing-oil-after-intercepting-third-venezuelan-tanker?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,11 +33,50 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.9,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "Seizing ships as leverage: US vs Houthis",
+          "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/22/seizing-ships-as-leverage-us-vs-houthis?traffic_source=rss"
+        },
+        {
+          "title": "Are US oil tanker seizures off Venezuela legal or acts of piracy?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/are-us-oil-tanker-seizures-off-venezuela-legal-or-acts-of-piracy?traffic_source=rss"
+        },
+        {
+          "title": "Israeli military storms West Bank towns, carries out demolition",
+          "url": "https://www.aljazeera.com/news/2025/12/22/israeli-military-storms-west-bank-towns-carries-out-demolition?traffic_source=rss"
+        },
+        {
+          "title": "Israel demolishes residential building in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/israel-demolishes-residential-building-in-occupied-east-jerusalem?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004532064355313749,
+      "chg5d": -0.019030759017481733,
+      "chg1m": -0.5011253657438668
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.24,
-      "confianca": 64,
+      "score": 3.22,
+      "confianca": 92,
       "razoes": [
+        {
+          "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "Seizing ships as leverage: US vs Houthis",
+          "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/22/seizing-ships-as-leverage-us-vs-houthis?traffic_source=rss"
+        },
         {
           "title": "Israeli military storms West Bank towns, carries out demolition",
           "url": "https://www.aljazeera.com/news/2025/12/22/israeli-military-storms-west-bank-towns-carries-out-demolition?traffic_source=rss"
@@ -74,9 +90,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/israeli-arms-firms-make-record-profits-of-the-back-of-gaza-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008486833709107945,
-      "chg5d": -0.012743362831858417,
-      "chg1m": 0.0089804430635653
+      "chg1d": 0.01165292219433484,
+      "chg5d": -0.009836505511746094,
+      "chg1m": 0.024334771280912274
     }
   ]
 }
