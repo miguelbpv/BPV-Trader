@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T04:01:10.011346Z",
+  "generated_at": "2025-12-22T06:23:08.980659Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.99,
-      "confianca": 95,
+      "score": 3.25,
+      "confianca": 92,
       "razoes": [
         {
           "title": "‘Alarming’ medicine shortages in Gaza amid Israeli restrictions",
@@ -22,10 +22,6 @@
         {
           "title": "Israel kills two Palestinians, including 16-year-old, in West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians attending wedding killed in Israeli attack on Gaza school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinians-attending-wedding-killed-in-israeli-attack-on-gaza-school?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,8 +31,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.99,
-      "confianca": 95,
+      "score": 3.25,
+      "confianca": 92,
       "razoes": [
         {
           "title": "‘Alarming’ medicine shortages in Gaza amid Israeli restrictions",
@@ -53,10 +49,6 @@
         {
           "title": "Israel kills two Palestinians, including 16-year-old, in West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians attending wedding killed in Israeli attack on Gaza school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinians-attending-wedding-killed-in-israeli-attack-on-gaza-school?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,9 +57,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.65,
-      "confianca": 75,
+      "acao": "observar",
+      "score": 1.92,
+      "confianca": 54,
       "razoes": [
         {
           "title": "‘Alarming’ medicine shortages in Gaza amid Israeli restrictions",
@@ -80,15 +72,26 @@
         {
           "title": "Israel kills two Palestinians, including 16-year-old, in West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians attending wedding killed in Israeli attack on Gaza school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinians-attending-wedding-killed-in-israeli-attack-on-gaza-school?traffic_source=rss"
         }
       ],
       "chg1d": 0.008486833709107945,
       "chg5d": -0.012743362831858417,
       "chg1m": 0.0089804430635653
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Swedish authorities board sanctioned Russian ship in national waters",
+          "url": "https://www.aljazeera.com/news/2025/12/21/swedish-authorities-board-sanctioned-russian-ship-in-national-waters?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.026605944391179227,
+      "chg5d": 0.001101909977293923,
+      "chg1m": 0.06462838677603774
     },
     {
       "symbol": "ASML.AS",
@@ -119,21 +122,6 @@
       "chg1d": 0.014999297456793528,
       "chg5d": -0.010580742364059826,
       "chg1m": 0.023302758791656282
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Swedish authorities board sanctioned Russian ship in national waters",
-          "url": "https://www.aljazeera.com/news/2025/12/21/swedish-authorities-board-sanctioned-russian-ship-in-national-waters?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.026605944391179227,
-      "chg5d": 0.001101909977293923,
-      "chg1m": 0.06462838677603774
     }
   ]
 }
