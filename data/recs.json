@@ -1,45 +1,18 @@
 {
-  "generated_at": "2025-12-21T21:11:21.619808Z",
+  "generated_at": "2025-12-22T01:06:57.244960Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.76,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US pursues another oil tanker near Venezuela: Reports",
-          "url": "https://www.aljazeera.com/news/2025/12/21/us-pursues-another-oil-tanker-near-venezuela-reports?traffic_source=rss"
-        },
-        {
-          "title": "Israeli arms companies’ revenues soared in 2024",
-          "url": "https://www.aljazeera.com/news/2025/12/21/israeli-arms-companies-revenues-soared-in-2024?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two Palestinians, including 16 year-old, in West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians attending wedding killed in Israeli attack on Gaza school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinians-attending-wedding-killed-in-israeli-attack-on-gaza-school?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s yellow line in Gaza has become a “site of killing”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/21/aje-onl-gordon_quotable-211225?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": -0.03032300593276193,
-      "chg1m": -0.5090120160213618
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.76,
+      "score": 5.46,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US pursues another oil tanker near Venezuela: Reports",
+          "title": "‘Alarming’ medicine shortages in Gaza amid Israeli restrictions",
+          "url": "https://www.aljazeera.com/news/2025/12/21/alarming-medicine-shortages-in-gaza-amid-israeli-restrictions?traffic_source=rss"
+        },
+        {
+          "title": "US pursues another oil tanker off the coast of Venezuela",
           "url": "https://www.aljazeera.com/news/2025/12/21/us-pursues-another-oil-tanker-near-venezuela-reports?traffic_source=rss"
         },
         {
@@ -47,16 +20,12 @@
           "url": "https://www.aljazeera.com/news/2025/12/21/israeli-arms-companies-revenues-soared-in-2024?traffic_source=rss"
         },
         {
-          "title": "Israel kills two Palestinians, including 16 year-old, in West Bank",
+          "title": "Israel kills two Palestinians, including 16-year-old, in West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank?traffic_source=rss"
         },
         {
           "title": "Palestinians attending wedding killed in Israeli attack on Gaza school",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinians-attending-wedding-killed-in-israeli-attack-on-gaza-school?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s yellow line in Gaza has become a “site of killing”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/21/aje-onl-gordon_quotable-211225?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,17 +33,52 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.41,
+      "score": 5.46,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘Alarming’ medicine shortages in Gaza amid Israeli restrictions",
+          "url": "https://www.aljazeera.com/news/2025/12/21/alarming-medicine-shortages-in-gaza-amid-israeli-restrictions?traffic_source=rss"
+        },
+        {
+          "title": "US pursues another oil tanker off the coast of Venezuela",
+          "url": "https://www.aljazeera.com/news/2025/12/21/us-pursues-another-oil-tanker-near-venezuela-reports?traffic_source=rss"
+        },
         {
           "title": "Israeli arms companies’ revenues soared in 2024",
           "url": "https://www.aljazeera.com/news/2025/12/21/israeli-arms-companies-revenues-soared-in-2024?traffic_source=rss"
         },
         {
-          "title": "Israel kills two Palestinians, including 16 year-old, in West Bank",
+          "title": "Israel kills two Palestinians, including 16-year-old, in West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians attending wedding killed in Israeli attack on Gaza school",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinians-attending-wedding-killed-in-israeli-attack-on-gaza-school?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": -0.03032300593276193,
+      "chg1m": -0.5090120160213618
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.12,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘Alarming’ medicine shortages in Gaza amid Israeli restrictions",
+          "url": "https://www.aljazeera.com/news/2025/12/21/alarming-medicine-shortages-in-gaza-amid-israeli-restrictions?traffic_source=rss"
+        },
+        {
+          "title": "Israeli arms companies’ revenues soared in 2024",
+          "url": "https://www.aljazeera.com/news/2025/12/21/israeli-arms-companies-revenues-soared-in-2024?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills two Palestinians, including 16-year-old, in West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank?traffic_source=rss"
         },
         {
@@ -84,30 +88,11 @@
         {
           "title": "Israel’s yellow line in Gaza has become a “site of killing”",
           "url": "https://www.aljazeera.com/video/quotable/2025/12/21/aje-onl-gordon_quotable-211225?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israeli aid restrictions leave Gaza dangerously low on medicine",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.008486833709107945,
       "chg5d": -0.012743362831858417,
       "chg1m": 0.0089804430635653
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Swedish authorities board sanctioned Russian ship in national waters",
-          "url": "https://www.aljazeera.com/news/2025/12/21/swedish-authorities-board-sanctioned-russian-ship-in-national-waters?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019019405390279007,
-      "chg5d": -0.022972660406161752,
-      "chg1m": 0.01605842225279753
     },
     {
       "symbol": "SOXX",
@@ -123,6 +108,21 @@
       "chg1d": 0.026605944391179227,
       "chg5d": 0.001101909977293923,
       "chg1m": 0.06462838677603774
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Swedish authorities board sanctioned Russian ship in national waters",
+          "url": "https://www.aljazeera.com/news/2025/12/21/swedish-authorities-board-sanctioned-russian-ship-in-national-waters?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019019405390279007,
+      "chg5d": -0.022972660406161752,
+      "chg1m": 0.01605842225279753
     },
     {
       "symbol": "TSM",
