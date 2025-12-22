@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T18:20:28.236438Z",
+  "generated_at": "2025-12-22T21:12:24.094901Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.53,
-      "confianca": 95,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
         {
           "title": "At least three killed in Israeli attack on southern Lebanon’s Sidon",
@@ -22,77 +22,65 @@
         {
           "title": "Seizing ships as leverage: US vs Houthis",
           "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/22/seizing-ships-as-leverage-us-vs-houthis?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002605937004305345,
+      "chg5d": -0.020911706129674714,
+      "chg1m": -0.5020819266261535
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "At least three killed in Israeli attack on southern Lebanon’s Sidon",
+          "url": "https://www.aljazeera.com/news/2025/12/22/at-least-three-killed-in-israeli-attack-on-southern-lebanons-sidon?traffic_source=rss"
         },
         {
-          "title": "Are US oil tanker seizures off Venezuela legal or acts of piracy?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/are-us-oil-tanker-seizures-off-venezuela-legal-or-acts-of-piracy?traffic_source=rss"
+          "title": "Illegal settlement expansion: How Israel is redrawing occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "Seizing ships as leverage: US vs Houthis",
+          "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/22/seizing-ships-as-leverage-us-vs-houthis?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019635964819775174,
+      "chg5d": -0.002023037859708555,
+      "chg1m": 0.03241788749839834
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "At least three killed in Israeli attack on southern Lebanon’s Sidon",
+          "url": "https://www.aljazeera.com/news/2025/12/22/at-least-three-killed-in-israeli-attack-on-southern-lebanons-sidon?traffic_source=rss"
+        },
+        {
+          "title": "Illegal settlement expansion: How Israel is redrawing occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "Seizing ships as leverage: US vs Houthis",
+          "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/22/seizing-ships-as-leverage-us-vs-houthis?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.53,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "At least three killed in Israeli attack on southern Lebanon’s Sidon",
-          "url": "https://www.aljazeera.com/news/2025/12/22/at-least-three-killed-in-israeli-attack-on-southern-lebanons-sidon?traffic_source=rss"
-        },
-        {
-          "title": "Illegal settlement expansion: How Israel is redrawing occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Seizing ships as leverage: US vs Houthis",
-          "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/22/seizing-ships-as-leverage-us-vs-houthis?traffic_source=rss"
-        },
-        {
-          "title": "Are US oil tanker seizures off Venezuela legal or acts of piracy?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/are-us-oil-tanker-seizures-off-venezuela-legal-or-acts-of-piracy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002379333786539698,
-      "chg5d": -0.021132994025226785,
-      "chg1m": -0.5021944632005402
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "At least three killed in Israeli attack on southern Lebanon’s Sidon",
-          "url": "https://www.aljazeera.com/news/2025/12/22/at-least-three-killed-in-israeli-attack-on-southern-lebanons-sidon?traffic_source=rss"
-        },
-        {
-          "title": "Illegal settlement expansion: How Israel is redrawing occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Seizing ships as leverage: US vs Houthis",
-          "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/22/seizing-ships-as-leverage-us-vs-houthis?traffic_source=rss"
-        },
-        {
-          "title": "Israeli military storms West Bank towns, carries out demolition",
-          "url": "https://www.aljazeera.com/news/2025/12/22/israeli-military-storms-west-bank-towns-carries-out-demolition?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0186520574525974,
-      "chg5d": -0.0029860451674167347,
-      "chg1m": 0.031421646094050334
     }
   ]
 }
