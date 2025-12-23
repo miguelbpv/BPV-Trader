@@ -1,74 +1,16 @@
 {
-  "generated_at": "2025-12-23T18:20:08.823832Z",
+  "generated_at": "2025-12-23T21:13:08.050040Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.2,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
-          "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Israel will never fully withdraw from Gaza, defence minister says",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says?traffic_source=rss"
-        },
-        {
-          "title": "Israeli Defence Minister: ‘We will never leave Gaza’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/israeli-defence-minister-we-will-never-leave?traffic_source=rss"
-        },
-        {
-          "title": "Gaza patients facing death as Israel continues to block medical supplies",
-          "url": "https://www.aljazeera.com/news/2025/12/23/gaza-patients-facing-death-as-israel-continues-to-block-medical-supplies?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004523863379325848,
-      "chg5d": 0.013695503309746502,
-      "chg1m": -0.50335495414896
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.2,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
-          "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Israel will never fully withdraw from Gaza, defence minister says",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says?traffic_source=rss"
-        },
-        {
-          "title": "Israeli Defence Minister: ‘We will never leave Gaza’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/israeli-defence-minister-we-will-never-leave?traffic_source=rss"
-        },
-        {
-          "title": "Gaza patients facing death as Israel continues to block medical supplies",
-          "url": "https://www.aljazeera.com/news/2025/12/23/gaza-patients-facing-death-as-israel-continues-to-block-medical-supplies?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0027296978720764173,
-      "chg5d": 0.010879134700037726,
-      "chg1m": 0.0465949042927211
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.2,
+      "score": 4.19,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Is Israel’s government waging war on Al Jazeera and the media?",
+          "url": "https://www.aljazeera.com/news/2025/12/23/is-israels-government-waging-war-on-al-jazeera-and-the-media?traffic_source=rss"
+        },
         {
           "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
           "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
@@ -84,15 +26,73 @@
         {
           "title": "Israeli Defence Minister: ‘We will never leave Gaza’",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/israeli-defence-minister-we-will-never-leave?traffic_source=rss"
-        },
-        {
-          "title": "Gaza patients facing death as Israel continues to block medical supplies",
-          "url": "https://www.aljazeera.com/news/2025/12/23/gaza-patients-facing-death-as-israel-continues-to-block-medical-supplies?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.19,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Is Israel’s government waging war on Al Jazeera and the media?",
+          "url": "https://www.aljazeera.com/news/2025/12/23/is-israels-government-waging-war-on-al-jazeera-and-the-media?traffic_source=rss"
+        },
+        {
+          "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
+          "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "Israel will never fully withdraw from Gaza, defence minister says",
+          "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says?traffic_source=rss"
+        },
+        {
+          "title": "Israeli Defence Minister: ‘We will never leave Gaza’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/israeli-defence-minister-we-will-never-leave?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0019128564633869168,
+      "chg5d": 0.011707122793778517,
+      "chg1m": 0.04745214636051914
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.19,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Is Israel’s government waging war on Al Jazeera and the media?",
+          "url": "https://www.aljazeera.com/news/2025/12/23/is-israels-government-waging-war-on-al-jazeera-and-the-media?traffic_source=rss"
+        },
+        {
+          "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
+          "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "Israel will never fully withdraw from Gaza, defence minister says",
+          "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says?traffic_source=rss"
+        },
+        {
+          "title": "Israeli Defence Minister: ‘We will never leave Gaza’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/israeli-defence-minister-we-will-never-leave?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006446505315539393,
+      "chg5d": 0.015635699611960627,
+      "chg1m": -0.5024043838067547
     }
   ]
 }
