@@ -1,46 +1,15 @@
 {
-  "generated_at": "2025-12-23T03:57:07.191791Z",
+  "generated_at": "2025-12-23T06:22:14.265059Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Israel kills two Palestinians in Gaza City as ceasefire violations mount",
-          "url": "https://www.aljazeera.com/news/2025/12/22/israel-kills-two-palestinians-in-gaza-city-as-ceasefire-violations-mount?traffic_source=rss"
-        },
-        {
-          "title": "At least three killed in Israeli attack on southern Lebanon’s Sidon",
-          "url": "https://www.aljazeera.com/news/2025/12/22/at-least-three-killed-in-israeli-attack-on-southern-lebanons-sidon?traffic_source=rss"
-        },
-        {
-          "title": "Illegal settlement expansion: How Israel is redrawing occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Israel kills two Palestinians in Gaza City as ceasefire violations mount",
           "url": "https://www.aljazeera.com/news/2025/12/22/israel-kills-two-palestinians-in-gaza-city-as-ceasefire-violations-mount?traffic_source=rss"
-        },
-        {
-          "title": "At least three killed in Israeli attack on southern Lebanon’s Sidon",
-          "url": "https://www.aljazeera.com/news/2025/12/22/at-least-three-killed-in-israeli-attack-on-southern-lebanons-sidon?traffic_source=rss"
-        },
-        {
-          "title": "Illegal settlement expansion: How Israel is redrawing occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.01991015122434775,
@@ -48,22 +17,29 @@
       "chg1m": 0.03269551104087473
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Israel kills two Palestinians in Gaza City as ceasefire violations mount",
           "url": "https://www.aljazeera.com/news/2025/12/22/israel-kills-two-palestinians-in-gaza-city-as-ceasefire-violations-mount?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
         {
-          "title": "At least three killed in Israeli attack on southern Lebanon’s Sidon",
-          "url": "https://www.aljazeera.com/news/2025/12/22/at-least-three-killed-in-israeli-attack-on-southern-lebanons-sidon?traffic_source=rss"
-        },
-        {
-          "title": "Illegal settlement expansion: How Israel is redrawing occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss"
+          "title": "Israel kills two Palestinians in Gaza City as ceasefire violations mount",
+          "url": "https://www.aljazeera.com/news/2025/12/22/israel-kills-two-palestinians-in-gaza-city-as-ceasefire-violations-mount?traffic_source=rss"
         }
       ],
       "chg1d": 0.0018128257421254994,
