@@ -1,62 +1,31 @@
 {
-  "generated_at": "2025-12-24T06:22:05.245406Z",
+  "generated_at": "2025-12-24T09:18:00.775237Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.37,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
-          "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel’s government waging war on Al Jazeera and the media?",
-          "url": "https://www.aljazeera.com/news/2025/12/23/is-israels-government-waging-war-on-al-jazeera-and-the-media?traffic_source=rss"
-        },
-        {
-          "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
-          "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Israel will never fully withdraw from Gaza, defence minister says",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.37,
-      "confianca": 95,
+      "score": 3.21,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Israeli forces injure dozens in occupied West Bank raid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/israeli-forces-injure-dozens-in-occupied-west-bank-raid?traffic_source=rss"
+        },
+        {
+          "title": "China’s rising economic influence in the Middle East",
+          "url": "https://www.aljazeera.com/video/money-works/2025/12/24/chinas-rising-economic-influence-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Shattered joy: Wedding celebrations cut short in Gaza after Israeli attack",
+          "url": "https://www.aljazeera.com/features/2025/12/24/shattered-joy-wedding-celebrations-cut-short-gaza-after-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Victory against Israeli West Bank settlement offers Palestinians some hope",
+          "url": "https://www.aljazeera.com/features/2025/12/24/victory-against-israeli-west-bank-settlement-offers-palestinians-some-hope?traffic_source=rss"
+        },
         {
           "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
           "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel’s government waging war on Al Jazeera and the media?",
-          "url": "https://www.aljazeera.com/news/2025/12/23/is-israels-government-waging-war-on-al-jazeera-and-the-media?traffic_source=rss"
-        },
-        {
-          "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
-          "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Israel will never fully withdraw from Gaza, defence minister says",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.0065596019000226,
@@ -66,33 +35,124 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.37,
-      "confianca": 95,
+      "score": 3.21,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Israeli forces injure dozens in occupied West Bank raid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/israeli-forces-injure-dozens-in-occupied-west-bank-raid?traffic_source=rss"
+        },
+        {
+          "title": "China’s rising economic influence in the Middle East",
+          "url": "https://www.aljazeera.com/video/money-works/2025/12/24/chinas-rising-economic-influence-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Shattered joy: Wedding celebrations cut short in Gaza after Israeli attack",
+          "url": "https://www.aljazeera.com/features/2025/12/24/shattered-joy-wedding-celebrations-cut-short-gaza-after-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Victory against Israeli West Bank settlement offers Palestinians some hope",
+          "url": "https://www.aljazeera.com/features/2025/12/24/victory-against-israeli-west-bank-settlement-offers-palestinians-some-hope?traffic_source=rss"
+        },
         {
           "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
           "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel’s government waging war on Al Jazeera and the media?",
-          "url": "https://www.aljazeera.com/news/2025/12/23/is-israels-government-waging-war-on-al-jazeera-and-the-media?traffic_source=rss"
-        },
-        {
-          "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
-          "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Israel will never fully withdraw from Gaza, defence minister says",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says?traffic_source=rss"
         }
       ],
       "chg1d": -0.002109311992059023,
       "chg5d": 0.011507986416802937,
       "chg1m": 0.04724597421763106
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.21,
+      "confianca": 91,
+      "razoes": [
+        {
+          "title": "Israeli forces injure dozens in occupied West Bank raid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/israeli-forces-injure-dozens-in-occupied-west-bank-raid?traffic_source=rss"
+        },
+        {
+          "title": "China’s rising economic influence in the Middle East",
+          "url": "https://www.aljazeera.com/video/money-works/2025/12/24/chinas-rising-economic-influence-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Shattered joy: Wedding celebrations cut short in Gaza after Israeli attack",
+          "url": "https://www.aljazeera.com/features/2025/12/24/shattered-joy-wedding-celebrations-cut-short-gaza-after-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Victory against Israeli West Bank settlement offers Palestinians some hope",
+          "url": "https://www.aljazeera.com/features/2025/12/24/victory-against-israeli-west-bank-settlement-offers-palestinians-some-hope?traffic_source=rss"
+        },
+        {
+          "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
+          "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump says ‘anyone who disagrees’ with him will never head Federal Reserve",
+          "url": "https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004683386896206419,
+      "chg5d": 0.01693502247650186,
+      "chg1m": 0.054298642533936584
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump says ‘anyone who disagrees’ with him will never head Federal Reserve",
+          "url": "https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump says ‘anyone who disagrees’ with him will never head Federal Reserve",
+          "url": "https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0045704773447424836,
+      "chg5d": 0.013389897918600074,
+      "chg1m": 0.04389784987026397
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump says ‘anyone who disagrees’ with him will never head Federal Reserve",
+          "url": "https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00591529300418014,
+      "chg5d": 0.008844599191579653,
+      "chg1m": 0.06994906621392198
     }
   ]
 }
