@@ -1,42 +1,11 @@
 {
-  "generated_at": "2025-12-24T09:18:00.775237Z",
+  "generated_at": "2025-12-24T12:27:19.250159Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Israeli forces injure dozens in occupied West Bank raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/israeli-forces-injure-dozens-in-occupied-west-bank-raid?traffic_source=rss"
-        },
-        {
-          "title": "China’s rising economic influence in the Middle East",
-          "url": "https://www.aljazeera.com/video/money-works/2025/12/24/chinas-rising-economic-influence-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Shattered joy: Wedding celebrations cut short in Gaza after Israeli attack",
-          "url": "https://www.aljazeera.com/features/2025/12/24/shattered-joy-wedding-celebrations-cut-short-gaza-after-israeli-attack?traffic_source=rss"
-        },
-        {
-          "title": "Victory against Israeli West Bank settlement offers Palestinians some hope",
-          "url": "https://www.aljazeera.com/features/2025/12/24/victory-against-israeli-west-bank-settlement-offers-palestinians-some-hope?traffic_source=rss"
-        },
-        {
-          "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
-          "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0065596019000226,
-      "chg5d": 0.015749828806208576,
-      "chg1m": -0.502348467904272
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
         {
           "title": "Israeli forces injure dozens in occupied West Bank raid",
@@ -53,10 +22,6 @@
         {
           "title": "Victory against Israeli West Bank settlement offers Palestinians some hope",
           "url": "https://www.aljazeera.com/features/2025/12/24/victory-against-israeli-west-bank-settlement-offers-palestinians-some-hope?traffic_source=rss"
-        },
-        {
-          "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
-          "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
         }
       ],
       "chg1d": -0.002109311992059023,
@@ -66,8 +31,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
         {
           "title": "Israeli forces injure dozens in occupied West Bank raid",
@@ -84,10 +49,6 @@
         {
           "title": "Victory against Israeli West Bank settlement offers Palestinians some hope",
           "url": "https://www.aljazeera.com/features/2025/12/24/victory-against-israeli-west-bank-settlement-offers-palestinians-some-hope?traffic_source=rss"
-        },
-        {
-          "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
-          "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,7 +56,34 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.45,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Israeli forces injure dozens in occupied West Bank raid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/israeli-forces-injure-dozens-in-occupied-west-bank-raid?traffic_source=rss"
+        },
+        {
+          "title": "China’s rising economic influence in the Middle East",
+          "url": "https://www.aljazeera.com/video/money-works/2025/12/24/chinas-rising-economic-influence-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Shattered joy: Wedding celebrations cut short in Gaza after Israeli attack",
+          "url": "https://www.aljazeera.com/features/2025/12/24/shattered-joy-wedding-celebrations-cut-short-gaza-after-israeli-attack?traffic_source=rss"
+        },
+        {
+          "title": "Victory against Israeli West Bank settlement offers Palestinians some hope",
+          "url": "https://www.aljazeera.com/features/2025/12/24/victory-against-israeli-west-bank-settlement-offers-palestinians-some-hope?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0065596019000226,
+      "chg5d": 0.015749828806208576,
+      "chg1m": -0.502348467904272
+    },
+    {
+      "symbol": "IWM",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -105,9 +93,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004683386896206419,
-      "chg5d": 0.01693502247650186,
-      "chg1m": 0.054298642533936584
+      "chg1d": -0.00591529300418014,
+      "chg5d": 0.008844599191579653,
+      "chg1m": 0.06994906621392198
     },
     {
       "symbol": "EUROSTOXX50",
@@ -140,7 +128,7 @@
       "chg1m": 0.04389784987026397
     },
     {
-      "symbol": "IWM",
+      "symbol": "QQQ",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -150,9 +138,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00591529300418014,
-      "chg5d": 0.008844599191579653,
-      "chg1m": 0.06994906621392198
+      "chg1d": 0.004683386896206419,
+      "chg5d": 0.01693502247650186,
+      "chg1m": 0.054298642533936584
     }
   ]
 }
