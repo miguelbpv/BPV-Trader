@@ -1,10 +1,41 @@
 {
-  "generated_at": "2025-12-24T01:03:22.793329Z",
+  "generated_at": "2025-12-24T03:54:46.986056Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.85,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
+          "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
+        },
+        {
+          "title": "Is Israel’s government waging war on Al Jazeera and the media?",
+          "url": "https://www.aljazeera.com/news/2025/12/23/is-israels-government-waging-war-on-al-jazeera-and-the-media?traffic_source=rss"
+        },
+        {
+          "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
+          "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "Israel will never fully withdraw from Gaza, defence minister says",
+          "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.89,
+      "score": 4.85,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.89,
+      "score": 4.85,
       "confianca": 95,
       "razoes": [
         {
@@ -62,37 +93,6 @@
       "chg1d": 0.0065596019000226,
       "chg5d": 0.015749828806208576,
       "chg1m": -0.502348467904272
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.89,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
-          "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel’s government waging war on Al Jazeera and the media?",
-          "url": "https://www.aljazeera.com/news/2025/12/23/is-israels-government-waging-war-on-al-jazeera-and-the-media?traffic_source=rss"
-        },
-        {
-          "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
-          "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Israel will never fully withdraw from Gaza, defence minister says",
-          "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
