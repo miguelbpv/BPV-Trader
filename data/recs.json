@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-12-25T06:21:46.651996Z",
+  "generated_at": "2025-12-25T09:16:14.331364Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.17,
-      "confianca": 90,
+      "score": 3.92,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
+          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
           "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
           "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.92,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
+          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
         },
         {
-          "title": "Christmas joy returns to Bethlehem amid Israeli raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/24/christmas-joy-returns-to-bethlehem-amid-israeli-raids-across-west-bank?traffic_source=rss"
+          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Iran rejects inspections of bombed nuclear sites without IAEA framework",
-          "url": "https://www.aljazeera.com/news/2025/12/24/iran-rejects-inspections-of-bombed-nuclear-sites-without-iaea-framework?traffic_source=rss"
+          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
+          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
+        },
+        {
+          "title": "European nations, Canada decry Israel’s new, illegal West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2025/12/25/european-nations-canada-decry-israels-new-illegal-west-bank-settlements?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
+          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
         }
       ],
       "chg1d": -0.002921348314606799,
@@ -35,9 +66,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.17,
-      "confianca": 90,
+      "score": 3.92,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
+          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
           "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
@@ -49,50 +88,11 @@
         {
           "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
           "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
-        },
-        {
-          "title": "Christmas joy returns to Bethlehem amid Israeli raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/24/christmas-joy-returns-to-bethlehem-amid-israeli-raids-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects inspections of bombed nuclear sites without IAEA framework",
-          "url": "https://www.aljazeera.com/news/2025/12/24/iran-rejects-inspections-of-bombed-nuclear-sites-without-iaea-framework?traffic_source=rss"
         }
       ],
       "chg1d": 0.006631437156771295,
       "chg5d": 0.023083889719665494,
       "chg1m": 0.07690772846184543
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.17,
-      "confianca": 90,
-      "razoes": [
-        {
-          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
-          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
-        },
-        {
-          "title": "European nations, Canada decry Israel’s new, illegal West Bank settlements",
-          "url": "https://www.aljazeera.com/news/2025/12/25/european-nations-canada-decry-israels-new-illegal-west-bank-settlements?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
-          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
-        },
-        {
-          "title": "Christmas joy returns to Bethlehem amid Israeli raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/24/christmas-joy-returns-to-bethlehem-amid-israeli-raids-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects inspections of bombed nuclear sites without IAEA framework",
-          "url": "https://www.aljazeera.com/news/2025/12/24/iran-rejects-inspections-of-bombed-nuclear-sites-without-iaea-framework?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     },
     {
       "symbol": "TSM",
@@ -110,21 +110,6 @@
       "chg1m": 0.049747048903878675
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "As Trump’s tariffs hit Indian fox nuts, the superfood eyes new markets",
-          "url": "https://www.aljazeera.com/economy/2025/12/25/the-indian-super-food-shrugging-off-us-tariffs-to-find-new-markets?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0034656822120094025,
-      "chg5d": 0.049328855755689745,
-      "chg1m": 0.07865805511125501
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
       "score": 0.85,
@@ -138,6 +123,21 @@
       "chg1d": 0.003869359916054587,
       "chg5d": 0.07330925919433429,
       "chg1m": 0.08291475061903077
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "As Trump’s tariffs hit Indian fox nuts, the superfood eyes new markets",
+          "url": "https://www.aljazeera.com/economy/2025/12/25/the-indian-super-food-shrugging-off-us-tariffs-to-find-new-markets?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0034656822120094025,
+      "chg5d": 0.049328855755689745,
+      "chg1m": 0.07865805511125501
     }
   ]
 }
