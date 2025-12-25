@@ -1,43 +1,20 @@
 {
-  "generated_at": "2025-12-25T09:16:14.331364Z",
+  "generated_at": "2025-12-25T12:26:51.850953Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.92,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
-          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
-          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
-        },
-        {
-          "title": "European nations, Canada decry Israel’s new, illegal West Bank settlements",
-          "url": "https://www.aljazeera.com/news/2025/12/25/european-nations-canada-decry-israels-new-illegal-west-bank-settlements?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
-          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.92,
+      "score": 3.94,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Two killed in Israeli drone attack in eastern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
           "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
           "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
-        },
-        {
-          "title": "European nations, Canada decry Israel’s new, illegal West Bank settlements",
-          "url": "https://www.aljazeera.com/news/2025/12/25/european-nations-canada-decry-israels-new-illegal-west-bank-settlements?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
-          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
         }
       ],
       "chg1d": -0.002921348314606799,
@@ -64,11 +33,19 @@
       "chg1m": -0.5024111248177638
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.92,
+      "score": 3.94,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Two killed in Israeli drone attack in eastern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
           "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
           "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.94,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Two killed in Israeli drone attack in eastern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
         },
         {
-          "title": "European nations, Canada decry Israel’s new, illegal West Bank settlements",
-          "url": "https://www.aljazeera.com/news/2025/12/25/european-nations-canada-decry-israels-new-illegal-west-bank-settlements?traffic_source=rss"
+          "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
-          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
+          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
+          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
+          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
         }
       ],
       "chg1d": 0.006631437156771295,
@@ -97,7 +97,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -112,7 +112,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
