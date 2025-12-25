@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-12-24T21:12:18.093086Z",
+  "generated_at": "2025-12-25T01:03:37.016654Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.43,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Christmas joy returns to Bethlehem amid Israeli raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/24/christmas-joy-returns-to-bethlehem-amid-israeli-raids-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects inspections of bombed nuclear sites without IAEA framework",
-          "url": "https://www.aljazeera.com/news/2025/12/24/iran-rejects-inspections-of-bombed-nuclear-sites-without-iaea-framework?traffic_source=rss"
-        },
-        {
-          "title": "Israelis show “very widespread support for a racist state”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/24/israelis-show-very-widespread-support-for-a-racist?traffic_source=rss"
-        },
-        {
-          "title": "Trump declared a ‘new Middle East’ – but what has changed?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/24/trump-declared-a-new-middle-east-but-what-has?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian Christians worry about erasure as Israeli settlements grow",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/palestinian-christians-worry-about-erasure-as-israeli-settlements-grow?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.43,
+      "score": 4.13,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
+          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
+        },
         {
           "title": "Christmas joy returns to Bethlehem amid Israeli raids across West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/24/christmas-joy-returns-to-bethlehem-amid-israeli-raids-across-west-bank?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Trump declared a ‘new Middle East’ – but what has changed?",
           "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/24/trump-declared-a-new-middle-east-but-what-has?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian Christians worry about erasure as Israeli settlements grow",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/palestinian-christians-worry-about-erasure-as-israeli-settlements-grow?traffic_source=rss"
         }
       ],
       "chg1d": 0.006631437156771295,
@@ -64,11 +33,15 @@
       "chg1m": 0.07690772846184543
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.43,
+      "score": 4.13,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
+          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
+        },
         {
           "title": "Christmas joy returns to Bethlehem amid Israeli raids across West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/24/christmas-joy-returns-to-bethlehem-amid-israeli-raids-across-west-bank?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Trump declared a ‘new Middle East’ – but what has changed?",
           "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/24/trump-declared-a-new-middle-east-but-what-has?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.13,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
+          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
         },
         {
-          "title": "Palestinian Christians worry about erasure as Israeli settlements grow",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/palestinian-christians-worry-about-erasure-as-israeli-settlements-grow?traffic_source=rss"
+          "title": "Christmas joy returns to Bethlehem amid Israeli raids across West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/24/christmas-joy-returns-to-bethlehem-amid-israeli-raids-across-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects inspections of bombed nuclear sites without IAEA framework",
+          "url": "https://www.aljazeera.com/news/2025/12/24/iran-rejects-inspections-of-bombed-nuclear-sites-without-iaea-framework?traffic_source=rss"
+        },
+        {
+          "title": "Israelis show “very widespread support for a racist state”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/24/israelis-show-very-widespread-support-for-a-racist?traffic_source=rss"
+        },
+        {
+          "title": "Trump declared a ‘new Middle East’ – but what has changed?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/24/trump-declared-a-new-middle-east-but-what-has?traffic_source=rss"
         }
       ],
       "chg1d": -0.002921348314606799,
