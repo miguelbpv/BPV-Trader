@@ -1,54 +1,46 @@
 {
-  "generated_at": "2025-12-25T15:13:46.386751Z",
+  "generated_at": "2025-12-25T18:19:18.525154Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Two killed in Israeli drone attack in eastern Lebanon",
+          "title": "Infant among Palestinians wounded in attacks by Israeli settlers, soldiers",
+          "url": "https://www.aljazeera.com/news/2025/12/25/infant-among-palestinians-wounded-in-attacks-by-israeli-settlers-soldiers?traffic_source=rss"
+        },
+        {
+          "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
           "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
         },
         {
           "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
-          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.002921348314606799,
-      "chg5d": -0.009155873157659752,
-      "chg1m": -0.5024111248177638
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Two killed in Israeli drone attack in eastern Lebanon",
+          "title": "Infant among Palestinians wounded in attacks by Israeli settlers, soldiers",
+          "url": "https://www.aljazeera.com/news/2025/12/25/infant-among-palestinians-wounded-in-attacks-by-israeli-settlers-soldiers?traffic_source=rss"
+        },
+        {
+          "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
           "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
         },
         {
           "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
-          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.006631437156771295,
@@ -56,31 +48,27 @@
       "chg1m": 0.07690772846184543
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Two killed in Israeli drone attack in eastern Lebanon",
+          "title": "Infant among Palestinians wounded in attacks by Israeli settlers, soldiers",
+          "url": "https://www.aljazeera.com/news/2025/12/25/infant-among-palestinians-wounded-in-attacks-by-israeli-settlers-soldiers?traffic_source=rss"
+        },
+        {
+          "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
           "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
         },
         {
           "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
-          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.002921348314606799,
+      "chg5d": -0.009155873157659752,
+      "chg1m": -0.5024111248177638
     }
   ]
 }
