@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T12:26:51.850953Z",
+  "generated_at": "2025-12-25T15:13:46.386751Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.94,
-      "confianca": 95,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
           "title": "Two killed in Israeli drone attack in eastern Lebanon",
@@ -22,10 +22,6 @@
         {
           "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
-          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
         }
       ],
       "chg1d": -0.002921348314606799,
@@ -33,41 +29,10 @@
       "chg1m": -0.5024111248177638
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.94,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Two killed in Israeli drone attack in eastern Lebanon",
-          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
-          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
-          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.94,
-      "confianca": 95,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
           "title": "Two killed in Israeli drone attack in eastern Lebanon",
@@ -84,10 +49,6 @@
         {
           "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
-          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
         }
       ],
       "chg1d": 0.006631437156771295,
@@ -95,49 +56,31 @@
       "chg1m": 0.07690772846184543
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "As Trump’s tariffs hit Indian fox nuts, the superfood eyes new markets",
-          "url": "https://www.aljazeera.com/economy/2025/12/25/the-indian-super-food-shrugging-off-us-tariffs-to-find-new-markets?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006230005051355524,
-      "chg5d": 0.07885615251299839,
-      "chg1m": 0.049747048903878675
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "Two killed in Israeli drone attack in eastern Lebanon",
+          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
+        },
         {
-          "title": "As Trump’s tariffs hit Indian fox nuts, the superfood eyes new markets",
-          "url": "https://www.aljazeera.com/economy/2025/12/25/the-indian-super-food-shrugging-off-us-tariffs-to-find-new-markets?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003869359916054587,
-      "chg5d": 0.07330925919433429,
-      "chg1m": 0.08291475061903077
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
+        },
         {
-          "title": "As Trump’s tariffs hit Indian fox nuts, the superfood eyes new markets",
-          "url": "https://www.aljazeera.com/economy/2025/12/25/the-indian-super-food-shrugging-off-us-tariffs-to-find-new-markets?traffic_source=rss"
+          "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
+          "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0034656822120094025,
-      "chg5d": 0.049328855755689745,
-      "chg1m": 0.07865805511125501
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
