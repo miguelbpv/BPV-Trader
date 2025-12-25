@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-12-25T03:57:22.310648Z",
+  "generated_at": "2025-12-25T06:21:46.651996Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.88,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "European nations, Canada decry Israel’s new, illegal West Bank settlements",
-          "url": "https://www.aljazeera.com/news/2025/12/25/european-nations-canada-decry-israels-new-illegal-west-bank-settlements?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
-          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
-        },
-        {
-          "title": "Christmas joy returns to Bethlehem amid Israeli raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/24/christmas-joy-returns-to-bethlehem-amid-israeli-raids-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects inspections of bombed nuclear sites without IAEA framework",
-          "url": "https://www.aljazeera.com/news/2025/12/24/iran-rejects-inspections-of-bombed-nuclear-sites-without-iaea-framework?traffic_source=rss"
-        },
-        {
-          "title": "Israelis show “very widespread support for a racist state”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/24/israelis-show-very-widespread-support-for-a-racist?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.88,
-      "confianca": 95,
+      "score": 3.17,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
+          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
+        },
         {
           "title": "European nations, Canada decry Israel’s new, illegal West Bank settlements",
           "url": "https://www.aljazeera.com/news/2025/12/25/european-nations-canada-decry-israels-new-illegal-west-bank-settlements?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Iran rejects inspections of bombed nuclear sites without IAEA framework",
           "url": "https://www.aljazeera.com/news/2025/12/24/iran-rejects-inspections-of-bombed-nuclear-sites-without-iaea-framework?traffic_source=rss"
-        },
-        {
-          "title": "Israelis show “very widespread support for a racist state”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/24/israelis-show-very-widespread-support-for-a-racist?traffic_source=rss"
         }
       ],
       "chg1d": -0.002921348314606799,
@@ -66,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.88,
-      "confianca": 95,
+      "score": 3.17,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
+          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
+        },
         {
           "title": "European nations, Canada decry Israel’s new, illegal West Bank settlements",
           "url": "https://www.aljazeera.com/news/2025/12/25/european-nations-canada-decry-israels-new-illegal-west-bank-settlements?traffic_source=rss"
@@ -84,10 +57,6 @@
         {
           "title": "Iran rejects inspections of bombed nuclear sites without IAEA framework",
           "url": "https://www.aljazeera.com/news/2025/12/24/iran-rejects-inspections-of-bombed-nuclear-sites-without-iaea-framework?traffic_source=rss"
-        },
-        {
-          "title": "Israelis show “very widespread support for a racist state”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/24/israelis-show-very-widespread-support-for-a-racist?traffic_source=rss"
         }
       ],
       "chg1d": 0.006631437156771295,
@@ -95,9 +64,40 @@
       "chg1m": 0.07690772846184543
     },
     {
-      "symbol": "SOXX",
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.17,
+      "confianca": 90,
+      "razoes": [
+        {
+          "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
+          "url": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
+        },
+        {
+          "title": "European nations, Canada decry Israel’s new, illegal West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2025/12/25/european-nations-canada-decry-israels-new-illegal-west-bank-settlements?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
+          "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss"
+        },
+        {
+          "title": "Christmas joy returns to Bethlehem amid Israeli raids across West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/24/christmas-joy-returns-to-bethlehem-amid-israeli-raids-across-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects inspections of bombed nuclear sites without IAEA framework",
+          "url": "https://www.aljazeera.com/news/2025/12/24/iran-rejects-inspections-of-bombed-nuclear-sites-without-iaea-framework?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -105,14 +105,14 @@
           "url": "https://www.aljazeera.com/economy/2025/12/25/the-indian-super-food-shrugging-off-us-tariffs-to-find-new-markets?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003869359916054587,
-      "chg5d": 0.07330925919433429,
-      "chg1m": 0.08291475061903077
+      "chg1d": 0.006230005051355524,
+      "chg5d": 0.07885615251299839,
+      "chg1m": 0.049747048903878675
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -125,9 +125,9 @@
       "chg1m": 0.07865805511125501
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/economy/2025/12/25/the-indian-super-food-shrugging-off-us-tariffs-to-find-new-markets?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006230005051355524,
-      "chg5d": 0.07885615251299839,
-      "chg1m": 0.049747048903878675
+      "chg1d": 0.003869359916054587,
+      "chg5d": 0.07330925919433429,
+      "chg1m": 0.08291475061903077
     }
   ]
 }
