@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T01:03:50.837761Z",
+  "generated_at": "2025-12-26T03:55:17.244329Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "score": 1.46,
+      "confianca": 41,
       "razoes": [
         {
           "title": "What are the consequences of Israel’s expanding illegal settlements?",
@@ -14,10 +14,25 @@
         {
           "title": "Infant among Palestinians wounded in attacks by Israeli settlers, soldiers",
           "url": "https://www.aljazeera.com/news/2025/12/25/infant-among-palestinians-wounded-in-attacks-by-israeli-settlers-soldiers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "What are the consequences of Israel’s expanding illegal settlements?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/12/25/what-are-the-consequences-of-israels-expanding-illegal-settlements?traffic_source=rss"
         },
         {
-          "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
-          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
+          "title": "Infant among Palestinians wounded in attacks by Israeli settlers, soldiers",
+          "url": "https://www.aljazeera.com/news/2025/12/25/infant-among-palestinians-wounded-in-attacks-by-israeli-settlers-soldiers?traffic_source=rss"
         }
       ],
       "chg1d": -0.002921348314606799,
@@ -27,8 +42,8 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
+      "score": 1.46,
+      "confianca": 41,
       "razoes": [
         {
           "title": "What are the consequences of Israel’s expanding illegal settlements?",
@@ -37,38 +52,11 @@
         {
           "title": "Infant among Palestinians wounded in attacks by Israeli settlers, soldiers",
           "url": "https://www.aljazeera.com/news/2025/12/25/infant-among-palestinians-wounded-in-attacks-by-israeli-settlers-soldiers?traffic_source=rss"
-        },
-        {
-          "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
-          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.006631437156771295,
       "chg5d": 0.023083889719665494,
       "chg1m": 0.07690772846184543
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.7,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "What are the consequences of Israel’s expanding illegal settlements?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/12/25/what-are-the-consequences-of-israels-expanding-illegal-settlements?traffic_source=rss"
-        },
-        {
-          "title": "Infant among Palestinians wounded in attacks by Israeli settlers, soldiers",
-          "url": "https://www.aljazeera.com/news/2025/12/25/infant-among-palestinians-wounded-in-attacks-by-israeli-settlers-soldiers?traffic_source=rss"
-        },
-        {
-          "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
-          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
