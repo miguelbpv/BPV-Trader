@@ -1,10 +1,41 @@
 {
-  "generated_at": "2025-12-26T15:14:07.653486Z",
+  "generated_at": "2025-12-26T18:19:55.505663Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.16,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel becomes first country to recognise Somaliland",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
+        },
+        {
+          "title": "Two people dead in stabbing, car-ramming attack in Israel",
+          "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s government budget reveals tough road ahead as currency hits new low",
+          "url": "https://www.aljazeera.com/news/2025/12/26/irans-government-budget-reveals-tough-road-ahead-as-currency-hits-new-low?traffic_source=rss"
+        },
+        {
+          "title": "Trump could unveil Gaza ‘peace council’, ‘government’ soon: Israeli media",
+          "url": "https://www.aljazeera.com/news/2025/12/26/trump-could-unveil-gaza-peace-council-government-soon-israeli-media?traffic_source=rss"
+        },
+        {
+          "title": "Christmas an act of resilience against Israeli occupation in Bethlehem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/26/christmas-an-act-of-resilience-against-israeli-occupation-in-bethlehem?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006085192697768673,
+      "chg5d": -0.0006798096532971026,
+      "chg1m": -0.5023135086333371
+    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.2,
+      "score": 5.16,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.2,
+      "score": 5.16,
       "confianca": 95,
       "razoes": [
         {
@@ -59,60 +90,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/26/christmas-an-act-of-resilience-against-israeli-occupation-in-bethlehem?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0008852290272774201,
-      "chg5d": 0.034117496915812354,
-      "chg1m": 0.07464468070997542
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.2,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel becomes first country to recognise Somaliland",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Two people dead in stabbing, car-ramming attack in Israel",
-          "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s government budget reveals tough road ahead as currency hits new low",
-          "url": "https://www.aljazeera.com/news/2025/12/26/irans-government-budget-reveals-tough-road-ahead-as-currency-hits-new-low?traffic_source=rss"
-        },
-        {
-          "title": "Trump could unveil Gaza ‘peace council’, ‘government’ soon: Israeli media",
-          "url": "https://www.aljazeera.com/news/2025/12/26/trump-could-unveil-gaza-peace-council-government-soon-israeli-media?traffic_source=rss"
-        },
-        {
-          "title": "Christmas an act of resilience against Israeli occupation in Bethlehem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/26/christmas-an-act-of-resilience-against-israeli-occupation-in-bethlehem?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00045075501464960846,
-      "chg5d": 0.005891683661907954,
-      "chg1m": -0.49904074032276263
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
-          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0004880246264734419,
-      "chg5d": 0.02768476614140562,
-      "chg1m": 0.06158170690376983
+      "chg1d": -0.007668553782810134,
+      "chg5d": 0.025279703917981858,
+      "chg1m": 0.06546053358679063
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -120,14 +105,29 @@
           "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0004409747174495032,
-      "chg5d": 0.04874332283248855,
-      "chg1m": 0.08003032653924816
+      "chg1d": 0.0018618932514535612,
+      "chg5d": 0.05023284481577852,
+      "chg1m": 0.08156428521052259
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
+          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008610819130565316,
+      "chg5d": 0.0370400748810684,
+      "chg1m": 0.071245589202767
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0010374832663989366,
-      "chg5d": 0.050688492342279075,
-      "chg1m": 0.050688492342279075
+      "chg1d": 0.013621151271753658,
+      "chg5d": 0.06389630462273428,
+      "chg1m": 0.06389630462273428
     }
   ]
 }
