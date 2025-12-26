@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T21:12:38.226109Z",
+  "generated_at": "2025-12-26T01:03:50.837761Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
           "title": "What are the consequences of Israel’s expanding illegal settlements?",
@@ -18,10 +18,29 @@
         {
           "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
           "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.002921348314606799,
+      "chg5d": -0.009155873157659752,
+      "chg1m": -0.5024111248177638
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "What are the consequences of Israel’s expanding illegal settlements?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/12/25/what-are-the-consequences-of-israels-expanding-illegal-settlements?traffic_source=rss"
         },
         {
-          "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
+          "title": "Infant among Palestinians wounded in attacks by Israeli settlers, soldiers",
+          "url": "https://www.aljazeera.com/news/2025/12/25/infant-among-palestinians-wounded-in-attacks-by-israeli-settlers-soldiers?traffic_source=rss"
+        },
+        {
+          "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
+          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.006631437156771295,
@@ -30,9 +49,9 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
           "title": "What are the consequences of Israel’s expanding illegal settlements?",
@@ -45,42 +64,11 @@
         {
           "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
           "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "What are the consequences of Israel’s expanding illegal settlements?",
-          "url": "https://www.aljazeera.com/video/inside-story/2025/12/25/what-are-the-consequences-of-israels-expanding-illegal-settlements?traffic_source=rss"
-        },
-        {
-          "title": "Infant among Palestinians wounded in attacks by Israeli settlers, soldiers",
-          "url": "https://www.aljazeera.com/news/2025/12/25/infant-among-palestinians-wounded-in-attacks-by-israeli-settlers-soldiers?traffic_source=rss"
-        },
-        {
-          "title": "Israel says member of Iran’s IRGC among several killed in Lebanon strikes",
-          "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian couple’s wedding turned to funeral after Israeli attack in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/palestinian-couples-wedding-turned-to-funeral-after-israeli-attack-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.002921348314606799,
-      "chg5d": -0.009155873157659752,
-      "chg1m": -0.5024111248177638
     }
   ]
 }
