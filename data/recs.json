@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-12-26T18:19:55.505663Z",
+  "generated_at": "2025-12-26T21:12:20.953786Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.16,
+      "score": 3.66,
       "confianca": 95,
       "razoes": [
         {
@@ -28,14 +28,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/26/christmas-an-act-of-resilience-against-israeli-occupation-in-bethlehem?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006085192697768673,
-      "chg5d": -0.0006798096532971026,
-      "chg1m": -0.5023135086333371
+      "chg1d": -0.005043746783324732,
+      "chg5d": 0.027991662058110402,
+      "chg1m": 0.0682787736787427
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.16,
+      "score": 3.66,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +64,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.16,
+      "score": 3.66,
       "confianca": 95,
       "razoes": [
         {
@@ -90,44 +90,14 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/26/christmas-an-act-of-resilience-against-israeli-occupation-in-bethlehem?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007668553782810134,
-      "chg5d": 0.025279703917981858,
-      "chg1m": 0.06546053358679063
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
-          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0018618932514535612,
-      "chg5d": 0.05023284481577852,
-      "chg1m": 0.08156428521052259
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
-          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008610819130565316,
-      "chg5d": 0.0370400748810684,
-      "chg1m": 0.071245589202767
+      "chg1d": -0.003606040117196227,
+      "chg5d": 0.0018128257421254994,
+      "chg1m": -0.5010721137569123
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -135,9 +105,39 @@
           "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013621151271753658,
-      "chg5d": 0.06389630462273428,
-      "chg1m": 0.06389630462273428
+      "chg1d": 0.01347054886211505,
+      "chg5d": 0.06373823240129262,
+      "chg1m": 0.06373823240129262
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
+          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00032664793885158014,
+      "chg5d": 0.048623476236131995,
+      "chg1m": 0.07990690457719171
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
+          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0068605000375403045,
+      "chg5d": 0.03524042033754377,
+      "chg1m": 0.06938657522776649
     }
   ]
 }
