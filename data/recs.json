@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-27T09:13:37.076423Z",
+  "generated_at": "2025-12-27T12:25:12.392305Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.1,
-      "confianca": 88,
+      "score": 2.41,
+      "confianca": 68,
       "razoes": [
+        {
+          "title": "Somalia demands Israel withdraw Somaliland recognition",
+          "url": "https://www.aljazeera.com/news/2025/12/27/state-aggression-somalia-demands-israel-withdraw-somaliland-recognition?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
@@ -18,14 +22,33 @@
         {
           "title": "Netanyahu pushes for more strikes on Iran, clashing with Trump’s priorities",
           "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005599588265568764,
+      "chg5d": 0.027417365040200762,
+      "chg1m": 0.06768196989456454
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.41,
+      "confianca": 68,
+      "razoes": [
+        {
+          "title": "Somalia demands Israel withdraw Somaliland recognition",
+          "url": "https://www.aljazeera.com/news/2025/12/27/state-aggression-somalia-demands-israel-withdraw-somaliland-recognition?traffic_source=rss"
         },
         {
-          "title": "Israel becomes first country to recognise Somaliland",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
+          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
         },
         {
-          "title": "Two people dead in stabbing, car-ramming attack in Israel",
-          "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
+          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu pushes for more strikes on Iran, clashing with Trump’s priorities",
+          "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
         }
       ],
       "chg1d": -0.003831417624520951,
@@ -35,9 +58,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.1,
-      "confianca": 88,
+      "score": 2.41,
+      "confianca": 68,
       "razoes": [
+        {
+          "title": "Somalia demands Israel withdraw Somaliland recognition",
+          "url": "https://www.aljazeera.com/news/2025/12/27/state-aggression-somalia-demands-israel-withdraw-somaliland-recognition?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
           "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
@@ -49,50 +76,11 @@
         {
           "title": "Netanyahu pushes for more strikes on Iran, clashing with Trump’s priorities",
           "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
-        },
-        {
-          "title": "Israel becomes first country to recognise Somaliland",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Two people dead in stabbing, car-ramming attack in Israel",
-          "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.1,
-      "confianca": 88,
-      "razoes": [
-        {
-          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu pushes for more strikes on Iran, clashing with Trump’s priorities",
-          "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
-        },
-        {
-          "title": "Israel becomes first country to recognise Somaliland",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Two people dead in stabbing, car-ramming attack in Israel",
-          "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005599588265568764,
-      "chg5d": 0.027417365040200762,
-      "chg1m": 0.06768196989456454
     }
   ]
 }
