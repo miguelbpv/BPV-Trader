@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-12-27T03:52:11.905214Z",
+  "generated_at": "2025-12-27T06:20:30.218152Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.12,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu pushes for Iran conflict, clashing with Trump’s priorities",
-          "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
-        },
-        {
-          "title": "Israel becomes first country to recognise Somaliland",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Two people dead in stabbing, car-ramming attack in Israel",
-          "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.12,
+      "score": 3.84,
       "confianca": 95,
       "razoes": [
         {
@@ -47,7 +16,7 @@
           "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
         },
         {
-          "title": "Netanyahu pushes for Iran conflict, clashing with Trump’s priorities",
+          "title": "Netanyahu pushes for more strikes on Iran, clashing with Trump’s priorities",
           "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
         },
         {
@@ -66,7 +35,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.12,
+      "score": 3.84,
       "confianca": 95,
       "razoes": [
         {
@@ -78,7 +47,7 @@
           "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
         },
         {
-          "title": "Netanyahu pushes for Iran conflict, clashing with Trump’s priorities",
+          "title": "Netanyahu pushes for more strikes on Iran, clashing with Trump’s priorities",
           "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
         },
         {
@@ -95,9 +64,55 @@
       "chg1m": 0.06768196989456454
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.84,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu pushes for more strikes on Iran, clashing with Trump’s priorities",
+          "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
+        },
+        {
+          "title": "Israel becomes first country to recognise Somaliland",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
+        },
+        {
+          "title": "Two people dead in stabbing, car-ramming attack in Israel",
+          "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.82,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
+          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006785419325775225,
+      "chg5d": 0.03516322335980552,
+      "chg1m": 0.06930683200095689
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.83,
+      "score": 0.82,
       "confianca": 23,
       "razoes": [
         {
@@ -112,7 +127,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.83,
+      "score": 0.82,
       "confianca": 23,
       "razoes": [
         {
@@ -123,21 +138,6 @@
       "chg1d": 0.013520749665327856,
       "chg5d": 0.0637909231417731,
       "chg1m": 0.0637909231417731
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
-          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005943576845108571,
-      "chg5d": 0.03429765224691465,
-      "chg1m": 0.0684127110703535
     }
   ]
 }
