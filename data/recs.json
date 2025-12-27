@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-26T21:12:20.953786Z",
+  "generated_at": "2025-12-27T01:02:14.701582Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.66,
+      "score": 4.88,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu pushes for Iran conflict, clashing with Trump’s priorities",
+          "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
+        },
         {
           "title": "Israel becomes first country to recognise Somaliland",
           "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
@@ -14,30 +26,61 @@
         {
           "title": "Two people dead in stabbing, car-ramming attack in Israel",
           "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s government budget reveals tough road ahead as currency hits new low",
-          "url": "https://www.aljazeera.com/news/2025/12/26/irans-government-budget-reveals-tough-road-ahead-as-currency-hits-new-low?traffic_source=rss"
-        },
-        {
-          "title": "Trump could unveil Gaza ‘peace council’, ‘government’ soon: Israeli media",
-          "url": "https://www.aljazeera.com/news/2025/12/26/trump-could-unveil-gaza-peace-council-government-soon-israeli-media?traffic_source=rss"
-        },
-        {
-          "title": "Christmas an act of resilience against Israeli occupation in Bethlehem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/26/christmas-an-act-of-resilience-against-israeli-occupation-in-bethlehem?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005043746783324732,
-      "chg5d": 0.027991662058110402,
-      "chg1m": 0.0682787736787427
+      "chg1d": -0.005599588265568764,
+      "chg5d": 0.027417365040200762,
+      "chg1m": 0.06768196989456454
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.88,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu pushes for Iran conflict, clashing with Trump’s priorities",
+          "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
+        },
+        {
+          "title": "Israel becomes first country to recognise Somaliland",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
+        },
+        {
+          "title": "Two people dead in stabbing, car-ramming attack in Israel",
+          "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.003831417624520951,
+      "chg5d": 0.0015862225243598522,
+      "chg1m": -0.5011849678365873
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.66,
+      "score": 4.88,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
+          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu pushes for Iran conflict, clashing with Trump’s priorities",
+          "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss"
+        },
         {
           "title": "Israel becomes first country to recognise Somaliland",
           "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
@@ -45,54 +88,11 @@
         {
           "title": "Two people dead in stabbing, car-ramming attack in Israel",
           "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s government budget reveals tough road ahead as currency hits new low",
-          "url": "https://www.aljazeera.com/news/2025/12/26/irans-government-budget-reveals-tough-road-ahead-as-currency-hits-new-low?traffic_source=rss"
-        },
-        {
-          "title": "Trump could unveil Gaza ‘peace council’, ‘government’ soon: Israeli media",
-          "url": "https://www.aljazeera.com/news/2025/12/26/trump-could-unveil-gaza-peace-council-government-soon-israeli-media?traffic_source=rss"
-        },
-        {
-          "title": "Christmas an act of resilience against Israeli occupation in Bethlehem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/26/christmas-an-act-of-resilience-against-israeli-occupation-in-bethlehem?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.66,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel becomes first country to recognise Somaliland",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Two people dead in stabbing, car-ramming attack in Israel",
-          "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s government budget reveals tough road ahead as currency hits new low",
-          "url": "https://www.aljazeera.com/news/2025/12/26/irans-government-budget-reveals-tough-road-ahead-as-currency-hits-new-low?traffic_source=rss"
-        },
-        {
-          "title": "Trump could unveil Gaza ‘peace council’, ‘government’ soon: Israeli media",
-          "url": "https://www.aljazeera.com/news/2025/12/26/trump-could-unveil-gaza-peace-council-government-soon-israeli-media?traffic_source=rss"
-        },
-        {
-          "title": "Christmas an act of resilience against Israeli occupation in Bethlehem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/26/christmas-an-act-of-resilience-against-israeli-occupation-in-bethlehem?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003606040117196227,
-      "chg5d": 0.0018128257421254994,
-      "chg1m": -0.5010721137569123
     },
     {
       "symbol": "TSM",
@@ -105,24 +105,9 @@
           "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01347054886211505,
-      "chg5d": 0.06373823240129262,
-      "chg1m": 0.06373823240129262
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
-          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00032664793885158014,
-      "chg5d": 0.048623476236131995,
-      "chg1m": 0.07990690457719171
+      "chg1d": 0.013520749665327856,
+      "chg5d": 0.0637909231417731,
+      "chg1m": 0.0637909231417731
     },
     {
       "symbol": "ASML.AS",
@@ -135,9 +120,24 @@
           "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0068605000375403045,
-      "chg5d": 0.03524042033754377,
-      "chg1m": 0.06938657522776649
+      "chg1d": 0.005943576845108571,
+      "chg5d": 0.03429765224691465,
+      "chg1m": 0.0684127110703535
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
+          "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0003266479388513945,
+      "chg5d": 0.047938638542665384,
+      "chg1m": 0.07920163622258282
     }
   ]
 }
