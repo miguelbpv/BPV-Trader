@@ -1,18 +1,53 @@
 {
-  "generated_at": "2025-12-27T18:18:36.848955Z",
+  "generated_at": "2025-12-27T21:11:14.088011Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "score": 3.43,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s recognition of Somaliland slammed across world capitals",
+          "url": "https://www.aljazeera.com/news/2025/12/27/israels-recognition-of-somaliland-slammed-across-world-capitals?traffic_source=rss"
+        },
         {
           "title": "Saudi coalition will counter Yemen separatists undermining de-escalation",
           "url": "https://www.aljazeera.com/news/2025/12/27/saudi-says-it-will-militarily-back-yemens-government-against-separatists?traffic_source=rss"
         },
         {
-          "title": "Israeli forces take over homes, impose curfew on West Bank’s Qabatiya",
+          "title": "Israeli forces take over homes, impose lockdown on West Bank’s Qabatiya",
+          "url": "https://www.aljazeera.com/news/2025/12/27/israeli-forces-take-over-homes-impose-curfew-on-west-banks-qabatiya?traffic_source=rss"
+        },
+        {
+          "title": "A year on, Israel still holds Gaza doctor Hussam Abu Safia without charge",
+          "url": "https://www.aljazeera.com/news/2025/12/27/a-year-on-israel-still-holds-gaza-doctor-hussam-abu-safia-without-charge?traffic_source=rss"
+        },
+        {
+          "title": "Somalia demands Israel withdraw Somaliland recognition",
+          "url": "https://www.aljazeera.com/news/2025/12/27/state-aggression-somalia-demands-israel-withdraw-somaliland-recognition?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.43,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel’s recognition of Somaliland slammed across world capitals",
+          "url": "https://www.aljazeera.com/news/2025/12/27/israels-recognition-of-somaliland-slammed-across-world-capitals?traffic_source=rss"
+        },
+        {
+          "title": "Saudi coalition will counter Yemen separatists undermining de-escalation",
+          "url": "https://www.aljazeera.com/news/2025/12/27/saudi-says-it-will-militarily-back-yemens-government-against-separatists?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces take over homes, impose lockdown on West Bank’s Qabatiya",
           "url": "https://www.aljazeera.com/news/2025/12/27/israeli-forces-take-over-homes-impose-curfew-on-west-banks-qabatiya?traffic_source=rss"
         },
         {
@@ -31,15 +66,19 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "score": 3.43,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s recognition of Somaliland slammed across world capitals",
+          "url": "https://www.aljazeera.com/news/2025/12/27/israels-recognition-of-somaliland-slammed-across-world-capitals?traffic_source=rss"
+        },
         {
           "title": "Saudi coalition will counter Yemen separatists undermining de-escalation",
           "url": "https://www.aljazeera.com/news/2025/12/27/saudi-says-it-will-militarily-back-yemens-government-against-separatists?traffic_source=rss"
         },
         {
-          "title": "Israeli forces take over homes, impose curfew on West Bank’s Qabatiya",
+          "title": "Israeli forces take over homes, impose lockdown on West Bank’s Qabatiya",
           "url": "https://www.aljazeera.com/news/2025/12/27/israeli-forces-take-over-homes-impose-curfew-on-west-banks-qabatiya?traffic_source=rss"
         },
         {
@@ -54,33 +93,6 @@
       "chg1d": -0.003831417624520951,
       "chg5d": 0.0015862225243598522,
       "chg1m": -0.5011849678365873
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Saudi coalition will counter Yemen separatists undermining de-escalation",
-          "url": "https://www.aljazeera.com/news/2025/12/27/saudi-says-it-will-militarily-back-yemens-government-against-separatists?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces take over homes, impose curfew on West Bank’s Qabatiya",
-          "url": "https://www.aljazeera.com/news/2025/12/27/israeli-forces-take-over-homes-impose-curfew-on-west-banks-qabatiya?traffic_source=rss"
-        },
-        {
-          "title": "A year on, Israel still holds Gaza doctor Hussam Abu Safia without charge",
-          "url": "https://www.aljazeera.com/news/2025/12/27/a-year-on-israel-still-holds-gaza-doctor-hussam-abu-safia-without-charge?traffic_source=rss"
-        },
-        {
-          "title": "Somalia demands Israel withdraw Somaliland recognition",
-          "url": "https://www.aljazeera.com/news/2025/12/27/state-aggression-somalia-demands-israel-withdraw-somaliland-recognition?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
