@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-27T15:12:26.882449Z",
+  "generated_at": "2025-12-27T18:18:36.848955Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.62,
-      "confianca": 95,
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Saudi coalition will counter Yemen separatists undermining de-escalation",
+          "url": "https://www.aljazeera.com/news/2025/12/27/saudi-says-it-will-militarily-back-yemens-government-against-separatists?traffic_source=rss"
+        },
         {
           "title": "Israeli forces take over homes, impose curfew on West Bank’s Qabatiya",
           "url": "https://www.aljazeera.com/news/2025/12/27/israeli-forces-take-over-homes-impose-curfew-on-west-banks-qabatiya?traffic_source=rss"
@@ -18,26 +22,22 @@
         {
           "title": "Somalia demands Israel withdraw Somaliland recognition",
           "url": "https://www.aljazeera.com/news/2025/12/27/state-aggression-somalia-demands-israel-withdraw-somaliland-recognition?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.005599588265568764,
+      "chg5d": 0.027417365040200762,
+      "chg1m": 0.06768196989456454
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.62,
-      "confianca": 95,
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Saudi coalition will counter Yemen separatists undermining de-escalation",
+          "url": "https://www.aljazeera.com/news/2025/12/27/saudi-says-it-will-militarily-back-yemens-government-against-separatists?traffic_source=rss"
+        },
         {
           "title": "Israeli forces take over homes, impose curfew on West Bank’s Qabatiya",
           "url": "https://www.aljazeera.com/news/2025/12/27/israeli-forces-take-over-homes-impose-curfew-on-west-banks-qabatiya?traffic_source=rss"
@@ -49,14 +49,6 @@
         {
           "title": "Somalia demands Israel withdraw Somaliland recognition",
           "url": "https://www.aljazeera.com/news/2025/12/27/state-aggression-somalia-demands-israel-withdraw-somaliland-recognition?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
         }
       ],
       "chg1d": -0.003831417624520951,
@@ -64,11 +56,15 @@
       "chg1m": -0.5011849678365873
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.62,
-      "confianca": 95,
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Saudi coalition will counter Yemen separatists undermining de-escalation",
+          "url": "https://www.aljazeera.com/news/2025/12/27/saudi-says-it-will-militarily-back-yemens-government-against-separatists?traffic_source=rss"
+        },
         {
           "title": "Israeli forces take over homes, impose curfew on West Bank’s Qabatiya",
           "url": "https://www.aljazeera.com/news/2025/12/27/israeli-forces-take-over-homes-impose-curfew-on-west-banks-qabatiya?traffic_source=rss"
@@ -80,19 +76,11 @@
         {
           "title": "Somalia demands Israel withdraw Somaliland recognition",
           "url": "https://www.aljazeera.com/news/2025/12/27/state-aggression-somalia-demands-israel-withdraw-somaliland-recognition?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill Palestinian in Gaza, carry out raids across West Bank",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israeli-forces-kill-palestinian-in-gaza-carry-out-raids-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel attacks press as ‘silencing’ policy: Palestinian journalists union",
-          "url": "https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005599588265568764,
-      "chg5d": 0.027417365040200762,
-      "chg1m": 0.06768196989456454
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
