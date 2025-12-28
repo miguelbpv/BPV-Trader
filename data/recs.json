@@ -1,41 +1,10 @@
 {
-  "generated_at": "2025-12-28T18:19:17.817797Z",
+  "generated_at": "2025-12-28T21:12:02.118471Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.17,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Javad Zarif: Main threat to the Middle East is Israel, not Iran",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss"
-        },
-        {
-          "title": "One year in Israeli detention, Dr Hussam Abu Safia’s son pleads for release",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/28/one-year-in-israeli-detention-dr-hussam-abu-safias-son-pleads-for-release?traffic_source=rss"
-        },
-        {
-          "title": "US-Israel ties: What Netanyahu and Trump will discuss in Florida",
-          "url": "https://www.aljazeera.com/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?traffic_source=rss"
-        },
-        {
-          "title": "Gaza storm kills Palestinian woman as Israeli curbs on aid compound misery",
-          "url": "https://www.aljazeera.com/news/2025/12/28/gaza-storm-kills-palestinian-woman-as-israeli-curbs-on-aid-compound-misery?traffic_source=rss"
-        },
-        {
-          "title": "Somalia condemns Israel’s recognition of Somaliland as ‘naked invasion’",
-          "url": "https://www.aljazeera.com/news/2025/12/28/somalia-condemns-israels-recognition-of-somaliland-as-naked-invasion?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005599588265568764,
-      "chg5d": 0.027417365040200762,
-      "chg1m": 0.06768196989456454
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.17,
+      "score": 5.13,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": -0.5011849678365873
     },
     {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.13,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Javad Zarif: Main threat to the Middle East is Israel, not Iran",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss"
+        },
+        {
+          "title": "One year in Israeli detention, Dr Hussam Abu Safia’s son pleads for release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/28/one-year-in-israeli-detention-dr-hussam-abu-safias-son-pleads-for-release?traffic_source=rss"
+        },
+        {
+          "title": "US-Israel ties: What Netanyahu and Trump will discuss in Florida",
+          "url": "https://www.aljazeera.com/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?traffic_source=rss"
+        },
+        {
+          "title": "Gaza storm kills Palestinian woman as Israeli curbs on aid compound misery",
+          "url": "https://www.aljazeera.com/news/2025/12/28/gaza-storm-kills-palestinian-woman-as-israeli-curbs-on-aid-compound-misery?traffic_source=rss"
+        },
+        {
+          "title": "Somalia condemns Israel’s recognition of Somaliland as ‘naked invasion’",
+          "url": "https://www.aljazeera.com/news/2025/12/28/somalia-condemns-israels-recognition-of-somaliland-as-naked-invasion?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005599588265568764,
+      "chg5d": 0.027417365040200762,
+      "chg1m": 0.06768196989456454
+    },
+    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.17,
+      "score": 5.13,
       "confianca": 95,
       "razoes": [
         {
