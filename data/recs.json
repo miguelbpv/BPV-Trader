@@ -1,46 +1,31 @@
 {
-  "generated_at": "2025-12-28T12:25:12.379119Z",
+  "generated_at": "2025-12-28T15:12:53.091791Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "Israel kills over 700 relatives of Palestinian journalists in Gaza: Report",
-          "url": "https://www.aljazeera.com/news/2025/12/28/israel-kills-over-700-relatives-of-palestinian-journalists-in-gaza-report?traffic_source=rss"
-        },
-        {
-          "title": "Iran president says US, Israel, Europe waging ‘full-fledged war’ on country",
-          "url": "https://www.aljazeera.com/news/2025/12/27/iran-president-says-us-israel-europe-waging-full-fledged-war-on-country?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s recognition of Somaliland slammed across world capitals",
-          "url": "https://www.aljazeera.com/news/2025/12/27/israels-recognition-of-somaliland-slammed-across-world-capitals?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
+      "acao": "comprar",
+      "score": 5.22,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Israel kills over 700 relatives of Palestinian journalists in Gaza: Report",
-          "url": "https://www.aljazeera.com/news/2025/12/28/israel-kills-over-700-relatives-of-palestinian-journalists-in-gaza-report?traffic_source=rss"
+          "title": "Javad Zarif: Main threat to the Middle East is Israel, not Iran",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss"
         },
         {
-          "title": "Iran president says US, Israel, Europe waging ‘full-fledged war’ on country",
-          "url": "https://www.aljazeera.com/news/2025/12/27/iran-president-says-us-israel-europe-waging-full-fledged-war-on-country?traffic_source=rss"
+          "title": "One year in Israeli detention, Dr Hussam Abu Safia’s son pleads for release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/28/one-year-in-israeli-detention-dr-hussam-abu-safias-son-pleads-for-release?traffic_source=rss"
         },
         {
-          "title": "Israel’s recognition of Somaliland slammed across world capitals",
-          "url": "https://www.aljazeera.com/news/2025/12/27/israels-recognition-of-somaliland-slammed-across-world-capitals?traffic_source=rss"
+          "title": "US-Israel ties: What Netanyahu and Trump will discuss in Florida",
+          "url": "https://www.aljazeera.com/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?traffic_source=rss"
+        },
+        {
+          "title": "Gaza storm kills Palestinian woman as Israeli curbs on aid compound misery",
+          "url": "https://www.aljazeera.com/news/2025/12/28/gaza-storm-kills-palestinian-woman-as-israeli-curbs-on-aid-compound-misery?traffic_source=rss"
+        },
+        {
+          "title": "Somalia condemns Israel’s recognition of Somaliland as ‘naked invasion’",
+          "url": "https://www.aljazeera.com/news/2025/12/28/somalia-condemns-israels-recognition-of-somaliland-as-naked-invasion?traffic_source=rss"
         }
       ],
       "chg1d": -0.005599588265568764,
@@ -49,26 +34,65 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
+      "acao": "comprar",
+      "score": 5.22,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Israel kills over 700 relatives of Palestinian journalists in Gaza: Report",
-          "url": "https://www.aljazeera.com/news/2025/12/28/israel-kills-over-700-relatives-of-palestinian-journalists-in-gaza-report?traffic_source=rss"
+          "title": "Javad Zarif: Main threat to the Middle East is Israel, not Iran",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss"
         },
         {
-          "title": "Iran president says US, Israel, Europe waging ‘full-fledged war’ on country",
-          "url": "https://www.aljazeera.com/news/2025/12/27/iran-president-says-us-israel-europe-waging-full-fledged-war-on-country?traffic_source=rss"
+          "title": "One year in Israeli detention, Dr Hussam Abu Safia’s son pleads for release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/28/one-year-in-israeli-detention-dr-hussam-abu-safias-son-pleads-for-release?traffic_source=rss"
         },
         {
-          "title": "Israel’s recognition of Somaliland slammed across world capitals",
-          "url": "https://www.aljazeera.com/news/2025/12/27/israels-recognition-of-somaliland-slammed-across-world-capitals?traffic_source=rss"
+          "title": "US-Israel ties: What Netanyahu and Trump will discuss in Florida",
+          "url": "https://www.aljazeera.com/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?traffic_source=rss"
+        },
+        {
+          "title": "Gaza storm kills Palestinian woman as Israeli curbs on aid compound misery",
+          "url": "https://www.aljazeera.com/news/2025/12/28/gaza-storm-kills-palestinian-woman-as-israeli-curbs-on-aid-compound-misery?traffic_source=rss"
+        },
+        {
+          "title": "Somalia condemns Israel’s recognition of Somaliland as ‘naked invasion’",
+          "url": "https://www.aljazeera.com/news/2025/12/28/somalia-condemns-israels-recognition-of-somaliland-as-naked-invasion?traffic_source=rss"
         }
       ],
       "chg1d": -0.003831417624520951,
       "chg5d": 0.0015862225243598522,
       "chg1m": -0.5011849678365873
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.22,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Javad Zarif: Main threat to the Middle East is Israel, not Iran",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss"
+        },
+        {
+          "title": "One year in Israeli detention, Dr Hussam Abu Safia’s son pleads for release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/28/one-year-in-israeli-detention-dr-hussam-abu-safias-son-pleads-for-release?traffic_source=rss"
+        },
+        {
+          "title": "US-Israel ties: What Netanyahu and Trump will discuss in Florida",
+          "url": "https://www.aljazeera.com/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?traffic_source=rss"
+        },
+        {
+          "title": "Gaza storm kills Palestinian woman as Israeli curbs on aid compound misery",
+          "url": "https://www.aljazeera.com/news/2025/12/28/gaza-storm-kills-palestinian-woman-as-israeli-curbs-on-aid-compound-misery?traffic_source=rss"
+        },
+        {
+          "title": "Somalia condemns Israel’s recognition of Somaliland as ‘naked invasion’",
+          "url": "https://www.aljazeera.com/news/2025/12/28/somalia-condemns-israels-recognition-of-somaliland-as-naked-invasion?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
