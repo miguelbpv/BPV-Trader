@@ -1,10 +1,41 @@
 {
-  "generated_at": "2025-12-29T01:09:35.355484Z",
+  "generated_at": "2025-12-29T04:06:11.506362Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.06,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Any Israeli presence in Somaliland will be a ‘target’: Houthi leader",
+          "url": "https://www.aljazeera.com/news/2025/12/28/any-israeli-presence-in-somaliland-will-be-a-target-houthi-leader?traffic_source=rss"
+        },
+        {
+          "title": "Javad Zarif: Main threat to the Middle East is Israel, not Iran",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss"
+        },
+        {
+          "title": "One year in Israeli detention, Dr Hussam Abu Safia’s son pleads for release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/28/one-year-in-israeli-detention-dr-hussam-abu-safias-son-pleads-for-release?traffic_source=rss"
+        },
+        {
+          "title": "US-Israel ties: What Netanyahu and Trump will discuss in Florida",
+          "url": "https://www.aljazeera.com/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?traffic_source=rss"
+        },
+        {
+          "title": "Gaza storm kills Palestinian woman as Israeli curbs on aid compound misery",
+          "url": "https://www.aljazeera.com/news/2025/12/28/gaza-storm-kills-palestinian-woman-as-israeli-curbs-on-aid-compound-misery?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.003831417624520951,
+      "chg5d": 0.0015862225243598522,
+      "chg1m": -0.5011849678365873
+    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.82,
+      "score": 5.06,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.82,
+      "score": 5.06,
       "confianca": 95,
       "razoes": [
         {
@@ -62,37 +93,6 @@
       "chg1d": -0.005599588265568764,
       "chg5d": 0.027417365040200762,
       "chg1m": 0.06768196989456454
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.82,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Any Israeli presence in Somaliland will be a ‘target’: Houthi leader",
-          "url": "https://www.aljazeera.com/news/2025/12/28/any-israeli-presence-in-somaliland-will-be-a-target-houthi-leader?traffic_source=rss"
-        },
-        {
-          "title": "Javad Zarif: Main threat to the Middle East is Israel, not Iran",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss"
-        },
-        {
-          "title": "One year in Israeli detention, Dr Hussam Abu Safia’s son pleads for release",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/28/one-year-in-israeli-detention-dr-hussam-abu-safias-son-pleads-for-release?traffic_source=rss"
-        },
-        {
-          "title": "US-Israel ties: What Netanyahu and Trump will discuss in Florida",
-          "url": "https://www.aljazeera.com/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?traffic_source=rss"
-        },
-        {
-          "title": "Gaza storm kills Palestinian woman as Israeli curbs on aid compound misery",
-          "url": "https://www.aljazeera.com/news/2025/12/28/gaza-storm-kills-palestinian-woman-as-israeli-curbs-on-aid-compound-misery?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003831417624520951,
-      "chg5d": 0.0015862225243598522,
-      "chg1m": -0.5011849678365873
     }
   ]
 }
