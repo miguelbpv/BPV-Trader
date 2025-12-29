@@ -1,27 +1,54 @@
 {
-  "generated_at": "2025-12-29T18:20:58.339226Z",
+  "generated_at": "2025-12-29T21:12:26.084433Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "‘We’ll knock the hell out of them’: Trump threatens Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US would back strikes against Iran’s missile programme",
+          "url": "https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme?traffic_source=rss"
+        },
         {
           "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
           "url": "https://www.aljazeera.com/news/2025/12/29/protests-strikes-after-irans-economic-situation-rapidly-deteriorates?traffic_source=rss"
         },
         {
-          "title": "Trump live: US president to meet with Israel’s Benjamin Netanyahu",
+          "title": "Trump live: US president meets with Israel’s Benjamin Netanyahu",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/29/trump-live-us-president-to-meet-with-israels-benjamin-netanyahu?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008823529411764718,
+      "chg5d": 0.019036954087346153,
+      "chg1m": 0.007394487909684701
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "‘We’ll knock the hell out of them’: Trump threatens Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss"
         },
         {
-          "title": "Three messages reset conditions in eastern Yemen",
-          "url": "https://www.aljazeera.com/opinions/2025/12/29/three-messages-reset-conditions-in-eastern-yemen?traffic_source=rss"
+          "title": "Trump says US would back strikes against Iran’s missile programme",
+          "url": "https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme?traffic_source=rss"
         },
         {
-          "title": "Tents flooded by heavy rains in Gaza amid calls for Israel to let in aid",
-          "url": "https://www.aljazeera.com/news/2025/12/29/tents-flooded-by-heavy-rains-in-gaza-amid-calls-for-israel-to-let-in-aid?traffic_source=rss"
+          "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
+          "url": "https://www.aljazeera.com/news/2025/12/29/protests-strikes-after-irans-economic-situation-rapidly-deteriorates?traffic_source=rss"
+        },
+        {
+          "title": "Trump live: US president meets with Israel’s Benjamin Netanyahu",
+          "url": "https://www.aljazeera.com/news/liveblog/2025/12/29/trump-live-us-president-to-meet-with-israels-benjamin-netanyahu?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,58 +56,31 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
-          "url": "https://www.aljazeera.com/news/2025/12/29/protests-strikes-after-irans-economic-situation-rapidly-deteriorates?traffic_source=rss"
-        },
-        {
-          "title": "Trump live: US president to meet with Israel’s Benjamin Netanyahu",
-          "url": "https://www.aljazeera.com/news/liveblog/2025/12/29/trump-live-us-president-to-meet-with-israels-benjamin-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Three messages reset conditions in eastern Yemen",
-          "url": "https://www.aljazeera.com/opinions/2025/12/29/three-messages-reset-conditions-in-eastern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Tents flooded by heavy rains in Gaza amid calls for Israel to let in aid",
-          "url": "https://www.aljazeera.com/news/2025/12/29/tents-flooded-by-heavy-rains-in-gaza-amid-calls-for-israel-to-let-in-aid?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010067873303167427,
-      "chg5d": 0.02029389583380957,
-      "chg1m": 0.008637069134960151
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "‘We’ll knock the hell out of them’: Trump threatens Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US would back strikes against Iran’s missile programme",
+          "url": "https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme?traffic_source=rss"
+        },
         {
           "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
           "url": "https://www.aljazeera.com/news/2025/12/29/protests-strikes-after-irans-economic-situation-rapidly-deteriorates?traffic_source=rss"
         },
         {
-          "title": "Trump live: US president to meet with Israel’s Benjamin Netanyahu",
+          "title": "Trump live: US president meets with Israel’s Benjamin Netanyahu",
           "url": "https://www.aljazeera.com/news/liveblog/2025/12/29/trump-live-us-president-to-meet-with-israels-benjamin-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Three messages reset conditions in eastern Yemen",
-          "url": "https://www.aljazeera.com/opinions/2025/12/29/three-messages-reset-conditions-in-eastern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Tents flooded by heavy rains in Gaza amid calls for Israel to let in aid",
-          "url": "https://www.aljazeera.com/news/2025/12/29/tents-flooded-by-heavy-rains-in-gaza-amid-calls-for-israel-to-let-in-aid?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010630809680558243,
-      "chg5d": 0.029601586062894196,
-      "chg1m": 0.0748744935705478
+      "chg1d": 0.011148375877274803,
+      "chg5d": 0.030128867610149167,
+      "chg1m": 0.07542496036639068
     }
   ]
 }
