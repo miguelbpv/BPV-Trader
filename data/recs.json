@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-12-30T12:27:45.554359Z",
+  "generated_at": "2025-12-30T15:14:57.044501Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.67,
+      "score": 5.67,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
+          "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
+        },
+        {
+          "title": "Trump threatens Hamas while praising Israel on Gaza ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/trump-threatens-hamas-while-praising-israel-on-gaza-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Somalis rally against Israel’s world-first recognition of Somaliland",
           "url": "https://www.aljazeera.com/news/2025/12/30/somalis-rally-against-israels-world-first-recognition-of-somaliland?traffic_source=rss"
@@ -18,81 +26,73 @@
         {
           "title": "Yemen’s presidential council cancels UAE defence deal",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0009204901098451299,
+      "chg5d": 0.011890729366999607,
+      "chg1m": 0.06871095968199882
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.67,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
+          "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
         },
         {
-          "title": "“No withdrawal of the Israeli army” from Gaza unless Hamas disarms",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/30/aje-onl-qt_thomas_warrick-301225?traffic_source=rss"
+          "title": "Trump threatens Hamas while praising Israel on Gaza ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/trump-threatens-hamas-while-praising-israel-on-gaza-ceasefire?traffic_source=rss"
         },
         {
-          "title": "A decimated Gaza marks the end of another year of Israeli bombs",
-          "url": "https://www.aljazeera.com/features/2025/12/30/a-year-of-israeli-bombs-has-decimated-gazas-infrastructure?traffic_source=rss"
+          "title": "Somalis rally against Israel’s world-first recognition of Somaliland",
+          "url": "https://www.aljazeera.com/news/2025/12/30/somalis-rally-against-israels-world-first-recognition-of-somaliland?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes on Gaza are relentless as displaced endure flooded camps",
+          "url": "https://www.aljazeera.com/news/2025/12/30/israeli-strikes-on-gaza-are-relentless-as-displaced-endure-flooded-camps?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s presidential council cancels UAE defence deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006051098162259147,
+      "chg5d": 0.015381135489708203,
+      "chg1m": 0.0010547982168781073
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.67,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
+          "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
+        },
+        {
+          "title": "Trump threatens Hamas while praising Israel on Gaza ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/trump-threatens-hamas-while-praising-israel-on-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Somalis rally against Israel’s world-first recognition of Somaliland",
+          "url": "https://www.aljazeera.com/news/2025/12/30/somalis-rally-against-israels-world-first-recognition-of-somaliland?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes on Gaza are relentless as displaced endure flooded camps",
+          "url": "https://www.aljazeera.com/news/2025/12/30/israeli-strikes-on-gaza-are-relentless-as-displaced-endure-flooded-camps?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s presidential council cancels UAE defence deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.67,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Somalis rally against Israel’s world-first recognition of Somaliland",
-          "url": "https://www.aljazeera.com/news/2025/12/30/somalis-rally-against-israels-world-first-recognition-of-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes on Gaza are relentless as displaced endure flooded camps",
-          "url": "https://www.aljazeera.com/news/2025/12/30/israeli-strikes-on-gaza-are-relentless-as-displaced-endure-flooded-camps?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s presidential council cancels UAE defence deal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss"
-        },
-        {
-          "title": "“No withdrawal of the Israeli army” from Gaza unless Hamas disarms",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/30/aje-onl-qt_thomas_warrick-301225?traffic_source=rss"
-        },
-        {
-          "title": "A decimated Gaza marks the end of another year of Israeli bombs",
-          "url": "https://www.aljazeera.com/features/2025/12/30/a-year-of-israeli-bombs-has-decimated-gazas-infrastructure?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01209034635529891,
-      "chg5d": 0.031088520026153185,
-      "chg1m": 0.07642680993482469
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.67,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Somalis rally against Israel’s world-first recognition of Somaliland",
-          "url": "https://www.aljazeera.com/news/2025/12/30/somalis-rally-against-israels-world-first-recognition-of-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes on Gaza are relentless as displaced endure flooded camps",
-          "url": "https://www.aljazeera.com/news/2025/12/30/israeli-strikes-on-gaza-are-relentless-as-displaced-endure-flooded-camps?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s presidential council cancels UAE defence deal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss"
-        },
-        {
-          "title": "“No withdrawal of the Israeli army” from Gaza unless Hamas disarms",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/30/aje-onl-qt_thomas_warrick-301225?traffic_source=rss"
-        },
-        {
-          "title": "A decimated Gaza marks the end of another year of Israeli bombs",
-          "url": "https://www.aljazeera.com/features/2025/12/30/a-year-of-israeli-bombs-has-decimated-gazas-infrastructure?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009502262443438792,
-      "chg5d": 0.019722558676326066,
-      "chg1m": 0.008072259487107544
     }
   ]
 }
