@@ -1,42 +1,11 @@
 {
-  "generated_at": "2025-12-30T03:58:20.985814Z",
+  "generated_at": "2025-12-30T06:21:54.850502Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.18,
-      "confianca": 90,
-      "razoes": [
-        {
-          "title": "UN Security Council members condemn Israel’s recognition of Somaliland",
-          "url": "https://www.aljazeera.com/news/2025/12/30/un-security-council-members-condemn-israels-recognition-of-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "At UN, Somalia slams Israel’s Somaliland recognition as ‘threat’ to peace",
-          "url": "https://www.aljazeera.com/news/2025/12/29/somalia-slams-israels-somaliland-recognition-as-threat-to-global-peace?traffic_source=rss"
-        },
-        {
-          "title": "‘We’ll knock the hell out of them’: Trump threatens Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss"
-        },
-        {
-          "title": "Trump threatens Hamas, warns Iran of more US strikes after Netanyahu talks",
-          "url": "https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme?traffic_source=rss"
-        },
-        {
-          "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
-          "url": "https://www.aljazeera.com/news/2025/12/29/protests-strikes-after-irans-economic-situation-rapidly-deteriorates?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01209034635529891,
-      "chg5d": 0.031088520026153185,
-      "chg1m": 0.07642680993482469
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.18,
-      "confianca": 90,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
           "title": "UN Security Council members condemn Israel’s recognition of Somaliland",
@@ -51,12 +20,8 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss"
         },
         {
-          "title": "Trump threatens Hamas, warns Iran of more US strikes after Netanyahu talks",
+          "title": "Trump threatens Hamas, warns Iran of more strikes after Netanyahu talks",
           "url": "https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme?traffic_source=rss"
-        },
-        {
-          "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
-          "url": "https://www.aljazeera.com/news/2025/12/29/protests-strikes-after-irans-economic-situation-rapidly-deteriorates?traffic_source=rss"
         }
       ],
       "chg1d": 0.009502262443438792,
@@ -66,8 +31,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.18,
-      "confianca": 90,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
           "title": "UN Security Council members condemn Israel’s recognition of Somaliland",
@@ -82,17 +47,40 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss"
         },
         {
-          "title": "Trump threatens Hamas, warns Iran of more US strikes after Netanyahu talks",
+          "title": "Trump threatens Hamas, warns Iran of more strikes after Netanyahu talks",
           "url": "https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme?traffic_source=rss"
-        },
-        {
-          "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
-          "url": "https://www.aljazeera.com/news/2025/12/29/protests-strikes-after-irans-economic-situation-rapidly-deteriorates?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.68,
+      "confianca": 76,
+      "razoes": [
+        {
+          "title": "UN Security Council members condemn Israel’s recognition of Somaliland",
+          "url": "https://www.aljazeera.com/news/2025/12/30/un-security-council-members-condemn-israels-recognition-of-somaliland?traffic_source=rss"
+        },
+        {
+          "title": "At UN, Somalia slams Israel’s Somaliland recognition as ‘threat’ to peace",
+          "url": "https://www.aljazeera.com/news/2025/12/29/somalia-slams-israels-somaliland-recognition-as-threat-to-global-peace?traffic_source=rss"
+        },
+        {
+          "title": "‘We’ll knock the hell out of them’: Trump threatens Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss"
+        },
+        {
+          "title": "Trump threatens Hamas, warns Iran of more strikes after Netanyahu talks",
+          "url": "https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01209034635529891,
+      "chg5d": 0.031088520026153185,
+      "chg1m": 0.07642680993482469
     }
   ]
 }
