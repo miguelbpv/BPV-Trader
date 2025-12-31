@@ -1,43 +1,16 @@
 {
-  "generated_at": "2025-12-31T03:57:09.993282Z",
+  "generated_at": "2025-12-31T06:22:03.854777Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.29,
-      "confianca": 94,
-      "razoes": [
-        {
-          "title": "UAE to pull forces out of Yemen after calls for withdrawal, Saudi strike",
-          "url": "https://www.aljazeera.com/news/2025/12/31/uae-to-pull-forces-out-of-yemen-as-tensions-rise-with-saudi-arabia?traffic_source=rss"
-        },
-        {
-          "title": "UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye’s Erdogan calls Israel’s Somaliland recognition ‘unacceptable’",
-          "url": "https://www.aljazeera.com/news/2025/12/30/trkiyes-erdogan-calls-israels-somaliland-recognition-unacceptable?traffic_source=rss"
-        },
-        {
-          "title": "Israel to block dozens of aid groups working in war-battered Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
-          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007844016136261798,
-      "chg5d": 0.017190680841438544,
-      "chg1m": 0.0028388121143463306
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.29,
-      "confianca": 94,
+      "score": 4.01,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s recognition of Somaliland ‘strange, unexpected’: Somali president",
+          "url": "https://www.aljazeera.com/news/2025/12/31/israels-recognition-of-somaliland-strange-unexpected-somali-president?traffic_source=rss"
+        },
         {
           "title": "UAE to pull forces out of Yemen after calls for withdrawal, Saudi strike",
           "url": "https://www.aljazeera.com/news/2025/12/31/uae-to-pull-forces-out-of-yemen-as-tensions-rise-with-saudi-arabia?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israel to block dozens of aid groups working in war-battered Gaza",
           "url": "https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
-          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.29,
-      "confianca": 94,
+      "score": 4.01,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s recognition of Somaliland ‘strange, unexpected’: Somali president",
+          "url": "https://www.aljazeera.com/news/2025/12/31/israels-recognition-of-somaliland-strange-unexpected-somali-president?traffic_source=rss"
+        },
         {
           "title": "UAE to pull forces out of Yemen after calls for withdrawal, Saudi strike",
           "url": "https://www.aljazeera.com/news/2025/12/31/uae-to-pull-forces-out-of-yemen-as-tensions-rise-with-saudi-arabia?traffic_source=rss"
@@ -84,10 +57,6 @@
         {
           "title": "Israel to block dozens of aid groups working in war-battered Gaza",
           "url": "https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
-          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
         }
       ],
       "chg1d": -0.0017796142123673053,
@@ -95,40 +64,56 @@
       "chg1m": 0.0658279823526842
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.01,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
-          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
+          "title": "Israel’s recognition of Somaliland ‘strange, unexpected’: Somali president",
+          "url": "https://www.aljazeera.com/news/2025/12/31/israels-recognition-of-somaliland-strange-unexpected-somali-president?traffic_source=rss"
+        },
+        {
+          "title": "UAE to pull forces out of Yemen after calls for withdrawal, Saudi strike",
+          "url": "https://www.aljazeera.com/news/2025/12/31/uae-to-pull-forces-out-of-yemen-as-tensions-rise-with-saudi-arabia?traffic_source=rss"
+        },
+        {
+          "title": "UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s Erdogan calls Israel’s Somaliland recognition ‘unacceptable’",
+          "url": "https://www.aljazeera.com/news/2025/12/30/trkiyes-erdogan-calls-israels-somaliland-recognition-unacceptable?traffic_source=rss"
+        },
+        {
+          "title": "Israel to block dozens of aid groups working in war-battered Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0012773483558233538,
-      "chg5d": 0.003587414428646761,
-      "chg1m": 0.02759991912111612
+      "chg1d": 0.0076199013895115065,
+      "chg5d": 0.01696448767247229,
+      "chg1m": 0.0026158103771628423
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
           "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0038216137179317893,
-      "chg5d": 0.022129023458810727,
-      "chg1m": 0.02833522006106134
+      "chg1d": -0.0013101008777675136,
+      "chg5d": 0.0035545023696683816,
+      "chg1m": 0.027566219586169734
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
@@ -138,6 +123,21 @@
       "chg1d": 0.005764567376019784,
       "chg5d": 0.014342750099339704,
       "chg1m": 0.01145283018867934
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
+          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004453010766981363,
+      "chg5d": 0.021481178396072054,
+      "chg1m": 0.027683441391375917
     }
   ]
 }
