@@ -1,74 +1,16 @@
 {
-  "generated_at": "2025-12-31T15:14:00.767547Z",
+  "generated_at": "2025-12-31T18:19:48.477295Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Saudi-UAE fallout and its impact on Yemen’s recognised government",
-          "url": "https://www.aljazeera.com/opinions/2025/12/31/saudi-uae-fallout-and-its-impact-on-yemens-recognised-government?traffic_source=rss"
-        },
-        {
-          "title": "Which aid groups is Israel banning from Gaza now – and what will it mean?",
-          "url": "https://www.aljazeera.com/news/2025/12/31/which-aid-groups-is-israel-banning-from-gaza-now-and-what-will-it-mean?traffic_source=rss"
-        },
-        {
-          "title": "What led to Saudi Arabia’s strike on Yemen?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/what-led-to-saudi-arabias-strike-on-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Israeli ban on Gaza aid groups is “going to be catastrophic”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/31/aje-onl-qt-james_smith-311225?traffic_source=rss"
-        },
-        {
-          "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/protests-strikes-after-irans-economic-situation-rapidly-deteriorates-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0013345195729537872,
-      "chg5d": 0.008988764044943788,
-      "chg1m": -0.008260811945045772
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Saudi-UAE fallout and its impact on Yemen’s recognised government",
-          "url": "https://www.aljazeera.com/opinions/2025/12/31/saudi-uae-fallout-and-its-impact-on-yemens-recognised-government?traffic_source=rss"
-        },
-        {
-          "title": "Which aid groups is Israel banning from Gaza now – and what will it mean?",
-          "url": "https://www.aljazeera.com/news/2025/12/31/which-aid-groups-is-israel-banning-from-gaza-now-and-what-will-it-mean?traffic_source=rss"
-        },
-        {
-          "title": "What led to Saudi Arabia’s strike on Yemen?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/what-led-to-saudi-arabias-strike-on-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Israeli ban on Gaza aid groups is “going to be catastrophic”",
-          "url": "https://www.aljazeera.com/video/quotable/2025/12/31/aje-onl-qt-james_smith-311225?traffic_source=rss"
-        },
-        {
-          "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/protests-strikes-after-irans-economic-situation-rapidly-deteriorates-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0006659836065573538,
-      "chg5d": 0.010620661071391565,
-      "chg1m": 0.11039641157585559
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "These are the countries attacked by Israel in 2025",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/these-are-the-countries-attacked-by-israel-in-2025?traffic_source=rss"
+        },
         {
           "title": "Saudi-UAE fallout and its impact on Yemen’s recognised government",
           "url": "https://www.aljazeera.com/opinions/2025/12/31/saudi-uae-fallout-and-its-impact-on-yemens-recognised-government?traffic_source=rss"
@@ -84,15 +26,73 @@
         {
           "title": "Israeli ban on Gaza aid groups is “going to be catastrophic”",
           "url": "https://www.aljazeera.com/video/quotable/2025/12/31/aje-onl-qt-james_smith-311225?traffic_source=rss"
-        },
-        {
-          "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/protests-strikes-after-irans-economic-situation-rapidly-deteriorates-2?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "These are the countries attacked by Israel in 2025",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/these-are-the-countries-attacked-by-israel-in-2025?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-UAE fallout and its impact on Yemen’s recognised government",
+          "url": "https://www.aljazeera.com/opinions/2025/12/31/saudi-uae-fallout-and-its-impact-on-yemens-recognised-government?traffic_source=rss"
+        },
+        {
+          "title": "Which aid groups is Israel banning from Gaza now – and what will it mean?",
+          "url": "https://www.aljazeera.com/news/2025/12/31/which-aid-groups-is-israel-banning-from-gaza-now-and-what-will-it-mean?traffic_source=rss"
+        },
+        {
+          "title": "What led to Saudi Arabia’s strike on Yemen?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/what-led-to-saudi-arabias-strike-on-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Israeli ban on Gaza aid groups is “going to be catastrophic”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/31/aje-onl-qt-james_smith-311225?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005204918032786927,
+      "chg5d": 0.006030463164438852,
+      "chg1m": 0.10535303627131762
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "These are the countries attacked by Israel in 2025",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/these-are-the-countries-attacked-by-israel-in-2025?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-UAE fallout and its impact on Yemen’s recognised government",
+          "url": "https://www.aljazeera.com/opinions/2025/12/31/saudi-uae-fallout-and-its-impact-on-yemens-recognised-government?traffic_source=rss"
+        },
+        {
+          "title": "Which aid groups is Israel banning from Gaza now – and what will it mean?",
+          "url": "https://www.aljazeera.com/news/2025/12/31/which-aid-groups-is-israel-banning-from-gaza-now-and-what-will-it-mean?traffic_source=rss"
+        },
+        {
+          "title": "What led to Saudi Arabia’s strike on Yemen?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/what-led-to-saudi-arabias-strike-on-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Israeli ban on Gaza aid groups is “going to be catastrophic”",
+          "url": "https://www.aljazeera.com/video/quotable/2025/12/31/aje-onl-qt-james_smith-311225?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0064501779359430415,
+      "chg5d": 0.003820224719101162,
+      "chg1m": -0.013340990413924088
     }
   ]
 }
