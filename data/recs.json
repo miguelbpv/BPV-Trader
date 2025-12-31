@@ -1,39 +1,20 @@
 {
-  "generated_at": "2025-12-30T21:13:24.334155Z",
+  "generated_at": "2025-12-31T01:05:36.081997Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "Israel to block dozens of aid groups working in war-battered Gaza",
-          "url": "https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
-          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
-        },
-        {
-          "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
-          "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
-        },
-        {
-          "title": "Trump threatens Hamas while praising Israel on Gaza ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/trump-threatens-hamas-while-praising-israel-on-gaza-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.001288686153783205,
-      "chg5d": 0.009657340198937105,
-      "chg1m": 0.06635216004892323
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
+      "score": 3.3,
+      "confianca": 94,
       "razoes": [
+        {
+          "title": "UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s Erdogan calls Israel’s Somaliland recognition ‘unacceptable’",
+          "url": "https://www.aljazeera.com/news/2025/12/30/trkiyes-erdogan-calls-israels-somaliland-recognition-unacceptable?traffic_source=rss"
+        },
         {
           "title": "Israel to block dozens of aid groups working in war-battered Gaza",
           "url": "https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss"
@@ -45,22 +26,26 @@
         {
           "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
           "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
-        },
-        {
-          "title": "Trump threatens Hamas while praising Israel on Gaza ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/trump-threatens-hamas-while-praising-israel-on-gaza-ceasefire?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008628417749888057,
-      "chg5d": 0.017982356932820666,
-      "chg1m": 0.003619318194488777
+      "chg1d": 0.007844016136261798,
+      "chg5d": 0.017190680841438544,
+      "chg1m": 0.0028388121143463306
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
+      "score": 3.3,
+      "confianca": 94,
       "razoes": [
+        {
+          "title": "UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s Erdogan calls Israel’s Somaliland recognition ‘unacceptable’",
+          "url": "https://www.aljazeera.com/news/2025/12/30/trkiyes-erdogan-calls-israels-somaliland-recognition-unacceptable?traffic_source=rss"
+        },
         {
           "title": "Israel to block dozens of aid groups working in war-battered Gaza",
           "url": "https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss"
@@ -72,10 +57,6 @@
         {
           "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
           "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
-        },
-        {
-          "title": "Trump threatens Hamas while praising Israel on Gaza ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/trump-threatens-hamas-while-praising-israel-on-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -83,9 +64,70 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.3,
+      "confianca": 94,
+      "razoes": [
+        {
+          "title": "UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s Erdogan calls Israel’s Somaliland recognition ‘unacceptable’",
+          "url": "https://www.aljazeera.com/news/2025/12/30/trkiyes-erdogan-calls-israels-somaliland-recognition-unacceptable?traffic_source=rss"
+        },
+        {
+          "title": "Israel to block dozens of aid groups working in war-battered Gaza",
+          "url": "https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
+          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
+        },
+        {
+          "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
+          "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0017796142123673053,
+      "chg5d": 0.00916103149492319,
+      "chg1m": 0.0658279823526842
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
+          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005764567376019784,
+      "chg5d": 0.014342750099339704,
+      "chg1m": 0.01145283018867934
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
+          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0012773483558233538,
+      "chg5d": 0.003587414428646761,
+      "chg1m": 0.02759991912111612
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -96,36 +138,6 @@
       "chg1d": -0.0038216137179317893,
       "chg5d": 0.022129023458810727,
       "chg1m": 0.02833522006106134
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
-          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006008470959057219,
-      "chg5d": 0.014588733940093543,
-      "chg1m": 0.011698113207547255
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
-          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0012445958338791938,
-      "chg5d": 0.003620326487625141,
-      "chg1m": 0.02763361865606251
     }
   ]
 }
