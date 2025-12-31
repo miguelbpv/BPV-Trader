@@ -1,12 +1,16 @@
 {
-  "generated_at": "2025-12-31T01:05:36.081997Z",
+  "generated_at": "2025-12-31T03:57:09.993282Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.3,
+      "score": 3.29,
       "confianca": 94,
       "razoes": [
+        {
+          "title": "UAE to pull forces out of Yemen after calls for withdrawal, Saudi strike",
+          "url": "https://www.aljazeera.com/news/2025/12/31/uae-to-pull-forces-out-of-yemen-as-tensions-rise-with-saudi-arabia?traffic_source=rss"
+        },
         {
           "title": "UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
           "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
-        },
-        {
-          "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
-          "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
         }
       ],
       "chg1d": 0.007844016136261798,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.3,
+      "score": 3.29,
       "confianca": 94,
       "razoes": [
+        {
+          "title": "UAE to pull forces out of Yemen after calls for withdrawal, Saudi strike",
+          "url": "https://www.aljazeera.com/news/2025/12/31/uae-to-pull-forces-out-of-yemen-as-tensions-rise-with-saudi-arabia?traffic_source=rss"
+        },
         {
           "title": "UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
           "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
-        },
-        {
-          "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
-          "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.3,
+      "score": 3.29,
       "confianca": 94,
       "razoes": [
+        {
+          "title": "UAE to pull forces out of Yemen after calls for withdrawal, Saudi strike",
+          "url": "https://www.aljazeera.com/news/2025/12/31/uae-to-pull-forces-out-of-yemen-as-tensions-rise-with-saudi-arabia?traffic_source=rss"
+        },
         {
           "title": "UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss"
@@ -84,30 +88,11 @@
         {
           "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
           "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
-        },
-        {
-          "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
-          "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
         }
       ],
       "chg1d": -0.0017796142123673053,
       "chg5d": 0.00916103149492319,
       "chg1m": 0.0658279823526842
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
-          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005764567376019784,
-      "chg5d": 0.014342750099339704,
-      "chg1m": 0.01145283018867934
     },
     {
       "symbol": "SOXX",
@@ -138,6 +123,21 @@
       "chg1d": -0.0038216137179317893,
       "chg5d": 0.022129023458810727,
       "chg1m": 0.02833522006106134
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
+          "url": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005764567376019784,
+      "chg5d": 0.014342750099339704,
+      "chg1m": 0.01145283018867934
     }
   ]
 }
