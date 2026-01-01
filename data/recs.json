@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T04:06:20.129566Z",
+  "generated_at": "2026-01-01T06:22:10.770672Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.47,
-      "confianca": 95,
+      "score": 3.0,
+      "confianca": 85,
       "razoes": [
         {
           "title": "US imposes more sanctions on tankers transporting Venezuelan oil",
@@ -35,8 +35,8 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.47,
-      "confianca": 95,
+      "score": 3.0,
+      "confianca": 85,
       "razoes": [
         {
           "title": "US imposes more sanctions on tankers transporting Venezuelan oil",
@@ -65,9 +65,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.38,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.92,
+      "confianca": 54,
       "razoes": [
         {
           "title": "What is behind the Saudi-UAE rupture in Yemen?",
@@ -84,10 +84,6 @@
         {
           "title": "Oxfam, Doctors Without Borders slam Israel’s Gaza ban",
           "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/oxfam-doctors-without-borders-slam-israels-gaza-ban?traffic_source=rss"
-        },
-        {
-          "title": "These are the countries attacked by Israel in 2025",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/these-are-the-countries-attacked-by-israel-in-2025?traffic_source=rss"
         }
       ],
       "chg1d": -0.008872950819672099,
@@ -95,25 +91,25 @@
       "chg1m": 0.10127735148796653
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US imposes more sanctions on tankers transporting Venezuelan oil",
           "url": "https://www.aljazeera.com/news/2025/12/31/us-imposes-more-sanctions-on-tankers-transporting-venezuelan-oil?traffic_source=rss"
         }
       ],
-      "chg1d": -0.012363898727535218,
-      "chg5d": -0.012493441762854152,
-      "chg1m": 0.01424626161929126
+      "chg1d": 0.014386808198144077,
+      "chg5d": 0.023370937868327994,
+      "chg1m": 0.056347330367074455
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US imposes more sanctions on tankers transporting Venezuelan oil",
@@ -125,19 +121,19 @@
       "chg1m": -0.016663756100699555
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US imposes more sanctions on tankers transporting Venezuelan oil",
           "url": "https://www.aljazeera.com/news/2025/12/31/us-imposes-more-sanctions-on-tankers-transporting-venezuelan-oil?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014386808198144077,
-      "chg5d": 0.023370937868327994,
-      "chg1m": 0.056347330367074455
+      "chg1d": -0.012363898727535218,
+      "chg5d": -0.012493441762854152,
+      "chg1m": 0.01424626161929126
     }
   ]
 }
