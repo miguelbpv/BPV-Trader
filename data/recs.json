@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-02T15:14:31.978152Z",
+  "generated_at": "2026-01-02T18:20:01.694730Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.28,
+      "score": 5.26,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Five things you need to know about protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/2/five-things-you-need-to-know-about-protests-in-iran-2?traffic_source=rss"
+        },
         {
           "title": "These are the competing groups controlling territory in Yemen",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Trump and top Iranian official exchange threats over protests in Iran",
           "url": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
-          "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.28,
+      "score": 5.26,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Five things you need to know about protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/2/five-things-you-need-to-know-about-protests-in-iran-2?traffic_source=rss"
+        },
         {
           "title": "These are the competing groups controlling territory in Yemen",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
@@ -53,22 +57,22 @@
         {
           "title": "Trump and top Iranian official exchange threats over protests in Iran",
           "url": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
-          "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0025721315142026835,
-      "chg5d": 0.005070993914807334,
-      "chg1m": -0.0021034258989908296
+      "chg1d": 0.01711026615969583,
+      "chg5d": 0.024904214559387065,
+      "chg1m": 0.017588220814965683
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.28,
+      "score": 5.26,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Five things you need to know about protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/2/five-things-you-need-to-know-about-protests-in-iran-2?traffic_source=rss"
+        },
         {
           "title": "These are the competing groups controlling territory in Yemen",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
@@ -84,35 +88,16 @@
         {
           "title": "Trump and top Iranian official exchange threats over protests in Iran",
           "url": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
-          "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00841482829201727,
-      "chg5d": -0.012660833762223319,
-      "chg1m": 0.08550993617310224
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.04405113730698994,
-      "chg5d": 0.02703338341935066,
-      "chg1m": 0.03822480517765164
+      "chg1d": 0.018049496557570165,
+      "chg5d": 0.01369016984045286,
+      "chg1m": 0.11448101036621246
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -120,14 +105,29 @@
           "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
         }
       ],
-      "chg1d": 0.04613511467965395,
-      "chg5d": 0.06395582329317273,
-      "chg1m": 0.08839741175665053
+      "chg1d": 0.049990457073283076,
+      "chg5d": 0.0678768406961177,
+      "chg1m": 0.09240850422814889
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.035928939066910345,
+      "chg5d": 0.019043574835042924,
+      "chg1m": 0.030147932901862545
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
         }
       ],
-      "chg1d": 0.08738526536182306,
-      "chg5d": 0.09181432539980472,
-      "chg1m": 0.049216255704467915
+      "chg1d": 0.08851158095451757,
+      "chg5d": 0.0929452286207674,
+      "chg1m": 0.05030303576904353
     }
   ]
 }
