@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-01-02T09:17:42.248030Z",
+  "generated_at": "2026-01-02T12:26:34.184354Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.0,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
-        },
-        {
-          "title": "Flights from Aden airport in Yemen halted amid latest tensions",
-          "url": "https://www.aljazeera.com/news/2026/1/2/flights-from-aden-airport-in-yemen-halted-amid-latest-tensions?traffic_source=rss"
-        },
-        {
-          "title": "Peru approves emergency overhaul of state oil firm Petroperu",
-          "url": "https://www.aljazeera.com/news/2026/1/2/peru-approves-emergency-overhaul-of-state-oil-firm-petroperu?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill Palestinian child as Gaza humanitarian crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/1/1/israeli-army-kills-palestinian-child-in-gaza-as-aid-crisis-deepens?traffic_source=rss"
-        },
-        {
-          "title": "How far will the latest protests go in Iran?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/1/how-far-will-the-latest-protests-go-in-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.0,
+      "score": 5.9,
       "confianca": 95,
       "razoes": [
         {
+          "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
+        },
+        {
+          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
+        },
+        {
+          "title": "Trump and top Iranian official exchange threats over protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
+          "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
+        },
+        {
           "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
-        },
-        {
-          "title": "Flights from Aden airport in Yemen halted amid latest tensions",
-          "url": "https://www.aljazeera.com/news/2026/1/2/flights-from-aden-airport-in-yemen-halted-amid-latest-tensions?traffic_source=rss"
-        },
-        {
-          "title": "Peru approves emergency overhaul of state oil firm Petroperu",
-          "url": "https://www.aljazeera.com/news/2026/1/2/peru-approves-emergency-overhaul-of-state-oil-firm-petroperu?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill Palestinian child as Gaza humanitarian crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/1/1/israeli-army-kills-palestinian-child-in-gaza-as-aid-crisis-deepens?traffic_source=rss"
-        },
-        {
-          "title": "How far will the latest protests go in Iran?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/1/how-far-will-the-latest-protests-go-in-iran?traffic_source=rss"
         }
       ],
       "chg1d": -0.00556049822064057,
@@ -64,30 +33,61 @@
       "chg1m": -0.012457481114988737
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.66,
+      "score": 5.9,
       "confianca": 95,
       "razoes": [
         {
+          "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
+        },
+        {
+          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
+        },
+        {
+          "title": "Trump and top Iranian official exchange threats over protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
+          "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
+        },
+        {
           "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.57,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
         },
         {
-          "title": "Flights from Aden airport in Yemen halted amid latest tensions",
-          "url": "https://www.aljazeera.com/news/2026/1/2/flights-from-aden-airport-in-yemen-halted-amid-latest-tensions?traffic_source=rss"
+          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
         },
         {
-          "title": "Israeli forces kill Palestinian child as Gaza humanitarian crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/1/1/israeli-army-kills-palestinian-child-in-gaza-as-aid-crisis-deepens?traffic_source=rss"
+          "title": "Trump and top Iranian official exchange threats over protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss"
         },
         {
-          "title": "How far will the latest protests go in Iran?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/1/how-far-will-the-latest-protests-go-in-iran?traffic_source=rss"
+          "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
+          "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
         },
         {
-          "title": "Demonstrations turn deadly in Iran over rising living costs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/demonstrations-turn-deadly-in-iran-over-rising-living-costs?traffic_source=rss"
+          "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
         }
       ],
       "chg1d": -0.008872950819672099,
@@ -95,64 +95,49 @@
       "chg1m": 0.10127735148796653
     },
     {
-      "symbol": "SPY",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
-          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
+          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007408916900772961,
-      "chg5d": -0.008779580208151748,
-      "chg1m": 0.0024255075190732756
+      "chg1d": -0.0021265879456043055,
+      "chg5d": 0.007552926994650778,
+      "chg1m": -0.016663756100699555
     },
     {
-      "symbol": "QQQ",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
-          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
+          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
         }
       ],
-      "chg1d": -0.008265663593949283,
-      "chg5d": -0.012537975599170675,
-      "chg1m": -0.0046340554466354714
+      "chg1d": -0.012363898727535218,
+      "chg5d": -0.012493441762854152,
+      "chg1m": 0.01424626161929126
     },
     {
-      "symbol": "IWM",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
-          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
+          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007539410555174796,
-      "chg5d": -0.0234846080609331,
-      "chg1m": 0.002198518035990522
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
-          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.014386808198144077,
+      "chg5d": 0.023370937868327994,
+      "chg1m": 0.056347330367074455
     }
   ]
 }
