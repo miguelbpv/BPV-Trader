@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-01-01T21:12:52.215547Z",
+  "generated_at": "2026-01-02T01:05:37.458345Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.44,
+      "score": 4.43,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian child as Gaza humanitarian crisis deepens",
+          "url": "https://www.aljazeera.com/news/2026/1/1/israeli-army-kills-palestinian-child-in-gaza-as-aid-crisis-deepens?traffic_source=rss"
+        },
+        {
+          "title": "How far will the latest protests go in Iran?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/1/how-far-will-the-latest-protests-go-in-iran?traffic_source=rss"
+        },
         {
           "title": "Demonstrations turn deadly in Iran over rising living costs",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/demonstrations-turn-deadly-in-iran-over-rising-living-costs?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Israel faces widespread condemnation as NGO ban comes into effect",
           "url": "https://www.aljazeera.com/news/2026/1/1/israel-faces-widespread-condemnation-as-ngo-ban-comes-into-effect?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00556049822064057,
+      "chg5d": 0.004719101123595525,
+      "chg1m": -0.012457481114988737
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.43,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian child as Gaza humanitarian crisis deepens",
+          "url": "https://www.aljazeera.com/news/2026/1/1/israeli-army-kills-palestinian-child-in-gaza-as-aid-crisis-deepens?traffic_source=rss"
         },
         {
-          "title": "Somali president: Israel deal with Somaliland tied to hosting Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/somali-president-israel-deal-with-somaliland-tied-to-hosting-palestinians?traffic_source=rss"
+          "title": "How far will the latest protests go in Iran?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/1/how-far-will-the-latest-protests-go-in-iran?traffic_source=rss"
         },
         {
-          "title": "Somaliland denies agreeing to host Israeli bases, resettle Palestinians",
-          "url": "https://www.aljazeera.com/news/2026/1/1/somaliland-denies-agreeing-to-host-israeli-bases-resettle-palestinians?traffic_source=rss"
+          "title": "Demonstrations turn deadly in Iran over rising living costs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/demonstrations-turn-deadly-in-iran-over-rising-living-costs?traffic_source=rss"
+        },
+        {
+          "title": "Several killed as Iran protests over rising cost of living spread",
+          "url": "https://www.aljazeera.com/news/2026/1/1/several-killed-as-iran-protests-over-rising-cost-of-living-spread?traffic_source=rss"
+        },
+        {
+          "title": "Israel faces widespread condemnation as NGO ban comes into effect",
+          "url": "https://www.aljazeera.com/news/2026/1/1/israel-faces-widespread-condemnation-as-ngo-ban-comes-into-effect?traffic_source=rss"
         }
       ],
       "chg1d": -0.008872950819672099,
@@ -35,9 +66,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.44,
+      "score": 4.43,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill Palestinian child as Gaza humanitarian crisis deepens",
+          "url": "https://www.aljazeera.com/news/2026/1/1/israeli-army-kills-palestinian-child-in-gaza-as-aid-crisis-deepens?traffic_source=rss"
+        },
+        {
+          "title": "How far will the latest protests go in Iran?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/1/how-far-will-the-latest-protests-go-in-iran?traffic_source=rss"
+        },
         {
           "title": "Demonstrations turn deadly in Iran over rising living costs",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/demonstrations-turn-deadly-in-iran-over-rising-living-costs?traffic_source=rss"
@@ -49,14 +88,6 @@
         {
           "title": "Israel faces widespread condemnation as NGO ban comes into effect",
           "url": "https://www.aljazeera.com/news/2026/1/1/israel-faces-widespread-condemnation-as-ngo-ban-comes-into-effect?traffic_source=rss"
-        },
-        {
-          "title": "Somali president: Israel deal with Somaliland tied to hosting Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/somali-president-israel-deal-with-somaliland-tied-to-hosting-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Somaliland denies agreeing to host Israeli bases, resettle Palestinians",
-          "url": "https://www.aljazeera.com/news/2026/1/1/somaliland-denies-agreeing-to-host-israeli-bases-resettle-palestinians?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,55 +95,69 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.44,
-      "confianca": 95,
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Demonstrations turn deadly in Iran over rising living costs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/demonstrations-turn-deadly-in-iran-over-rising-living-costs?traffic_source=rss"
-        },
-        {
-          "title": "Several killed as Iran protests over rising cost of living spread",
-          "url": "https://www.aljazeera.com/news/2026/1/1/several-killed-as-iran-protests-over-rising-cost-of-living-spread?traffic_source=rss"
-        },
-        {
-          "title": "Israel faces widespread condemnation as NGO ban comes into effect",
-          "url": "https://www.aljazeera.com/news/2026/1/1/israel-faces-widespread-condemnation-as-ngo-ban-comes-into-effect?traffic_source=rss"
-        },
-        {
-          "title": "Somali president: Israel deal with Somaliland tied to hosting Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/somali-president-israel-deal-with-somaliland-tied-to-hosting-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Somaliland denies agreeing to host Israeli bases, resettle Palestinians",
-          "url": "https://www.aljazeera.com/news/2026/1/1/somaliland-denies-agreeing-to-host-israeli-bases-resettle-palestinians?traffic_source=rss"
+          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
+          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00556049822064057,
-      "chg5d": 0.004719101123595525,
-      "chg1m": -0.012457481114988737
+      "chg1d": -0.008265663593949283,
+      "chg5d": -0.012537975599170675,
+      "chg1m": -0.0046340554466354714
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Donald Trump pauses US tariff hike on furniture, cabinets for one year",
-          "url": "https://www.aljazeera.com/news/2026/1/1/donald-trump-pauses-us-tariff-hike-on-furniture-cabinets-for-one-year?traffic_source=rss"
+          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
+          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0021265879456043055,
-      "chg5d": 0.007552926994650778,
-      "chg1m": -0.016663756100699555
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
+          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007408916900772961,
+      "chg5d": -0.008779580208151748,
+      "chg1m": 0.0024255075190732756
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
+          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007539410555174796,
+      "chg5d": -0.0234846080609331,
+      "chg1m": 0.002198518035990522
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +172,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -138,6 +183,21 @@
       "chg1d": 0.014386808198144077,
       "chg5d": 0.023370937868327994,
       "chg1m": 0.056347330367074455
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Donald Trump pauses US tariff hike on furniture, cabinets for one year",
+          "url": "https://www.aljazeera.com/news/2026/1/1/donald-trump-pauses-us-tariff-hike-on-furniture-cabinets-for-one-year?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0021265879456043055,
+      "chg5d": 0.007552926994650778,
+      "chg1m": -0.016663756100699555
     }
   ]
 }
