@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-01-02T12:26:34.184354Z",
+  "generated_at": "2026-01-02T15:14:31.978152Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.9,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
-        },
-        {
-          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
-        },
-        {
-          "title": "Trump and top Iranian official exchange threats over protests in Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
-          "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00556049822064057,
-      "chg5d": 0.004719101123595525,
-      "chg1m": -0.012457481114988737
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.9,
+      "score": 5.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "These are the competing groups controlling territory in Yemen",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
+        },
         {
           "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
           "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.57,
+      "score": 5.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "These are the competing groups controlling territory in Yemen",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
+        },
         {
           "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
@@ -84,35 +57,47 @@
         {
           "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
           "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
         }
       ],
-      "chg1d": -0.008872950819672099,
-      "chg5d": 0.002321003004869971,
-      "chg1m": 0.10127735148796653
+      "chg1d": -0.0025721315142026835,
+      "chg5d": 0.005070993914807334,
+      "chg1m": -0.0021034258989908296
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.28,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "These are the competing groups controlling territory in Yemen",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
+        },
         {
           "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
           "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
+        },
+        {
+          "title": "Trump and top Iranian official exchange threats over protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
+          "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0021265879456043055,
-      "chg5d": 0.007552926994650778,
-      "chg1m": -0.016663756100699555
+      "chg1d": -0.00841482829201727,
+      "chg5d": -0.012660833762223319,
+      "chg1m": 0.08550993617310224
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -120,14 +105,14 @@
           "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
         }
       ],
-      "chg1d": -0.012363898727535218,
-      "chg5d": -0.012493441762854152,
-      "chg1m": 0.01424626161929126
+      "chg1d": 0.04405113730698994,
+      "chg5d": 0.02703338341935066,
+      "chg1m": 0.03822480517765164
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -135,9 +120,24 @@
           "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014386808198144077,
-      "chg5d": 0.023370937868327994,
-      "chg1m": 0.056347330367074455
+      "chg1d": 0.04613511467965395,
+      "chg5d": 0.06395582329317273,
+      "chg1m": 0.08839741175665053
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.08738526536182306,
+      "chg5d": 0.09181432539980472,
+      "chg1m": 0.049216255704467915
     }
   ]
 }
