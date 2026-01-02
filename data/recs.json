@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-01-02T04:00:29.252715Z",
+  "generated_at": "2026-01-02T06:22:11.914396Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.76,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Peru approves emergency overhaul of state oil firm Petroperu",
-          "url": "https://www.aljazeera.com/news/2026/1/2/peru-approves-emergency-overhaul-of-state-oil-firm-petroperu?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill Palestinian child as Gaza humanitarian crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/1/1/israeli-army-kills-palestinian-child-in-gaza-as-aid-crisis-deepens?traffic_source=rss"
-        },
-        {
-          "title": "How far will the latest protests go in Iran?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/1/how-far-will-the-latest-protests-go-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Demonstrations turn deadly in Iran over rising living costs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/demonstrations-turn-deadly-in-iran-over-rising-living-costs?traffic_source=rss"
-        },
-        {
-          "title": "Several killed as Iran protests over rising cost of living spread",
-          "url": "https://www.aljazeera.com/news/2026/1/1/several-killed-as-iran-protests-over-rising-cost-of-living-spread?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00556049822064057,
-      "chg5d": 0.004719101123595525,
-      "chg1m": -0.012457481114988737
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.76,
+      "score": 5.01,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Flights from Aden airport in Yemen halted amid latest tensions",
+          "url": "https://www.aljazeera.com/news/2026/1/2/flights-from-aden-airport-in-yemen-halted-amid-latest-tensions?traffic_source=rss"
+        },
         {
           "title": "Peru approves emergency overhaul of state oil firm Petroperu",
           "url": "https://www.aljazeera.com/news/2026/1/2/peru-approves-emergency-overhaul-of-state-oil-firm-petroperu?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Demonstrations turn deadly in Iran over rising living costs",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/demonstrations-turn-deadly-in-iran-over-rising-living-costs?traffic_source=rss"
-        },
-        {
-          "title": "Several killed as Iran protests over rising cost of living spread",
-          "url": "https://www.aljazeera.com/news/2026/1/1/several-killed-as-iran-protests-over-rising-cost-of-living-spread?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,46 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.42,
+      "score": 5.01,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Flights from Aden airport in Yemen halted amid latest tensions",
+          "url": "https://www.aljazeera.com/news/2026/1/2/flights-from-aden-airport-in-yemen-halted-amid-latest-tensions?traffic_source=rss"
+        },
+        {
+          "title": "Peru approves emergency overhaul of state oil firm Petroperu",
+          "url": "https://www.aljazeera.com/news/2026/1/2/peru-approves-emergency-overhaul-of-state-oil-firm-petroperu?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill Palestinian child as Gaza humanitarian crisis deepens",
+          "url": "https://www.aljazeera.com/news/2026/1/1/israeli-army-kills-palestinian-child-in-gaza-as-aid-crisis-deepens?traffic_source=rss"
+        },
+        {
+          "title": "How far will the latest protests go in Iran?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/1/how-far-will-the-latest-protests-go-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Demonstrations turn deadly in Iran over rising living costs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/demonstrations-turn-deadly-in-iran-over-rising-living-costs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00556049822064057,
+      "chg5d": 0.004719101123595525,
+      "chg1m": -0.012457481114988737
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.67,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Flights from Aden airport in Yemen halted amid latest tensions",
+          "url": "https://www.aljazeera.com/news/2026/1/2/flights-from-aden-airport-in-yemen-halted-amid-latest-tensions?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill Palestinian child as Gaza humanitarian crisis deepens",
           "url": "https://www.aljazeera.com/news/2026/1/1/israeli-army-kills-palestinian-child-in-gaza-as-aid-crisis-deepens?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Several killed as Iran protests over rising cost of living spread",
           "url": "https://www.aljazeera.com/news/2026/1/1/several-killed-as-iran-protests-over-rising-cost-of-living-spread?traffic_source=rss"
-        },
-        {
-          "title": "Israel faces widespread condemnation as NGO ban comes into effect",
-          "url": "https://www.aljazeera.com/news/2026/1/1/israel-faces-widespread-condemnation-as-ngo-ban-comes-into-effect?traffic_source=rss"
         }
       ],
       "chg1d": -0.008872950819672099,
@@ -95,24 +95,9 @@
       "chg1m": 0.10127735148796653
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
-          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.007408916900772961,
-      "chg5d": -0.008779580208151748,
-      "chg1m": 0.0024255075190732756
-    },
-    {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -127,7 +112,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -142,7 +127,7 @@
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -155,10 +140,25 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal employees file complaint against Trump’s anti-transgender policy",
+          "url": "https://www.aljazeera.com/news/2026/1/1/us-federal-employees-file-complaint-against-trumps-anti-transgender-policy?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007408916900772961,
+      "chg5d": -0.008779580208151748,
+      "chg1m": 0.0024255075190732756
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Donald Trump pauses US tariff hike on furniture, cabinets for one year",
@@ -172,8 +172,8 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Donald Trump pauses US tariff hike on furniture, cabinets for one year",
@@ -187,8 +187,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Donald Trump pauses US tariff hike on furniture, cabinets for one year",
