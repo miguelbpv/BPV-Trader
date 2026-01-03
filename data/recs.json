@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T18:18:38.308181Z",
+  "generated_at": "2026-01-03T21:11:53.586349Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
       "razoes": [
         {
           "title": "Iran’s Khamenei says rioters ‘must be put in their place’ amid protests",
@@ -14,21 +14,17 @@
         {
           "title": "Footage shows Saudi-backed forces advancing in southern Yemen",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/footage-shows-saudi-backed-forces-advancing-in-southern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Severe weather in Gaza hits vulnerable and wounded most in Israel’s war",
-          "url": "https://www.aljazeera.com/news/2026/1/3/severe-weather-in-gaza-hits-vulnerable-and-wounded-most-in-israels-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.027704840076911895,
-      "chg5d": 0.023304168811116816,
-      "chg1m": 0.12505092571635507
+      "chg1d": 0.02102437933348239,
+      "chg5d": 0.02884832093757046,
+      "chg1m": 0.02150417328649105
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
       "razoes": [
         {
           "title": "Iran’s Khamenei says rioters ‘must be put in their place’ amid protests",
@@ -37,10 +33,6 @@
         {
           "title": "Footage shows Saudi-backed forces advancing in southern Yemen",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/footage-shows-saudi-backed-forces-advancing-in-southern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Severe weather in Gaza hits vulnerable and wounded most in Israel’s war",
-          "url": "https://www.aljazeera.com/news/2026/1/3/severe-weather-in-gaza-hits-vulnerable-and-wounded-most-in-israels-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,10 +40,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
       "razoes": [
         {
           "title": "Iran’s Khamenei says rioters ‘must be put in their place’ amid protests",
@@ -60,15 +52,11 @@
         {
           "title": "Footage shows Saudi-backed forces advancing in southern Yemen",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/footage-shows-saudi-backed-forces-advancing-in-southern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Severe weather in Gaza hits vulnerable and wounded most in Israel’s war",
-          "url": "https://www.aljazeera.com/news/2026/1/3/severe-weather-in-gaza-hits-vulnerable-and-wounded-most-in-israels-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02102437933348239,
-      "chg5d": 0.02884832093757046,
-      "chg1m": 0.02150417328649105
+      "chg1d": 0.027704840076911895,
+      "chg5d": 0.023304168811116816,
+      "chg1m": 0.12505092571635507
     }
   ]
 }
