@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-01-02T21:10:55.633921Z",
+  "generated_at": "2026-01-03T01:01:36.393866Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.99,
+      "score": 5.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestine advocates praise NYC’s Mamdani for revoking pro-Israel decrees",
+          "url": "https://www.aljazeera.com/news/2026/1/2/palestine-advocates-praise-nycs-mamdani-for-revoking-pro-israel-decrees?traffic_source=rss"
+        },
+        {
+          "title": "Countries demand Israel lift Gaza aid restrictions as Palestinians suffer",
+          "url": "https://www.aljazeera.com/news/2026/1/2/countries-demand-israel-lift-gaza-aid-restrictions-as-palestinians-suffer?traffic_source=rss"
+        },
         {
           "title": "Iran faces growing protests amid deepening economic crisis",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/iran-faces-growing-protests-amid-deepening-economic-crisis?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Five things you need to know about protests in Iran",
           "url": "https://www.aljazeera.com/news/2026/1/2/five-things-you-need-to-know-about-protests-in-iran-2?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.027704840076911895,
+      "chg5d": 0.023304168811116816,
+      "chg1m": 0.12505092571635507
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.14,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Palestine advocates praise NYC’s Mamdani for revoking pro-Israel decrees",
+          "url": "https://www.aljazeera.com/news/2026/1/2/palestine-advocates-praise-nycs-mamdani-for-revoking-pro-israel-decrees?traffic_source=rss"
         },
         {
-          "title": "These are the competing groups controlling territory in Yemen",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
+          "title": "Countries demand Israel lift Gaza aid restrictions as Palestinians suffer",
+          "url": "https://www.aljazeera.com/news/2026/1/2/countries-demand-israel-lift-gaza-aid-restrictions-as-palestinians-suffer?traffic_source=rss"
         },
         {
-          "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
+          "title": "Iran faces growing protests amid deepening economic crisis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/iran-faces-growing-protests-amid-deepening-economic-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-backed forces launch offensive against Yemen’s STC",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/saudi-backed-forces-launch-offensive-against-yemens-stc?traffic_source=rss"
+        },
+        {
+          "title": "Five things you need to know about protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/2/five-things-you-need-to-know-about-protests-in-iran-2?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.99,
+      "score": 5.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestine advocates praise NYC’s Mamdani for revoking pro-Israel decrees",
+          "url": "https://www.aljazeera.com/news/2026/1/2/palestine-advocates-praise-nycs-mamdani-for-revoking-pro-israel-decrees?traffic_source=rss"
+        },
+        {
+          "title": "Countries demand Israel lift Gaza aid restrictions as Palestinians suffer",
+          "url": "https://www.aljazeera.com/news/2026/1/2/countries-demand-israel-lift-gaza-aid-restrictions-as-palestinians-suffer?traffic_source=rss"
+        },
         {
           "title": "Iran faces growing protests amid deepening economic crisis",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/iran-faces-growing-protests-amid-deepening-economic-crisis?traffic_source=rss"
@@ -49,95 +88,11 @@
         {
           "title": "Five things you need to know about protests in Iran",
           "url": "https://www.aljazeera.com/news/2026/1/2/five-things-you-need-to-know-about-protests-in-iran-2?traffic_source=rss"
-        },
-        {
-          "title": "These are the competing groups controlling territory in Yemen",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019123238649071724,
-      "chg5d": 0.026932612125309903,
-      "chg1m": 0.019602139228892965
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.99,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran faces growing protests amid deepening economic crisis",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/iran-faces-growing-protests-amid-deepening-economic-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Saudi-backed forces launch offensive against Yemen’s STC",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/saudi-backed-forces-launch-offensive-against-yemens-stc?traffic_source=rss"
-        },
-        {
-          "title": "Five things you need to know about protests in Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/2/five-things-you-need-to-know-about-protests-in-iran-2?traffic_source=rss"
-        },
-        {
-          "title": "These are the competing groups controlling territory in Yemen",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.025285835383629253,
-      "chg5d": 0.020895522388059654,
-      "chg1m": 0.12240278846589105
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.04217167524489473,
-      "chg5d": 0.02518455608545122,
-      "chg1m": 0.03635583146215839
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.08838726562353966,
-      "chg5d": 0.09282040693745781,
-      "chg1m": 0.0501830841104638
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.05199249728520192,
-      "chg5d": 0.069912985274431,
-      "chg1m": 0.09449142387620263
+      "chg1d": 0.02102437933348239,
+      "chg5d": 0.02884832093757046,
+      "chg1m": 0.02150417328649105
     }
   ]
 }
