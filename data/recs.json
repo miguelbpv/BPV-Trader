@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-04T18:18:53.323894Z",
+  "generated_at": "2026-01-04T21:12:13.415999Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 3.54,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye",
+          "url": "https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye?traffic_source=rss"
+        },
         {
           "title": "Saudi-backed government forces retake multiple cities in southern Yemen",
           "url": "https://www.aljazeera.com/news/2026/1/4/saudi-backed-government-forces-retake-multiple-cities-in-southern-yemen?traffic_source=rss"
@@ -25,10 +29,37 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 3.54,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye",
+          "url": "https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-backed government forces retake multiple cities in southern Yemen",
+          "url": "https://www.aljazeera.com/news/2026/1/4/saudi-backed-government-forces-retake-multiple-cities-in-southern-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Sporadic protests in Tehran as clashes reported in Iran’s west",
+          "url": "https://www.aljazeera.com/news/2026/1/4/sporadic-protests-in-tehran-as-clashes-reported-in-irans-west?traffic_source=rss"
+        },
+        {
+          "title": "Updates: Government forces control multiple cities in southern Yemen",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/4/live-government-forces-control-multiple-cities-in-southern-yemen?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02102437933348239,
+      "chg5d": 0.02884832093757046,
+      "chg1m": 0.02150417328649105
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Saudi-backed government forces retake multiple cities in southern Yemen",
@@ -46,29 +77,6 @@
       "chg1d": 0.027704840076911895,
       "chg5d": 0.023304168811116816,
       "chg1m": 0.12505092571635507
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Saudi-backed government forces retake multiple cities in southern Yemen",
-          "url": "https://www.aljazeera.com/news/2026/1/4/saudi-backed-government-forces-retake-multiple-cities-in-southern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Sporadic protests in Tehran as clashes reported in Iran’s west",
-          "url": "https://www.aljazeera.com/news/2026/1/4/sporadic-protests-in-tehran-as-clashes-reported-in-irans-west?traffic_source=rss"
-        },
-        {
-          "title": "Updates: Government forces control multiple cities in southern Yemen",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/4/live-government-forces-control-multiple-cities-in-southern-yemen?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02102437933348239,
-      "chg5d": 0.02884832093757046,
-      "chg1m": 0.02150417328649105
     }
   ]
 }
