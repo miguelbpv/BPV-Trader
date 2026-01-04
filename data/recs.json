@@ -1,27 +1,43 @@
 {
-  "generated_at": "2026-01-04T06:20:41.124562Z",
+  "generated_at": "2026-01-04T09:13:37.464146Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.82,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Poverty, unemployment skyrocket in the Gaza Strip after Israel’s war",
+          "url": "https://www.aljazeera.com/news/2026/1/4/poverty-unemployment-skyrocket-in-the-gaza-strip-after-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US will take Venezuela’s oil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/4/trump-says-us-will-take-venezuelas-oil?traffic_source=rss"
+        },
         {
           "title": "Internet disruption, several arrests made as Iran protests continue",
           "url": "https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue?traffic_source=rss"
         }
       ],
-      "chg1d": 0.027704840076911895,
-      "chg5d": 0.023304168811116816,
-      "chg1m": 0.12505092571635507
+      "chg1d": 0.02102437933348239,
+      "chg5d": 0.02884832093757046,
+      "chg1m": 0.02150417328649105
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "acao": "comprar",
+      "score": 2.82,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Poverty, unemployment skyrocket in the Gaza Strip after Israel’s war",
+          "url": "https://www.aljazeera.com/news/2026/1/4/poverty-unemployment-skyrocket-in-the-gaza-strip-after-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US will take Venezuela’s oil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/4/trump-says-us-will-take-venezuelas-oil?traffic_source=rss"
+        },
         {
           "title": "Internet disruption, several arrests made as Iran protests continue",
           "url": "https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue?traffic_source=rss"
@@ -32,19 +48,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Poverty, unemployment skyrocket in the Gaza Strip after Israel’s war",
+          "url": "https://www.aljazeera.com/news/2026/1/4/poverty-unemployment-skyrocket-in-the-gaza-strip-after-israels-war?traffic_source=rss"
+        },
         {
           "title": "Internet disruption, several arrests made as Iran protests continue",
           "url": "https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02102437933348239,
-      "chg5d": 0.02884832093757046,
-      "chg1m": 0.02150417328649105
+      "chg1d": 0.027704840076911895,
+      "chg5d": 0.023304168811116816,
+      "chg1m": 0.12505092571635507
     }
   ]
 }
