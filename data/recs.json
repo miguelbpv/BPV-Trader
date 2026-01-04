@@ -1,38 +1,19 @@
 {
-  "generated_at": "2026-01-03T21:11:53.586349Z",
+  "generated_at": "2026-01-04T01:12:27.606789Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "Iran’s Khamenei says rioters ‘must be put in their place’ amid protests",
-          "url": "https://www.aljazeera.com/news/2026/1/3/irans-khamenei-says-rioters-must-be-put-in-their-place-amid-protests?traffic_source=rss"
-        },
-        {
-          "title": "Footage shows Saudi-backed forces advancing in southern Yemen",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/footage-shows-saudi-backed-forces-advancing-in-southern-yemen?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02102437933348239,
-      "chg5d": 0.02884832093757046,
-      "chg1m": 0.02150417328649105
-    },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Internet disruption, several arrests made as Iran protests continue",
+          "url": "https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue?traffic_source=rss"
+        },
         {
           "title": "Iran’s Khamenei says rioters ‘must be put in their place’ amid protests",
           "url": "https://www.aljazeera.com/news/2026/1/3/irans-khamenei-says-rioters-must-be-put-in-their-place-amid-protests?traffic_source=rss"
-        },
-        {
-          "title": "Footage shows Saudi-backed forces advancing in southern Yemen",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/footage-shows-saudi-backed-forces-advancing-in-southern-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -42,21 +23,40 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Internet disruption, several arrests made as Iran protests continue",
+          "url": "https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue?traffic_source=rss"
+        },
         {
           "title": "Iran’s Khamenei says rioters ‘must be put in their place’ amid protests",
           "url": "https://www.aljazeera.com/news/2026/1/3/irans-khamenei-says-rioters-must-be-put-in-their-place-amid-protests?traffic_source=rss"
-        },
-        {
-          "title": "Footage shows Saudi-backed forces advancing in southern Yemen",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/footage-shows-saudi-backed-forces-advancing-in-southern-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.027704840076911895,
       "chg5d": 0.023304168811116816,
       "chg1m": 0.12505092571635507
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Internet disruption, several arrests made as Iran protests continue",
+          "url": "https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Khamenei says rioters ‘must be put in their place’ amid protests",
+          "url": "https://www.aljazeera.com/news/2026/1/3/irans-khamenei-says-rioters-must-be-put-in-their-place-amid-protests?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02102437933348239,
+      "chg5d": 0.02884832093757046,
+      "chg1m": 0.02150417328649105
     }
   ]
 }
