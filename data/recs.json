@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-04T15:12:41.216935Z",
+  "generated_at": "2026-01-04T18:18:53.323894Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.23,
+      "score": 2.21,
       "confianca": 63,
       "razoes": [
         {
@@ -25,32 +25,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Saudi-backed government forces retake multiple cities in southern Yemen",
-          "url": "https://www.aljazeera.com/news/2026/1/4/saudi-backed-government-forces-retake-multiple-cities-in-southern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Sporadic protests in Tehran as clashes reported in Iran’s west",
-          "url": "https://www.aljazeera.com/news/2026/1/4/sporadic-protests-in-tehran-as-clashes-reported-in-irans-west?traffic_source=rss"
-        },
-        {
-          "title": "Updates: Government forces control multiple cities in southern Yemen",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/4/live-government-forces-control-multiple-cities-in-southern-yemen?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02102437933348239,
-      "chg5d": 0.02884832093757046,
-      "chg1m": 0.02150417328649105
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.23,
+      "score": 2.21,
       "confianca": 63,
       "razoes": [
         {
@@ -69,6 +46,29 @@
       "chg1d": 0.027704840076911895,
       "chg5d": 0.023304168811116816,
       "chg1m": 0.12505092571635507
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Saudi-backed government forces retake multiple cities in southern Yemen",
+          "url": "https://www.aljazeera.com/news/2026/1/4/saudi-backed-government-forces-retake-multiple-cities-in-southern-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Sporadic protests in Tehran as clashes reported in Iran’s west",
+          "url": "https://www.aljazeera.com/news/2026/1/4/sporadic-protests-in-tehran-as-clashes-reported-in-irans-west?traffic_source=rss"
+        },
+        {
+          "title": "Updates: Government forces control multiple cities in southern Yemen",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/4/live-government-forces-control-multiple-cities-in-southern-yemen?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02102437933348239,
+      "chg5d": 0.02884832093757046,
+      "chg1m": 0.02150417328649105
     }
   ]
 }
