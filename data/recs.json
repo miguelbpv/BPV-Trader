@@ -1,39 +1,24 @@
 {
-  "generated_at": "2026-01-05T09:24:19.395132Z",
+  "generated_at": "2026-01-05T12:30:04.030111Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "The Yemeni crisis: More complexity and many repercussions",
-          "url": "https://www.aljazeera.com/opinions/2026/1/5/the-yemeni-crisis-more-complexity-and-many-repercussions?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches deadly strikes in Gaza in new ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-launches-deadly-strikes-in-gaza-in-new-ceasefire-violations?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two people in new attack on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-kills-two-people-in-new-attack-on-southern-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
+      "score": 4.91,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Venezuela after Maduro: Oil, power and the limits of intervention",
+          "url": "https://www.aljazeera.com/news/2026/1/5/venezuela-after-maduro-oil-power-and-the-limits-of-intervention?traffic_source=rss"
+        },
+        {
+          "title": "Israel extends Gaza occupation beyond ‘yellow line’ in north, bombs south",
+          "url": "https://www.aljazeera.com/news/2026/1/5/israel-extends-gaza-occupation-beyond-yellow-line-in-north-bombs-south?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s bid to commandeer Venezuela’s oil sector faces hurdles, experts say",
+          "url": "https://www.aljazeera.com/economy/2026/1/5/trumps-bid-to-commandeer-venezuelas-oil-sector-faces-hurdles-experts-say?traffic_source=rss"
+        },
         {
           "title": "The Yemeni crisis: More complexity and many repercussions",
           "url": "https://www.aljazeera.com/opinions/2026/1/5/the-yemeni-crisis-more-complexity-and-many-repercussions?traffic_source=rss"
@@ -41,14 +26,6 @@
         {
           "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
           "url": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches deadly strikes in Gaza in new ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-launches-deadly-strikes-in-gaza-in-new-ceasefire-violations?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two people in new attack on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-kills-two-people-in-new-attack-on-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.02102437933348239,
@@ -56,11 +33,23 @@
       "chg1m": 0.02150417328649105
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
+      "score": 4.91,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Venezuela after Maduro: Oil, power and the limits of intervention",
+          "url": "https://www.aljazeera.com/news/2026/1/5/venezuela-after-maduro-oil-power-and-the-limits-of-intervention?traffic_source=rss"
+        },
+        {
+          "title": "Israel extends Gaza occupation beyond ‘yellow line’ in north, bombs south",
+          "url": "https://www.aljazeera.com/news/2026/1/5/israel-extends-gaza-occupation-beyond-yellow-line-in-north-bombs-south?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s bid to commandeer Venezuela’s oil sector faces hurdles, experts say",
+          "url": "https://www.aljazeera.com/economy/2026/1/5/trumps-bid-to-commandeer-venezuelas-oil-sector-faces-hurdles-experts-say?traffic_source=rss"
+        },
         {
           "title": "The Yemeni crisis: More complexity and many repercussions",
           "url": "https://www.aljazeera.com/opinions/2026/1/5/the-yemeni-crisis-more-complexity-and-many-repercussions?traffic_source=rss"
@@ -68,19 +57,79 @@
         {
           "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
           "url": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Israel extends Gaza occupation beyond ‘yellow line’ in north, bombs south",
+          "url": "https://www.aljazeera.com/news/2026/1/5/israel-extends-gaza-occupation-beyond-yellow-line-in-north-bombs-south?traffic_source=rss"
         },
         {
-          "title": "Israel launches deadly strikes in Gaza in new ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-launches-deadly-strikes-in-gaza-in-new-ceasefire-violations?traffic_source=rss"
+          "title": "The Yemeni crisis: More complexity and many repercussions",
+          "url": "https://www.aljazeera.com/opinions/2026/1/5/the-yemeni-crisis-more-complexity-and-many-repercussions?traffic_source=rss"
         },
         {
-          "title": "Israel kills two people in new attack on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-kills-two-people-in-new-attack-on-southern-lebanon?traffic_source=rss"
+          "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.027704840076911895,
       "chg5d": 0.023304168811116816,
       "chg1m": 0.12505092571635507
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "What will happen to parts of Venezuela’s economy affected by US sanctions?",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/5/what-will-happen-to-parts-of-venezuelas-economy-affected-by-us-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.04164037854889597,
+      "chg5d": 0.024661919383288728,
+      "chg1m": 0.035827499669792706
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "What will happen to parts of Venezuela’s economy affected by US sanctions?",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/5/what-will-happen-to-parts-of-venezuelas-economy-affected-by-us-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.051729244134390825,
+      "chg5d": 0.06964524765729585,
+      "chg1m": 0.09421753569105427
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "What will happen to parts of Venezuela’s economy affected by US sanctions?",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/5/what-will-happen-to-parts-of-venezuelas-economy-affected-by-us-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.08778718710859372,
+      "chg5d": 0.09221788422554245,
+      "chg1m": 0.04960406933747001
     }
   ]
 }
