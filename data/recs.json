@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-01-05T01:11:22.644983Z",
+  "generated_at": "2026-01-05T04:12:27.412065Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.78,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel launches deadly strikes in Gaza in new ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-launches-deadly-strikes-in-gaza-in-new-ceasefire-violations?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two people in new attack on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-kills-two-people-in-new-attack-on-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye",
-          "url": "https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye?traffic_source=rss"
-        },
-        {
-          "title": "Saudi-backed government forces retake multiple cities in southern Yemen",
-          "url": "https://www.aljazeera.com/news/2026/1/4/saudi-backed-government-forces-retake-multiple-cities-in-southern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Sporadic protests in Tehran as clashes reported in Iran’s west",
-          "url": "https://www.aljazeera.com/news/2026/1/4/sporadic-protests-in-tehran-as-clashes-reported-in-irans-west?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02102437933348239,
-      "chg5d": 0.02884832093757046,
-      "chg1m": 0.02150417328649105
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.78,
-      "confianca": 95,
+      "score": 3.06,
+      "confianca": 87,
       "razoes": [
+        {
+          "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss"
+        },
         {
           "title": "Israel launches deadly strikes in Gaza in new ceasefire violations",
           "url": "https://www.aljazeera.com/news/2026/1/4/israel-launches-deadly-strikes-in-gaza-in-new-ceasefire-violations?traffic_source=rss"
@@ -49,14 +22,6 @@
         {
           "title": "Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye",
           "url": "https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye?traffic_source=rss"
-        },
-        {
-          "title": "Saudi-backed government forces retake multiple cities in southern Yemen",
-          "url": "https://www.aljazeera.com/news/2026/1/4/saudi-backed-government-forces-retake-multiple-cities-in-southern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Sporadic protests in Tehran as clashes reported in Iran’s west",
-          "url": "https://www.aljazeera.com/news/2026/1/4/sporadic-protests-in-tehran-as-clashes-reported-in-irans-west?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +29,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.44,
-      "confianca": 69,
+      "score": 3.06,
+      "confianca": 87,
       "razoes": [
+        {
+          "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss"
+        },
         {
           "title": "Israel launches deadly strikes in Gaza in new ceasefire violations",
           "url": "https://www.aljazeera.com/news/2026/1/4/israel-launches-deadly-strikes-in-gaza-in-new-ceasefire-violations?traffic_source=rss"
@@ -78,12 +47,31 @@
           "url": "https://www.aljazeera.com/news/2026/1/4/israel-kills-two-people-in-new-attack-on-southern-lebanon?traffic_source=rss"
         },
         {
-          "title": "Saudi-backed government forces retake multiple cities in southern Yemen",
-          "url": "https://www.aljazeera.com/news/2026/1/4/saudi-backed-government-forces-retake-multiple-cities-in-southern-yemen?traffic_source=rss"
+          "title": "Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye",
+          "url": "https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02102437933348239,
+      "chg5d": 0.02884832093757046,
+      "chg1m": 0.02150417328649105
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss"
         },
         {
-          "title": "Sporadic protests in Tehran as clashes reported in Iran’s west",
-          "url": "https://www.aljazeera.com/news/2026/1/4/sporadic-protests-in-tehran-as-clashes-reported-in-irans-west?traffic_source=rss"
+          "title": "Israel launches deadly strikes in Gaza in new ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2026/1/4/israel-launches-deadly-strikes-in-gaza-in-new-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills two people in new attack on southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/1/4/israel-kills-two-people-in-new-attack-on-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.027704840076911895,
