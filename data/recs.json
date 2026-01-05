@@ -1,38 +1,11 @@
 {
-  "generated_at": "2026-01-05T04:12:27.412065Z",
+  "generated_at": "2026-01-05T06:27:38.328163Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.06,
-      "confianca": 87,
-      "razoes": [
-        {
-          "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches deadly strikes in Gaza in new ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-launches-deadly-strikes-in-gaza-in-new-ceasefire-violations?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two people in new attack on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/1/4/israel-kills-two-people-in-new-attack-on-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye",
-          "url": "https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.06,
-      "confianca": 87,
+      "score": 3.04,
+      "confianca": 86,
       "razoes": [
         {
           "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
@@ -56,10 +29,37 @@
       "chg1m": 0.02150417328649105
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.04,
+      "confianca": 86,
+      "razoes": [
+        {
+          "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches deadly strikes in Gaza in new ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2026/1/4/israel-launches-deadly-strikes-in-gaza-in-new-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills two people in new attack on southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/1/4/israel-kills-two-people-in-new-attack-on-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye",
+          "url": "https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
+      "score": 1.71,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
