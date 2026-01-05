@@ -1,45 +1,22 @@
 {
-  "generated_at": "2026-01-05T15:16:26.209028Z",
+  "generated_at": "2026-01-05T18:21:57.015264Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.4,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli settlers consume water seven times more than Palestinians",
-          "url": "https://www.aljazeera.com/features/2026/1/5/israeli-settlers-consume-water-seven-times-more-than-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Gaza PhD scholar is now baker to feed family, others amid Israel’s war",
-          "url": "https://www.aljazeera.com/news/2026/1/5/gaza-phd-scholar-is-now-baker-to-feed-family-others-amid-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "Syrian delegation meets Israelis in Paris amid sovereignty breaches",
-          "url": "https://www.aljazeera.com/news/2026/1/5/syrian-delegation-meets-israelis-in-paris-amid-sovereignty-breaches?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela after Maduro: Oil, power and the limits of intervention",
-          "url": "https://www.aljazeera.com/news/2026/1/5/venezuela-after-maduro-oil-power-and-the-limits-of-intervention?traffic_source=rss"
-        },
-        {
-          "title": "Israel extends Gaza occupation beyond ‘yellow line’ in north, bombs south",
-          "url": "https://www.aljazeera.com/news/2026/1/5/israel-extends-gaza-occupation-beyond-yellow-line-in-north-bombs-south?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010514786418400963,
-      "chg5d": 0.043665158371040715,
-      "chg1m": 0.0132471132451365
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.4,
+      "score": 4.8,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli settlers consume water seven times more than Palestinians",
+          "title": "Timeline of protests in Iran after the 1979 Islamic revolution",
+          "url": "https://www.aljazeera.com/news/2026/1/5/a-timeline-of-protests-in-iran-after-the-1979-islamic-revolution?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs Lebanon saying it targeted Hezbollah and Hamas",
+          "url": "https://www.aljazeera.com/news/2026/1/5/israel-bombs-southern-lebanon-saying-it-targeted-hezbollah-and-hamas?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers consume seven times more water than Palestinians",
           "url": "https://www.aljazeera.com/features/2026/1/5/israeli-settlers-consume-water-seven-times-more-than-palestinians?traffic_source=rss"
         },
         {
@@ -49,14 +26,6 @@
         {
           "title": "Syrian delegation meets Israelis in Paris amid sovereignty breaches",
           "url": "https://www.aljazeera.com/news/2026/1/5/syrian-delegation-meets-israelis-in-paris-amid-sovereignty-breaches?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela after Maduro: Oil, power and the limits of intervention",
-          "url": "https://www.aljazeera.com/news/2026/1/5/venezuela-after-maduro-oil-power-and-the-limits-of-intervention?traffic_source=rss"
-        },
-        {
-          "title": "Israel extends Gaza occupation beyond ‘yellow line’ in north, bombs south",
-          "url": "https://www.aljazeera.com/news/2026/1/5/israel-extends-gaza-occupation-beyond-yellow-line-in-north-bombs-south?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,13 +33,21 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 4.8,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli settlers consume water seven times more than Palestinians",
+          "title": "Timeline of protests in Iran after the 1979 Islamic revolution",
+          "url": "https://www.aljazeera.com/news/2026/1/5/a-timeline-of-protests-in-iran-after-the-1979-islamic-revolution?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs Lebanon saying it targeted Hezbollah and Hamas",
+          "url": "https://www.aljazeera.com/news/2026/1/5/israel-bombs-southern-lebanon-saying-it-targeted-hezbollah-and-hamas?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers consume seven times more water than Palestinians",
           "url": "https://www.aljazeera.com/features/2026/1/5/israeli-settlers-consume-water-seven-times-more-than-palestinians?traffic_source=rss"
         },
         {
@@ -80,64 +57,42 @@
         {
           "title": "Syrian delegation meets Israelis in Paris amid sovereignty breaches",
           "url": "https://www.aljazeera.com/news/2026/1/5/syrian-delegation-meets-israelis-in-paris-amid-sovereignty-breaches?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.028258488499452335,
+      "chg5d": 0.06199095022624422,
+      "chg1m": 0.031038792450177807
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.47,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Timeline of protests in Iran after the 1979 Islamic revolution",
+          "url": "https://www.aljazeera.com/news/2026/1/5/a-timeline-of-protests-in-iran-after-the-1979-islamic-revolution?traffic_source=rss"
         },
         {
-          "title": "Israel extends Gaza occupation beyond ‘yellow line’ in north, bombs south",
-          "url": "https://www.aljazeera.com/news/2026/1/5/israel-extends-gaza-occupation-beyond-yellow-line-in-north-bombs-south?traffic_source=rss"
+          "title": "Israel bombs Lebanon saying it targeted Hezbollah and Hamas",
+          "url": "https://www.aljazeera.com/news/2026/1/5/israel-bombs-southern-lebanon-saying-it-targeted-hezbollah-and-hamas?traffic_source=rss"
         },
         {
-          "title": "The Yemeni crisis: More complexity and many repercussions",
-          "url": "https://www.aljazeera.com/opinions/2026/1/5/the-yemeni-crisis-more-complexity-and-many-repercussions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.022230269378558376,
-      "chg5d": 0.05194294350247403,
-      "chg1m": 0.1372426141450313
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
+          "title": "Israeli settlers consume seven times more water than Palestinians",
+          "url": "https://www.aljazeera.com/features/2026/1/5/israeli-settlers-consume-water-seven-times-more-than-palestinians?traffic_source=rss"
+        },
         {
-          "title": "What will happen to parts of Venezuela’s economy affected by US sanctions?",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/5/what-will-happen-to-parts-of-venezuelas-economy-affected-by-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.04738868170960155,
-      "chg5d": 0.1362666045210907,
-      "chg1m": 0.0683746450233145
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
+          "title": "Gaza PhD scholar is now baker to feed family, others amid Israel’s war",
+          "url": "https://www.aljazeera.com/news/2026/1/5/gaza-phd-scholar-is-now-baker-to-feed-family-others-amid-israels-war?traffic_source=rss"
+        },
         {
-          "title": "What will happen to parts of Venezuela’s economy affected by US sanctions?",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/5/what-will-happen-to-parts-of-venezuelas-economy-affected-by-us-sanctions?traffic_source=rss"
+          "title": "Syrian delegation meets Israelis in Paris amid sovereignty breaches",
+          "url": "https://www.aljazeera.com/news/2026/1/5/syrian-delegation-meets-israelis-in-paris-amid-sovereignty-breaches?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014600401670438919,
-      "chg5d": 0.03996209645797922,
-      "chg1m": 0.02880139643134202
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "What will happen to parts of Venezuela’s economy affected by US sanctions?",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/5/what-will-happen-to-parts-of-venezuelas-economy-affected-by-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.012796846156252855,
-      "chg5d": 0.06888125742966589,
-      "chg1m": 0.09561685564393299
+      "chg1d": 0.02346953145432232,
+      "chg5d": 0.05321822661118361,
+      "chg1m": 0.1386213070725156
     }
   ]
 }
