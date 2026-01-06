@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-06T15:14:33.164478Z",
+  "generated_at": "2026-01-06T18:20:45.828294Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.73,
+      "score": 3.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces raid Birzeit University in the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/israeli-forces-raid-birzeit-university-in-the-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Israeli FM visits Somaliland after world-first recognition storm",
           "url": "https://www.aljazeera.com/news/2026/1/6/israeli-fm-visits-somaliland-after-world-first-recognition-storm?traffic_source=rss"
@@ -18,26 +22,22 @@
         {
           "title": "How US statements on Venezuela shifted, from drugs to oil",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/how-us-statements-on-venezuela-shifted-from-drugs-to-oil?traffic_source=rss"
-        },
-        {
-          "title": "Qatar slams ‘political blackmail’ as Israel hinders Gaza’s Rafah crossing",
-          "url": "https://www.aljazeera.com/news/2026/1/6/qatar-says-its-engaged-with-mediators-to-reopen-rafah-crossing-into-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
-          "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011196417146513085,
-      "chg5d": 0.03910802330793377,
-      "chg1m": 0.014103175401682487
+      "chg1d": -0.0227127319257837,
+      "chg5d": 0.02700582698341563,
+      "chg1m": 0.0022922034461792477
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.73,
+      "score": 3.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces raid Birzeit University in the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/israeli-forces-raid-birzeit-university-in-the-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Israeli FM visits Somaliland after world-first recognition storm",
           "url": "https://www.aljazeera.com/news/2026/1/6/israeli-fm-visits-somaliland-after-world-first-recognition-storm?traffic_source=rss"
@@ -49,14 +49,6 @@
         {
           "title": "How US statements on Venezuela shifted, from drugs to oil",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/how-us-statements-on-venezuela-shifted-from-drugs-to-oil?traffic_source=rss"
-        },
-        {
-          "title": "Qatar slams ‘political blackmail’ as Israel hinders Gaza’s Rafah crossing",
-          "url": "https://www.aljazeera.com/news/2026/1/6/qatar-says-its-engaged-with-mediators-to-reopen-rafah-crossing-into-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
-          "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,34 +57,22 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.7,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Israeli forces raid Birzeit University in the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/israeli-forces-raid-birzeit-university-in-the-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Israeli FM visits Somaliland after world-first recognition storm",
           "url": "https://www.aljazeera.com/news/2026/1/6/israeli-fm-visits-somaliland-after-world-first-recognition-storm?traffic_source=rss"
-        },
-        {
-          "title": "Qatar slams ‘political blackmail’ as Israel hinders Gaza’s Rafah crossing",
-          "url": "https://www.aljazeera.com/news/2026/1/6/qatar-says-its-engaged-with-mediators-to-reopen-rafah-crossing-into-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
-          "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni separatists to attend Saudi talks after losing key southern sites",
-          "url": "https://www.aljazeera.com/news/2026/1/6/yemeni-separatists-to-attend-saudi-talks-after-losing-key-southern-sites?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s New Year demonstrations and the question of regime survival",
-          "url": "https://www.aljazeera.com/opinions/2026/1/6/irans-new-year-demonstrations-and-the-question-of-regime-survival?traffic_source=rss"
         }
       ],
-      "chg1d": 0.04494008640068799,
-      "chg5d": 0.09346042915294442,
-      "chg1m": 0.1922828147652502
+      "chg1d": 0.03188224485407667,
+      "chg5d": 0.07979626485568758,
+      "chg1m": 0.1773837403813984
     }
   ]
 }
