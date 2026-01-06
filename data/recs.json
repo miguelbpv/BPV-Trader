@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-01-06T09:19:35.719194Z",
+  "generated_at": "2026-01-06T12:28:46.064048Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Yemeni separatists to attend Saudi talks after losing key southern sites",
-          "url": "https://www.aljazeera.com/news/2026/1/6/yemeni-separatists-to-attend-saudi-talks-after-losing-key-southern-sites?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s New Year demonstrations and the question of regime survival",
-          "url": "https://www.aljazeera.com/opinions/2026/1/6/irans-new-year-demonstrations-and-the-question-of-regime-survival?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army vehicles enter Quneitra countryside village in southern Syria",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israeli-army-vehicles-enter-quneitra-countryside-village-in-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two in Gaza as Palestinians call for Rafah crossing to open",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israel-kills-two-in-gaza-as-palestinians-call-for-rafah-crossing-to-open?traffic_source=rss"
-        },
-        {
-          "title": "Hundreds of tourists stuck on Yemeni island as tensions simmer on mainland",
-          "url": "https://www.aljazeera.com/news/2026/1/5/hundreds-of-tourists-stuck-on-yemeni-island-as-tensions-simmer-on-mainland?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.029170941718470237,
-      "chg5d": 0.05908535701716254,
-      "chg1m": 0.14496418979409126
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 3.57,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
+          "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
+        },
+        {
+          "title": "US pressure mounts at Panama Canal over Venezuelan oil shipments",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/us-pressure-mounts-at-panama-canal-over-venezuelan-oil-shipments?traffic_source=rss"
+        },
         {
           "title": "Yemeni separatists to attend Saudi talks after losing key southern sites",
           "url": "https://www.aljazeera.com/news/2026/1/6/yemeni-separatists-to-attend-saudi-talks-after-losing-key-southern-sites?traffic_source=rss"
@@ -45,18 +22,6 @@
         {
           "title": "Iran’s New Year demonstrations and the question of regime survival",
           "url": "https://www.aljazeera.com/opinions/2026/1/6/irans-new-year-demonstrations-and-the-question-of-regime-survival?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army vehicles enter Quneitra countryside village in southern Syria",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israeli-army-vehicles-enter-quneitra-countryside-village-in-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two in Gaza as Palestinians call for Rafah crossing to open",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israel-kills-two-in-gaza-as-palestinians-call-for-rafah-crossing-to-open?traffic_source=rss"
-        },
-        {
-          "title": "Hundreds of tourists stuck on Yemeni island as tensions simmer on mainland",
-          "url": "https://www.aljazeera.com/news/2026/1/5/hundreds-of-tourists-stuck-on-yemeni-island-as-tensions-simmer-on-mainland?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +31,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 3.57,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
+          "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
+        },
+        {
+          "title": "US pressure mounts at Panama Canal over Venezuelan oil shipments",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/us-pressure-mounts-at-panama-canal-over-venezuelan-oil-shipments?traffic_source=rss"
+        },
         {
           "title": "Yemeni separatists to attend Saudi talks after losing key southern sites",
           "url": "https://www.aljazeera.com/news/2026/1/6/yemeni-separatists-to-attend-saudi-talks-after-losing-key-southern-sites?traffic_source=rss"
@@ -76,23 +49,34 @@
         {
           "title": "Iran’s New Year demonstrations and the question of regime survival",
           "url": "https://www.aljazeera.com/opinions/2026/1/6/irans-new-year-demonstrations-and-the-question-of-regime-survival?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army vehicles enter Quneitra countryside village in southern Syria",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israeli-army-vehicles-enter-quneitra-countryside-village-in-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two in Gaza as Palestinians call for Rafah crossing to open",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israel-kills-two-in-gaza-as-palestinians-call-for-rafah-crossing-to-open?traffic_source=rss"
-        },
-        {
-          "title": "Hundreds of tourists stuck on Yemeni island as tensions simmer on mainland",
-          "url": "https://www.aljazeera.com/news/2026/1/5/hundreds-of-tourists-stuck-on-yemeni-island-as-tensions-simmer-on-mainland?traffic_source=rss"
         }
       ],
       "chg1d": 0.02716319824753564,
       "chg5d": 0.060859728506787274,
       "chg1m": 0.029940540647397536
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
+          "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni separatists to attend Saudi talks after losing key southern sites",
+          "url": "https://www.aljazeera.com/news/2026/1/6/yemeni-separatists-to-attend-saudi-talks-after-losing-key-southern-sites?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s New Year demonstrations and the question of regime survival",
+          "url": "https://www.aljazeera.com/opinions/2026/1/6/irans-new-year-demonstrations-and-the-question-of-regime-survival?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.029170941718470237,
+      "chg5d": 0.05908535701716254,
+      "chg1m": 0.14496418979409126
     }
   ]
 }
