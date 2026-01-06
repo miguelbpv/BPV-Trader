@@ -1,27 +1,62 @@
 {
-  "generated_at": "2026-01-06T12:28:46.064048Z",
+  "generated_at": "2026-01-06T15:14:33.164478Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.57,
+      "score": 7.73,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israeli FM visits Somaliland after world-first recognition storm",
+          "url": "https://www.aljazeera.com/news/2026/1/6/israeli-fm-visits-somaliland-after-world-first-recognition-storm?traffic_source=rss"
+        },
+        {
+          "title": "The ‘terrorist’ labelled leaders who warned of US oil aggression",
+          "url": "https://www.aljazeera.com/video/2026/1/6/the-terrorist-labelled-leaders-who-warned-of-us-oil-aggression?traffic_source=rss"
+        },
+        {
+          "title": "How US statements on Venezuela shifted, from drugs to oil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/how-us-statements-on-venezuela-shifted-from-drugs-to-oil?traffic_source=rss"
+        },
+        {
+          "title": "Qatar slams ‘political blackmail’ as Israel hinders Gaza’s Rafah crossing",
+          "url": "https://www.aljazeera.com/news/2026/1/6/qatar-says-its-engaged-with-mediators-to-reopen-rafah-crossing-into-gaza?traffic_source=rss"
+        },
+        {
           "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
           "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011196417146513085,
+      "chg5d": 0.03910802330793377,
+      "chg1m": 0.014103175401682487
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 7.73,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli FM visits Somaliland after world-first recognition storm",
+          "url": "https://www.aljazeera.com/news/2026/1/6/israeli-fm-visits-somaliland-after-world-first-recognition-storm?traffic_source=rss"
         },
         {
-          "title": "US pressure mounts at Panama Canal over Venezuelan oil shipments",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/us-pressure-mounts-at-panama-canal-over-venezuelan-oil-shipments?traffic_source=rss"
+          "title": "The ‘terrorist’ labelled leaders who warned of US oil aggression",
+          "url": "https://www.aljazeera.com/video/2026/1/6/the-terrorist-labelled-leaders-who-warned-of-us-oil-aggression?traffic_source=rss"
         },
         {
-          "title": "Yemeni separatists to attend Saudi talks after losing key southern sites",
-          "url": "https://www.aljazeera.com/news/2026/1/6/yemeni-separatists-to-attend-saudi-talks-after-losing-key-southern-sites?traffic_source=rss"
+          "title": "How US statements on Venezuela shifted, from drugs to oil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/how-us-statements-on-venezuela-shifted-from-drugs-to-oil?traffic_source=rss"
         },
         {
-          "title": "Iran’s New Year demonstrations and the question of regime survival",
-          "url": "https://www.aljazeera.com/opinions/2026/1/6/irans-new-year-demonstrations-and-the-question-of-regime-survival?traffic_source=rss"
+          "title": "Qatar slams ‘political blackmail’ as Israel hinders Gaza’s Rafah crossing",
+          "url": "https://www.aljazeera.com/news/2026/1/6/qatar-says-its-engaged-with-mediators-to-reopen-rafah-crossing-into-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
+          "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,38 +64,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.57,
+      "score": 3.7,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
-          "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
+          "title": "Israeli FM visits Somaliland after world-first recognition storm",
+          "url": "https://www.aljazeera.com/news/2026/1/6/israeli-fm-visits-somaliland-after-world-first-recognition-storm?traffic_source=rss"
         },
         {
-          "title": "US pressure mounts at Panama Canal over Venezuelan oil shipments",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/us-pressure-mounts-at-panama-canal-over-venezuelan-oil-shipments?traffic_source=rss"
+          "title": "Qatar slams ‘political blackmail’ as Israel hinders Gaza’s Rafah crossing",
+          "url": "https://www.aljazeera.com/news/2026/1/6/qatar-says-its-engaged-with-mediators-to-reopen-rafah-crossing-into-gaza?traffic_source=rss"
         },
-        {
-          "title": "Yemeni separatists to attend Saudi talks after losing key southern sites",
-          "url": "https://www.aljazeera.com/news/2026/1/6/yemeni-separatists-to-attend-saudi-talks-after-losing-key-southern-sites?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s New Year demonstrations and the question of regime survival",
-          "url": "https://www.aljazeera.com/opinions/2026/1/6/irans-new-year-demonstrations-and-the-question-of-regime-survival?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02716319824753564,
-      "chg5d": 0.060859728506787274,
-      "chg1m": 0.029940540647397536
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
-      "razoes": [
         {
           "title": "Economic survival in Gaza decimated by Israeli counts on small initiatives",
           "url": "https://www.aljazeera.com/news/2026/1/6/economic-survival-in-gaza-decimated-by-israeli-counts-on-small-initiatives?traffic_source=rss"
@@ -74,9 +90,9 @@
           "url": "https://www.aljazeera.com/opinions/2026/1/6/irans-new-year-demonstrations-and-the-question-of-regime-survival?traffic_source=rss"
         }
       ],
-      "chg1d": 0.029170941718470237,
-      "chg5d": 0.05908535701716254,
-      "chg1m": 0.14496418979409126
+      "chg1d": 0.04494008640068799,
+      "chg5d": 0.09346042915294442,
+      "chg1m": 0.1922828147652502
     }
   ]
 }
