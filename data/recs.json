@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-01-07T12:29:17.916481Z",
+  "generated_at": "2026-01-07T15:16:46.276741Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Saudi-led coalition attacks south Yemen separatists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-attacks-south-yemen-separatists?traffic_source=rss"
-        },
-        {
-          "title": "Everything you need to know about the Syria – Israel deal in Paris",
-          "url": "https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss"
-        },
-        {
-          "title": "Who is Aidarous al-Zubaidi? Yemen’s ‘traitor’ chief",
-          "url": "https://www.aljazeera.com/features/2026/1/7/who-is-aidarous-al-zubaidi-yemens-traitor-chief?traffic_source=rss"
-        },
-        {
-          "title": "Press association condemns Israel’s continued ban on media access to Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/7/media-body-condemns-israels-continued-ban-on-foreign-media-access-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s continued attacks on Lebanon could derail Hezbollah disarmament",
-          "url": "https://www.aljazeera.com/features/2026/1/7/israels-continued-attacks-on-lebanon-could-derail-hezbollah-disarmament?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.026658136063126465,
-      "chg5d": 0.02285970416853436,
-      "chg1m": -0.001754148057095066
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.71,
+      "score": 6.4,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "New video said to show US forces shadowing Russian oil tanker",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/new-video-said-to-show-us-forces-shadowing-russian-oil-tanker?traffic_source=rss"
+        },
+        {
+          "title": "US military seizes Venezuela-linked Russian oil tanker",
+          "url": "https://www.aljazeera.com/news/2026/1/7/us-attempting-to-seize-venezuela-linked-russian-oil-tanker-reports?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s separatist leader feared being “possibly imprisoned” in Riyadh",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/7/yemens-separatist-leader-feared-being-possibly-imprisoned-in-riyadh?traffic_source=rss"
+        },
         {
           "title": "Saudi-led coalition attacks south Yemen separatists",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-attacks-south-yemen-separatists?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Everything you need to know about the Syria – Israel deal in Paris",
           "url": "https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss"
-        },
-        {
-          "title": "Who is Aidarous al-Zubaidi? Yemen’s ‘traitor’ chief",
-          "url": "https://www.aljazeera.com/features/2026/1/7/who-is-aidarous-al-zubaidi-yemens-traitor-chief?traffic_source=rss"
-        },
-        {
-          "title": "Press association condemns Israel’s continued ban on media access to Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/7/media-body-condemns-israels-continued-ban-on-foreign-media-access-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s continued attacks on Lebanon could derail Hezbollah disarmament",
-          "url": "https://www.aljazeera.com/features/2026/1/7/israels-continued-attacks-on-lebanon-could-derail-hezbollah-disarmament?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,46 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.04,
+      "score": 6.4,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "New video said to show US forces shadowing Russian oil tanker",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/new-video-said-to-show-us-forces-shadowing-russian-oil-tanker?traffic_source=rss"
+        },
+        {
+          "title": "US military seizes Venezuela-linked Russian oil tanker",
+          "url": "https://www.aljazeera.com/news/2026/1/7/us-attempting-to-seize-venezuela-linked-russian-oil-tanker-reports?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s separatist leader feared being “possibly imprisoned” in Riyadh",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/7/yemens-separatist-leader-feared-being-possibly-imprisoned-in-riyadh?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-led coalition attacks south Yemen separatists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-attacks-south-yemen-separatists?traffic_source=rss"
+        },
+        {
+          "title": "Everything you need to know about the Syria – Israel deal in Paris",
+          "url": "https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0013146362839614872,
+      "chg5d": 0.013790035587188556,
+      "chg1m": 0.0010586008020768201
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.7,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Yemen’s separatist leader feared being “possibly imprisoned” in Riyadh",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/7/yemens-separatist-leader-feared-being-possibly-imprisoned-in-riyadh?traffic_source=rss"
+        },
         {
           "title": "Saudi-led coalition attacks south Yemen separatists",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-attacks-south-yemen-separatists?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "Press association condemns Israel’s continued ban on media access to Gaza",
           "url": "https://www.aljazeera.com/news/2026/1/7/media-body-condemns-israels-continued-ban-on-foreign-media-access-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s continued attacks on Lebanon could derail Hezbollah disarmament",
-          "url": "https://www.aljazeera.com/features/2026/1/7/israels-continued-attacks-on-lebanon-could-derail-hezbollah-disarmament?traffic_source=rss"
         }
       ],
-      "chg1d": 0.020466407334284595,
-      "chg5d": 0.06785034876347487,
-      "chg1m": 0.16435820229731224
+      "chg1d": 0.0013604321507930163,
+      "chg5d": 0.0712094262295081,
+      "chg1m": 0.1560154798761609
     }
   ]
 }
