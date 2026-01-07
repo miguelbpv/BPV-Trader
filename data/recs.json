@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-01-07T01:05:55.162358Z",
+  "generated_at": "2026-01-07T03:59:33.005551Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.8,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump says Venezuela to hand over up to 50 million barrels of oil to US",
-          "url": "https://www.aljazeera.com/economy/2026/1/7/trump-says-venezuela-to-hand-over-up-to-50-million-barrels-of-oil-to-us?traffic_source=rss"
-        },
-        {
-          "title": "Protests grow as Iran’s government makes meager offer amid tanking economy",
-          "url": "https://www.aljazeera.com/news/2026/1/6/protests-grow-as-irans-government-makes-meager-offer-amid-tanking-economy?traffic_source=rss"
-        },
-        {
-          "title": "What does Israel’s recognition of Somaliland mean for the region?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/1/6/aje-onl-tt_som_somaliland_av_v3-060125?traffic_source=rss"
-        },
-        {
-          "title": "Israel, Syria agree to dedicated communication line in US-brokered talks",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israel-syria-agree-to-dedicated-communication-line-in-us-brokered-talks?traffic_source=rss"
-        },
-        {
-          "title": "Somalia condemns Israel’s visit to Somaliland",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/somalia-condemns-israels-visit-to-somaliland?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.8,
+      "score": 6.63,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
+          "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled",
+          "url": "https://www.aljazeera.com/news/2026/1/7/saudi-led-coalition-strikes-yemen-says-stc-leader-al-zubaidi-has-fled?traffic_source=rss"
+        },
+        {
+          "title": "Fact-checking Trump on promised US oil company investment in Venezuela",
+          "url": "https://www.aljazeera.com/news/2026/1/7/fact-checking-trump-on-promised-us-oil-company-investment-in-venezuela?traffic_source=rss"
+        },
         {
           "title": "Trump says Venezuela to hand over up to 50 million barrels of oil to US",
           "url": "https://www.aljazeera.com/economy/2026/1/7/trump-says-venezuela-to-hand-over-up-to-50-million-barrels-of-oil-to-us?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Protests grow as Iran’s government makes meager offer amid tanking economy",
           "url": "https://www.aljazeera.com/news/2026/1/6/protests-grow-as-irans-government-makes-meager-offer-amid-tanking-economy?traffic_source=rss"
-        },
-        {
-          "title": "What does Israel’s recognition of Somaliland mean for the region?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/1/6/aje-onl-tt_som_somaliland_av_v3-060125?traffic_source=rss"
-        },
-        {
-          "title": "Israel, Syria agree to dedicated communication line in US-brokered talks",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israel-syria-agree-to-dedicated-communication-line-in-us-brokered-talks?traffic_source=rss"
-        },
-        {
-          "title": "Somalia condemns Israel’s visit to Somaliland",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/somalia-condemns-israels-visit-to-somaliland?traffic_source=rss"
         }
       ],
       "chg1d": -0.026871401151631436,
@@ -64,11 +33,50 @@
       "chg1m": -0.0019728697599747124
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.45,
+      "score": 6.63,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
+          "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled",
+          "url": "https://www.aljazeera.com/news/2026/1/7/saudi-led-coalition-strikes-yemen-says-stc-leader-al-zubaidi-has-fled?traffic_source=rss"
+        },
+        {
+          "title": "Fact-checking Trump on promised US oil company investment in Venezuela",
+          "url": "https://www.aljazeera.com/news/2026/1/7/fact-checking-trump-on-promised-us-oil-company-investment-in-venezuela?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Venezuela to hand over up to 50 million barrels of oil to US",
+          "url": "https://www.aljazeera.com/economy/2026/1/7/trump-says-venezuela-to-hand-over-up-to-50-million-barrels-of-oil-to-us?traffic_source=rss"
+        },
+        {
+          "title": "Protests grow as Iran’s government makes meager offer amid tanking economy",
+          "url": "https://www.aljazeera.com/news/2026/1/6/protests-grow-as-irans-government-makes-meager-offer-amid-tanking-economy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.94,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
+          "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled",
+          "url": "https://www.aljazeera.com/news/2026/1/7/saudi-led-coalition-strikes-yemen-says-stc-leader-al-zubaidi-has-fled?traffic_source=rss"
+        },
         {
           "title": "Protests grow as Iran’s government makes meager offer amid tanking economy",
           "url": "https://www.aljazeera.com/news/2026/1/6/protests-grow-as-irans-government-makes-meager-offer-amid-tanking-economy?traffic_source=rss"
@@ -80,14 +88,6 @@
         {
           "title": "Israel, Syria agree to dedicated communication line in US-brokered talks",
           "url": "https://www.aljazeera.com/news/2026/1/6/israel-syria-agree-to-dedicated-communication-line-in-us-brokered-talks?traffic_source=rss"
-        },
-        {
-          "title": "Somalia condemns Israel’s visit to Somaliland",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/somalia-condemns-israels-visit-to-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Israeli school assault wounds dozens of Palestinians in West Bank raid",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israeli-forces-injure-11-palestinian-in-university-raid-in-ramallah?traffic_source=rss"
         }
       ],
       "chg1d": 0.020466407334284595,
@@ -110,21 +110,6 @@
       "chg1m": 0.1177755777830881
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US Supreme Court expected to rule on tariffs on Friday",
-          "url": "https://www.aljazeera.com/economy/2026/1/6/us-supreme-court-expected-to-rule-on-tariffs-on-friday?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01170828617722004,
-      "chg5d": 0.16564336605706412,
-      "chg1m": 0.11935175843182474
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
       "score": 0.85,
@@ -138,6 +123,21 @@
       "chg1d": 0.03263535182041123,
       "chg5d": 0.07572383073496661,
       "chg1m": 0.07235209612119638
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US Supreme Court expected to rule on tariffs on Friday",
+          "url": "https://www.aljazeera.com/economy/2026/1/6/us-supreme-court-expected-to-rule-on-tariffs-on-friday?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01170828617722004,
+      "chg5d": 0.16564336605706412,
+      "chg1m": 0.11935175843182474
     }
   ]
 }
