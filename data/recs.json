@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-01-07T03:59:33.005551Z",
+  "generated_at": "2026-01-07T06:22:18.444434Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.63,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
-          "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
-        },
-        {
-          "title": "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled",
-          "url": "https://www.aljazeera.com/news/2026/1/7/saudi-led-coalition-strikes-yemen-says-stc-leader-al-zubaidi-has-fled?traffic_source=rss"
-        },
-        {
-          "title": "Fact-checking Trump on promised US oil company investment in Venezuela",
-          "url": "https://www.aljazeera.com/news/2026/1/7/fact-checking-trump-on-promised-us-oil-company-investment-in-venezuela?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Venezuela to hand over up to 50 million barrels of oil to US",
-          "url": "https://www.aljazeera.com/economy/2026/1/7/trump-says-venezuela-to-hand-over-up-to-50-million-barrels-of-oil-to-us?traffic_source=rss"
-        },
-        {
-          "title": "Protests grow as Iran’s government makes meager offer amid tanking economy",
-          "url": "https://www.aljazeera.com/news/2026/1/6/protests-grow-as-irans-government-makes-meager-offer-amid-tanking-economy?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.026871401151631436,
-      "chg5d": 0.02263558942178407,
-      "chg1m": -0.0019728697599747124
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.63,
+      "score": 6.98,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Trump says Venezuela to hand over up to 50m barrels of oil to US",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-trump-says-venezuela-to-hand-over-up-to-50mn-barrels-of-oil-to-us?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
           "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Fact-checking Trump on promised US oil company investment in Venezuela",
           "url": "https://www.aljazeera.com/news/2026/1/7/fact-checking-trump-on-promised-us-oil-company-investment-in-venezuela?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Venezuela to hand over up to 50 million barrels of oil to US",
-          "url": "https://www.aljazeera.com/economy/2026/1/7/trump-says-venezuela-to-hand-over-up-to-50-million-barrels-of-oil-to-us?traffic_source=rss"
-        },
-        {
-          "title": "Protests grow as Iran’s government makes meager offer amid tanking economy",
-          "url": "https://www.aljazeera.com/news/2026/1/6/protests-grow-as-irans-government-makes-meager-offer-amid-tanking-economy?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,46 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.94,
+      "score": 6.98,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Trump says Venezuela to hand over up to 50m barrels of oil to US",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-trump-says-venezuela-to-hand-over-up-to-50mn-barrels-of-oil-to-us?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
+          "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled",
+          "url": "https://www.aljazeera.com/news/2026/1/7/saudi-led-coalition-strikes-yemen-says-stc-leader-al-zubaidi-has-fled?traffic_source=rss"
+        },
+        {
+          "title": "Fact-checking Trump on promised US oil company investment in Venezuela",
+          "url": "https://www.aljazeera.com/news/2026/1/7/fact-checking-trump-on-promised-us-oil-company-investment-in-venezuela?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.026658136063126465,
+      "chg5d": 0.02285970416853436,
+      "chg1m": -0.001754148057095066
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
           "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "What does Israel’s recognition of Somaliland mean for the region?",
           "url": "https://www.aljazeera.com/video/the-take-2/2026/1/6/aje-onl-tt_som_somaliland_av_v3-060125?traffic_source=rss"
-        },
-        {
-          "title": "Israel, Syria agree to dedicated communication line in US-brokered talks",
-          "url": "https://www.aljazeera.com/news/2026/1/6/israel-syria-agree-to-dedicated-communication-line-in-us-brokered-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.020466407334284595,
@@ -97,7 +97,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -110,24 +110,9 @@
       "chg1m": 0.1177755777830881
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US Supreme Court expected to rule on tariffs on Friday",
-          "url": "https://www.aljazeera.com/economy/2026/1/6/us-supreme-court-expected-to-rule-on-tariffs-on-friday?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03263535182041123,
-      "chg5d": 0.07572383073496661,
-      "chg1m": 0.07235209612119638
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -135,9 +120,24 @@
           "url": "https://www.aljazeera.com/economy/2026/1/6/us-supreme-court-expected-to-rule-on-tariffs-on-friday?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01170828617722004,
-      "chg5d": 0.16564336605706412,
-      "chg1m": 0.11935175843182474
+      "chg1d": 0.011398887794233791,
+      "chg5d": 0.16528689158954796,
+      "chg1m": 0.11900944076102636
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US Supreme Court expected to rule on tariffs on Friday",
+          "url": "https://www.aljazeera.com/economy/2026/1/6/us-supreme-court-expected-to-rule-on-tariffs-on-friday?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03235238634219965,
+      "chg5d": 0.07542905803746898,
+      "chg1m": 0.07205824735536127
     }
   ]
 }
