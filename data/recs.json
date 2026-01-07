@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-01-07T09:21:29.305256Z",
+  "generated_at": "2026-01-07T12:29:17.916481Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 7.33,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Press association condemns Israel’s continued ban on media access to Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/7/media-body-condemns-israels-continued-ban-on-foreign-media-access-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s continued attacks on Lebanon could derail Hezbollah disarmament",
-          "url": "https://www.aljazeera.com/features/2026/1/7/israels-continued-attacks-on-lebanon-could-derail-hezbollah-disarmament?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Trump says Venezuela to hand over up to 50m barrels of oil to US",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-trump-says-venezuela-to-hand-over-up-to-50mn-barrels-of-oil-to-us?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
-          "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.33,
+      "score": 7.71,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Saudi-led coalition attacks south Yemen separatists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-attacks-south-yemen-separatists?traffic_source=rss"
+        },
+        {
+          "title": "Everything you need to know about the Syria – Israel deal in Paris",
+          "url": "https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss"
+        },
+        {
+          "title": "Who is Aidarous al-Zubaidi? Yemen’s ‘traitor’ chief",
+          "url": "https://www.aljazeera.com/features/2026/1/7/who-is-aidarous-al-zubaidi-yemens-traitor-chief?traffic_source=rss"
+        },
         {
           "title": "Press association condemns Israel’s continued ban on media access to Gaza",
           "url": "https://www.aljazeera.com/news/2026/1/7/media-body-condemns-israels-continued-ban-on-foreign-media-access-to-gaza?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Israel’s continued attacks on Lebanon could derail Hezbollah disarmament",
           "url": "https://www.aljazeera.com/features/2026/1/7/israels-continued-attacks-on-lebanon-could-derail-hezbollah-disarmament?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Trump says Venezuela to hand over up to 50m barrels of oil to US",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-trump-says-venezuela-to-hand-over-up-to-50mn-barrels-of-oil-to-us?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
-          "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
         }
       ],
       "chg1d": -0.026658136063126465,
@@ -64,11 +33,23 @@
       "chg1m": -0.001754148057095066
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.31,
-      "confianca": 94,
+      "score": 7.71,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Saudi-led coalition attacks south Yemen separatists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-attacks-south-yemen-separatists?traffic_source=rss"
+        },
+        {
+          "title": "Everything you need to know about the Syria – Israel deal in Paris",
+          "url": "https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss"
+        },
+        {
+          "title": "Who is Aidarous al-Zubaidi? Yemen’s ‘traitor’ chief",
+          "url": "https://www.aljazeera.com/features/2026/1/7/who-is-aidarous-al-zubaidi-yemens-traitor-chief?traffic_source=rss"
+        },
         {
           "title": "Press association condemns Israel’s continued ban on media access to Gaza",
           "url": "https://www.aljazeera.com/news/2026/1/7/media-body-condemns-israels-continued-ban-on-foreign-media-access-to-gaza?traffic_source=rss"
@@ -76,18 +57,37 @@
         {
           "title": "Israel’s continued attacks on Lebanon could derail Hezbollah disarmament",
           "url": "https://www.aljazeera.com/features/2026/1/7/israels-continued-attacks-on-lebanon-could-derail-hezbollah-disarmament?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.04,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Saudi-led coalition attacks south Yemen separatists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-attacks-south-yemen-separatists?traffic_source=rss"
         },
         {
-          "title": "LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss"
+          "title": "Everything you need to know about the Syria – Israel deal in Paris",
+          "url": "https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss"
         },
         {
-          "title": "Israeli forces kill two in Lebanon, ahead of truce monitors meeting",
-          "url": "https://www.aljazeera.com/news/2026/1/7/israeli-forces-kill-two-in-lebanon-ahead-of-truce-monitors-meeting?traffic_source=rss"
+          "title": "Who is Aidarous al-Zubaidi? Yemen’s ‘traitor’ chief",
+          "url": "https://www.aljazeera.com/features/2026/1/7/who-is-aidarous-al-zubaidi-yemens-traitor-chief?traffic_source=rss"
         },
         {
-          "title": "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled",
-          "url": "https://www.aljazeera.com/news/2026/1/7/saudi-led-coalition-strikes-yemen-says-stc-leader-al-zubaidi-has-fled?traffic_source=rss"
+          "title": "Press association condemns Israel’s continued ban on media access to Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/7/media-body-condemns-israels-continued-ban-on-foreign-media-access-to-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s continued attacks on Lebanon could derail Hezbollah disarmament",
+          "url": "https://www.aljazeera.com/features/2026/1/7/israels-continued-attacks-on-lebanon-could-derail-hezbollah-disarmament?traffic_source=rss"
         }
       ],
       "chg1d": 0.020466407334284595,
