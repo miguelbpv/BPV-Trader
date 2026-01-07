@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-01-07T18:21:35.740594Z",
+  "generated_at": "2026-01-07T21:13:42.009276Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 9.31,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran leaders warn protesters and foreign foes as deadly unrest ramps up",
-          "url": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
-        },
-        {
-          "title": "US seizes two Venezuela-linked oil tankers in Caribbean, North Atlantic",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/us-seizes-two-venezuela-linked-oil-tankers-in-caribbean-north-atlantic?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he wants to free up Venezuelan oil flow. What was blocking it?",
-          "url": "https://www.aljazeera.com/news/2026/1/7/trump-says-he-wants-to-free-up-venezuelan-oil-flow-what-was-blocking-it?traffic_source=rss"
-        },
-        {
-          "title": "New video said to show US forces shadowing Russian oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/new-video-said-to-show-us-forces-shadowing-russian-oil-tanker?traffic_source=rss"
-        },
-        {
-          "title": "‘Anywhere in the world’: US seizes Venezuela-linked Russian oil tanker",
-          "url": "https://www.aljazeera.com/news/2026/1/7/us-attempting-to-seize-venezuela-linked-russian-oil-tanker-reports?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 9.31,
+      "score": 9.56,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
+          "url": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss"
+        },
+        {
+          "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
+          "url": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss"
+        },
+        {
+          "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
+        },
+        {
           "title": "Iran leaders warn protesters and foreign foes as deadly unrest ramps up",
           "url": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
-        },
-        {
-          "title": "US seizes two Venezuela-linked oil tankers in Caribbean, North Atlantic",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/us-seizes-two-venezuela-linked-oil-tankers-in-caribbean-north-atlantic?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he wants to free up Venezuelan oil flow. What was blocking it?",
-          "url": "https://www.aljazeera.com/news/2026/1/7/trump-says-he-wants-to-free-up-venezuelan-oil-flow-what-was-blocking-it?traffic_source=rss"
-        },
-        {
-          "title": "New video said to show US forces shadowing Russian oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/new-video-said-to-show-us-forces-shadowing-russian-oil-tanker?traffic_source=rss"
-        },
-        {
-          "title": "‘Anywhere in the world’: US seizes Venezuela-linked Russian oil tanker",
-          "url": "https://www.aljazeera.com/news/2026/1/7/us-attempting-to-seize-venezuela-linked-russian-oil-tanker-reports?traffic_source=rss"
         }
       ],
       "chg1d": -0.010845749342681801,
@@ -64,35 +33,111 @@
       "chg1m": -0.008495161623304895
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.94,
+      "score": 9.56,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
+          "url": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss"
+        },
+        {
+          "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
+          "url": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss"
+        },
+        {
+          "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
+        },
+        {
           "title": "Iran leaders warn protesters and foreign foes as deadly unrest ramps up",
           "url": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s separatist leader feared being “possibly imprisoned” in Riyadh",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/7/yemens-separatist-leader-feared-being-possibly-imprisoned-in-riyadh?traffic_source=rss"
-        },
-        {
-          "title": "Saudi-led coalition attacks south Yemen separatists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-attacks-south-yemen-separatists?traffic_source=rss"
-        },
-        {
-          "title": "Everything you need to know about the Syria – Israel deal in Paris",
-          "url": "https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss"
-        },
-        {
-          "title": "Who is Aidarous al-Zubaidi? Yemen’s ‘traitor’ chief",
-          "url": "https://www.aljazeera.com/features/2026/1/7/who-is-aidarous-al-zubaidi-yemens-traitor-chief?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009980078154930728,
-      "chg5d": 0.08043032786885246,
-      "chg1m": 0.16596638655462187
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.21,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
+          "url": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss"
+        },
+        {
+          "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
+          "url": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss"
+        },
+        {
+          "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
+        },
+        {
+          "title": "Iran leaders warn protesters and foreign foes as deadly unrest ramps up",
+          "url": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.04714198145735951,
+      "chg5d": 0.019323770491803293,
+      "chg1m": 0.10002211410880146
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "White House: Seized tankers violated sanctions, crews can be prosecuted",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.025379470421158727,
+      "chg5d": 0.06522464784030983,
+      "chg1m": 0.08279044516829524
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "White House: Seized tankers violated sanctions, crews can be prosecuted",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01152400196427282,
+      "chg5d": 0.14525621653888474,
+      "chg1m": 0.11678808880642488
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "White House: Seized tankers violated sanctions, crews can be prosecuted",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01084208923404904,
+      "chg5d": 0.06516463334645153,
+      "chg1m": 0.049741435035552825
     }
   ]
 }
