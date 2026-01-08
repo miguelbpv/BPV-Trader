@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T15:17:40.166008Z",
+  "generated_at": "2026-01-08T18:18:38.756409Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.51,
-      "confianca": 95,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
           "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
@@ -14,18 +14,6 @@
         {
           "title": "US says it will control Venezuelan oil indefinitely",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/us-says-it-will-control-venezuelan-oil-indefinitely?traffic_source=rss"
-        },
-        {
-          "title": "Top Somaliland official defends Israel ties amid Arab backlash",
-          "url": "https://www.aljazeera.com/news/2026/1/8/top-somaliland-official-defends-israel-ties-amid-arab-backlash?traffic_source=rss"
-        },
-        {
-          "title": "How oil once made Venezuela rich, but not its people",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/8/how-oil-once-made-venezuela-rich-but-not-its-people?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s commercial hubs became flashpoints for frustration",
-          "url": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,8 +23,8 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.51,
-      "confianca": 95,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
           "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
@@ -45,42 +33,11 @@
         {
           "title": "US says it will control Venezuelan oil indefinitely",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/us-says-it-will-control-venezuelan-oil-indefinitely?traffic_source=rss"
-        },
-        {
-          "title": "Top Somaliland official defends Israel ties amid Arab backlash",
-          "url": "https://www.aljazeera.com/news/2026/1/8/top-somaliland-official-defends-israel-ties-amid-arab-backlash?traffic_source=rss"
-        },
-        {
-          "title": "How oil once made Venezuela rich, but not its people",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/8/how-oil-once-made-venezuela-rich-but-not-its-people?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s commercial hubs became flashpoints for frustration",
-          "url": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010192776423664986,
-      "chg5d": 0.019682397673898514,
-      "chg1m": 0.012299022339856379
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Top Somaliland official defends Israel ties amid Arab backlash",
-          "url": "https://www.aljazeera.com/news/2026/1/8/top-somaliland-official-defends-israel-ties-amid-arab-backlash?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s commercial hubs became flashpoints for frustration",
-          "url": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.07802845814800648,
-      "chg5d": 0.10744929394008305,
-      "chg1m": 0.15097339808328675
+      "chg1d": 0.024374030578329143,
+      "chg5d": 0.03399686870946088,
+      "chg1m": 0.026509844324886022
     }
   ]
 }
