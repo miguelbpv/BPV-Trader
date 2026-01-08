@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-01-08T12:29:37.165815Z",
+  "generated_at": "2026-01-08T15:17:40.166008Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.66,
+      "score": 5.51,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/8/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
+        },
+        {
+          "title": "US says it will control Venezuelan oil indefinitely",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/us-says-it-will-control-venezuelan-oil-indefinitely?traffic_source=rss"
+        },
         {
           "title": "Top Somaliland official defends Israel ties amid Arab backlash",
           "url": "https://www.aljazeera.com/news/2026/1/8/top-somaliland-official-defends-israel-ties-amid-arab-backlash?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "Iran’s commercial hubs became flashpoints for frustration",
           "url": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss"
-        },
-        {
-          "title": "Here’s why Trump wants Venezuela’s oil",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/heres-why-trump-wants-venezuelas-oil?traffic_source=rss"
-        },
-        {
-          "title": "What resources does Venezuela have — apart from the world’s most oil?",
-          "url": "https://www.aljazeera.com/news/2026/1/8/what-resources-does-venezuela-have-apart-from-the-worlds-most?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.66,
+      "score": 5.51,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/8/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
+        },
+        {
+          "title": "US says it will control Venezuelan oil indefinitely",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/us-says-it-will-control-venezuelan-oil-indefinitely?traffic_source=rss"
+        },
         {
           "title": "Top Somaliland official defends Israel ties amid Arab backlash",
           "url": "https://www.aljazeera.com/news/2026/1/8/top-somaliland-official-defends-israel-ties-amid-arab-backlash?traffic_source=rss"
@@ -49,25 +57,17 @@
         {
           "title": "Iran’s commercial hubs became flashpoints for frustration",
           "url": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss"
-        },
-        {
-          "title": "Here’s why Trump wants Venezuela’s oil",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/heres-why-trump-wants-venezuelas-oil?traffic_source=rss"
-        },
-        {
-          "title": "What resources does Venezuela have — apart from the world’s most oil?",
-          "url": "https://www.aljazeera.com/news/2026/1/8/what-resources-does-venezuela-have-apart-from-the-worlds-most?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011174408413672173,
-      "chg5d": 0.003781138790035625,
-      "chg1m": -0.008824601706938764
+      "chg1d": 0.010192776423664986,
+      "chg5d": 0.019682397673898514,
+      "chg1m": 0.012299022339856379
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Top Somaliland official defends Israel ties amid Arab backlash",
@@ -76,60 +76,11 @@
         {
           "title": "Iran’s commercial hubs became flashpoints for frustration",
           "url": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss"
-        },
-        {
-          "title": "After STC hubris, dream of South Yemen looks further away",
-          "url": "https://www.aljazeera.com/features/2026/1/8/after-stc-hubris-dream-of-south-yemen-looks-further-away?traffic_source=rss"
         }
       ],
-      "chg1d": -0.04821469619186262,
-      "chg5d": 0.01817622950819673,
-      "chg1m": 0.0987837240159222
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
-          "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.026723269095684572,
-      "chg5d": 0.063755924961613,
-      "chg1m": 0.08129750271444075
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
-          "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011045009217591533,
-      "chg5d": 0.14581118137556653,
-      "chg1m": 0.11732925864280062
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
-          "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01053753616567698,
-      "chg5d": 0.06549258821986084,
-      "chg1m": 0.05006464124111186
+      "chg1d": 0.07802845814800648,
+      "chg5d": 0.10744929394008305,
+      "chg1m": 0.15097339808328675
     }
   ]
 }
