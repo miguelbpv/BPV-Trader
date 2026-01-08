@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-01-08T01:05:46.261586Z",
+  "generated_at": "2026-01-08T03:59:07.417342Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 8.77,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US says it will control Venezuela’s oil sales ‘indefinitely’",
-          "url": "https://www.aljazeera.com/news/2026/1/7/us-says-it-will-control-venezuelan-oil-sales-indefinitely?traffic_source=rss"
-        },
-        {
-          "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
-          "url": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss"
-        },
-        {
-          "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
-          "url": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss"
-        },
-        {
-          "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.77,
+      "score": 6.07,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": -0.008824601706938764
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.07,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US says it will control Venezuela’s oil sales ‘indefinitely’",
+          "url": "https://www.aljazeera.com/news/2026/1/7/us-says-it-will-control-venezuelan-oil-sales-indefinitely?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
+          "url": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss"
+        },
+        {
+          "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
+          "url": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss"
+        },
+        {
+          "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.44,
+      "score": 3.41,
       "confianca": 95,
       "razoes": [
         {
@@ -86,7 +86,7 @@
           "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
         },
         {
-          "title": "Iran leaders warn protesters and foreign foes as deadly unrest ramps up",
+          "title": "Iran protests continue as top judge warns ‘rioters’ working with US, Israel",
           "url": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
         }
       ],
@@ -97,7 +97,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -112,7 +112,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
