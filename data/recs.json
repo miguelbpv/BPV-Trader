@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-01-07T21:13:42.009276Z",
+  "generated_at": "2026-01-08T01:05:46.261586Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 9.56,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
-          "url": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss"
-        },
-        {
-          "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
-          "url": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss"
-        },
-        {
-          "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran leaders warn protesters and foreign foes as deadly unrest ramps up",
-          "url": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010845749342681801,
-      "chg5d": 0.004114768683274071,
-      "chg1m": -0.008495161623304895
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.56,
+      "score": 8.77,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US says it will control Venezuela’s oil sales ‘indefinitely’",
+          "url": "https://www.aljazeera.com/news/2026/1/7/us-says-it-will-control-venezuelan-oil-sales-indefinitely?traffic_source=rss"
+        },
         {
           "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
           "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran leaders warn protesters and foreign foes as deadly unrest ramps up",
-          "url": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 8.77,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US says it will control Venezuela’s oil sales ‘indefinitely’",
+          "url": "https://www.aljazeera.com/news/2026/1/7/us-says-it-will-control-venezuelan-oil-sales-indefinitely?traffic_source=rss"
+        },
+        {
+          "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
+          "url": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss"
+        },
+        {
+          "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
+          "url": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss"
+        },
+        {
+          "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011174408413672173,
+      "chg5d": 0.003781138790035625,
+      "chg1m": -0.008824601706938764
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.21,
+      "score": 3.44,
       "confianca": 95,
       "razoes": [
         {
@@ -90,9 +90,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
         }
       ],
-      "chg1d": -0.04714198145735951,
-      "chg5d": 0.019323770491803293,
-      "chg1m": 0.10002211410880146
+      "chg1d": -0.04821469619186262,
+      "chg5d": 0.01817622950819673,
+      "chg1m": 0.0987837240159222
     },
     {
       "symbol": "TSM",
@@ -105,24 +105,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
         }
       ],
-      "chg1d": -0.025379470421158727,
-      "chg5d": 0.06522464784030983,
-      "chg1m": 0.08279044516829524
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "White House: Seized tankers violated sanctions, crews can be prosecuted",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01152400196427282,
-      "chg5d": 0.14525621653888474,
-      "chg1m": 0.11678808880642488
+      "chg1d": -0.026723269095684572,
+      "chg5d": 0.063755924961613,
+      "chg1m": 0.08129750271444075
     },
     {
       "symbol": "SOXX",
@@ -135,9 +120,24 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01084208923404904,
-      "chg5d": 0.06516463334645153,
-      "chg1m": 0.049741435035552825
+      "chg1d": -0.01053753616567698,
+      "chg5d": 0.06549258821986084,
+      "chg1m": 0.05006464124111186
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "White House: Seized tankers violated sanctions, crews can be prosecuted",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010630418857018776,
+      "chg5d": 0.14629152909134982,
+      "chg1m": 0.11779766614823493
     }
   ]
 }
