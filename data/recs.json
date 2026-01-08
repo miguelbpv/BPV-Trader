@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-08T06:23:02.140503Z",
+  "generated_at": "2026-01-08T09:21:14.368302Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.53,
+      "score": 7.19,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Here’s why Trump wants Venezuela’s oil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/heres-why-trump-wants-venezuelas-oil?traffic_source=rss"
+        },
         {
           "title": "What resources does Venezuela have — apart from the world’s most oil?",
           "url": "https://www.aljazeera.com/news/2026/1/8/what-resources-does-venezuela-have-apart-from-the-worlds-most?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
           "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
-        },
-        {
-          "title": "US says it will control Venezuela’s oil sales ‘indefinitely’",
-          "url": "https://www.aljazeera.com/news/2026/1/7/us-says-it-will-control-venezuelan-oil-sales-indefinitely?traffic_source=rss"
         }
       ],
       "chg1d": -0.011174408413672173,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.53,
+      "score": 7.19,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Here’s why Trump wants Venezuela’s oil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/heres-why-trump-wants-venezuelas-oil?traffic_source=rss"
+        },
         {
           "title": "What resources does Venezuela have — apart from the world’s most oil?",
           "url": "https://www.aljazeera.com/news/2026/1/8/what-resources-does-venezuela-have-apart-from-the-worlds-most?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
           "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
-        },
-        {
-          "title": "US says it will control Venezuela’s oil sales ‘indefinitely’",
-          "url": "https://www.aljazeera.com/news/2026/1/7/us-says-it-will-control-venezuelan-oil-sales-indefinitely?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,49 +64,29 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.41,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "After STC hubris, dream of South Yemen looks further away",
-          "url": "https://www.aljazeera.com/features/2026/1/8/after-stc-hubris-dream-of-south-yemen-looks-further-away?traffic_source=rss"
-        },
-        {
-          "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
-          "url": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss"
-        },
-        {
-          "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
-          "url": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss"
-        },
-        {
-          "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.04821469619186262,
-      "chg5d": 0.01817622950819673,
-      "chg1m": 0.0987837240159222
-    },
-    {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "score": 1.09,
+      "confianca": 31,
       "razoes": [
         {
           "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
           "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": -0.01053753616567698,
+      "chg5d": 0.06549258821986084,
+      "chg1m": 0.05006464124111186
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
         {
-          "title": "White House: Seized tankers violated sanctions, crews can be prosecuted",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
+          "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
+          "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
         }
       ],
       "chg1d": -0.026723269095684572,
@@ -116,16 +96,12 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "score": 1.09,
+      "confianca": 31,
       "razoes": [
         {
           "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
           "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
-        },
-        {
-          "title": "White House: Seized tankers violated sanctions, crews can be prosecuted",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
         }
       ],
       "chg1d": -0.011045009217591533,
@@ -133,23 +109,19 @@
       "chg1m": 0.11732925864280062
     },
     {
-      "symbol": "SOXX",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
-          "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
-        },
-        {
-          "title": "White House: Seized tankers violated sanctions, crews can be prosecuted",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
+          "title": "After STC hubris, dream of South Yemen looks further away",
+          "url": "https://www.aljazeera.com/features/2026/1/8/after-stc-hubris-dream-of-south-yemen-looks-further-away?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01053753616567698,
-      "chg5d": 0.06549258821986084,
-      "chg1m": 0.05006464124111186
+      "chg1d": -0.04821469619186262,
+      "chg5d": 0.01817622950819673,
+      "chg1m": 0.0987837240159222
     }
   ]
 }
