@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-01-08T09:21:14.368302Z",
+  "generated_at": "2026-01-08T12:29:37.165815Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Here’s why Trump wants Venezuela’s oil",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/heres-why-trump-wants-venezuelas-oil?traffic_source=rss"
-        },
-        {
-          "title": "What resources does Venezuela have — apart from the world’s most oil?",
-          "url": "https://www.aljazeera.com/news/2026/1/8/what-resources-does-venezuela-have-apart-from-the-worlds-most?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: US to dictate decisions to Venezuela, control oil sales ‘indefinitely",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/8/live-us-to-dictate-decisions-to-venezuela-control-oil-sales-indefinitely?traffic_source=rss"
-        },
-        {
-          "title": "After STC hubris, dream of South Yemen looks further away",
-          "url": "https://www.aljazeera.com/features/2026/1/8/after-stc-hubris-dream-of-south-yemen-looks-further-away?traffic_source=rss"
-        },
-        {
-          "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
-          "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011174408413672173,
-      "chg5d": 0.003781138790035625,
-      "chg1m": -0.008824601706938764
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.19,
+      "score": 8.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Top Somaliland official defends Israel ties amid Arab backlash",
+          "url": "https://www.aljazeera.com/news/2026/1/8/top-somaliland-official-defends-israel-ties-amid-arab-backlash?traffic_source=rss"
+        },
+        {
+          "title": "How oil once made Venezuela rich, but not its people",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/8/how-oil-once-made-venezuela-rich-but-not-its-people?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s commercial hubs became flashpoints for frustration",
+          "url": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss"
+        },
         {
           "title": "Here’s why Trump wants Venezuela’s oil",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/heres-why-trump-wants-venezuelas-oil?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "What resources does Venezuela have — apart from the world’s most oil?",
           "url": "https://www.aljazeera.com/news/2026/1/8/what-resources-does-venezuela-have-apart-from-the-worlds-most?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: US to dictate decisions to Venezuela, control oil sales ‘indefinitely",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/8/live-us-to-dictate-decisions-to-venezuela-control-oil-sales-indefinitely?traffic_source=rss"
-        },
-        {
-          "title": "After STC hubris, dream of South Yemen looks further away",
-          "url": "https://www.aljazeera.com/features/2026/1/8/after-stc-hubris-dream-of-south-yemen-looks-further-away?traffic_source=rss"
-        },
-        {
-          "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
-          "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,25 +33,64 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 8.66,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
-          "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
+          "title": "Top Somaliland official defends Israel ties amid Arab backlash",
+          "url": "https://www.aljazeera.com/news/2026/1/8/top-somaliland-official-defends-israel-ties-amid-arab-backlash?traffic_source=rss"
+        },
+        {
+          "title": "How oil once made Venezuela rich, but not its people",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/8/how-oil-once-made-venezuela-rich-but-not-its-people?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s commercial hubs became flashpoints for frustration",
+          "url": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss"
+        },
+        {
+          "title": "Here’s why Trump wants Venezuela’s oil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/heres-why-trump-wants-venezuelas-oil?traffic_source=rss"
+        },
+        {
+          "title": "What resources does Venezuela have — apart from the world’s most oil?",
+          "url": "https://www.aljazeera.com/news/2026/1/8/what-resources-does-venezuela-have-apart-from-the-worlds-most?traffic_source=rss"
         }
       ],
-      "chg1d": -0.01053753616567698,
-      "chg5d": 0.06549258821986084,
-      "chg1m": 0.05006464124111186
+      "chg1d": -0.011174408413672173,
+      "chg5d": 0.003781138790035625,
+      "chg1m": -0.008824601706938764
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Top Somaliland official defends Israel ties amid Arab backlash",
+          "url": "https://www.aljazeera.com/news/2026/1/8/top-somaliland-official-defends-israel-ties-amid-arab-backlash?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s commercial hubs became flashpoints for frustration",
+          "url": "https://www.aljazeera.com/news/2026/1/8/irans-commercial-hubs-became-flashpoints-for-frustration?traffic_source=rss"
+        },
+        {
+          "title": "After STC hubris, dream of South Yemen looks further away",
+          "url": "https://www.aljazeera.com/features/2026/1/8/after-stc-hubris-dream-of-south-yemen-looks-further-away?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.04821469619186262,
+      "chg5d": 0.01817622950819673,
+      "chg1m": 0.0987837240159222
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
@@ -96,8 +104,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
@@ -109,19 +117,19 @@
       "chg1m": 0.11732925864280062
     },
     {
-      "symbol": "LMT",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
-          "title": "After STC hubris, dream of South Yemen looks further away",
-          "url": "https://www.aljazeera.com/features/2026/1/8/after-stc-hubris-dream-of-south-yemen-looks-further-away?traffic_source=rss"
+          "title": "Trump backs bill to sanction China, India over Russian oil, US senator says",
+          "url": "https://www.aljazeera.com/economy/2026/1/8/trump-backs-bill-to-sanction-china-india-over-russian-oil-us-senator-says?traffic_source=rss"
         }
       ],
-      "chg1d": -0.04821469619186262,
-      "chg5d": 0.01817622950819673,
-      "chg1m": 0.0987837240159222
+      "chg1d": -0.01053753616567698,
+      "chg5d": 0.06549258821986084,
+      "chg1m": 0.05006464124111186
     }
   ]
 }
