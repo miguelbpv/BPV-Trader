@@ -1,19 +1,46 @@
 {
-  "generated_at": "2026-01-08T18:18:38.756409Z",
+  "generated_at": "2026-01-08T21:14:07.373362Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.23,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Israeli attack on Gaza tent kills at least three Palestinians",
+          "url": "https://www.aljazeera.com/news/2026/1/8/israeli-attack-on-gaza-tent-kills-at-least-three-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "11-year-old girl shot in the head by Israeli troops in Gaza safe zone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/11-year-old-girl-shot-in-the-head-by-israeli-troops-in-gaza-safe-zone?traffic_source=rss"
+        },
+        {
+          "title": "Iran experiencing nationwide internet blackout, monitor says",
+          "url": "https://www.aljazeera.com/news/2026/1/8/iran-experiencing-nationwide-internet-blackout-monitor-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.043774025398997725,
+      "chg5d": 0.07226001199164717,
+      "chg1m": 0.11440113455670636
+    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.68,
-      "confianca": 76,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/8/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
+          "title": "Israeli attack on Gaza tent kills at least three Palestinians",
+          "url": "https://www.aljazeera.com/news/2026/1/8/israeli-attack-on-gaza-tent-kills-at-least-three-palestinians?traffic_source=rss"
         },
         {
-          "title": "US says it will control Venezuelan oil indefinitely",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/us-says-it-will-control-venezuelan-oil-indefinitely?traffic_source=rss"
+          "title": "11-year-old girl shot in the head by Israeli troops in Gaza safe zone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/11-year-old-girl-shot-in-the-head-by-israeli-troops-in-gaza-safe-zone?traffic_source=rss"
+        },
+        {
+          "title": "Iran experiencing nationwide internet blackout, monitor says",
+          "url": "https://www.aljazeera.com/news/2026/1/8/iran-experiencing-nationwide-internet-blackout-monitor-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -23,21 +50,25 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.68,
-      "confianca": 76,
+      "score": 2.23,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/8/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
+          "title": "Israeli attack on Gaza tent kills at least three Palestinians",
+          "url": "https://www.aljazeera.com/news/2026/1/8/israeli-attack-on-gaza-tent-kills-at-least-three-palestinians?traffic_source=rss"
         },
         {
-          "title": "US says it will control Venezuelan oil indefinitely",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/us-says-it-will-control-venezuelan-oil-indefinitely?traffic_source=rss"
+          "title": "11-year-old girl shot in the head by Israeli troops in Gaza safe zone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/11-year-old-girl-shot-in-the-head-by-israeli-troops-in-gaza-safe-zone?traffic_source=rss"
+        },
+        {
+          "title": "Iran experiencing nationwide internet blackout, monitor says",
+          "url": "https://www.aljazeera.com/news/2026/1/8/iran-experiencing-nationwide-internet-blackout-monitor-says?traffic_source=rss"
         }
       ],
-      "chg1d": 0.024374030578329143,
-      "chg5d": 0.03399686870946088,
-      "chg1m": 0.026509844324886022
+      "chg1d": 0.031243075559494717,
+      "chg5d": 0.04093044061731153,
+      "chg1m": 0.033393211223884875
     }
   ]
 }
