@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-01-09T09:20:35.793981Z",
+  "generated_at": "2026-01-09T12:28:40.129644Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.38,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "It’s not the oil. It’s Florida",
-          "url": "https://www.aljazeera.com/opinions/2026/1/9/its-not-the-oil-its-florida?traffic_source=rss"
-        },
-        {
-          "title": "Somaliland recognition: Israel’s foothold in the Horn of Africa",
-          "url": "https://www.aljazeera.com/news/2026/1/9/somaliland-recognition-israels-foothold-in-the-horn-of-africa?traffic_source=rss"
-        },
-        {
-          "title": "Street protests grow in Iran as the country faces an internet blackout",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/street-protests-grow-in-iran-as-the-country-faces-an-internet-blackout?traffic_source=rss"
-        },
-        {
-          "title": "Is the Eastern Mediterranean becoming Israel’s new front against Turkiye?",
-          "url": "https://www.aljazeera.com/news/2026/1/9/is-the-eastern-mediterranean-becoming-israels-new-front-against-turkiye?traffic_source=rss"
-        },
-        {
-          "title": "Trump will not meet Iran’s ‘Crown Prince’ Pahlavi as protests intensify",
-          "url": "https://www.aljazeera.com/news/2026/1/9/trump-says-meeting-irans-crown-prince-pahlavi-would-not-be-appropriate?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.38,
+      "score": 6.04,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israeli strikes kill Palestinians across Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/israeli-strikes-kill-palestinians-across-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Khamenei lashes out as Tehran struggles to quell protests",
+          "url": "https://www.aljazeera.com/news/2026/1/9/irans-khamenei-lashes-out-as-tehran-struggles-to-quell-protests?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni southern separatists in Riyadh announce disputed disbanding of STC",
+          "url": "https://www.aljazeera.com/news/2026/1/9/yemens-separatist-southern-transitional-council-announces-its-dissolution?traffic_source=rss"
+        },
+        {
+          "title": "Iran internet cuts a “classic ploy” by leadership",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/9/iran-internet-cuts-a-classic-ploy-by-leadership?traffic_source=rss"
+        },
+        {
           "title": "It’s not the oil. It’s Florida",
           "url": "https://www.aljazeera.com/opinions/2026/1/9/its-not-the-oil-its-florida?traffic_source=rss"
-        },
-        {
-          "title": "Somaliland recognition: Israel’s foothold in the Horn of Africa",
-          "url": "https://www.aljazeera.com/news/2026/1/9/somaliland-recognition-israels-foothold-in-the-horn-of-africa?traffic_source=rss"
-        },
-        {
-          "title": "Street protests grow in Iran as the country faces an internet blackout",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/street-protests-grow-in-iran-as-the-country-faces-an-internet-blackout?traffic_source=rss"
-        },
-        {
-          "title": "Is the Eastern Mediterranean becoming Israel’s new front against Turkiye?",
-          "url": "https://www.aljazeera.com/news/2026/1/9/is-the-eastern-mediterranean-becoming-israels-new-front-against-turkiye?traffic_source=rss"
-        },
-        {
-          "title": "Trump will not meet Iran’s ‘Crown Prince’ Pahlavi as protests intensify",
-          "url": "https://www.aljazeera.com/news/2026/1/9/trump-says-meeting-irans-crown-prince-pahlavi-would-not-be-appropriate?traffic_source=rss"
         }
       ],
       "chg1d": 0.0314646576556613,
@@ -64,75 +33,30 @@
       "chg1m": 0.03361525531740092
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.7,
+      "score": 6.04,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Somaliland recognition: Israel’s foothold in the Horn of Africa",
-          "url": "https://www.aljazeera.com/news/2026/1/9/somaliland-recognition-israels-foothold-in-the-horn-of-africa?traffic_source=rss"
+          "title": "Israeli strikes kill Palestinians across Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/israeli-strikes-kill-palestinians-across-gaza?traffic_source=rss"
         },
         {
-          "title": "Street protests grow in Iran as the country faces an internet blackout",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/street-protests-grow-in-iran-as-the-country-faces-an-internet-blackout?traffic_source=rss"
+          "title": "Iran’s Khamenei lashes out as Tehran struggles to quell protests",
+          "url": "https://www.aljazeera.com/news/2026/1/9/irans-khamenei-lashes-out-as-tehran-struggles-to-quell-protests?traffic_source=rss"
         },
         {
-          "title": "Is the Eastern Mediterranean becoming Israel’s new front against Turkiye?",
-          "url": "https://www.aljazeera.com/news/2026/1/9/is-the-eastern-mediterranean-becoming-israels-new-front-against-turkiye?traffic_source=rss"
+          "title": "Yemeni southern separatists in Riyadh announce disputed disbanding of STC",
+          "url": "https://www.aljazeera.com/news/2026/1/9/yemens-separatist-southern-transitional-council-announces-its-dissolution?traffic_source=rss"
         },
         {
-          "title": "Trump will not meet Iran’s ‘Crown Prince’ Pahlavi as protests intensify",
-          "url": "https://www.aljazeera.com/news/2026/1/9/trump-says-meeting-irans-crown-prince-pahlavi-would-not-be-appropriate?traffic_source=rss"
+          "title": "Iran internet cuts a “classic ploy” by leadership",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/9/iran-internet-cuts-a-classic-ploy-by-leadership?traffic_source=rss"
         },
         {
-          "title": "Israel says Nickolay Mladenov to direct Trump’s proposed Gaza ‘peace board’",
-          "url": "https://www.aljazeera.com/news/2026/1/8/israel-says-nickolay-mladenov-to-head-trumps-proposed-gaza-peace-board?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.043411757602592325,
-      "chg5d": 0.07188785742344996,
-      "chg1m": 0.11401435386136073
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Two wounded in a shooting with US federal agents in Portland, Oregon",
-          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00010151106470612549,
-      "chg5d": 0.011130337869544862,
-      "chg1m": 0.008601143893626663
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Two wounded in a shooting with US federal agents in Portland, Oregon",
-          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005688920226915731,
-      "chg5d": 0.0100275105402811,
-      "chg1m": -0.006103030691356356
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Two wounded in a shooting with US federal agents in Portland, Oregon",
-          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
+          "title": "It’s not the oil. It’s Florida",
+          "url": "https://www.aljazeera.com/opinions/2026/1/9/its-not-the-oil-its-florida?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -140,19 +64,35 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.7,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Two wounded in a shooting with US federal agents in Portland, Oregon",
-          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
+          "title": "Israeli strikes kill Palestinians across Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/israeli-strikes-kill-palestinians-across-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Khamenei lashes out as Tehran struggles to quell protests",
+          "url": "https://www.aljazeera.com/news/2026/1/9/irans-khamenei-lashes-out-as-tehran-struggles-to-quell-protests?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni southern separatists in Riyadh announce disputed disbanding of STC",
+          "url": "https://www.aljazeera.com/news/2026/1/9/yemens-separatist-southern-transitional-council-announces-its-dissolution?traffic_source=rss"
+        },
+        {
+          "title": "Iran internet cuts a “classic ploy” by leadership",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/9/iran-internet-cuts-a-classic-ploy-by-leadership?traffic_source=rss"
+        },
+        {
+          "title": "Somaliland recognition: Israel’s foothold in the Horn of Africa",
+          "url": "https://www.aljazeera.com/news/2026/1/9/somaliland-recognition-israels-foothold-in-the-horn-of-africa?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01092062000939405,
-      "chg5d": 0.04919564510887222,
-      "chg1m": 0.02949734922469796
+      "chg1d": 0.043411757602592325,
+      "chg5d": 0.07188785742344996,
+      "chg1m": 0.11401435386136073
     }
   ]
 }
