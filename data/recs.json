@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-01-08T21:14:07.373362Z",
+  "generated_at": "2026-01-09T01:06:09.380242Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 4.3,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "US says it wants to control Venezuelan oil indefinitely. Can it?",
+          "url": "https://www.aljazeera.com/economy/2026/1/8/us-says-it-wants-to-control-venezuelan-oil-indefinitely-can-it?traffic_source=rss"
+        },
+        {
+          "title": "Israel says Nickolay Mladenov to direct Trump’s proposed Gaza ‘peace board’",
+          "url": "https://www.aljazeera.com/news/2026/1/8/israel-says-nickolay-mladenov-to-head-trumps-proposed-gaza-peace-board?traffic_source=rss"
+        },
         {
           "title": "Israeli attack on Gaza tent kills at least three Palestinians",
           "url": "https://www.aljazeera.com/news/2026/1/8/israeli-attack-on-gaza-tent-kills-at-least-three-palestinians?traffic_source=rss"
@@ -20,16 +28,24 @@
           "url": "https://www.aljazeera.com/news/2026/1/8/iran-experiencing-nationwide-internet-blackout-monitor-says?traffic_source=rss"
         }
       ],
-      "chg1d": 0.043774025398997725,
-      "chg5d": 0.07226001199164717,
-      "chg1m": 0.11440113455670636
+      "chg1d": 0.031243075559494717,
+      "chg5d": 0.04093044061731153,
+      "chg1m": 0.033393211223884875
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 4.3,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "US says it wants to control Venezuelan oil indefinitely. Can it?",
+          "url": "https://www.aljazeera.com/economy/2026/1/8/us-says-it-wants-to-control-venezuelan-oil-indefinitely-can-it?traffic_source=rss"
+        },
+        {
+          "title": "Israel says Nickolay Mladenov to direct Trump’s proposed Gaza ‘peace board’",
+          "url": "https://www.aljazeera.com/news/2026/1/8/israel-says-nickolay-mladenov-to-head-trumps-proposed-gaza-peace-board?traffic_source=rss"
+        },
         {
           "title": "Israeli attack on Gaza tent kills at least three Palestinians",
           "url": "https://www.aljazeera.com/news/2026/1/8/israeli-attack-on-gaza-tent-kills-at-least-three-palestinians?traffic_source=rss"
@@ -48,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Israel says Nickolay Mladenov to direct Trump’s proposed Gaza ‘peace board’",
+          "url": "https://www.aljazeera.com/news/2026/1/8/israel-says-nickolay-mladenov-to-head-trumps-proposed-gaza-peace-board?traffic_source=rss"
+        },
         {
           "title": "Israeli attack on Gaza tent kills at least three Palestinians",
           "url": "https://www.aljazeera.com/news/2026/1/8/israeli-attack-on-gaza-tent-kills-at-least-three-palestinians?traffic_source=rss"
@@ -66,9 +86,69 @@
           "url": "https://www.aljazeera.com/news/2026/1/8/iran-experiencing-nationwide-internet-blackout-monitor-says?traffic_source=rss"
         }
       ],
-      "chg1d": 0.031243075559494717,
-      "chg5d": 0.04093044061731153,
-      "chg1m": 0.033393211223884875
+      "chg1d": 0.043411757602592325,
+      "chg5d": 0.07188785742344996,
+      "chg1m": 0.11401435386136073
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Two wounded in a shooting with US federal agents in Portland: report",
+          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01092062000939405,
+      "chg5d": 0.04919564510887222,
+      "chg1m": 0.02949734922469796
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Two wounded in a shooting with US federal agents in Portland: report",
+          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Two wounded in a shooting with US federal agents in Portland: report",
+          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": -9.426027436998545e-05,
+      "chg5d": 0.01113767010793059,
+      "chg1m": 0.008608457791495387
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Two wounded in a shooting with US federal agents in Portland: report",
+          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005688920226915731,
+      "chg5d": 0.0100275105402811,
+      "chg1m": -0.006103030691356356
     }
   ]
 }
