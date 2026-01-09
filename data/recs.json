@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-01-09T03:59:18.012106Z",
+  "generated_at": "2026-01-09T06:22:10.617808Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.27,
+      "score": 5.74,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Is the Eastern Mediterranean becoming Israel’s new front against Turkiye?",
+          "url": "https://www.aljazeera.com/news/2026/1/9/is-the-eastern-mediterranean-becoming-israels-new-front-against-turkiye?traffic_source=rss"
+        },
+        {
+          "title": "Trump says meeting Iran’s ‘Crown Prince’ Pahlavi would not be appropriate",
+          "url": "https://www.aljazeera.com/news/2026/1/9/trump-says-meeting-irans-crown-prince-pahlavi-would-not-be-appropriate?traffic_source=rss"
+        },
         {
           "title": "US says it wants to control Venezuelan oil indefinitely. Can it?",
           "url": "https://www.aljazeera.com/economy/2026/1/8/us-says-it-wants-to-control-venezuelan-oil-indefinitely-can-it?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Israeli attack across Gaza kill 14 Palestinians despite ‘ceasefire’",
           "url": "https://www.aljazeera.com/news/2026/1/8/israeli-attack-on-gaza-tent-kills-at-least-three-palestinians?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0314646576556613,
+      "chg5d": 0.041154104227242146,
+      "chg1m": 0.03361525531740092
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.74,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Is the Eastern Mediterranean becoming Israel’s new front against Turkiye?",
+          "url": "https://www.aljazeera.com/news/2026/1/9/is-the-eastern-mediterranean-becoming-israels-new-front-against-turkiye?traffic_source=rss"
         },
         {
-          "title": "11-year-old girl shot in the head by Israeli troops in Gaza safe zone",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/11-year-old-girl-shot-in-the-head-by-israeli-troops-in-gaza-safe-zone?traffic_source=rss"
+          "title": "Trump says meeting Iran’s ‘Crown Prince’ Pahlavi would not be appropriate",
+          "url": "https://www.aljazeera.com/news/2026/1/9/trump-says-meeting-irans-crown-prince-pahlavi-would-not-be-appropriate?traffic_source=rss"
         },
         {
-          "title": "Iran experiencing nationwide internet blackout, monitor says",
-          "url": "https://www.aljazeera.com/news/2026/1/8/iran-experiencing-nationwide-internet-blackout-monitor-says?traffic_source=rss"
+          "title": "US says it wants to control Venezuelan oil indefinitely. Can it?",
+          "url": "https://www.aljazeera.com/economy/2026/1/8/us-says-it-wants-to-control-venezuelan-oil-indefinitely-can-it?traffic_source=rss"
+        },
+        {
+          "title": "Israel says Nickolay Mladenov to direct Trump’s proposed Gaza ‘peace board’",
+          "url": "https://www.aljazeera.com/news/2026/1/8/israel-says-nickolay-mladenov-to-head-trumps-proposed-gaza-peace-board?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attack across Gaza kill 14 Palestinians despite ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/1/8/israeli-attack-on-gaza-tent-kills-at-least-three-palestinians?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,14 +64,18 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.27,
+      "score": 4.4,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US says it wants to control Venezuelan oil indefinitely. Can it?",
-          "url": "https://www.aljazeera.com/economy/2026/1/8/us-says-it-wants-to-control-venezuelan-oil-indefinitely-can-it?traffic_source=rss"
+          "title": "Is the Eastern Mediterranean becoming Israel’s new front against Turkiye?",
+          "url": "https://www.aljazeera.com/news/2026/1/9/is-the-eastern-mediterranean-becoming-israels-new-front-against-turkiye?traffic_source=rss"
+        },
+        {
+          "title": "Trump says meeting Iran’s ‘Crown Prince’ Pahlavi would not be appropriate",
+          "url": "https://www.aljazeera.com/news/2026/1/9/trump-says-meeting-irans-crown-prince-pahlavi-would-not-be-appropriate?traffic_source=rss"
         },
         {
           "title": "Israel says Nickolay Mladenov to direct Trump’s proposed Gaza ‘peace board’",
@@ -53,37 +88,6 @@
         {
           "title": "11-year-old girl shot in the head by Israeli troops in Gaza safe zone",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/11-year-old-girl-shot-in-the-head-by-israeli-troops-in-gaza-safe-zone?traffic_source=rss"
-        },
-        {
-          "title": "Iran experiencing nationwide internet blackout, monitor says",
-          "url": "https://www.aljazeera.com/news/2026/1/8/iran-experiencing-nationwide-internet-blackout-monitor-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.031243075559494717,
-      "chg5d": 0.04093044061731153,
-      "chg1m": 0.033393211223884875
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Israel says Nickolay Mladenov to direct Trump’s proposed Gaza ‘peace board’",
-          "url": "https://www.aljazeera.com/news/2026/1/8/israel-says-nickolay-mladenov-to-head-trumps-proposed-gaza-peace-board?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack across Gaza kill 14 Palestinians despite ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/1/8/israeli-attack-on-gaza-tent-kills-at-least-three-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "11-year-old girl shot in the head by Israeli troops in Gaza safe zone",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/11-year-old-girl-shot-in-the-head-by-israeli-troops-in-gaza-safe-zone?traffic_source=rss"
-        },
-        {
-          "title": "Iran experiencing nationwide internet blackout, monitor says",
-          "url": "https://www.aljazeera.com/news/2026/1/8/iran-experiencing-nationwide-internet-blackout-monitor-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.043411757602592325,
@@ -101,24 +105,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
         }
       ],
-      "chg1d": -9.426027436998545e-05,
-      "chg5d": 0.01113767010793059,
-      "chg1m": 0.008608457791495387
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Two wounded in a shooting with US federal agents in Portland, Oregon",
-          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01092062000939405,
-      "chg5d": 0.04919564510887222,
-      "chg1m": 0.02949734922469796
+      "chg1d": -0.00010151106470612549,
+      "chg5d": 0.011130337869544862,
+      "chg1m": 0.008601143893626663
     },
     {
       "symbol": "QQQ",
@@ -134,6 +123,21 @@
       "chg1d": -0.005688920226915731,
       "chg5d": 0.0100275105402811,
       "chg1m": -0.006103030691356356
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Two wounded in a shooting with US federal agents in Portland, Oregon",
+          "url": "https://www.aljazeera.com/news/2026/1/9/two-wounded-in-a-shooting-with-us-federal-agents-in-portland-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01092062000939405,
+      "chg5d": 0.04919564510887222,
+      "chg1m": 0.02949734922469796
     },
     {
       "symbol": "EUROSTOXX50",
