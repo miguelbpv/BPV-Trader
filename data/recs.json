@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-01-10T06:19:57.062191Z",
+  "generated_at": "2026-01-10T09:13:36.486908Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.26,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump promises oil executives ‘total safety’ if they invest in Venezuela",
-          "url": "https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela?traffic_source=rss"
-        },
-        {
-          "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
-        },
-        {
-          "title": "Big and small oil companies summoned to meet Trump on Venezuelan oil",
-          "url": "https://www.aljazeera.com/economy/2026/1/9/big-and-small-oil-companies-summoned-to-meet-trump-on-venezuelan-oil?traffic_source=rss"
-        },
-        {
-          "title": "US intercepts fifth sanctioned oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
-        },
-        {
-          "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/9/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.26,
+      "score": 5.54,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump meets US oil bosses to discuss Venezuela extraction",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/10/trump-meets-us-oil-bosses-to-discuss-venezuela-extraction?traffic_source=rss"
+        },
         {
           "title": "Trump promises oil executives ‘total safety’ if they invest in Venezuela",
           "url": "https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "US intercepts fifth sanctioned oil tanker",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
-        },
-        {
-          "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/9/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
         }
       ],
       "chg1d": 0.0025778732545650817,
@@ -64,43 +33,40 @@
       "chg1m": 0.0299313452664427
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.2,
-      "confianca": 34,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.54,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump meets US oil bosses to discuss Venezuela extraction",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/10/trump-meets-us-oil-bosses-to-discuss-venezuela-extraction?traffic_source=rss"
+        },
+        {
+          "title": "Trump promises oil executives ‘total safety’ if they invest in Venezuela",
+          "url": "https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela?traffic_source=rss"
+        },
         {
           "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
         },
         {
-          "title": "Chinese, Russian and Iranian warships arrive for drills in South Africa",
-          "url": "https://www.aljazeera.com/news/2026/1/9/chinese-russian-and-iranian-warships-arrive-for-drills-in-south-africa?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.04721857881336298,
-      "chg5d": 0.09224052950288684,
-      "chg1m": 0.16284349632675785
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
+          "title": "Big and small oil companies summoned to meet Trump on Venezuelan oil",
+          "url": "https://www.aljazeera.com/economy/2026/1/9/big-and-small-oil-companies-summoned-to-meet-trump-on-venezuelan-oil?traffic_source=rss"
+        },
         {
           "title": "US intercepts fifth sanctioned oil tanker",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01767240023898621,
-      "chg5d": 0.012577829229373241,
-      "chg1m": 0.0666424969513199
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -113,9 +79,24 @@
       "chg1m": 0.053174450637452644
     },
     {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.07,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "US intercepts fifth sanctioned oil tanker",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01767240023898621,
+      "chg5d": 0.012577829229373241,
+      "chg1m": 0.0666424969513199
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -126,6 +107,21 @@
       "chg1d": 0.06661531247906774,
       "chg5d": 0.09460550963240487,
       "chg1m": 0.1461527387893184
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.47,
+      "confianca": 13,
+      "razoes": [
+        {
+          "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.04721857881336298,
+      "chg5d": 0.09224052950288684,
+      "chg1m": 0.16284349632675785
     }
   ]
 }
