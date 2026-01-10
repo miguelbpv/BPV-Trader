@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-10T03:53:48.325326Z",
+  "generated_at": "2026-01-10T06:19:57.062191Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.01,
+      "score": 6.26,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +35,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.01,
+      "score": 6.26,
       "confianca": 95,
       "razoes": [
         {
@@ -59,15 +59,15 @@
           "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/9/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0021482277121375173,
-      "chg5d": 0.02190580503833516,
-      "chg1m": 0.029489977644729992
+      "chg1d": 0.0025778732545650817,
+      "chg5d": 0.02234392113910193,
+      "chg1m": 0.0299313452664427
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "score": 1.2,
+      "confianca": 34,
       "razoes": [
         {
           "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
@@ -76,10 +76,6 @@
         {
           "title": "Chinese, Russian and Iranian warships arrive for drills in South Africa",
           "url": "https://www.aljazeera.com/news/2026/1/9/chinese-russian-and-iranian-warships-arrive-for-drills-in-south-africa?traffic_source=rss"
-        },
-        {
-          "title": "Dissolution of Yemen’s separatists was “only a matter of time”",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/9/dissolution-of-yemens-separatists-was-only-a-matter-of?traffic_source=rss"
         }
       ],
       "chg1d": 0.04721857881336298,
@@ -102,21 +98,6 @@
       "chg1m": 0.0666424969513199
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US intercepts fifth sanctioned oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.06661531247906774,
-      "chg5d": 0.09460550963240487,
-      "chg1m": 0.1461527387893184
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
       "score": 1.08,
@@ -130,6 +111,21 @@
       "chg1d": 0.02878778396645594,
       "chg5d": 0.04810481685740692,
       "chg1m": 0.053174450637452644
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.08,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "US intercepts fifth sanctioned oil tanker",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.06661531247906774,
+      "chg5d": 0.09460550963240487,
+      "chg1m": 0.1461527387893184
     }
   ]
 }
