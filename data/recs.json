@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-09T21:14:06.994420Z",
+  "generated_at": "2026-01-10T01:03:51.754955Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.82,
+      "score": 7.05,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump promises oil executives ‘total safety’ if they invest in Venezuela",
+          "url": "https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela?traffic_source=rss"
+        },
         {
           "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/9/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
-        },
-        {
-          "title": "Chinese, Russian and Iranian warships arrive for drills in South Africa",
-          "url": "https://www.aljazeera.com/news/2026/1/9/chinese-russian-and-iranian-warships-arrive-for-drills-in-south-africa?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0026852846401718583,
-      "chg5d": 0.022453450164293506,
-      "chg1m": 0.030041687171870758
+      "chg1d": 0.0021482277121375173,
+      "chg5d": 0.02190580503833516,
+      "chg1m": 0.029489977644729992
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.82,
+      "score": 7.05,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump promises oil executives ‘total safety’ if they invest in Venezuela",
+          "url": "https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela?traffic_source=rss"
+        },
         {
           "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/9/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
-        },
-        {
-          "title": "Chinese, Russian and Iranian warships arrive for drills in South Africa",
-          "url": "https://www.aljazeera.com/news/2026/1/9/chinese-russian-and-iranian-warships-arrive-for-drills-in-south-africa?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,9 +65,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
@@ -80,15 +80,11 @@
         {
           "title": "Dissolution of Yemen’s separatists was “only a matter of time”",
           "url": "https://www.aljazeera.com/video/quotable/2026/1/9/dissolution-of-yemens-separatists-was-only-a-matter-of?traffic_source=rss"
-        },
-        {
-          "title": "Iran cuts internet as protesters plan more rallies",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/iran-cuts-internet-as-protesters-plan-more-rallies?traffic_source=rss"
         }
       ],
-      "chg1d": 0.046774940205231076,
-      "chg5d": 0.09177781801355958,
-      "chg1m": 0.16235087493842248
+      "chg1d": 0.04721857881336298,
+      "chg5d": 0.09224052950288684,
+      "chg1m": 0.16284349632675785
     },
     {
       "symbol": "ASML.AS",
@@ -101,9 +97,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0678293924576328,
-      "chg5d": 0.0958514495866916,
-      "chg1m": 0.14745735262362328
+      "chg1d": 0.06661531247906774,
+      "chg5d": 0.09460550963240487,
+      "chg1m": 0.1461527387893184
     },
     {
       "symbol": "TSM",
@@ -116,9 +112,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01811263796735949,
-      "chg5d": 0.013015863083132467,
-      "chg1m": 0.06710391878975629
+      "chg1d": 0.01767240023898621,
+      "chg5d": 0.012577829229373241,
+      "chg1m": 0.0666424969513199
     },
     {
       "symbol": "SOXX",
@@ -131,9 +127,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
         }
       ],
-      "chg1d": 0.030102008886663763,
-      "chg5d": 0.049443718320634995,
-      "chg1m": 0.05451982830418343
+      "chg1d": 0.02878778396645594,
+      "chg5d": 0.04810481685740692,
+      "chg1m": 0.053174450637452644
     }
   ]
 }
