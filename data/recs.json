@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-10T09:13:36.486908Z",
+  "generated_at": "2026-01-10T12:24:31.087295Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.54,
+      "score": 3.87,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s army pledges to defend national interests after US backs protesters",
+          "url": "https://www.aljazeera.com/news/2026/1/10/irans-army-pledges-to-defend-national-interests-after-us-backs-protesters?traffic_source=rss"
+        },
         {
           "title": "Trump meets US oil bosses to discuss Venezuela extraction",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/10/trump-meets-us-oil-bosses-to-discuss-venezuela-extraction?traffic_source=rss"
@@ -18,14 +22,6 @@
         {
           "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
-        },
-        {
-          "title": "Big and small oil companies summoned to meet Trump on Venezuelan oil",
-          "url": "https://www.aljazeera.com/economy/2026/1/9/big-and-small-oil-companies-summoned-to-meet-trump-on-venezuelan-oil?traffic_source=rss"
-        },
-        {
-          "title": "US intercepts fifth sanctioned oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
         }
       ],
       "chg1d": 0.0025778732545650817,
@@ -35,9 +31,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.54,
+      "score": 3.87,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s army pledges to defend national interests after US backs protesters",
+          "url": "https://www.aljazeera.com/news/2026/1/10/irans-army-pledges-to-defend-national-interests-after-us-backs-protesters?traffic_source=rss"
+        },
         {
           "title": "Trump meets US oil bosses to discuss Venezuela extraction",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/10/trump-meets-us-oil-bosses-to-discuss-venezuela-extraction?traffic_source=rss"
@@ -49,14 +49,6 @@
         {
           "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
-        },
-        {
-          "title": "Big and small oil companies summoned to meet Trump on Venezuelan oil",
-          "url": "https://www.aljazeera.com/economy/2026/1/9/big-and-small-oil-companies-summoned-to-meet-trump-on-venezuelan-oil?traffic_source=rss"
-        },
-        {
-          "title": "US intercepts fifth sanctioned oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,56 +56,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.07,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US intercepts fifth sanctioned oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02878778396645594,
-      "chg5d": 0.04810481685740692,
-      "chg1m": 0.053174450637452644
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.07,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US intercepts fifth sanctioned oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01767240023898621,
-      "chg5d": 0.012577829229373241,
-      "chg1m": 0.0666424969513199
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.07,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US intercepts fifth sanctioned oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.06661531247906774,
-      "chg5d": 0.09460550963240487,
-      "chg1m": 0.1461527387893184
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 0.47,
-      "confianca": 13,
+      "score": 1.21,
+      "confianca": 34,
       "razoes": [
+        {
+          "title": "Iran’s army pledges to defend national interests after US backs protesters",
+          "url": "https://www.aljazeera.com/news/2026/1/10/irans-army-pledges-to-defend-national-interests-after-us-backs-protesters?traffic_source=rss"
+        },
         {
           "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
