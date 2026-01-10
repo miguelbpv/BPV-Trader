@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-01-10T01:03:51.754955Z",
+  "generated_at": "2026-01-10T03:53:48.325326Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.05,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump promises oil executives ‘total safety’ if they invest in Venezuela",
-          "url": "https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela?traffic_source=rss"
-        },
-        {
-          "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
-        },
-        {
-          "title": "Big and small oil companies summoned to meet Trump on Venezuelan oil",
-          "url": "https://www.aljazeera.com/economy/2026/1/9/big-and-small-oil-companies-summoned-to-meet-trump-on-venezuelan-oil?traffic_source=rss"
-        },
-        {
-          "title": "US intercepts fifth sanctioned oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
-        },
-        {
-          "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/9/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0021482277121375173,
-      "chg5d": 0.02190580503833516,
-      "chg1m": 0.029489977644729992
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.05,
+      "score": 7.01,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 7.01,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump promises oil executives ‘total safety’ if they invest in Venezuela",
+          "url": "https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela?traffic_source=rss"
+        },
+        {
+          "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss"
+        },
+        {
+          "title": "Big and small oil companies summoned to meet Trump on Venezuelan oil",
+          "url": "https://www.aljazeera.com/economy/2026/1/9/big-and-small-oil-companies-summoned-to-meet-trump-on-venezuelan-oil?traffic_source=rss"
+        },
+        {
+          "title": "US intercepts fifth sanctioned oil tanker",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
+        },
+        {
+          "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/9/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0021482277121375173,
+      "chg5d": 0.02190580503833516,
+      "chg1m": 0.029489977644729992
+    },
+    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.95,
+      "score": 1.93,
       "confianca": 55,
       "razoes": [
         {
@@ -87,25 +87,10 @@
       "chg1m": 0.16284349632675785
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US intercepts fifth sanctioned oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.06661531247906774,
-      "chg5d": 0.09460550963240487,
-      "chg1m": 0.1461527387893184
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US intercepts fifth sanctioned oil tanker",
@@ -117,10 +102,25 @@
       "chg1m": 0.0666424969513199
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.08,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "US intercepts fifth sanctioned oil tanker",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/us-intercepts-fifth-sanctioned-oil-tanker?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.06661531247906774,
+      "chg5d": 0.09460550963240487,
+      "chg1m": 0.1461527387893184
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US intercepts fifth sanctioned oil tanker",
