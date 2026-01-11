@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-01-10T21:11:55.697740Z",
+  "generated_at": "2026-01-11T01:12:12.717053Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.44,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What are Saudi Arabia’s plans in southern Yemen?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/10/what-are-saudi-arabias-plans-in-southern-yemen?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni gov’t says southern areas ‘recaptured’ from separatist STC",
-          "url": "https://www.aljazeera.com/news/2026/1/10/thousands-of-supporters-of-yemens-separatist-stc-rally-in-aden?traffic_source=rss"
-        },
-        {
-          "title": "Why the once loyal bazaar merchants are now protesting in Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/1/10/why-the-once-loyal-bazaar-merchants-are-now-protesting-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel issues demolition order for occupied West Bank football pitch",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/10/israel-issues-demolition-order-for-occupied-west-bank-football-pitch?traffic_source=rss"
-        },
-        {
-          "title": "Extreme cold kills another infant in Gaza as Israel blocks vital aid",
-          "url": "https://www.aljazeera.com/news/2026/1/10/extreme-cold-kills-another-infant-in-gaza-as-israel-blocks-vital-aid?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0025778732545650817,
-      "chg5d": 0.02234392113910193,
-      "chg1m": 0.0299313452664427
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.44,
+      "score": 3.4,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.4,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "What are Saudi Arabia’s plans in southern Yemen?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/10/what-are-saudi-arabias-plans-in-southern-yemen?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni gov’t says southern areas ‘recaptured’ from separatist STC",
+          "url": "https://www.aljazeera.com/news/2026/1/10/thousands-of-supporters-of-yemens-separatist-stc-rally-in-aden?traffic_source=rss"
+        },
+        {
+          "title": "Why the once loyal bazaar merchants are now protesting in Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/1/10/why-the-once-loyal-bazaar-merchants-are-now-protesting-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israel issues demolition order for occupied West Bank football pitch",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/10/israel-issues-demolition-order-for-occupied-west-bank-football-pitch?traffic_source=rss"
+        },
+        {
+          "title": "Extreme cold kills another infant in Gaza as Israel blocks vital aid",
+          "url": "https://www.aljazeera.com/news/2026/1/10/extreme-cold-kills-another-infant-in-gaza-as-israel-blocks-vital-aid?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0025778732545650817,
+      "chg5d": 0.02234392113910193,
+      "chg1m": 0.0299313452664427
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.44,
+      "score": 3.4,
       "confianca": 95,
       "razoes": [
         {
