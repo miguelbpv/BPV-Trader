@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-11T15:13:09.936484Z",
+  "generated_at": "2026-01-11T18:19:09.263667Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.44,
+      "score": 6.99,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump says no more Venezuelan oil or money to go to Cuba, demands ‘deal’",
+          "url": "https://www.aljazeera.com/news/2026/1/11/trump-says-no-more-venezuelan-oil-or-money-to-go-to-cuba-and-demands-deal?traffic_source=rss"
+        },
         {
           "title": "Iran protests live: Tehran says it will hit back at US, Israel if attacked",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/11/iran-protests-live-tehran-says-it-will-hit-back-at-us-israel-if-attacked?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Protesters in Iran want “fundamental change”",
           "url": "https://www.aljazeera.com/video/quotable/2026/1/11/protesters-in-iran-want-fundamental?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills Palestinian in Hebron, raids Nablus, East Jerusalem wedding",
-          "url": "https://www.aljazeera.com/news/2026/1/11/israel-kills-palestinian-in-hebron-raids-nablus-east-jerusalem-wedding?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.99,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump says no more Venezuelan oil or money to go to Cuba, demands ‘deal’",
+          "url": "https://www.aljazeera.com/news/2026/1/11/trump-says-no-more-venezuelan-oil-or-money-to-go-to-cuba-and-demands-deal?traffic_source=rss"
+        },
+        {
+          "title": "Iran protests live: Tehran says it will hit back at US, Israel if attacked",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/11/iran-protests-live-tehran-says-it-will-hit-back-at-us-israel-if-attacked?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Pezeshkian pledges economic overhaul amid spiralling protests",
+          "url": "https://www.aljazeera.com/news/2026/1/11/irans-pezeshkian-pledges-economic-overhaul-amid-spiralling-protests?traffic_source=rss"
+        },
+        {
+          "title": "Iran warns US it will retaliate against any attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/11/iran-warns-us-it-will-retaliate-against-any-attack?traffic_source=rss"
+        },
+        {
+          "title": "Protesters in Iran want “fundamental change”",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/11/protesters-in-iran-want-fundamental?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0025778732545650817,
+      "chg5d": 0.02234392113910193,
+      "chg1m": 0.0299313452664427
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.44,
+      "score": 5.39,
       "confianca": 95,
       "razoes": [
         {
@@ -62,37 +93,6 @@
       "chg1d": 0.04721857881336298,
       "chg5d": 0.09224052950288684,
       "chg1m": 0.16284349632675785
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.44,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran protests live: Tehran says it will hit back at US, Israel if attacked",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/11/iran-protests-live-tehran-says-it-will-hit-back-at-us-israel-if-attacked?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Pezeshkian pledges economic overhaul amid spiralling protests",
-          "url": "https://www.aljazeera.com/news/2026/1/11/irans-pezeshkian-pledges-economic-overhaul-amid-spiralling-protests?traffic_source=rss"
-        },
-        {
-          "title": "Iran warns US it will retaliate against any attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/11/iran-warns-us-it-will-retaliate-against-any-attack?traffic_source=rss"
-        },
-        {
-          "title": "Protesters in Iran want “fundamental change”",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/11/protesters-in-iran-want-fundamental?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills Palestinian in Hebron, raids Nablus, East Jerusalem wedding",
-          "url": "https://www.aljazeera.com/news/2026/1/11/israel-kills-palestinian-in-hebron-raids-nablus-east-jerusalem-wedding?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0025778732545650817,
-      "chg5d": 0.02234392113910193,
-      "chg1m": 0.0299313452664427
     }
   ]
 }
