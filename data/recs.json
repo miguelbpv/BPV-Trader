@@ -1,74 +1,20 @@
 {
-  "generated_at": "2026-01-12T18:21:32.029146Z",
+  "generated_at": "2026-01-12T21:13:42.200828Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.92,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel considers plan to expand settlement in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss"
-        },
-        {
-          "title": "Los Angeles police arrest man who drove through Iran protesters",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects Trump bomb threats after protest deaths",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iran-rejects-trump-bomb-threats-after-protest-deaths?traffic_source=rss"
-        },
-        {
-          "title": "What we know about the protests sweeping Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/12/what-we-know-about-the-protests-sweeping-iran?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Saudi-backed government retakes southern areas from STC: What next?",
-          "url": "https://www.aljazeera.com/news/2026/1/12/yemens-saudi-backed-government-retakes-southern-areas-from-stc-what-next?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006669490901053737,
-      "chg5d": 0.06836014621654918,
-      "chg1m": 0.1679723896226013
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.92,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel considers plan to expand settlement in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss"
-        },
-        {
-          "title": "Los Angeles police arrest man who drove through Iran protesters",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects Trump bomb threats after protest deaths",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iran-rejects-trump-bomb-threats-after-protest-deaths?traffic_source=rss"
-        },
-        {
-          "title": "What we know about the protests sweeping Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/12/what-we-know-about-the-protests-sweeping-iran?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Saudi-backed government retakes southern areas from STC: What next?",
-          "url": "https://www.aljazeera.com/news/2026/1/12/yemens-saudi-backed-government-retakes-southern-areas-from-stc-what-next?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006963788300835715,
-      "chg5d": -0.011622947323523175,
-      "chg1m": 0.012127181440367493
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.92,
+      "score": 5.91,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
+        },
+        {
+          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
+        },
         {
           "title": "Israel considers plan to expand settlement in occupied East Jerusalem",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss"
@@ -80,19 +26,133 @@
         {
           "title": "Iran rejects Trump bomb threats after protest deaths",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iran-rejects-trump-bomb-threats-after-protest-deaths?traffic_source=rss"
-        },
-        {
-          "title": "What we know about the protests sweeping Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/12/what-we-know-about-the-protests-sweeping-iran?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Saudi-backed government retakes southern areas from STC: What next?",
-          "url": "https://www.aljazeera.com/news/2026/1/12/yemens-saudi-backed-government-retakes-southern-areas-from-stc-what-next?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.91,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
+        },
+        {
+          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Israel considers plan to expand settlement in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss"
+        },
+        {
+          "title": "Los Angeles police arrest man who drove through Iran protesters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects Trump bomb threats after protest deaths",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iran-rejects-trump-bomb-threats-after-protest-deaths?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014311500773594813,
+      "chg5d": 0.07647047324901785,
+      "chg1m": 0.17683891097149218
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.91,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
+        },
+        {
+          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Israel considers plan to expand settlement in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss"
+        },
+        {
+          "title": "Los Angeles police arrest man who drove through Iran protesters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects Trump bomb threats after protest deaths",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iran-rejects-trump-bomb-threats-after-protest-deaths?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007606599528605184,
+      "chg5d": -0.012262742589038235,
+      "chg1m": 0.011472012264766842
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Republican lawmakers break from US president on Fed chair indictment",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0018728658492658946,
+      "chg5d": 0.011123567731053339,
+      "chg1m": 0.011344154049769448
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Republican lawmakers break from US president on Fed chair indictment",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Republican lawmakers break from US president on Fed chair indictment",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004957153287476323,
+      "chg5d": 0.03478020021366673,
+      "chg1m": 0.026333346414975783
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Republican lawmakers break from US president on Fed chair indictment",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0011409877922285675,
+      "chg5d": 0.015170148384278062,
+      "chg1m": -0.0003903698156498535
     }
   ]
 }
