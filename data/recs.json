@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-12T01:09:03.071330Z",
+  "generated_at": "2026-01-12T04:06:49.220781Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.91,
+      "score": 7.88,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump says US military considering ‘very strong options’ for Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-us-military-considering-very-strong-options-for-iran?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill one person in series of attacks on southern Lebanon",
           "url": "https://www.aljazeera.com/news/2026/1/11/israeli-forces-kill-one-person-in-series-of-attacks-on-southern-lebanon?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Will Elon Musk’s X changing the Iranian flag have any impact on the ground?",
           "url": "https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground?traffic_source=rss"
-        },
-        {
-          "title": "Trump says no more Venezuelan oil or money to go to Cuba, demands ‘deal’",
-          "url": "https://www.aljazeera.com/news/2026/1/11/trump-says-no-more-venezuelan-oil-or-money-to-go-to-cuba-and-demands-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0025778732545650817,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.91,
+      "score": 7.88,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump says US military considering ‘very strong options’ for Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-us-military-considering-very-strong-options-for-iran?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill one person in series of attacks on southern Lebanon",
           "url": "https://www.aljazeera.com/news/2026/1/11/israeli-forces-kill-one-person-in-series-of-attacks-on-southern-lebanon?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Will Elon Musk’s X changing the Iranian flag have any impact on the ground?",
           "url": "https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground?traffic_source=rss"
-        },
-        {
-          "title": "Trump says no more Venezuelan oil or money to go to Cuba, demands ‘deal’",
-          "url": "https://www.aljazeera.com/news/2026/1/11/trump-says-no-more-venezuelan-oil-or-money-to-go-to-cuba-and-demands-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.33,
+      "score": 6.3,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump says US military considering ‘very strong options’ for Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-us-military-considering-very-strong-options-for-iran?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill one person in series of attacks on southern Lebanon",
           "url": "https://www.aljazeera.com/news/2026/1/11/israeli-forces-kill-one-person-in-series-of-attacks-on-southern-lebanon?traffic_source=rss"
@@ -84,15 +88,71 @@
         {
           "title": "Will Elon Musk’s X changing the Iranian flag have any impact on the ground?",
           "url": "https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground?traffic_source=rss"
-        },
-        {
-          "title": "Iran protests updates: Tehran says will hit back at US, Israel if attacked",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/11/iran-protests-live-tehran-says-it-will-hit-back-at-us-israel-if-attacked?traffic_source=rss"
         }
       ],
       "chg1d": 0.04721857881336298,
       "chg5d": 0.09224052950288684,
       "chg1m": 0.16284349632675785
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed Chair Powell says he’s under investigation, will not bow to Trump",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009960191467758232,
+      "chg5d": 0.02206745824634651,
+      "chg1m": 0.002559795216382726
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed Chair Powell says he’s under investigation, will not bow to Trump",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007588957292755784,
+      "chg5d": 0.046024600048235456,
+      "chg1m": 0.03516448546083787
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed Chair Powell says he’s under investigation, will not bow to Trump",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed Chair Powell says he’s under investigation, will not bow to Trump",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006613392119041144,
+      "chg5d": 0.015955033154266277,
+      "chg1m": 0.016148395408760962
     }
   ]
 }
