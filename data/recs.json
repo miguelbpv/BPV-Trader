@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-01-12T09:24:54.795272Z",
+  "generated_at": "2026-01-12T12:30:52.909356Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 8.91,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel launches air strikes against Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-launches-air-strikes-against-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s FM says protests became ‘bloody’ to give Trump intervention excuse",
-          "url": "https://www.aljazeera.com/news/2026/1/12/irans-fm-says-protests-became-bloody-to-give-trump-intervention-excuse?traffic_source=rss"
-        },
-        {
-          "title": "Trump warns of “very strong options” amid Iran unrest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/trump-warns-of-very-strong-options-amid-iran-unrest?traffic_source=rss"
-        },
-        {
-          "title": "Who is Reza Pahlavi? The exiled prince urging Iranians to ‘seize cities’",
-          "url": "https://www.aljazeera.com/features/2026/1/12/who-is-reza-pahlavi-the-exiled-prince-urging-iranians-to-seize?traffic_source=rss"
-        },
-        {
-          "title": "Man detained after driving truck through anti-Iran protest in Los Angeles",
-          "url": "https://www.aljazeera.com/news/2026/1/12/man-detained-after-driving-truck-through-anti-iran-protest-in-los-angeles?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.91,
+      "score": 7.5,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Mossad agents are “hiding among Iranian demonstrators”",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/12/mossad-agents-are-hiding-among-iranian?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s FM says ready for war or dialogue over US threats",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/irans-fm-says-ready-for-war-or-dialogue-over-us-threats?traffic_source=rss"
+        },
+        {
+          "title": "Nigeria, Egypt or Senegal: Who can spoil Morocco’s AFCON 2025 party?",
+          "url": "https://www.aljazeera.com/sports/2026/1/12/nigeria-egypt-or-senegal-who-can-spoil-moroccos-afcon-2025-party?traffic_source=rss"
+        },
         {
           "title": "Israel launches air strikes against Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-launches-air-strikes-against-lebanon?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Iran’s FM says protests became ‘bloody’ to give Trump intervention excuse",
           "url": "https://www.aljazeera.com/news/2026/1/12/irans-fm-says-protests-became-bloody-to-give-trump-intervention-excuse?traffic_source=rss"
-        },
-        {
-          "title": "Trump warns of “very strong options” amid Iran unrest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/trump-warns-of-very-strong-options-amid-iran-unrest?traffic_source=rss"
-        },
-        {
-          "title": "Who is Reza Pahlavi? The exiled prince urging Iranians to ‘seize cities’",
-          "url": "https://www.aljazeera.com/features/2026/1/12/who-is-reza-pahlavi-the-exiled-prince-urging-iranians-to-seize?traffic_source=rss"
-        },
-        {
-          "title": "Man detained after driving truck through anti-Iran protest in Los Angeles",
-          "url": "https://www.aljazeera.com/news/2026/1/12/man-detained-after-driving-truck-through-anti-iran-protest-in-los-angeles?traffic_source=rss"
         }
       ],
       "chg1d": 0.0025778732545650817,
@@ -64,11 +33,50 @@
       "chg1m": 0.0299313452664427
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.34,
+      "score": 7.5,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Mossad agents are “hiding among Iranian demonstrators”",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/12/mossad-agents-are-hiding-among-iranian?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s FM says ready for war or dialogue over US threats",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/irans-fm-says-ready-for-war-or-dialogue-over-us-threats?traffic_source=rss"
+        },
+        {
+          "title": "Nigeria, Egypt or Senegal: Who can spoil Morocco’s AFCON 2025 party?",
+          "url": "https://www.aljazeera.com/sports/2026/1/12/nigeria-egypt-or-senegal-who-can-spoil-moroccos-afcon-2025-party?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches air strikes against Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-launches-air-strikes-against-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s FM says protests became ‘bloody’ to give Trump intervention excuse",
+          "url": "https://www.aljazeera.com/news/2026/1/12/irans-fm-says-protests-became-bloody-to-give-trump-intervention-excuse?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.15,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Mossad agents are “hiding among Iranian demonstrators”",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/12/mossad-agents-are-hiding-among-iranian?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s FM says ready for war or dialogue over US threats",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/irans-fm-says-ready-for-war-or-dialogue-over-us-threats?traffic_source=rss"
+        },
         {
           "title": "Israel launches air strikes against Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-launches-air-strikes-against-lebanon?traffic_source=rss"
@@ -80,14 +88,6 @@
         {
           "title": "Trump warns of “very strong options” amid Iran unrest",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/trump-warns-of-very-strong-options-amid-iran-unrest?traffic_source=rss"
-        },
-        {
-          "title": "Who is Reza Pahlavi? The exiled prince urging Iranians to ‘seize cities’",
-          "url": "https://www.aljazeera.com/features/2026/1/12/who-is-reza-pahlavi-the-exiled-prince-urging-iranians-to-seize?traffic_source=rss"
-        },
-        {
-          "title": "Man detained after driving truck through anti-Iran protest in Los Angeles",
-          "url": "https://www.aljazeera.com/news/2026/1/12/man-detained-after-driving-truck-through-anti-iran-protest-in-los-angeles?traffic_source=rss"
         }
       ],
       "chg1d": 0.04721857881336298,
@@ -95,7 +95,7 @@
       "chg1m": 0.16284349632675785
     },
     {
-      "symbol": "SPY",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
       "score": 0.97,
       "confianca": 27,
@@ -105,9 +105,9 @@
           "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006613392119041144,
-      "chg5d": 0.015955033154266277,
-      "chg1m": 0.016148395408760962
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "QQQ",
@@ -125,6 +125,21 @@
       "chg1m": 0.002559795216382726
     },
     {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed Chair Powell says he’s under investigation, will not bow to Trump",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006613392119041144,
+      "chg5d": 0.015955033154266277,
+      "chg1m": 0.016148395408760962
+    },
+    {
       "symbol": "IWM",
       "acao": "observar",
       "score": 0.97,
@@ -138,21 +153,6 @@
       "chg1d": 0.007588957292755784,
       "chg5d": 0.046024600048235456,
       "chg1m": 0.03516448546083787
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Chair Powell says he’s under investigation, will not bow to Trump",
-          "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
