@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-01-11T21:12:08.616821Z",
+  "generated_at": "2026-01-12T01:09:03.071330Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 7.99,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli forces kill one person in series of attacks on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/1/11/israeli-forces-kill-one-person-in-series-of-attacks-on-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "How volatile is the situation in Iran?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/11/how-volatile-is-the-situation-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "How Israel is shifting Gaza’s yellow line",
-          "url": "https://www.aljazeera.com/video/birds-eye-view/2026/1/11/how-israel-is-shifting-gazas-yellow-line?traffic_source=rss"
-        },
-        {
-          "title": "Will Elon Musk’s X changing the Iranian flag have any impact on the ground?",
-          "url": "https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground?traffic_source=rss"
-        },
-        {
-          "title": "Trump says no more Venezuelan oil or money to go to Cuba, demands ‘deal’",
-          "url": "https://www.aljazeera.com/news/2026/1/11/trump-says-no-more-venezuelan-oil-or-money-to-go-to-cuba-and-demands-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.99,
+      "score": 7.91,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,9 @@
       "chg1m": 0.0299313452664427
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.4,
+      "score": 7.91,
       "confianca": 95,
       "razoes": [
         {
@@ -86,7 +55,38 @@
           "url": "https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground?traffic_source=rss"
         },
         {
-          "title": "Iran protests live: Tehran says it will hit back at US, Israel if attacked",
+          "title": "Trump says no more Venezuelan oil or money to go to Cuba, demands ‘deal’",
+          "url": "https://www.aljazeera.com/news/2026/1/11/trump-says-no-more-venezuelan-oil-or-money-to-go-to-cuba-and-demands-deal?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.33,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces kill one person in series of attacks on southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/1/11/israeli-forces-kill-one-person-in-series-of-attacks-on-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "How volatile is the situation in Iran?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/11/how-volatile-is-the-situation-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "How Israel is shifting Gaza’s yellow line",
+          "url": "https://www.aljazeera.com/video/birds-eye-view/2026/1/11/how-israel-is-shifting-gazas-yellow-line?traffic_source=rss"
+        },
+        {
+          "title": "Will Elon Musk’s X changing the Iranian flag have any impact on the ground?",
+          "url": "https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground?traffic_source=rss"
+        },
+        {
+          "title": "Iran protests updates: Tehran says will hit back at US, Israel if attacked",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/11/iran-protests-live-tehran-says-it-will-hit-back-at-us-israel-if-attacked?traffic_source=rss"
         }
       ],
