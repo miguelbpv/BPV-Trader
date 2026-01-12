@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-01-12T15:18:01.667278Z",
+  "generated_at": "2026-01-12T18:21:32.029146Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 7.29,
+      "score": 5.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel considers plan to expand settlement in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss"
+        },
+        {
+          "title": "Los Angeles police arrest man who drove through Iran protesters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss"
+        },
         {
           "title": "Iran rejects Trump bomb threats after protest deaths",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iran-rejects-trump-bomb-threats-after-protest-deaths?traffic_source=rss"
@@ -18,26 +26,57 @@
         {
           "title": "Yemen’s Saudi-backed government retakes southern areas from STC: What next?",
           "url": "https://www.aljazeera.com/news/2026/1/12/yemens-saudi-backed-government-retakes-southern-areas-from-stc-what-next?traffic_source=rss"
-        },
-        {
-          "title": "Israeli quadcopter kills three in Gaza’s Khan Younis; police chief slain",
-          "url": "https://www.aljazeera.com/news/2026/1/12/israeli-quadcopter-kills-three-in-gazas-khan-younis-police-chief-slain?traffic_source=rss"
-        },
-        {
-          "title": "Which are Iran’s main opposition groups?",
-          "url": "https://www.aljazeera.com/news/2026/1/12/which-are-irans-main-opposition-groups?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005463895436040337,
-      "chg5d": -0.010130091703988087,
-      "chg1m": 0.013655909516768962
+      "chg1d": 0.006669490901053737,
+      "chg5d": 0.06836014621654918,
+      "chg1m": 0.1679723896226013
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.92,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel considers plan to expand settlement in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss"
+        },
+        {
+          "title": "Los Angeles police arrest man who drove through Iran protesters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects Trump bomb threats after protest deaths",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iran-rejects-trump-bomb-threats-after-protest-deaths?traffic_source=rss"
+        },
+        {
+          "title": "What we know about the protests sweeping Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/12/what-we-know-about-the-protests-sweeping-iran?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s Saudi-backed government retakes southern areas from STC: What next?",
+          "url": "https://www.aljazeera.com/news/2026/1/12/yemens-saudi-backed-government-retakes-southern-areas-from-stc-what-next?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006963788300835715,
+      "chg5d": -0.011622947323523175,
+      "chg1m": 0.012127181440367493
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.29,
+      "score": 5.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel considers plan to expand settlement in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/israel-considers-plan-to-expand-illegal-settlement-in-occupied-east-jerusal?traffic_source=rss"
+        },
+        {
+          "title": "Los Angeles police arrest man who drove through Iran protesters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/los-angeles-police-arrest-man-who-drove-through-iran-protesters?traffic_source=rss"
+        },
         {
           "title": "Iran rejects Trump bomb threats after protest deaths",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iran-rejects-trump-bomb-threats-after-protest-deaths?traffic_source=rss"
@@ -49,50 +88,11 @@
         {
           "title": "Yemen’s Saudi-backed government retakes southern areas from STC: What next?",
           "url": "https://www.aljazeera.com/news/2026/1/12/yemens-saudi-backed-government-retakes-southern-areas-from-stc-what-next?traffic_source=rss"
-        },
-        {
-          "title": "Israeli quadcopter kills three in Gaza’s Khan Younis; police chief slain",
-          "url": "https://www.aljazeera.com/news/2026/1/12/israeli-quadcopter-kills-three-in-gazas-khan-younis-police-chief-slain?traffic_source=rss"
-        },
-        {
-          "title": "Which are Iran’s main opposition groups?",
-          "url": "https://www.aljazeera.com/news/2026/1/12/which-are-irans-main-opposition-groups?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.95,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran rejects Trump bomb threats after protest deaths",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iran-rejects-trump-bomb-threats-after-protest-deaths?traffic_source=rss"
-        },
-        {
-          "title": "What we know about the protests sweeping Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/12/what-we-know-about-the-protests-sweeping-iran?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Saudi-backed government retakes southern areas from STC: What next?",
-          "url": "https://www.aljazeera.com/news/2026/1/12/yemens-saudi-backed-government-retakes-southern-areas-from-stc-what-next?traffic_source=rss"
-        },
-        {
-          "title": "Israeli quadcopter kills three in Gaza’s Khan Younis; police chief slain",
-          "url": "https://www.aljazeera.com/news/2026/1/12/israeli-quadcopter-kills-three-in-gazas-khan-younis-police-chief-slain?traffic_source=rss"
-        },
-        {
-          "title": "Which are Iran’s main opposition groups?",
-          "url": "https://www.aljazeera.com/news/2026/1/12/which-are-irans-main-opposition-groups?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014919325130774375,
-      "chg5d": 0.0771155462595539,
-      "chg1m": 0.17754412958926355
     }
   ]
 }
