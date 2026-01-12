@@ -1,45 +1,18 @@
 {
-  "generated_at": "2026-01-12T04:06:49.220781Z",
+  "generated_at": "2026-01-12T06:25:39.411746Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.88,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump says US military considering ‘very strong options’ for Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-us-military-considering-very-strong-options-for-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill one person in series of attacks on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/1/11/israeli-forces-kill-one-person-in-series-of-attacks-on-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "How volatile is the situation in Iran?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/11/how-volatile-is-the-situation-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "How Israel is shifting Gaza’s yellow line",
-          "url": "https://www.aljazeera.com/video/birds-eye-view/2026/1/11/how-israel-is-shifting-gazas-yellow-line?traffic_source=rss"
-        },
-        {
-          "title": "Will Elon Musk’s X changing the Iranian flag have any impact on the ground?",
-          "url": "https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0025778732545650817,
-      "chg5d": 0.02234392113910193,
-      "chg1m": 0.0299313452664427
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.88,
+      "score": 7.87,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Trump says US military considering ‘very strong options’ for Iran",
+          "title": "Iran protests live: US rhetoric rises as Tehran announces 3-day mourning",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/12/iran-protests-live-us-rhetoric-rises-as-tehran-announces-3-days-mourning?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US considering ‘very strong options’ for Iran",
           "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-us-military-considering-very-strong-options-for-iran?traffic_source=rss"
         },
         {
@@ -53,10 +26,6 @@
         {
           "title": "How Israel is shifting Gaza’s yellow line",
           "url": "https://www.aljazeera.com/video/birds-eye-view/2026/1/11/how-israel-is-shifting-gazas-yellow-line?traffic_source=rss"
-        },
-        {
-          "title": "Will Elon Musk’s X changing the Iranian flag have any impact on the ground?",
-          "url": "https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,13 +33,17 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.3,
+      "score": 7.87,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Trump says US military considering ‘very strong options’ for Iran",
+          "title": "Iran protests live: US rhetoric rises as Tehran announces 3-day mourning",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/12/iran-protests-live-us-rhetoric-rises-as-tehran-announces-3-days-mourning?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US considering ‘very strong options’ for Iran",
           "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-us-military-considering-very-strong-options-for-iran?traffic_source=rss"
         },
         {
@@ -84,10 +57,37 @@
         {
           "title": "How Israel is shifting Gaza’s yellow line",
           "url": "https://www.aljazeera.com/video/birds-eye-view/2026/1/11/how-israel-is-shifting-gazas-yellow-line?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0025778732545650817,
+      "chg5d": 0.02234392113910193,
+      "chg1m": 0.0299313452664427
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.29,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran protests live: US rhetoric rises as Tehran announces 3-day mourning",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/12/iran-protests-live-us-rhetoric-rises-as-tehran-announces-3-days-mourning?traffic_source=rss"
         },
         {
-          "title": "Will Elon Musk’s X changing the Iranian flag have any impact on the ground?",
-          "url": "https://www.aljazeera.com/features/2026/1/11/will-elon-musks-x-changing-the-iranian-flag-have-any-impact-on-the-ground?traffic_source=rss"
+          "title": "Trump says US considering ‘very strong options’ for Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-us-military-considering-very-strong-options-for-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill one person in series of attacks on southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/1/11/israeli-forces-kill-one-person-in-series-of-attacks-on-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "How volatile is the situation in Iran?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/11/how-volatile-is-the-situation-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "How Israel is shifting Gaza’s yellow line",
+          "url": "https://www.aljazeera.com/video/birds-eye-view/2026/1/11/how-israel-is-shifting-gazas-yellow-line?traffic_source=rss"
         }
       ],
       "chg1d": 0.04721857881336298,
@@ -95,7 +95,7 @@
       "chg1m": 0.16284349632675785
     },
     {
-      "symbol": "QQQ",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -105,9 +105,9 @@
           "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009960191467758232,
-      "chg5d": 0.02206745824634651,
-      "chg1m": 0.002559795216382726
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "IWM",
@@ -125,7 +125,7 @@
       "chg1m": 0.03516448546083787
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "QQQ",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.009960191467758232,
+      "chg5d": 0.02206745824634651,
+      "chg1m": 0.002559795216382726
     },
     {
       "symbol": "SPY",
