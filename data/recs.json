@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-13T15:17:19.788244Z",
+  "generated_at": "2026-01-13T18:22:17.882716Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.64,
+      "score": 4.62,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+        },
         {
           "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
           "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
@@ -22,22 +26,53 @@
         {
           "title": "Iran-US diplomacy won’t succeed if “focus on nuclear issue”",
           "url": "https://www.aljazeera.com/video/quotable/2026/1/13/iran-us-diplomacy-wont-succeed-if-focus-on-nuclear?traffic_source=rss"
-        },
-        {
-          "title": "How US sanctions crippled lives of Iranians Trump says he wants to ‘help’",
-          "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
         }
       ],
-      "chg1d": 0.016724212343547658,
-      "chg5d": 0.032318141980718695,
-      "chg1m": 0.03386985286856921
+      "chg1d": 0.008217836151222648,
+      "chg5d": 0.06461190713355303,
+      "chg1m": 0.17033776954177896
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.62,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+        },
+        {
+          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
+          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
+        },
+        {
+          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
+        },
+        {
+          "title": "Why Iran is not repeating 1979",
+          "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
+        },
+        {
+          "title": "Iran-US diplomacy won’t succeed if “focus on nuclear issue”",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/13/iran-us-diplomacy-wont-succeed-if-focus-on-nuclear?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.018385843763487196,
+      "chg5d": 0.034005258545135836,
+      "chg1m": 0.03555950539262477
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.64,
+      "score": 4.62,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+        },
         {
           "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
           "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
@@ -53,127 +88,16 @@
         {
           "title": "Iran-US diplomacy won’t succeed if “focus on nuclear issue”",
           "url": "https://www.aljazeera.com/video/quotable/2026/1/13/iran-us-diplomacy-wont-succeed-if-focus-on-nuclear?traffic_source=rss"
-        },
-        {
-          "title": "How US sanctions crippled lives of Iranians Trump says he wants to ‘help’",
-          "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.64,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
-          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        },
-        {
-          "title": "Why Iran is not repeating 1979",
-          "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
-        },
-        {
-          "title": "Iran-US diplomacy won’t succeed if “focus on nuclear issue”",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/13/iran-us-diplomacy-wont-succeed-if-focus-on-nuclear?traffic_source=rss"
-        },
-        {
-          "title": "How US sanctions crippled lives of Iranians Trump says he wants to ‘help’",
-          "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019991292359045027,
-      "chg5d": 0.07704390468163365,
-      "chg1m": 0.18400438005390835
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Investigation of Fed chief Jerome Powell: What Trump has said about him",
-          "url": "https://www.aljazeera.com/news/2026/1/13/investigation-of-fed-chief-jerome-powell-what-trump-has-said-about-him?traffic_source=rss"
-        },
-        {
-          "title": "Tensions flare in Minnesota as protesters, federal agents square off",
-          "url": "https://www.aljazeera.com/gallery/2026/1/13/tensions-flare-in-minnesota-as-protesters-federal-agents-square-off?traffic_source=rss"
-        }
-      ],
-      "chg1d": -4.7833920627537536e-05,
-      "chg5d": 0.005967084790350049,
-      "chg1m": 0.0024936858595222757
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Investigation of Fed chief Jerome Powell: What Trump has said about him",
-          "url": "https://www.aljazeera.com/news/2026/1/13/investigation-of-fed-chief-jerome-powell-what-trump-has-said-about-him?traffic_source=rss"
-        },
-        {
-          "title": "Tensions flare in Minnesota as protesters, federal agents square off",
-          "url": "https://www.aljazeera.com/gallery/2026/1/13/tensions-flare-in-minnesota-as-protesters-federal-agents-square-off?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Investigation of Fed chief Jerome Powell: What Trump has said about him",
-          "url": "https://www.aljazeera.com/news/2026/1/13/investigation-of-fed-chief-jerome-powell-what-trump-has-said-about-him?traffic_source=rss"
-        },
-        {
-          "title": "Tensions flare in Minnesota as protesters, federal agents square off",
-          "url": "https://www.aljazeera.com/gallery/2026/1/13/tensions-flare-in-minnesota-as-protesters-federal-agents-square-off?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0011472275334608465,
-      "chg5d": 0.01999375195251486,
-      "chg1m": 0.013188518231186878
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Investigation of Fed chief Jerome Powell: What Trump has said about him",
-          "url": "https://www.aljazeera.com/news/2026/1/13/investigation-of-fed-chief-jerome-powell-what-trump-has-said-about-him?traffic_source=rss"
-        },
-        {
-          "title": "Tensions flare in Minnesota as protesters, federal agents square off",
-          "url": "https://www.aljazeera.com/gallery/2026/1/13/tensions-flare-in-minnesota-as-protesters-federal-agents-square-off?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0016542954140053763,
-      "chg5d": 0.003180063890374591,
-      "chg1m": 0.0070229406387394
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.66,
+      "score": 1.65,
       "confianca": 47,
       "razoes": [
         {
@@ -185,33 +109,14 @@
           "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004347384934789176,
-      "chg5d": 0.026944348288104096,
-      "chg1m": 0.13610131452388602
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
-      "razoes": [
-        {
-          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        },
-        {
-          "title": "How US sanctions crippled lives of Iranians Trump says he wants to ‘help’",
-          "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003918377189016522,
-      "chg5d": 0.017225055737104072,
-      "chg1m": 0.09257011645071336
+      "chg1d": -0.002496273112555917,
+      "chg5d": 0.02885363752727034,
+      "chg1m": 0.13821354778953376
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.66,
+      "score": 1.65,
       "confianca": 47,
       "razoes": [
         {
@@ -223,9 +128,28 @@
           "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009323444831239546,
-      "chg5d": 0.015471295873305873,
-      "chg1m": 0.060123362584255456
+      "chg1d": 0.011169971242621455,
+      "chg5d": 0.017329069590376115,
+      "chg1m": 0.06206282589342503
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.65,
+      "confianca": 47,
+      "razoes": [
+        {
+          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
+        },
+        {
+          "title": "How US sanctions crippled lives of Iranians Trump says he wants to ‘help’",
+          "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
+        }
+      ],
+      "chg1d": -3.0141362992407106e-05,
+      "chg5d": 0.013224200592493003,
+      "chg1m": 0.0882729211087419
     }
   ]
 }
