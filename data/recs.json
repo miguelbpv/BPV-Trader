@@ -1,72 +1,10 @@
 {
-  "generated_at": "2026-01-13T01:02:43.984300Z",
+  "generated_at": "2026-01-13T03:59:41.134058Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.48,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration says still considering military strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iranian FM Araghchi warns Iran ready for war if US wants to ‘test’ it",
-          "url": "https://www.aljazeera.com/news/2026/1/12/iranian-fm-araghchi-warns-iran-ready-for-war-if-us-wants-to-test-it?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
-        },
-        {
-          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015324541368894221,
-      "chg5d": 0.07754559493324475,
-      "chg1m": 0.1780142753344446
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.48,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration says still considering military strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iranian FM Araghchi warns Iran ready for war if US wants to ‘test’ it",
-          "url": "https://www.aljazeera.com/news/2026/1/12/iranian-fm-araghchi-warns-iran-ready-for-war-if-us-wants-to-test-it?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
-        },
-        {
-          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.48,
+      "score": 4.26,
       "confianca": 95,
       "razoes": [
         {
@@ -95,9 +33,71 @@
       "chg1m": 0.012017986577767488
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.26,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
+        },
+        {
+          "title": "Trump administration says still considering military strikes on Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iranian FM Araghchi warns Iran ready for war if US wants to ‘test’ it",
+          "url": "https://www.aljazeera.com/news/2026/1/12/iranian-fm-araghchi-warns-iran-ready-for-war-if-us-wants-to-test-it?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
+        },
+        {
+          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.26,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
+        },
+        {
+          "title": "Trump administration says still considering military strikes on Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iranian FM Araghchi warns Iran ready for war if US wants to ‘test’ it",
+          "url": "https://www.aljazeera.com/news/2026/1/12/iranian-fm-araghchi-warns-iran-ready-for-war-if-us-wants-to-test-it?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
+        },
+        {
+          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015324541368894221,
+      "chg5d": 0.07754559493324475,
+      "chg1m": 0.1780142753344446
+    },
+    {
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -109,14 +109,14 @@
           "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.004880298197748076,
+      "chg5d": 0.03470106437700317,
+      "chg1m": 0.02625485655978964
     },
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -135,7 +135,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -152,9 +152,9 @@
       "chg1m": -0.0007010723219834842
     },
     {
-      "symbol": "IWM",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -166,14 +166,14 @@
           "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004880298197748076,
-      "chg5d": 0.03470106437700317,
-      "chg1m": 0.02625485655978964
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -188,7 +188,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -203,7 +203,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
