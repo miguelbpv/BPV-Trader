@@ -1,74 +1,16 @@
 {
-  "generated_at": "2026-01-13T18:22:17.882716Z",
+  "generated_at": "2026-01-13T21:14:15.273114Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.62,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
-        },
-        {
-          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
-          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        },
-        {
-          "title": "Why Iran is not repeating 1979",
-          "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
-        },
-        {
-          "title": "Iran-US diplomacy won’t succeed if “focus on nuclear issue”",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/13/iran-us-diplomacy-wont-succeed-if-focus-on-nuclear?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008217836151222648,
-      "chg5d": 0.06461190713355303,
-      "chg1m": 0.17033776954177896
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.62,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
-        },
-        {
-          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
-          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        },
-        {
-          "title": "Why Iran is not repeating 1979",
-          "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
-        },
-        {
-          "title": "Iran-US diplomacy won’t succeed if “focus on nuclear issue”",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/13/iran-us-diplomacy-wont-succeed-if-focus-on-nuclear?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018385843763487196,
-      "chg5d": 0.034005258545135836,
-      "chg1m": 0.03555950539262477
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.62,
+      "score": 4.49,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump says Iran protest death toll too high",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
+        },
         {
           "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
@@ -84,10 +26,6 @@
         {
           "title": "Why Iran is not repeating 1979",
           "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
-        },
-        {
-          "title": "Iran-US diplomacy won’t succeed if “focus on nuclear issue”",
-          "url": "https://www.aljazeera.com/video/quotable/2026/1/13/iran-us-diplomacy-wont-succeed-if-focus-on-nuclear?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,61 +33,111 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.49,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump says Iran protest death toll too high",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
+        },
+        {
+          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+        },
+        {
+          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
+          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
+        },
         {
           "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
         },
         {
-          "title": "How US sanctions crippled lives of Iranians Trump says he wants to ‘help’",
-          "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
+          "title": "Why Iran is not repeating 1979",
+          "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
         }
       ],
-      "chg1d": -0.002496273112555917,
-      "chg5d": 0.02885363752727034,
-      "chg1m": 0.13821354778953376
+      "chg1d": 0.01190044263841511,
+      "chg5d": 0.06850049804612672,
+      "chg1m": 0.17461253369272228
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.49,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump says Iran protest death toll too high",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
+        },
+        {
+          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+        },
+        {
+          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
+          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
+        },
         {
           "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
         },
         {
-          "title": "How US sanctions crippled lives of Iranians Trump says he wants to ‘help’",
-          "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
+          "title": "Why Iran is not repeating 1979",
+          "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011169971242621455,
-      "chg5d": 0.017329069590376115,
-      "chg1m": 0.06206282589342503
+      "chg1d": 0.01435045317220542,
+      "chg5d": 0.029907975460122742,
+      "chg1m": 0.03145606354848979
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.65,
-      "confianca": 47,
+      "score": 0.8,
+      "confianca": 22,
       "razoes": [
         {
           "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        },
-        {
-          "title": "How US sanctions crippled lives of Iranians Trump says he wants to ‘help’",
-          "url": "https://www.aljazeera.com/news/2026/1/13/how-us-sanctions-crippled-lives-of-iranians-trump-says-he-wants-to-help?traffic_source=rss"
         }
       ],
-      "chg1d": -3.0141362992407106e-05,
-      "chg5d": 0.013224200592493003,
-      "chg1m": 0.0882729211087419
+      "chg1d": -0.002757934713807649,
+      "chg5d": 0.010460251046025139,
+      "chg1m": 0.08530424799081514
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.8,
+      "confianca": 22,
+      "razoes": [
+        {
+          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.008536400787044023,
+      "chg5d": 0.014679457895538275,
+      "chg1m": 0.059296706091822575
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.8,
+      "confianca": 22,
+      "razoes": [
+        {
+          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008827454867588133,
+      "chg5d": 0.022323477084826005,
+      "chg1m": 0.13098927718998268
     }
   ]
 }
