@@ -1,74 +1,20 @@
 {
-  "generated_at": "2026-01-13T06:22:27.288637Z",
+  "generated_at": "2026-01-13T09:21:24.289274Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.51,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration says still considering military strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Minister Araghchi warns Iran ready for war as Trump weighs military options",
-          "url": "https://www.aljazeera.com/news/2026/1/12/iranian-fm-araghchi-warns-iran-ready-for-war-if-us-wants-to-test-it?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
-        },
-        {
-          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.51,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
-        },
-        {
-          "title": "Trump administration says still considering military strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Minister Araghchi warns Iran ready for war as Trump weighs military options",
-          "url": "https://www.aljazeera.com/news/2026/1/12/iranian-fm-araghchi-warns-iran-ready-for-war-if-us-wants-to-test-it?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
-        },
-        {
-          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015324541368894221,
-      "chg5d": 0.07754559493324475,
-      "chg1m": 0.1780142753344446
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.51,
-      "confianca": 95,
+      "score": 2.8,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Iran since 1979: A timeline of crises",
+          "url": "https://www.aljazeera.com/news/2026/1/13/a-timeline-of-crises-faced-by-iran-since-1979?traffic_source=rss"
+        },
+        {
+          "title": "Iran protests live: Tehran says it’s prepared for any move by Trump",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/13/iran-protests-live-tehran-says-its-prepared-for-any-move-by-trump?traffic_source=rss"
+        },
         {
           "title": "Trump says any country doing business with Iran will face 25 percent tariff",
           "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
@@ -76,18 +22,6 @@
         {
           "title": "Trump administration says still considering military strikes on Iran",
           "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Minister Araghchi warns Iran ready for war as Trump weighs military options",
-          "url": "https://www.aljazeera.com/news/2026/1/12/iranian-fm-araghchi-warns-iran-ready-for-war-if-us-wants-to-test-it?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s children study in tents as gunfire rages by Israel’s ‘yellow line’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/gazas-children-study-in-tents-as-gunfire-rages-by-israels-yellow?traffic_source=rss"
-        },
-        {
-          "title": "Iranian president Masoud Pezeshkian joins pro-government rally in Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/iranian-president-masoud-pezeshkian-joins-pro-government-rally-in-tehran?traffic_source=rss"
         }
       ],
       "chg1d": -0.007070923505463859,
@@ -95,37 +29,68 @@
       "chg1m": 0.012017986577767488
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.8,
+      "confianca": 80,
       "razoes": [
         {
-          "title": "US prosecutors open investigation into Federal Reserve Chair Jerome Powell",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/us-prosecutors-open-investigation-into-federal-reserve-chair-jerome-powell?traffic_source=rss"
+          "title": "Iran since 1979: A timeline of crises",
+          "url": "https://www.aljazeera.com/news/2026/1/13/a-timeline-of-crises-faced-by-iran-since-1979?traffic_source=rss"
         },
         {
-          "title": "Republican lawmakers break from US president on Fed chair indictment",
-          "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
+          "title": "Iran protests live: Tehran says it’s prepared for any move by Trump",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/13/iran-protests-live-tehran-says-its-prepared-for-any-move-by-trump?traffic_source=rss"
+        },
+        {
+          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
+        },
+        {
+          "title": "Trump administration says still considering military strikes on Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0015704467849063034,
-      "chg5d": 0.0108183563077996,
-      "chg1m": 0.011038876041711996
+      "chg1d": 0.015324541368894221,
+      "chg5d": 0.07754559493324475,
+      "chg1m": 0.1780142753344446
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.8,
+      "confianca": 80,
+      "razoes": [
+        {
+          "title": "Iran since 1979: A timeline of crises",
+          "url": "https://www.aljazeera.com/news/2026/1/13/a-timeline-of-crises-faced-by-iran-since-1979?traffic_source=rss"
+        },
+        {
+          "title": "Iran protests live: Tehran says it’s prepared for any move by Trump",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/13/iran-protests-live-tehran-says-its-prepared-for-any-move-by-trump?traffic_source=rss"
+        },
+        {
+          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
+        },
+        {
+          "title": "Trump administration says still considering military strikes on Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US prosecutors open investigation into Federal Reserve Chair Jerome Powell",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/us-prosecutors-open-investigation-into-federal-reserve-chair-jerome-powell?traffic_source=rss"
-        },
-        {
-          "title": "Republican lawmakers break from US president on Fed chair indictment",
-          "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
         }
       ],
       "chg1d": 0.0008298093034388922,
@@ -133,18 +98,29 @@
       "chg1m": -0.0007010723219834842
     },
     {
-      "symbol": "IWM",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US prosecutors open investigation into Federal Reserve Chair Jerome Powell",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/us-prosecutors-open-investigation-into-federal-reserve-chair-jerome-powell?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0015704467849063034,
+      "chg5d": 0.0108183563077996,
+      "chg1m": 0.011038876041711996
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.96,
+      "confianca": 27,
+      "razoes": [
         {
-          "title": "Republican lawmakers break from US president on Fed chair indictment",
-          "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
+          "title": "US prosecutors open investigation into Federal Reserve Chair Jerome Powell",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/us-prosecutors-open-investigation-into-federal-reserve-chair-jerome-powell?traffic_source=rss"
         }
       ],
       "chg1d": 0.004880298197748076,
@@ -154,16 +130,12 @@
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US prosecutors open investigation into Federal Reserve Chair Jerome Powell",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/us-prosecutors-open-investigation-into-federal-reserve-chair-jerome-powell?traffic_source=rss"
-        },
-        {
-          "title": "Republican lawmakers break from US president on Fed chair indictment",
-          "url": "https://www.aljazeera.com/economy/2026/1/12/republican-lawmakers-break-from-us-president-on-fed-chair-indictment?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -171,9 +143,24 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
+          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02515217995859465,
+      "chg5d": 0.02954228083785875,
+      "chg1m": 0.0697426968465854
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -188,7 +175,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -199,21 +186,6 @@
       "chg1d": 0.005769774233051707,
       "chg5d": 0.0431855006147257,
       "chg1m": 0.14465032341064227
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump says any country doing business with Iran will face 25 percent tariff",
-          "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02515217995859465,
-      "chg5d": 0.02954228083785875,
-      "chg1m": 0.0697426968465854
     }
   ]
 }
