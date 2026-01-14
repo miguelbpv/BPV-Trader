@@ -1,27 +1,62 @@
 {
-  "generated_at": "2026-01-14T06:23:31.709114Z",
+  "generated_at": "2026-01-14T09:22:07.099763Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.46,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran accuses foreign intelligence behind protest movement",
+          "url": "https://www.aljazeera.com/news/2026/1/14/iran-accuse-foreign-intelligence-behind-protest-movement?traffic_source=rss"
+        },
+        {
+          "title": "Far-right pro-Israel group Betar US to end activity in New York: NY AG says",
+          "url": "https://www.aljazeera.com/news/2026/1/14/far-right-pro-israel-group-betar-us-to-end-activity-in-new-york-ny-ag-says?traffic_source=rss"
+        },
+        {
+          "title": "Trump says ‘help is on the way’ for Iran protesters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/trump-says-help-is-on-the-way-for-iran-protesters?traffic_source=rss"
+        },
+        {
+          "title": "Are Iran’s protests different this time around?",
+          "url": "https://www.aljazeera.com/news/2026/1/14/are-irans-protests-different-this-time-around?traffic_source=rss"
+        },
+        {
+          "title": "‘My leg went to heaven before me’: Israeli war extinguishes Gaza childhoods",
+          "url": "https://www.aljazeera.com/features/2026/1/14/my-leg-went-to-heaven-before-me-israeli-war-extinguishes-gaza-childhoods?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014242555028053442,
+      "chg5d": 0.029798422436459235,
+      "chg1m": 0.03134634585212248
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 4.46,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
+          "title": "Iran accuses foreign intelligence behind protest movement",
+          "url": "https://www.aljazeera.com/news/2026/1/14/iran-accuse-foreign-intelligence-behind-protest-movement?traffic_source=rss"
         },
         {
-          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
-          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
+          "title": "Far-right pro-Israel group Betar US to end activity in New York: NY AG says",
+          "url": "https://www.aljazeera.com/news/2026/1/14/far-right-pro-israel-group-betar-us-to-end-activity-in-new-york-ny-ag-says?traffic_source=rss"
         },
         {
-          "title": "Trump says Iran protest death toll too high",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
+          "title": "Trump says ‘help is on the way’ for Iran protesters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/trump-says-help-is-on-the-way-for-iran-protesters?traffic_source=rss"
         },
         {
-          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+          "title": "Are Iran’s protests different this time around?",
+          "url": "https://www.aljazeera.com/news/2026/1/14/are-irans-protests-different-this-time-around?traffic_source=rss"
+        },
+        {
+          "title": "‘My leg went to heaven before me’: Israeli war extinguishes Gaza childhoods",
+          "url": "https://www.aljazeera.com/features/2026/1/14/my-leg-went-to-heaven-before-me-israeli-war-extinguishes-gaza-childhoods?traffic_source=rss"
         }
       ],
       "chg1d": 0.012807488571221147,
@@ -31,24 +66,28 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "score": 4.46,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
+          "title": "Iran accuses foreign intelligence behind protest movement",
+          "url": "https://www.aljazeera.com/news/2026/1/14/iran-accuse-foreign-intelligence-behind-protest-movement?traffic_source=rss"
         },
         {
-          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
-          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
+          "title": "Far-right pro-Israel group Betar US to end activity in New York: NY AG says",
+          "url": "https://www.aljazeera.com/news/2026/1/14/far-right-pro-israel-group-betar-us-to-end-activity-in-new-york-ny-ag-says?traffic_source=rss"
         },
         {
-          "title": "Trump says Iran protest death toll too high",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
+          "title": "Trump says ‘help is on the way’ for Iran protesters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/trump-says-help-is-on-the-way-for-iran-protesters?traffic_source=rss"
         },
         {
-          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+          "title": "Are Iran’s protests different this time around?",
+          "url": "https://www.aljazeera.com/news/2026/1/14/are-irans-protests-different-this-time-around?traffic_source=rss"
+        },
+        {
+          "title": "‘My leg went to heaven before me’: Israeli war extinguishes Gaza childhoods",
+          "url": "https://www.aljazeera.com/features/2026/1/14/my-leg-went-to-heaven-before-me-israeli-war-extinguishes-gaza-childhoods?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,31 +95,49 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.93,
-      "confianca": 83,
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
-        },
-        {
-          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
-          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Iran protest death toll too high",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
-        },
-        {
-          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+          "title": "China’s trade surplus hits new heights in 2025 despite US tariff war",
+          "url": "https://www.aljazeera.com/news/2026/1/14/chinas-trade-surplus-hits-new-heights-in-2025-despite-us-tariff-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.014242555028053442,
-      "chg5d": 0.029798422436459235,
-      "chg1m": 0.03134634585212248
+      "chg1d": 0.008929922809141785,
+      "chg5d": 0.015075376884422075,
+      "chg1m": 0.059710034338039016
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China’s trade surplus hits new heights in 2025 despite US tariff war",
+          "url": "https://www.aljazeera.com/news/2026/1/14/chinas-trade-surplus-hits-new-heights-in-2025-despite-us-tariff-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008640134870397926,
+      "chg5d": 0.02251668424315123,
+      "chg1m": 0.13120302091126088
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China’s trade surplus hits new heights in 2025 despite US tariff war",
+          "url": "https://www.aljazeera.com/news/2026/1/14/chinas-trade-surplus-hits-new-heights-in-2025-despite-us-tariff-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00168791632757634,
+      "chg5d": 0.011544452249335653,
+      "chg1m": 0.08646875512547139
     }
   ]
 }
