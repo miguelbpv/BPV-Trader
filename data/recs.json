@@ -1,74 +1,16 @@
 {
-  "generated_at": "2026-01-14T01:08:10.997963Z",
+  "generated_at": "2026-01-14T04:04:58.805151Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.46,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
-          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Iran protest death toll too high",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
-        },
-        {
-          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
-        },
-        {
-          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
-          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014242555028053442,
-      "chg5d": 0.029798422436459235,
-      "chg1m": 0.03134634585212248
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.46,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
-          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Iran protest death toll too high",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
-        },
-        {
-          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
-        },
-        {
-          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
-          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.012807488571221147,
-      "chg5d": 0.06945827905907592,
-      "chg1m": 0.17566543126684628
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.46,
+      "score": 4.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
+        },
         {
           "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
           "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
@@ -84,10 +26,6 @@
         {
           "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
           "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,9 +33,71 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
+        },
+        {
+          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
+          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Iran protest death toll too high",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
+        },
+        {
+          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+        },
+        {
+          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
+          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012807488571221147,
+      "chg5d": 0.06945827905907592,
+      "chg1m": 0.17566543126684628
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
+        },
+        {
+          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
+          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Iran protest death toll too high",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
+        },
+        {
+          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+        },
+        {
+          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
+          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014242555028053442,
+      "chg5d": 0.029798422436459235,
+      "chg1m": 0.03134634585212248
+    },
+    {
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.79,
+      "score": 0.78,
       "confianca": 22,
       "razoes": [
         {
@@ -105,14 +105,14 @@
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
         }
       ],
-      "chg1d": 0.008929922809141785,
-      "chg5d": 0.015075376884422075,
-      "chg1m": 0.059710034338039016
+      "chg1d": -0.008640134870397926,
+      "chg5d": 0.02251668424315123,
+      "chg1m": 0.13120302091126088
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.79,
+      "score": 0.78,
       "confianca": 22,
       "razoes": [
         {
@@ -125,9 +125,9 @@
       "chg1m": 0.08646875512547139
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.79,
+      "score": 0.78,
       "confianca": 22,
       "razoes": [
         {
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
         }
       ],
-      "chg1d": -0.008640134870397926,
-      "chg5d": 0.02251668424315123,
-      "chg1m": 0.13120302091126088
+      "chg1d": 0.008929922809141785,
+      "chg5d": 0.015075376884422075,
+      "chg1m": 0.059710034338039016
     }
   ]
 }
