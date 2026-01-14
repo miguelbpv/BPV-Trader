@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-13T21:14:15.273114Z",
+  "generated_at": "2026-01-14T01:08:10.997963Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.49,
+      "score": 4.46,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
+          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
+        },
         {
           "title": "Trump says Iran protest death toll too high",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
@@ -22,10 +26,68 @@
         {
           "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014242555028053442,
+      "chg5d": 0.029798422436459235,
+      "chg1m": 0.03134634585212248
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.46,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
+          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
         },
         {
-          "title": "Why Iran is not repeating 1979",
-          "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
+          "title": "Trump says Iran protest death toll too high",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
+        },
+        {
+          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+        },
+        {
+          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
+          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
+        },
+        {
+          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012807488571221147,
+      "chg5d": 0.06945827905907592,
+      "chg1m": 0.17566543126684628
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.46,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
+          "url": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Iran protest death toll too high",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
+        },
+        {
+          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
+        },
+        {
+          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
+          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
+        },
+        {
+          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
+          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,71 +95,24 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.49,
-      "confianca": 95,
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.79,
+      "confianca": 22,
       "razoes": [
-        {
-          "title": "Trump says Iran protest death toll too high",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
-        },
-        {
-          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
-        },
-        {
-          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
-          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
-        },
         {
           "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        },
-        {
-          "title": "Why Iran is not repeating 1979",
-          "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01190044263841511,
-      "chg5d": 0.06850049804612672,
-      "chg1m": 0.17461253369272228
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.49,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump says Iran protest death toll too high",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/trump-says-iran-protest-death-toll-too-high?traffic_source=rss"
-        },
-        {
-          "title": "Trump cancels US-Iran meetings, urges protesters to take over institutions",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-cancels-iran-meetings-urges-protesters-to-take-over-institutions?traffic_source=rss"
-        },
-        {
-          "title": "‘Last straw’: Somalia cuts UAE ties after Yemen separatist’s illegal entry",
-          "url": "https://www.aljazeera.com/news/2026/1/13/last-straw-somalia-cuts-uae-ties-after-yemen-separatists-illegal-entry?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        },
-        {
-          "title": "Why Iran is not repeating 1979",
-          "url": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01435045317220542,
-      "chg5d": 0.029907975460122742,
-      "chg1m": 0.03145606354848979
+      "chg1d": 0.008929922809141785,
+      "chg5d": 0.015075376884422075,
+      "chg1m": 0.059710034338039016
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.8,
+      "score": 0.79,
       "confianca": 22,
       "razoes": [
         {
@@ -105,29 +120,14 @@
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
         }
       ],
-      "chg1d": -0.002757934713807649,
-      "chg5d": 0.010460251046025139,
-      "chg1m": 0.08530424799081514
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.8,
-      "confianca": 22,
-      "razoes": [
-        {
-          "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
-          "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008536400787044023,
-      "chg5d": 0.014679457895538275,
-      "chg1m": 0.059296706091822575
+      "chg1d": -0.00168791632757634,
+      "chg5d": 0.011544452249335653,
+      "chg1m": 0.08646875512547139
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.8,
+      "score": 0.79,
       "confianca": 22,
       "razoes": [
         {
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
         }
       ],
-      "chg1d": -0.008827454867588133,
-      "chg5d": 0.022323477084826005,
-      "chg1m": 0.13098927718998268
+      "chg1d": -0.008640134870397926,
+      "chg5d": 0.02251668424315123,
+      "chg1m": 0.13120302091126088
     }
   ]
 }
