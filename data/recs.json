@@ -1,81 +1,27 @@
 {
-  "generated_at": "2026-01-15T04:02:11.765148Z",
+  "generated_at": "2026-01-15T06:22:28.451535Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Trump says he’s been assured killings in Iran ‘stopped’",
-          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
-        },
-        {
-          "title": "Timeline of how Iran’s deadly protests unfolded",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
-        },
-        {
-          "title": "Is Starlink helping Iranians break internet blackout, and how does it work?",
-          "url": "https://www.aljazeera.com/news/2026/1/14/is-starlink-helping-iranians-break-internet-blackout-and-how-does-it-work?traffic_source=rss"
-        },
-        {
-          "title": "Mapping who controls what in Yemen in 2026",
-          "url": "https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02579258463191849,
-      "chg5d": 0.1526153722301609,
-      "chg1m": 0.19250390421655397
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Trump says he’s been assured killings in Iran ‘stopped’",
-          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
-        },
-        {
-          "title": "Timeline of how Iran’s deadly protests unfolded",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
-        },
-        {
-          "title": "Is Starlink helping Iranians break internet blackout, and how does it work?",
-          "url": "https://www.aljazeera.com/news/2026/1/14/is-starlink-helping-iranians-break-internet-blackout-and-how-does-it-work?traffic_source=rss"
-        },
-        {
-          "title": "Mapping who controls what in Yemen in 2026",
-          "url": "https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02255319148936175,
-      "chg5d": 0.06492355417682251,
-      "chg1m": 0.06503447068495942
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.94,
+      "score": 2.96,
       "confianca": 84,
       "razoes": [
         {
-          "title": "Trump says he’s been assured killings in Iran ‘stopped’",
+          "title": "Iran reopens airspace after closure to most flights amid US attack threats",
+          "url": "https://www.aljazeera.com/news/2026/1/15/iran-closes-airspace-to-most-flights-amid-threat-of-us-attack-monitors?traffic_source=rss"
+        },
+        {
+          "title": "Iran-US live: Tension lingers amid threats as Tehran reopens airspace",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/15/iran-us-live-tension-lingers-amid-threats-as-tehran-reopens-airspace?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s FM says no executions of protesters, as Trump lowers rhetoric",
           "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
         },
         {
           "title": "Timeline of how Iran’s deadly protests unfolded",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
-        },
-        {
-          "title": "Is Starlink helping Iranians break internet blackout, and how does it work?",
-          "url": "https://www.aljazeera.com/news/2026/1/14/is-starlink-helping-iranians-break-internet-blackout-and-how-does-it-work?traffic_source=rss"
-        },
-        {
-          "title": "Mapping who controls what in Yemen in 2026",
-          "url": "https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -83,9 +29,78 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Iran reopens airspace after closure to most flights amid US attack threats",
+          "url": "https://www.aljazeera.com/news/2026/1/15/iran-closes-airspace-to-most-flights-amid-threat-of-us-attack-monitors?traffic_source=rss"
+        },
+        {
+          "title": "Iran-US live: Tension lingers amid threats as Tehran reopens airspace",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/15/iran-us-live-tension-lingers-amid-threats-as-tehran-reopens-airspace?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s FM says no executions of protesters, as Trump lowers rhetoric",
+          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
+        },
+        {
+          "title": "Timeline of how Iran’s deadly protests unfolded",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02255319148936175,
+      "chg5d": 0.06492355417682251,
+      "chg1m": 0.06503447068495942
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Iran reopens airspace after closure to most flights amid US attack threats",
+          "url": "https://www.aljazeera.com/news/2026/1/15/iran-closes-airspace-to-most-flights-amid-threat-of-us-attack-monitors?traffic_source=rss"
+        },
+        {
+          "title": "Iran-US live: Tension lingers amid threats as Tehran reopens airspace",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/15/iran-us-live-tension-lingers-amid-threats-as-tehran-reopens-airspace?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s FM says no executions of protesters, as Trump lowers rhetoric",
+          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
+        },
+        {
+          "title": "Timeline of how Iran’s deadly protests unfolded",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02579258463191849,
+      "chg5d": 0.1526153722301609,
+      "chg1m": 0.19250390421655397
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.72,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Why is the US Fed chair criminal probe causing global alarm?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0049151736166164126,
+      "chg5d": 0.001131123292438836,
+      "chg1m": 0.012614409762966473
+    },
+    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -98,24 +113,9 @@
       "chg1m": 0.009663961409341204
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Why is the US Fed chair criminal probe causing global alarm?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -128,9 +128,9 @@
       "chg1m": 0.0367933819184558
     },
     {
-      "symbol": "SPY",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -138,9 +138,9 @@
           "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0049151736166164126,
-      "chg5d": 0.001131123292438836,
-      "chg1m": 0.012614409762966473
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
