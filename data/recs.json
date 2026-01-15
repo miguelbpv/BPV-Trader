@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-15T01:04:17.846615Z",
+  "generated_at": "2026-01-15T04:02:11.765148Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.96,
+      "score": 2.94,
       "confianca": 84,
       "razoes": [
         {
@@ -31,7 +31,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.96,
+      "score": 2.94,
       "confianca": 84,
       "razoes": [
         {
@@ -58,7 +58,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.96,
+      "score": 2.94,
       "confianca": 84,
       "razoes": [
         {
@@ -83,40 +83,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Why is the US Fed chair criminal probe causing global alarm?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0049151736166164126,
-      "chg5d": 0.001131123292438836,
-      "chg1m": 0.012614409762966473
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Why is the US Fed chair criminal probe causing global alarm?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007116893055289676,
-      "chg5d": 0.03025677156724593,
-      "chg1m": 0.03687216860350595
-    },
-    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Why is the US Fed chair criminal probe causing global alarm?",
@@ -130,8 +100,8 @@
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Why is the US Fed chair criminal probe causing global alarm?",
@@ -141,6 +111,36 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Why is the US Fed chair criminal probe causing global alarm?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007040367323512434,
+      "chg5d": 0.03017848755284174,
+      "chg1m": 0.0367933819184558
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Why is the US Fed chair criminal probe causing global alarm?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0049151736166164126,
+      "chg5d": 0.001131123292438836,
+      "chg1m": 0.012614409762966473
     }
   ]
 }
