@@ -1,27 +1,62 @@
 {
-  "generated_at": "2026-01-15T06:22:28.451535Z",
+  "generated_at": "2026-01-15T09:21:00.845278Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 3.72,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Wary of Israeli appropriation, Palestine lists 14 sites with UNESCO",
+          "url": "https://www.aljazeera.com/features/2026/1/15/wary-of-israeli-appropriation-palestine-lists-14-sites-with-unesco?traffic_source=rss"
+        },
+        {
+          "title": "Gaza plan phase two: US to discuss Hamas disarmament, Israeli withdrawal",
+          "url": "https://www.aljazeera.com/news/2026/1/15/gaza-plan-phase-two-us-to-discuss-hamas-disarmament-israeli-withdrawal?traffic_source=rss"
+        },
+        {
+          "title": "Trump says ‘we’ve been told killing has stopped’ in Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/trump-says-weve-been-told-killing-has-stopped-in-iran?traffic_source=rss"
+        },
         {
           "title": "Iran reopens airspace after closure to most flights amid US attack threats",
           "url": "https://www.aljazeera.com/news/2026/1/15/iran-closes-airspace-to-most-flights-amid-threat-of-us-attack-monitors?traffic_source=rss"
         },
         {
-          "title": "Iran-US live: Tension lingers amid threats as Tehran reopens airspace",
+          "title": "Iran-US live: Tension lingers amid Trump’s threats, Tehran reopens airspace",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/15/iran-us-live-tension-lingers-amid-threats-as-tehran-reopens-airspace?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02579258463191849,
+      "chg5d": 0.1526153722301609,
+      "chg1m": 0.19250390421655397
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.72,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Wary of Israeli appropriation, Palestine lists 14 sites with UNESCO",
+          "url": "https://www.aljazeera.com/features/2026/1/15/wary-of-israeli-appropriation-palestine-lists-14-sites-with-unesco?traffic_source=rss"
         },
         {
-          "title": "Iran’s FM says no executions of protesters, as Trump lowers rhetoric",
-          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
+          "title": "Gaza plan phase two: US to discuss Hamas disarmament, Israeli withdrawal",
+          "url": "https://www.aljazeera.com/news/2026/1/15/gaza-plan-phase-two-us-to-discuss-hamas-disarmament-israeli-withdrawal?traffic_source=rss"
         },
         {
-          "title": "Timeline of how Iran’s deadly protests unfolded",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
+          "title": "Trump says ‘we’ve been told killing has stopped’ in Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/trump-says-weve-been-told-killing-has-stopped-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iran reopens airspace after closure to most flights amid US attack threats",
+          "url": "https://www.aljazeera.com/news/2026/1/15/iran-closes-airspace-to-most-flights-amid-threat-of-us-attack-monitors?traffic_source=rss"
+        },
+        {
+          "title": "Iran-US live: Tension lingers amid Trump’s threats, Tehran reopens airspace",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/15/iran-us-live-tension-lingers-amid-threats-as-tehran-reopens-airspace?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,116 +66,33 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 3.72,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Wary of Israeli appropriation, Palestine lists 14 sites with UNESCO",
+          "url": "https://www.aljazeera.com/features/2026/1/15/wary-of-israeli-appropriation-palestine-lists-14-sites-with-unesco?traffic_source=rss"
+        },
+        {
+          "title": "Gaza plan phase two: US to discuss Hamas disarmament, Israeli withdrawal",
+          "url": "https://www.aljazeera.com/news/2026/1/15/gaza-plan-phase-two-us-to-discuss-hamas-disarmament-israeli-withdrawal?traffic_source=rss"
+        },
+        {
+          "title": "Trump says ‘we’ve been told killing has stopped’ in Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/trump-says-weve-been-told-killing-has-stopped-in-iran?traffic_source=rss"
+        },
         {
           "title": "Iran reopens airspace after closure to most flights amid US attack threats",
           "url": "https://www.aljazeera.com/news/2026/1/15/iran-closes-airspace-to-most-flights-amid-threat-of-us-attack-monitors?traffic_source=rss"
         },
         {
-          "title": "Iran-US live: Tension lingers amid threats as Tehran reopens airspace",
+          "title": "Iran-US live: Tension lingers amid Trump’s threats, Tehran reopens airspace",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/15/iran-us-live-tension-lingers-amid-threats-as-tehran-reopens-airspace?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s FM says no executions of protesters, as Trump lowers rhetoric",
-          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
-        },
-        {
-          "title": "Timeline of how Iran’s deadly protests unfolded",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
         }
       ],
       "chg1d": 0.02255319148936175,
       "chg5d": 0.06492355417682251,
       "chg1m": 0.06503447068495942
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Iran reopens airspace after closure to most flights amid US attack threats",
-          "url": "https://www.aljazeera.com/news/2026/1/15/iran-closes-airspace-to-most-flights-amid-threat-of-us-attack-monitors?traffic_source=rss"
-        },
-        {
-          "title": "Iran-US live: Tension lingers amid threats as Tehran reopens airspace",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/15/iran-us-live-tension-lingers-amid-threats-as-tehran-reopens-airspace?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s FM says no executions of protesters, as Trump lowers rhetoric",
-          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
-        },
-        {
-          "title": "Timeline of how Iran’s deadly protests unfolded",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02579258463191849,
-      "chg5d": 0.1526153722301609,
-      "chg1m": 0.19250390421655397
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Why is the US Fed chair criminal probe causing global alarm?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0049151736166164126,
-      "chg5d": 0.001131123292438836,
-      "chg1m": 0.012614409762966473
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Why is the US Fed chair criminal probe causing global alarm?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010682805314256602,
-      "chg5d": -0.007163231947694028,
-      "chg1m": 0.009663961409341204
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Why is the US Fed chair criminal probe causing global alarm?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007040367323512434,
-      "chg5d": 0.03017848755284174,
-      "chg1m": 0.0367933819184558
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.72,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Why is the US Fed chair criminal probe causing global alarm?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
