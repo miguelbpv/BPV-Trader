@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-14T21:14:11.698467Z",
+  "generated_at": "2026-01-15T01:04:17.846615Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.18,
-      "confianca": 95,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Trump says he’s been assured killings in Iran ‘stopped’",
+          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
+        },
         {
           "title": "Timeline of how Iran’s deadly protests unfolded",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
@@ -18,26 +22,49 @@
         {
           "title": "Mapping who controls what in Yemen in 2026",
           "url": "https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss"
-        },
-        {
-          "title": "Are western leaders guilty of hypocrisy over calls for free speech in Iran?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/are-western-leaders-guilty-of-hypocrisy-over-calls-for-free-speech-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Is the Yemeni government getting ready to attack the Houthis?",
-          "url": "https://www.aljazeera.com/news/2026/1/14/is-yemeni-government-getting-ready-to-attack-the-houthis?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02148936170212762,
-      "chg5d": 0.06381564369598926,
-      "chg1m": 0.0639264448103391
+      "chg1d": 0.02579258463191849,
+      "chg5d": 0.1526153722301609,
+      "chg1m": 0.19250390421655397
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Trump says he’s been assured killings in Iran ‘stopped’",
+          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
+        },
+        {
+          "title": "Timeline of how Iran’s deadly protests unfolded",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
+        },
+        {
+          "title": "Is Starlink helping Iranians break internet blackout, and how does it work?",
+          "url": "https://www.aljazeera.com/news/2026/1/14/is-starlink-helping-iranians-break-internet-blackout-and-how-does-it-work?traffic_source=rss"
+        },
+        {
+          "title": "Mapping who controls what in Yemen in 2026",
+          "url": "https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02255319148936175,
+      "chg5d": 0.06492355417682251,
+      "chg1m": 0.06503447068495942
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.18,
-      "confianca": 95,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Trump says he’s been assured killings in Iran ‘stopped’",
+          "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss"
+        },
         {
           "title": "Timeline of how Iran’s deadly protests unfolded",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
@@ -49,14 +76,6 @@
         {
           "title": "Mapping who controls what in Yemen in 2026",
           "url": "https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss"
-        },
-        {
-          "title": "Are western leaders guilty of hypocrisy over calls for free speech in Iran?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/are-western-leaders-guilty-of-hypocrisy-over-calls-for-free-speech-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Is the Yemeni government getting ready to attack the Houthis?",
-          "url": "https://www.aljazeera.com/news/2026/1/14/is-yemeni-government-getting-ready-to-attack-the-houthis?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,35 +83,64 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.18,
-      "confianca": 95,
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Timeline of how Iran’s deadly protests unfolded",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/timeline-of-how-irans-deadly-protests-unfolded?traffic_source=rss"
-        },
-        {
-          "title": "Is Starlink helping Iranians break internet blackout, and how does it work?",
-          "url": "https://www.aljazeera.com/news/2026/1/14/is-starlink-helping-iranians-break-internet-blackout-and-how-does-it-work?traffic_source=rss"
-        },
-        {
-          "title": "Mapping who controls what in Yemen in 2026",
-          "url": "https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss"
-        },
-        {
-          "title": "Are western leaders guilty of hypocrisy over calls for free speech in Iran?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/14/are-western-leaders-guilty-of-hypocrisy-over-calls-for-free-speech-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Is the Yemeni government getting ready to attack the Houthis?",
-          "url": "https://www.aljazeera.com/news/2026/1/14/is-yemeni-government-getting-ready-to-attack-the-houthis?traffic_source=rss"
+          "title": "Why is the US Fed chair criminal probe causing global alarm?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
         }
       ],
-      "chg1d": 0.025291062152964366,
-      "chg5d": 0.15205184454686327,
-      "chg1m": 0.19192087454450799
+      "chg1d": -0.0049151736166164126,
+      "chg5d": 0.001131123292438836,
+      "chg1m": 0.012614409762966473
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Why is the US Fed chair criminal probe causing global alarm?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007116893055289676,
+      "chg5d": 0.03025677156724593,
+      "chg1m": 0.03687216860350595
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Why is the US Fed chair criminal probe causing global alarm?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010682805314256602,
+      "chg5d": -0.007163231947694028,
+      "chg1m": 0.009663961409341204
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Why is the US Fed chair criminal probe causing global alarm?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/14/why-is-the-us-fed-chair-criminal-probe-causing-global-alarm?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
