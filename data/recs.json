@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-01-16T01:06:23.466025Z",
+  "generated_at": "2026-01-16T03:59:22.532101Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 8.53,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel kills 10 in Gaza as US declares phase two of ceasefire deal launched",
-          "url": "https://www.aljazeera.com/news/2026/1/15/israel-kills-six-in-gaza-as-us-declares-phase-two-of-peace-plan-launched?traffic_source=rss"
-        },
-        {
-          "title": "US says ‘all options on the table’ if Iran protest killings continue",
-          "url": "https://www.aljazeera.com/news/2026/1/15/us-says-all-options-on-the-table-if-iran-protest-killings-continue?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s key leaders",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/irans-key-leaders?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions Khamenei aide, other Iranian officials over protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/15/us-sanctions-khamenei-aide-other-iranian-officials-over-protest-crackdown?traffic_source=rss"
-        },
-        {
-          "title": "US seizes another Venezuela-linked oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/us-seizes-another-venezuela-linked-oil-tanker-2?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009675405742821544,
-      "chg5d": 0.02244897959183677,
-      "chg1m": 0.06219871451526511
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.53,
+      "score": 9.36,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US seizes sixth tanker as Venezuela’s interim leader vows oil sector reform",
+          "url": "https://www.aljazeera.com/news/2026/1/16/us-seizes-sixth-tanker-as-venezuelas-interim-leader-vows-oil-sector-reform?traffic_source=rss"
+        },
+        {
+          "title": "UN Security Council holds emergency meeting on deadly protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/16/un-security-council-holds-emergency-meeting-on-deadly-protests-in-iran?traffic_source=rss"
+        },
         {
           "title": "Israel kills 10 in Gaza as US declares phase two of ceasefire deal launched",
           "url": "https://www.aljazeera.com/news/2026/1/15/israel-kills-six-in-gaza-as-us-declares-phase-two-of-peace-plan-launched?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Iran’s key leaders",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/irans-key-leaders?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions Khamenei aide, other Iranian officials over protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/15/us-sanctions-khamenei-aide-other-iranian-officials-over-protest-crackdown?traffic_source=rss"
-        },
-        {
-          "title": "US seizes another Venezuela-linked oil tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/us-seizes-another-venezuela-linked-oil-tanker-2?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,46 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.19,
+      "score": 9.36,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US seizes sixth tanker as Venezuela’s interim leader vows oil sector reform",
+          "url": "https://www.aljazeera.com/news/2026/1/16/us-seizes-sixth-tanker-as-venezuelas-interim-leader-vows-oil-sector-reform?traffic_source=rss"
+        },
+        {
+          "title": "UN Security Council holds emergency meeting on deadly protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/16/un-security-council-holds-emergency-meeting-on-deadly-protests-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills 10 in Gaza as US declares phase two of ceasefire deal launched",
+          "url": "https://www.aljazeera.com/news/2026/1/15/israel-kills-six-in-gaza-as-us-declares-phase-two-of-peace-plan-launched?traffic_source=rss"
+        },
+        {
+          "title": "US says ‘all options on the table’ if Iran protest killings continue",
+          "url": "https://www.aljazeera.com/news/2026/1/15/us-says-all-options-on-the-table-if-iran-protest-killings-continue?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s key leaders",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/irans-key-leaders?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.009675405742821544,
+      "chg5d": 0.02244897959183677,
+      "chg1m": 0.06219871451526511
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.69,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "UN Security Council holds emergency meeting on deadly protests in Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/16/un-security-council-holds-emergency-meeting-on-deadly-protests-in-iran?traffic_source=rss"
+        },
         {
           "title": "Israel kills 10 in Gaza as US declares phase two of ceasefire deal launched",
           "url": "https://www.aljazeera.com/news/2026/1/15/israel-kills-six-in-gaza-as-us-declares-phase-two-of-peace-plan-launched?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "US sanctions Khamenei aide, other Iranian officials over protest crackdown",
           "url": "https://www.aljazeera.com/news/2026/1/15/us-sanctions-khamenei-aide-other-iranian-officials-over-protest-crackdown?traffic_source=rss"
-        },
-        {
-          "title": "Timeline of Israel’s genocide on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/timeline-of-israels-genocide-on-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.009062336301728549,
@@ -95,7 +95,7 @@
       "chg1m": 0.19295239668056638
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
       "score": 0.84,
       "confianca": 24,
@@ -105,9 +105,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/15/us-sanctions-khamenei-aide-other-iranian-officials-over-protest-crackdown?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01602892437481184,
-      "chg5d": 0.05519744664872659,
-      "chg1m": 0.13157276601456339
+      "chg1d": 0.04441930848949886,
+      "chg5d": 0.07430583943901134,
+      "chg1m": 0.1873218878153888
     },
     {
       "symbol": "ASML.AS",
@@ -125,7 +125,7 @@
       "chg1m": 0.22409957529738375
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.84,
       "confianca": 24,
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/15/us-sanctions-khamenei-aide-other-iranian-officials-over-protest-crackdown?traffic_source=rss"
         }
       ],
-      "chg1d": 0.04441930848949886,
-      "chg5d": 0.07430583943901134,
-      "chg1m": 0.1873218878153888
+      "chg1d": 0.01602892437481184,
+      "chg5d": 0.05519744664872659,
+      "chg1m": 0.13157276601456339
     }
   ]
 }
