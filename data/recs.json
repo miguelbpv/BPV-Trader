@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-01-16T12:28:12.092862Z",
+  "generated_at": "2026-01-16T15:16:18.478758Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.73,
-      "confianca": 95,
+      "score": 3.22,
+      "confianca": 92,
       "razoes": [
+        {
+          "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
+          "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
+          "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
+        },
         {
           "title": "Why is Iran’s economy failing, prompting deadly protests?",
           "url": "https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests?traffic_source=rss"
@@ -18,57 +26,26 @@
         {
           "title": "Why Israel’s recognition of Somaliland backfired",
           "url": "https://www.aljazeera.com/opinions/2026/1/16/why-israels-recognition-of-somaliland-backfired?traffic_source=rss"
-        },
-        {
-          "title": "Regained momentum sets Yemen government’s eyes on Houthis in the north",
-          "url": "https://www.aljazeera.com/news/2026/1/16/regained-momentum-sets-yemen-governments-eyes-on-houthis-in-the-north?traffic_source=rss"
-        },
-        {
-          "title": "What happened at emergency UN Security Council on Iran protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/what-happened-at-emergency-un-security-council-on-iran-protests?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009062336301728549,
-      "chg5d": 0.11467093588457666,
-      "chg1m": 0.19295239668056638
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.73,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Why is Iran’s economy failing, prompting deadly protests?",
-          "url": "https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests?traffic_source=rss"
-        },
-        {
-          "title": "What does Israel want in Somaliland?",
-          "url": "https://www.aljazeera.com/features/2026/1/16/what-does-israel-want-in-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Why Israel’s recognition of Somaliland backfired",
-          "url": "https://www.aljazeera.com/opinions/2026/1/16/why-israels-recognition-of-somaliland-backfired?traffic_source=rss"
-        },
-        {
-          "title": "Regained momentum sets Yemen government’s eyes on Houthis in the north",
-          "url": "https://www.aljazeera.com/news/2026/1/16/regained-momentum-sets-yemen-governments-eyes-on-houthis-in-the-north?traffic_source=rss"
-        },
-        {
-          "title": "What happened at emergency UN Security Council on Iran protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/what-happened-at-emergency-un-security-council-on-iran-protests?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.009363295880149872,
-      "chg5d": 0.02277121374865741,
-      "chg1m": 0.06253347616497053
+      "chg1d": 0.0004326082818529478,
+      "chg5d": 0.0648714359389966,
+      "chg1m": 0.21188110510208355
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.73,
-      "confianca": 95,
+      "score": 3.22,
+      "confianca": 92,
       "razoes": [
+        {
+          "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
+          "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
+          "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
+        },
         {
           "title": "Why is Iran’s economy failing, prompting deadly protests?",
           "url": "https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests?traffic_source=rss"
@@ -80,14 +57,6 @@
         {
           "title": "Why Israel’s recognition of Somaliland backfired",
           "url": "https://www.aljazeera.com/opinions/2026/1/16/why-israels-recognition-of-somaliland-backfired?traffic_source=rss"
-        },
-        {
-          "title": "Regained momentum sets Yemen government’s eyes on Houthis in the north",
-          "url": "https://www.aljazeera.com/news/2026/1/16/regained-momentum-sets-yemen-governments-eyes-on-houthis-in-the-north?traffic_source=rss"
-        },
-        {
-          "title": "What happened at emergency UN Security Council on Iran protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/what-happened-at-emergency-un-security-council-on-iran-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,49 +64,35 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.22,
+      "confianca": 92,
       "razoes": [
         {
-          "title": "Taiwan and US seal deal to lower tariffs, boost chip investment",
-          "url": "https://www.aljazeera.com/news/2026/1/16/taiwan-and-us-seal-deal-to-lower-tariffs-boost-chip-investment?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.04441930848949886,
-      "chg5d": 0.07430583943901134,
-      "chg1m": 0.1873218878153888
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
-      "razoes": [
+          "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
+          "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
+        },
         {
-          "title": "Taiwan and US seal deal to lower tariffs, boost chip investment",
-          "url": "https://www.aljazeera.com/news/2026/1/16/taiwan-and-us-seal-deal-to-lower-tariffs-boost-chip-investment?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.05371443041179999,
-      "chg5d": 0.11494406859133229,
-      "chg1m": 0.22409957529738375
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
-      "razoes": [
+          "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
+          "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
+        },
         {
-          "title": "Taiwan and US seal deal to lower tariffs, boost chip investment",
-          "url": "https://www.aljazeera.com/news/2026/1/16/taiwan-and-us-seal-deal-to-lower-tariffs-boost-chip-investment?traffic_source=rss"
+          "title": "Why is Iran’s economy failing, prompting deadly protests?",
+          "url": "https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests?traffic_source=rss"
+        },
+        {
+          "title": "What does Israel want in Somaliland?",
+          "url": "https://www.aljazeera.com/features/2026/1/16/what-does-israel-want-in-somaliland?traffic_source=rss"
+        },
+        {
+          "title": "Why Israel’s recognition of Somaliland backfired",
+          "url": "https://www.aljazeera.com/opinions/2026/1/16/why-israels-recognition-of-somaliland-backfired?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01602892437481184,
-      "chg5d": 0.05519744664872659,
-      "chg1m": 0.13157276601456339
+      "chg1d": 0.0008401596303297447,
+      "chg5d": 0.020998500107135137,
+      "chg1m": 0.09692286088531911
     }
   ]
 }
