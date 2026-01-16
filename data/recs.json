@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-01-16T18:21:20.325237Z",
+  "generated_at": "2026-01-16T21:13:40.330485Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.56,
+      "score": 5.03,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Donald Trump praises Iran for halting mass executions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/donald-trump-praises-iran-for-halting-mass-executions?traffic_source=rss"
+        },
+        {
+          "title": "Iran in limbo: What’s next for country under internet blackout?",
+          "url": "https://www.aljazeera.com/features/2026/1/16/iran-in-limbo-whats-next-for-country-under-internet-blackout?traffic_source=rss"
+        },
         {
           "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
           "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Why is Venezuela ‘uninvestable’ for Big Oil?",
           "url": "https://www.aljazeera.com/video/the-take-2/2026/1/16/aje-onl-ven_venezuelaoil_av_v3-150126?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0021003990758244363,
+      "chg5d": 0.022284122562674074,
+      "chg1m": 0.09830408589377916
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.03,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Donald Trump praises Iran for halting mass executions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/donald-trump-praises-iran-for-halting-mass-executions?traffic_source=rss"
         },
         {
-          "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
-          "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
+          "title": "Iran in limbo: What’s next for country under internet blackout?",
+          "url": "https://www.aljazeera.com/features/2026/1/16/iran-in-limbo-whats-next-for-country-under-internet-blackout?traffic_source=rss"
         },
         {
-          "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
-          "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
+          "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iran holds more funerals after deadly unrest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/iran-holds-more-funerals-after-deadly-unrest?traffic_source=rss"
+        },
+        {
+          "title": "Why is Venezuela ‘uninvestable’ for Big Oil?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/1/16/aje-onl-ven_venezuelaoil_av_v3-150126?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +64,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.56,
+      "score": 3.69,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Donald Trump praises Iran for halting mass executions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/donald-trump-praises-iran-for-halting-mass-executions?traffic_source=rss"
+        },
+        {
+          "title": "Iran in limbo: What’s next for country under internet blackout?",
+          "url": "https://www.aljazeera.com/features/2026/1/16/iran-in-limbo-whats-next-for-country-under-internet-blackout?traffic_source=rss"
+        },
         {
           "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
           "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
@@ -47,27 +86,19 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/iran-holds-more-funerals-after-deadly-unrest?traffic_source=rss"
         },
         {
-          "title": "Why is Venezuela ‘uninvestable’ for Big Oil?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/1/16/aje-onl-ven_venezuelaoil_av_v3-150126?traffic_source=rss"
-        },
-        {
           "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
           "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
-          "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0029405587061541814,
-      "chg5d": 0.023141204199699984,
-      "chg1m": 0.09922490256608581
+      "chg1d": 0.007008254166017872,
+      "chg5d": 0.07187062550652049,
+      "chg1m": 0.2198465601811094
     },
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.57,
-      "confianca": 73,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "Canada breaks with US on China tariffs",
@@ -82,38 +113,15 @@
           "url": "https://www.aljazeera.com/news/2026/1/16/trump-may-tariff-countries-that-dont-go-along-with-his-greenland-plan?traffic_source=rss"
         }
       ],
-      "chg1d": 0.016161009312105724,
-      "chg5d": 0.062203661255377095,
-      "chg1m": 0.25748803494261413
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.57,
-      "confianca": 73,
-      "razoes": [
-        {
-          "title": "Canada breaks with US on China tariffs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
-          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
-        },
-        {
-          "title": "Trump threatens tariffs over Greenland, calls it vital for security",
-          "url": "https://www.aljazeera.com/news/2026/1/16/trump-may-tariff-countries-that-dont-go-along-with-his-greenland-plan?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014752980250281612,
-      "chg5d": 0.04080236024089063,
-      "chg1m": 0.15528359216745444
+      "chg1d": 0.02061429858816465,
+      "chg5d": 0.06685873080666926,
+      "chg1m": 0.2629989312764277
     },
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.57,
-      "confianca": 73,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "Canada breaks with US on China tariffs",
@@ -128,36 +136,32 @@
           "url": "https://www.aljazeera.com/news/2026/1/16/trump-may-tariff-countries-that-dont-go-along-with-his-greenland-plan?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00014635288607894677,
-      "chg5d": 0.05549547322559707,
-      "chg1m": 0.19074842263045969
+      "chg1d": 8.78117316474346e-05,
+      "chg5d": 0.05574266909742614,
+      "chg1m": 0.19102729459336987
     },
     {
-      "symbol": "LMT",
+      "symbol": "SOXX",
       "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
-          "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
+          "title": "Canada breaks with US on China tariffs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
         },
         {
-          "title": "Iran holds more funerals after deadly unrest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/iran-holds-more-funerals-after-deadly-unrest?traffic_source=rss"
+          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
+          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
         },
         {
-          "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
-          "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
-          "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
+          "title": "Trump threatens tariffs over Greenland, calls it vital for security",
+          "url": "https://www.aljazeera.com/news/2026/1/16/trump-may-tariff-countries-that-dont-go-along-with-his-greenland-plan?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002137084912353586,
-      "chg5d": 0.06668569955057843,
-      "chg1m": 0.21394583490546262
+      "chg1d": 0.016250518949053914,
+      "chg5d": 0.04233834174828158,
+      "chg1m": 0.15698852126941257
     }
   ]
 }
