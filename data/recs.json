@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-01-16T15:16:18.478758Z",
+  "generated_at": "2026-01-16T18:21:20.325237Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.22,
-      "confianca": 92,
-      "razoes": [
-        {
-          "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
-          "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
-        },
-        {
-          "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
-          "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
-        },
-        {
-          "title": "Why is Iran’s economy failing, prompting deadly protests?",
-          "url": "https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests?traffic_source=rss"
-        },
-        {
-          "title": "What does Israel want in Somaliland?",
-          "url": "https://www.aljazeera.com/features/2026/1/16/what-does-israel-want-in-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Why Israel’s recognition of Somaliland backfired",
-          "url": "https://www.aljazeera.com/opinions/2026/1/16/why-israels-recognition-of-somaliland-backfired?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0004326082818529478,
-      "chg5d": 0.0648714359389966,
-      "chg1m": 0.21188110510208355
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.22,
-      "confianca": 92,
+      "score": 3.56,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iran holds more funerals after deadly unrest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/iran-holds-more-funerals-after-deadly-unrest?traffic_source=rss"
+        },
+        {
+          "title": "Why is Venezuela ‘uninvestable’ for Big Oil?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/1/16/aje-onl-ven_venezuelaoil_av_v3-150126?traffic_source=rss"
+        },
         {
           "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
           "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
           "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
-        },
-        {
-          "title": "Why is Iran’s economy failing, prompting deadly protests?",
-          "url": "https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests?traffic_source=rss"
-        },
-        {
-          "title": "What does Israel want in Somaliland?",
-          "url": "https://www.aljazeera.com/features/2026/1/16/what-does-israel-want-in-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Why Israel’s recognition of Somaliland backfired",
-          "url": "https://www.aljazeera.com/opinions/2026/1/16/why-israels-recognition-of-somaliland-backfired?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.22,
-      "confianca": 92,
+      "score": 3.56,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iran holds more funerals after deadly unrest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/iran-holds-more-funerals-after-deadly-unrest?traffic_source=rss"
+        },
+        {
+          "title": "Why is Venezuela ‘uninvestable’ for Big Oil?",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/1/16/aje-onl-ven_venezuelaoil_av_v3-150126?traffic_source=rss"
+        },
         {
           "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
           "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
@@ -76,23 +57,107 @@
         {
           "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
           "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
-        },
-        {
-          "title": "Why is Iran’s economy failing, prompting deadly protests?",
-          "url": "https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests?traffic_source=rss"
-        },
-        {
-          "title": "What does Israel want in Somaliland?",
-          "url": "https://www.aljazeera.com/features/2026/1/16/what-does-israel-want-in-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "Why Israel’s recognition of Somaliland backfired",
-          "url": "https://www.aljazeera.com/opinions/2026/1/16/why-israels-recognition-of-somaliland-backfired?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0008401596303297447,
-      "chg5d": 0.020998500107135137,
-      "chg1m": 0.09692286088531911
+      "chg1d": 0.0029405587061541814,
+      "chg5d": 0.023141204199699984,
+      "chg1m": 0.09922490256608581
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.57,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Canada breaks with US on China tariffs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
+          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
+        },
+        {
+          "title": "Trump threatens tariffs over Greenland, calls it vital for security",
+          "url": "https://www.aljazeera.com/news/2026/1/16/trump-may-tariff-countries-that-dont-go-along-with-his-greenland-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016161009312105724,
+      "chg5d": 0.062203661255377095,
+      "chg1m": 0.25748803494261413
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.57,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Canada breaks with US on China tariffs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
+          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
+        },
+        {
+          "title": "Trump threatens tariffs over Greenland, calls it vital for security",
+          "url": "https://www.aljazeera.com/news/2026/1/16/trump-may-tariff-countries-that-dont-go-along-with-his-greenland-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014752980250281612,
+      "chg5d": 0.04080236024089063,
+      "chg1m": 0.15528359216745444
+    },
+    {
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.57,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Canada breaks with US on China tariffs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
+          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
+        },
+        {
+          "title": "Trump threatens tariffs over Greenland, calls it vital for security",
+          "url": "https://www.aljazeera.com/news/2026/1/16/trump-may-tariff-countries-that-dont-go-along-with-his-greenland-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00014635288607894677,
+      "chg5d": 0.05549547322559707,
+      "chg1m": 0.19074842263045969
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iran holds more funerals after deadly unrest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/iran-holds-more-funerals-after-deadly-unrest?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes kill two in Lebanon, UN forces report drone attack",
+          "url": "https://www.aljazeera.com/news/2026/1/16/israeli-strikes-kill-two-in-lebanon-un-forces-report-drone-attack?traffic_source=rss"
+        },
+        {
+          "title": "Analysis: Why a ‘quick and clean’ US attack on Iran won’t be easy",
+          "url": "https://www.aljazeera.com/news/2026/1/16/analysis-why-a-quick-and-clean-us-attack-on-iran-wont-be-easy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002137084912353586,
+      "chg5d": 0.06668569955057843,
+      "chg1m": 0.21394583490546262
     }
   ]
 }
