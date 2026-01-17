@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-01-17T06:20:20.824970Z",
+  "generated_at": "2026-01-17T09:13:35.073481Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.41,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Gaza death toll rises by Israeli raids, Trump names ‘Board of Peace’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/17/live-gaza-death-toll-rises-by-israeli-raids-trump-names-board-of-peace?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran tensions: Trump has no path to an easy ‘win’ despite Tehran’s woes",
-          "url": "https://www.aljazeera.com/news/2026/1/17/us-iran-tensions-trump-has-no-path-to-an-easy-win-despite-tehrans-woes?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks kill several as Gaza governance committee meets in Cairo",
-          "url": "https://www.aljazeera.com/news/2026/1/16/more-killing-in-gaza-as-technocrats-meet-in-cairo-for-phase-2-of-peace-plan?traffic_source=rss"
-        },
-        {
-          "title": "Iran says 3,000 people arrested as antigovernment protests subside",
-          "url": "https://www.aljazeera.com/news/2026/1/16/iran-says-3000-people-arrested-as-antigovernment-protests-subside?traffic_source=rss"
-        },
-        {
-          "title": "Donald Trump praises Iran for halting mass executions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/donald-trump-praises-iran-for-halting-mass-executions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007856166398449469,
-      "chg5d": 0.07277315258233256,
-      "chg1m": 0.22087368465182566
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.41,
+      "score": 4.38,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.38,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Gaza death toll rises by Israeli raids, Trump names ‘Board of Peace’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/17/live-gaza-death-toll-rises-by-israeli-raids-trump-names-board-of-peace?traffic_source=rss"
+        },
+        {
+          "title": "US-Iran tensions: Trump has no path to an easy ‘win’ despite Tehran’s woes",
+          "url": "https://www.aljazeera.com/news/2026/1/17/us-iran-tensions-trump-has-no-path-to-an-easy-win-despite-tehrans-woes?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill several as Gaza governance committee meets in Cairo",
+          "url": "https://www.aljazeera.com/news/2026/1/16/more-killing-in-gaza-as-technocrats-meet-in-cairo-for-phase-2-of-peace-plan?traffic_source=rss"
+        },
+        {
+          "title": "Iran says 3,000 people arrested as antigovernment protests subside",
+          "url": "https://www.aljazeera.com/news/2026/1/16/iran-says-3000-people-arrested-as-antigovernment-protests-subside?traffic_source=rss"
+        },
+        {
+          "title": "Donald Trump praises Iran for halting mass executions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/donald-trump-praises-iran-for-halting-mass-executions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007856166398449469,
+      "chg5d": 0.07277315258233256,
+      "chg1m": 0.22087368465182566
+    },
+    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.41,
+      "score": 4.38,
       "confianca": 95,
       "razoes": [
         {
@@ -93,63 +93,6 @@
       "chg1d": 0.0016803192606594894,
       "chg5d": 0.021855581744161044,
       "chg1m": 0.09784367755762576
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.67,
-      "confianca": 47,
-      "razoes": [
-        {
-          "title": "Canada breaks with US on China tariffs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
-          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0022245638683994584,
-      "chg5d": 0.0579983314278651,
-      "chg1m": 0.19357200125492374
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.67,
-      "confianca": 47,
-      "razoes": [
-        {
-          "title": "Canada breaks with US on China tariffs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
-          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015568471620900302,
-      "chg5d": 0.041638785814222444,
-      "chg1m": 0.15621201890614464
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.67,
-      "confianca": 47,
-      "razoes": [
-        {
-          "title": "Canada breaks with US on China tariffs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
-          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.020253829978972685,
-      "chg5d": 0.0664819292241026,
-      "chg1m": 0.2625528553505878
     }
   ]
 }
