@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-17T01:03:14.762664Z",
+  "generated_at": "2026-01-17T03:52:14.001813Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.51,
+      "score": 6.21,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US-Iran tensions: Trump has no path to an easy ‘win’ despite Tehran’s woes",
+          "url": "https://www.aljazeera.com/news/2026/1/17/us-iran-tensions-trump-has-no-path-to-an-easy-win-despite-tehrans-woes?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks kill several as Gaza governance committee meets in Cairo",
           "url": "https://www.aljazeera.com/news/2026/1/16/more-killing-in-gaza-as-technocrats-meet-in-cairo-for-phase-2-of-peace-plan?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Iran in limbo: What’s next for country under internet blackout?",
           "url": "https://www.aljazeera.com/features/2026/1/16/iran-in-limbo-whats-next-for-country-under-internet-blackout?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0016803192606594894,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.51,
+      "score": 6.21,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US-Iran tensions: Trump has no path to an easy ‘win’ despite Tehran’s woes",
+          "url": "https://www.aljazeera.com/news/2026/1/17/us-iran-tensions-trump-has-no-path-to-an-easy-win-despite-tehrans-woes?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks kill several as Gaza governance committee meets in Cairo",
           "url": "https://www.aljazeera.com/news/2026/1/16/more-killing-in-gaza-as-technocrats-meet-in-cairo-for-phase-2-of-peace-plan?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Iran in limbo: What’s next for country under internet blackout?",
           "url": "https://www.aljazeera.com/features/2026/1/16/iran-in-limbo-whats-next-for-country-under-internet-blackout?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.18,
+      "score": 4.89,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US-Iran tensions: Trump has no path to an easy ‘win’ despite Tehran’s woes",
+          "url": "https://www.aljazeera.com/news/2026/1/17/us-iran-tensions-trump-has-no-path-to-an-easy-win-despite-tehrans-woes?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks kill several as Gaza governance committee meets in Cairo",
           "url": "https://www.aljazeera.com/news/2026/1/16/more-killing-in-gaza-as-technocrats-meet-in-cairo-for-phase-2-of-peace-plan?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Iran in limbo: What’s next for country under internet blackout?",
           "url": "https://www.aljazeera.com/features/2026/1/16/iran-in-limbo-whats-next-for-country-under-internet-blackout?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian child shot dead by Israeli troops in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2026/1/16/palestinian-child-shot-dead-by-israeli-troops-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.007856166398449469,
@@ -95,10 +95,33 @@
       "chg1m": 0.22087368465182566
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.51,
+      "confianca": 71,
+      "razoes": [
+        {
+          "title": "Canada breaks with US on China tariffs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
+          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
+        },
+        {
+          "title": "Trump threatens tariffs over Greenland, calls it vital for security",
+          "url": "https://www.aljazeera.com/news/2026/1/16/trump-may-tariff-countries-that-dont-go-along-with-his-greenland-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02040102132772617,
+      "chg5d": 0.06663578987031743,
+      "chg1m": 0.2627350030203059
+    },
+    {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.53,
-      "confianca": 72,
+      "score": 2.51,
+      "confianca": 71,
       "razoes": [
         {
           "title": "Canada breaks with US on China tariffs",
@@ -120,8 +143,8 @@
     {
       "symbol": "SOXX",
       "acao": "comprar",
-      "score": 2.53,
-      "confianca": 72,
+      "score": 2.51,
+      "confianca": 71,
       "razoes": [
         {
           "title": "Canada breaks with US on China tariffs",
@@ -139,29 +162,6 @@
       "chg1d": 0.015568471620900302,
       "chg5d": 0.041638785814222444,
       "chg1m": 0.15621201890614464
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.53,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "Canada breaks with US on China tariffs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/canada-breaks-with-us-on-china-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "Canada, China strike trade deals to slash tariffs on EVs, canola",
-          "url": "https://www.aljazeera.com/economy/2026/1/16/canada-china-strike-trade-deals-to-slash-tariffs-on-evs-canola?traffic_source=rss"
-        },
-        {
-          "title": "Trump threatens tariffs over Greenland, calls it vital for security",
-          "url": "https://www.aljazeera.com/news/2026/1/16/trump-may-tariff-countries-that-dont-go-along-with-his-greenland-plan?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02040102132772617,
-      "chg5d": 0.06663578987031743,
-      "chg1m": 0.2627350030203059
     }
   ]
 }
