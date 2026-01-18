@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-18T18:18:14.683178Z",
+  "generated_at": "2026-01-18T21:12:09.275518Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.69,
+      "score": 5.0,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How much of Trump’s foreign policy is driven by minerals and oil?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/1/18/how-much-of-trumps-foreign-policy-is-driven-by-minerals-and-oil?traffic_source=rss"
+        },
         {
           "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
           "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
-        },
-        {
-          "title": "Just like Venezuela, Iran, too, is expendable for Russia",
-          "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
         }
       ],
       "chg1d": 0.0016803192606594894,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.69,
+      "score": 5.0,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How much of Trump’s foreign policy is driven by minerals and oil?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/1/18/how-much-of-trumps-foreign-policy-is-driven-by-minerals-and-oil?traffic_source=rss"
+        },
         {
           "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
           "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
-        },
-        {
-          "title": "Just like Venezuela, Iran, too, is expendable for Russia",
-          "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.69,
+      "score": 3.66,
       "confianca": 95,
       "razoes": [
         {
@@ -97,8 +97,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
+      "score": 1.64,
+      "confianca": 46,
       "razoes": [
         {
           "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
@@ -114,29 +114,10 @@
       "chg1m": 0.2625528553505878
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
-      "razoes": [
-        {
-          "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
-          "url": "https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss"
-        },
-        {
-          "title": "Italy’s PM Meloni calls Trump’s Greenland tariffs on Europe a mistake",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/italys-pm-meloni-calls-trumps-greenland-tariffs-on-europe-a-mistake?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0022245638683994584,
-      "chg5d": 0.0579983314278651,
-      "chg1m": 0.19357200125492374
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.66,
-      "confianca": 47,
+      "score": 1.64,
+      "confianca": 46,
       "razoes": [
         {
           "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
@@ -150,6 +131,25 @@
       "chg1d": 0.015568471620900302,
       "chg5d": 0.041638785814222444,
       "chg1m": 0.15621201890614464
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.64,
+      "confianca": 46,
+      "razoes": [
+        {
+          "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
+          "url": "https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss"
+        },
+        {
+          "title": "Italy’s PM Meloni calls Trump’s Greenland tariffs on Europe a mistake",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/italys-pm-meloni-calls-trumps-greenland-tariffs-on-europe-a-mistake?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0022245638683994584,
+      "chg5d": 0.0579983314278651,
+      "chg1m": 0.19357200125492374
     }
   ]
 }
