@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-01-18T06:20:59.813308Z",
+  "generated_at": "2026-01-18T09:14:05.903076Z",
   "recs": [
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Trump pledges to slap tariffs on European allies over Greenland",
-          "url": "https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.020253829978972685,
-      "chg5d": 0.0664819292241026,
-      "chg1m": 0.2625528553505878
-    },
     {
       "symbol": "SOXX",
       "acao": "observar",
@@ -30,6 +15,21 @@
       "chg1d": 0.015568471620900302,
       "chg5d": 0.041638785814222444,
       "chg1m": 0.15621201890614464
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Trump pledges to slap tariffs on European allies over Greenland",
+          "url": "https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.020253829978972685,
+      "chg5d": 0.0664819292241026,
+      "chg1m": 0.2625528553505878
     },
     {
       "symbol": "TSM",
@@ -47,29 +47,14 @@
       "chg1m": 0.19357200125492374
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Iran: The protests, the blackout and the narrative war",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/1/17/iran-the-protests-the-blackout-and-the-narrative-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007856166398449469,
-      "chg5d": 0.07277315258233256,
-      "chg1m": 0.22087368465182566
-    },
-    {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Iran: The protests, the blackout and the narrative war",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/1/17/iran-the-protests-the-blackout-and-the-narrative-war?traffic_source=rss"
+          "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.0016803192606594894,
@@ -77,14 +62,29 @@
       "chg1m": 0.09784367755762576
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.71,
-      "confianca": 20,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Iran: The protests, the blackout and the narrative war",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/1/17/iran-the-protests-the-blackout-and-the-narrative-war?traffic_source=rss"
+          "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007856166398449469,
+      "chg5d": 0.07277315258233256,
+      "chg1m": 0.22087368465182566
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
