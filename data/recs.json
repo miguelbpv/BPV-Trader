@@ -1,72 +1,20 @@
 {
-  "generated_at": "2026-01-18T09:14:05.903076Z",
+  "generated_at": "2026-01-18T12:25:13.503067Z",
   "recs": [
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Trump pledges to slap tariffs on European allies over Greenland",
-          "url": "https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.015568471620900302,
-      "chg5d": 0.041638785814222444,
-      "chg1m": 0.15621201890614464
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Trump pledges to slap tariffs on European allies over Greenland",
-          "url": "https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.020253829978972685,
-      "chg5d": 0.0664819292241026,
-      "chg1m": 0.2625528553505878
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Trump pledges to slap tariffs on European allies over Greenland",
-          "url": "https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0022245638683994584,
-      "chg5d": 0.0579983314278651,
-      "chg1m": 0.19357200125492374
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0016803192606594894,
-      "chg5d": 0.021855581744161044,
-      "chg1m": 0.09784367755762576
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 2.24,
+      "confianca": 64,
       "razoes": [
+        {
+          "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Just like Venezuela, Iran, too, is expendable for Russia",
+          "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
+        },
         {
           "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
@@ -78,10 +26,18 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 2.24,
+      "confianca": 64,
       "razoes": [
+        {
+          "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Just like Venezuela, Iran, too, is expendable for Russia",
+          "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
+        },
         {
           "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
@@ -90,6 +46,29 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.24,
+      "confianca": 64,
+      "razoes": [
+        {
+          "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Just like Venezuela, Iran, too, is expendable for Russia",
+          "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0016803192606594894,
+      "chg5d": 0.021855581744161044,
+      "chg1m": 0.09784367755762576
     }
   ]
 }
