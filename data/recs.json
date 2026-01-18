@@ -1,11 +1,38 @@
 {
-  "generated_at": "2026-01-17T21:12:02.397767Z",
+  "generated_at": "2026-01-18T01:11:21.711483Z",
   "recs": [
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.89,
+      "confianca": 82,
+      "razoes": [
+        {
+          "title": "Iran: The protests, the blackout and the narrative war",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/1/17/iran-the-protests-the-blackout-and-the-narrative-war?traffic_source=rss"
+        },
+        {
+          "title": "Photos: Gaza ceasefire brings no relief as Israeli bombings continue",
+          "url": "https://www.aljazeera.com/gallery/2026/1/17/photos-gaza-ceasefire-brings-no-relief-as-israeli-bombings-continue?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Khamenei says US, Israel links behind ‘thousands killed’ in protests",
+          "url": "https://www.aljazeera.com/news/2026/1/17/irans-khamenei-says-us-israel-links-behind-thousands-killed-in-protests?traffic_source=rss"
+        },
+        {
+          "title": "Iran restores SMS as phased rollback of internet blackout begins",
+          "url": "https://www.aljazeera.com/news/2026/1/17/iran-restores-sms-as-phased-rollback-of-internet-blackout-begins?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007856166398449469,
+      "chg5d": 0.07277315258233256,
+      "chg1m": 0.22087368465182566
+    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
+      "score": 2.89,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Iran: The protests, the blackout and the narrative war",
@@ -31,8 +58,8 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
+      "score": 2.89,
+      "confianca": 82,
       "razoes": [
         {
           "title": "Iran: The protests, the blackout and the narrative war",
@@ -56,36 +83,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.92,
-      "confianca": 83,
-      "razoes": [
-        {
-          "title": "Iran: The protests, the blackout and the narrative war",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/1/17/iran-the-protests-the-blackout-and-the-narrative-war?traffic_source=rss"
-        },
-        {
-          "title": "Photos: Gaza ceasefire brings no relief as Israeli bombings continue",
-          "url": "https://www.aljazeera.com/gallery/2026/1/17/photos-gaza-ceasefire-brings-no-relief-as-israeli-bombings-continue?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Khamenei says US, Israel links behind ‘thousands killed’ in protests",
-          "url": "https://www.aljazeera.com/news/2026/1/17/irans-khamenei-says-us-israel-links-behind-thousands-killed-in-protests?traffic_source=rss"
-        },
-        {
-          "title": "Iran restores SMS as phased rollback of internet blackout begins",
-          "url": "https://www.aljazeera.com/news/2026/1/17/iran-restores-sms-as-phased-rollback-of-internet-blackout-begins?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007856166398449469,
-      "chg5d": 0.07277315258233256,
-      "chg1m": 0.22087368465182566
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -98,24 +98,9 @@
       "chg1m": 0.2625528553505878
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump pledges to slap tariffs on European allies over Greenland",
-          "url": "https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0022245638683994584,
-      "chg5d": 0.0579983314278651,
-      "chg1m": 0.19357200125492374
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -126,6 +111,21 @@
       "chg1d": 0.015568471620900302,
       "chg5d": 0.041638785814222444,
       "chg1m": 0.15621201890614464
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump pledges to slap tariffs on European allies over Greenland",
+          "url": "https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0022245638683994584,
+      "chg5d": 0.0579983314278651,
+      "chg1m": 0.19357200125492374
     }
   ]
 }
