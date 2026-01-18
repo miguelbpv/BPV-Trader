@@ -1,35 +1,24 @@
 {
-  "generated_at": "2026-01-18T12:25:13.503067Z",
+  "generated_at": "2026-01-18T15:12:52.379384Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.24,
-      "confianca": 64,
-      "razoes": [
-        {
-          "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
-        },
-        {
-          "title": "Just like Venezuela, Iran, too, is expendable for Russia",
-          "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007856166398449469,
-      "chg5d": 0.07277315258233256,
-      "chg1m": 0.22087368465182566
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.24,
-      "confianca": 64,
+      "score": 3.72,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
+        },
+        {
+          "title": "‘Everything is bad’: Fear and anxiety grip Iranians abroad amid protests",
+          "url": "https://www.aljazeera.com/features/2026/1/18/everything-is-bad-fear-and-anxiety-grip-iranians-abroad-amid-protests?traffic_source=rss"
+        },
+        {
+          "title": "Israel recognises Homesh settlement to “prevent a Palestinian state”",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/18/israel-recognises-homesh-settlement-to-prevent-a-palestinian?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
           "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
@@ -37,10 +26,6 @@
         {
           "title": "Just like Venezuela, Iran, too, is expendable for Russia",
           "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,11 +33,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.24,
-      "confianca": 64,
+      "score": 3.72,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
+        },
+        {
+          "title": "‘Everything is bad’: Fear and anxiety grip Iranians abroad amid protests",
+          "url": "https://www.aljazeera.com/features/2026/1/18/everything-is-bad-fear-and-anxiety-grip-iranians-abroad-amid-protests?traffic_source=rss"
+        },
+        {
+          "title": "Israel recognises Homesh settlement to “prevent a Palestinian state”",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/18/israel-recognises-homesh-settlement-to-prevent-a-palestinian?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
           "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
@@ -60,15 +57,87 @@
         {
           "title": "Just like Venezuela, Iran, too, is expendable for Russia",
           "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007856166398449469,
+      "chg5d": 0.07277315258233256,
+      "chg1m": 0.22087368465182566
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.72,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
         },
         {
-          "title": "Iran’s Supreme Leader Ali Khamenei blames Trump for deadly protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/irans-supreme-leader-ali-khamenei-blames-trump-for-deadly-protests?traffic_source=rss"
+          "title": "‘Everything is bad’: Fear and anxiety grip Iranians abroad amid protests",
+          "url": "https://www.aljazeera.com/features/2026/1/18/everything-is-bad-fear-and-anxiety-grip-iranians-abroad-amid-protests?traffic_source=rss"
+        },
+        {
+          "title": "Israel recognises Homesh settlement to “prevent a Palestinian state”",
+          "url": "https://www.aljazeera.com/video/quotable/2026/1/18/israel-recognises-homesh-settlement-to-prevent-a-palestinian?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Just like Venezuela, Iran, too, is expendable for Russia",
+          "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
         }
       ],
       "chg1d": 0.0016803192606594894,
       "chg5d": 0.021855581744161044,
       "chg1m": 0.09784367755762576
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Italy’s PM Meloni calls Trump’s Greenland tariffs on Europe a mistake",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/italys-pm-meloni-calls-trumps-greenland-tariffs-on-europe-a-mistake?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0022245638683994584,
+      "chg5d": 0.0579983314278651,
+      "chg1m": 0.19357200125492374
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Italy’s PM Meloni calls Trump’s Greenland tariffs on Europe a mistake",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/italys-pm-meloni-calls-trumps-greenland-tariffs-on-europe-a-mistake?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.020253829978972685,
+      "chg5d": 0.0664819292241026,
+      "chg1m": 0.2625528553505878
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Italy’s PM Meloni calls Trump’s Greenland tariffs on Europe a mistake",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/italys-pm-meloni-calls-trumps-greenland-tariffs-on-europe-a-mistake?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015568471620900302,
+      "chg5d": 0.041638785814222444,
+      "chg1m": 0.15621201890614464
     }
   ]
 }
