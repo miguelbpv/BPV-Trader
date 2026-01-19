@@ -1,34 +1,11 @@
 {
-  "generated_at": "2026-01-19T04:07:49.647736Z",
+  "generated_at": "2026-01-19T06:27:34.769656Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.77,
-      "confianca": 79,
-      "razoes": [
-        {
-          "title": "How much of Trump’s foreign policy is driven by minerals and oil?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/1/18/how-much-of-trumps-foreign-policy-is-driven-by-minerals-and-oil?traffic_source=rss"
-        },
-        {
-          "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
-        },
-        {
-          "title": "‘Everything is bad’: Fear and anxiety grip Iranians abroad amid protests",
-          "url": "https://www.aljazeera.com/features/2026/1/18/everything-is-bad-fear-and-anxiety-grip-iranians-abroad-amid-protests?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0016803192606594894,
-      "chg5d": 0.021855581744161044,
-      "chg1m": 0.09784367755762576
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.77,
-      "confianca": 79,
+      "acao": "observar",
+      "score": 2.04,
+      "confianca": 58,
       "razoes": [
         {
           "title": "How much of Trump’s foreign policy is driven by minerals and oil?",
@@ -37,10 +14,6 @@
         {
           "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
-        },
-        {
-          "title": "‘Everything is bad’: Fear and anxiety grip Iranians abroad amid protests",
-          "url": "https://www.aljazeera.com/features/2026/1/18/everything-is-bad-fear-and-anxiety-grip-iranians-abroad-amid-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,22 +21,56 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.04,
+      "confianca": 58,
       "razoes": [
         {
-          "title": "‘Dangerous downward spiral’: European leaders slam Trump’s tariff threat",
+          "title": "How much of Trump’s foreign policy is driven by minerals and oil?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/1/18/how-much-of-trumps-foreign-policy-is-driven-by-minerals-and-oil?traffic_source=rss"
+        },
+        {
+          "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0016803192606594894,
+      "chg5d": 0.021855581744161044,
+      "chg1m": 0.09784367755762576
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.64,
+      "confianca": 46,
+      "razoes": [
+        {
+          "title": "European leaders slam Trump’s tariff threats over Greenland",
           "url": "https://www.aljazeera.com/news/2026/1/19/dangerous-downward-spiral-european-leaders-slam-trumps-tariff-threat?traffic_source=rss"
         },
         {
           "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
           "url": "https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0022245638683994584,
+      "chg5d": 0.0579983314278651,
+      "chg1m": 0.19357200125492374
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.64,
+      "confianca": 46,
+      "razoes": [
+        {
+          "title": "European leaders slam Trump’s tariff threats over Greenland",
+          "url": "https://www.aljazeera.com/news/2026/1/19/dangerous-downward-spiral-european-leaders-slam-trumps-tariff-threat?traffic_source=rss"
         },
         {
-          "title": "Italy’s PM Meloni calls Trump’s Greenland tariffs on Europe a mistake",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/italys-pm-meloni-calls-trumps-greenland-tariffs-on-europe-a-mistake?traffic_source=rss"
+          "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
+          "url": "https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss"
         }
       ],
       "chg1d": 0.015568471620900302,
@@ -72,21 +79,17 @@
     },
     {
       "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "acao": "observar",
+      "score": 1.64,
+      "confianca": 46,
       "razoes": [
         {
-          "title": "‘Dangerous downward spiral’: European leaders slam Trump’s tariff threat",
+          "title": "European leaders slam Trump’s tariff threats over Greenland",
           "url": "https://www.aljazeera.com/news/2026/1/19/dangerous-downward-spiral-european-leaders-slam-trumps-tariff-threat?traffic_source=rss"
         },
         {
           "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
           "url": "https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss"
-        },
-        {
-          "title": "Italy’s PM Meloni calls Trump’s Greenland tariffs on Europe a mistake",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/italys-pm-meloni-calls-trumps-greenland-tariffs-on-europe-a-mistake?traffic_source=rss"
         }
       ],
       "chg1d": 0.020253829978972685,
@@ -94,41 +97,14 @@
       "chg1m": 0.2625528553505878
     },
     {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "‘Dangerous downward spiral’: European leaders slam Trump’s tariff threat",
-          "url": "https://www.aljazeera.com/news/2026/1/19/dangerous-downward-spiral-european-leaders-slam-trumps-tariff-threat?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
-          "url": "https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss"
-        },
-        {
-          "title": "Italy’s PM Meloni calls Trump’s Greenland tariffs on Europe a mistake",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/italys-pm-meloni-calls-trumps-greenland-tariffs-on-europe-a-mistake?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0022245638683994584,
-      "chg5d": 0.0579983314278651,
-      "chg1m": 0.19357200125492374
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.44,
-      "confianca": 41,
+      "score": 0.71,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
-        },
-        {
-          "title": "‘Everything is bad’: Fear and anxiety grip Iranians abroad amid protests",
-          "url": "https://www.aljazeera.com/features/2026/1/18/everything-is-bad-fear-and-anxiety-grip-iranians-abroad-amid-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.007856166398449469,
