@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-01-19T15:18:53.484297Z",
+  "generated_at": "2026-01-19T18:20:57.674907Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.47,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
-        },
-        {
-          "title": "Yemen faces worst food crisis since 2022, aid group warns",
-          "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
-        },
-        {
-          "title": "The UK is now willing to undermine British institutions to protect Israel",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/the-uk-is-now-willing-to-undermine-british-institutions-to-protect-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches ‘large-scale’ military raid in occupied West Bank’s Hebron",
-          "url": "https://www.aljazeera.com/news/2026/1/19/israel-launches-large-scale-military-raid-in-occupied-west-banks-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Narrative war: Who killed thousands during Iran’s nationwide protests?",
-          "url": "https://www.aljazeera.com/news/2026/1/19/narrative-war-who-killed-thousands-during-irans-nationwide-protests?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.47,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
+        },
         {
           "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
           "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israel launches ‘large-scale’ military raid in occupied West Bank’s Hebron",
           "url": "https://www.aljazeera.com/news/2026/1/19/israel-launches-large-scale-military-raid-in-occupied-west-banks-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Narrative war: Who killed thousands during Iran’s nationwide protests?",
-          "url": "https://www.aljazeera.com/news/2026/1/19/narrative-war-who-killed-thousands-during-irans-nationwide-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.007856166398449469,
@@ -66,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.47,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
+        },
         {
           "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
           "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
@@ -84,10 +57,6 @@
         {
           "title": "Israel launches ‘large-scale’ military raid in occupied West Bank’s Hebron",
           "url": "https://www.aljazeera.com/news/2026/1/19/israel-launches-large-scale-military-raid-in-occupied-west-banks-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Narrative war: Who killed thousands during Iran’s nationwide protests?",
-          "url": "https://www.aljazeera.com/news/2026/1/19/narrative-war-who-killed-thousands-during-irans-nationwide-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.0016803192606594894,
@@ -95,9 +64,40 @@
       "chg1m": 0.09784367755762576
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
+        },
+        {
+          "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
+          "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
+        },
+        {
+          "title": "Yemen faces worst food crisis since 2022, aid group warns",
+          "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
+        },
+        {
+          "title": "The UK is now willing to undermine British institutions to protect Israel",
+          "url": "https://www.aljazeera.com/opinions/2026/1/19/the-uk-is-now-willing-to-undermine-british-institutions-to-protect-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israel launches ‘large-scale’ military raid in occupied West Bank’s Hebron",
+          "url": "https://www.aljazeera.com/news/2026/1/19/israel-launches-large-scale-military-raid-in-occupied-west-banks-hebron?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -110,24 +110,9 @@
       "chg1m": 0.15621201890614464
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0022245638683994584,
-      "chg5d": 0.0579983314278651,
-      "chg1m": 0.19357200125492374
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -138,6 +123,21 @@
       "chg1d": 0.020253829978972685,
       "chg5d": 0.0664819292241026,
       "chg1m": 0.2625528553505878
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0022245638683994584,
+      "chg5d": 0.0579983314278651,
+      "chg1m": 0.19357200125492374
     }
   ]
 }
