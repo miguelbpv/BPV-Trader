@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-18T21:12:09.275518Z",
+  "generated_at": "2026-01-19T01:10:21.493339Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.0,
+      "score": 3.51,
       "confianca": 95,
       "razoes": [
         {
@@ -22,10 +22,6 @@
         {
           "title": "Israel recognises Homesh settlement to “prevent a Palestinian state”",
           "url": "https://www.aljazeera.com/video/quotable/2026/1/18/israel-recognises-homesh-settlement-to-prevent-a-palestinian?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
         }
       ],
       "chg1d": 0.0016803192606594894,
@@ -35,7 +31,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.0,
+      "score": 3.51,
       "confianca": 95,
       "razoes": [
         {
@@ -53,10 +49,6 @@
         {
           "title": "Israel recognises Homesh settlement to “prevent a Palestinian state”",
           "url": "https://www.aljazeera.com/video/quotable/2026/1/18/israel-recognises-homesh-settlement-to-prevent-a-palestinian?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,9 +57,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.66,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
@@ -80,14 +72,6 @@
         {
           "title": "Israel recognises Homesh settlement to “prevent a Palestinian state”",
           "url": "https://www.aljazeera.com/video/quotable/2026/1/18/israel-recognises-homesh-settlement-to-prevent-a-palestinian?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks wound civilians across Gaza in latest ceasefire violations",
-          "url": "https://www.aljazeera.com/news/2026/1/18/israeli-attacks-wound-civilians-across-gaza-in-latest-ceasefire-violations?traffic_source=rss"
-        },
-        {
-          "title": "Just like Venezuela, Iran, too, is expendable for Russia",
-          "url": "https://www.aljazeera.com/opinions/2026/1/18/just-like-venezuela-iran-too-is-expendable-for-russia?traffic_source=rss"
         }
       ],
       "chg1d": 0.007856166398449469,
@@ -97,7 +81,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.64,
+      "score": 1.63,
       "confianca": 46,
       "razoes": [
         {
@@ -116,7 +100,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.64,
+      "score": 1.63,
       "confianca": 46,
       "razoes": [
         {
@@ -135,7 +119,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.64,
+      "score": 1.63,
       "confianca": 46,
       "razoes": [
         {
