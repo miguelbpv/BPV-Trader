@@ -1,34 +1,11 @@
 {
-  "generated_at": "2026-01-20T04:03:35.606197Z",
+  "generated_at": "2026-01-20T06:25:09.277666Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 2.17,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
-        },
-        {
-          "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
-        },
-        {
-          "title": "Yemen faces worst food crisis since 2022, aid group warns",
-          "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007856166398449469,
-      "chg5d": 0.07277315258233256,
-      "chg1m": 0.22087368465182566
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 2.17,
-      "confianca": 62,
+      "score": 2.15,
+      "confianca": 61,
       "razoes": [
         {
           "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
@@ -48,10 +25,10 @@
       "chg1m": 0.09784367755762576
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 2.17,
-      "confianca": 62,
+      "score": 2.15,
+      "confianca": 61,
       "razoes": [
         {
           "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
@@ -66,19 +43,27 @@
           "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.007856166398449469,
+      "chg5d": 0.07277315258233256,
+      "chg1m": 0.22087368465182566
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
+      "score": 2.15,
+      "confianca": 61,
       "razoes": [
         {
-          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
-          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
+          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
+        },
+        {
+          "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
+          "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
+        },
+        {
+          "title": "Yemen faces worst food crisis since 2022, aid group warns",
+          "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -101,21 +86,6 @@
       "chg1m": 0.018840131394817806
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
-          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0008363086622277684,
-      "chg5d": -0.008601292587568797,
-      "chg1m": 0.015545565999182658
-    },
-    {
       "symbol": "IWM",
       "acao": "observar",
       "score": 0.97,
@@ -129,6 +99,36 @@
       "chg1d": 0.0009415841211253814,
       "chg5d": 0.021250432309879615,
       "chg1m": 0.06359306839556564
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
+          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
+          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0008363086622277684,
+      "chg5d": -0.008601292587568797,
+      "chg1m": 0.015545565999182658
     },
     {
       "symbol": "SOXX",
@@ -146,21 +146,6 @@
       "chg1m": 0.15621201890614464
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0022245638683994584,
-      "chg5d": 0.0579983314278651,
-      "chg1m": 0.19357200125492374
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.83,
@@ -174,6 +159,21 @@
       "chg1d": 0.020253829978972685,
       "chg5d": 0.0664819292241026,
       "chg1m": 0.2625528553505878
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0022245638683994584,
+      "chg5d": 0.0579983314278651,
+      "chg1m": 0.19357200125492374
     }
   ]
 }
