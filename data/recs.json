@@ -1,46 +1,62 @@
 {
-  "generated_at": "2026-01-20T12:31:30.792748Z",
+  "generated_at": "2026-01-20T15:22:39.745047Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 5.66,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem-2?traffic_source=rss"
+        },
+        {
+          "title": "How the Syrian army pushed Kurdish-led forces out of oil-rich territory",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/how-the-syrian-army-pushed-kurdish-led-forces-out-of-oil-rich-territory?traffic_source=rss"
+        },
+        {
+          "title": "Who hacked Iranian state TV?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/who-hacked-iranian-state-tv?traffic_source=rss"
+        },
+        {
+          "title": "Israeli prisons are akin to ‘torture camps’, Israeli rights group finds",
+          "url": "https://www.aljazeera.com/news/2026/1/20/israeli-prisons-are-akin-to-torture-camps-israeli-rights-group-finds?traffic_source=rss"
+        },
         {
           "title": "Syria’s war-ravaged oil sector faces tough road to recovery, analysts say",
           "url": "https://www.aljazeera.com/economy/2026/1/20/syrias-war-ravaged-oil-sector-faces-tough-road-to-recovery-analysts-say?traffic_source=rss"
-        },
-        {
-          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
-          "url": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0016803192606594894,
-      "chg5d": 0.021855581744161044,
-      "chg1m": 0.09784367755762576
+      "chg1d": 0.004717970224365725,
+      "chg5d": 0.03398791540785489,
+      "chg1m": 0.07913020956499218
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 5.66,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem-2?traffic_source=rss"
+        },
+        {
+          "title": "How the Syrian army pushed Kurdish-led forces out of oil-rich territory",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/how-the-syrian-army-pushed-kurdish-led-forces-out-of-oil-rich-territory?traffic_source=rss"
+        },
+        {
+          "title": "Who hacked Iranian state TV?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/who-hacked-iranian-state-tv?traffic_source=rss"
+        },
+        {
+          "title": "Israeli prisons are akin to ‘torture camps’, Israeli rights group finds",
+          "url": "https://www.aljazeera.com/news/2026/1/20/israeli-prisons-are-akin-to-torture-camps-israeli-rights-group-finds?traffic_source=rss"
+        },
         {
           "title": "Syria’s war-ravaged oil sector faces tough road to recovery, analysts say",
           "url": "https://www.aljazeera.com/economy/2026/1/20/syrias-war-ravaged-oil-sector-faces-tough-road-to-recovery-analysts-say?traffic_source=rss"
-        },
-        {
-          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
-          "url": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -49,22 +65,87 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
         {
           "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/news/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem-2?traffic_source=rss"
         },
         {
-          "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
-          "url": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss"
+          "title": "Who hacked Iranian state TV?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/who-hacked-iranian-state-tv?traffic_source=rss"
+        },
+        {
+          "title": "Israeli prisons are akin to ‘torture camps’, Israeli rights group finds",
+          "url": "https://www.aljazeera.com/news/2026/1/20/israeli-prisons-are-akin-to-torture-camps-israeli-rights-group-finds?traffic_source=rss"
+        },
+        {
+          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007856166398449469,
-      "chg5d": 0.07277315258233256,
-      "chg1m": 0.22087368465182566
+      "chg1d": -0.0005665916934222607,
+      "chg5d": 0.05598287497278864,
+      "chg1m": 0.22601571220960845
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Sanctions request against Netanyahu filed by UK lawyers, rights group",
+          "url": "https://www.aljazeera.com/news/2026/1/20/sanctions-request-against-netanyahu-filed-by-uk-lawyers-rights-group?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s Greenland tariffs: What’s Europe’s ‘bazooka’ option to hit back?",
+          "url": "https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.020146698366664908,
+      "chg5d": 0.03900103806498441,
+      "chg1m": 0.3109710172045341
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Sanctions request against Netanyahu filed by UK lawyers, rights group",
+          "url": "https://www.aljazeera.com/news/2026/1/20/sanctions-request-against-netanyahu-filed-by-uk-lawyers-rights-group?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s Greenland tariffs: What’s Europe’s ‘bazooka’ option to hit back?",
+          "url": "https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.020662967289719593,
+      "chg5d": 0.010715254543810492,
+      "chg1m": 0.21073440207972274
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.71,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Sanctions request against Netanyahu filed by UK lawyers, rights group",
+          "url": "https://www.aljazeera.com/news/2026/1/20/sanctions-request-against-netanyahu-filed-by-uk-lawyers-rights-group?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s Greenland tariffs: What’s Europe’s ‘bazooka’ option to hit back?",
+          "url": "https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004175548223202052,
+      "chg5d": 0.0323596185863478,
+      "chg1m": 0.19566665498019142
     }
   ]
 }
