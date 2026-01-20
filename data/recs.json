@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-20T18:25:12.735446Z",
+  "generated_at": "2026-01-20T21:14:25.099560Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.31,
-      "confianca": 95,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
+        },
         {
           "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss"
@@ -14,18 +18,52 @@
         {
           "title": "There is another war Israel is waging – one that is not making headlines",
           "url": "https://www.aljazeera.com/opinions/2026/1/20/there-is-another-war-israel-is-waging-one-that-is-not-making?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.012087289459677497,
+      "chg5d": 0.04381031855453156,
+      "chg1m": 0.2118831483392657
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
         },
         {
-          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem-2?traffic_source=rss"
+          "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss"
         },
         {
-          "title": "How the Syrian army pushed Kurdish-led forces out of oil-rich territory",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/how-the-syrian-army-pushed-kurdish-led-forces-out-of-oil-rich-territory?traffic_source=rss"
+          "title": "There is another war Israel is waging – one that is not making headlines",
+          "url": "https://www.aljazeera.com/opinions/2026/1/20/there-is-another-war-israel-is-waging-one-that-is-not-making?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0018871880897462006,
+      "chg5d": 0.027190332326283942,
+      "chg1m": 0.07203585464455037
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
         },
         {
-          "title": "Who hacked Iranian state TV?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/who-hacked-iranian-state-tv?traffic_source=rss"
+          "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss"
+        },
+        {
+          "title": "There is another war Israel is waging – one that is not making headlines",
+          "url": "https://www.aljazeera.com/opinions/2026/1/20/there-is-another-war-israel-is-waging-one-that-is-not-making?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,131 +71,61 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.31,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss"
-        },
-        {
-          "title": "There is another war Israel is waging – one that is not making headlines",
-          "url": "https://www.aljazeera.com/opinions/2026/1/20/there-is-another-war-israel-is-waging-one-that-is-not-making?traffic_source=rss"
-        },
-        {
-          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem-2?traffic_source=rss"
-        },
-        {
-          "title": "How the Syrian army pushed Kurdish-led forces out of oil-rich territory",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/how-the-syrian-army-pushed-kurdish-led-forces-out-of-oil-rich-territory?traffic_source=rss"
-        },
-        {
-          "title": "Who hacked Iranian state TV?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/who-hacked-iranian-state-tv?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0015726567414552914,
-      "chg5d": 0.030750971083297305,
-      "chg1m": 0.07575194531716276
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss"
-        },
-        {
-          "title": "There is another war Israel is waging – one that is not making headlines",
-          "url": "https://www.aljazeera.com/opinions/2026/1/20/there-is-another-war-israel-is-waging-one-that-is-not-making?traffic_source=rss"
-        },
-        {
-          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem-2?traffic_source=rss"
-        },
-        {
-          "title": "Who hacked Iranian state TV?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/who-hacked-iranian-state-tv?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003433889051044761,
-      "chg5d": 0.05295334155721635,
-      "chg1m": 0.2224983676994038
-    },
-    {
       "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
+        },
         {
           "title": "‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss"
-        },
-        {
-          "title": "Sanctions request against Netanyahu filed by UK lawyers, rights group",
-          "url": "https://www.aljazeera.com/news/2026/1/20/sanctions-request-against-netanyahu-filed-by-uk-lawyers-rights-group?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s Greenland tariffs: What’s Europe’s ‘bazooka’ option to hit back?",
-          "url": "https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back?traffic_source=rss"
         }
       ],
-      "chg1d": -0.007913101877536825,
-      "chg5d": 0.028484940214923468,
-      "chg1m": 0.19117904848718567
+      "chg1d": -0.015344409729319507,
+      "chg5d": 0.020780989859240054,
+      "chg1m": 0.18225642463976424
     },
     {
       "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
+        },
         {
           "title": "‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss"
-        },
-        {
-          "title": "Sanctions request against Netanyahu filed by UK lawyers, rights group",
-          "url": "https://www.aljazeera.com/news/2026/1/20/sanctions-request-against-netanyahu-filed-by-uk-lawyers-rights-group?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s Greenland tariffs: What’s Europe’s ‘bazooka’ option to hit back?",
-          "url": "https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back?traffic_source=rss"
         }
       ],
-      "chg1d": -0.03801168224299064,
-      "chg5d": -0.007189317900955474,
-      "chg1m": 0.18928653957250147
+      "chg1d": -0.045239485981308274,
+      "chg5d": -0.014648702414323046,
+      "chg1m": 0.18035095320623934
     },
     {
       "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.81,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
+        },
         {
           "title": "‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss"
-        },
-        {
-          "title": "Sanctions request against Netanyahu filed by UK lawyers, rights group",
-          "url": "https://www.aljazeera.com/news/2026/1/20/sanctions-request-against-netanyahu-filed-by-uk-lawyers-rights-group?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s Greenland tariffs: What’s Europe’s ‘bazooka’ option to hit back?",
-          "url": "https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014515262371464133,
-      "chg5d": 0.04497240932541378,
-      "chg1m": 0.3185054607407699
+      "chg1d": -0.023885408922617198,
+      "chg5d": 0.035036644474450235,
+      "chg1m": 0.3059688998749298
     }
   ]
 }
