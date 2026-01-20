@@ -1,42 +1,11 @@
 {
-  "generated_at": "2026-01-20T01:05:11.404767Z",
+  "generated_at": "2026-01-20T04:03:35.606197Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.38,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
-        },
-        {
-          "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
-        },
-        {
-          "title": "Yemen faces worst food crisis since 2022, aid group warns",
-          "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
-        },
-        {
-          "title": "The UK is now willing to undermine British institutions to protect Israel",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/the-uk-is-now-willing-to-undermine-british-institutions-to-protect-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches ‘large-scale’ military raid in occupied West Bank’s Hebron",
-          "url": "https://www.aljazeera.com/news/2026/1/19/israel-launches-large-scale-military-raid-in-occupied-west-banks-hebron?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.38,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
@@ -49,14 +18,6 @@
         {
           "title": "Yemen faces worst food crisis since 2022, aid group warns",
           "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
-        },
-        {
-          "title": "The UK is now willing to undermine British institutions to protect Israel",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/the-uk-is-now-willing-to-undermine-british-institutions-to-protect-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches ‘large-scale’ military raid in occupied West Bank’s Hebron",
-          "url": "https://www.aljazeera.com/news/2026/1/19/israel-launches-large-scale-military-raid-in-occupied-west-banks-hebron?traffic_source=rss"
         }
       ],
       "chg1d": 0.007856166398449469,
@@ -65,9 +26,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.38,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
@@ -80,14 +41,6 @@
         {
           "title": "Yemen faces worst food crisis since 2022, aid group warns",
           "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
-        },
-        {
-          "title": "The UK is now willing to undermine British institutions to protect Israel",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/the-uk-is-now-willing-to-undermine-british-institutions-to-protect-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches ‘large-scale’ military raid in occupied West Bank’s Hebron",
-          "url": "https://www.aljazeera.com/news/2026/1/19/israel-launches-large-scale-military-raid-in-occupied-west-banks-hebron?traffic_source=rss"
         }
       ],
       "chg1d": 0.0016803192606594894,
@@ -95,9 +48,32 @@
       "chg1m": 0.09784367755762576
     },
     {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 2.17,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
+        },
+        {
+          "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
+          "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
+        },
+        {
+          "title": "Yemen faces worst food crisis since 2022, aid group warns",
+          "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -112,7 +88,7 @@
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -127,7 +103,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -142,7 +118,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -155,25 +131,25 @@
       "chg1m": 0.06359306839556564
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss"
         }
       ],
-      "chg1d": 0.020253829978972685,
-      "chg5d": 0.0664819292241026,
-      "chg1m": 0.2625528553505878
+      "chg1d": 0.015568471620900302,
+      "chg5d": 0.041638785814222444,
+      "chg1m": 0.15621201890614464
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
@@ -185,19 +161,19 @@
       "chg1m": 0.19357200125492374
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015568471620900302,
-      "chg5d": 0.041638785814222444,
-      "chg1m": 0.15621201890614464
+      "chg1d": 0.020253829978972685,
+      "chg5d": 0.0664819292241026,
+      "chg1m": 0.2625528553505878
     }
   ]
 }
