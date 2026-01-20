@@ -1,69 +1,15 @@
 {
-  "generated_at": "2026-01-20T06:25:09.277666Z",
+  "generated_at": "2026-01-20T09:26:29.558649Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 2.15,
-      "confianca": 61,
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
-        },
-        {
-          "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
-        },
-        {
-          "title": "Yemen faces worst food crisis since 2022, aid group warns",
-          "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0016803192606594894,
-      "chg5d": 0.021855581744161044,
-      "chg1m": 0.09784367755762576
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 2.15,
-      "confianca": 61,
-      "razoes": [
-        {
-          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
-        },
-        {
-          "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
-        },
-        {
-          "title": "Yemen faces worst food crisis since 2022, aid group warns",
-          "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007856166398449469,
-      "chg5d": 0.07277315258233256,
-      "chg1m": 0.22087368465182566
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.15,
-      "confianca": 61,
-      "razoes": [
-        {
-          "title": "Smotrich says Trump’s plan for Gaza is ‘bad for Israel’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/smotrich-says-trumps-plan-for-gaza-is-bad-for?traffic_source=rss"
-        },
-        {
-          "title": "In Iran, the US-Israeli addiction to hybrid warfare is on full display",
-          "url": "https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display?traffic_source=rss"
-        },
-        {
-          "title": "Yemen faces worst food crisis since 2022, aid group warns",
-          "url": "https://www.aljazeera.com/news/2026/1/19/yemen-faces-worst-food-crisis-since-2022-aid-group-warns?traffic_source=rss"
+          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
+          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -73,7 +19,7 @@
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -86,39 +32,9 @@
       "chg1m": 0.018840131394817806
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
-          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0009415841211253814,
-      "chg5d": 0.021250432309879615,
-      "chg1m": 0.06359306839556564
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
-          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -131,49 +47,64 @@
       "chg1m": 0.015545565999182658
     },
     {
-      "symbol": "SOXX",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "score": 0.96,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss"
+          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
+          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015568471620900302,
-      "chg5d": 0.041638785814222444,
-      "chg1m": 0.15621201890614464
+      "chg1d": 0.0009415841211253814,
+      "chg5d": 0.021250432309879615,
+      "chg1m": 0.06359306839556564
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss"
+          "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
+          "url": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss"
         }
       ],
-      "chg1d": 0.020253829978972685,
-      "chg5d": 0.0664819292241026,
-      "chg1m": 0.2625528553505878
+      "chg1d": 0.0016803192606594894,
+      "chg5d": 0.021855581744161044,
+      "chg1m": 0.09784367755762576
     },
     {
-      "symbol": "TSM",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Keir Starmer says Trump’s tariffs over Greenland are ‘completely wrong’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/keir-starmer-says-trumps-tariffs-over-greenland-are-completely?traffic_source=rss"
+          "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
+          "url": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0022245638683994584,
-      "chg5d": 0.0579983314278651,
-      "chg1m": 0.19357200125492374
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
+          "url": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007856166398449469,
+      "chg5d": 0.07277315258233256,
+      "chg1m": 0.22087368465182566
     }
   ]
 }
