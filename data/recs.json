@@ -1,72 +1,20 @@
 {
-  "generated_at": "2026-01-20T09:26:29.558649Z",
+  "generated_at": "2026-01-20T12:31:30.792748Z",
   "recs": [
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
-          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
-          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0008378597018375722,
-      "chg5d": -0.0034722722491968847,
-      "chg1m": 0.018840131394817806
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
-          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0008363086622277684,
-      "chg5d": -0.008601292587568797,
-      "chg1m": 0.015545565999182658
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed Chair Powell to attend Supreme Court session on Cook case: Report",
-          "url": "https://www.aljazeera.com/economy/2026/1/19/us-fed-chair-powell-to-attend-supreme-court-session-on-cook-case-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0009415841211253814,
-      "chg5d": 0.021250432309879615,
-      "chg1m": 0.06359306839556564
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 2.83,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Syria’s war-ravaged oil sector faces tough road to recovery, analysts say",
+          "url": "https://www.aljazeera.com/economy/2026/1/20/syrias-war-ravaged-oil-sector-faces-tough-road-to-recovery-analysts-say?traffic_source=rss"
+        },
+        {
+          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem?traffic_source=rss"
+        },
         {
           "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
           "url": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss"
@@ -78,10 +26,18 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 2.83,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Syria’s war-ravaged oil sector faces tough road to recovery, analysts say",
+          "url": "https://www.aljazeera.com/economy/2026/1/20/syrias-war-ravaged-oil-sector-faces-tough-road-to-recovery-analysts-say?traffic_source=rss"
+        },
+        {
+          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem?traffic_source=rss"
+        },
         {
           "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
           "url": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss"
@@ -94,9 +50,13 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Israel bulldozes UNRWA buildings in occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/news/2026/1/20/israel-bulldozes-unrwa-buildings-in-occupied-east-jerusalem?traffic_source=rss"
+        },
         {
           "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
           "url": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss"
