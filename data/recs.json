@@ -1,19 +1,23 @@
 {
-  "generated_at": "2026-01-21T06:25:20.820514Z",
+  "generated_at": "2026-01-21T09:25:14.202697Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.07,
-      "confianca": 59,
+      "acao": "comprar",
+      "score": 2.82,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "US, Iran exchange threats of broadscale war in latest sabre rattling",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-iran-threaten-broadscale-wars-in-heated-exchange-of-threats?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s wanted war criminal Netanyahu joins Gaza ‘board of peace’",
+          "url": "https://www.aljazeera.com/news/2026/1/21/israels-netanyahu-to-join-board-of?traffic_source=rss"
+        },
         {
           "title": "US forces seize a seventh Venezuela-linked oil tanker",
           "url": "https://www.aljazeera.com/news/2026/1/21/us-seizes-a-seventh-venezuela-linked-oil-tanker?traffic_source=rss"
-        },
-        {
-          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -22,82 +26,90 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.07,
-      "confianca": 59,
+      "acao": "comprar",
+      "score": 2.82,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "US, Iran exchange threats of broadscale war in latest sabre rattling",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-iran-threaten-broadscale-wars-in-heated-exchange-of-threats?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s wanted war criminal Netanyahu joins Gaza ‘board of peace’",
+          "url": "https://www.aljazeera.com/news/2026/1/21/israels-netanyahu-to-join-board-of?traffic_source=rss"
+        },
         {
           "title": "US forces seize a seventh Venezuela-linked oil tanker",
           "url": "https://www.aljazeera.com/news/2026/1/21/us-seizes-a-seventh-venezuela-linked-oil-tanker?traffic_source=rss"
-        },
-        {
-          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0018871880897462006,
-      "chg5d": 0.027190332326283942,
-      "chg1m": 0.07203585464455037
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs",
-          "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.014950214617338756,
-      "chg5d": 0.02118964734372635,
-      "chg1m": 0.1827297268870736
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs",
-          "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.044509345794392384,
-      "chg5d": -0.013895168339512183,
-      "chg1m": 0.181253610629694
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs",
-          "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.023922212326195926,
-      "chg5d": 0.03499761947503564,
-      "chg1m": 0.3059196596515762
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
+          "title": "US, Iran exchange threats of broadscale war in latest sabre rattling",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-iran-threaten-broadscale-wars-in-heated-exchange-of-threats?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s wanted war criminal Netanyahu joins Gaza ‘board of peace’",
+          "url": "https://www.aljazeera.com/news/2026/1/21/israels-netanyahu-to-join-board-of?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010936936627577571,
-      "chg5d": 0.04502576010449157,
-      "chg1m": 0.2132942985319824
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
