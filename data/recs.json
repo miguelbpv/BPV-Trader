@@ -1,38 +1,68 @@
 {
-  "generated_at": "2026-01-21T01:07:47.362650Z",
+  "generated_at": "2026-01-21T04:02:29.528606Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 2.08,
+      "confianca": 59,
+      "razoes": [
+        {
+          "title": "US forces seize a seventh Venezuela-linked oil tanker",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-seizes-a-seventh-venezuela-linked-oil-tanker?traffic_source=rss"
+        },
+        {
+          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.08,
+      "confianca": 59,
+      "razoes": [
+        {
+          "title": "US forces seize a seventh Venezuela-linked oil tanker",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-seizes-a-seventh-venezuela-linked-oil-tanker?traffic_source=rss"
+        },
+        {
+          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0018871880897462006,
+      "chg5d": 0.027190332326283942,
+      "chg1m": 0.07203585464455037
+    },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
           "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014862615703565368,
-      "chg5d": 0.021280460118056524,
-      "chg1m": 0.18283490516425333
+      "chg1d": -0.014950214617338756,
+      "chg5d": 0.02118964734372635,
+      "chg1m": 0.1827297268870736
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
           "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss"
         }
       ],
       "chg1d": -0.023922212326195926,
@@ -42,16 +72,12 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
           "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss"
         }
       ],
       "chg1d": -0.044509345794392384,
@@ -61,59 +87,17 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
-        },
-        {
-          "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss"
         }
       ],
       "chg1d": -0.010936936627577571,
       "chg5d": 0.04502576010449157,
       "chg1m": 0.2132942985319824
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
-        },
-        {
-          "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0018871880897462006,
-      "chg5d": 0.027190332326283942,
-      "chg1m": 0.07203585464455037
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israeli withdrawal from Gaza a top priority, Qatari PM says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/israeli-withdrawal-from-gaza-a-top-priority-qatari-pm-says?traffic_source=rss"
-        },
-        {
-          "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
