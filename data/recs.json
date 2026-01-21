@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-21T04:02:29.528606Z",
+  "generated_at": "2026-01-21T06:25:20.820514Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 2.08,
+      "score": 2.07,
       "confianca": 59,
       "razoes": [
         {
@@ -23,7 +23,7 @@
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 2.08,
+      "score": 2.07,
       "confianca": 59,
       "razoes": [
         {
@@ -42,12 +42,12 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
+          "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss"
         }
       ],
       "chg1d": -0.014950214617338756,
@@ -55,34 +55,34 @@
       "chg1m": 0.1827297268870736
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.023922212326195926,
-      "chg5d": 0.03499761947503564,
-      "chg1m": 0.3059196596515762
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
+          "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss"
         }
       ],
       "chg1d": -0.044509345794392384,
       "chg5d": -0.013895168339512183,
       "chg1m": 0.181253610629694
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs",
+          "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.023922212326195926,
+      "chg5d": 0.03499761947503564,
+      "chg1m": 0.3059196596515762
     },
     {
       "symbol": "LMT",
