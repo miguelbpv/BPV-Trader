@@ -1,62 +1,86 @@
 {
-  "generated_at": "2026-01-22T12:31:04.406851Z",
+  "generated_at": "2026-01-22T15:22:11.137247Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.17,
-      "confianca": 33,
-      "razoes": [
-        {
-          "title": "Israeli minister approves gun licences for 18 illegal West Bank settlements",
-          "url": "https://www.aljazeera.com/news/2026/1/22/israeli-minister-approves-gun-licences-for-18-illegal-west-bank-settlements?traffic_source=rss"
-        },
-        {
-          "title": "Five killed in ‘treacherous’ attack on military convoy in Yemen",
-          "url": "https://www.aljazeera.com/news/2026/1/22/five-killed-in-treacherous-attack-on-military-convoy-in-yemen?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.017654410998854415,
-      "chg5d": 0.05002686727565837,
-      "chg1m": 0.2469264474411878
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.17,
-      "confianca": 33,
+      "acao": "comprar",
+      "score": 2.99,
+      "confianca": 85,
       "razoes": [
         {
-          "title": "Israeli minister approves gun licences for 18 illegal West Bank settlements",
-          "url": "https://www.aljazeera.com/news/2026/1/22/israeli-minister-approves-gun-licences-for-18-illegal-west-bank-settlements?traffic_source=rss"
+          "title": "Why did Israel join Trump’s ‘Board of Peace’ after raising objections?",
+          "url": "https://www.aljazeera.com/features/2026/1/22/why-did-israel-join-trumps-board-of-peace-after-raising-objections?traffic_source=rss"
         },
         {
-          "title": "Five killed in ‘treacherous’ attack on military convoy in Yemen",
-          "url": "https://www.aljazeera.com/news/2026/1/22/five-killed-in-treacherous-attack-on-military-convoy-in-yemen?traffic_source=rss"
+          "title": "Who were the Palestinian journalists Israeli forces just killed?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/who-were-the-palestinian-journalists-israeli-forces-just-killed?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers forcibly displacing largest Palestinian Bedouin village",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/israeli-settlers-forcibly-displacing-largest-palestinian-bedouin-village?traffic_source=rss"
+        },
+        {
+          "title": "Former government insider takes aim at US’s policy on Israel",
+          "url": "https://www.aljazeera.com/video/centre-stage/2026/1/22/aje-onl-cs-josh_paul-220126?traffic_source=rss"
         }
       ],
-      "chg1d": 0.024159663865546188,
-      "chg5d": 0.03723404255319149,
-      "chg1m": 0.11410745709257952
+      "chg1d": -0.005230769230769284,
+      "chg5d": 0.009051186017478051,
+      "chg1m": 0.10827981808624905
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.17,
-      "confianca": 33,
+      "acao": "comprar",
+      "score": 2.99,
+      "confianca": 85,
       "razoes": [
         {
-          "title": "Israeli minister approves gun licences for 18 illegal West Bank settlements",
-          "url": "https://www.aljazeera.com/news/2026/1/22/israeli-minister-approves-gun-licences-for-18-illegal-west-bank-settlements?traffic_source=rss"
+          "title": "Why did Israel join Trump’s ‘Board of Peace’ after raising objections?",
+          "url": "https://www.aljazeera.com/features/2026/1/22/why-did-israel-join-trumps-board-of-peace-after-raising-objections?traffic_source=rss"
         },
         {
-          "title": "Five killed in ‘treacherous’ attack on military convoy in Yemen",
-          "url": "https://www.aljazeera.com/news/2026/1/22/five-killed-in-treacherous-attack-on-military-convoy-in-yemen?traffic_source=rss"
+          "title": "Who were the Palestinian journalists Israeli forces just killed?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/who-were-the-palestinian-journalists-israeli-forces-just-killed?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers forcibly displacing largest Palestinian Bedouin village",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/israeli-settlers-forcibly-displacing-largest-palestinian-bedouin-village?traffic_source=rss"
+        },
+        {
+          "title": "Former government insider takes aim at US’s policy on Israel",
+          "url": "https://www.aljazeera.com/video/centre-stage/2026/1/22/aje-onl-cs-josh_paul-220126?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.99,
+      "confianca": 85,
+      "razoes": [
+        {
+          "title": "Why did Israel join Trump’s ‘Board of Peace’ after raising objections?",
+          "url": "https://www.aljazeera.com/features/2026/1/22/why-did-israel-join-trumps-board-of-peace-after-raising-objections?traffic_source=rss"
+        },
+        {
+          "title": "Who were the Palestinian journalists Israeli forces just killed?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/who-were-the-palestinian-journalists-israeli-forces-just-killed?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers forcibly displacing largest Palestinian Bedouin village",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/israeli-settlers-forcibly-displacing-largest-palestinian-bedouin-village?traffic_source=rss"
+        },
+        {
+          "title": "Former government insider takes aim at US’s policy on Israel",
+          "url": "https://www.aljazeera.com/video/centre-stage/2026/1/22/aje-onl-cs-josh_paul-220126?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004264537809392218,
+      "chg5d": 0.01925964728479129,
+      "chg1m": 0.2311602303165799
     }
   ]
 }
