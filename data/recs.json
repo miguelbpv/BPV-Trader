@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-22T15:22:11.137247Z",
+  "generated_at": "2026-01-22T18:20:48.352941Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.99,
-      "confianca": 85,
+      "score": 4.31,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
+          "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss"
+        },
         {
           "title": "Why did Israel join Trump’s ‘Board of Peace’ after raising objections?",
           "url": "https://www.aljazeera.com/features/2026/1/22/why-did-israel-join-trumps-board-of-peace-after-raising-objections?traffic_source=rss"
@@ -24,16 +28,20 @@
           "url": "https://www.aljazeera.com/video/centre-stage/2026/1/22/aje-onl-cs-josh_paul-220126?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005230769230769284,
-      "chg5d": 0.009051186017478051,
-      "chg1m": 0.10827981808624905
+      "chg1d": -0.0005128205128204837,
+      "chg5d": 0.013836870578443594,
+      "chg1m": 0.11353611993509619
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.99,
-      "confianca": 85,
+      "score": 4.31,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
+          "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss"
+        },
         {
           "title": "Why did Israel join Trump’s ‘Board of Peace’ after raising objections?",
           "url": "https://www.aljazeera.com/features/2026/1/22/why-did-israel-join-trumps-board-of-peace-after-raising-objections?traffic_source=rss"
@@ -58,8 +66,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.99,
-      "confianca": 85,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
         {
           "title": "Why did Israel join Trump’s ‘Board of Peace’ after raising objections?",
@@ -78,9 +86,54 @@
           "url": "https://www.aljazeera.com/video/centre-stage/2026/1/22/aje-onl-cs-josh_paul-220126?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004264537809392218,
-      "chg5d": 0.01925964728479129,
-      "chg1m": 0.2311602303165799
+      "chg1d": 0.01204305477372353,
+      "chg5d": 0.035952505674873264,
+      "chg1m": 0.25132347668360994
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Senegal coach defends AFCON final walk-off before expected sanction",
+          "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00545757453897867,
+      "chg5d": 0.054655016571256536,
+      "chg1m": 0.1675394416463761
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Senegal coach defends AFCON final walk-off before expected sanction",
+          "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015292737980574875,
+      "chg5d": 0.09271792802203017,
+      "chg1m": 0.30763574553512246
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Senegal coach defends AFCON final walk-off before expected sanction",
+          "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.017300993499325408,
+      "chg5d": 0.01422212711320349,
+      "chg1m": 0.14816473438311134
     }
   ]
 }
