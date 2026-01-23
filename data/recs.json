@@ -1,31 +1,20 @@
 {
-  "generated_at": "2026-01-23T04:01:28.301915Z",
+  "generated_at": "2026-01-23T06:23:18.287540Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.08,
-      "confianca": 59,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.31,
+      "confianca": 94,
       "razoes": [
         {
-          "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
-          "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
+          "title": "Feet dragging, division and obstruction: What Israel really wants for Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/23/feet-dragging-division-and-obstruction-what-israel-really-wants-for-gaza?traffic_source=rss"
         },
         {
-          "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
-          "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003282051282051212,
-      "chg5d": 0.017686225551393972,
-      "chg1m": 0.11776401490047304
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.08,
-      "confianca": 59,
-      "razoes": [
+          "title": "Australian, Palestinian lawyers seek police probe of Israeli president",
+          "url": "https://www.aljazeera.com/news/2026/1/23/australian-palestinian-lawyers-seek-police-probe-of-israeli-president?traffic_source=rss"
+        },
         {
           "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
           "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
@@ -40,10 +29,60 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.31,
+      "confianca": 94,
+      "razoes": [
+        {
+          "title": "Feet dragging, division and obstruction: What Israel really wants for Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/23/feet-dragging-division-and-obstruction-what-israel-really-wants-for-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Australian, Palestinian lawyers seek police probe of Israeli president",
+          "url": "https://www.aljazeera.com/news/2026/1/23/australian-palestinian-lawyers-seek-police-probe-of-israeli-president?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
+          "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
+        },
+        {
+          "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
+          "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003282051282051212,
+      "chg5d": 0.017686225551393972,
+      "chg1m": 0.11776401490047304
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.99,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "Feet dragging, division and obstruction: What Israel really wants for Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/23/feet-dragging-division-and-obstruction-what-israel-really-wants-for-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Australian, Palestinian lawyers seek police probe of Israeli president",
+          "url": "https://www.aljazeera.com/news/2026/1/23/australian-palestinian-lawyers-seek-police-probe-of-israeli-president?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
+          "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013100660150452808,
+      "chg5d": 0.0370350969093765,
+      "chg1m": 0.25263113492080225
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Senegal coach defends AFCON final walk-off before expected sanction",
@@ -57,8 +96,8 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Senegal coach defends AFCON final walk-off before expected sanction",
@@ -72,8 +111,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "Senegal coach defends AFCON final walk-off before expected sanction",
@@ -83,21 +122,6 @@
       "chg1d": 0.025667419067855867,
       "chg5d": 0.10388377172158388,
       "chg1m": 0.3209977083767353
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.75,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
-          "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013100660150452808,
-      "chg5d": 0.0370350969093765,
-      "chg1m": 0.25263113492080225
     }
   ]
 }
