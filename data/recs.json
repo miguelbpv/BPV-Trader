@@ -1,23 +1,15 @@
 {
-  "generated_at": "2026-01-22T21:15:18.824264Z",
+  "generated_at": "2026-01-23T01:07:36.149359Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 1.33,
+      "confianca": 38,
       "razoes": [
         {
           "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
           "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel join Trump’s ‘Board of Peace’ after raising objections?",
-          "url": "https://www.aljazeera.com/features/2026/1/22/why-did-israel-join-trumps-board-of-peace-after-raising-objections?traffic_source=rss"
-        },
-        {
-          "title": "Who were the Palestinian journalists Israeli forces just killed?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/who-were-the-palestinian-journalists-israeli-forces-just-killed?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,50 +18,23 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 1.33,
+      "confianca": 38,
       "razoes": [
         {
           "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
           "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel join Trump’s ‘Board of Peace’ after raising objections?",
-          "url": "https://www.aljazeera.com/features/2026/1/22/why-did-israel-join-trumps-board-of-peace-after-raising-objections?traffic_source=rss"
-        },
-        {
-          "title": "Who were the Palestinian journalists Israeli forces just killed?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/who-were-the-palestinian-journalists-israeli-forces-just-killed?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003384615384615367,
-      "chg5d": 0.017790262172284577,
-      "chg1m": 0.11787828233196977
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Why did Israel join Trump’s ‘Board of Peace’ after raising objections?",
-          "url": "https://www.aljazeera.com/features/2026/1/22/why-did-israel-join-trumps-board-of-peace-after-raising-objections?traffic_source=rss"
-        },
-        {
-          "title": "Who were the Palestinian journalists Israeli forces just killed?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/who-were-the-palestinian-journalists-israeli-forces-just-killed?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.012469508554662752,
-      "chg5d": 0.03638903439846327,
-      "chg1m": 0.2518507582308649
+      "chg1d": 0.003282051282051212,
+      "chg5d": 0.017686225551393972,
+      "chg1m": 0.11776401490047304
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -77,29 +42,14 @@
           "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003924935606525122,
-      "chg5d": 0.0008865519244289798,
-      "chg1m": 0.13306800484512887
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Senegal coach defends AFCON final walk-off before expected sanction",
-          "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0256821239770898,
-      "chg5d": 0.10389959801221786,
-      "chg1m": 0.3210166474119808
+      "chg1d": 0.0038329449282472707,
+      "chg5d": 0.0007948396563846746,
+      "chg1m": 0.13296418065409246
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -107,9 +57,24 @@
           "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0013213075199633377,
-      "chg5d": 0.050316360349503,
-      "chg1m": 0.16273639971982262
+      "chg1d": 0.0014362038260469926,
+      "chg5d": 0.05043687857788494,
+      "chg1m": 0.16286981755111565
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Senegal coach defends AFCON final walk-off before expected sanction",
+          "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02588431647905665,
+      "chg5d": 0.10411720950843545,
+      "chg1m": 0.32127705914660715
     }
   ]
 }
