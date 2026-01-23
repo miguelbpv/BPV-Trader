@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-01-23T01:07:36.149359Z",
+  "generated_at": "2026-01-23T04:01:28.301915Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.33,
-      "confianca": 38,
-      "razoes": [
-        {
-          "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
-          "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.33,
-      "confianca": 38,
+      "score": 2.08,
+      "confianca": 59,
       "razoes": [
+        {
+          "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
+          "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
+        },
         {
           "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
           "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss"
@@ -30,6 +19,25 @@
       "chg1d": 0.003282051282051212,
       "chg5d": 0.017686225551393972,
       "chg1m": 0.11776401490047304
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 2.08,
+      "confianca": 59,
+      "razoes": [
+        {
+          "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
+          "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
+        },
+        {
+          "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
+          "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "TSM",
@@ -57,9 +65,9 @@
           "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0014362038260469926,
-      "chg5d": 0.05043687857788494,
-      "chg1m": 0.16286981755111565
+      "chg1d": 0.001522376055609897,
+      "chg5d": 0.05052726724917156,
+      "chg1m": 0.16296988092458561
     },
     {
       "symbol": "ASML.AS",
@@ -72,9 +80,24 @@
           "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02588431647905665,
-      "chg5d": 0.10411720950843545,
-      "chg1m": 0.32127705914660715
+      "chg1d": 0.025667419067855867,
+      "chg5d": 0.10388377172158388,
+      "chg1m": 0.3209977083767353
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.75,
+      "confianca": 21,
+      "razoes": [
+        {
+          "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
+          "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.013100660150452808,
+      "chg5d": 0.0370350969093765,
+      "chg1m": 0.25263113492080225
     }
   ]
 }
