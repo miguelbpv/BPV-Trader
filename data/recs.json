@@ -1,42 +1,54 @@
 {
-  "generated_at": "2026-01-23T15:18:02.751578Z",
+  "generated_at": "2026-01-23T18:22:00.693040Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
-      "razoes": [
-        {
-          "title": "Israeli TikToker attacks activists in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/israeli-tiktoker-attacks-activists-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.006474044888956094,
-      "chg5d": 0.021068023326238677,
-      "chg1m": 0.22022664764149982
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Why Qatar is betting on diplomacy with Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss"
+        },
         {
           "title": "Israeli TikToker attacks activists in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/israeli-tiktoker-attacks-activists-in-occupied-west-bank?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013391944387650812,
-      "chg5d": 0.04106280193236712,
-      "chg1m": 0.12112644198145209
+      "chg1d": 0.008280515232058907,
+      "chg5d": 0.0358118042428061,
+      "chg1m": 0.11547161275729466
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Why Qatar is betting on diplomacy with Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israeli TikToker attacks activists in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/israeli-tiktoker-attacks-activists-in-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011671802124901107,
+      "chg5d": 0.015726176261918298,
+      "chg1m": 0.21384287693612086
     },
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.5,
-      "confianca": 14,
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Why Qatar is betting on diplomacy with Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss"
+        },
         {
           "title": "Israeli TikToker attacks activists in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/israeli-tiktoker-attacks-activists-in-occupied-west-bank?traffic_source=rss"
