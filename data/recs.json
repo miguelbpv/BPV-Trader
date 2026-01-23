@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-01-23T09:22:29.862766Z",
+  "generated_at": "2026-01-23T12:30:23.272794Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump says ‘armada’ of US warships is heading towards Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/trump-says-armada-of-us-warships-is-heading-towards-iran?traffic_source=rss"
-        },
-        {
-          "title": "Why is South Africa upset about Iran joining BRICS naval drills?",
-          "url": "https://www.aljazeera.com/news/2026/1/23/why-is-south-africa-upset-about-iran-joining-brics-naval-drills?traffic_source=rss"
-        },
-        {
-          "title": "Feet dragging, division and obstruction: What Israel really wants for Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/23/feet-dragging-division-and-obstruction-what-israel-really-wants-for-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Australian, Palestinian lawyers seek police probe of Israeli president",
-          "url": "https://www.aljazeera.com/news/2026/1/23/australian-palestinian-lawyers-seek-police-probe-of-israeli-president?traffic_source=rss"
-        },
-        {
-          "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
-          "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003282051282051212,
-      "chg5d": 0.017686225551393972,
-      "chg1m": 0.11776401490047304
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.46,
+      "score": 3.43,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.43,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump says ‘armada’ of US warships is heading towards Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/trump-says-armada-of-us-warships-is-heading-towards-iran?traffic_source=rss"
+        },
+        {
+          "title": "Why is South Africa upset about Iran joining BRICS naval drills?",
+          "url": "https://www.aljazeera.com/news/2026/1/23/why-is-south-africa-upset-about-iran-joining-brics-naval-drills?traffic_source=rss"
+        },
+        {
+          "title": "Feet dragging, division and obstruction: What Israel really wants for Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/23/feet-dragging-division-and-obstruction-what-israel-really-wants-for-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Australian, Palestinian lawyers seek police probe of Israeli president",
+          "url": "https://www.aljazeera.com/news/2026/1/23/australian-palestinian-lawyers-seek-police-probe-of-israeli-president?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US still ‘watching Iran‘ as ‘massive’ fleet heads to Gulf region",
+          "url": "https://www.aljazeera.com/news/2026/1/23/trump-says-us-still-watching-iran-as-massive-fleet-heads-to-gulf-region?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003282051282051212,
+      "chg5d": 0.017686225551393972,
+      "chg1m": 0.11776401490047304
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.46,
+      "score": 3.43,
       "confianca": 95,
       "razoes": [
         {
