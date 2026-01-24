@@ -1,38 +1,11 @@
 {
-  "generated_at": "2026-01-24T03:56:45.771243Z",
+  "generated_at": "2026-01-24T06:21:05.081329Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela’s interim president’s oil law reform to break with Chavez model",
-          "url": "https://www.aljazeera.com/economy/2026/1/23/venezuelas-interim-presidents-oil-law-reform-to-break-with-chavez-model?traffic_source=rss"
-        },
-        {
-          "title": "Why Qatar is betting on diplomacy with Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00562257207115121,
-      "chg5d": 0.033081285444234464,
-      "chg1m": 0.1125311015607329
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
         {
           "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
@@ -45,10 +18,6 @@
         {
           "title": "Venezuela’s interim president’s oil law reform to break with Chavez model",
           "url": "https://www.aljazeera.com/economy/2026/1/23/venezuelas-interim-presidents-oil-law-reform-to-break-with-chavez-model?traffic_source=rss"
-        },
-        {
-          "title": "Why Qatar is betting on diplomacy with Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -56,10 +25,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.32,
-      "confianca": 66,
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
         {
           "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
@@ -70,8 +39,27 @@
           "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
         },
         {
-          "title": "Why Qatar is betting on diplomacy with Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss"
+          "title": "Venezuela’s interim president’s oil law reform to break with Chavez model",
+          "url": "https://www.aljazeera.com/economy/2026/1/23/venezuelas-interim-presidents-oil-law-reform-to-break-with-chavez-model?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005724800654262956,
+      "chg5d": 0.03318630539802559,
+      "chg1m": 0.11264419814521594
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.58,
+      "confianca": 45,
+      "razoes": [
+        {
+          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
+        },
+        {
+          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
+          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
         }
       ],
       "chg1d": -0.005202808506339206,
@@ -79,7 +67,7 @@
       "chg1m": 0.2217879521062102
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.84,
       "confianca": 24,
@@ -89,9 +77,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
         }
       ],
-      "chg1d": 0.022909857347954914,
-      "chg5d": -0.019816180775084832,
-      "chg1m": 0.1418098745226406
+      "chg1d": -0.011357444001491485,
+      "chg5d": 0.02221101951248429,
+      "chg1m": 0.13451158504476043
     },
     {
       "symbol": "ASML.AS",
@@ -109,7 +97,7 @@
       "chg1m": 0.3141592083104694
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
       "score": 0.84,
       "confianca": 24,
@@ -119,9 +107,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011357444001491485,
-      "chg5d": 0.02221101951248429,
-      "chg1m": 0.13451158504476043
+      "chg1d": 0.022909857347954914,
+      "chg5d": -0.019816180775084832,
+      "chg1m": 0.1418098745226406
     }
   ]
 }
