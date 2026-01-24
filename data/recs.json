@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T21:13:53.819064Z",
+  "generated_at": "2026-01-24T01:04:08.772744Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
         {
           "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
@@ -18,21 +18,17 @@
         {
           "title": "Why Qatar is betting on diplomacy with Iran",
           "url": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israeli TikToker attacks activists in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/israeli-tiktoker-attacks-activists-in-occupied-west-bank?traffic_source=rss"
         }
       ],
-      "chg1d": 0.005009200572480159,
-      "chg5d": 0.03245116572148712,
-      "chg1m": 0.11185252205383397
+      "chg1d": 0.00562257207115121,
+      "chg5d": 0.033081285444234464,
+      "chg1m": 0.1125311015607329
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
         {
           "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
@@ -45,10 +41,6 @@
         {
           "title": "Why Qatar is betting on diplomacy with Iran",
           "url": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israeli TikToker attacks activists in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/israeli-tiktoker-attacks-activists-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,8 +50,8 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 2.08,
-      "confianca": 59,
+      "score": 1.58,
+      "confianca": 45,
       "razoes": [
         {
           "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
@@ -68,20 +60,16 @@
         {
           "title": "Why Qatar is betting on diplomacy with Iran",
           "url": "https://www.aljazeera.com/opinions/2026/1/23/why-qatar-is-betting-on-diplomacy-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israeli TikToker attacks activists in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/23/israeli-tiktoker-attacks-activists-in-occupied-west-bank?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006229900153221754,
-      "chg5d": 0.021318936129713355,
-      "chg1m": 0.2205265008168415
+      "chg1d": -0.005202808506339206,
+      "chg5d": 0.022374500337434572,
+      "chg1m": 0.2217879521062102
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -89,14 +77,14 @@
           "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0044086021505377,
-      "chg5d": 0.04299339140883148,
-      "chg1m": 0.31397945088838
+      "chg1d": -0.0042724014336917825,
+      "chg5d": 0.043136076899970004,
+      "chg1m": 0.3141592083104694
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -104,14 +92,14 @@
           "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02107706876011845,
-      "chg5d": -0.02157241540803186,
-      "chg1m": 0.1397640480087289
+      "chg1d": 0.022909857347954914,
+      "chg5d": -0.019816180775084832,
+      "chg1m": 0.1418098745226406
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -119,9 +107,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011500846072217257,
-      "chg5d": 0.022062748354190136,
-      "chg1m": 0.13434702474986854
+      "chg1d": -0.011357444001491485,
+      "chg5d": 0.02221101951248429,
+      "chg1m": 0.13451158504476043
     }
   ]
 }
