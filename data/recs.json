@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-24T01:04:08.772744Z",
+  "generated_at": "2026-01-24T03:56:45.771243Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "score": 3.65,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
+        },
         {
           "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
           "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
@@ -27,9 +31,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.91,
-      "confianca": 83,
+      "score": 3.65,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
+        },
         {
           "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
           "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
@@ -49,10 +57,14 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.58,
-      "confianca": 45,
+      "acao": "comprar",
+      "score": 2.32,
+      "confianca": 66,
       "razoes": [
+        {
+          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
+        },
         {
           "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
           "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
@@ -67,24 +79,9 @@
       "chg1m": 0.2217879521062102
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0042724014336917825,
-      "chg5d": 0.043136076899970004,
-      "chg1m": 0.3141592083104694
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -97,9 +94,24 @@
       "chg1m": 0.1418098745226406
     },
     {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
+          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0042724014336917825,
+      "chg5d": 0.043136076899970004,
+      "chg1m": 0.3141592083104694
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
