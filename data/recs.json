@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-24T09:13:58.448141Z",
+  "generated_at": "2026-01-24T12:25:38.763903Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.31,
-      "confianca": 66,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "‘Change is inevitable’: What is next for Iran?",
+          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
+        },
         {
           "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
           "url": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel?traffic_source=rss"
@@ -14,10 +18,29 @@
         {
           "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
           "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005724800654262956,
+      "chg5d": 0.03318630539802559,
+      "chg1m": 0.11264419814521594
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.21,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "‘Change is inevitable’: What is next for Iran?",
+          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
         },
         {
-          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
+          "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,9 +50,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.31,
-      "confianca": 66,
+      "score": 2.21,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "‘Change is inevitable’: What is next for Iran?",
+          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
+        },
         {
           "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
           "url": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel?traffic_source=rss"
@@ -37,83 +64,11 @@
         {
           "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
           "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
         }
       ],
       "chg1d": -0.005202808506339206,
       "chg5d": 0.022374500337434572,
       "chg1m": 0.2217879521062102
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.31,
-      "confianca": 66,
-      "razoes": [
-        {
-          "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005724800654262956,
-      "chg5d": 0.03318630539802559,
-      "chg1m": 0.11264419814521594
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.022909857347954914,
-      "chg5d": -0.019816180775084832,
-      "chg1m": 0.1418098745226406
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0042724014336917825,
-      "chg5d": 0.043136076899970004,
-      "chg1m": 0.3141592083104694
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.83,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "US sanctions Iran ‘shadow fleet’ it says fuels violent protest crackdown",
-          "url": "https://www.aljazeera.com/news/2026/1/23/us-sanctions-iran-shadow-fleet-it-says-fuels-violent-protest-crackdown?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011357444001491485,
-      "chg5d": 0.02221101951248429,
-      "chg1m": 0.13451158504476043
     }
   ]
 }
