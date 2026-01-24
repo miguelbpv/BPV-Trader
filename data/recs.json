@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-24T12:25:38.763903Z",
+  "generated_at": "2026-01-24T15:12:54.262925Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "Israeli drone strike kills two children collecting firewood in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss"
+        },
         {
           "title": "‘Change is inevitable’: What is next for Iran?",
           "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
-        },
-        {
-          "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel?traffic_source=rss"
         },
         {
           "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
@@ -25,41 +25,18 @@
       "chg1m": 0.11264419814521594
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "‘Change is inevitable’: What is next for Iran?",
-          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
-        },
-        {
-          "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
+        {
+          "title": "Israeli drone strike kills two children collecting firewood in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss"
+        },
         {
           "title": "‘Change is inevitable’: What is next for Iran?",
           "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
-        },
-        {
-          "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel?traffic_source=rss"
         },
         {
           "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
@@ -69,6 +46,29 @@
       "chg1d": -0.005202808506339206,
       "chg5d": 0.022374500337434572,
       "chg1m": 0.2217879521062102
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Israeli drone strike kills two children collecting firewood in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "‘Change is inevitable’: What is next for Iran?",
+          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
