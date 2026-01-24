@@ -1,37 +1,10 @@
 {
-  "generated_at": "2026-01-24T18:19:33.032326Z",
+  "generated_at": "2026-01-24T21:12:09.069521Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.69,
-      "confianca": 76,
-      "razoes": [
-        {
-          "title": "Iran rejects UN rights resolution condemning protest killings",
-          "url": "https://www.aljazeera.com/news/2026/1/24/iran-rejects-un-rights-resolution-condemning-protest-killings?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone strike kills two children collecting firewood in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "‘Change is inevitable’: What is next for Iran?",
-          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005724800654262956,
-      "chg5d": 0.03318630539802559,
-      "chg1m": 0.11264419814521594
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.69,
+      "score": 2.67,
       "confianca": 76,
       "razoes": [
         {
@@ -56,9 +29,36 @@
       "chg1m": 0.2217879521062102
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.67,
+      "confianca": 76,
+      "razoes": [
+        {
+          "title": "Iran rejects UN rights resolution condemning protest killings",
+          "url": "https://www.aljazeera.com/news/2026/1/24/iran-rejects-un-rights-resolution-condemning-protest-killings?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone strike kills two children collecting firewood in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "‘Change is inevitable’: What is next for Iran?",
+          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye’s FM Fidan says Israel ‘looking for opportunity’ to attack Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005724800654262956,
+      "chg5d": 0.03318630539802559,
+      "chg1m": 0.11264419814521594
+    },
+    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.69,
+      "score": 2.67,
       "confianca": 76,
       "razoes": [
         {
@@ -83,9 +83,85 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "US federal agents shoot and kill US citizen in Minneapolis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
+        },
+        {
+          "title": "US federal agents shoot and kill another person in Minneapolis",
+          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.018458801289892204,
+      "chg5d": -0.002636435539151025,
+      "chg1m": 0.04428582695796194
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "US federal agents shoot and kill US citizen in Minneapolis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
+        },
+        {
+          "title": "US federal agents shoot and kill another person in Minneapolis",
+          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00036285523527533457,
+      "chg5d": -0.004348202935398115,
+      "chg1m": 0.006424952177912733
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "US federal agents shoot and kill US citizen in Minneapolis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
+        },
+        {
+          "title": "US federal agents shoot and kill another person in Minneapolis",
+          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 1.97,
+      "confianca": 56,
+      "razoes": [
+        {
+          "title": "US federal agents shoot and kill US citizen in Minneapolis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
+        },
+        {
+          "title": "US federal agents shoot and kill another person in Minneapolis",
+          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00315741993685166,
+      "chg5d": 0.001511788735565722,
+      "chg1m": 0.005668513105408489
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.11,
+      "score": 1.1,
       "confianca": 31,
       "razoes": [
         {
@@ -98,24 +174,9 @@
       "chg1m": 0.13451158504476043
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.11,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Trump threatens 100 percent tariff on Canada over China deal",
-          "url": "https://www.aljazeera.com/news/2026/1/24/trump-threatens-100-percent-tariff-on-canada-over-china-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0042724014336917825,
-      "chg5d": 0.043136076899970004,
-      "chg1m": 0.3141592083104694
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.11,
+      "score": 1.1,
       "confianca": 31,
       "razoes": [
         {
@@ -128,64 +189,19 @@
       "chg1m": 0.1418098745226406
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 1.1,
+      "confianca": 31,
       "razoes": [
         {
-          "title": "US federal agents shoot and kill another person in Minneapolis",
-          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
+          "title": "Trump threatens 100 percent tariff on Canada over China deal",
+          "url": "https://www.aljazeera.com/news/2026/1/24/trump-threatens-100-percent-tariff-on-canada-over-china-deal?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US federal agents shoot and kill another person in Minneapolis",
-          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00036285523527533457,
-      "chg5d": -0.004348202935398115,
-      "chg1m": 0.006424952177912733
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US federal agents shoot and kill another person in Minneapolis",
-          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00315741993685166,
-      "chg5d": 0.001511788735565722,
-      "chg1m": 0.005668513105408489
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US federal agents shoot and kill another person in Minneapolis",
-          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.018458801289892204,
-      "chg5d": -0.002636435539151025,
-      "chg1m": 0.04428582695796194
+      "chg1d": -0.0042724014336917825,
+      "chg5d": 0.043136076899970004,
+      "chg1m": 0.3141592083104694
     }
   ]
 }
