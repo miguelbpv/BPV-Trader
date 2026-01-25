@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-01-25T06:21:17.725918Z",
+  "generated_at": "2026-01-25T09:14:40.897914Z",
   "recs": [
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "US federal agents shoot and kill US citizen in Minneapolis",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
-        },
-        {
-          "title": "Federal agents shoot and kill another US citizen in Minneapolis",
-          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.018458801289892204,
-      "chg5d": -0.002636435539151025,
-      "chg1m": 0.04428582695796194
-    },
-    {
       "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "acao": "comprar",
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
+        {
+          "title": "Minneapolis live news: US federal agents shoot dead nurse Alex Pretti",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/25/minneapolis-live-us-federal-agents-shoot-dead-nurse-alex-pretti?traffic_source=rss"
+        },
         {
           "title": "US federal agents shoot and kill US citizen in Minneapolis",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
         },
         {
-          "title": "Federal agents shoot and kill another US citizen in Minneapolis",
+          "title": "Federal agents in Minneapolis shoot dead US citizen Alex Pretti",
           "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
         }
       ],
@@ -40,17 +25,67 @@
       "chg1m": 0.006424952177912733
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "symbol": "EUROSTOXX50",
+      "acao": "comprar",
+      "score": 2.91,
+      "confianca": 83,
       "razoes": [
+        {
+          "title": "Minneapolis live news: US federal agents shoot dead nurse Alex Pretti",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/25/minneapolis-live-us-federal-agents-shoot-dead-nurse-alex-pretti?traffic_source=rss"
+        },
         {
           "title": "US federal agents shoot and kill US citizen in Minneapolis",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
         },
         {
-          "title": "Federal agents shoot and kill another US citizen in Minneapolis",
+          "title": "Federal agents in Minneapolis shoot dead US citizen Alex Pretti",
+          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "comprar",
+      "score": 2.91,
+      "confianca": 83,
+      "razoes": [
+        {
+          "title": "Minneapolis live news: US federal agents shoot dead nurse Alex Pretti",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/25/minneapolis-live-us-federal-agents-shoot-dead-nurse-alex-pretti?traffic_source=rss"
+        },
+        {
+          "title": "US federal agents shoot and kill US citizen in Minneapolis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
+        },
+        {
+          "title": "Federal agents in Minneapolis shoot dead US citizen Alex Pretti",
+          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.018458801289892204,
+      "chg5d": -0.002636435539151025,
+      "chg1m": 0.04428582695796194
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "comprar",
+      "score": 2.91,
+      "confianca": 83,
+      "razoes": [
+        {
+          "title": "Minneapolis live news: US federal agents shoot dead nurse Alex Pretti",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/25/minneapolis-live-us-federal-agents-shoot-dead-nurse-alex-pretti?traffic_source=rss"
+        },
+        {
+          "title": "US federal agents shoot and kill US citizen in Minneapolis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
+        },
+        {
+          "title": "Federal agents in Minneapolis shoot dead US citizen Alex Pretti",
           "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
         }
       ],
@@ -59,18 +94,18 @@
       "chg1m": 0.005668513105408489
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.93,
-      "confianca": 55,
+      "score": 2.06,
+      "confianca": 58,
       "razoes": [
         {
-          "title": "US federal agents shoot and kill US citizen in Minneapolis",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
+          "title": "Week in Pictures: From Minneapolis turmoil to Israeli attacks on Gaza",
+          "url": "https://www.aljazeera.com/gallery/2026/1/25/week-in-pictures-from-minneapolis-turmoil-to-israeli-attacks-on-gaza?traffic_source=rss"
         },
         {
-          "title": "Federal agents shoot and kill another US citizen in Minneapolis",
-          "url": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
+          "title": "Iran rejects UN rights resolution condemning protest killings",
+          "url": "https://www.aljazeera.com/news/2026/1/24/iran-rejects-un-rights-resolution-condemning-protest-killings?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -78,45 +113,18 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.9,
-      "confianca": 54,
-      "razoes": [
-        {
-          "title": "Iran rejects UN rights resolution condemning protest killings",
-          "url": "https://www.aljazeera.com/news/2026/1/24/iran-rejects-un-rights-resolution-condemning-protest-killings?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone strike kills two children collecting firewood in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "‘Change is inevitable’: What is next for Iran?",
-          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005202808506339206,
-      "chg5d": 0.022374500337434572,
-      "chg1m": 0.2217879521062102
-    },
-    {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.9,
-      "confianca": 54,
+      "score": 2.06,
+      "confianca": 58,
       "razoes": [
+        {
+          "title": "Week in Pictures: From Minneapolis turmoil to Israeli attacks on Gaza",
+          "url": "https://www.aljazeera.com/gallery/2026/1/25/week-in-pictures-from-minneapolis-turmoil-to-israeli-attacks-on-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran rejects UN rights resolution condemning protest killings",
           "url": "https://www.aljazeera.com/news/2026/1/24/iran-rejects-un-rights-resolution-condemning-protest-killings?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone strike kills two children collecting firewood in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "‘Change is inevitable’: What is next for Iran?",
-          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.005724800654262956,
@@ -124,32 +132,28 @@
       "chg1m": 0.11264419814521594
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.9,
-      "confianca": 54,
+      "score": 2.06,
+      "confianca": 58,
       "razoes": [
+        {
+          "title": "Week in Pictures: From Minneapolis turmoil to Israeli attacks on Gaza",
+          "url": "https://www.aljazeera.com/gallery/2026/1/25/week-in-pictures-from-minneapolis-turmoil-to-israeli-attacks-on-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran rejects UN rights resolution condemning protest killings",
           "url": "https://www.aljazeera.com/news/2026/1/24/iran-rejects-un-rights-resolution-condemning-protest-killings?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone strike kills two children collecting firewood in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "‘Change is inevitable’: What is next for Iran?",
-          "url": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.005202808506339206,
+      "chg5d": 0.022374500337434572,
+      "chg1m": 0.2217879521062102
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -162,24 +166,9 @@
       "chg1m": 0.1418098745226406
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump threatens 100 percent tariff on Canada over China deal",
-          "url": "https://www.aljazeera.com/news/2026/1/24/trump-threatens-100-percent-tariff-on-canada-over-china-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011357444001491485,
-      "chg5d": 0.02221101951248429,
-      "chg1m": 0.13451158504476043
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -190,6 +179,21 @@
       "chg1d": -0.0042724014336917825,
       "chg5d": 0.043136076899970004,
       "chg1m": 0.3141592083104694
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.07,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "Trump threatens 100 percent tariff on Canada over China deal",
+          "url": "https://www.aljazeera.com/news/2026/1/24/trump-threatens-100-percent-tariff-on-canada-over-china-deal?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011357444001491485,
+      "chg5d": 0.02221101951248429,
+      "chg1m": 0.13451158504476043
     }
   ]
 }
