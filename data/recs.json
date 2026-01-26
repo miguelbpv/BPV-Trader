@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-25T21:12:30.782633Z",
+  "generated_at": "2026-01-26T01:11:55.050843Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.68,
+      "score": 4.37,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel says Rafah crossing to open after search for last captive body ends",
+          "url": "https://www.aljazeera.com/news/2026/1/25/hamas-says-gave-israel-mediators-details-about-last-gaza-captives-remains?traffic_source=rss"
+        },
         {
           "title": "Israel extends ban on Al Jazeera’s operations by 90 days",
           "url": "https://www.aljazeera.com/news/2026/1/25/israel-extends-ban-on-al-jazeeras-operations-by-90-days?traffic_source=rss"
@@ -22,10 +26,37 @@
         {
           "title": "Wave of Israeli attacks kills two in Lebanon in latest ceasefire violation",
           "url": "https://www.aljazeera.com/news/2026/1/25/wave-of-israeli-attacks-kills-two-in-lebanon-in-latest-ceasefire-violation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.37,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel says Rafah crossing to open after search for last captive body ends",
+          "url": "https://www.aljazeera.com/news/2026/1/25/hamas-says-gave-israel-mediators-details-about-last-gaza-captives-remains?traffic_source=rss"
         },
         {
-          "title": "Trump says ‘US armada’ moving towards Iran as tensions escalate",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/25/trump-says-us-armada-moving-towards-iran-as-tensions-escalate?traffic_source=rss"
+          "title": "Israel extends ban on Al Jazeera’s operations by 90 days",
+          "url": "https://www.aljazeera.com/news/2026/1/25/israel-extends-ban-on-al-jazeeras-operations-by-90-days?traffic_source=rss"
+        },
+        {
+          "title": "US military moves Navy, Air Force assets to the Middle East: What to know",
+          "url": "https://www.aljazeera.com/news/2026/1/25/us-military-moves-navy-air-force-assets-to-the-middle-east-what-to-know?traffic_source=rss"
+        },
+        {
+          "title": "Envoys from US meet Netanyahu as Israel continues to bomb Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/25/us-envoys-meet-netanyahu-as-israel-continues-to-bomb-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Wave of Israeli attacks kills two in Lebanon in latest ceasefire violation",
+          "url": "https://www.aljazeera.com/news/2026/1/25/wave-of-israeli-attacks-kills-two-in-lebanon-in-latest-ceasefire-violation?traffic_source=rss"
         }
       ],
       "chg1d": 0.005724800654262956,
@@ -35,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.68,
+      "score": 4.37,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel says Rafah crossing to open after search for last captive body ends",
+          "url": "https://www.aljazeera.com/news/2026/1/25/hamas-says-gave-israel-mediators-details-about-last-gaza-captives-remains?traffic_source=rss"
+        },
         {
           "title": "Israel extends ban on Al Jazeera’s operations by 90 days",
           "url": "https://www.aljazeera.com/news/2026/1/25/israel-extends-ban-on-al-jazeeras-operations-by-90-days?traffic_source=rss"
@@ -53,10 +88,6 @@
         {
           "title": "Wave of Israeli attacks kills two in Lebanon in latest ceasefire violation",
           "url": "https://www.aljazeera.com/news/2026/1/25/wave-of-israeli-attacks-kills-two-in-lebanon-in-latest-ceasefire-violation?traffic_source=rss"
-        },
-        {
-          "title": "Trump says ‘US armada’ moving towards Iran as tensions escalate",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/25/trump-says-us-armada-moving-towards-iran-as-tensions-escalate?traffic_source=rss"
         }
       ],
       "chg1d": -0.005202808506339206,
@@ -64,30 +95,29 @@
       "chg1m": 0.2217879521062102
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.68,
-      "confianca": 95,
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Israel extends ban on Al Jazeera’s operations by 90 days",
-          "url": "https://www.aljazeera.com/news/2026/1/25/israel-extends-ban-on-al-jazeeras-operations-by-90-days?traffic_source=rss"
-        },
+          "title": "Minnesota governor wants federal immigration agents out after Pretti killed",
+          "url": "https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.018458801289892204,
+      "chg5d": -0.002636435539151025,
+      "chg1m": 0.04428582695796194
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
         {
-          "title": "US military moves Navy, Air Force assets to the Middle East: What to know",
-          "url": "https://www.aljazeera.com/news/2026/1/25/us-military-moves-navy-air-force-assets-to-the-middle-east-what-to-know?traffic_source=rss"
-        },
-        {
-          "title": "Envoys from US meet Netanyahu as Israel continues to bomb Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/25/us-envoys-meet-netanyahu-as-israel-continues-to-bomb-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Wave of Israeli attacks kills two in Lebanon in latest ceasefire violation",
-          "url": "https://www.aljazeera.com/news/2026/1/25/wave-of-israeli-attacks-kills-two-in-lebanon-in-latest-ceasefire-violation?traffic_source=rss"
-        },
-        {
-          "title": "Trump says ‘US armada’ moving towards Iran as tensions escalate",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/25/trump-says-us-armada-moving-towards-iran-as-tensions-escalate?traffic_source=rss"
+          "title": "Minnesota governor wants federal immigration agents out after Pretti killed",
+          "url": "https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,49 +125,34 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Cuban official accuses US of ‘piracy’ against sanctioned Caribbean island",
-          "url": "https://www.aljazeera.com/news/2026/1/25/cuban-official-accuses-us-of-piracy-against-sanctioned-caribbean-island?traffic_source=rss"
+          "title": "Minnesota governor wants federal immigration agents out after Pretti killed",
+          "url": "https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0042724014336917825,
-      "chg5d": 0.043136076899970004,
-      "chg1m": 0.3141592083104694
+      "chg1d": 0.00036285523527533457,
+      "chg5d": -0.004348202935398115,
+      "chg1m": 0.006424952177912733
     },
     {
-      "symbol": "TSM",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Cuban official accuses US of ‘piracy’ against sanctioned Caribbean island",
-          "url": "https://www.aljazeera.com/news/2026/1/25/cuban-official-accuses-us-of-piracy-against-sanctioned-caribbean-island?traffic_source=rss"
+          "title": "Minnesota governor wants federal immigration agents out after Pretti killed",
+          "url": "https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss"
         }
       ],
-      "chg1d": 0.022909857347954914,
-      "chg5d": -0.019816180775084832,
-      "chg1m": 0.1418098745226406
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "Cuban official accuses US of ‘piracy’ against sanctioned Caribbean island",
-          "url": "https://www.aljazeera.com/news/2026/1/25/cuban-official-accuses-us-of-piracy-against-sanctioned-caribbean-island?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011357444001491485,
-      "chg5d": 0.02221101951248429,
-      "chg1m": 0.13451158504476043
+      "chg1d": 0.00315741993685166,
+      "chg5d": 0.001511788735565722,
+      "chg1m": 0.005668513105408489
     }
   ]
 }
