@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-01-26T09:26:59.764051Z",
+  "generated_at": "2026-01-26T12:30:57.676427Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.67,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US State Secretary Rubio speaks to Iraqi PM amid tensions with Iran",
-          "url": "https://www.aljazeera.com/news/2026/1/26/us-state-secretary-rubio-speaks-to-iraqi-pm-amid-tensions-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers chase Palestinian school bus in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israeli-settlers-chase-palestinian-school-bus-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Pressure mounts on Israel’s Netanyahu to open Gaza’s Rafah",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/26/israels-war-on-gaza-live-pressure-mounts-on-netanyahu-to-open-rafah?traffic_source=rss"
-        },
-        {
-          "title": "Investigation reveals Israeli campaign to flatten Gaza town of Beit Hanoon",
-          "url": "https://www.aljazeera.com/news/2026/1/26/investigation-reveals-israeli-campaign-to-flatten-gaza-town-of-beit-hanoon?traffic_source=rss"
-        },
-        {
-          "title": "‘Yellow line’, the de facto Israeli buffer zone shaping life in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/26/yellow-line-the-de-facto-israeli-buffer-zone-shaping-life-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005202808506339206,
-      "chg5d": 0.022374500337434572,
-      "chg1m": 0.2217879521062102
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.67,
+      "score": 5.44,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US State Secretary Rubio speaks to Iraqi PM amid tensions with Iran",
+          "title": "Gaza’s Rafah crossing to reopen when final Israeli body is returned",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/gazas-rafah-crossing-to-reopen-when-final-israeli-body-is-returned?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon files UN complaint against Israel’s daily ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2026/1/26/lebanon-files-un-complaint-against-israels-daily-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Iraq’s Kataib Hezbollah warns of ‘total war’ if Iran is attacked",
+          "url": "https://www.aljazeera.com/news/2026/1/26/iraqs-kataib-hezbollah-warns-of-total-war-if-iran-is-attacked?traffic_source=rss"
+        },
+        {
+          "title": "US Secretary of State Rubio speaks to Iraqi PM amid tensions with Iran",
           "url": "https://www.aljazeera.com/news/2026/1/26/us-state-secretary-rubio-speaks-to-iraqi-pm-amid-tensions-with-iran?traffic_source=rss"
         },
         {
           "title": "Israeli settlers chase Palestinian school bus in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israeli-settlers-chase-palestinian-school-bus-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Pressure mounts on Israel’s Netanyahu to open Gaza’s Rafah",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/26/israels-war-on-gaza-live-pressure-mounts-on-netanyahu-to-open-rafah?traffic_source=rss"
-        },
-        {
-          "title": "Investigation reveals Israeli campaign to flatten Gaza town of Beit Hanoon",
-          "url": "https://www.aljazeera.com/news/2026/1/26/investigation-reveals-israeli-campaign-to-flatten-gaza-town-of-beit-hanoon?traffic_source=rss"
-        },
-        {
-          "title": "‘Yellow line’, the de facto Israeli buffer zone shaping life in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/26/yellow-line-the-de-facto-israeli-buffer-zone-shaping-life-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.005724800654262956,
@@ -64,30 +33,61 @@
       "chg1m": 0.11264419814521594
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.67,
+      "score": 5.44,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US State Secretary Rubio speaks to Iraqi PM amid tensions with Iran",
+          "title": "Gaza’s Rafah crossing to reopen when final Israeli body is returned",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/gazas-rafah-crossing-to-reopen-when-final-israeli-body-is-returned?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon files UN complaint against Israel’s daily ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2026/1/26/lebanon-files-un-complaint-against-israels-daily-ceasefire-violations?traffic_source=rss"
+        },
+        {
+          "title": "Iraq’s Kataib Hezbollah warns of ‘total war’ if Iran is attacked",
+          "url": "https://www.aljazeera.com/news/2026/1/26/iraqs-kataib-hezbollah-warns-of-total-war-if-iran-is-attacked?traffic_source=rss"
+        },
+        {
+          "title": "US Secretary of State Rubio speaks to Iraqi PM amid tensions with Iran",
           "url": "https://www.aljazeera.com/news/2026/1/26/us-state-secretary-rubio-speaks-to-iraqi-pm-amid-tensions-with-iran?traffic_source=rss"
         },
         {
           "title": "Israeli settlers chase Palestinian school bus in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israeli-settlers-chase-palestinian-school-bus-in-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005202808506339206,
+      "chg5d": 0.022374500337434572,
+      "chg1m": 0.2217879521062102
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza’s Rafah crossing to reopen when final Israeli body is returned",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/gazas-rafah-crossing-to-reopen-when-final-israeli-body-is-returned?traffic_source=rss"
         },
         {
-          "title": "LIVE: Pressure mounts on Israel’s Netanyahu to open Gaza’s Rafah",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/26/israels-war-on-gaza-live-pressure-mounts-on-netanyahu-to-open-rafah?traffic_source=rss"
+          "title": "Lebanon files UN complaint against Israel’s daily ceasefire violations",
+          "url": "https://www.aljazeera.com/news/2026/1/26/lebanon-files-un-complaint-against-israels-daily-ceasefire-violations?traffic_source=rss"
         },
         {
-          "title": "Investigation reveals Israeli campaign to flatten Gaza town of Beit Hanoon",
-          "url": "https://www.aljazeera.com/news/2026/1/26/investigation-reveals-israeli-campaign-to-flatten-gaza-town-of-beit-hanoon?traffic_source=rss"
+          "title": "Iraq’s Kataib Hezbollah warns of ‘total war’ if Iran is attacked",
+          "url": "https://www.aljazeera.com/news/2026/1/26/iraqs-kataib-hezbollah-warns-of-total-war-if-iran-is-attacked?traffic_source=rss"
         },
         {
-          "title": "‘Yellow line’, the de facto Israeli buffer zone shaping life in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/26/yellow-line-the-de-facto-israeli-buffer-zone-shaping-life-in-gaza?traffic_source=rss"
+          "title": "US Secretary of State Rubio speaks to Iraqi PM amid tensions with Iran",
+          "url": "https://www.aljazeera.com/news/2026/1/26/us-state-secretary-rubio-speaks-to-iraqi-pm-amid-tensions-with-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers chase Palestinian school bus in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israeli-settlers-chase-palestinian-school-bus-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
