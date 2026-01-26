@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-26T18:24:20.667330Z",
+  "generated_at": "2026-01-26T21:16:30.688061Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.92,
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
+          "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
+        },
         {
           "title": "As US ‘armada’ approaches, Iran warns of dire consequences if attacked",
           "url": "https://www.aljazeera.com/news/2026/1/26/as-us-armada-approaches-iran-warns-of-dire-consequences-if-attacked?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Israel’s genocide wiped out over 2,700 families in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israels-genocide-wiped-out-over-2700-families-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Rafah crossing to reopen when final Israeli body is returned",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/gazas-rafah-crossing-to-reopen-when-final-israeli-body-is-returned?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.92,
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
+          "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
+        },
         {
           "title": "As US ‘armada’ approaches, Iran warns of dire consequences if attacked",
           "url": "https://www.aljazeera.com/news/2026/1/26/as-us-armada-approaches-iran-warns-of-dire-consequences-if-attacked?traffic_source=rss"
@@ -53,22 +57,22 @@
         {
           "title": "Israel’s genocide wiped out over 2,700 families in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israels-genocide-wiped-out-over-2700-families-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Rafah crossing to reopen when final Israeli body is returned",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/gazas-rafah-crossing-to-reopen-when-final-israeli-body-is-returned?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014953793033411251,
-      "chg5d": -0.0007640403138573501,
-      "chg1m": 0.2060615480261113
+      "chg1d": -0.015503875968992385,
+      "chg5d": -0.0013220472846522018,
+      "chg1m": 0.2053880426898766
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.92,
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
+          "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
+        },
         {
           "title": "As US ‘armada’ approaches, Iran warns of dire consequences if attacked",
           "url": "https://www.aljazeera.com/news/2026/1/26/as-us-armada-approaches-iran-warns-of-dire-consequences-if-attacked?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "Israel’s genocide wiped out over 2,700 families in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israels-genocide-wiped-out-over-2700-families-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s Rafah crossing to reopen when final Israeli body is returned",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/gazas-rafah-crossing-to-reopen-when-final-israeli-body-is-returned?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0019312868469200826,
-      "chg5d": 0.0294611029565947,
-      "chg1m": 0.10325842696629212
+      "chg1d": 0.0006098800569221618,
+      "chg5d": 0.03208219752568675,
+      "chg1m": 0.10606741573033705
     }
   ]
 }
