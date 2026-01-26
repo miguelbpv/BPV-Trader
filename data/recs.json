@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-01-26T01:11:55.050843Z",
+  "generated_at": "2026-01-26T04:13:09.218047Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.37,
+      "score": 4.33,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israel says Rafah crossing to open after search for last captive body ends",
+          "title": "Israel to reopen Gaza’s Rafah crossing after search for captive’s body ends",
           "url": "https://www.aljazeera.com/news/2026/1/25/hamas-says-gave-israel-mediators-details-about-last-gaza-captives-remains?traffic_source=rss"
         },
         {
@@ -33,44 +33,13 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.37,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel says Rafah crossing to open after search for last captive body ends",
-          "url": "https://www.aljazeera.com/news/2026/1/25/hamas-says-gave-israel-mediators-details-about-last-gaza-captives-remains?traffic_source=rss"
-        },
-        {
-          "title": "Israel extends ban on Al Jazeera’s operations by 90 days",
-          "url": "https://www.aljazeera.com/news/2026/1/25/israel-extends-ban-on-al-jazeeras-operations-by-90-days?traffic_source=rss"
-        },
-        {
-          "title": "US military moves Navy, Air Force assets to the Middle East: What to know",
-          "url": "https://www.aljazeera.com/news/2026/1/25/us-military-moves-navy-air-force-assets-to-the-middle-east-what-to-know?traffic_source=rss"
-        },
-        {
-          "title": "Envoys from US meet Netanyahu as Israel continues to bomb Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/25/us-envoys-meet-netanyahu-as-israel-continues-to-bomb-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Wave of Israeli attacks kills two in Lebanon in latest ceasefire violation",
-          "url": "https://www.aljazeera.com/news/2026/1/25/wave-of-israeli-attacks-kills-two-in-lebanon-in-latest-ceasefire-violation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005724800654262956,
-      "chg5d": 0.03318630539802559,
-      "chg1m": 0.11264419814521594
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.37,
+      "score": 4.33,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israel says Rafah crossing to open after search for last captive body ends",
+          "title": "Israel to reopen Gaza’s Rafah crossing after search for captive’s body ends",
           "url": "https://www.aljazeera.com/news/2026/1/25/hamas-says-gave-israel-mediators-details-about-last-gaza-captives-remains?traffic_source=rss"
         },
         {
@@ -95,64 +64,35 @@
       "chg1m": 0.2217879521062102
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.33,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Minnesota governor wants federal immigration agents out after Pretti killed",
-          "url": "https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.018458801289892204,
-      "chg5d": -0.002636435539151025,
-      "chg1m": 0.04428582695796194
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
+          "title": "Israel to reopen Gaza’s Rafah crossing after search for captive’s body ends",
+          "url": "https://www.aljazeera.com/news/2026/1/25/hamas-says-gave-israel-mediators-details-about-last-gaza-captives-remains?traffic_source=rss"
+        },
         {
-          "title": "Minnesota governor wants federal immigration agents out after Pretti killed",
-          "url": "https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
+          "title": "Israel extends ban on Al Jazeera’s operations by 90 days",
+          "url": "https://www.aljazeera.com/news/2026/1/25/israel-extends-ban-on-al-jazeeras-operations-by-90-days?traffic_source=rss"
+        },
         {
-          "title": "Minnesota governor wants federal immigration agents out after Pretti killed",
-          "url": "https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00036285523527533457,
-      "chg5d": -0.004348202935398115,
-      "chg1m": 0.006424952177912733
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
+          "title": "US military moves Navy, Air Force assets to the Middle East: What to know",
+          "url": "https://www.aljazeera.com/news/2026/1/25/us-military-moves-navy-air-force-assets-to-the-middle-east-what-to-know?traffic_source=rss"
+        },
         {
-          "title": "Minnesota governor wants federal immigration agents out after Pretti killed",
-          "url": "https://www.aljazeera.com/news/2026/1/25/minnesota-governor-wants-federal-immigration-agents-out-after-pretti-killed?traffic_source=rss"
+          "title": "Envoys from US meet Netanyahu as Israel continues to bomb Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/25/us-envoys-meet-netanyahu-as-israel-continues-to-bomb-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Wave of Israeli attacks kills two in Lebanon in latest ceasefire violation",
+          "url": "https://www.aljazeera.com/news/2026/1/25/wave-of-israeli-attacks-kills-two-in-lebanon-in-latest-ceasefire-violation?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00315741993685166,
-      "chg5d": 0.001511788735565722,
-      "chg1m": 0.005668513105408489
+      "chg1d": 0.005724800654262956,
+      "chg5d": 0.03318630539802559,
+      "chg1m": 0.11264419814521594
     }
   ]
 }
