@@ -1,31 +1,19 @@
 {
-  "generated_at": "2026-01-27T09:25:39.988630Z",
+  "generated_at": "2026-01-27T12:31:04.971118Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "‘Frustration and despair’ in Gaza despite recovery of last Israeli body",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/frustration-and-despair-in-gaza-despite-recovery-of-last-israeli-body?traffic_source=rss"
+        },
         {
           "title": "Ceremony for last Israeli captive returned from Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/ceremony-for-last-israeli-captive-returned-from-gaza?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: US, Iran ratchet up rhetoric as ‘big armada’ forms in the Middle East",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-us-iran-ratchet-up-rhetoric-as-big-armada-forms-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Australia cancels visa of Israeli influencer accused of ‘spreading hatred’",
-          "url": "https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss"
-        },
-        {
-          "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
-          "url": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
-        },
-        {
-          "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
-          "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
         }
       ],
       "chg1d": 0.0006098800569221618,
@@ -33,61 +21,18 @@
       "chg1m": 0.10606741573033705
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Ceremony for last Israeli captive returned from Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/ceremony-for-last-israeli-captive-returned-from-gaza?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: US, Iran ratchet up rhetoric as ‘big armada’ forms in the Middle East",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-us-iran-ratchet-up-rhetoric-as-big-armada-forms-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Australia cancels visa of Israeli influencer accused of ‘spreading hatred’",
-          "url": "https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss"
-        },
-        {
-          "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
-          "url": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
-        },
-        {
-          "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
-          "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "‘Frustration and despair’ in Gaza despite recovery of last Israeli body",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/frustration-and-despair-in-gaza-despite-recovery-of-last-israeli-body?traffic_source=rss"
+        },
         {
           "title": "Ceremony for last Israeli captive returned from Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/ceremony-for-last-israeli-captive-returned-from-gaza?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: US, Iran ratchet up rhetoric as ‘big armada’ forms in the Middle East",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-us-iran-ratchet-up-rhetoric-as-big-armada-forms-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Australia cancels visa of Israeli influencer accused of ‘spreading hatred’",
-          "url": "https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss"
-        },
-        {
-          "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
-          "url": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
-        },
-        {
-          "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
-          "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
         }
       ],
       "chg1d": -0.015503875968992385,
@@ -95,14 +40,18 @@
       "chg1m": 0.2053880426898766
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Video: All-night noise protest against federal agents in Minnesota",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/video-all-night-noise-protest-against-federal-agents-in-minnesota?traffic_source=rss"
+          "title": "‘Frustration and despair’ in Gaza despite recovery of last Israeli body",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/frustration-and-despair-in-gaza-despite-recovery-of-last-israeli-body?traffic_source=rss"
+        },
+        {
+          "title": "Ceremony for last Israeli captive returned from Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/ceremony-for-last-israeli-captive-returned-from-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -110,25 +59,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Video: All-night noise protest against federal agents in Minnesota",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/video-all-night-noise-protest-against-federal-agents-in-minnesota?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003134322721951528,
-      "chg5d": -0.006697772426249145,
-      "chg1m": 0.04720723579815934
-    },
-    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Video: All-night noise protest against federal agents in Minnesota",
@@ -142,8 +76,8 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Video: All-night noise protest against federal agents in Minnesota",
@@ -155,49 +89,34 @@
       "chg1m": 0.005384899776566881
     },
     {
-      "symbol": "TSM",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Trump says he’s raising tariffs on South Korea to 25%",
-          "url": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25?traffic_source=rss"
+          "title": "Video: All-night noise protest against federal agents in Minnesota",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/video-all-night-noise-protest-against-federal-agents-in-minnesota?traffic_source=rss"
         }
       ],
-      "chg1d": -0.006450264281661615,
-      "chg5d": -0.02830023364485981,
-      "chg1m": 0.12042431385755176
+      "chg1d": -0.003134322721951528,
+      "chg5d": -0.006697772426249145,
+      "chg1m": 0.04720723579815934
     },
     {
-      "symbol": "SOXX",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Trump says he’s raising tariffs on South Korea to 25%",
-          "url": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25?traffic_source=rss"
+          "title": "Video: All-night noise protest against federal agents in Minnesota",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/video-all-night-noise-protest-against-federal-agents-in-minnesota?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004757622349221045,
-      "chg5d": 0.0017519782754692845,
-      "chg1m": 0.12496720881427077
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump says he’s raising tariffs on South Korea to 25%",
-          "url": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0175012958590105,
-      "chg5d": 0.040321808960892686,
-      "chg1m": 0.33103857454983804
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
