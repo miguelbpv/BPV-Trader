@@ -1,69 +1,38 @@
 {
-  "generated_at": "2026-01-27T18:27:55.233552Z",
+  "generated_at": "2026-01-27T21:12:03.176607Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "Iran’s currency drops to record low against dollar as tensions soar",
-          "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s unequal dead: 10,000 Palestinians under rubble, one Israeli captive",
-          "url": "https://www.aljazeera.com/news/2026/1/27/gazas-unequal-dead-10000-palestinians-under-rubble-one-israeli-captive?traffic_source=rss"
-        },
-        {
-          "title": "Israeli woman watches TV report of her death in Iran protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/israeli-woman-watches-tv-report-of-her-death-in-iran-protests?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.014252312347419588,
-      "chg5d": 0.02411207165920234,
-      "chg1m": 0.21451363870303664
-    },
-    {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "acao": "observar",
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Iran president tells Saudi crown prince that US threats cause instability",
+          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
+        },
         {
           "title": "Iran’s currency drops to record low against dollar as tensions soar",
           "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s unequal dead: 10,000 Palestinians under rubble, one Israeli captive",
-          "url": "https://www.aljazeera.com/news/2026/1/27/gazas-unequal-dead-10000-palestinians-under-rubble-one-israeli-captive?traffic_source=rss"
-        },
-        {
-          "title": "Israeli woman watches TV report of her death in Iran protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/israeli-woman-watches-tv-report-of-her-death-in-iran-protests?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004967492889069528,
-      "chg5d": 0.03917016806722688,
-      "chg1m": 0.11481857110660365
+      "chg1d": 0.009345794392523383,
+      "chg5d": 0.0436974789915966,
+      "chg1m": 0.11967545638945239
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "acao": "observar",
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Iran president tells Saudi crown prince that US threats cause instability",
+          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
+        },
         {
           "title": "Iran’s currency drops to record low against dollar as tensions soar",
           "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
-        },
-        {
-          "title": "Gaza’s unequal dead: 10,000 Palestinians under rubble, one Israeli captive",
-          "url": "https://www.aljazeera.com/news/2026/1/27/gazas-unequal-dead-10000-palestinians-under-rubble-one-israeli-captive?traffic_source=rss"
-        },
-        {
-          "title": "Israeli woman watches TV report of her death in Iran protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/israeli-woman-watches-tv-report-of-her-death-in-iran-protests?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -71,64 +40,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Spain to host 2030 World Cup final, its football federation president says",
-          "url": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.008569692706168282,
-      "chg5d": 0.03743051672532333,
-      "chg1m": 0.011042905454137645
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
+          "title": "Iran president tells Saudi crown prince that US threats cause instability",
+          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
+        },
         {
-          "title": "Spain to host 2030 World Cup final, its football federation president says",
-          "url": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
+          "title": "Iran’s currency drops to record low against dollar as tensions soar",
+          "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.003695523508437552,
-      "chg5d": 0.026137135098438444,
-      "chg1m": 0.00711202526145017
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Spain to host 2030 World Cup final, its football federation president says",
-          "url": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Spain to host 2030 World Cup final, its football federation president says",
-          "url": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003295704220016685,
-      "chg5d": 0.0020184324777211883,
-      "chg1m": 0.04115389181274982
+      "chg1d": 0.022710862015610556,
+      "chg5d": 0.03265284866159786,
+      "chg1m": 0.22464230571281524
     }
   ]
 }
