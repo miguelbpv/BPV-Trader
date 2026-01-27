@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-27T15:23:03.056578Z",
+  "generated_at": "2026-01-27T18:27:55.233552Z",
   "recs": [
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Iran’s currency drops to record low against dollar as tensions soar",
+          "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
+        },
         {
           "title": "Gaza’s unequal dead: 10,000 Palestinians under rubble, one Israeli captive",
           "url": "https://www.aljazeera.com/news/2026/1/27/gazas-unequal-dead-10000-palestinians-under-rubble-one-israeli-captive?traffic_source=rss"
@@ -16,16 +20,43 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/israeli-woman-watches-tv-report-of-her-death-in-iran-protests?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002621978475398112,
-      "chg5d": 0.012368676873936897,
-      "chg1m": 0.20058692743180656
+      "chg1d": 0.014252312347419588,
+      "chg5d": 0.02411207165920234,
+      "chg1m": 0.21451363870303664
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Iran’s currency drops to record low against dollar as tensions soar",
+          "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
+        },
+        {
+          "title": "Gaza’s unequal dead: 10,000 Palestinians under rubble, one Israeli captive",
+          "url": "https://www.aljazeera.com/news/2026/1/27/gazas-unequal-dead-10000-palestinians-under-rubble-one-israeli-captive?traffic_source=rss"
+        },
+        {
+          "title": "Israeli woman watches TV report of her death in Iran protests",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/israeli-woman-watches-tv-report-of-her-death-in-iran-protests?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004967492889069528,
+      "chg5d": 0.03917016806722688,
+      "chg1m": 0.11481857110660365
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Iran’s currency drops to record low against dollar as tensions soar",
+          "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
+        },
         {
           "title": "Gaza’s unequal dead: 10,000 Palestinians under rubble, one Israeli captive",
           "url": "https://www.aljazeera.com/news/2026/1/27/gazas-unequal-dead-10000-palestinians-under-rubble-one-israeli-captive?traffic_source=rss"
@@ -40,29 +71,40 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Gaza’s unequal dead: 10,000 Palestinians under rubble, one Israeli captive",
-          "url": "https://www.aljazeera.com/news/2026/1/27/gazas-unequal-dead-10000-palestinians-under-rubble-one-israeli-captive?traffic_source=rss"
-        },
-        {
-          "title": "Israeli woman watches TV report of her death in Iran protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/27/israeli-woman-watches-tv-report-of-her-death-in-iran-protests?traffic_source=rss"
+          "title": "Spain to host 2030 World Cup final, its football federation president says",
+          "url": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004977651361235362,
-      "chg5d": 0.039180672268907604,
-      "chg1m": 0.11482983998196994
+      "chg1d": 0.008569692706168282,
+      "chg5d": 0.03743051672532333,
+      "chg1m": 0.011042905454137645
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Spain to host 2030 World Cup final, its football federation president says",
+          "url": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003695523508437552,
+      "chg5d": 0.026137135098438444,
+      "chg1m": 0.00711202526145017
     },
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Spain to host 2030 World Cup final, its football federation president says",
@@ -76,47 +118,17 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Spain to host 2030 World Cup final, its football federation president says",
           "url": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0032199409046140717,
-      "chg5d": 0.002094599741031348,
-      "chg1m": 0.041233033912389645
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Spain to host 2030 World Cup final, its football federation president says",
-          "url": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007642375211844039,
-      "chg5d": 0.03647666348715598,
-      "chg1m": 0.010113313993557065
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Spain to host 2030 World Cup final, its football federation president says",
-          "url": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0029665237538434165,
-      "chg5d": 0.025391835650402796,
-      "chg1m": 0.006380544048205297
+      "chg1d": -0.003295704220016685,
+      "chg5d": 0.0020184324777211883,
+      "chg1m": 0.04115389181274982
     }
   ]
 }
