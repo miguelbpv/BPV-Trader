@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-27T01:10:49.641448Z",
+  "generated_at": "2026-01-27T04:04:19.274735Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
+      "score": 3.15,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
+          "url": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
+        },
         {
           "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
           "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know",
           "url": "https://www.aljazeera.com/news/2026/1/26/anger-as-msf-agrees-to-israels-unreasonable-demands-what-to-know?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s genocide wiped out over 2,700 families in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israels-genocide-wiped-out-over-2700-families-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
+      "score": 3.15,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
+          "url": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
+        },
         {
           "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
           "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
@@ -53,10 +57,37 @@
         {
           "title": "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know",
           "url": "https://www.aljazeera.com/news/2026/1/26/anger-as-msf-agrees-to-israels-unreasonable-demands-what-to-know?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0006098800569221618,
+      "chg5d": 0.03208219752568675,
+      "chg1m": 0.10606741573033705
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.15,
+      "confianca": 90,
+      "razoes": [
+        {
+          "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
+          "url": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
         },
         {
-          "title": "Israel’s genocide wiped out over 2,700 families in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israels-genocide-wiped-out-over-2700-families-in-gaza?traffic_source=rss"
+          "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
+          "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
+        },
+        {
+          "title": "As US ‘armada’ approaches, Iran warns of dire consequences if attacked",
+          "url": "https://www.aljazeera.com/news/2026/1/26/as-us-armada-approaches-iran-warns-of-dire-consequences-if-attacked?traffic_source=rss"
+        },
+        {
+          "title": "Remains of last Israeli captive Ran Gvili recovered from Gaza, says Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/26/remains-of-last-israeli-captive-in-gaza-retrieved-says-israel?traffic_source=rss"
+        },
+        {
+          "title": "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know",
+          "url": "https://www.aljazeera.com/news/2026/1/26/anger-as-msf-agrees-to-israels-unreasonable-demands-what-to-know?traffic_source=rss"
         }
       ],
       "chg1d": -0.015503875968992385,
@@ -64,35 +95,49 @@
       "chg1m": 0.2053880426898766
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Israeli and Palestinian captives and prisoners: A timeline of key events",
-          "url": "https://www.aljazeera.com/news/2026/1/26/israeli-and-palestinian-captives-and-prisoners-a-timeline-of-key-events?traffic_source=rss"
-        },
-        {
-          "title": "As US ‘armada’ approaches, Iran warns of dire consequences if attacked",
-          "url": "https://www.aljazeera.com/news/2026/1/26/as-us-armada-approaches-iran-warns-of-dire-consequences-if-attacked?traffic_source=rss"
-        },
-        {
-          "title": "Remains of last Israeli captive Ran Gvili recovered from Gaza, says Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/26/remains-of-last-israeli-captive-in-gaza-retrieved-says-israel?traffic_source=rss"
-        },
-        {
-          "title": "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know",
-          "url": "https://www.aljazeera.com/news/2026/1/26/anger-as-msf-agrees-to-israels-unreasonable-demands-what-to-know?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s genocide wiped out over 2,700 families in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/israels-genocide-wiped-out-over-2700-families-in-gaza?traffic_source=rss"
+          "title": "Trump says he’s raising tariffs on South Korea to 25%",
+          "url": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0006098800569221618,
-      "chg5d": 0.03208219752568675,
-      "chg1m": 0.10606741573033705
+      "chg1d": -0.004757622349221045,
+      "chg5d": 0.0017519782754692845,
+      "chg1m": 0.12496720881427077
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump says he’s raising tariffs on South Korea to 25%",
+          "url": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006450264281661615,
+      "chg5d": -0.02830023364485981,
+      "chg1m": 0.12042431385755176
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump says he’s raising tariffs on South Korea to 25%",
+          "url": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0175012958590105,
+      "chg5d": 0.040321808960892686,
+      "chg1m": 0.33103857454983804
     }
   ]
 }
