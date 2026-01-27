@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-27T04:04:19.274735Z",
+  "generated_at": "2026-01-27T06:24:06.366846Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.15,
-      "confianca": 90,
+      "score": 2.44,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "Australia cancels visa of Israeli influencer accused of ‘spreading hatred’",
+          "url": "https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss"
+        },
         {
           "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
           "url": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
@@ -18,14 +22,6 @@
         {
           "title": "As US ‘armada’ approaches, Iran warns of dire consequences if attacked",
           "url": "https://www.aljazeera.com/news/2026/1/26/as-us-armada-approaches-iran-warns-of-dire-consequences-if-attacked?traffic_source=rss"
-        },
-        {
-          "title": "Remains of last Israeli captive Ran Gvili recovered from Gaza, says Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/26/remains-of-last-israeli-captive-in-gaza-retrieved-says-israel?traffic_source=rss"
-        },
-        {
-          "title": "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know",
-          "url": "https://www.aljazeera.com/news/2026/1/26/anger-as-msf-agrees-to-israels-unreasonable-demands-what-to-know?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +31,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.15,
-      "confianca": 90,
+      "score": 2.44,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "Australia cancels visa of Israeli influencer accused of ‘spreading hatred’",
+          "url": "https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss"
+        },
         {
           "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
           "url": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
@@ -49,14 +49,6 @@
         {
           "title": "As US ‘armada’ approaches, Iran warns of dire consequences if attacked",
           "url": "https://www.aljazeera.com/news/2026/1/26/as-us-armada-approaches-iran-warns-of-dire-consequences-if-attacked?traffic_source=rss"
-        },
-        {
-          "title": "Remains of last Israeli captive Ran Gvili recovered from Gaza, says Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/26/remains-of-last-israeli-captive-in-gaza-retrieved-says-israel?traffic_source=rss"
-        },
-        {
-          "title": "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know",
-          "url": "https://www.aljazeera.com/news/2026/1/26/anger-as-msf-agrees-to-israels-unreasonable-demands-what-to-know?traffic_source=rss"
         }
       ],
       "chg1d": 0.0006098800569221618,
@@ -66,9 +58,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.15,
-      "confianca": 90,
+      "score": 2.44,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "Australia cancels visa of Israeli influencer accused of ‘spreading hatred’",
+          "url": "https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss"
+        },
         {
           "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
           "url": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
@@ -80,14 +76,6 @@
         {
           "title": "As US ‘armada’ approaches, Iran warns of dire consequences if attacked",
           "url": "https://www.aljazeera.com/news/2026/1/26/as-us-armada-approaches-iran-warns-of-dire-consequences-if-attacked?traffic_source=rss"
-        },
-        {
-          "title": "Remains of last Israeli captive Ran Gvili recovered from Gaza, says Israel",
-          "url": "https://www.aljazeera.com/news/2026/1/26/remains-of-last-israeli-captive-in-gaza-retrieved-says-israel?traffic_source=rss"
-        },
-        {
-          "title": "Anger as MSF agrees to Israel’s ‘unreasonable demands’: What to know",
-          "url": "https://www.aljazeera.com/news/2026/1/26/anger-as-msf-agrees-to-israels-unreasonable-demands-what-to-know?traffic_source=rss"
         }
       ],
       "chg1d": -0.015503875968992385,
@@ -95,7 +83,7 @@
       "chg1m": 0.2053880426898766
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
@@ -105,9 +93,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004757622349221045,
-      "chg5d": 0.0017519782754692845,
-      "chg1m": 0.12496720881427077
+      "chg1d": 0.0175012958590105,
+      "chg5d": 0.040321808960892686,
+      "chg1m": 0.33103857454983804
     },
     {
       "symbol": "TSM",
@@ -125,7 +113,7 @@
       "chg1m": 0.12042431385755176
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
@@ -135,9 +123,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0175012958590105,
-      "chg5d": 0.040321808960892686,
-      "chg1m": 0.33103857454983804
+      "chg1d": -0.004757622349221045,
+      "chg5d": 0.0017519782754692845,
+      "chg1m": 0.12496720881427077
     }
   ]
 }
