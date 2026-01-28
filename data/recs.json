@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-28T18:27:35.605614Z",
+  "generated_at": "2026-01-28T21:22:37.302093Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.53,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran delegates import powers as US war threats keep economy unstable",
+          "url": "https://www.aljazeera.com/news/2026/1/28/iran-delegates-import-powers-as-us-war-threats-keep-economy-unstable?traffic_source=rss"
+        },
         {
           "title": "UK, France, Canada among 11 countries condemning Israel’s UNRWA demolitions",
           "url": "https://www.aljazeera.com/news/2026/1/28/uk-france-canada-among-11-countries-condemning-israels-unrwa-demolitions?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "LIVE: Iran says it will ‘respond like never before’ after Trump’s threats",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-iran-says-it-will-respond-like-never-before-after-trumps-threats?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s phase one Gaza ceasefire violations",
-          "url": "https://www.aljazeera.com/video/birds-eye-view/2026/1/28/israels-phase-one-gaza-ceasefire-violations?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,42 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.53,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UK, France, Canada among 11 countries condemning Israel’s UNRWA demolitions",
-          "url": "https://www.aljazeera.com/news/2026/1/28/uk-france-canada-among-11-countries-condemning-israels-unrwa-demolitions?traffic_source=rss"
-        },
-        {
-          "title": "Trump says US ready to attack Iran with ‘speed and violence’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/28/trump-says-us-ready-to-attack-iran-with-speed-and?traffic_source=rss"
-        },
-        {
-          "title": "UK police to use AI facial recognition tech linked to Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/news/2026/1/28/uk-police-to-use-ai-facial-recognition-tech-linked-to-israels-war-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Iran says it will ‘respond like never before’ after Trump’s threats",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-iran-says-it-will-respond-like-never-before-after-trumps-threats?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s phase one Gaza ceasefire violations",
-          "url": "https://www.aljazeera.com/video/birds-eye-view/2026/1/28/israels-phase-one-gaza-ceasefire-violations?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.005335212401852236,
-      "chg5d": 0.024307692307692353,
-      "chg1m": 0.12975113122171944
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 7.22,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran delegates import powers as US war threats keep economy unstable",
+          "url": "https://www.aljazeera.com/news/2026/1/28/iran-delegates-import-powers-as-us-war-threats-keep-economy-unstable?traffic_source=rss"
+        },
         {
           "title": "UK, France, Canada among 11 countries condemning Israel’s UNRWA demolitions",
           "url": "https://www.aljazeera.com/news/2026/1/28/uk-france-canada-among-11-countries-condemning-israels-unrwa-demolitions?traffic_source=rss"
@@ -84,60 +57,102 @@
         {
           "title": "LIVE: Iran says it will ‘respond like never before’ after Trump’s threats",
           "url": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-iran-says-it-will-respond-like-never-before-after-trumps-threats?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0038994873518782016,
+      "chg5d": 0.018832198966275974,
+      "chg1m": 0.23650704925159932
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran delegates import powers as US war threats keep economy unstable",
+          "url": "https://www.aljazeera.com/news/2026/1/28/iran-delegates-import-powers-as-us-war-threats-keep-economy-unstable?traffic_source=rss"
         },
         {
-          "title": "Israel’s phase one Gaza ceasefire violations",
-          "url": "https://www.aljazeera.com/video/birds-eye-view/2026/1/28/israels-phase-one-gaza-ceasefire-violations?traffic_source=rss"
+          "title": "UK, France, Canada among 11 countries condemning Israel’s UNRWA demolitions",
+          "url": "https://www.aljazeera.com/news/2026/1/28/uk-france-canada-among-11-countries-condemning-israels-unrwa-demolitions?traffic_source=rss"
+        },
+        {
+          "title": "Trump says US ready to attack Iran with ‘speed and violence’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/28/trump-says-us-ready-to-attack-iran-with-speed-and?traffic_source=rss"
+        },
+        {
+          "title": "UK police to use AI facial recognition tech linked to Israel’s war on Gaza",
+          "url": "https://www.aljazeera.com/news/2026/1/28/uk-police-to-use-ai-facial-recognition-tech-linked-to-israels-war-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Iran says it will ‘respond like never before’ after Trump’s threats",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-iran-says-it-will-respond-like-never-before-after-trumps-threats?traffic_source=rss"
         }
       ],
-      "chg1d": 0.005126481216908907,
-      "chg5d": 0.020077444006618532,
-      "chg1m": 0.2380183425460117
+      "chg1d": 0.007247835715723765,
+      "chg5d": 0.02625641025641028,
+      "chg1m": 0.13190045248868773
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.03,
-      "confianca": 29,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Tech giant ASML announces record orders in boost for AI boom",
-          "url": "https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom?traffic_source=rss"
+          "title": "US Federal Reserve holds interest rates steady despite political pressure",
+          "url": "https://www.aljazeera.com/economy/2026/1/28/us-federal-reserve-holds-interest-rates-steady-despite-political-pressure?traffic_source=rss"
         }
       ],
-      "chg1d": -0.030266260595769163,
-      "chg5d": 0.03711151467917575,
-      "chg1m": 0.3149056164064321
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 1.03,
-      "confianca": 29,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Tech giant ASML announces record orders in boost for AI boom",
-          "url": "https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom?traffic_source=rss"
+          "title": "US Federal Reserve holds interest rates steady despite political pressure",
+          "url": "https://www.aljazeera.com/economy/2026/1/28/us-federal-reserve-holds-interest-rates-steady-despite-political-pressure?traffic_source=rss"
         }
       ],
-      "chg1d": 0.011851983212153597,
-      "chg5d": 0.04976695694836262,
-      "chg1m": 0.1304649319772819
+      "chg1d": 0.00010064846367300224,
+      "chg5d": 0.014823460752845009,
+      "chg1m": 0.007605278787790993
     },
     {
-      "symbol": "NVDA",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 1.03,
-      "confianca": 29,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Tech giant ASML announces record orders in boost for AI boom",
-          "url": "https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom?traffic_source=rss"
+          "title": "US Federal Reserve holds interest rates steady despite political pressure",
+          "url": "https://www.aljazeera.com/economy/2026/1/28/us-federal-reserve-holds-interest-rates-steady-despite-political-pressure?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015316677275620562,
-      "chg5d": 0.0441168448614445,
-      "chg1m": 0.004605573925366072
+      "chg1d": -0.005175084047897875,
+      "chg5d": -0.016542813398558596,
+      "chg1m": 0.0474902553496143
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US Federal Reserve holds interest rates steady despite political pressure",
+          "url": "https://www.aljazeera.com/economy/2026/1/28/us-federal-reserve-holds-interest-rates-steady-despite-political-pressure?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0032481422210954235,
+      "chg5d": 0.027422600116829978,
+      "chg1m": 0.01489044543108555
     }
   ]
 }
