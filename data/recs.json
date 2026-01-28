@@ -1,46 +1,19 @@
 {
-  "generated_at": "2026-01-28T01:06:49.471718Z",
+  "generated_at": "2026-01-28T04:03:07.288981Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.06,
-      "confianca": 87,
-      "razoes": [
-        {
-          "title": "Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports",
-          "url": "https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss"
-        },
-        {
-          "title": "Iran president tells Saudi crown prince that US threats cause instability",
-          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s currency drops to record low against dollar as tensions soar",
-          "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.009142624949207697,
-      "chg5d": 0.0434873949579832,
-      "chg1m": 0.11945007888212766
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.06,
-      "confianca": 87,
+      "acao": "observar",
+      "score": 2.07,
+      "confianca": 59,
       "razoes": [
         {
           "title": "Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports",
           "url": "https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss"
         },
         {
-          "title": "Iran president tells Saudi crown prince that US threats cause instability",
+          "title": "Iran’s President Pezeshkian warns of regional instability amid US threats",
           "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s currency drops to record low against dollar as tensions soar",
-          "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,18 +21,33 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
+      "score": 2.07,
+      "confianca": 59,
       "razoes": [
         {
-          "title": "Iran president tells Saudi crown prince that US threats cause instability",
-          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
+          "title": "Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports",
+          "url": "https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss"
         },
         {
-          "title": "Iran’s currency drops to record low against dollar as tensions soar",
-          "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
+          "title": "Iran’s President Pezeshkian warns of regional instability amid US threats",
+          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009142624949207697,
+      "chg5d": 0.0434873949579832,
+      "chg1m": 0.11945007888212766
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Iran’s President Pezeshkian warns of regional instability amid US threats",
+          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
         }
       ],
       "chg1d": 0.022848399408589345,
