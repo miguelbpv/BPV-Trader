@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-27T21:12:03.176607Z",
+  "generated_at": "2026-01-28T01:06:49.471718Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "acao": "comprar",
+      "score": 3.06,
+      "confianca": 87,
       "razoes": [
+        {
+          "title": "Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports",
+          "url": "https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss"
+        },
         {
           "title": "Iran president tells Saudi crown prince that US threats cause instability",
           "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
@@ -16,16 +20,20 @@
           "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009345794392523383,
-      "chg5d": 0.0436974789915966,
-      "chg1m": 0.11967545638945239
+      "chg1d": 0.009142624949207697,
+      "chg5d": 0.0434873949579832,
+      "chg1m": 0.11945007888212766
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "acao": "comprar",
+      "score": 3.06,
+      "confianca": 87,
       "razoes": [
+        {
+          "title": "Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports",
+          "url": "https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss"
+        },
         {
           "title": "Iran president tells Saudi crown prince that US threats cause instability",
           "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
@@ -42,7 +50,7 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.74,
+      "score": 1.72,
       "confianca": 49,
       "razoes": [
         {
@@ -54,9 +62,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/27/irans-currency-drops-to-record-low-against-dollar-as-tensions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.022710862015610556,
-      "chg5d": 0.03265284866159786,
-      "chg1m": 0.22464230571281524
+      "chg1d": 0.022848399408589345,
+      "chg5d": 0.032791723084401106,
+      "chg1m": 0.22480699948533206
     }
   ]
 }
