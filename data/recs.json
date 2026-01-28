@@ -1,38 +1,27 @@
 {
-  "generated_at": "2026-01-28T06:25:36.085987Z",
+  "generated_at": "2026-01-28T09:27:09.710610Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.06,
-      "confianca": 58,
-      "razoes": [
-        {
-          "title": "Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports",
-          "url": "https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s President Pezeshkian warns of regional instability amid US threats",
-          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.06,
-      "confianca": 58,
+      "acao": "comprar",
+      "score": 2.73,
+      "confianca": 78,
       "razoes": [
         {
-          "title": "Mexico vows ‘solidarity’ with Cuba after oil shipment cancellation reports",
-          "url": "https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss"
+          "title": "Video: Israeli settlers carry out arson attacks in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/28/video-israeli-settlers-carry-out-arson-attacks-in-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "Iran’s President Pezeshkian warns of regional instability amid US threats",
-          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
+          "title": "Top Turkish diplomat says Iran ready to negotiate, warns against US attack",
+          "url": "https://www.aljazeera.com/news/2026/1/28/turkiyes-fm-hakan-fidan-says-iran-ready-to-negotiate-over-nuclear-file?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Gaza ‘desperate’ as Israel aid blocks hit children hardest, UN says",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-rafah-crossing-reopens-as-israel-keeps-launching-deadly-attacks-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "One family’s daily struggle reflects alarming food shortages in Yemen",
+          "url": "https://www.aljazeera.com/features/2026/1/28/one-familys-struggle-aid-agencies-warn-of-alarming-food-shortages-in-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.009142624949207697,
@@ -40,14 +29,53 @@
       "chg1m": 0.11945007888212766
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.73,
+      "confianca": 78,
       "razoes": [
         {
-          "title": "Iran’s President Pezeshkian warns of regional instability amid US threats",
-          "url": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss"
+          "title": "Video: Israeli settlers carry out arson attacks in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/28/video-israeli-settlers-carry-out-arson-attacks-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Top Turkish diplomat says Iran ready to negotiate, warns against US attack",
+          "url": "https://www.aljazeera.com/news/2026/1/28/turkiyes-fm-hakan-fidan-says-iran-ready-to-negotiate-over-nuclear-file?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Gaza ‘desperate’ as Israel aid blocks hit children hardest, UN says",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-rafah-crossing-reopens-as-israel-keeps-launching-deadly-attacks-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "One family’s daily struggle reflects alarming food shortages in Yemen",
+          "url": "https://www.aljazeera.com/features/2026/1/28/one-familys-struggle-aid-agencies-warn-of-alarming-food-shortages-in-yemen?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.73,
+      "confianca": 78,
+      "razoes": [
+        {
+          "title": "Video: Israeli settlers carry out arson attacks in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/28/video-israeli-settlers-carry-out-arson-attacks-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Top Turkish diplomat says Iran ready to negotiate, warns against US attack",
+          "url": "https://www.aljazeera.com/news/2026/1/28/turkiyes-fm-hakan-fidan-says-iran-ready-to-negotiate-over-nuclear-file?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Gaza ‘desperate’ as Israel aid blocks hit children hardest, UN says",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-rafah-crossing-reopens-as-israel-keeps-launching-deadly-attacks-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "One family’s daily struggle reflects alarming food shortages in Yemen",
+          "url": "https://www.aljazeera.com/features/2026/1/28/one-familys-struggle-aid-agencies-warn-of-alarming-food-shortages-in-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.022848399408589345,
