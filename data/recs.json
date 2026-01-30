@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-01-30T04:26:30.860659Z",
+  "generated_at": "2026-01-30T06:37:40.184308Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.94,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran prepares for war as US military ‘armada’ approaches",
-          "url": "https://www.aljazeera.com/news/2026/1/30/iran-prepares-for-war-as-us-military-armada-approaches?traffic_source=rss"
-        },
-        {
-          "title": "Trump threatens tariffs on countries supplying Cuba with much-needed oil",
-          "url": "https://www.aljazeera.com/news/2026/1/30/trump-threatens-tariffs-on-countries-supplying-cuba-with-much-needed-oil?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela’s Rodriguez signs oil reform law while the US eases sanctions",
-          "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Iran slams EU’s ‘terrorist’ designation for IRGC as hypocritical",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/29/iran-slams-eus-terrorist-designation-for-irgc-as-hypocritical?traffic_source=rss"
-        },
-        {
-          "title": "Who controls Yemen now and why it matters",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-yem_2026pulsecheck_av_v2-290126?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.94,
+      "score": 5.87,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "UNRWA staff cuts deepen in Gaza as Israel restricts critical aid access",
+          "url": "https://www.aljazeera.com/news/2026/1/30/unrwa-staff-cuts-deepen-in-gaza-as-israel-restricts-critical-aid-access?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Iran warns retaliation to US attack will not be limited",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/30/live-iran?traffic_source=rss"
+        },
         {
           "title": "Iran prepares for war as US military ‘armada’ approaches",
           "url": "https://www.aljazeera.com/news/2026/1/30/iran-prepares-for-war-as-us-military-armada-approaches?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Venezuela’s Rodriguez signs oil reform law while the US eases sanctions",
           "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Iran slams EU’s ‘terrorist’ designation for IRGC as hypocritical",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/29/iran-slams-eus-terrorist-designation-for-irgc-as-hypocritical?traffic_source=rss"
-        },
-        {
-          "title": "Who controls Yemen now and why it matters",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-yem_2026pulsecheck_av_v2-290126?traffic_source=rss"
         }
       ],
       "chg1d": 0.009190809190809208,
@@ -64,11 +33,50 @@
       "chg1m": 0.132003585835948
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.42,
+      "score": 5.87,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "UNRWA staff cuts deepen in Gaza as Israel restricts critical aid access",
+          "url": "https://www.aljazeera.com/news/2026/1/30/unrwa-staff-cuts-deepen-in-gaza-as-israel-restricts-critical-aid-access?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Iran warns retaliation to US attack will not be limited",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/30/live-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iran prepares for war as US military ‘armada’ approaches",
+          "url": "https://www.aljazeera.com/news/2026/1/30/iran-prepares-for-war-as-us-military-armada-approaches?traffic_source=rss"
+        },
+        {
+          "title": "Trump threatens tariffs on countries supplying Cuba with much-needed oil",
+          "url": "https://www.aljazeera.com/news/2026/1/30/trump-threatens-tariffs-on-countries-supplying-cuba-with-much-needed-oil?traffic_source=rss"
+        },
+        {
+          "title": "Venezuela’s Rodriguez signs oil reform law while the US eases sanctions",
+          "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.69,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "UNRWA staff cuts deepen in Gaza as Israel restricts critical aid access",
+          "url": "https://www.aljazeera.com/news/2026/1/30/unrwa-staff-cuts-deepen-in-gaza-as-israel-restricts-critical-aid-access?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Iran warns retaliation to US attack will not be limited",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/1/30/live-iran?traffic_source=rss"
+        },
         {
           "title": "Iran prepares for war as US military ‘armada’ approaches",
           "url": "https://www.aljazeera.com/news/2026/1/30/iran-prepares-for-war-as-us-military-armada-approaches?traffic_source=rss"
@@ -80,14 +88,6 @@
         {
           "title": "Who controls Yemen now and why it matters",
           "url": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-yem_2026pulsecheck_av_v2-290126?traffic_source=rss"
-        },
-        {
-          "title": "Iran slams ‘selective outrage’ after EU labels IRGC a ‘terrorist’ group",
-          "url": "https://www.aljazeera.com/news/2026/1/29/iran-slams-selective-outrage-after-eu-labels-irgc-a-terrorist-group?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler violence displaces Palestinians across occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/29/israeli-settler-violence-displaces-palestinians-across-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0422589448658061,
@@ -95,9 +95,9 @@
       "chg1m": 0.2733651072882361
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.18,
       "confianca": 62,
       "razoes": [
         {
@@ -109,14 +109,14 @@
           "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0018587360594795983,
-      "chg5d": 0.03573579602489454,
-      "chg1m": 0.18279182497052274
+      "chg1d": 0.022657633598515733,
+      "chg5d": 0.04312544802867389,
+      "chg1m": 0.36507206881833426
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.18,
       "confianca": 62,
       "razoes": [
         {
@@ -133,9 +133,9 @@
       "chg1m": 0.1283729894988701
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 2.19,
+      "score": 2.18,
       "confianca": 62,
       "razoes": [
         {
@@ -147,9 +147,9 @@
           "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.022657633598515733,
-      "chg5d": 0.04312544802867389,
-      "chg1m": 0.36507206881833426
+      "chg1d": 0.0018587360594795983,
+      "chg5d": 0.03573579602489454,
+      "chg1m": 0.18279182497052274
     }
   ]
 }
