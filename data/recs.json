@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-29T21:19:47.982219Z",
+  "generated_at": "2026-01-30T01:16:07.001023Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.78,
+      "score": 7.08,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Venezuela’s Rodriguez signs oil reform law while the US eases sanctions",
+          "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
+        },
         {
           "title": "Iran slams EU’s ‘terrorist’ designation for IRGC as hypocritical",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/29/iran-slams-eus-terrorist-designation-for-irgc-as-hypocritical?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Mexico’s oil industry faces new pressures from Venezuela oil under US",
           "url": "https://www.aljazeera.com/economy/2026/1/29/mexicos-oil-industry-faces-new-pressures-from-venezuela-oil-under-us?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler violence displaces Palestinians across occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/29/israeli-settler-violence-displaces-palestinians-across-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.78,
+      "score": 7.08,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Venezuela’s Rodriguez signs oil reform law while the US eases sanctions",
+          "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
+        },
         {
           "title": "Iran slams EU’s ‘terrorist’ designation for IRGC as hypocritical",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/1/29/iran-slams-eus-terrorist-designation-for-irgc-as-hypocritical?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Mexico’s oil industry faces new pressures from Venezuela oil under US",
           "url": "https://www.aljazeera.com/economy/2026/1/29/mexicos-oil-industry-faces-new-pressures-from-venezuela-oil-under-us?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler violence displaces Palestinians across occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/1/29/israeli-settler-violence-displaces-palestinians-across-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.009190809190809208,
@@ -66,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.44,
+      "score": 4.65,
       "confianca": 95,
       "razoes": [
         {
@@ -93,6 +93,51 @@
       "chg1d": 0.04133808830177316,
       "chg5d": 0.04722937818861456,
       "chg1m": 0.2722400638206477
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.1,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Venezuela’s Rodriguez signs oil reform law while the US eases sanctions",
+          "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.008004674262343,
+      "chg5d": 0.03723615480954271,
+      "chg1m": 0.12840622092250426
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.1,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Venezuela’s Rodriguez signs oil reform law while the US eases sanctions",
+          "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0017616379071188142,
+      "chg5d": 0.0356354145753865,
+      "chg1m": 0.1826771911437182
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.1,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Venezuela’s Rodriguez signs oil reform law while the US eases sanctions",
+          "url": "https://www.aljazeera.com/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.022657633598515733,
+      "chg5d": 0.04312544802867389,
+      "chg1m": 0.36507206881833426
     }
   ]
 }
