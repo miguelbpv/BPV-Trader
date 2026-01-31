@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-01-31T01:13:21.285466Z",
+  "generated_at": "2026-01-31T04:22:07.273486Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.14,
+      "score": 5.12,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US approves $6.6bn sale of attack helicopters, assault vehicles to Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/31/us-approves-6-6bn-sale-of-attack-helicopters-assault-vehicles-to-israel?traffic_source=rss"
+        },
         {
           "title": "Iran says ready for ‘fair’ talks with US but not ‘under shadow of threats’",
           "url": "https://www.aljazeera.com/news/2026/1/30/iran-says-ready-for-fair-talks-with-us-but-not-under-shadow-of-threats?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "South Africa orders expulsion of Israeli envoy, declared persona non grata",
           "url": "https://www.aljazeera.com/news/2026/1/30/south-africa-orders-expulsion-of-israeli-envoy-declared-persona-non-grata?traffic_source=rss"
-        },
-        {
-          "title": "MSF says it will not hand over staff details to Israeli authorities",
-          "url": "https://www.aljazeera.com/news/2026/1/30/msf-says-it-will-not-hand-over-staff-details-to-israeli-authorities?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01069095228667589,
-      "chg5d": 0.03781256352917259,
-      "chg1m": 0.13545373665480417
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.14,
+      "score": 5.12,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US approves $6.6bn sale of attack helicopters, assault vehicles to Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/31/us-approves-6-6bn-sale-of-attack-helicopters-assault-vehicles-to-israel?traffic_source=rss"
+        },
         {
           "title": "Iran says ready for ‘fair’ talks with US but not ‘under shadow of threats’",
           "url": "https://www.aljazeera.com/news/2026/1/30/iran-says-ready-for-fair-talks-with-us-but-not-under-shadow-of-threats?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "South Africa orders expulsion of Israeli envoy, declared persona non grata",
           "url": "https://www.aljazeera.com/news/2026/1/30/south-africa-orders-expulsion-of-israeli-envoy-declared-persona-non-grata?traffic_source=rss"
-        },
-        {
-          "title": "MSF says it will not hand over staff details to Israeli authorities",
-          "url": "https://www.aljazeera.com/news/2026/1/30/msf-says-it-will-not-hand-over-staff-details-to-israeli-authorities?traffic_source=rss"
         }
       ],
       "chg1d": 0.018810942796099718,
@@ -64,11 +64,15 @@
       "chg1m": 0.2996311475409837
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.14,
+      "score": 5.12,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US approves $6.6bn sale of attack helicopters, assault vehicles to Israel",
+          "url": "https://www.aljazeera.com/news/2026/1/31/us-approves-6-6bn-sale-of-attack-helicopters-assault-vehicles-to-israel?traffic_source=rss"
+        },
         {
           "title": "Iran says ready for ‘fair’ talks with US but not ‘under shadow of threats’",
           "url": "https://www.aljazeera.com/news/2026/1/30/iran-says-ready-for-fair-talks-with-us-but-not-under-shadow-of-threats?traffic_source=rss"
@@ -84,67 +88,21 @@
         {
           "title": "South Africa orders expulsion of Israeli envoy, declared persona non grata",
           "url": "https://www.aljazeera.com/news/2026/1/30/south-africa-orders-expulsion-of-israeli-envoy-declared-persona-non-grata?traffic_source=rss"
-        },
-        {
-          "title": "MSF says it will not hand over staff details to Israeli authorities",
-          "url": "https://www.aljazeera.com/news/2026/1/30/msf-says-it-will-not-hand-over-staff-details-to-israeli-authorities?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Is Trump’s choice for US Fed chair a ‘chameleon’ or a ‘solid’ pick?",
-          "url": "https://www.aljazeera.com/economy/2026/1/31/is-trumps-choice-for-us-fed-chair-a-chameleon-or-a-solid-pick?traffic_source=rss"
-        },
-        {
-          "title": "Trump nominates Kevin Warsh to replace Powell as Fed chair",
-          "url": "https://www.aljazeera.com/economy/2026/1/30/trump-nominates-kevin-warsh-to-replace-powell-as-fed-chair?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.014143600258191983,
-      "chg5d": -0.01950455043238556,
-      "chg1m": 0.04682901261944112
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Is Trump’s choice for US Fed chair a ‘chameleon’ or a ‘solid’ pick?",
-          "url": "https://www.aljazeera.com/economy/2026/1/31/is-trumps-choice-for-us-fed-chair-a-chameleon-or-a-solid-pick?traffic_source=rss"
-        },
-        {
-          "title": "Trump nominates Kevin Warsh to replace Powell as Fed chair",
-          "url": "https://www.aljazeera.com/economy/2026/1/30/trump-nominates-kevin-warsh-to-replace-powell-as-fed-chair?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.01069095228667589,
+      "chg5d": 0.03781256352917259,
+      "chg1m": 0.13545373665480417
     },
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Is Trump’s choice for US Fed chair a ‘chameleon’ or a ‘solid’ pick?",
           "url": "https://www.aljazeera.com/economy/2026/1/31/is-trumps-choice-for-us-fed-chair-a-chameleon-or-a-solid-pick?traffic_source=rss"
-        },
-        {
-          "title": "Trump nominates Kevin Warsh to replace Powell as Fed chair",
-          "url": "https://www.aljazeera.com/economy/2026/1/30/trump-nominates-kevin-warsh-to-replace-powell-as-fed-chair?traffic_source=rss"
         }
       ],
       "chg1d": -0.01201086697488195,
@@ -152,23 +110,49 @@
       "chg1m": 0.0039391053064915405
     },
     {
-      "symbol": "SPY",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Is Trump’s choice for US Fed chair a ‘chameleon’ or a ‘solid’ pick?",
           "url": "https://www.aljazeera.com/economy/2026/1/31/is-trumps-choice-for-us-fed-chair-a-chameleon-or-a-solid-pick?traffic_source=rss"
-        },
-        {
-          "title": "Trump nominates Kevin Warsh to replace Powell as Fed chair",
-          "url": "https://www.aljazeera.com/economy/2026/1/30/trump-nominates-kevin-warsh-to-replace-powell-as-fed-chair?traffic_source=rss"
         }
       ],
-      "chg1d": -0.003112212552590583,
-      "chg5d": 0.0038448703625784965,
-      "chg1m": 0.0070886886653760564
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Is Trump’s choice for US Fed chair a ‘chameleon’ or a ‘solid’ pick?",
+          "url": "https://www.aljazeera.com/economy/2026/1/31/is-trumps-choice-for-us-fed-chair-a-chameleon-or-a-solid-pick?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0029825370295659278,
+      "chg5d": 0.003975450865458569,
+      "chg1m": 0.007219691125311184
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Is Trump’s choice for US Fed chair a ‘chameleon’ or a ‘solid’ pick?",
+          "url": "https://www.aljazeera.com/economy/2026/1/31/is-trumps-choice-for-us-fed-chair-a-chameleon-or-a-solid-pick?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.014124615559858857,
+      "chg5d": -0.019485668970205147,
+      "chg1m": 0.046849171471192906
     },
     {
       "symbol": "SOXX",
@@ -186,21 +170,6 @@
       "chg1m": 0.13570772661681751
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Bombardier stock dives on Trump threats of 50% tariff on Canadian planes",
-          "url": "https://www.aljazeera.com/economy/2026/1/30/bombardier-stock-dives-on-trump-threats-of-50-tariff-on-canadian-planes?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.022004453118557397,
-      "chg5d": 0.024549329033001308,
-      "chg1m": 0.3273826179416867
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
       "score": 0.84,
@@ -214,6 +183,21 @@
       "chg1d": -0.02647621852451777,
       "chg5d": -0.012870666228685766,
       "chg1m": 0.10341144268642773
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Bombardier stock dives on Trump threats of 50% tariff on Canadian planes",
+          "url": "https://www.aljazeera.com/economy/2026/1/30/bombardier-stock-dives-on-trump-threats-of-50-tariff-on-canadian-planes?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.022100662470106437,
+      "chg5d": 0.024448539998848152,
+      "chg1m": 0.32725203798011443
     }
   ]
 }
