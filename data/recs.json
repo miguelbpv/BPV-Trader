@@ -1,31 +1,62 @@
 {
-  "generated_at": "2026-02-01T06:39:45.282305Z",
+  "generated_at": "2026-02-01T09:22:48.857107Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.01,
+      "score": 7.11,
       "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Israel to partially open Rafah in Gaza as dozens killed in attacks",
+          "title": "Iran designates EU armies ‘terrorist groups’ in retaliatory move",
+          "url": "https://www.aljazeera.com/news/2026/2/1/iran-designates-eu-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss"
+        },
+        {
+          "title": "Campaign to boycott Israel looks to future after Gaza ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Trump says India will start buying oil from Venezuela ‘as opposed to Iran’",
+          "url": "https://www.aljazeera.com/news/2026/2/1/trump-says-india-will-start-buying-oil-from-venezuela-as-opposed-to-iran?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Iran and US are talking to avert military escalation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/trump-says-iran-and-us-are-talking-to-avert-military-escalation?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel opens Rafah crossing in Gaza as dozens killed in attacks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/1/live-israel-to-partially-open-rafah-in-gaza-as-dozens-killed-in-attacks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 7.11,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran designates EU armies ‘terrorist groups’ in retaliatory move",
+          "url": "https://www.aljazeera.com/news/2026/2/1/iran-designates-eu-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss"
         },
         {
-          "title": "How much control will the US have over Venezuela’s oil?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/31/how-much-control-will-the-us-have-over-venezuelas-oil?traffic_source=rss"
+          "title": "Campaign to boycott Israel looks to future after Gaza ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire?traffic_source=rss"
         },
         {
-          "title": "US, Iran signal talks to avert military conflict amid tensions in the Gulf",
-          "url": "https://www.aljazeera.com/news/2026/1/31/iranian-official-says-progress-made-on-talks-as-us-iran-tensions-persist?traffic_source=rss"
+          "title": "Trump says India will start buying oil from Venezuela ‘as opposed to Iran’",
+          "url": "https://www.aljazeera.com/news/2026/2/1/trump-says-india-will-start-buying-oil-from-venezuela-as-opposed-to-iran?traffic_source=rss"
         },
         {
-          "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss"
+          "title": "Trump says Iran and US are talking to avert military escalation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/trump-says-iran-and-us-are-talking-to-avert-military-escalation?traffic_source=rss"
         },
         {
-          "title": "Deadly blast in Iran’s Bandar Abbas caused by gas leak, official says",
-          "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss"
+          "title": "LIVE: Israel opens Rafah crossing in Gaza as dozens killed in attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/1/live-israel-to-partially-open-rafah-in-gaza-as-dozens-killed-in-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.01069095228667589,
@@ -33,57 +64,30 @@
       "chg1m": 0.13545373665480417
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.01,
+      "score": 5.78,
       "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Israel to partially open Rafah in Gaza as dozens killed in attacks",
+          "title": "Iran designates EU armies ‘terrorist groups’ in retaliatory move",
+          "url": "https://www.aljazeera.com/news/2026/2/1/iran-designates-eu-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss"
+        },
+        {
+          "title": "Campaign to boycott Israel looks to future after Gaza ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Trump says India will start buying oil from Venezuela ‘as opposed to Iran’",
+          "url": "https://www.aljazeera.com/news/2026/2/1/trump-says-india-will-start-buying-oil-from-venezuela-as-opposed-to-iran?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Iran and US are talking to avert military escalation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/trump-says-iran-and-us-are-talking-to-avert-military-escalation?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Israel opens Rafah crossing in Gaza as dozens killed in attacks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/1/live-israel-to-partially-open-rafah-in-gaza-as-dozens-killed-in-attacks?traffic_source=rss"
-        },
-        {
-          "title": "How much control will the US have over Venezuela’s oil?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/31/how-much-control-will-the-us-have-over-venezuelas-oil?traffic_source=rss"
-        },
-        {
-          "title": "US, Iran signal talks to avert military conflict amid tensions in the Gulf",
-          "url": "https://www.aljazeera.com/news/2026/1/31/iranian-official-says-progress-made-on-talks-as-us-iran-tensions-persist?traffic_source=rss"
-        },
-        {
-          "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Deadly blast in Iran’s Bandar Abbas caused by gas leak, official says",
-          "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.68,
-      "confianca": 76,
-      "razoes": [
-        {
-          "title": "LIVE: Israel to partially open Rafah in Gaza as dozens killed in attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/1/live-israel-to-partially-open-rafah-in-gaza-as-dozens-killed-in-attacks?traffic_source=rss"
-        },
-        {
-          "title": "US, Iran signal talks to avert military conflict amid tensions in the Gulf",
-          "url": "https://www.aljazeera.com/news/2026/1/31/iranian-official-says-progress-made-on-talks-as-us-iran-tensions-persist?traffic_source=rss"
-        },
-        {
-          "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Deadly blast in Iran’s Bandar Abbas caused by gas leak, official says",
-          "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.018810942796099718,
@@ -91,56 +95,29 @@
       "chg1m": 0.2996311475409837
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.97,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Trump orders federal agents to stay away from protests in Democrat cities",
           "url": "https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss"
-        },
-        {
-          "title": "German football federation rules out World Cup boycott to oppose Trump",
-          "url": "https://www.aljazeera.com/sports/2026/1/31/german-football-federation-rules-out-world-cup-boycott-to-oppose-trump?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Trump orders federal agents to stay away from protests in Democrat cities",
-          "url": "https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss"
-        },
-        {
-          "title": "German football federation rules out World Cup boycott to oppose Trump",
-          "url": "https://www.aljazeera.com/sports/2026/1/31/german-football-federation-rules-out-world-cup-boycott-to-oppose-trump?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0029825370295659278,
-      "chg5d": 0.003975450865458569,
-      "chg1m": 0.007219691125311184
+      "chg1d": -0.014124615559858857,
+      "chg5d": -0.019485668970205147,
+      "chg1m": 0.046849171471192906
     },
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.97,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Trump orders federal agents to stay away from protests in Democrat cities",
           "url": "https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss"
-        },
-        {
-          "title": "German football federation rules out World Cup boycott to oppose Trump",
-          "url": "https://www.aljazeera.com/sports/2026/1/31/german-football-federation-rules-out-world-cup-boycott-to-oppose-trump?traffic_source=rss"
         }
       ],
       "chg1d": -0.01201086697488195,
@@ -148,23 +125,34 @@
       "chg1m": 0.0039391053064915405
     },
     {
-      "symbol": "IWM",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "score": 0.97,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Trump orders federal agents to stay away from protests in Democrat cities",
           "url": "https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss"
-        },
-        {
-          "title": "German football federation rules out World Cup boycott to oppose Trump",
-          "url": "https://www.aljazeera.com/sports/2026/1/31/german-football-federation-rules-out-world-cup-boycott-to-oppose-trump?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014124615559858857,
-      "chg5d": -0.019485668970205147,
-      "chg1m": 0.046849171471192906
+      "chg1d": -0.0029825370295659278,
+      "chg5d": 0.003975450865458569,
+      "chg1m": 0.007219691125311184
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders federal agents to stay away from protests in Democrat cities",
+          "url": "https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
