@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-01T12:30:46.896975Z",
+  "generated_at": "2026-02-01T15:17:01.923086Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.29,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Khamenei warns US of ‘regional war’ if Iran is attacked",
-          "url": "https://www.aljazeera.com/news/2026/2/1/khamenei-warns-us-of-regional-war-if-iran-is-attacked?traffic_source=rss"
-        },
-        {
-          "title": "Iran designates European armies ‘terrorist groups’ in retaliatory move",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/iran-designates-european-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss"
-        },
-        {
-          "title": "Week in pictures: From Israel’s Gaza killings to Russian strikes in Ukraine",
-          "url": "https://www.aljazeera.com/gallery/2026/2/1/week-in-pictures-from-israels-gaza-killings-to-russian-strikes-in-ukraine?traffic_source=rss"
-        },
-        {
-          "title": "Iran designates EU armies ‘terrorist groups’ in retaliatory move",
-          "url": "https://www.aljazeera.com/news/2026/2/1/iran-designates-eu-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss"
-        },
-        {
-          "title": "Campaign to boycott Israel looks to future after Gaza ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01069095228667589,
-      "chg5d": 0.03781256352917259,
-      "chg1m": 0.13545373665480417
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.29,
+      "score": 4.19,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "These are the Palestinians that Israel killed during Gaza’s ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/these-are-the-palestinians-that-israel-killed-during-gazas?traffic_source=rss"
+        },
         {
           "title": "Khamenei warns US of ‘regional war’ if Iran is attacked",
           "url": "https://www.aljazeera.com/news/2026/2/1/khamenei-warns-us-of-regional-war-if-iran-is-attacked?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Iran designates EU armies ‘terrorist groups’ in retaliatory move",
           "url": "https://www.aljazeera.com/news/2026/2/1/iran-designates-eu-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss"
-        },
-        {
-          "title": "Campaign to boycott Israel looks to future after Gaza ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.29,
+      "score": 4.19,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "These are the Palestinians that Israel killed during Gaza’s ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/these-are-the-palestinians-that-israel-killed-during-gazas?traffic_source=rss"
+        },
         {
           "title": "Khamenei warns US of ‘regional war’ if Iran is attacked",
           "url": "https://www.aljazeera.com/news/2026/2/1/khamenei-warns-us-of-regional-war-if-iran-is-attacked?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Iran designates EU armies ‘terrorist groups’ in retaliatory move",
           "url": "https://www.aljazeera.com/news/2026/2/1/iran-designates-eu-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01069095228667589,
+      "chg5d": 0.03781256352917259,
+      "chg1m": 0.13545373665480417
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.19,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "These are the Palestinians that Israel killed during Gaza’s ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/these-are-the-palestinians-that-israel-killed-during-gazas?traffic_source=rss"
         },
         {
-          "title": "Campaign to boycott Israel looks to future after Gaza ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire?traffic_source=rss"
+          "title": "Khamenei warns US of ‘regional war’ if Iran is attacked",
+          "url": "https://www.aljazeera.com/news/2026/2/1/khamenei-warns-us-of-regional-war-if-iran-is-attacked?traffic_source=rss"
+        },
+        {
+          "title": "Iran designates European armies ‘terrorist groups’ in retaliatory move",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/iran-designates-european-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss"
+        },
+        {
+          "title": "Week in pictures: From Israel’s Gaza killings to Russian strikes in Ukraine",
+          "url": "https://www.aljazeera.com/gallery/2026/2/1/week-in-pictures-from-israels-gaza-killings-to-russian-strikes-in-ukraine?traffic_source=rss"
+        },
+        {
+          "title": "Iran designates EU armies ‘terrorist groups’ in retaliatory move",
+          "url": "https://www.aljazeera.com/news/2026/2/1/iran-designates-eu-armies-terrorist-groups-in-retaliatory-move?traffic_source=rss"
         }
       ],
       "chg1d": 0.018810942796099718,
