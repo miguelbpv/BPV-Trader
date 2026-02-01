@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T01:28:35.169116Z",
+  "generated_at": "2026-02-01T04:56:05.269929Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.02,
-      "confianca": 95,
+      "score": 3.28,
+      "confianca": 93,
       "razoes": [
         {
           "title": "How much control will the US have over Venezuela’s oil?",
@@ -20,12 +20,35 @@
           "url": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss"
         },
         {
-          "title": "Explosion in Iran’s Bandar Abbas caused by gas leak, official says",
+          "title": "Deadly blast in Iran’s Bandar Abbas caused by gas leak, official says",
           "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.28,
+      "confianca": 93,
+      "razoes": [
+        {
+          "title": "How much control will the US have over Venezuela’s oil?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/1/31/how-much-control-will-the-us-have-over-venezuelas-oil?traffic_source=rss"
         },
         {
-          "title": "Why have rapper Ghali’s Israel comments led to Winter Olympics criticism?",
-          "url": "https://www.aljazeera.com/sports/2026/1/31/why-has-rapper-ghalis-israel-comments-led-to-winter-olympics-criticism?traffic_source=rss"
+          "title": "Iranian official says progress made on talks as US-Iran tensions persist",
+          "url": "https://www.aljazeera.com/news/2026/1/31/iranian-official-says-progress-made-on-talks-as-us-iran-tensions-persist?traffic_source=rss"
+        },
+        {
+          "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Deadly blast in Iran’s Bandar Abbas caused by gas leak, official says",
+          "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.01069095228667589,
@@ -33,86 +56,9 @@
       "chg1m": 0.13545373665480417
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.02,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "How much control will the US have over Venezuela’s oil?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/1/31/how-much-control-will-the-us-have-over-venezuelas-oil?traffic_source=rss"
-        },
-        {
-          "title": "Iranian official says progress made on talks as US-Iran tensions persist",
-          "url": "https://www.aljazeera.com/news/2026/1/31/iranian-official-says-progress-made-on-talks-as-us-iran-tensions-persist?traffic_source=rss"
-        },
-        {
-          "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Explosion in Iran’s Bandar Abbas caused by gas leak, official says",
-          "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss"
-        },
-        {
-          "title": "Why have rapper Ghali’s Israel comments led to Winter Olympics criticism?",
-          "url": "https://www.aljazeera.com/sports/2026/1/31/why-has-rapper-ghalis-israel-comments-led-to-winter-olympics-criticism?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.68,
-      "confianca": 76,
-      "razoes": [
-        {
-          "title": "Iranian official says progress made on talks as US-Iran tensions persist",
-          "url": "https://www.aljazeera.com/news/2026/1/31/iranian-official-says-progress-made-on-talks-as-us-iran-tensions-persist?traffic_source=rss"
-        },
-        {
-          "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Explosion in Iran’s Bandar Abbas caused by gas leak, official says",
-          "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss"
-        },
-        {
-          "title": "Why have rapper Ghali’s Israel comments led to Winter Olympics criticism?",
-          "url": "https://www.aljazeera.com/sports/2026/1/31/why-has-rapper-ghalis-israel-comments-led-to-winter-olympics-criticism?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018810942796099718,
-      "chg5d": 0.07345722893605493,
-      "chg1m": 0.2996311475409837
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Trump orders federal agents to stay away from protests in Democrat cities",
-          "url": "https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss"
-        },
-        {
-          "title": "German football federation rules out World Cup boycott to oppose Trump",
-          "url": "https://www.aljazeera.com/sports/2026/1/31/german-football-federation-rules-out-world-cup-boycott-to-oppose-trump?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.94,
       "confianca": 55,
       "razoes": [
         {
@@ -131,7 +77,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.94,
       "confianca": 55,
       "razoes": [
         {
@@ -150,7 +96,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.94,
       "confianca": 55,
       "razoes": [
         {
@@ -165,6 +111,48 @@
       "chg1d": -0.01201086697488195,
       "chg5d": -0.0013649794450154528,
       "chg1m": 0.0039391053064915405
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Trump orders federal agents to stay away from protests in Democrat cities",
+          "url": "https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss"
+        },
+        {
+          "title": "German football federation rules out World Cup boycott to oppose Trump",
+          "url": "https://www.aljazeera.com/sports/2026/1/31/german-football-federation-rules-out-world-cup-boycott-to-oppose-trump?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Iranian official says progress made on talks as US-Iran tensions persist",
+          "url": "https://www.aljazeera.com/news/2026/1/31/iranian-official-says-progress-made-on-talks-as-us-iran-tensions-persist?traffic_source=rss"
+        },
+        {
+          "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Deadly blast in Iran’s Bandar Abbas caused by gas leak, official says",
+          "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.018810942796099718,
+      "chg5d": 0.07345722893605493,
+      "chg1m": 0.2996311475409837
     }
   ]
 }
