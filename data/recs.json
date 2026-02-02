@@ -1,94 +1,98 @@
 {
-  "generated_at": "2026-02-02T12:38:22.010969Z",
+  "generated_at": "2026-02-02T15:31:40.193283Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.05,
+      "score": 4.21,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
+          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
+        },
+        {
+          "title": "Iran eyes progress towards US nuclear talks as tension eases",
+          "url": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss"
+        },
+        {
+          "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
+          "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
+        },
+        {
           "title": "In Gaza, my sister and nieces were my life. Israel killed them",
           "url": "https://www.aljazeera.com/features/longform/2026/2/2/in-gaza-my-sister-and-nieces-were-my-life-israel-killed-them?traffic_source=rss"
-        },
-        {
-          "title": "‘Red line’: Global NGOs working in Gaza defy Israel’s threats after MSF ban",
-          "url": "https://www.aljazeera.com/news/2026/2/2/redline-global-ngos-working-in-gaza-defy-israels-threats-after-msf-ban?traffic_source=rss"
-        },
-        {
-          "title": "A year after Hezbollah-Israel ceasefire, over 64,000 Lebanese displaced",
-          "url": "https://www.aljazeera.com/features/2026/2/2/a-year-after-hezbollah-israel-ceasefire-over-64000-lebanese-displaced?traffic_source=rss"
-        },
-        {
-          "title": "Knicks beat Lakers; spoil LeBron James’s 32nd game at Madison Square Garden",
-          "url": "https://www.aljazeera.com/sports/2026/2/2/knicks-beat-lakers-spoil-lebron-jamess-32nd-game-at-madison-square-garden?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Wounded Palestinians leave Gaza as Israel finally opens Rafah",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01069095228667589,
-      "chg5d": 0.03781256352917259,
-      "chg1m": 0.13545373665480417
+      "chg1d": -0.0018369020213807154,
+      "chg5d": 0.0883591789017639,
+      "chg1m": 0.3088572787230962
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.21,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
+          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
+        },
+        {
+          "title": "Iran eyes progress towards US nuclear talks as tension eases",
+          "url": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss"
+        },
+        {
+          "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
+          "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
+        },
+        {
+          "title": "In Gaza, my sister and nieces were my life. Israel killed them",
+          "url": "https://www.aljazeera.com/features/longform/2026/2/2/in-gaza-my-sister-and-nieces-were-my-life-israel-killed-them?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.017629774730656193,
+      "chg5d": 0.018894758228362448,
+      "chg1m": 0.12167300380228131
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.05,
+      "score": 4.21,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
+          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
+        },
+        {
+          "title": "Iran eyes progress towards US nuclear talks as tension eases",
+          "url": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss"
+        },
+        {
+          "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
+          "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
+        },
+        {
           "title": "In Gaza, my sister and nieces were my life. Israel killed them",
           "url": "https://www.aljazeera.com/features/longform/2026/2/2/in-gaza-my-sister-and-nieces-were-my-life-israel-killed-them?traffic_source=rss"
-        },
-        {
-          "title": "‘Red line’: Global NGOs working in Gaza defy Israel’s threats after MSF ban",
-          "url": "https://www.aljazeera.com/news/2026/2/2/redline-global-ngos-working-in-gaza-defy-israels-threats-after-msf-ban?traffic_source=rss"
-        },
-        {
-          "title": "A year after Hezbollah-Israel ceasefire, over 64,000 Lebanese displaced",
-          "url": "https://www.aljazeera.com/features/2026/2/2/a-year-after-hezbollah-israel-ceasefire-over-64000-lebanese-displaced?traffic_source=rss"
-        },
-        {
-          "title": "Knicks beat Lakers; spoil LeBron James’s 32nd game at Madison Square Garden",
-          "url": "https://www.aljazeera.com/sports/2026/2/2/knicks-beat-lakers-spoil-lebron-jamess-32nd-game-at-madison-square-garden?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Wounded Palestinians leave Gaza as Israel finally opens Rafah",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "In Gaza, my sister and nieces were my life. Israel killed them",
-          "url": "https://www.aljazeera.com/features/longform/2026/2/2/in-gaza-my-sister-and-nieces-were-my-life-israel-killed-them?traffic_source=rss"
-        },
-        {
-          "title": "‘Red line’: Global NGOs working in Gaza defy Israel’s threats after MSF ban",
-          "url": "https://www.aljazeera.com/news/2026/2/2/redline-global-ngos-working-in-gaza-defy-israels-threats-after-msf-ban?traffic_source=rss"
-        },
-        {
-          "title": "A year after Hezbollah-Israel ceasefire, over 64,000 Lebanese displaced",
-          "url": "https://www.aljazeera.com/features/2026/2/2/a-year-after-hezbollah-israel-ceasefire-over-64000-lebanese-displaced?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Wounded Palestinians leave Gaza as Israel finally opens Rafah",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018810942796099718,
-      "chg5d": 0.07345722893605493,
-      "chg1m": 0.2996311475409837
     }
   ]
 }
