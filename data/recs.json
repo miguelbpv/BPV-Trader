@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-02T15:31:40.193283Z",
+  "generated_at": "2026-02-02T18:32:07.092158Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.21,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
-          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
-        },
-        {
-          "title": "Iran eyes progress towards US nuclear talks as tension eases",
-          "url": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss"
-        },
-        {
-          "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
-          "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
-        },
-        {
-          "title": "In Gaza, my sister and nieces were my life. Israel killed them",
-          "url": "https://www.aljazeera.com/features/longform/2026/2/2/in-gaza-my-sister-and-nieces-were-my-life-israel-killed-them?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0018369020213807154,
-      "chg5d": 0.0883591789017639,
-      "chg1m": 0.3088572787230962
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.21,
-      "confianca": 95,
+      "score": 3.21,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
+        },
         {
           "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
@@ -53,22 +26,53 @@
         {
           "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
           "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
-        },
-        {
-          "title": "In Gaza, my sister and nieces were my life. Israel killed them",
-          "url": "https://www.aljazeera.com/features/longform/2026/2/2/in-gaza-my-sister-and-nieces-were-my-life-israel-killed-them?traffic_source=rss"
         }
       ],
-      "chg1d": -0.017629774730656193,
-      "chg5d": 0.018894758228362448,
-      "chg1m": 0.12167300380228131
+      "chg1d": -0.014201762977472955,
+      "chg5d": 0.022450223486387727,
+      "chg1m": 0.12558711697606803
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.21,
+      "confianca": 91,
+      "razoes": [
+        {
+          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
+          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
+        },
+        {
+          "title": "Iran eyes progress towards US nuclear talks as tension eases",
+          "url": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss"
+        },
+        {
+          "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
+          "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002846015578190454,
+      "chg5d": 0.09346525461609877,
+      "chg1m": 0.3149978290983521
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.21,
-      "confianca": 95,
+      "score": 3.21,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
+        },
         {
           "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
           "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
-        },
-        {
-          "title": "In Gaza, my sister and nieces were my life. Israel killed them",
-          "url": "https://www.aljazeera.com/features/longform/2026/2/2/in-gaza-my-sister-and-nieces-were-my-life-israel-killed-them?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
