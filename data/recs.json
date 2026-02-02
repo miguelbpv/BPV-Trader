@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-02T04:52:02.514740Z",
+  "generated_at": "2026-02-02T06:53:33.646211Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.14,
-      "confianca": 89,
-      "razoes": [
-        {
-          "title": "Israel says Gaza’s Rafah crossing to reopen for limited travel on Monday",
-          "url": "https://www.aljazeera.com/news/2026/2/1/israel-partially-reopens-rafah-crossing-in-pilot?traffic_source=rss"
-        },
-        {
-          "title": "Gaza patients in limbo amid Israel’s ‘pilot reopening’ of Rafah crossing",
-          "url": "https://www.aljazeera.com/features/2026/2/1/gaza-patients-in-limbo-amid-israels-pilot-reopening-of-rafah-crossing?traffic_source=rss"
-        },
-        {
-          "title": "Israel orders eviction of Bedouins as settlers target West Bank schools",
-          "url": "https://www.aljazeera.com/news/2026/2/1/israel-orders-eviction-of-bedouins-as-settlers-target-west-bank-schools?traffic_source=rss"
-        },
-        {
-          "title": "Israel says it will ban MSF from operating in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/2/1/israel-says-it-will-ban-msf-from-operating-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "These are the Palestinians that Israel killed during Gaza’s ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/these-are-the-palestinians-that-israel-killed-during-gazas?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.14,
-      "confianca": 89,
+      "score": 3.87,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Wounded Palestinians prepare to leave Gaza as Israel opens Rafah",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss"
+        },
         {
           "title": "Israel says Gaza’s Rafah crossing to reopen for limited travel on Monday",
           "url": "https://www.aljazeera.com/news/2026/2/1/israel-partially-reopens-rafah-crossing-in-pilot?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israel says it will ban MSF from operating in Gaza",
           "url": "https://www.aljazeera.com/news/2026/2/1/israel-says-it-will-ban-msf-from-operating-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "These are the Palestinians that Israel killed during Gaza’s ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/these-are-the-palestinians-that-israel-killed-during-gazas?traffic_source=rss"
         }
       ],
       "chg1d": 0.018810942796099718,
@@ -66,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.14,
-      "confianca": 89,
+      "score": 3.87,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "LIVE: Wounded Palestinians prepare to leave Gaza as Israel opens Rafah",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss"
+        },
         {
           "title": "Israel says Gaza’s Rafah crossing to reopen for limited travel on Monday",
           "url": "https://www.aljazeera.com/news/2026/2/1/israel-partially-reopens-rafah-crossing-in-pilot?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "Israel says it will ban MSF from operating in Gaza",
           "url": "https://www.aljazeera.com/news/2026/2/1/israel-says-it-will-ban-msf-from-operating-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "These are the Palestinians that Israel killed during Gaza’s ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/these-are-the-palestinians-that-israel-killed-during-gazas?traffic_source=rss"
         }
       ],
       "chg1d": 0.01069095228667589,
       "chg5d": 0.03781256352917259,
       "chg1m": 0.13545373665480417
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.87,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "LIVE: Wounded Palestinians prepare to leave Gaza as Israel opens Rafah",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss"
+        },
+        {
+          "title": "Israel says Gaza’s Rafah crossing to reopen for limited travel on Monday",
+          "url": "https://www.aljazeera.com/news/2026/2/1/israel-partially-reopens-rafah-crossing-in-pilot?traffic_source=rss"
+        },
+        {
+          "title": "Gaza patients in limbo amid Israel’s ‘pilot reopening’ of Rafah crossing",
+          "url": "https://www.aljazeera.com/features/2026/2/1/gaza-patients-in-limbo-amid-israels-pilot-reopening-of-rafah-crossing?traffic_source=rss"
+        },
+        {
+          "title": "Israel orders eviction of Bedouins as settlers target West Bank schools",
+          "url": "https://www.aljazeera.com/news/2026/2/1/israel-orders-eviction-of-bedouins-as-settlers-target-west-bank-schools?traffic_source=rss"
+        },
+        {
+          "title": "Israel says it will ban MSF from operating in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/1/israel-says-it-will-ban-msf-from-operating-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
