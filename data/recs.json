@@ -1,38 +1,54 @@
 {
-  "generated_at": "2026-02-03T12:39:35.556767Z",
+  "generated_at": "2026-02-03T15:40:58.606014Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.07,
-      "confianca": 59,
+      "acao": "comprar",
+      "score": 3.59,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: 135 Palestinians try to exit Gaza for care amid Israel restrictions",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
+          "title": "Epstein audio with former Israeli PM sheds new light on relationship",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/epstein-audio-with-former-israeli-pm-sheds-new-light-on-relationship?traffic_source=rss"
         },
         {
-          "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
-          "url": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss"
+          "title": "Amnesty demands Israel drop death penalty bills ‘entrenching apartheid’",
+          "url": "https://www.aljazeera.com/news/2026/2/3/amnesty-demands-israel-drop-death-penalty-bills-entrenching-apartheid?traffic_source=rss"
+        },
+        {
+          "title": "Israel reopens Rafah crossing but continues bombing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/israel-reopens-rafah-crossing-but-continues-bombing-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "What does 303 billion barrels of Venezuelan oil look like?",
+          "url": "https://www.aljazeera.com/news/longform/2026/2/3/what-does-303-billion-barrels-of-venezuelan-oil-look-like?traffic_source=rss"
         }
       ],
-      "chg1d": -0.019588638589618023,
-      "chg5d": 0.016863063795205167,
-      "chg1m": 0.11943636770297464
+      "chg1d": 0.01578421578421591,
+      "chg5d": 0.02355546607610231,
+      "chg1m": 0.11369112814895958
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.07,
-      "confianca": 59,
+      "acao": "comprar",
+      "score": 3.59,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: 135 Palestinians try to exit Gaza for care amid Israel restrictions",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
+          "title": "Epstein audio with former Israeli PM sheds new light on relationship",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/epstein-audio-with-former-israeli-pm-sheds-new-light-on-relationship?traffic_source=rss"
         },
         {
-          "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
-          "url": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss"
+          "title": "Amnesty demands Israel drop death penalty bills ‘entrenching apartheid’",
+          "url": "https://www.aljazeera.com/news/2026/2/3/amnesty-demands-israel-drop-death-penalty-bills-entrenching-apartheid?traffic_source=rss"
+        },
+        {
+          "title": "Israel reopens Rafah crossing but continues bombing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/israel-reopens-rafah-crossing-but-continues-bombing-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "What does 303 billion barrels of Venezuelan oil look like?",
+          "url": "https://www.aljazeera.com/news/longform/2026/2/3/what-does-303-billion-barrels-of-venezuelan-oil-look-like?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -41,18 +57,26 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 2.24,
+      "confianca": 64,
       "razoes": [
         {
-          "title": "LIVE: 135 Palestinians try to exit Gaza for care amid Israel restrictions",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
+          "title": "Epstein audio with former Israeli PM sheds new light on relationship",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/epstein-audio-with-former-israeli-pm-sheds-new-light-on-relationship?traffic_source=rss"
+        },
+        {
+          "title": "Amnesty demands Israel drop death penalty bills ‘entrenching apartheid’",
+          "url": "https://www.aljazeera.com/news/2026/2/3/amnesty-demands-israel-drop-death-penalty-bills-entrenching-apartheid?traffic_source=rss"
+        },
+        {
+          "title": "Israel reopens Rafah crossing but continues bombing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/israel-reopens-rafah-crossing-but-continues-bombing-palestinians?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002806597079877602,
-      "chg5d": 0.09342227418079296,
-      "chg1m": 0.3149461409638803
+      "chg1d": 0.00784591194968555,
+      "chg5d": 0.07738465417261949,
+      "chg1m": 0.28953668497394736
     }
   ]
 }
