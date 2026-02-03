@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-03T04:42:10.621287Z",
+  "generated_at": "2026-02-03T06:39:49.062091Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.65,
-      "confianca": 75,
+      "score": 3.17,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills Palestinian as 5 allowed to exit Gaza for medical care",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
+        },
         {
           "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
           "url": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss"
@@ -14,10 +18,6 @@
         {
           "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
           "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,9 +27,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.65,
-      "confianca": 75,
+      "score": 3.17,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "LIVE: Israel kills Palestinian as 5 allowed to exit Gaza for medical care",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
+        },
         {
           "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
           "url": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss"
@@ -37,30 +41,11 @@
         {
           "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
           "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
         }
       ],
       "chg1d": -0.019588638589618023,
       "chg5d": 0.016863063795205167,
       "chg1m": 0.11943636770297464
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
-          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03267182962245889,
-      "chg5d": 0.025998617414565342,
-      "chg1m": 0.1233011945111719
     },
     {
       "symbol": "ASML.AS",
@@ -76,6 +61,21 @@
       "chg1d": 0.01292340126493331,
       "chg5d": 0.019839388686454306,
       "chg1m": 0.3472697362271701
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.08,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
+          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03267182962245889,
+      "chg5d": 0.025998617414565342,
+      "chg1m": 0.1233011945111719
     },
     {
       "symbol": "SOXX",
@@ -95,12 +95,12 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 0.22,
-      "confianca": 6,
+      "score": 0.75,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
+          "title": "LIVE: Israel kills Palestinian as 5 allowed to exit Gaza for medical care",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
         }
       ],
       "chg1d": 0.002806597079877602,
