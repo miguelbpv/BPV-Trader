@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-02-03T09:32:17.228154Z",
+  "generated_at": "2026-02-03T12:39:35.556767Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.15,
-      "confianca": 90,
+      "acao": "observar",
+      "score": 2.07,
+      "confianca": 59,
       "razoes": [
         {
-          "title": "LIVE: Israel kills Palestinian as 5 allowed to exit Gaza for medical care",
+          "title": "LIVE: 135 Palestinians try to exit Gaza for care amid Israel restrictions",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
         },
         {
           "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
           "url": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss"
-        },
-        {
-          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
-          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
         }
       ],
       "chg1d": -0.019588638589618023,
@@ -26,71 +22,22 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.15,
-      "confianca": 90,
+      "acao": "observar",
+      "score": 2.07,
+      "confianca": 59,
       "razoes": [
         {
-          "title": "LIVE: Israel kills Palestinian as 5 allowed to exit Gaza for medical care",
+          "title": "LIVE: 135 Palestinians try to exit Gaza for care amid Israel restrictions",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
         },
         {
           "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
           "url": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss"
-        },
-        {
-          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
-          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.07,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
-          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03267182962245889,
-      "chg5d": 0.025998617414565342,
-      "chg1m": 0.1233011945111719
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.07,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
-          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01292340126493331,
-      "chg5d": 0.019839388686454306,
-      "chg1m": 0.3472697362271701
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.07,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
-          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.018452209067282663,
-      "chg5d": 0.028040924592648744,
-      "chg1m": 0.17114394819857223
     },
     {
       "symbol": "LMT",
@@ -99,7 +46,7 @@
       "confianca": 21,
       "razoes": [
         {
-          "title": "LIVE: Israel kills Palestinian as 5 allowed to exit Gaza for medical care",
+          "title": "LIVE: 135 Palestinians try to exit Gaza for care amid Israel restrictions",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
         }
       ],
