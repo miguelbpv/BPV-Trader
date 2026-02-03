@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-03T18:44:23.674250Z",
+  "generated_at": "2026-02-03T21:26:54.202770Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.55,
+      "score": 6.43,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘Game is over’: Iran’s ex-leaders, hardliners clash after protest killings",
+          "url": "https://www.aljazeera.com/news/2026/2/3/game-is-over-irans-ex-leaders-hardliners-clash-after-protest-killings?traffic_source=rss"
+        },
+        {
+          "title": "UN chief urges Gaza aid as Israel blocks most medical evacuees at Rafah",
+          "url": "https://www.aljazeera.com/news/2026/2/3/un-chief-urges-gaza-aid-as-israel-blocks-most-medical-evacuees-at-rafah?traffic_source=rss"
+        },
+        {
+          "title": "Will Hezbollah continue to avoid responding to Israel’s attacks on Lebanon?",
+          "url": "https://www.aljazeera.com/features/2026/2/3/will-hezbollah-continue-to-avoid-responding-to-israels-attacks-on-lebanon?traffic_source=rss"
+        },
         {
           "title": "What would be the impact of a US attack on Iran?",
           "url": "https://www.aljazeera.com/opinions/2026/2/3/what-would-be-the-impact-of-a-us-attack-on-iran?traffic_source=rss"
@@ -14,30 +26,61 @@
         {
           "title": "US military says it shot down an Iranian drone in Arabian Sea",
           "url": "https://www.aljazeera.com/news/2026/2/3/us-military-says-it-shot-down-an-iranian-drone-in-arabian-sea?traffic_source=rss"
-        },
-        {
-          "title": "Will Iran and Israel go to war?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/2/3/will-iran-and-israel-go-to-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel-Palestine head of Human Rights Watch quits over ‘blocked’ report",
-          "url": "https://www.aljazeera.com/news/2026/2/3/israel-palestine-head-of-human-right-watch-quits-over-blocked-report?traffic_source=rss"
-        },
-        {
-          "title": "Epstein audio with former Israeli PM sheds new light on relationship",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/epstein-audio-with-former-israeli-pm-sheds-new-light-on-relationship?traffic_source=rss"
         }
       ],
-      "chg1d": 0.021178821178821226,
-      "chg5d": 0.02899134286289506,
-      "chg1m": 0.11960569550931
+      "chg1d": -0.012169811320754731,
+      "chg5d": 0.05598789814270097,
+      "chg1m": 0.2639266099342145
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.43,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘Game is over’: Iran’s ex-leaders, hardliners clash after protest killings",
+          "url": "https://www.aljazeera.com/news/2026/2/3/game-is-over-irans-ex-leaders-hardliners-clash-after-protest-killings?traffic_source=rss"
+        },
+        {
+          "title": "UN chief urges Gaza aid as Israel blocks most medical evacuees at Rafah",
+          "url": "https://www.aljazeera.com/news/2026/2/3/un-chief-urges-gaza-aid-as-israel-blocks-most-medical-evacuees-at-rafah?traffic_source=rss"
+        },
+        {
+          "title": "Will Hezbollah continue to avoid responding to Israel’s attacks on Lebanon?",
+          "url": "https://www.aljazeera.com/features/2026/2/3/will-hezbollah-continue-to-avoid-responding-to-israels-attacks-on-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "What would be the impact of a US attack on Iran?",
+          "url": "https://www.aljazeera.com/opinions/2026/2/3/what-would-be-the-impact-of-a-us-attack-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "US military says it shot down an Iranian drone in Arabian Sea",
+          "url": "https://www.aljazeera.com/news/2026/2/3/us-military-says-it-shot-down-an-iranian-drone-in-arabian-sea?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03226773226773231,
+      "chg5d": 0.04016508959130254,
+      "chg1m": 0.131763417305586
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.55,
+      "score": 6.43,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘Game is over’: Iran’s ex-leaders, hardliners clash after protest killings",
+          "url": "https://www.aljazeera.com/news/2026/2/3/game-is-over-irans-ex-leaders-hardliners-clash-after-protest-killings?traffic_source=rss"
+        },
+        {
+          "title": "UN chief urges Gaza aid as Israel blocks most medical evacuees at Rafah",
+          "url": "https://www.aljazeera.com/news/2026/2/3/un-chief-urges-gaza-aid-as-israel-blocks-most-medical-evacuees-at-rafah?traffic_source=rss"
+        },
+        {
+          "title": "Will Hezbollah continue to avoid responding to Israel’s attacks on Lebanon?",
+          "url": "https://www.aljazeera.com/features/2026/2/3/will-hezbollah-continue-to-avoid-responding-to-israels-attacks-on-lebanon?traffic_source=rss"
+        },
         {
           "title": "What would be the impact of a US attack on Iran?",
           "url": "https://www.aljazeera.com/opinions/2026/2/3/what-would-be-the-impact-of-a-us-attack-on-iran?traffic_source=rss"
@@ -45,54 +88,11 @@
         {
           "title": "US military says it shot down an Iranian drone in Arabian Sea",
           "url": "https://www.aljazeera.com/news/2026/2/3/us-military-says-it-shot-down-an-iranian-drone-in-arabian-sea?traffic_source=rss"
-        },
-        {
-          "title": "Will Iran and Israel go to war?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/2/3/will-iran-and-israel-go-to-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel-Palestine head of Human Rights Watch quits over ‘blocked’ report",
-          "url": "https://www.aljazeera.com/news/2026/2/3/israel-palestine-head-of-human-right-watch-quits-over-blocked-report?traffic_source=rss"
-        },
-        {
-          "title": "Epstein audio with former Israeli PM sheds new light on relationship",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/epstein-audio-with-former-israeli-pm-sheds-new-light-on-relationship?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.21,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What would be the impact of a US attack on Iran?",
-          "url": "https://www.aljazeera.com/opinions/2026/2/3/what-would-be-the-impact-of-a-us-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "US military says it shot down an Iranian drone in Arabian Sea",
-          "url": "https://www.aljazeera.com/news/2026/2/3/us-military-says-it-shot-down-an-iranian-drone-in-arabian-sea?traffic_source=rss"
-        },
-        {
-          "title": "Will Iran and Israel go to war?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/2/3/will-iran-and-israel-go-to-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel-Palestine head of Human Rights Watch quits over ‘blocked’ report",
-          "url": "https://www.aljazeera.com/news/2026/2/3/israel-palestine-head-of-human-right-watch-quits-over-blocked-report?traffic_source=rss"
-        },
-        {
-          "title": "Epstein audio with former Israeli PM sheds new light on relationship",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/epstein-audio-with-former-israeli-pm-sheds-new-light-on-relationship?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010566037735849099,
-      "chg5d": 0.0577023279267164,
-      "chg1m": 0.26597863479992756
     }
   ]
 }
