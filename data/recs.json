@@ -1,46 +1,23 @@
 {
-  "generated_at": "2026-02-03T01:20:54.138293Z",
+  "generated_at": "2026-02-03T04:42:10.621287Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
-          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.019392752203721744,
-      "chg5d": 0.017066233238520995,
-      "chg1m": 0.11966003131290542
-    },
-    {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "acao": "comprar",
+      "score": 2.65,
+      "confianca": 75,
       "razoes": [
+        {
+          "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
+          "url": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss"
+        },
+        {
+          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
+          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
+        },
         {
           "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
-          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,36 +25,51 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.65,
+      "confianca": 75,
       "razoes": [
+        {
+          "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
+          "url": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss"
+        },
+        {
+          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
+          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
+        },
         {
           "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
-          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
         }
       ],
-      "chg1d": 0.002806597079877602,
-      "chg5d": 0.09342227418079296,
-      "chg1m": 0.3149461409638803
+      "chg1d": -0.019588638589618023,
+      "chg5d": 0.016863063795205167,
+      "chg1m": 0.11943636770297464
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.08,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
+          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03267182962245889,
+      "chg5d": 0.025998617414565342,
+      "chg1m": 0.1233011945111719
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
-          "title": "Trump to slash US tariffs on India from 50 percent to 18 percent",
+          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
           "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
         }
       ],
@@ -88,11 +80,11 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
-          "title": "Trump to slash US tariffs on India from 50 percent to 18 percent",
+          "title": "Trump cuts India tariffs to 18% as Modi agrees to stop buying Russian oil",
           "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
         }
       ],
@@ -101,19 +93,19 @@
       "chg1m": 0.17114394819857223
     },
     {
-      "symbol": "TSM",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 0.22,
+      "confianca": 6,
       "razoes": [
         {
-          "title": "Trump to slash US tariffs on India from 50 percent to 18 percent",
-          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
+          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
         }
       ],
-      "chg1d": 0.03267182962245889,
-      "chg5d": 0.025998617414565342,
-      "chg1m": 0.1233011945111719
+      "chg1d": 0.002806597079877602,
+      "chg5d": 0.09342227418079296,
+      "chg1m": 0.3149461409638803
     }
   ]
 }
