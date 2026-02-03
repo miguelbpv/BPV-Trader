@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:32:07.092158Z",
+  "generated_at": "2026-02-03T01:20:54.138293Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
@@ -18,56 +18,17 @@
         {
           "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
           "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
-        },
-        {
-          "title": "Iran eyes progress towards US nuclear talks as tension eases",
-          "url": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss"
-        },
-        {
-          "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
-          "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014201762977472955,
-      "chg5d": 0.022450223486387727,
-      "chg1m": 0.12558711697606803
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
-      "razoes": [
-        {
-          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
-          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
-        },
-        {
-          "title": "Iran eyes progress towards US nuclear talks as tension eases",
-          "url": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss"
-        },
-        {
-          "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
-          "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002846015578190454,
-      "chg5d": 0.09346525461609877,
-      "chg1m": 0.3149978290983521
+      "chg1d": -0.019392752203721744,
+      "chg5d": 0.017066233238520995,
+      "chg1m": 0.11966003131290542
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.21,
-      "confianca": 91,
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
@@ -80,19 +41,79 @@
         {
           "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
           "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
-        },
-        {
-          "title": "Iran eyes progress towards US nuclear talks as tension eases",
-          "url": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss"
-        },
-        {
-          "title": "‘Regavim’: Israel’s new Rafah border site carries coded annexation message",
-          "url": "https://www.aljazeera.com/features/2026/2/2/regavim-israels-new-rafah-border-site-carries-coded-annexation-message?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Israeli strikes hit two more south Lebanon villages amid ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israeli-strikes-hit-two-more-south-lebanon-villages-amid?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Rafah border scheme risks Gaza patients’ lives",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/2/israels-rafah-border-scheme-risks-gaza-patients-lives?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
+          "url": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.002806597079877602,
+      "chg5d": 0.09342227418079296,
+      "chg1m": 0.3149461409638803
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump to slash US tariffs on India from 50 percent to 18 percent",
+          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01292340126493331,
+      "chg5d": 0.019839388686454306,
+      "chg1m": 0.3472697362271701
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump to slash US tariffs on India from 50 percent to 18 percent",
+          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.018452209067282663,
+      "chg5d": 0.028040924592648744,
+      "chg1m": 0.17114394819857223
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump to slash US tariffs on India from 50 percent to 18 percent",
+          "url": "https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03267182962245889,
+      "chg5d": 0.025998617414565342,
+      "chg1m": 0.1233011945111719
     }
   ]
 }
