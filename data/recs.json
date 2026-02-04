@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-04T12:39:25.138776Z",
+  "generated_at": "2026-02-04T15:34:36.383019Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.94,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "‘Health crime’: Aoun slams Israel over spraying chemicals in south Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/2/4/health-crime-aoun-slams-israel-over-spraying-chemicals-in-south-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Can US-Iran diplomacy work? Inside the narrow window for talks",
-          "url": "https://www.aljazeera.com/news/2026/2/4/can-us-iran-diplomacy-work-inside-the-narrow-window-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "How Israel destroyed Gaza’s health system ‘deliberately and methodically’",
-          "url": "https://www.aljazeera.com/news/2026/2/4/how-israel-destroyed-gazas-health-system-deliberately-and-methodically?traffic_source=rss"
-        },
-        {
-          "title": "How Israel is trying to hinder NGOs from working in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza kill 21 in one of deadliest days since ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03236763236763246,
-      "chg5d": 0.040265753976243206,
-      "chg1m": 0.13187294633077773
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.94,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Mediators propose framework for crucial Iran-US talks this week",
+          "url": "https://www.aljazeera.com/news/2026/2/4/mediators-propose-framework-for-crucial-iran-us-talks-this-week?traffic_source=rss"
+        },
         {
           "title": "‘Health crime’: Aoun slams Israel over spraying chemicals in south Lebanon",
           "url": "https://www.aljazeera.com/news/2026/2/4/health-crime-aoun-slams-israel-over-spraying-chemicals-in-south-lebanon?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "How Israel is trying to hinder NGOs from working in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza kill 21 in one of deadliest days since ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.94,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Mediators propose framework for crucial Iran-US talks this week",
+          "url": "https://www.aljazeera.com/news/2026/2/4/mediators-propose-framework-for-crucial-iran-us-talks-this-week?traffic_source=rss"
+        },
         {
           "title": "‘Health crime’: Aoun slams Israel over spraying chemicals in south Lebanon",
           "url": "https://www.aljazeera.com/news/2026/2/4/health-crime-aoun-slams-israel-over-spraying-chemicals-in-south-lebanon?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "How Israel is trying to hinder NGOs from working in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on Gaza kill 21 in one of deadliest days since ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss"
         }
       ],
-      "chg1d": -0.012169811320754731,
-      "chg5d": 0.05598789814270097,
-      "chg1m": 0.2639266099342145
+      "chg1d": 0.010257402748209814,
+      "chg5d": 0.04295704295704307,
+      "chg1m": 0.11324376199616128
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Mediators propose framework for crucial Iran-US talks this week",
+          "url": "https://www.aljazeera.com/news/2026/2/4/mediators-propose-framework-for-crucial-iran-us-talks-this-week?traffic_source=rss"
+        },
+        {
+          "title": "‘Health crime’: Aoun slams Israel over spraying chemicals in south Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/2/4/health-crime-aoun-slams-israel-over-spraying-chemicals-in-south-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Can US-Iran diplomacy work? Inside the narrow window for talks",
+          "url": "https://www.aljazeera.com/news/2026/2/4/can-us-iran-diplomacy-work-inside-the-narrow-window-for-talks?traffic_source=rss"
+        },
+        {
+          "title": "How Israel destroyed Gaza’s health system ‘deliberately and methodically’",
+          "url": "https://www.aljazeera.com/news/2026/2/4/how-israel-destroyed-gazas-health-system-deliberately-and-methodically?traffic_source=rss"
+        },
+        {
+          "title": "How Israel is trying to hinder NGOs from working in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.026008340495973056,
+      "chg5d": 0.024528270296515775,
+      "chg1m": 0.1961608382039603
     }
   ]
 }
