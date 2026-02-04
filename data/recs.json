@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-02-04T09:35:29.587120Z",
+  "generated_at": "2026-02-04T12:39:25.138776Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.48,
+      "score": 4.94,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘Health crime’: Aoun slams Israel over spraying chemicals in south Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/2/4/health-crime-aoun-slams-israel-over-spraying-chemicals-in-south-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Can US-Iran diplomacy work? Inside the narrow window for talks",
+          "url": "https://www.aljazeera.com/news/2026/2/4/can-us-iran-diplomacy-work-inside-the-narrow-window-for-talks?traffic_source=rss"
+        },
         {
           "title": "How Israel destroyed Gaza’s health system ‘deliberately and methodically’",
           "url": "https://www.aljazeera.com/news/2026/2/4/how-israel-destroyed-gazas-health-system-deliberately-and-methodically?traffic_source=rss"
@@ -16,16 +24,39 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Israel kills 18 people, one of the deadliest attacks since Gaza ‘truce’",
+          "title": "Israeli attacks on Gaza kill 21 in one of deadliest days since ‘ceasefire’",
           "url": "https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.03236763236763246,
+      "chg5d": 0.040265753976243206,
+      "chg1m": 0.13187294633077773
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.94,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘Health crime’: Aoun slams Israel over spraying chemicals in south Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/2/4/health-crime-aoun-slams-israel-over-spraying-chemicals-in-south-lebanon?traffic_source=rss"
         },
         {
-          "title": "‘Heavily armed’: Greece, Israel boost military ties amid Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2026/2/4/greece-woos-israel-for-joint-production-of-weapons-systems?traffic_source=rss"
+          "title": "Can US-Iran diplomacy work? Inside the narrow window for talks",
+          "url": "https://www.aljazeera.com/news/2026/2/4/can-us-iran-diplomacy-work-inside-the-narrow-window-for-talks?traffic_source=rss"
         },
         {
-          "title": "Trump says talks with Iran continuing amid tensions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/trump-says-talks-with-iran-continuing-amid-tensions?traffic_source=rss"
+          "title": "How Israel destroyed Gaza’s health system ‘deliberately and methodically’",
+          "url": "https://www.aljazeera.com/news/2026/2/4/how-israel-destroyed-gazas-health-system-deliberately-and-methodically?traffic_source=rss"
+        },
+        {
+          "title": "How Israel is trying to hinder NGOs from working in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 21 in one of deadliest days since ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.48,
+      "score": 4.94,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘Health crime’: Aoun slams Israel over spraying chemicals in south Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/2/4/health-crime-aoun-slams-israel-over-spraying-chemicals-in-south-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Can US-Iran diplomacy work? Inside the narrow window for talks",
+          "url": "https://www.aljazeera.com/news/2026/2/4/can-us-iran-diplomacy-work-inside-the-narrow-window-for-talks?traffic_source=rss"
+        },
         {
           "title": "How Israel destroyed Gaza’s health system ‘deliberately and methodically’",
           "url": "https://www.aljazeera.com/news/2026/2/4/how-israel-destroyed-gazas-health-system-deliberately-and-methodically?traffic_source=rss"
@@ -47,52 +86,13 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Israel kills 18 people, one of the deadliest attacks since Gaza ‘truce’",
+          "title": "Israeli attacks on Gaza kill 21 in one of deadliest days since ‘ceasefire’",
           "url": "https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss"
-        },
-        {
-          "title": "‘Heavily armed’: Greece, Israel boost military ties amid Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2026/2/4/greece-woos-israel-for-joint-production-of-weapons-systems?traffic_source=rss"
-        },
-        {
-          "title": "Trump says talks with Iran continuing amid tensions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/trump-says-talks-with-iran-continuing-amid-tensions?traffic_source=rss"
         }
       ],
       "chg1d": -0.012169811320754731,
       "chg5d": 0.05598789814270097,
       "chg1m": 0.2639266099342145
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.48,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "How Israel destroyed Gaza’s health system ‘deliberately and methodically’",
-          "url": "https://www.aljazeera.com/news/2026/2/4/how-israel-destroyed-gazas-health-system-deliberately-and-methodically?traffic_source=rss"
-        },
-        {
-          "title": "How Israel is trying to hinder NGOs from working in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 18 people, one of the deadliest attacks since Gaza ‘truce’",
-          "url": "https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss"
-        },
-        {
-          "title": "‘Heavily armed’: Greece, Israel boost military ties amid Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2026/2/4/greece-woos-israel-for-joint-production-of-weapons-systems?traffic_source=rss"
-        },
-        {
-          "title": "Trump says talks with Iran continuing amid tensions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/trump-says-talks-with-iran-continuing-amid-tensions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.03236763236763246,
-      "chg5d": 0.040265753976243206,
-      "chg1m": 0.13187294633077773
     }
   ]
 }
