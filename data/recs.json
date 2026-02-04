@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-02-03T21:26:54.202770Z",
+  "generated_at": "2026-02-04T01:16:05.468172Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.43,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "‘Game is over’: Iran’s ex-leaders, hardliners clash after protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/3/game-is-over-irans-ex-leaders-hardliners-clash-after-protest-killings?traffic_source=rss"
-        },
-        {
-          "title": "UN chief urges Gaza aid as Israel blocks most medical evacuees at Rafah",
-          "url": "https://www.aljazeera.com/news/2026/2/3/un-chief-urges-gaza-aid-as-israel-blocks-most-medical-evacuees-at-rafah?traffic_source=rss"
-        },
-        {
-          "title": "Will Hezbollah continue to avoid responding to Israel’s attacks on Lebanon?",
-          "url": "https://www.aljazeera.com/features/2026/2/3/will-hezbollah-continue-to-avoid-responding-to-israels-attacks-on-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "What would be the impact of a US attack on Iran?",
-          "url": "https://www.aljazeera.com/opinions/2026/2/3/what-would-be-the-impact-of-a-us-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "US military says it shot down an Iranian drone in Arabian Sea",
-          "url": "https://www.aljazeera.com/news/2026/2/3/us-military-says-it-shot-down-an-iranian-drone-in-arabian-sea?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012169811320754731,
-      "chg5d": 0.05598789814270097,
-      "chg1m": 0.2639266099342145
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.43,
+      "score": 6.36,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.131763417305586
     },
     {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.36,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘Game is over’: Iran’s ex-leaders, hardliners clash after protest killings",
+          "url": "https://www.aljazeera.com/news/2026/2/3/game-is-over-irans-ex-leaders-hardliners-clash-after-protest-killings?traffic_source=rss"
+        },
+        {
+          "title": "UN chief urges Gaza aid as Israel blocks most medical evacuees at Rafah",
+          "url": "https://www.aljazeera.com/news/2026/2/3/un-chief-urges-gaza-aid-as-israel-blocks-most-medical-evacuees-at-rafah?traffic_source=rss"
+        },
+        {
+          "title": "Will Hezbollah continue to avoid responding to Israel’s attacks on Lebanon?",
+          "url": "https://www.aljazeera.com/features/2026/2/3/will-hezbollah-continue-to-avoid-responding-to-israels-attacks-on-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "What would be the impact of a US attack on Iran?",
+          "url": "https://www.aljazeera.com/opinions/2026/2/3/what-would-be-the-impact-of-a-us-attack-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "US military says it shot down an Iranian drone in Arabian Sea",
+          "url": "https://www.aljazeera.com/news/2026/2/3/us-military-says-it-shot-down-an-iranian-drone-in-arabian-sea?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.012169811320754731,
+      "chg5d": 0.05598789814270097,
+      "chg1m": 0.2639266099342145
+    },
+    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.43,
+      "score": 6.36,
       "confianca": 95,
       "razoes": [
         {
