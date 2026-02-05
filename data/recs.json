@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-02-05T09:35:41.860223Z",
+  "generated_at": "2026-02-05T12:41:22.422191Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.78,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Gaza patients head to Rafah crossing as people return amid Israeli attacks",
-          "url": "https://www.aljazeera.com/news/2026/2/5/gaza-patients-head-to-rafah-crossing-as-people-return-amid-israeli-attacks?traffic_source=rss"
-        },
-        {
-          "title": "The weapons the US has in place as it threatens to attack Iran",
-          "url": "https://www.aljazeera.com/video/project-force-2/2026/2/5/the-weapons-the-us-has-in-place-as-it-threatens-to-attack-iran?traffic_source=rss"
-        },
-        {
-          "title": "Here’s why Israel is allowing record murder rates in its Palestinian towns",
-          "url": "https://www.aljazeera.com/opinions/2026/2/5/heres-why-israel-is-allowing-record-murder-rates-in-its-palestinian-towns?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: US, Iran set to hold talks in Oman after barrage of threats",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss"
-        },
-        {
-          "title": "Questions after Iran’s government releases victim list in protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/5/questions-after-irans-government-releases-victim-list-in-protest-killings?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.022450164505515707,
-      "chg5d": 0.05554445554445557,
-      "chg1m": 0.12667946257197693
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.78,
+      "score": 5.28,
       "confianca": 95,
       "razoes": [
         {
@@ -51,7 +20,7 @@
           "url": "https://www.aljazeera.com/opinions/2026/2/5/heres-why-israel-is-allowing-record-murder-rates-in-its-palestinian-towns?traffic_source=rss"
         },
         {
-          "title": "LIVE: US, Iran set to hold talks in Oman after barrage of threats",
+          "title": "LIVE: US, Iran struggle to find common ground ahead of talks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss"
         },
         {
@@ -64,9 +33,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.44,
+      "score": 5.28,
       "confianca": 95,
       "razoes": [
         {
@@ -82,7 +51,38 @@
           "url": "https://www.aljazeera.com/opinions/2026/2/5/heres-why-israel-is-allowing-record-murder-rates-in-its-palestinian-towns?traffic_source=rss"
         },
         {
-          "title": "LIVE: US, Iran set to hold talks in Oman after barrage of threats",
+          "title": "LIVE: US, Iran struggle to find common ground ahead of talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss"
+        },
+        {
+          "title": "Questions after Iran’s government releases victim list in protest killings",
+          "url": "https://www.aljazeera.com/news/2026/2/5/questions-after-irans-government-releases-victim-list-in-protest-killings?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.022450164505515707,
+      "chg5d": 0.05554445554445557,
+      "chg1m": 0.12667946257197693
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.94,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza patients head to Rafah crossing as people return amid Israeli attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/5/gaza-patients-head-to-rafah-crossing-as-people-return-amid-israeli-attacks?traffic_source=rss"
+        },
+        {
+          "title": "The weapons the US has in place as it threatens to attack Iran",
+          "url": "https://www.aljazeera.com/video/project-force-2/2026/2/5/the-weapons-the-us-has-in-place-as-it-threatens-to-attack-iran?traffic_source=rss"
+        },
+        {
+          "title": "Here’s why Israel is allowing record murder rates in its Palestinian towns",
+          "url": "https://www.aljazeera.com/opinions/2026/2/5/heres-why-israel-is-allowing-record-murder-rates-in-its-palestinian-towns?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: US, Iran struggle to find common ground ahead of talks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss"
         },
         {
@@ -93,6 +93,51 @@
       "chg1d": -0.0405882914716837,
       "chg5d": 0.009191822793711403,
       "chg1m": 0.17825517524483453
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "T20 World Cup: Can Pakistan face sanctions over India boycott?",
+          "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.04065535719402814,
+      "chg5d": -0.05888595282939305,
+      "chg1m": 0.09032804370659267
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "T20 World Cup: Can Pakistan face sanctions over India boycott?",
+          "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.029813849590469073,
+      "chg5d": -0.0483786152497809,
+      "chg1m": 0.010830100853374738
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "T20 World Cup: Can Pakistan face sanctions over India boycott?",
+          "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.04414998264089802,
+      "chg5d": -0.08344892637185815,
+      "chg1m": 0.038734829906306965
     }
   ]
 }
