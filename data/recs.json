@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-02-04T21:25:40.292294Z",
+  "generated_at": "2026-02-05T01:16:33.602380Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.8,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Six British activists acquitted over raid on Israeli defence firm’s factory",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/six-british-activists-acquitted-over-raid-on-israeli-defence-firms-factory?traffic_source=rss"
-        },
-        {
-          "title": "Some in Israel question its influence over US as Iran war decision nears",
-          "url": "https://www.aljazeera.com/news/2026/2/4/some-israel-question-influence-over-us-iran-war-decision-nears?traffic_source=rss"
-        },
-        {
-          "title": "Rubio: US ready to talk with Iran, ‘not sure’ a deal can be reached",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/rubio-us-ready-to-talk-with-iran-not-sure-a-deal-can-be-reached?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes kill more than 20 in Gaza, shatter ‘ceasefire’ myth",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/israeli-strikes-kill-more-than-20-in-gaza-shatter-ceasefire-myth?traffic_source=rss"
-        },
-        {
-          "title": "Can India switch from Russian to Venezuelan oil, as Trump wants?",
-          "url": "https://www.aljazeera.com/economy/2026/2/4/can-india-switch-from-russian-to-venezuelan-oil-as-trump-wants?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.022063092703696545,
-      "chg5d": 0.05514485514485525,
-      "chg1m": 0.126252932394967
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.8,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US-Iran nuclear talks set for Oman on Friday, Tehran confirms",
+          "url": "https://www.aljazeera.com/news/2026/2/4/us-iran-nuclear-talks-set-for-oman-on-friday-tehran-confirms?traffic_source=rss"
+        },
+        {
+          "title": "Return through Rafah: Palestinian women recount Israeli interrogation",
+          "url": "https://www.aljazeera.com/features/2026/2/4/return-through-rafah-palestinian-women-describe-israeli-interrogation?traffic_source=rss"
+        },
         {
           "title": "Six British activists acquitted over raid on Israeli defence firm’s factory",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/six-british-activists-acquitted-over-raid-on-israeli-defence-firms-factory?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Rubio: US ready to talk with Iran, ‘not sure’ a deal can be reached",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/rubio-us-ready-to-talk-with-iran-not-sure-a-deal-can-be-reached?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes kill more than 20 in Gaza, shatter ‘ceasefire’ myth",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/israeli-strikes-kill-more-than-20-in-gaza-shatter-ceasefire-myth?traffic_source=rss"
-        },
-        {
-          "title": "Can India switch from Russian to Venezuelan oil, as Trump wants?",
-          "url": "https://www.aljazeera.com/economy/2026/2/4/can-india-switch-from-russian-to-venezuelan-oil-as-trump-wants?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.46,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US-Iran nuclear talks set for Oman on Friday, Tehran confirms",
+          "url": "https://www.aljazeera.com/news/2026/2/4/us-iran-nuclear-talks-set-for-oman-on-friday-tehran-confirms?traffic_source=rss"
+        },
+        {
+          "title": "Return through Rafah: Palestinian women recount Israeli interrogation",
+          "url": "https://www.aljazeera.com/features/2026/2/4/return-through-rafah-palestinian-women-describe-israeli-interrogation?traffic_source=rss"
+        },
         {
           "title": "Six British activists acquitted over raid on Israeli defence firm’s factory",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/six-british-activists-acquitted-over-raid-on-israeli-defence-firms-factory?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Rubio: US ready to talk with Iran, ‘not sure’ a deal can be reached",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/rubio-us-ready-to-talk-with-iran-not-sure-a-deal-can-be-reached?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.022063092703696545,
+      "chg5d": 0.05514485514485525,
+      "chg1m": 0.126252932394967
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US-Iran nuclear talks set for Oman on Friday, Tehran confirms",
+          "url": "https://www.aljazeera.com/news/2026/2/4/us-iran-nuclear-talks-set-for-oman-on-friday-tehran-confirms?traffic_source=rss"
         },
         {
-          "title": "Israeli strikes kill more than 20 in Gaza, shatter ‘ceasefire’ myth",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/israeli-strikes-kill-more-than-20-in-gaza-shatter-ceasefire-myth?traffic_source=rss"
+          "title": "Return through Rafah: Palestinian women recount Israeli interrogation",
+          "url": "https://www.aljazeera.com/features/2026/2/4/return-through-rafah-palestinian-women-describe-israeli-interrogation?traffic_source=rss"
         },
         {
-          "title": "Epstein, Israel’s Barak discussed ‘gigantic’ consultancy sums paid to Blair",
-          "url": "https://www.aljazeera.com/news/2026/2/4/epstein-israels-barak-discussed-gigantic-consultancy-sums-paid-to-blair?traffic_source=rss"
+          "title": "Six British activists acquitted over raid on Israeli defence firm’s factory",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/six-british-activists-acquitted-over-raid-on-israeli-defence-firms-factory?traffic_source=rss"
+        },
+        {
+          "title": "Some in Israel question its influence over US as Iran war decision nears",
+          "url": "https://www.aljazeera.com/news/2026/2/4/some-israel-question-influence-over-us-iran-war-decision-nears?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: US ready to talk with Iran, ‘not sure’ a deal can be reached",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/rubio-us-ready-to-talk-with-iran-not-sure-a-deal-can-be-reached?traffic_source=rss"
         }
       ],
       "chg1d": -0.0405882914716837,
