@@ -1,35 +1,16 @@
 {
-  "generated_at": "2026-02-05T15:34:17.885187Z",
+  "generated_at": "2026-02-05T18:38:25.960442Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
-        },
-        {
-          "title": "Israel sprays unknown chemical over land in south Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/israel-sprays-unknown-chemical-over-land-in-south-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air attacks on Lebanon reach highest level since ceasefire: Report",
-          "url": "https://www.aljazeera.com/news/2026/2/5/israeli-air-attacks-on-lebanon-reach-highest-level-since-ceasefire-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011830399394283552,
-      "chg5d": 0.03355771134428827,
-      "chg1m": 0.14384312007011388
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "acao": "comprar",
+      "score": 2.46,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
+          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
+        },
         {
           "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
           "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
@@ -43,16 +24,20 @@
           "url": "https://www.aljazeera.com/news/2026/2/5/israeli-air-attacks-on-lebanon-reach-highest-level-since-ceasefire-report?traffic_source=rss"
         }
       ],
-      "chg1d": 0.009589222907956687,
-      "chg5d": -0.022441406563750023,
-      "chg1m": 0.1656961152402115
+      "chg1d": 0.01579401420134047,
+      "chg5d": -0.016433470948257888,
+      "chg1m": 0.1728603172170715
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "acao": "comprar",
+      "score": 2.46,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
+          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
+        },
         {
           "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
           "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
@@ -71,49 +56,31 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.46,
+      "confianca": 70,
       "razoes": [
         {
-          "title": "T20 World Cup: Can Pakistan face sanctions over India boycott?",
-          "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.015028149403716856,
-      "chg5d": -0.0988979038019549,
-      "chg1m": -0.008938632556723015
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
+          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
+          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
+        },
         {
-          "title": "T20 World Cup: Can Pakistan face sanctions over India boycott?",
-          "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00444318326077382,
-      "chg5d": -0.08382583358531022,
-      "chg1m": 0.0732496639000475
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
+          "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
+          "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
+        },
         {
-          "title": "T20 World Cup: Can Pakistan face sanctions over India boycott?",
-          "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
+          "title": "Israel sprays unknown chemical over land in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/israel-sprays-unknown-chemical-over-land-in-south-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israeli air attacks on Lebanon reach highest level since ceasefire: Report",
+          "url": "https://www.aljazeera.com/news/2026/2/5/israeli-air-attacks-on-lebanon-reach-highest-level-since-ceasefire-report?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0035611223675324644,
-      "chg5d": -0.044087763216021286,
-      "chg1m": -0.008704150505451615
+      "chg1d": -0.014385765663448761,
+      "chg5d": 0.03088497327261933,
+      "chg1m": 0.14088518843120068
     }
   ]
 }
