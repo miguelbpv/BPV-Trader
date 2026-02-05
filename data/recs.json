@@ -1,31 +1,69 @@
 {
-  "generated_at": "2026-02-05T12:41:22.422191Z",
+  "generated_at": "2026-02-05T15:34:17.885187Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.28,
-      "confianca": 95,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.74,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Gaza patients head to Rafah crossing as people return amid Israeli attacks",
-          "url": "https://www.aljazeera.com/news/2026/2/5/gaza-patients-head-to-rafah-crossing-as-people-return-amid-israeli-attacks?traffic_source=rss"
+          "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
+          "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
         },
         {
-          "title": "The weapons the US has in place as it threatens to attack Iran",
-          "url": "https://www.aljazeera.com/video/project-force-2/2026/2/5/the-weapons-the-us-has-in-place-as-it-threatens-to-attack-iran?traffic_source=rss"
+          "title": "Israel sprays unknown chemical over land in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/israel-sprays-unknown-chemical-over-land-in-south-lebanon?traffic_source=rss"
         },
         {
-          "title": "Here’s why Israel is allowing record murder rates in its Palestinian towns",
-          "url": "https://www.aljazeera.com/opinions/2026/2/5/heres-why-israel-is-allowing-record-murder-rates-in-its-palestinian-towns?traffic_source=rss"
+          "title": "Israeli air attacks on Lebanon reach highest level since ceasefire: Report",
+          "url": "https://www.aljazeera.com/news/2026/2/5/israeli-air-attacks-on-lebanon-reach-highest-level-since-ceasefire-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011830399394283552,
+      "chg5d": 0.03355771134428827,
+      "chg1m": 0.14384312007011388
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.74,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
+          "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
         },
         {
-          "title": "LIVE: US, Iran struggle to find common ground ahead of talks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss"
+          "title": "Israel sprays unknown chemical over land in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/israel-sprays-unknown-chemical-over-land-in-south-lebanon?traffic_source=rss"
         },
         {
-          "title": "Questions after Iran’s government releases victim list in protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/5/questions-after-irans-government-releases-victim-list-in-protest-killings?traffic_source=rss"
+          "title": "Israeli air attacks on Lebanon reach highest level since ceasefire: Report",
+          "url": "https://www.aljazeera.com/news/2026/2/5/israeli-air-attacks-on-lebanon-reach-highest-level-since-ceasefire-report?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.009589222907956687,
+      "chg5d": -0.022441406563750023,
+      "chg1m": 0.1656961152402115
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.74,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
+          "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
+        },
+        {
+          "title": "Israel sprays unknown chemical over land in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/israel-sprays-unknown-chemical-over-land-in-south-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israeli air attacks on Lebanon reach highest level since ceasefire: Report",
+          "url": "https://www.aljazeera.com/news/2026/2/5/israeli-air-attacks-on-lebanon-reach-highest-level-since-ceasefire-report?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,71 +71,24 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.28,
-      "confianca": 95,
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Gaza patients head to Rafah crossing as people return amid Israeli attacks",
-          "url": "https://www.aljazeera.com/news/2026/2/5/gaza-patients-head-to-rafah-crossing-as-people-return-amid-israeli-attacks?traffic_source=rss"
-        },
-        {
-          "title": "The weapons the US has in place as it threatens to attack Iran",
-          "url": "https://www.aljazeera.com/video/project-force-2/2026/2/5/the-weapons-the-us-has-in-place-as-it-threatens-to-attack-iran?traffic_source=rss"
-        },
-        {
-          "title": "Here’s why Israel is allowing record murder rates in its Palestinian towns",
-          "url": "https://www.aljazeera.com/opinions/2026/2/5/heres-why-israel-is-allowing-record-murder-rates-in-its-palestinian-towns?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: US, Iran struggle to find common ground ahead of talks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss"
-        },
-        {
-          "title": "Questions after Iran’s government releases victim list in protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/5/questions-after-irans-government-releases-victim-list-in-protest-killings?traffic_source=rss"
+          "title": "T20 World Cup: Can Pakistan face sanctions over India boycott?",
+          "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
         }
       ],
-      "chg1d": 0.022450164505515707,
-      "chg5d": 0.05554445554445557,
-      "chg1m": 0.12667946257197693
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.94,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Gaza patients head to Rafah crossing as people return amid Israeli attacks",
-          "url": "https://www.aljazeera.com/news/2026/2/5/gaza-patients-head-to-rafah-crossing-as-people-return-amid-israeli-attacks?traffic_source=rss"
-        },
-        {
-          "title": "The weapons the US has in place as it threatens to attack Iran",
-          "url": "https://www.aljazeera.com/video/project-force-2/2026/2/5/the-weapons-the-us-has-in-place-as-it-threatens-to-attack-iran?traffic_source=rss"
-        },
-        {
-          "title": "Here’s why Israel is allowing record murder rates in its Palestinian towns",
-          "url": "https://www.aljazeera.com/opinions/2026/2/5/heres-why-israel-is-allowing-record-murder-rates-in-its-palestinian-towns?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: US, Iran struggle to find common ground ahead of talks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss"
-        },
-        {
-          "title": "Questions after Iran’s government releases victim list in protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/5/questions-after-irans-government-releases-victim-list-in-protest-killings?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0405882914716837,
-      "chg5d": 0.009191822793711403,
-      "chg1m": 0.17825517524483453
+      "chg1d": -0.015028149403716856,
+      "chg5d": -0.0988979038019549,
+      "chg1m": -0.008938632556723015
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -105,14 +96,14 @@
           "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
         }
       ],
-      "chg1d": -0.04065535719402814,
-      "chg5d": -0.05888595282939305,
-      "chg1m": 0.09032804370659267
+      "chg1d": -0.00444318326077382,
+      "chg5d": -0.08382583358531022,
+      "chg1m": 0.0732496639000475
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -120,24 +111,9 @@
           "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
         }
       ],
-      "chg1d": -0.029813849590469073,
-      "chg5d": -0.0483786152497809,
-      "chg1m": 0.010830100853374738
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "T20 World Cup: Can Pakistan face sanctions over India boycott?",
-          "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.04414998264089802,
-      "chg5d": -0.08344892637185815,
-      "chg1m": 0.038734829906306965
+      "chg1d": -0.0035611223675324644,
+      "chg5d": -0.044087763216021286,
+      "chg1m": -0.008704150505451615
     }
   ]
 }
