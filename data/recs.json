@@ -1,73 +1,11 @@
 {
-  "generated_at": "2026-02-05T21:21:18.613660Z",
+  "generated_at": "2026-02-06T01:16:42.256452Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What the US and Iran are about to negotiate over isn’t clear",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/what-the-us-and-iran-are-about-to-negotiate-over-isnt-clear?traffic_source=rss"
-        },
-        {
-          "title": "Gaza flotilla organisers in South Africa warn against Israeli interception",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/gaza-flotilla-organisers-in-south-africa-warn-against-israeli-interception?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s Merz warns of potential escalation as US, Iran prepare for talks",
-          "url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.011357183418512237,
-      "chg5d": 0.03405266283904175,
-      "chg1m": 0.14439088518843113
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What the US and Iran are about to negotiate over isn’t clear",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/what-the-us-and-iran-are-about-to-negotiate-over-isnt-clear?traffic_source=rss"
-        },
-        {
-          "title": "Gaza flotilla organisers in South Africa warn against Israeli interception",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/gaza-flotilla-organisers-in-south-africa-warn-against-israeli-interception?traffic_source=rss"
-        },
-        {
-          "title": "Germany’s Merz warns of potential escalation as US, Iran prepare for talks",
-          "url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
         {
           "title": "What the US and Iran are about to negotiate over isn’t clear",
@@ -84,10 +22,6 @@
         {
           "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
           "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks face ‘serious obstacles in the way of diplomacy’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/2/5/us-iran-talks-face-serious-obstacles-in-the-way-of?traffic_source=rss"
         }
       ],
       "chg1d": 0.010651005375273673,
@@ -95,43 +29,67 @@
       "chg1m": 0.16692207493678643
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "US treasury secretary declines to rule out future Federal Reserve lawsuits",
-          "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss"
+          "title": "What the US and Iran are about to negotiate over isn’t clear",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/what-the-us-and-iran-are-about-to-negotiate-over-isnt-clear?traffic_source=rss"
+        },
+        {
+          "title": "Gaza flotilla organisers in South Africa warn against Israeli interception",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/gaza-flotilla-organisers-in-south-africa-warn-against-israeli-interception?traffic_source=rss"
+        },
+        {
+          "title": "Germany’s Merz warns of potential escalation as US, Iran prepare for talks",
+          "url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks?traffic_source=rss"
+        },
+        {
+          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
+          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
         }
       ],
-      "chg1d": -0.017964071856287345,
-      "chg5d": -0.028590955689714093,
-      "chg1m": -0.0009372071227740576
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "US treasury secretary declines to rule out future Federal Reserve lawsuits",
-          "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss"
+          "title": "What the US and Iran are about to negotiate over isn’t clear",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/what-the-us-and-iran-are-about-to-negotiate-over-isnt-clear?traffic_source=rss"
+        },
+        {
+          "title": "Gaza flotilla organisers in South Africa warn against Israeli interception",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/gaza-flotilla-organisers-in-south-africa-warn-against-israeli-interception?traffic_source=rss"
+        },
+        {
+          "title": "Germany’s Merz warns of potential escalation as US, Iran prepare for talks",
+          "url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks?traffic_source=rss"
+        },
+        {
+          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
+          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014329343788691622,
-      "chg5d": -0.05141159461735205,
-      "chg1m": -0.042266850598312394
+      "chg1d": -0.011357183418512237,
+      "chg5d": 0.03405266283904175,
+      "chg1m": 0.14439088518843113
     },
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "US treasury secretary declines to rule out future Federal Reserve lawsuits",
+          "title": "US Treasury secretary declines to rule out future Federal Reserve lawsuits",
           "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss"
         }
       ],
@@ -140,19 +98,49 @@
       "chg1m": -0.020540321764646253
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "US treasury secretary declines to rule out future Federal Reserve lawsuits",
+          "title": "US Treasury secretary declines to rule out future Federal Reserve lawsuits",
+          "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.017964071856287345,
+      "chg5d": -0.028590955689714093,
+      "chg1m": -0.0009372071227740576
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Treasury secretary declines to rule out future Federal Reserve lawsuits",
           "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Treasury secretary declines to rule out future Federal Reserve lawsuits",
+          "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.014329343788691622,
+      "chg5d": -0.05141159461735205,
+      "chg1m": -0.042266850598312394
     }
   ]
 }
