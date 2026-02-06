@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-06T04:43:01.141076Z",
+  "generated_at": "2026-02-06T06:42:48.535879Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.66,
+      "score": 3.67,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump’s ‘maximalist demands’ for Iran put talks in Oman on uncertain ground",
+          "url": "https://www.aljazeera.com/news/2026/2/6/trumps-maximalist-demands-for-iran-put-talks-in-oman-on-uncertain-ground?traffic_source=rss"
+        },
         {
           "title": "US-Iran talks live: Critical talks to begin in Oman in push to prevent war",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Germany’s Merz warns of potential escalation as US, Iran prepare for talks",
           "url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
         }
       ],
       "chg1d": 0.010651005375273673,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.66,
+      "score": 3.67,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump’s ‘maximalist demands’ for Iran put talks in Oman on uncertain ground",
+          "url": "https://www.aljazeera.com/news/2026/2/6/trumps-maximalist-demands-for-iran-put-talks-in-oman-on-uncertain-ground?traffic_source=rss"
+        },
         {
           "title": "US-Iran talks live: Critical talks to begin in Oman in push to prevent war",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Germany’s Merz warns of potential escalation as US, Iran prepare for talks",
           "url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.66,
+      "score": 3.67,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump’s ‘maximalist demands’ for Iran put talks in Oman on uncertain ground",
+          "url": "https://www.aljazeera.com/news/2026/2/6/trumps-maximalist-demands-for-iran-put-talks-in-oman-on-uncertain-ground?traffic_source=rss"
+        },
         {
           "title": "US-Iran talks live: Critical talks to begin in Oman in push to prevent war",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss"
@@ -84,30 +88,11 @@
         {
           "title": "Germany’s Merz warns of potential escalation as US, Iran prepare for talks",
           "url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "Starvation by design: How Israel turned food into a weapon of war in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/2/5/starvation-by-design-how-israel-turned-food-into-a-weapon-of-war-in-ga?traffic_source=rss"
         }
       ],
       "chg1d": -0.011735756199129234,
       "chg5d": 0.03365670164323902,
       "chg1m": 0.1439526730937774
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Treasury secretary declines to rule out future Federal Reserve lawsuits",
-          "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.014395377631035952,
-      "chg5d": -0.05147514417806584,
-      "chg1m": -0.04233101280035929
     },
     {
       "symbol": "SPY",
@@ -125,6 +110,21 @@
       "chg1m": -0.020511412092915602
     },
     {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Treasury secretary declines to rule out future Federal Reserve lawsuits",
+          "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "IWM",
       "acao": "observar",
       "score": 0.97,
@@ -140,7 +140,7 @@
       "chg1m": -0.0009762574195562778
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "QQQ",
       "acao": "observar",
       "score": 0.97,
       "confianca": 27,
@@ -150,9 +150,9 @@
           "url": "https://www.aljazeera.com/news/2026/2/5/us-treasury-secretary-declines-to-rule-out-future-federal-reserve-lawsuits?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.014395377631035952,
+      "chg5d": -0.05147514417806584,
+      "chg1m": -0.04233101280035929
     }
   ]
 }
