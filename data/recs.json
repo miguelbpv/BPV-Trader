@@ -1,39 +1,24 @@
 {
-  "generated_at": "2026-02-06T09:34:51.979258Z",
+  "generated_at": "2026-02-06T12:39:23.922515Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Armed militia members are serving as Israeli agents in Gaza: Investigation",
-          "url": "https://www.aljazeera.com/news/2026/2/6/armed-militia-members-are-serving-as-israeli-agents-in-gaza-investigation?traffic_source=rss"
-        },
-        {
-          "title": "Iran foreign minister arrives in Oman for talks with US",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iran-foreign-minister-arrives-in-oman-for-talks-with-us?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s ‘maximalist demands’ for Iran put talks in Oman on uncertain ground",
-          "url": "https://www.aljazeera.com/news/2026/2/6/trumps-maximalist-demands-for-iran-put-talks-in-oman-on-uncertain-ground?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks live: Key negotiations begin in Oman in push to prevent war",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
+      "score": 3.72,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s war on Gaza’s healthcare continues in full force under ‘ceasefire’",
+          "url": "https://www.aljazeera.com/opinions/2026/2/6/israels-war-on-gazas-healthcare-continues-in-full-force-under-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills two in northern Gaza as Rafah crossing sees little movement",
+          "url": "https://www.aljazeera.com/news/2026/2/6/israel-kills-two-in-northern-gaza-as-rafah-crossing-sees-little-movement?traffic_source=rss"
+        },
+        {
+          "title": "What are Iranians saying about the threat of war?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/what-are-iranians-saying-about-the-threat-of-war?traffic_source=rss"
+        },
         {
           "title": "Armed militia members are serving as Israeli agents in Gaza: Investigation",
           "url": "https://www.aljazeera.com/news/2026/2/6/armed-militia-members-are-serving-as-israeli-agents-in-gaza-investigation?traffic_source=rss"
@@ -41,14 +26,6 @@
         {
           "title": "Iran foreign minister arrives in Oman for talks with US",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iran-foreign-minister-arrives-in-oman-for-talks-with-us?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s ‘maximalist demands’ for Iran put talks in Oman on uncertain ground",
-          "url": "https://www.aljazeera.com/news/2026/2/6/trumps-maximalist-demands-for-iran-put-talks-in-oman-on-uncertain-ground?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks live: Key negotiations begin in Oman in push to prevent war",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss"
         }
       ],
       "chg1d": 0.010651005375273673,
@@ -58,9 +35,21 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
+      "score": 3.72,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s war on Gaza’s healthcare continues in full force under ‘ceasefire’",
+          "url": "https://www.aljazeera.com/opinions/2026/2/6/israels-war-on-gazas-healthcare-continues-in-full-force-under-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills two in northern Gaza as Rafah crossing sees little movement",
+          "url": "https://www.aljazeera.com/news/2026/2/6/israel-kills-two-in-northern-gaza-as-rafah-crossing-sees-little-movement?traffic_source=rss"
+        },
+        {
+          "title": "What are Iranians saying about the threat of war?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/what-are-iranians-saying-about-the-threat-of-war?traffic_source=rss"
+        },
         {
           "title": "Armed militia members are serving as Israeli agents in Gaza: Investigation",
           "url": "https://www.aljazeera.com/news/2026/2/6/armed-militia-members-are-serving-as-israeli-agents-in-gaza-investigation?traffic_source=rss"
@@ -68,14 +57,6 @@
         {
           "title": "Iran foreign minister arrives in Oman for talks with US",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iran-foreign-minister-arrives-in-oman-for-talks-with-us?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s ‘maximalist demands’ for Iran put talks in Oman on uncertain ground",
-          "url": "https://www.aljazeera.com/news/2026/2/6/trumps-maximalist-demands-for-iran-put-talks-in-oman-on-uncertain-ground?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks live: Key negotiations begin in Oman in push to prevent war",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss"
         }
       ],
       "chg1d": -0.011735756199129234,
@@ -83,9 +64,40 @@
       "chg1m": 0.1439526730937774
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.72,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel’s war on Gaza’s healthcare continues in full force under ‘ceasefire’",
+          "url": "https://www.aljazeera.com/opinions/2026/2/6/israels-war-on-gazas-healthcare-continues-in-full-force-under-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills two in northern Gaza as Rafah crossing sees little movement",
+          "url": "https://www.aljazeera.com/news/2026/2/6/israel-kills-two-in-northern-gaza-as-rafah-crossing-sees-little-movement?traffic_source=rss"
+        },
+        {
+          "title": "What are Iranians saying about the threat of war?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/what-are-iranians-saying-about-the-threat-of-war?traffic_source=rss"
+        },
+        {
+          "title": "Armed militia members are serving as Israeli agents in Gaza: Investigation",
+          "url": "https://www.aljazeera.com/news/2026/2/6/armed-militia-members-are-serving-as-israeli-agents-in-gaza-investigation?traffic_source=rss"
+        },
+        {
+          "title": "Iran foreign minister arrives in Oman for talks with US",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iran-foreign-minister-arrives-in-oman-for-talks-with-us?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -98,24 +110,9 @@
       "chg1m": 0.007552916095629545
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Mexico’s tariffs on India are a double whammy after US tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/2/6/mexicos-tariffs-on-india-are-a-double-whammy-after-us-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00823669098593861,
-      "chg5d": -0.07215701366172791,
-      "chg1m": 0.08691907035155655
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -126,6 +123,21 @@
       "chg1d": 0.015318966046540212,
       "chg5d": -0.02597555588278602,
       "chg1m": 0.01007849005894393
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Mexico’s tariffs on India are a double whammy after US tariffs",
+          "url": "https://www.aljazeera.com/economy/2026/2/6/mexicos-tariffs-on-india-are-a-double-whammy-after-us-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00823669098593861,
+      "chg5d": -0.07215701366172791,
+      "chg1m": 0.08691907035155655
     }
   ]
 }
