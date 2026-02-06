@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-02-06T18:38:07.915574Z",
+  "generated_at": "2026-02-06T21:23:12.867437Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.45,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran, US hold talks in Oman as fears of war hang over region",
-          "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
-        },
-        {
-          "title": "What Barak-Epstein audio says about Israeli controlling demographics",
-          "url": "https://www.aljazeera.com/news/2026/2/6/what-barak-epstein-audio-says-about-israeli-controlling-demographics?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s crumbling health system leaves patients without treatment options",
-          "url": "https://www.aljazeera.com/features/2026/2/6/yemens-crumbling-health-system-leaves-patients-without-treatment-options?traffic_source=rss"
-        },
-        {
-          "title": "Iranian, US officials meet separately with Omani mediator",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-us-officials-meet-separately-with-omani-mediator?traffic_source=rss"
-        },
-        {
-          "title": "Art Basel Qatar: Making a new equilibrium in the Middle East",
-          "url": "https://www.aljazeera.com/news/2026/2/6/art-basel-qatar-making-a-new-equilibrium-in-the-middle-east?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01963225435740277,
-      "chg5d": 0.042801175318315426,
-      "chg1m": 0.17959228894305332
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.45,
+      "score": 6.15,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
+          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
+        },
+        {
+          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
+          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
+        },
+        {
+          "title": "Iranian FM says indirect talks with US were a ‘good start’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
+        },
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        },
+        {
           "title": "Iran, US hold talks in Oman as fears of war hang over region",
           "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
-        },
-        {
-          "title": "What Barak-Epstein audio says about Israeli controlling demographics",
-          "url": "https://www.aljazeera.com/news/2026/2/6/what-barak-epstein-audio-says-about-israeli-controlling-demographics?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s crumbling health system leaves patients without treatment options",
-          "url": "https://www.aljazeera.com/features/2026/2/6/yemens-crumbling-health-system-leaves-patients-without-treatment-options?traffic_source=rss"
-        },
-        {
-          "title": "Iranian, US officials meet separately with Omani mediator",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-us-officials-meet-separately-with-omani-mediator?traffic_source=rss"
-        },
-        {
-          "title": "Art Basel Qatar: Making a new equilibrium in the Middle East",
-          "url": "https://www.aljazeera.com/news/2026/2/6/art-basel-qatar-making-a-new-equilibrium-in-the-middle-east?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,54 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.45,
+      "score": 6.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
+          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
+        },
+        {
+          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
+          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
+        },
+        {
+          "title": "Iranian FM says indirect talks with US were a ‘good start’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
+        },
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        },
+        {
+          "title": "Iran, US hold talks in Oman as fears of war hang over region",
+          "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01963225435740277,
+      "chg5d": 0.042801175318315426,
+      "chg1m": 0.17959228894305332
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.8,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
+          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
+        },
+        {
+          "title": "Iranian FM says indirect talks with US were a ‘good start’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
+        },
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        },
         {
           "title": "Iran, US hold talks in Oman as fears of war hang over region",
           "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
@@ -76,23 +88,56 @@
         {
           "title": "What Barak-Epstein audio says about Israeli controlling demographics",
           "url": "https://www.aljazeera.com/news/2026/2/6/what-barak-epstein-audio-says-about-israeli-controlling-demographics?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s crumbling health system leaves patients without treatment options",
-          "url": "https://www.aljazeera.com/features/2026/2/6/yemens-crumbling-health-system-leaves-patients-without-treatment-options?traffic_source=rss"
-        },
-        {
-          "title": "Iranian, US officials meet separately with Omani mediator",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-us-officials-meet-separately-with-omani-mediator?traffic_source=rss"
-        },
-        {
-          "title": "Art Basel Qatar: Making a new equilibrium in the Middle East",
-          "url": "https://www.aljazeera.com/news/2026/2/6/art-basel-qatar-making-a-new-equilibrium-in-the-middle-east?traffic_source=rss"
         }
       ],
-      "chg1d": 0.017687711349683333,
-      "chg5d": -0.022492195137334026,
-      "chg1m": 0.2477207317809488
+      "chg1d": 0.02363833349748858,
+      "chg5d": -0.016776512881965227,
+      "chg1m": 0.25501640268078174
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.05347157150197986,
+      "chg5d": 0.006410626624314093,
+      "chg1m": 0.07273230939702667
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.05478789344782754,
+      "chg5d": 0.055330348499516034,
+      "chg1m": 0.09467177105560441
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.046564851573146805,
+      "chg5d": -0.007006324666198192,
+      "chg1m": 0.1502356589904515
     }
   ]
 }
