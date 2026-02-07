@@ -1,54 +1,27 @@
 {
-  "generated_at": "2026-02-07T06:31:59.966828Z",
+  "generated_at": "2026-02-07T09:22:46.588430Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.53,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
-          "url": "https://www.aljazeera.com/features/2026/2/7/israels-war-on-gaza-decimated-transport-and-even-made-walking-perilous?traffic_source=rss"
-        },
-        {
-          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
-          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
-        },
-        {
-          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
-          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iranian FM says indirect talks with US were a ‘good start’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019919555640681846,
-      "chg5d": 0.04309500489715971,
-      "chg1m": 0.1799246620873033
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.53,
-      "confianca": 95,
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
+        },
+        {
+          "title": "Trump hails ‘very good’ Iran talks but maintains threat of military action",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/trump-hails-very-good-iran-talks-but-maintains-threat-of-military-action?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Palestine is region’s ‘moral compass’, Iran FM tells Al Jazeera Forum",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/7/live-irans-top-diplomat-set-to-address-al-jazeera-forum-in-doha?traffic_source=rss"
+        },
         {
           "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
           "url": "https://www.aljazeera.com/features/2026/2/7/israels-war-on-gaza-decimated-transport-and-even-made-walking-perilous?traffic_source=rss"
-        },
-        {
-          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
-          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
-        },
-        {
-          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
-          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iranian FM says indirect talks with US were a ‘good start’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,25 +31,56 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.2,
-      "confianca": 62,
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
+        },
+        {
+          "title": "Trump hails ‘very good’ Iran talks but maintains threat of military action",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/trump-hails-very-good-iran-talks-but-maintains-threat-of-military-action?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Palestine is region’s ‘moral compass’, Iran FM tells Al Jazeera Forum",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/7/live-irans-top-diplomat-set-to-address-al-jazeera-forum-in-doha?traffic_source=rss"
+        },
         {
           "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
           "url": "https://www.aljazeera.com/features/2026/2/7/israels-war-on-gaza-decimated-transport-and-even-made-walking-perilous?traffic_source=rss"
-        },
-        {
-          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
-          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iranian FM says indirect talks with US were a ‘good start’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
         }
       ],
       "chg1d": 0.02363833349748858,
       "chg5d": -0.016776512881965227,
       "chg1m": 0.25501640268078174
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
+      "razoes": [
+        {
+          "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
+        },
+        {
+          "title": "Trump hails ‘very good’ Iran talks but maintains threat of military action",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/trump-hails-very-good-iran-talks-but-maintains-threat-of-military-action?traffic_source=rss"
+        },
+        {
+          "title": "LIVE: Palestine is region’s ‘moral compass’, Iran FM tells Al Jazeera Forum",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/7/live-irans-top-diplomat-set-to-address-al-jazeera-forum-in-doha?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
+          "url": "https://www.aljazeera.com/features/2026/2/7/israels-war-on-gaza-decimated-transport-and-even-made-walking-perilous?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019919555640681846,
+      "chg5d": 0.04309500489715971,
+      "chg1m": 0.1799246620873033
     }
   ]
 }
