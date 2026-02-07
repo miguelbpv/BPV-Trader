@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-07T01:15:22.332776Z",
+  "generated_at": "2026-02-07T04:24:31.808042Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.36,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
-          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
-        },
-        {
-          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
-          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iranian FM says indirect talks with US were a ‘good start’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
-        },
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        },
-        {
-          "title": "Iran, US hold talks in Oman as fears of war hang over region",
-          "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01963225435740277,
-      "chg5d": 0.042801175318315426,
-      "chg1m": 0.17959228894305332
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.36,
+      "score": 5.35,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
+          "url": "https://www.aljazeera.com/features/2026/2/7/israels-war-on-gaza-decimated-transport-and-even-made-walking-perilous?traffic_source=rss"
+        },
         {
           "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
           "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
@@ -53,15 +26,42 @@
         {
           "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
           "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        },
-        {
-          "title": "Iran, US hold talks in Oman as fears of war hang over region",
-          "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.35,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
+          "url": "https://www.aljazeera.com/features/2026/2/7/israels-war-on-gaza-decimated-transport-and-even-made-walking-perilous?traffic_source=rss"
+        },
+        {
+          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
+          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
+        },
+        {
+          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
+          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
+        },
+        {
+          "title": "Iranian FM says indirect talks with US were a ‘good start’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
+        },
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019919555640681846,
+      "chg5d": 0.04309500489715971,
+      "chg1m": 0.1799246620873033
     },
     {
       "symbol": "LMT",
@@ -70,6 +70,10 @@
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
+          "url": "https://www.aljazeera.com/features/2026/2/7/israels-war-on-gaza-decimated-transport-and-even-made-walking-perilous?traffic_source=rss"
+        },
+        {
           "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
           "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
         },
@@ -82,12 +86,8 @@
           "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
         },
         {
-          "title": "Iran, US hold talks in Oman as fears of war hang over region",
+          "title": "Iran says talks with US in Oman ‘a good start’, more discussions expected",
           "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
-        },
-        {
-          "title": "What Barak-Epstein audio says about Israeli controlling demographics",
-          "url": "https://www.aljazeera.com/news/2026/2/6/what-barak-epstein-audio-says-about-israeli-controlling-demographics?traffic_source=rss"
         }
       ],
       "chg1d": 0.02363833349748858,
@@ -95,10 +95,25 @@
       "chg1m": 0.25501640268078174
     },
     {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.08,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0534413444971738,
+      "chg5d": 0.006381749927808199,
+      "chg1m": 0.0727015297485303
+    },
+    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
@@ -112,32 +127,17 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
           "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
           "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
         }
       ],
-      "chg1d": 0.046564851573146805,
-      "chg5d": -0.007006324666198192,
-      "chg1m": 0.1502356589904515
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.05347157150197986,
-      "chg5d": 0.006410626624314093,
-      "chg1m": 0.07273230939702667
+      "chg1d": 0.04655003851395383,
+      "chg5d": -0.007020379479971897,
+      "chg1m": 0.1502193785766034
     }
   ]
 }
