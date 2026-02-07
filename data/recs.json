@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-02-07T04:24:31.808042Z",
+  "generated_at": "2026-02-07T06:31:59.966828Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.35,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
-          "url": "https://www.aljazeera.com/features/2026/2/7/israels-war-on-gaza-decimated-transport-and-even-made-walking-perilous?traffic_source=rss"
-        },
-        {
-          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
-          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
-        },
-        {
-          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
-          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iranian FM says indirect talks with US were a ‘good start’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
-        },
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.35,
+      "score": 3.53,
       "confianca": 95,
       "razoes": [
         {
@@ -53,10 +22,6 @@
         {
           "title": "Iranian FM says indirect talks with US were a ‘good start’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
-        },
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
         }
       ],
       "chg1d": 0.019919555640681846,
@@ -64,10 +29,37 @@
       "chg1m": 0.1799246620873033
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.53,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
+          "url": "https://www.aljazeera.com/features/2026/2/7/israels-war-on-gaza-decimated-transport-and-even-made-walking-perilous?traffic_source=rss"
+        },
+        {
+          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
+          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
+        },
+        {
+          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
+          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
+        },
+        {
+          "title": "Iranian FM says indirect talks with US were a ‘good start’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.02,
-      "confianca": 95,
+      "score": 2.2,
+      "confianca": 62,
       "razoes": [
         {
           "title": "Israel’s war on Gaza decimated transport and even made walking perilous",
@@ -80,64 +72,11 @@
         {
           "title": "Iranian FM says indirect talks with US were a ‘good start’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
-        },
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        },
-        {
-          "title": "Iran says talks with US in Oman ‘a good start’, more discussions expected",
-          "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
         }
       ],
       "chg1d": 0.02363833349748858,
       "chg5d": -0.016776512881965227,
       "chg1m": 0.25501640268078174
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0534413444971738,
-      "chg5d": 0.006381749927808199,
-      "chg1m": 0.0727015297485303
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.05478789344782754,
-      "chg5d": 0.055330348499516034,
-      "chg1m": 0.09467177105560441
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.04655003851395383,
-      "chg5d": -0.007020379479971897,
-      "chg1m": 0.1502193785766034
     }
   ]
 }
