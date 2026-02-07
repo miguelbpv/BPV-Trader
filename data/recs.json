@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-02-06T21:23:12.867437Z",
+  "generated_at": "2026-02-07T01:15:22.332776Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.15,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
-          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
-        },
-        {
-          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
-          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iranian FM says indirect talks with US were a ‘good start’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
-        },
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        },
-        {
-          "title": "Iran, US hold talks in Oman as fears of war hang over region",
-          "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.15,
+      "score": 5.36,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +33,40 @@
       "chg1m": 0.17959228894305332
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.36,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Oil and US oversight: How is Venezuela’s interim government surviving?",
+          "url": "https://www.aljazeera.com/economy/2026/2/6/oil-and-us-oversight-how-is-venezuelas-interim-government-surviving?traffic_source=rss"
+        },
+        {
+          "title": "New Yemen government formed with Shaya Mohsin al-Zindani as prime minister",
+          "url": "https://www.aljazeera.com/news/2026/2/6/new-yemen-government-formed-with-shaya-mohsin-al-zindani-as-prime-minister?traffic_source=rss"
+        },
+        {
+          "title": "Iranian FM says indirect talks with US were a ‘good start’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iranian-fm-says-indirect-talks-with-us-were-a-good?traffic_source=rss"
+        },
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        },
+        {
+          "title": "Iran, US hold talks in Oman as fears of war hang over region",
+          "url": "https://www.aljazeera.com/news/2026/2/6/iran-us-hold-talks-in-oman-as-fears-of-war-hang-over-region?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.8,
+      "score": 4.02,
       "confianca": 95,
       "razoes": [
         {
@@ -93,21 +93,6 @@
       "chg1d": 0.02363833349748858,
       "chg5d": -0.016776512881965227,
       "chg1m": 0.25501640268078174
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
-          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.05347157150197986,
-      "chg5d": 0.006410626624314093,
-      "chg1m": 0.07273230939702667
     },
     {
       "symbol": "TSM",
@@ -138,6 +123,21 @@
       "chg1d": 0.046564851573146805,
       "chg5d": -0.007006324666198192,
       "chg1m": 0.1502356589904515
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil",
+          "url": "https://www.aljazeera.com/news/2026/2/6/us-imposes-sanctions-on-shadow-fleet-accused-of-transporting-iranian-oil?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.05347157150197986,
+      "chg5d": 0.006410626624314093,
+      "chg1m": 0.07273230939702667
     }
   ]
 }
