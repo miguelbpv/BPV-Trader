@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T15:17:07.124492Z",
+  "generated_at": "2026-02-07T18:23:03.548183Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.17,
-      "confianca": 95,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
         {
           "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
@@ -22,21 +22,17 @@
         {
           "title": "Israel’s Gaza genocide risks global order, leaders warn at Al Jazeera Forum",
           "url": "https://www.aljazeera.com/news/2026/2/7/israels-gaza-genocide-risks-global-order-leaders-warn-at-al-jazeera-forum?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02363833349748858,
-      "chg5d": -0.016776512881965227,
-      "chg1m": 0.25501640268078174
+      "chg1d": 0.019919555640681846,
+      "chg5d": 0.04309500489715971,
+      "chg1m": 0.1799246620873033
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.17,
-      "confianca": 95,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
         {
           "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
@@ -53,10 +49,6 @@
         {
           "title": "Israel’s Gaza genocide risks global order, leaders warn at Al Jazeera Forum",
           "url": "https://www.aljazeera.com/news/2026/2/7/israels-gaza-genocide-risks-global-order-leaders-warn-at-al-jazeera-forum?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,10 +56,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.17,
-      "confianca": 95,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
         {
           "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
@@ -84,15 +76,11 @@
         {
           "title": "Israel’s Gaza genocide risks global order, leaders warn at Al Jazeera Forum",
           "url": "https://www.aljazeera.com/news/2026/2/7/israels-gaza-genocide-risks-global-order-leaders-warn-at-al-jazeera-forum?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019919555640681846,
-      "chg5d": 0.04309500489715971,
-      "chg1m": 0.1799246620873033
+      "chg1d": 0.02363833349748858,
+      "chg5d": -0.016776512881965227,
+      "chg1m": 0.25501640268078174
     }
   ]
 }
