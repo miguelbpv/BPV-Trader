@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-02-07T12:30:06.785410Z",
+  "generated_at": "2026-02-07T15:17:07.124492Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Chairman of Al Jazeera board highlights ‘new reality’ in the Middle East",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/chairman-of-al-jazeera-board-highlights-new-reality-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Gaza genocide risks global order, leaders warn at Al Jazeera Forum",
-          "url": "https://www.aljazeera.com/news/2026/2/7/israels-gaza-genocide-risks-global-order-leaders-warn-at-al-jazeera-forum?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
-        },
-        {
-          "title": "Trump hails ‘very good’ Iran talks but maintains threat of military action",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/trump-hails-very-good-iran-talks-but-maintains-threat-of-military-action?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Palestine is region’s ‘moral compass’, Iran FM tells Al Jazeera Forum",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/7/live-irans-top-diplomat-set-to-address-al-jazeera-forum-in-doha?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 5.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss"
+        },
+        {
+          "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
+        },
         {
           "title": "Chairman of Al Jazeera board highlights ‘new reality’ in the Middle East",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/chairman-of-al-jazeera-board-highlights-new-reality-in-the-middle-east?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
-        },
-        {
-          "title": "Trump hails ‘very good’ Iran talks but maintains threat of military action",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/trump-hails-very-good-iran-talks-but-maintains-threat-of-military-action?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Palestine is region’s ‘moral compass’, Iran FM tells Al Jazeera Forum",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/7/live-irans-top-diplomat-set-to-address-al-jazeera-forum-in-doha?traffic_source=rss"
         }
       ],
       "chg1d": 0.02363833349748858,
@@ -64,11 +33,19 @@
       "chg1m": 0.25501640268078174
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 5.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss"
+        },
+        {
+          "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
+        },
         {
           "title": "Chairman of Al Jazeera board highlights ‘new reality’ in the Middle East",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/chairman-of-al-jazeera-board-highlights-new-reality-in-the-middle-east?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.17,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss"
         },
         {
-          "title": "Trump hails ‘very good’ Iran talks but maintains threat of military action",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/trump-hails-very-good-iran-talks-but-maintains-threat-of-military-action?traffic_source=rss"
+          "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
         },
         {
-          "title": "LIVE: Palestine is region’s ‘moral compass’, Iran FM tells Al Jazeera Forum",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/7/live-irans-top-diplomat-set-to-address-al-jazeera-forum-in-doha?traffic_source=rss"
+          "title": "Chairman of Al Jazeera board highlights ‘new reality’ in the Middle East",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/chairman-of-al-jazeera-board-highlights-new-reality-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Gaza genocide risks global order, leaders warn at Al Jazeera Forum",
+          "url": "https://www.aljazeera.com/news/2026/2/7/israels-gaza-genocide-risks-global-order-leaders-warn-at-al-jazeera-forum?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
         }
       ],
       "chg1d": 0.019919555640681846,
