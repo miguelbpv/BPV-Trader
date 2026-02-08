@@ -1,54 +1,31 @@
 {
-  "generated_at": "2026-02-08T06:39:45.237426Z",
+  "generated_at": "2026-02-08T09:22:56.232543Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.65,
-      "confianca": 75,
-      "razoes": [
-        {
-          "title": "Somalia’s Mohamud slams Israel’s interference, rejects base on Somaliland",
-          "url": "https://www.aljazeera.com/news/2026/2/8/somalias-mohamud-slams-israels-interference-rejects-base-on-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "‘Non-negotiable’: Iran says missiles off the table in talks with the US",
-          "url": "https://www.aljazeera.com/news/2026/2/7/iran-says-oman-mediated-talks-with-us-a-good-start?traffic_source=rss"
-        },
-        {
-          "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss"
-        },
-        {
-          "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.65,
-      "confianca": 75,
+      "score": 4.2,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Somalia’s Mohamud slams Israel’s interference, rejects base on Somaliland",
+          "title": "Families ‘inconsolable’ in Gaza as Israel returns more unidentified bodies",
+          "url": "https://www.aljazeera.com/news/2026/2/8/families-inconsolable-in-gaza-as-israel-returns-more-unidentified-bodies?traffic_source=rss"
+        },
+        {
+          "title": "Somalia is the missing pillar of Red Sea and Gulf of Aden stability",
+          "url": "https://www.aljazeera.com/opinions/2026/2/8/somalia-is-the-missing-pillar-of-red-sea-and-gulf-of-aden-stability?traffic_source=rss"
+        },
+        {
+          "title": "Iran-US talks in Muscat bought time, not a deal",
+          "url": "https://www.aljazeera.com/opinions/2026/2/8/iran-us-talks-in-muscat-bought-time-not-a-deal?traffic_source=rss"
+        },
+        {
+          "title": "Israel is killing far more civilians than fighters in Gaza",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/2/8/israel-is-killing-far-more-civilians-than-fighters-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Somalia’s Mohamud slams Israel’s ‘interference’, rejects base on Somaliland",
           "url": "https://www.aljazeera.com/news/2026/2/8/somalias-mohamud-slams-israels-interference-rejects-base-on-somaliland?traffic_source=rss"
-        },
-        {
-          "title": "‘Non-negotiable’: Iran says missiles off the table in talks with the US",
-          "url": "https://www.aljazeera.com/news/2026/2/7/iran-says-oman-mediated-talks-with-us-a-good-start?traffic_source=rss"
-        },
-        {
-          "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss"
-        },
-        {
-          "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
         }
       ],
       "chg1d": 0.02363833349748858,
@@ -56,26 +33,61 @@
       "chg1m": 0.25501640268078174
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.65,
-      "confianca": 75,
+      "score": 4.2,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Somalia’s Mohamud slams Israel’s interference, rejects base on Somaliland",
+          "title": "Families ‘inconsolable’ in Gaza as Israel returns more unidentified bodies",
+          "url": "https://www.aljazeera.com/news/2026/2/8/families-inconsolable-in-gaza-as-israel-returns-more-unidentified-bodies?traffic_source=rss"
+        },
+        {
+          "title": "Somalia is the missing pillar of Red Sea and Gulf of Aden stability",
+          "url": "https://www.aljazeera.com/opinions/2026/2/8/somalia-is-the-missing-pillar-of-red-sea-and-gulf-of-aden-stability?traffic_source=rss"
+        },
+        {
+          "title": "Iran-US talks in Muscat bought time, not a deal",
+          "url": "https://www.aljazeera.com/opinions/2026/2/8/iran-us-talks-in-muscat-bought-time-not-a-deal?traffic_source=rss"
+        },
+        {
+          "title": "Israel is killing far more civilians than fighters in Gaza",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/2/8/israel-is-killing-far-more-civilians-than-fighters-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Somalia’s Mohamud slams Israel’s ‘interference’, rejects base on Somaliland",
           "url": "https://www.aljazeera.com/news/2026/2/8/somalias-mohamud-slams-israels-interference-rejects-base-on-somaliland?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.2,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Families ‘inconsolable’ in Gaza as Israel returns more unidentified bodies",
+          "url": "https://www.aljazeera.com/news/2026/2/8/families-inconsolable-in-gaza-as-israel-returns-more-unidentified-bodies?traffic_source=rss"
         },
         {
-          "title": "‘Non-negotiable’: Iran says missiles off the table in talks with the US",
-          "url": "https://www.aljazeera.com/news/2026/2/7/iran-says-oman-mediated-talks-with-us-a-good-start?traffic_source=rss"
+          "title": "Somalia is the missing pillar of Red Sea and Gulf of Aden stability",
+          "url": "https://www.aljazeera.com/opinions/2026/2/8/somalia-is-the-missing-pillar-of-red-sea-and-gulf-of-aden-stability?traffic_source=rss"
         },
         {
-          "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss"
+          "title": "Iran-US talks in Muscat bought time, not a deal",
+          "url": "https://www.aljazeera.com/opinions/2026/2/8/iran-us-talks-in-muscat-bought-time-not-a-deal?traffic_source=rss"
         },
         {
-          "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
+          "title": "Israel is killing far more civilians than fighters in Gaza",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/2/8/israel-is-killing-far-more-civilians-than-fighters-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Somalia’s Mohamud slams Israel’s ‘interference’, rejects base on Somaliland",
+          "url": "https://www.aljazeera.com/news/2026/2/8/somalias-mohamud-slams-israels-interference-rejects-base-on-somaliland?traffic_source=rss"
         }
       ],
       "chg1d": 0.019919555640681846,
