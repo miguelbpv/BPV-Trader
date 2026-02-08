@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-02-08T15:18:16.901777Z",
+  "generated_at": "2026-02-08T18:25:25.377285Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.91,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Somalia’s president on Israel, Somaliland and rising regional tension",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/8/somalias-president-on-israel-somaliland-and-rising-regional-tension?traffic_source=rss"
-        },
-        {
-          "title": "How reconstruction became Israel’s new weapon of ‘silent transfer’ in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/2/8/how-reconstruction-became-israels-new-weapon-of-silent-transfer-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Video: Israel returns unidentified Palestinian bodies to Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/video-israel-returns-unidentified-palestinian-bodies-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Protests against ICE and Israel at Winter Olympics in Milan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/protests-against-ice-and-israel-at-winter-olympics-in-milan?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leader rejects disarmament while Israeli occupation of Gaza continues",
-          "url": "https://www.aljazeera.com/news/2026/2/8/hamas-leader-rejects-disarmament-while-israeli-occupation-of-gaza-continues?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.91,
+      "score": 6.16,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran FM says Tehran ready for deal with US with peaceful nuclear enrichment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/iran-fm-says-tehran-ready-for-deal-with-us-with-peaceful-nuclear-enrichment?traffic_source=rss"
+        },
+        {
+          "title": "Iran ready for nuclear-focused talks, rejects US military build-up",
+          "url": "https://www.aljazeera.com/news/2026/2/8/iran-ready-for-nuclear-focused-talks-rejects-us-military-build-up?traffic_source=rss"
+        },
         {
           "title": "Somalia’s president on Israel, Somaliland and rising regional tension",
           "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/8/somalias-president-on-israel-somaliland-and-rising-regional-tension?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Video: Israel returns unidentified Palestinian bodies to Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/video-israel-returns-unidentified-palestinian-bodies-to-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Protests against ICE and Israel at Winter Olympics in Milan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/protests-against-ice-and-israel-at-winter-olympics-in-milan?traffic_source=rss"
-        },
-        {
-          "title": "Hamas leader rejects disarmament while Israeli occupation of Gaza continues",
-          "url": "https://www.aljazeera.com/news/2026/2/8/hamas-leader-rejects-disarmament-while-israeli-occupation-of-gaza-continues?traffic_source=rss"
         }
       ],
       "chg1d": 0.019919555640681846,
@@ -64,11 +33,19 @@
       "chg1m": 0.1799246620873033
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.91,
+      "score": 6.16,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran FM says Tehran ready for deal with US with peaceful nuclear enrichment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/iran-fm-says-tehran-ready-for-deal-with-us-with-peaceful-nuclear-enrichment?traffic_source=rss"
+        },
+        {
+          "title": "Iran ready for nuclear-focused talks, rejects US military build-up",
+          "url": "https://www.aljazeera.com/news/2026/2/8/iran-ready-for-nuclear-focused-talks-rejects-us-military-build-up?traffic_source=rss"
+        },
         {
           "title": "Somalia’s president on Israel, Somaliland and rising regional tension",
           "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/8/somalias-president-on-israel-somaliland-and-rising-regional-tension?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Video: Israel returns unidentified Palestinian bodies to Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/video-israel-returns-unidentified-palestinian-bodies-to-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.16,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran FM says Tehran ready for deal with US with peaceful nuclear enrichment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/iran-fm-says-tehran-ready-for-deal-with-us-with-peaceful-nuclear-enrichment?traffic_source=rss"
         },
         {
-          "title": "Protests against ICE and Israel at Winter Olympics in Milan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/protests-against-ice-and-israel-at-winter-olympics-in-milan?traffic_source=rss"
+          "title": "Iran ready for nuclear-focused talks, rejects US military build-up",
+          "url": "https://www.aljazeera.com/news/2026/2/8/iran-ready-for-nuclear-focused-talks-rejects-us-military-build-up?traffic_source=rss"
         },
         {
-          "title": "Hamas leader rejects disarmament while Israeli occupation of Gaza continues",
-          "url": "https://www.aljazeera.com/news/2026/2/8/hamas-leader-rejects-disarmament-while-israeli-occupation-of-gaza-continues?traffic_source=rss"
+          "title": "Somalia’s president on Israel, Somaliland and rising regional tension",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/8/somalias-president-on-israel-somaliland-and-rising-regional-tension?traffic_source=rss"
+        },
+        {
+          "title": "How reconstruction became Israel’s new weapon of ‘silent transfer’ in Gaza",
+          "url": "https://www.aljazeera.com/features/2026/2/8/how-reconstruction-became-israels-new-weapon-of-silent-transfer-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Video: Israel returns unidentified Palestinian bodies to Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/video-israel-returns-unidentified-palestinian-bodies-to-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.02363833349748858,
@@ -95,10 +95,25 @@
       "chg1m": 0.25501640268078174
     },
     {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US federal agent breaks pet dog’s rib in Tennessee",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/us-federal-agent-breaks-pet-dogs-rib-in-tennessee?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.021137966266351782,
+      "chg5d": -0.019650409249521647,
+      "chg1m": -0.023028108073459192
+    },
+    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US federal agent breaks pet dog’s rib in Tennessee",
@@ -110,25 +125,10 @@
       "chg1m": 0.0015081643899184482
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US federal agent breaks pet dog’s rib in Tennessee",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/us-federal-agent-breaks-pet-dogs-rib-in-tennessee?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US federal agent breaks pet dog’s rib in Tennessee",
@@ -140,19 +140,19 @@
       "chg1m": 0.037341474870831344
     },
     {
-      "symbol": "QQQ",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US federal agent breaks pet dog’s rib in Tennessee",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/us-federal-agent-breaks-pet-dogs-rib-in-tennessee?traffic_source=rss"
         }
       ],
-      "chg1d": 0.021137966266351782,
-      "chg5d": -0.019650409249521647,
-      "chg1m": -0.023028108073459192
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
