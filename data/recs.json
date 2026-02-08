@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-08T04:57:18.901832Z",
+  "generated_at": "2026-02-08T06:39:45.237426Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.63,
+      "score": 2.65,
       "confianca": 75,
       "razoes": [
+        {
+          "title": "Somalia’s Mohamud slams Israel’s interference, rejects base on Somaliland",
+          "url": "https://www.aljazeera.com/news/2026/2/8/somalias-mohamud-slams-israels-interference-rejects-base-on-somaliland?traffic_source=rss"
+        },
         {
           "title": "‘Non-negotiable’: Iran says missiles off the table in talks with the US",
           "url": "https://www.aljazeera.com/news/2026/2/7/iran-says-oman-mediated-talks-with-us-a-good-start?traffic_source=rss"
@@ -18,10 +22,33 @@
         {
           "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.65,
+      "confianca": 75,
+      "razoes": [
+        {
+          "title": "Somalia’s Mohamud slams Israel’s interference, rejects base on Somaliland",
+          "url": "https://www.aljazeera.com/news/2026/2/8/somalias-mohamud-slams-israels-interference-rejects-base-on-somaliland?traffic_source=rss"
         },
         {
-          "title": "Chairman of Al Jazeera board highlights ‘new reality’ in the Middle East",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/chairman-of-al-jazeera-board-highlights-new-reality-in-the-middle-east?traffic_source=rss"
+          "title": "‘Non-negotiable’: Iran says missiles off the table in talks with the US",
+          "url": "https://www.aljazeera.com/news/2026/2/7/iran-says-oman-mediated-talks-with-us-a-good-start?traffic_source=rss"
+        },
+        {
+          "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss"
+        },
+        {
+          "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
         }
       ],
       "chg1d": 0.02363833349748858,
@@ -31,9 +58,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.63,
+      "score": 2.65,
       "confianca": 75,
       "razoes": [
+        {
+          "title": "Somalia’s Mohamud slams Israel’s interference, rejects base on Somaliland",
+          "url": "https://www.aljazeera.com/news/2026/2/8/somalias-mohamud-slams-israels-interference-rejects-base-on-somaliland?traffic_source=rss"
+        },
         {
           "title": "‘Non-negotiable’: Iran says missiles off the table in talks with the US",
           "url": "https://www.aljazeera.com/news/2026/2/7/iran-says-oman-mediated-talks-with-us-a-good-start?traffic_source=rss"
@@ -45,42 +76,11 @@
         {
           "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
-        },
-        {
-          "title": "Chairman of Al Jazeera board highlights ‘new reality’ in the Middle East",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/chairman-of-al-jazeera-board-highlights-new-reality-in-the-middle-east?traffic_source=rss"
         }
       ],
       "chg1d": 0.019919555640681846,
       "chg5d": 0.04309500489715971,
       "chg1m": 0.1799246620873033
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.63,
-      "confianca": 75,
-      "razoes": [
-        {
-          "title": "‘Non-negotiable’: Iran says missiles off the table in talks with the US",
-          "url": "https://www.aljazeera.com/news/2026/2/7/iran-says-oman-mediated-talks-with-us-a-good-start?traffic_source=rss"
-        },
-        {
-          "title": "‘Israel killed international law in Gaza’, official tells Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/israel-killed-international-law-in-gaza-official-tells-al-jazeera?traffic_source=rss"
-        },
-        {
-          "title": "Iranians react to ‘positive’ US-Iran talks in Oman",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/iranians-react-to-positive-us-iran-talks-in-oman?traffic_source=rss"
-        },
-        {
-          "title": "Chairman of Al Jazeera board highlights ‘new reality’ in the Middle East",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/7/chairman-of-al-jazeera-board-highlights-new-reality-in-the-middle-east?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
