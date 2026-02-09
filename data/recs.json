@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-02-08T21:18:45.564520Z",
+  "generated_at": "2026-02-09T01:22:27.200116Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.41,
+      "score": 5.09,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel security cabinet approves rules to increase control over West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/8/israel-security-cabinet-approves-rules-to-increase-control-over-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "How has Israel’s genocidal war on Gaza shaped the Middle East?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/8/how-has-israels-genocidal-war-on-gaza-shaped-the-middle-east?traffic_source=rss"
+        },
         {
           "title": "Iran sentences Nobel laureate Mohammadi to seven more years in prison",
           "url": "https://www.aljazeera.com/news/2026/2/8/iran-sentences-nobel-laureate-mohammadi-to-seven-more-years-in-prison?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "Iran ready for nuclear-focused talks, rejects US military build-up",
           "url": "https://www.aljazeera.com/news/2026/2/8/iran-ready-for-nuclear-focused-talks-rejects-us-military-build-up?traffic_source=rss"
-        },
-        {
-          "title": "Somalia’s president on Israel, Somaliland and rising regional tension",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/8/somalias-president-on-israel-somaliland-and-rising-regional-tension?traffic_source=rss"
-        },
-        {
-          "title": "How reconstruction became Israel’s new weapon of ‘silent transfer’ in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/2/8/how-reconstruction-became-israels-new-weapon-of-silent-transfer-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,42 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.41,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran sentences Nobel laureate Mohammadi to seven more years in prison",
-          "url": "https://www.aljazeera.com/news/2026/2/8/iran-sentences-nobel-laureate-mohammadi-to-seven-more-years-in-prison?traffic_source=rss"
-        },
-        {
-          "title": "Iran FM says Tehran ready for deal with US with peaceful nuclear enrichment",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/iran-fm-says-tehran-ready-for-deal-with-us-with-peaceful-nuclear-enrichment?traffic_source=rss"
-        },
-        {
-          "title": "Iran ready for nuclear-focused talks, rejects US military build-up",
-          "url": "https://www.aljazeera.com/news/2026/2/8/iran-ready-for-nuclear-focused-talks-rejects-us-military-build-up?traffic_source=rss"
-        },
-        {
-          "title": "Somalia’s president on Israel, Somaliland and rising regional tension",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/8/somalias-president-on-israel-somaliland-and-rising-regional-tension?traffic_source=rss"
-        },
-        {
-          "title": "How reconstruction became Israel’s new weapon of ‘silent transfer’ in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/2/8/how-reconstruction-became-israels-new-weapon-of-silent-transfer-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019919555640681846,
-      "chg5d": 0.04309500489715971,
-      "chg1m": 0.1799246620873033
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.41,
+      "score": 5.09,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel security cabinet approves rules to increase control over West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/8/israel-security-cabinet-approves-rules-to-increase-control-over-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "How has Israel’s genocidal war on Gaza shaped the Middle East?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/8/how-has-israels-genocidal-war-on-gaza-shaped-the-middle-east?traffic_source=rss"
+        },
         {
           "title": "Iran sentences Nobel laureate Mohammadi to seven more years in prison",
           "url": "https://www.aljazeera.com/news/2026/2/8/iran-sentences-nobel-laureate-mohammadi-to-seven-more-years-in-prison?traffic_source=rss"
@@ -80,14 +57,6 @@
         {
           "title": "Iran ready for nuclear-focused talks, rejects US military build-up",
           "url": "https://www.aljazeera.com/news/2026/2/8/iran-ready-for-nuclear-focused-talks-rejects-us-military-build-up?traffic_source=rss"
-        },
-        {
-          "title": "Somalia’s president on Israel, Somaliland and rising regional tension",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/8/somalias-president-on-israel-somaliland-and-rising-regional-tension?traffic_source=rss"
-        },
-        {
-          "title": "How reconstruction became Israel’s new weapon of ‘silent transfer’ in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/2/8/how-reconstruction-became-israels-new-weapon-of-silent-transfer-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.02363833349748858,
@@ -95,7 +64,38 @@
       "chg1m": 0.25501640268078174
     },
     {
-      "symbol": "SPY",
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.09,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel security cabinet approves rules to increase control over West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/8/israel-security-cabinet-approves-rules-to-increase-control-over-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "How has Israel’s genocidal war on Gaza shaped the Middle East?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/8/how-has-israels-genocidal-war-on-gaza-shaped-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Iran sentences Nobel laureate Mohammadi to seven more years in prison",
+          "url": "https://www.aljazeera.com/news/2026/2/8/iran-sentences-nobel-laureate-mohammadi-to-seven-more-years-in-prison?traffic_source=rss"
+        },
+        {
+          "title": "Iran FM says Tehran ready for deal with US with peaceful nuclear enrichment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/iran-fm-says-tehran-ready-for-deal-with-us-with-peaceful-nuclear-enrichment?traffic_source=rss"
+        },
+        {
+          "title": "Iran ready for nuclear-focused talks, rejects US military build-up",
+          "url": "https://www.aljazeera.com/news/2026/2/8/iran-ready-for-nuclear-focused-talks-rejects-us-military-build-up?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019919555640681846,
+      "chg5d": 0.04309500489715971,
+      "chg1m": 0.1799246620873033
+    },
+    {
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
       "score": 0.97,
       "confianca": 27,
@@ -105,9 +105,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/us-federal-agent-breaks-pet-dogs-rib-in-tennessee?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019184793837253918,
-      "chg5d": -0.0019509516308510813,
-      "chg1m": 0.0015081643899184482
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "QQQ",
@@ -125,7 +125,7 @@
       "chg1m": -0.023028108073459192
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "SPY",
       "acao": "observar",
       "score": 0.97,
       "confianca": 27,
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/8/us-federal-agent-breaks-pet-dogs-rib-in-tennessee?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.019184793837253918,
+      "chg5d": -0.0019509516308510813,
+      "chg1m": 0.0015081643899184482
     },
     {
       "symbol": "IWM",
