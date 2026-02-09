@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-02-09T12:47:27.337235Z",
+  "generated_at": "2026-02-09T15:46:26.508894Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.15,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Pakistan can sell weapons in the Middle East, but can it sell security?",
-          "url": "https://www.aljazeera.com/opinions/2026/2/9/pakistan-can-sell-weapons-in-the-middle-east-but-can-it-sell-security?traffic_source=rss"
-        },
-        {
-          "title": "Thousands protest against Israeli President Herzog’s Australia visit",
-          "url": "https://www.aljazeera.com/news/2026/2/9/thousands-protest-against-israeli-president-herzogs-australia-visit?traffic_source=rss"
-        },
-        {
-          "title": "Shipping giant MSC facilitates trade from Israeli settlements through EU",
-          "url": "https://www.aljazeera.com/news/2026/2/9/shipping-giant-msc-facilitates-trade-from-israeli-settlements-through-eu?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu to meet Trump in US to discuss Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/9/netanyahu-to-meet-trump-in-us-to-discuss-iran-says-israeli-pm?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel approves measures to expand its powers in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/9/live-israel-approves-measures-to-expand-its-powers-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02363833349748858,
-      "chg5d": -0.016776512881965227,
-      "chg1m": 0.25501640268078174
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.15,
+      "score": 4.7,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Has Iran rigged the game against itself? | Pinch Point",
+          "url": "https://www.aljazeera.com/video/pinch-point/2026/2/9/aje-onl-pp-iran-power-090226?traffic_source=rss"
+        },
+        {
+          "title": "‘War criminal not welcome’: Australians rally against Israeli president",
+          "url": "https://www.aljazeera.com/gallery/2026/2/9/sydney-police-use-pepper-spray-on-protesters-during-herzog-visit?traffic_source=rss"
+        },
+        {
+          "title": "Muslim countries slam Israel for ‘illegal annexation’ push in West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/9/muslim-countries-slam-israel-for-illegal-annexation-push-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Lebanese group accuses Israel of abducting its leader in raid",
+          "url": "https://www.aljazeera.com/news/2026/2/9/lebanese-group-accuses-israel-of-abducting-its-leader-in-raid?traffic_source=rss"
+        },
+        {
           "title": "Pakistan can sell weapons in the Middle East, but can it sell security?",
           "url": "https://www.aljazeera.com/opinions/2026/2/9/pakistan-can-sell-weapons-in-the-middle-east-but-can-it-sell-security?traffic_source=rss"
-        },
-        {
-          "title": "Thousands protest against Israeli President Herzog’s Australia visit",
-          "url": "https://www.aljazeera.com/news/2026/2/9/thousands-protest-against-israeli-president-herzogs-australia-visit?traffic_source=rss"
-        },
-        {
-          "title": "Shipping giant MSC facilitates trade from Israeli settlements through EU",
-          "url": "https://www.aljazeera.com/news/2026/2/9/shipping-giant-msc-facilitates-trade-from-israeli-settlements-through-eu?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu to meet Trump in US to discuss Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/9/netanyahu-to-meet-trump-in-us-to-discuss-iran-says-israeli-pm?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel approves measures to expand its powers in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/9/live-israel-approves-measures-to-expand-its-powers-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,33 +35,64 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.15,
+      "score": 4.7,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Has Iran rigged the game against itself? | Pinch Point",
+          "url": "https://www.aljazeera.com/video/pinch-point/2026/2/9/aje-onl-pp-iran-power-090226?traffic_source=rss"
+        },
+        {
+          "title": "‘War criminal not welcome’: Australians rally against Israeli president",
+          "url": "https://www.aljazeera.com/gallery/2026/2/9/sydney-police-use-pepper-spray-on-protesters-during-herzog-visit?traffic_source=rss"
+        },
+        {
+          "title": "Muslim countries slam Israel for ‘illegal annexation’ push in West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/9/muslim-countries-slam-israel-for-illegal-annexation-push-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Lebanese group accuses Israel of abducting its leader in raid",
+          "url": "https://www.aljazeera.com/news/2026/2/9/lebanese-group-accuses-israel-of-abducting-its-leader-in-raid?traffic_source=rss"
+        },
+        {
           "title": "Pakistan can sell weapons in the Middle East, but can it sell security?",
           "url": "https://www.aljazeera.com/opinions/2026/2/9/pakistan-can-sell-weapons-in-the-middle-east-but-can-it-sell-security?traffic_source=rss"
-        },
-        {
-          "title": "Thousands protest against Israeli President Herzog’s Australia visit",
-          "url": "https://www.aljazeera.com/news/2026/2/9/thousands-protest-against-israeli-president-herzogs-australia-visit?traffic_source=rss"
-        },
-        {
-          "title": "Shipping giant MSC facilitates trade from Israeli settlements through EU",
-          "url": "https://www.aljazeera.com/news/2026/2/9/shipping-giant-msc-facilitates-trade-from-israeli-settlements-through-eu?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu to meet Trump in US to discuss Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/9/netanyahu-to-meet-trump-in-us-to-discuss-iran-says-israeli-pm?traffic_source=rss"
-        },
-        {
-          "title": "LIVE: Israel approves measures to expand its powers in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/9/live-israel-approves-measures-to-expand-its-powers-in-occupied-west-bank?traffic_source=rss"
         }
       ],
-      "chg1d": 0.019919555640681846,
-      "chg5d": 0.04309500489715971,
-      "chg1m": 0.1799246620873033
+      "chg1d": 0.0018779342723004961,
+      "chg5d": 0.06593406593406602,
+      "chg1m": 0.14607948442534918
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.7,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Has Iran rigged the game against itself? | Pinch Point",
+          "url": "https://www.aljazeera.com/video/pinch-point/2026/2/9/aje-onl-pp-iran-power-090226?traffic_source=rss"
+        },
+        {
+          "title": "‘War criminal not welcome’: Australians rally against Israeli president",
+          "url": "https://www.aljazeera.com/gallery/2026/2/9/sydney-police-use-pepper-spray-on-protesters-during-herzog-visit?traffic_source=rss"
+        },
+        {
+          "title": "Muslim countries slam Israel for ‘illegal annexation’ push in West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/9/muslim-countries-slam-israel-for-illegal-annexation-push-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Lebanese group accuses Israel of abducting its leader in raid",
+          "url": "https://www.aljazeera.com/news/2026/2/9/lebanese-group-accuses-israel-of-abducting-its-leader-in-raid?traffic_source=rss"
+        },
+        {
+          "title": "Pakistan can sell weapons in the Middle East, but can it sell security?",
+          "url": "https://www.aljazeera.com/opinions/2026/2/9/pakistan-can-sell-weapons-in-the-middle-east-but-can-it-sell-security?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.010696301998139706,
+      "chg5d": -0.009040880503144654,
+      "chg1m": 0.21566622945760344
     }
   ]
 }
