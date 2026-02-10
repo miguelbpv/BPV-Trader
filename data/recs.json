@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-10T18:55:46.837287Z",
+  "generated_at": "2026-02-10T21:35:48.671162Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.78,
+      "score": 4.78,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Will any countries take action to stop Israel’s West Bank annexation?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/will-any-countries-take-action-to-stop-israels-west-bank-annexation?traffic_source=rss"
+        },
         {
           "title": "Netanyahu says he’ll present ‘principles’ for Iran talks to Trump",
           "url": "https://www.aljazeera.com/news/2026/2/10/netanyahu-says-hell-present-principles-for-iran-talks-to-trump?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Mexico’s Sheinbaum laments US’ oil block on Cuba",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/mexicos-sheinbaum-laments-us-oil-block-on-cuba?traffic_source=rss"
-        },
-        {
-          "title": "Iran shuts down private businesses after protests as economy slumps",
-          "url": "https://www.aljazeera.com/news/2026/2/10/iran-shuts-down-private-businesses-after-protests-as-economy-slumps?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.78,
+      "score": 4.78,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Will any countries take action to stop Israel’s West Bank annexation?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/will-any-countries-take-action-to-stop-israels-west-bank-annexation?traffic_source=rss"
+        },
         {
           "title": "Netanyahu says he’ll present ‘principles’ for Iran talks to Trump",
           "url": "https://www.aljazeera.com/news/2026/2/10/netanyahu-says-hell-present-principles-for-iran-talks-to-trump?traffic_source=rss"
@@ -53,22 +57,22 @@
         {
           "title": "Mexico’s Sheinbaum laments US’ oil block on Cuba",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/mexicos-sheinbaum-laments-us-oil-block-on-cuba?traffic_source=rss"
-        },
-        {
-          "title": "Iran shuts down private businesses after protests as economy slumps",
-          "url": "https://www.aljazeera.com/news/2026/2/10/iran-shuts-down-private-businesses-after-protests-as-economy-slumps?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0006524981357196811,
-      "chg5d": 0.03744919682601113,
-      "chg1m": 0.14859652881936994
+      "chg1d": -0.0011185682326622349,
+      "chg5d": 0.03696535707373711,
+      "chg1m": 0.14806085279622877
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.44,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Will any countries take action to stop Israel’s West Bank annexation?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/will-any-countries-take-action-to-stop-israels-west-bank-annexation?traffic_source=rss"
+        },
         {
           "title": "Netanyahu says he’ll present ‘principles’ for Iran talks to Trump",
           "url": "https://www.aljazeera.com/news/2026/2/10/netanyahu-says-hell-present-principles-for-iran-talks-to-trump?traffic_source=rss"
@@ -84,15 +88,56 @@
         {
           "title": "Iran shuts down private businesses after protests as economy slumps",
           "url": "https://www.aljazeera.com/news/2026/2/10/iran-shuts-down-private-businesses-after-protests-as-economy-slumps?traffic_source=rss"
-        },
-        {
-          "title": "Israel accused of spraying chemicals to poison Syrian farmland",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/israel-accused-of-spraying-chemicals-to-poison-syrian-farmland?traffic_source=rss"
         }
       ],
-      "chg1d": -0.00443372134922986,
-      "chg5d": 0.011460223474357822,
-      "chg1m": 0.17044868488911827
+      "chg1d": -0.013677168685080478,
+      "chg5d": 0.00206920701620341,
+      "chg1m": 0.15958152213954171
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US imposes new Hezbollah sanctions targeting gold exchange firm",
+          "url": "https://www.aljazeera.com/news/2026/2/10/us-imposes-new-hezbollah-sanctions-targeting-gold-exchange-firm?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011101861503053619,
+      "chg5d": 0.01270882883915507,
+      "chg1m": 0.10969636072471486
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US imposes new Hezbollah sanctions targeting gold exchange firm",
+          "url": "https://www.aljazeera.com/news/2026/2/10/us-imposes-new-hezbollah-sanctions-targeting-gold-exchange-firm?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.018288736951689595,
+      "chg5d": 0.07791511541325398,
+      "chg1m": 0.1182832246701481
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US imposes new Hezbollah sanctions targeting gold exchange firm",
+          "url": "https://www.aljazeera.com/news/2026/2/10/us-imposes-new-hezbollah-sanctions-targeting-gold-exchange-firm?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0036992941576664876,
+      "chg5d": 0.01685279481541485,
+      "chg1m": 0.06899750593101771
     }
   ]
 }
