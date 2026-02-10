@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-02-09T21:32:18.298236Z",
+  "generated_at": "2026-02-10T01:45:11.448942Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.01,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US urges American ships to stay ‘as far as possible’ from Iranian waters",
-          "url": "https://www.aljazeera.com/news/2026/2/9/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters?traffic_source=rss"
-        },
-        {
-          "title": "Iran arrests prominent reformist politicians critical of the government",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/9/iran-arrests-prominent-reformist-politicians-critical-of-the-government?traffic_source=rss"
-        },
-        {
-          "title": "US seizes Venezuela-linked oil tanker in Indian Ocean",
-          "url": "https://www.aljazeera.com/news/2026/2/9/us-seizes-venezuela-linked-oil-tanker-in-indian-ocean?traffic_source=rss"
-        },
-        {
-          "title": "What were Jeffrey Epstein’s links to Israel?",
-          "url": "https://www.aljazeera.com/news/2026/2/9/what-were-jeffrey-epsteins-links-to-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran suggests it could dilute highly enriched uranium for sanctions relief",
-          "url": "https://www.aljazeera.com/news/2026/2/9/iran-suggests-it-could-dilute-highly-enriched-uranium-for-sanctions-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007323943661971841,
-      "chg5d": 0.0717282717282718,
-      "chg1m": 0.1523093447905479
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.01,
+      "score": 6.71,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump opposes Israeli annexation of occupied West Bank: White House",
+          "url": "https://www.aljazeera.com/news/2026/2/9/trump-opposes-israeli-annexation-of-occupied-west-bank-white-house?traffic_source=rss"
+        },
+        {
+          "title": "Four Palestinians killed in Israeli air attack on Gaza residential building",
+          "url": "https://www.aljazeera.com/news/2026/2/9/four-palestinians-killed-in-israeli-air-attack-on-gaza-residential-building?traffic_source=rss"
+        },
         {
           "title": "US urges American ships to stay ‘as far as possible’ from Iranian waters",
           "url": "https://www.aljazeera.com/news/2026/2/9/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "US seizes Venezuela-linked oil tanker in Indian Ocean",
           "url": "https://www.aljazeera.com/news/2026/2/9/us-seizes-venezuela-linked-oil-tanker-in-indian-ocean?traffic_source=rss"
-        },
-        {
-          "title": "What were Jeffrey Epstein’s links to Israel?",
-          "url": "https://www.aljazeera.com/news/2026/2/9/what-were-jeffrey-epsteins-links-to-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran suggests it could dilute highly enriched uranium for sanctions relief",
-          "url": "https://www.aljazeera.com/news/2026/2/9/iran-suggests-it-could-dilute-highly-enriched-uranium-for-sanctions-relief?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,50 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.67,
+      "score": 6.71,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump opposes Israeli annexation of occupied West Bank: White House",
+          "url": "https://www.aljazeera.com/news/2026/2/9/trump-opposes-israeli-annexation-of-occupied-west-bank-white-house?traffic_source=rss"
+        },
+        {
+          "title": "Four Palestinians killed in Israeli air attack on Gaza residential building",
+          "url": "https://www.aljazeera.com/news/2026/2/9/four-palestinians-killed-in-israeli-air-attack-on-gaza-residential-building?traffic_source=rss"
+        },
+        {
+          "title": "US urges American ships to stay ‘as far as possible’ from Iranian waters",
+          "url": "https://www.aljazeera.com/news/2026/2/9/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters?traffic_source=rss"
+        },
+        {
+          "title": "Iran arrests prominent reformist politicians critical of the government",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/9/iran-arrests-prominent-reformist-politicians-critical-of-the-government?traffic_source=rss"
+        },
+        {
+          "title": "US seizes Venezuela-linked oil tanker in Indian Ocean",
+          "url": "https://www.aljazeera.com/news/2026/2/9/us-seizes-venezuela-linked-oil-tanker-in-indian-ocean?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007323943661971841,
+      "chg5d": 0.0717282717282718,
+      "chg1m": 0.1523093447905479
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.38,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump opposes Israeli annexation of occupied West Bank: White House",
+          "url": "https://www.aljazeera.com/news/2026/2/9/trump-opposes-israeli-annexation-of-occupied-west-bank-white-house?traffic_source=rss"
+        },
+        {
+          "title": "Four Palestinians killed in Israeli air attack on Gaza residential building",
+          "url": "https://www.aljazeera.com/news/2026/2/9/four-palestinians-killed-in-israeli-air-attack-on-gaza-residential-building?traffic_source=rss"
+        },
         {
           "title": "US urges American ships to stay ‘as far as possible’ from Iranian waters",
           "url": "https://www.aljazeera.com/news/2026/2/9/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters?traffic_source=rss"
@@ -80,14 +88,6 @@
         {
           "title": "What were Jeffrey Epstein’s links to Israel?",
           "url": "https://www.aljazeera.com/news/2026/2/9/what-were-jeffrey-epsteins-links-to-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran suggests it could dilute highly enriched uranium for sanctions relief",
-          "url": "https://www.aljazeera.com/news/2026/2/9/iran-suggests-it-could-dilute-highly-enriched-uranium-for-sanctions-relief?traffic_source=rss"
-        },
-        {
-          "title": "Israeli plans deepen de facto annexation of occupied West Bank",
-          "url": "https://www.aljazeera.com/features/2026/2/9/israeli-plans-deepen-de-facto-annexation-of-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.02358959556111473,
@@ -97,7 +97,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.83,
+      "score": 1.82,
       "confianca": 52,
       "razoes": [
         {
@@ -114,28 +114,9 @@
       "chg1m": 0.19653024315091436
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.83,
-      "confianca": 52,
-      "razoes": [
-        {
-          "title": "US and Bangladesh set trade deal with tariffs at 19 percent",
-          "url": "https://www.aljazeera.com/economy/2026/2/9/us-and-bangladesh-set-trade-deal-with-tariffs-at-19-percent?traffic_source=rss"
-        },
-        {
-          "title": "Iran suggests it could dilute highly enriched uranium for sanctions relief",
-          "url": "https://www.aljazeera.com/news/2026/2/9/iran-suggests-it-could-dilute-highly-enriched-uranium-for-sanctions-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.012223465610742851,
-      "chg5d": 0.00022682809265923073,
-      "chg1m": 0.1038550597659428
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.83,
+      "score": 1.82,
       "confianca": 52,
       "razoes": [
         {
@@ -152,22 +133,26 @@
       "chg1m": 0.11760636457973031
     },
     {
-      "symbol": "QQQ",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
+      "score": 1.82,
+      "confianca": 52,
       "razoes": [
         {
-          "title": "White House to make it harder for US federal workers to challenge firings",
-          "url": "https://www.aljazeera.com/economy/2026/2/9/white-house-to-make-it-harder-for-us-federal-workers-to-challenge-firings?traffic_source=rss"
+          "title": "US and Bangladesh set trade deal with tariffs at 19 percent",
+          "url": "https://www.aljazeera.com/economy/2026/2/9/us-and-bangladesh-set-trade-deal-with-tariffs-at-19-percent?traffic_source=rss"
+        },
+        {
+          "title": "Iran suggests it could dilute highly enriched uranium for sanctions relief",
+          "url": "https://www.aljazeera.com/news/2026/2/9/iran-suggests-it-could-dilute-highly-enriched-uranium-for-sanctions-relief?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007692938571311498,
-      "chg5d": -0.018845625578943932,
-      "chg1m": -0.009879607394394564
+      "chg1d": 0.012223465610742851,
+      "chg5d": 0.00022682809265923073,
+      "chg1m": 0.1038550597659428
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "SPY",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -177,9 +162,9 @@
           "url": "https://www.aljazeera.com/economy/2026/2/9/white-house-to-make-it-harder-for-us-federal-workers-to-challenge-firings?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.004966551794040065,
+      "chg5d": -0.001955680821385965,
+      "chg1m": 0.006584386013255738
     },
     {
       "symbol": "IWM",
@@ -197,7 +182,7 @@
       "chg1m": 0.0332210477407366
     },
     {
-      "symbol": "SPY",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -207,9 +192,24 @@
           "url": "https://www.aljazeera.com/economy/2026/2/9/white-house-to-make-it-harder-for-us-federal-workers-to-challenge-firings?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004966551794040065,
-      "chg5d": -0.001955680821385965,
-      "chg1m": 0.006584386013255738
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "White House to make it harder for US federal workers to challenge firings",
+          "url": "https://www.aljazeera.com/economy/2026/2/9/white-house-to-make-it-harder-for-us-federal-workers-to-challenge-firings?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007692938571311498,
+      "chg5d": -0.018845625578943932,
+      "chg1m": -0.009879607394394564
     }
   ]
 }
