@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-02-10T06:55:49.492103Z",
+  "generated_at": "2026-02-10T09:53:02.796722Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.42,
+      "score": 3.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s top security official in Oman following nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2026/2/10/irans-top-security-official-in-oman-following-nuclear-talks-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian citizens of Israel demand government do more to stop crime",
+          "url": "https://www.aljazeera.com/news/2026/2/10/palestinian-citizens-israel-demand-government-do-more-stop-crime?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israeli attack on Gaza building kills four Palestinians",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/10/live-israeli-attack-on-gaza-building-kills-four-palestinians?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Four Palestinians killed in Israeli air attack on Gaza residential building",
           "url": "https://www.aljazeera.com/news/2026/2/9/four-palestinians-killed-in-israeli-air-attack-on-gaza-residential-building?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran’s top security official in Oman following nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2026/2/10/irans-top-security-official-in-oman-following-nuclear-talks-with-us?traffic_source=rss"
         },
         {
-          "title": "US-flagged ships advised to stay ‘as far as possible’ from Iranian waters",
-          "url": "https://www.aljazeera.com/news/2026/2/9/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters?traffic_source=rss"
+          "title": "Palestinian citizens of Israel demand government do more to stop crime",
+          "url": "https://www.aljazeera.com/news/2026/2/10/palestinian-citizens-israel-demand-government-do-more-stop-crime?traffic_source=rss"
         },
         {
-          "title": "Iran arrests prominent reformist politicians critical of the government",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/9/iran-arrests-prominent-reformist-politicians-critical-of-the-government?traffic_source=rss"
+          "title": "LIVE: Israeli attack on Gaza building kills four Palestinians",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/10/live-israeli-attack-on-gaza-building-kills-four-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Trump opposes Israel’s West Bank annexation, official says, as outcry grows",
+          "url": "https://www.aljazeera.com/news/2026/2/9/trump-opposes-israeli-annexation-of-occupied-west-bank-white-house?traffic_source=rss"
+        },
+        {
+          "title": "Four Palestinians killed in Israeli air attack on Gaza residential building",
+          "url": "https://www.aljazeera.com/news/2026/2/9/four-palestinians-killed-in-israeli-air-attack-on-gaza-residential-building?traffic_source=rss"
         }
       ],
       "chg1d": 0.007323943661971841,
@@ -35,9 +66,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.42,
+      "score": 3.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s top security official in Oman following nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2026/2/10/irans-top-security-official-in-oman-following-nuclear-talks-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian citizens of Israel demand government do more to stop crime",
+          "url": "https://www.aljazeera.com/news/2026/2/10/palestinian-citizens-israel-demand-government-do-more-stop-crime?traffic_source=rss"
+        },
         {
           "title": "LIVE: Israeli attack on Gaza building kills four Palestinians",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/10/live-israeli-attack-on-gaza-building-kills-four-palestinians?traffic_source=rss"
@@ -49,155 +88,11 @@
         {
           "title": "Four Palestinians killed in Israeli air attack on Gaza residential building",
           "url": "https://www.aljazeera.com/news/2026/2/9/four-palestinians-killed-in-israeli-air-attack-on-gaza-residential-building?traffic_source=rss"
-        },
-        {
-          "title": "US-flagged ships advised to stay ‘as far as possible’ from Iranian waters",
-          "url": "https://www.aljazeera.com/news/2026/2/9/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters?traffic_source=rss"
-        },
-        {
-          "title": "Iran arrests prominent reformist politicians critical of the government",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/9/iran-arrests-prominent-reformist-politicians-critical-of-the-government?traffic_source=rss"
         }
       ],
       "chg1d": 0.02358959556111473,
       "chg5d": 0.003600628930817553,
       "chg1m": 0.2311742921070903
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Israeli attack on Gaza building kills four Palestinians",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/10/live-israeli-attack-on-gaza-building-kills-four-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Trump opposes Israel’s West Bank annexation, official says, as outcry grows",
-          "url": "https://www.aljazeera.com/news/2026/2/9/trump-opposes-israeli-annexation-of-occupied-west-bank-white-house?traffic_source=rss"
-        },
-        {
-          "title": "Four Palestinians killed in Israeli air attack on Gaza residential building",
-          "url": "https://www.aljazeera.com/news/2026/2/9/four-palestinians-killed-in-israeli-air-attack-on-gaza-residential-building?traffic_source=rss"
-        },
-        {
-          "title": "US-flagged ships advised to stay ‘as far as possible’ from Iranian waters",
-          "url": "https://www.aljazeera.com/news/2026/2/9/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters?traffic_source=rss"
-        },
-        {
-          "title": "Iran arrests prominent reformist politicians critical of the government",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/9/iran-arrests-prominent-reformist-politicians-critical-of-the-government?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "White House to make it harder for US federal workers to challenge firings",
-          "url": "https://www.aljazeera.com/economy/2026/2/9/white-house-to-make-it-harder-for-us-federal-workers-to-challenge-firings?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007660132863118303,
-      "chg5d": -0.018877567317213302,
-      "chg1m": -0.00991184102374003
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "White House to make it harder for US federal workers to challenge firings",
-          "url": "https://www.aljazeera.com/economy/2026/2/9/white-house-to-make-it-harder-for-us-federal-workers-to-challenge-firings?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "White House to make it harder for US federal workers to challenge firings",
-          "url": "https://www.aljazeera.com/economy/2026/2/9/white-house-to-make-it-harder-for-us-federal-workers-to-challenge-firings?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.004821754365642525,
-      "chg5d": -0.0020994808817818593,
-      "chg1m": 0.00643935548432953
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "White House to make it harder for US federal workers to challenge firings",
-          "url": "https://www.aljazeera.com/economy/2026/2/9/white-house-to-make-it-harder-for-us-federal-workers-to-challenge-firings?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007018338238623552,
-      "chg5d": 0.01792661530246391,
-      "chg1m": 0.03333720525031949
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US and Bangladesh set trade deal with tariffs at 19 percent",
-          "url": "https://www.aljazeera.com/economy/2026/2/9/us-and-bangladesh-set-trade-deal-with-tariffs-at-19-percent?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.01880464382972625,
-      "chg5d": 0.04115889383641906,
-      "chg1m": 0.11760636457973031
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US and Bangladesh set trade deal with tariffs at 19 percent",
-          "url": "https://www.aljazeera.com/economy/2026/2/9/us-and-bangladesh-set-trade-deal-with-tariffs-at-19-percent?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.012223465610742851,
-      "chg5d": 0.00022682809265923073,
-      "chg1m": 0.1038550597659428
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US and Bangladesh set trade deal with tariffs at 19 percent",
-          "url": "https://www.aljazeera.com/economy/2026/2/9/us-and-bangladesh-set-trade-deal-with-tariffs-at-19-percent?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.011663045555233167,
-      "chg5d": -0.00825591963313197,
-      "chg1m": 0.1969070265925381
     }
   ]
 }
