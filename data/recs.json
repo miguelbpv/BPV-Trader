@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-10T15:58:41.953709Z",
+  "generated_at": "2026-02-10T18:55:46.837287Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.07,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What were Jeffrey Epstein’s links to Israel?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/what-were-jeffrey-epsteins-links-to-israel-2?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu heads to US for talks with Trump on Iran, Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/netanyahu-heads-to-us-for-talks-with-trump-on-iran-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Mexico’s Sheinbaum laments US’ oil block on Cuba",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/mexicos-sheinbaum-laments-us-oil-block-on-cuba?traffic_source=rss"
-        },
-        {
-          "title": "Iran shuts down private businesses after protests as economy slumps",
-          "url": "https://www.aljazeera.com/news/2026/2/10/iran-shuts-down-private-businesses-after-protests-as-economy-slumps?traffic_source=rss"
-        },
-        {
-          "title": "Israel accused of spraying chemicals to poison Syrian farmland",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/israel-accused-of-spraying-chemicals-to-poison-syrian-farmland?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003914988814317689,
-      "chg5d": 0.034062318560092855,
-      "chg1m": 0.14484679665738157
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.07,
+      "score": 5.78,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Netanyahu says he’ll present ‘principles’ for Iran talks to Trump",
+          "url": "https://www.aljazeera.com/news/2026/2/10/netanyahu-says-hell-present-principles-for-iran-talks-to-trump?traffic_source=rss"
+        },
         {
           "title": "What were Jeffrey Epstein’s links to Israel?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/what-were-jeffrey-epsteins-links-to-israel-2?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Iran shuts down private businesses after protests as economy slumps",
           "url": "https://www.aljazeera.com/news/2026/2/10/iran-shuts-down-private-businesses-after-protests-as-economy-slumps?traffic_source=rss"
-        },
-        {
-          "title": "Israel accused of spraying chemicals to poison Syrian farmland",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/israel-accused-of-spraying-chemicals-to-poison-syrian-farmland?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,46 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.73,
+      "score": 5.78,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Netanyahu says he’ll present ‘principles’ for Iran talks to Trump",
+          "url": "https://www.aljazeera.com/news/2026/2/10/netanyahu-says-hell-present-principles-for-iran-talks-to-trump?traffic_source=rss"
+        },
+        {
+          "title": "What were Jeffrey Epstein’s links to Israel?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/what-were-jeffrey-epsteins-links-to-israel-2?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu heads to US for talks with Trump on Iran, Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/netanyahu-heads-to-us-for-talks-with-trump-on-iran-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Mexico’s Sheinbaum laments US’ oil block on Cuba",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/mexicos-sheinbaum-laments-us-oil-block-on-cuba?traffic_source=rss"
+        },
+        {
+          "title": "Iran shuts down private businesses after protests as economy slumps",
+          "url": "https://www.aljazeera.com/news/2026/2/10/iran-shuts-down-private-businesses-after-protests-as-economy-slumps?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0006524981357196811,
+      "chg5d": 0.03744919682601113,
+      "chg1m": 0.14859652881936994
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Netanyahu says he’ll present ‘principles’ for Iran talks to Trump",
+          "url": "https://www.aljazeera.com/news/2026/2/10/netanyahu-says-hell-present-principles-for-iran-talks-to-trump?traffic_source=rss"
+        },
         {
           "title": "What were Jeffrey Epstein’s links to Israel?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/what-were-jeffrey-epsteins-links-to-israel-2?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "Israel accused of spraying chemicals to poison Syrian farmland",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/10/israel-accused-of-spraying-chemicals-to-poison-syrian-farmland?traffic_source=rss"
-        },
-        {
-          "title": "Israel used weapons in Gaza that made thousands of Palestinians evaporate",
-          "url": "https://www.aljazeera.com/features/2026/2/10/israel-used-weapons-in-gaza-that-made-thousands-of-palestinians-evaporate?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014820849457143185,
-      "chg5d": 0.0009072676917200682,
-      "chg1m": 0.15823694098578076
+      "chg1d": -0.00443372134922986,
+      "chg5d": 0.011460223474357822,
+      "chg1m": 0.17044868488911827
     }
   ]
 }
