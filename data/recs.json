@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-11T15:53:12.403414Z",
+  "generated_at": "2026-02-11T18:52:33.404126Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.41,
+      "score": 3.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran says missile programme non-negotiable as Tehran, Washington eye talks",
+          "url": "https://www.aljazeera.com/news/2026/2/11/iran-says-missile-programme-non-negotiable-as-tehran-washington-eye-talks?traffic_source=rss"
+        },
         {
           "title": "Hebron under Israeli lockdown amid wider West Bank annexation plans",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/11/hebron-under-israeli-lockdown-amid-wider-west-bank-annexation-plans?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Iranians mark 47th Islamic revolution anniversary with nationwide rallies",
           "url": "https://www.aljazeera.com/gallery/2026/2/11/iranians-mark-47th-islamic-revolution-anniversary-with-nationwide-rallies?traffic_source=rss"
-        },
-        {
-          "title": "Pezeshkian calls for unity as Iran marks 1979 Revolution anniversary",
-          "url": "https://www.aljazeera.com/news/2026/2/11/pezeshkian-calls-for-unity-as-iran-marks-1979-revolution-anniversary?traffic_source=rss"
         }
       ],
-      "chg1d": -0.010022873117732934,
-      "chg5d": 0.033993629305196116,
-      "chg1m": 0.13063275524272547
+      "chg1d": 0.026409107876073146,
+      "chg5d": 0.04098050350179821,
+      "chg1m": 0.1867716875269744
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.41,
+      "score": 3.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran says missile programme non-negotiable as Tehran, Washington eye talks",
+          "url": "https://www.aljazeera.com/news/2026/2/11/iran-says-missile-programme-non-negotiable-as-tehran-washington-eye-talks?traffic_source=rss"
+        },
         {
           "title": "Hebron under Israeli lockdown amid wider West Bank annexation plans",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/11/hebron-under-israeli-lockdown-amid-wider-west-bank-annexation-plans?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Iranians mark 47th Islamic revolution anniversary with nationwide rallies",
           "url": "https://www.aljazeera.com/gallery/2026/2/11/iranians-mark-47th-islamic-revolution-anniversary-with-nationwide-rallies?traffic_source=rss"
-        },
-        {
-          "title": "Pezeshkian calls for unity as Iran marks 1979 Revolution anniversary",
-          "url": "https://www.aljazeera.com/news/2026/2/11/pezeshkian-calls-for-unity-as-iran-marks-1979-revolution-anniversary?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.41,
+      "score": 3.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran says missile programme non-negotiable as Tehran, Washington eye talks",
+          "url": "https://www.aljazeera.com/news/2026/2/11/iran-says-missile-programme-non-negotiable-as-tehran-washington-eye-talks?traffic_source=rss"
+        },
         {
           "title": "Hebron under Israeli lockdown amid wider West Bank annexation plans",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/11/hebron-under-israeli-lockdown-amid-wider-west-bank-annexation-plans?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "Iranians mark 47th Islamic revolution anniversary with nationwide rallies",
           "url": "https://www.aljazeera.com/gallery/2026/2/11/iranians-mark-47th-islamic-revolution-anniversary-with-nationwide-rallies?traffic_source=rss"
-        },
-        {
-          "title": "Pezeshkian calls for unity as Iran marks 1979 Revolution anniversary",
-          "url": "https://www.aljazeera.com/news/2026/2/11/pezeshkian-calls-for-unity-as-iran-marks-1979-revolution-anniversary?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01959499813363197,
-      "chg5d": 0.03406965739163356,
-      "chg1m": 0.1788929650410012
+      "chg1d": -0.0002382616430522544,
+      "chg5d": 0.04421328555312227,
+      "chg1m": 0.1418075611348958
     }
   ]
 }
