@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-02-12T06:52:44.605516Z",
+  "generated_at": "2026-02-12T09:39:59.921693Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.13,
-      "confianca": 95,
+      "score": 3.31,
+      "confianca": 94,
       "razoes": [
+        {
+          "title": "Israeli forces demolish Palestinian homes in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/israeli-forces-demolish-palestinian-homes-in-occupied-west-bank-2?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Larijani accuses Israel of trying to sabotage US negotiations",
+          "url": "https://www.aljazeera.com/news/2026/2/12/irans-larijani-accuses-israel-of-trying-to-sabotage-us-negotiations?traffic_source=rss"
+        },
         {
           "title": "US Energy Secretary Chris Wright touts oil production on Venezuela visit",
           "url": "https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit?traffic_source=rss"
@@ -14,14 +22,33 @@
         {
           "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
           "url": "https://www.aljazeera.com/news/2026/2/12/nothing-definitive-reached-about-iran-during-netanyahus-visit-with-trump?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.31,
+      "confianca": 94,
+      "razoes": [
+        {
+          "title": "Israeli forces demolish Palestinian homes in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/israeli-forces-demolish-palestinian-homes-in-occupied-west-bank-2?traffic_source=rss"
         },
         {
-          "title": "Thousands celebrate 47th anniversary of Iran’s Islamic Revolution",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/11/thousands-celebrate-47th-anniversary-of-irans-islamic-revolution?traffic_source=rss"
+          "title": "Iran’s Larijani accuses Israel of trying to sabotage US negotiations",
+          "url": "https://www.aljazeera.com/news/2026/2/12/irans-larijani-accuses-israel-of-trying-to-sabotage-us-negotiations?traffic_source=rss"
         },
         {
-          "title": "Libya issues rare oil exploration licences to foreign firms",
-          "url": "https://www.aljazeera.com/news/2026/2/11/libya-issues-rare-oil-exploration-licences-to-foreign-firms?traffic_source=rss"
+          "title": "US Energy Secretary Chris Wright touts oil production on Venezuela visit",
+          "url": "https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit?traffic_source=rss"
+        },
+        {
+          "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
+          "url": "https://www.aljazeera.com/news/2026/2/12/nothing-definitive-reached-about-iran-during-netanyahus-visit-with-trump?traffic_source=rss"
         }
       ],
       "chg1d": 0.026129152668906284,
@@ -29,45 +56,22 @@
       "chg1m": 0.18644799309451862
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.13,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US Energy Secretary Chris Wright touts oil production on Venezuela visit",
-          "url": "https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit?traffic_source=rss"
-        },
-        {
-          "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
-          "url": "https://www.aljazeera.com/news/2026/2/12/nothing-definitive-reached-about-iran-during-netanyahus-visit-with-trump?traffic_source=rss"
-        },
-        {
-          "title": "Thousands celebrate 47th anniversary of Iran’s Islamic Revolution",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/11/thousands-celebrate-47th-anniversary-of-irans-islamic-revolution?traffic_source=rss"
-        },
-        {
-          "title": "Libya issues rare oil exploration licences to foreign firms",
-          "url": "https://www.aljazeera.com/news/2026/2/11/libya-issues-rare-oil-exploration-licences-to-foreign-firms?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Israeli forces demolish Palestinian homes in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/israeli-forces-demolish-palestinian-homes-in-occupied-west-bank-2?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Larijani accuses Israel of trying to sabotage US negotiations",
+          "url": "https://www.aljazeera.com/news/2026/2/12/irans-larijani-accuses-israel-of-trying-to-sabotage-us-negotiations?traffic_source=rss"
+        },
         {
           "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
           "url": "https://www.aljazeera.com/news/2026/2/12/nothing-definitive-reached-about-iran-during-netanyahus-visit-with-trump?traffic_source=rss"
-        },
-        {
-          "title": "Thousands celebrate 47th anniversary of Iran’s Islamic Revolution",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/11/thousands-celebrate-47th-anniversary-of-irans-islamic-revolution?traffic_source=rss"
         }
       ],
       "chg1d": -0.0013660334201663067,
@@ -75,69 +79,9 @@
       "chg1m": 0.14051955591031137
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "CBO: US Federal deficits and debt to worsen over next decade",
-          "url": "https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "CBO: US Federal deficits and debt to worsen over next decade",
-          "url": "https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00023117378489274717,
-      "chg5d": 0.008408749763185097,
-      "chg1m": -0.004603256804188866
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "CBO: US Federal deficits and debt to worsen over next decade",
-          "url": "https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004546137661557094,
-      "chg5d": 0.017004452633195177,
-      "chg1m": 0.013193116634799192
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "CBO: US Federal deficits and debt to worsen over next decade",
-          "url": "https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.002682061262204174,
-      "chg5d": 0.01215022699133308,
-      "chg1m": -0.02241816413412623
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -150,24 +94,9 @@
       "chg1m": 0.12755824818398287
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Breaking with Trump, US House votes to pass a bill ending Canada tariffs",
-          "url": "https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0249551831090117,
-      "chg5d": 0.09025970095042071,
-      "chg1m": 0.0903587104586044
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -178,6 +107,21 @@
       "chg1d": 0.0155699551506064,
       "chg5d": 0.07206171170834795,
       "chg1m": 0.1205091981923621
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Breaking with Trump, US House votes to pass a bill ending Canada tariffs",
+          "url": "https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0249551831090117,
+      "chg5d": 0.09025970095042071,
+      "chg1m": 0.0903587104586044
     }
   ]
 }
