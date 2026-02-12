@@ -1,54 +1,19 @@
 {
-  "generated_at": "2026-02-12T09:39:59.921693Z",
+  "generated_at": "2026-02-12T12:44:14.667644Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.31,
-      "confianca": 94,
-      "razoes": [
-        {
-          "title": "Israeli forces demolish Palestinian homes in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/israeli-forces-demolish-palestinian-homes-in-occupied-west-bank-2?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Larijani accuses Israel of trying to sabotage US negotiations",
-          "url": "https://www.aljazeera.com/news/2026/2/12/irans-larijani-accuses-israel-of-trying-to-sabotage-us-negotiations?traffic_source=rss"
-        },
-        {
-          "title": "US Energy Secretary Chris Wright touts oil production on Venezuela visit",
-          "url": "https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit?traffic_source=rss"
-        },
-        {
-          "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
-          "url": "https://www.aljazeera.com/news/2026/2/12/nothing-definitive-reached-about-iran-during-netanyahus-visit-with-trump?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.31,
-      "confianca": 94,
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Top Iran official accuses Israel of trying to sabotage US talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/top-iran-official-accuses-israel-of-trying-to-sabotage-us-talks?traffic_source=rss"
+        },
         {
           "title": "Israeli forces demolish Palestinian homes in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/israeli-forces-demolish-palestinian-homes-in-occupied-west-bank-2?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Larijani accuses Israel of trying to sabotage US negotiations",
-          "url": "https://www.aljazeera.com/news/2026/2/12/irans-larijani-accuses-israel-of-trying-to-sabotage-us-negotiations?traffic_source=rss"
-        },
-        {
-          "title": "US Energy Secretary Chris Wright touts oil production on Venezuela visit",
-          "url": "https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit?traffic_source=rss"
-        },
-        {
-          "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
-          "url": "https://www.aljazeera.com/news/2026/2/12/nothing-definitive-reached-about-iran-during-netanyahus-visit-with-trump?traffic_source=rss"
         }
       ],
       "chg1d": 0.026129152668906284,
@@ -56,72 +21,42 @@
       "chg1m": 0.18644799309451862
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Top Iran official accuses Israel of trying to sabotage US talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/top-iran-official-accuses-israel-of-trying-to-sabotage-us-talks?traffic_source=rss"
+        },
         {
           "title": "Israeli forces demolish Palestinian homes in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/israeli-forces-demolish-palestinian-homes-in-occupied-west-bank-2?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Top Iran official accuses Israel of trying to sabotage US talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/top-iran-official-accuses-israel-of-trying-to-sabotage-us-talks?traffic_source=rss"
         },
         {
-          "title": "Iran’s Larijani accuses Israel of trying to sabotage US negotiations",
-          "url": "https://www.aljazeera.com/news/2026/2/12/irans-larijani-accuses-israel-of-trying-to-sabotage-us-negotiations?traffic_source=rss"
-        },
-        {
-          "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
-          "url": "https://www.aljazeera.com/news/2026/2/12/nothing-definitive-reached-about-iran-during-netanyahus-visit-with-trump?traffic_source=rss"
+          "title": "Israeli forces demolish Palestinian homes in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/israeli-forces-demolish-palestinian-homes-in-occupied-west-bank-2?traffic_source=rss"
         }
       ],
       "chg1d": -0.0013660334201663067,
       "chg5d": 0.043035370628442586,
       "chg1m": 0.14051955591031137
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Breaking with Trump, US House votes to pass a bill ending Canada tariffs",
-          "url": "https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.033654776049293886,
-      "chg5d": 0.14843126419844035,
-      "chg1m": 0.12755824818398287
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Breaking with Trump, US House votes to pass a bill ending Canada tariffs",
-          "url": "https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0155699551506064,
-      "chg5d": 0.07206171170834795,
-      "chg1m": 0.1205091981923621
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Breaking with Trump, US House votes to pass a bill ending Canada tariffs",
-          "url": "https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0249551831090117,
-      "chg5d": 0.09025970095042071,
-      "chg1m": 0.0903587104586044
     }
   ]
 }
