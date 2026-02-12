@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-12T01:22:23.423285Z",
+  "generated_at": "2026-02-12T04:52:26.439030Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.31,
-      "confianca": 94,
+      "score": 4.15,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "US Energy Secretary Chris Wright touts oil production on Venezuela visit",
+          "url": "https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit?traffic_source=rss"
+        },
         {
           "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
           "url": "https://www.aljazeera.com/news/2026/2/12/nothing-definitive-reached-about-iran-during-netanyahus-visit-with-trump?traffic_source=rss"
@@ -18,10 +22,6 @@
         {
           "title": "Libya issues rare oil exploration licences to foreign firms",
           "url": "https://www.aljazeera.com/news/2026/2/11/libya-issues-rare-oil-exploration-licences-to-foreign-firms?traffic_source=rss"
-        },
-        {
-          "title": "Iran says missile programme non-negotiable as Tehran, Washington eye talks",
-          "url": "https://www.aljazeera.com/news/2026/2/11/iran-says-missile-programme-non-negotiable-as-tehran-washington-eye-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,9 +31,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.31,
-      "confianca": 94,
+      "score": 4.15,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "US Energy Secretary Chris Wright touts oil production on Venezuela visit",
+          "url": "https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit?traffic_source=rss"
+        },
         {
           "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
           "url": "https://www.aljazeera.com/news/2026/2/12/nothing-definitive-reached-about-iran-during-netanyahus-visit-with-trump?traffic_source=rss"
@@ -45,10 +49,6 @@
         {
           "title": "Libya issues rare oil exploration licences to foreign firms",
           "url": "https://www.aljazeera.com/news/2026/2/11/libya-issues-rare-oil-exploration-licences-to-foreign-firms?traffic_source=rss"
-        },
-        {
-          "title": "Iran says missile programme non-negotiable as Tehran, Washington eye talks",
-          "url": "https://www.aljazeera.com/news/2026/2/11/iran-says-missile-programme-non-negotiable-as-tehran-washington-eye-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.026129152668906284,
@@ -58,8 +58,8 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "‘Nothing definitive’ reached about Iran during Netanyahu’s visit with Trump",
@@ -68,10 +68,6 @@
         {
           "title": "Thousands celebrate 47th anniversary of Iran’s Islamic Revolution",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/11/thousands-celebrate-47th-anniversary-of-irans-islamic-revolution?traffic_source=rss"
-        },
-        {
-          "title": "Iran says missile programme non-negotiable as Tehran, Washington eye talks",
-          "url": "https://www.aljazeera.com/news/2026/2/11/iran-says-missile-programme-non-negotiable-as-tehran-washington-eye-talks?traffic_source=rss"
         }
       ],
       "chg1d": -0.0013660334201663067,
@@ -79,9 +75,24 @@
       "chg1m": 0.14051955591031137
     },
     {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "CBO: US Federal deficits and debt to worsen over next decade",
+          "url": "https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004546137661557094,
+      "chg5d": 0.017004452633195177,
+      "chg1m": 0.013193116634799192
+    },
+    {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -96,7 +107,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -104,29 +115,14 @@
           "url": "https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0027474773905505584,
-      "chg5d": 0.012216260833677222,
-      "chg1m": -0.02235438557328951
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "CBO: US Federal deficits and debt to worsen over next decade",
-          "url": "https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004508566275924427,
-      "chg5d": 0.017042837402118833,
-      "chg1m": 0.013231357552581183
+      "chg1d": 0.002682061262204174,
+      "chg5d": 0.01215022699133308,
+      "chg1m": -0.02241816413412623
     },
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -134,9 +130,54 @@
           "url": "https://www.aljazeera.com/economy/2026/2/11/cbo-us-federal-deficits-and-debt-to-worsen-over-next-decade?traffic_source=rss"
         }
       ],
-      "chg1d": -0.000158931977113815,
-      "chg5d": 0.008481615878983861,
-      "chg1m": -0.004531330916623479
+      "chg1d": -0.00023117378489274717,
+      "chg5d": 0.008408749763185097,
+      "chg1m": -0.004603256804188866
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Breaking with Trump, US House votes to pass a bill ending Canada tariffs",
+          "url": "https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0155699551506064,
+      "chg5d": 0.07206171170834795,
+      "chg1m": 0.1205091981923621
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Breaking with Trump, US House votes to pass a bill ending Canada tariffs",
+          "url": "https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.033654776049293886,
+      "chg5d": 0.14843126419844035,
+      "chg1m": 0.12755824818398287
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Breaking with Trump, US House votes to pass a bill ending Canada tariffs",
+          "url": "https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0249551831090117,
+      "chg5d": 0.09025970095042071,
+      "chg1m": 0.0903587104586044
     }
   ]
 }
