@@ -1,31 +1,20 @@
 {
-  "generated_at": "2026-02-12T15:42:56.777229Z",
+  "generated_at": "2026-02-12T18:51:26.173645Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
         {
-          "title": "How Israel used discriminatory laws to strip Palestinians of citizenship",
-          "url": "https://www.aljazeera.com/news/2026/2/12/how-israel-used-discriminatory-laws-to-strip-palestinians-of-citizenship?traffic_source=rss"
+          "title": "Israel charges two over betting on military operations",
+          "url": "https://www.aljazeera.com/news/2026/2/12/israel-charges-two-over-betting-on-military-operations?traffic_source=rss"
         },
         {
-          "title": "Top Iran official accuses Israel of trying to sabotage US talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/top-iran-official-accuses-israel-of-trying-to-sabotage-us-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02040718943852382,
-      "chg5d": 0.053104172822482726,
-      "chg1m": 0.14907755686906685
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
-      "razoes": [
+          "title": "Bezalel Smotrich’s long struggle to annex the West Bank for Israel",
+          "url": "https://www.aljazeera.com/news/2026/2/12/bezalel-smotrichs-gradual-struggle-annex-west-bank-israel?traffic_source=rss"
+        },
         {
           "title": "How Israel used discriminatory laws to strip Palestinians of citizenship",
           "url": "https://www.aljazeera.com/news/2026/2/12/how-israel-used-discriminatory-laws-to-strip-palestinians-of-citizenship?traffic_source=rss"
@@ -40,11 +29,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Israel charges two over betting on military operations",
+          "url": "https://www.aljazeera.com/news/2026/2/12/israel-charges-two-over-betting-on-military-operations?traffic_source=rss"
+        },
+        {
+          "title": "Bezalel Smotrich’s long struggle to annex the West Bank for Israel",
+          "url": "https://www.aljazeera.com/news/2026/2/12/bezalel-smotrichs-gradual-struggle-annex-west-bank-israel?traffic_source=rss"
+        },
         {
           "title": "How Israel used discriminatory laws to strip Palestinians of citizenship",
           "url": "https://www.aljazeera.com/news/2026/2/12/how-israel-used-discriminatory-laws-to-strip-palestinians-of-citizenship?traffic_source=rss"
@@ -54,9 +51,36 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/top-iran-official-accuses-israel-of-trying-to-sabotage-us-talks?traffic_source=rss"
         }
       ],
-      "chg1d": -0.0010858493997817284,
-      "chg5d": 0.05191151120474998,
-      "chg1m": 0.16851702127659568
+      "chg1d": 0.020550341975504944,
+      "chg5d": 0.05325191240684208,
+      "chg1m": 0.1492387605230164
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "Israel charges two over betting on military operations",
+          "url": "https://www.aljazeera.com/news/2026/2/12/israel-charges-two-over-betting-on-military-operations?traffic_source=rss"
+        },
+        {
+          "title": "Bezalel Smotrich’s long struggle to annex the West Bank for Israel",
+          "url": "https://www.aljazeera.com/news/2026/2/12/bezalel-smotrichs-gradual-struggle-annex-west-bank-israel?traffic_source=rss"
+        },
+        {
+          "title": "How Israel used discriminatory laws to strip Palestinians of citizenship",
+          "url": "https://www.aljazeera.com/news/2026/2/12/how-israel-used-discriminatory-laws-to-strip-palestinians-of-citizenship?traffic_source=rss"
+        },
+        {
+          "title": "Top Iran official accuses Israel of trying to sabotage US talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/top-iran-official-accuses-israel-of-trying-to-sabotage-us-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.017279010549290576,
+      "chg5d": 0.034859222371193266,
+      "chg1m": 0.1495744680851064
     }
   ]
 }
