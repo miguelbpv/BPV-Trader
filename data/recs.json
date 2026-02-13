@@ -1,38 +1,23 @@
 {
-  "generated_at": "2026-02-13T18:35:19.942397Z",
+  "generated_at": "2026-02-13T21:27:06.936253Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
-      "razoes": [
-        {
-          "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
-          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
-          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.024990979401659893,
-      "chg5d": 0.04775650277430317,
-      "chg1m": 0.14084162737908149
-    },
-    {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "acao": "comprar",
+      "score": 2.33,
+      "confianca": 66,
       "razoes": [
         {
-          "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
-          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
+          "title": "Trump orders second aircraft carrier to Middle East",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss"
         },
         {
-          "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
-          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
+          "title": "Cuban official decries ‘massive punishment’ by US oil blockade",
+          "url": "https://www.aljazeera.com/news/2026/2/13/cuban-official-decries-massive-punishment-by-us-oil-blockade?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers injure at least 54 Palestinians in West Bank attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -41,22 +26,45 @@
     },
     {
       "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.33,
+      "confianca": 66,
+      "razoes": [
+        {
+          "title": "Trump orders second aircraft carrier to Middle East",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Cuban official decries ‘massive punishment’ by US oil blockade",
+          "url": "https://www.aljazeera.com/news/2026/2/13/cuban-official-decries-massive-punishment-by-us-oil-blockade?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers injure at least 54 Palestinians in West Bank attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0068543905150056424,
+      "chg5d": 0.02065727699530519,
+      "chg1m": 0.13087806908031624
+    },
+    {
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.23,
+      "score": 1.24,
       "confianca": 35,
       "razoes": [
         {
-          "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
-          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
+          "title": "Trump orders second aircraft carrier to Middle East",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss"
         },
         {
-          "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
-          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
+          "title": "Israeli settlers injure at least 54 Palestinians in West Bank attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006806224527602881,
-      "chg5d": 0.02060845070422536,
-      "chg1m": 0.13082397003745314
+      "chg1d": 0.02376731562681407,
+      "chg5d": 0.046505660861477276,
+      "chg1m": 0.1394796577614807
     }
   ]
 }
