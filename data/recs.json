@@ -1,39 +1,20 @@
 {
-  "generated_at": "2026-02-13T09:35:45.782292Z",
+  "generated_at": "2026-02-13T12:39:03.985220Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Former Israeli PM Barak responds to criticism over close Epstein links",
-          "url": "https://www.aljazeera.com/news/2026/2/13/former-israeli-pm-barak-responds-to-criticism-over-close-epstein-links?traffic_source=rss"
-        },
-        {
-          "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
-          "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss"
-        },
-        {
-          "title": "Israel deprives Palestinians of proper education by withholding revenues",
-          "url": "https://www.aljazeera.com/features/2026/2/13/israel-deprives-palestinians-proper-education-witholding-revenues?traffic_source=rss"
-        },
-        {
-          "title": "US readying another aircraft carrier for deployment amid Iran tensions",
-          "url": "https://www.aljazeera.com/news/2026/2/12/us-readying-another-aircraft-carrier-for-middle-east-deployment-trump?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 4.06,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Why did Israel jail journalist who witnessed Shireen Abu-Akleh’s killing?",
+          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
+        },
+        {
+          "title": "Russia faces Ukraine casualties, broken communications and total oil ban",
+          "url": "https://www.aljazeera.com/news/2026/2/13/russia-faces-ukraine-casualties-broken-communications-and-total-oil-ban?traffic_source=rss"
+        },
         {
           "title": "Former Israeli PM Barak responds to criticism over close Epstein links",
           "url": "https://www.aljazeera.com/news/2026/2/13/former-israeli-pm-barak-responds-to-criticism-over-close-epstein-links?traffic_source=rss"
@@ -45,10 +26,6 @@
         {
           "title": "Israel deprives Palestinians of proper education by withholding revenues",
           "url": "https://www.aljazeera.com/features/2026/2/13/israel-deprives-palestinians-proper-education-witholding-revenues?traffic_source=rss"
-        },
-        {
-          "title": "US readying another aircraft carrier for deployment amid Iran tensions",
-          "url": "https://www.aljazeera.com/news/2026/2/12/us-readying-another-aircraft-carrier-for-middle-east-deployment-trump?traffic_source=rss"
         }
       ],
       "chg1d": -0.018188432157148056,
@@ -56,11 +33,19 @@
       "chg1m": 0.14851063829787228
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 4.06,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Why did Israel jail journalist who witnessed Shireen Abu-Akleh’s killing?",
+          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
+        },
+        {
+          "title": "Russia faces Ukraine casualties, broken communications and total oil ban",
+          "url": "https://www.aljazeera.com/news/2026/2/13/russia-faces-ukraine-casualties-broken-communications-and-total-oil-ban?traffic_source=rss"
+        },
         {
           "title": "Former Israeli PM Barak responds to criticism over close Epstein links",
           "url": "https://www.aljazeera.com/news/2026/2/13/former-israeli-pm-barak-responds-to-criticism-over-close-epstein-links?traffic_source=rss"
@@ -72,10 +57,33 @@
         {
           "title": "Israel deprives Palestinians of proper education by withholding revenues",
           "url": "https://www.aljazeera.com/features/2026/2/13/israel-deprives-palestinians-proper-education-witholding-revenues?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.97,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Why did Israel jail journalist who witnessed Shireen Abu-Akleh’s killing?",
+          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
         },
         {
-          "title": "US readying another aircraft carrier for deployment amid Iran tensions",
-          "url": "https://www.aljazeera.com/news/2026/2/12/us-readying-another-aircraft-carrier-for-middle-east-deployment-trump?traffic_source=rss"
+          "title": "Former Israeli PM Barak responds to criticism over close Epstein links",
+          "url": "https://www.aljazeera.com/news/2026/2/13/former-israeli-pm-barak-responds-to-criticism-over-close-epstein-links?traffic_source=rss"
+        },
+        {
+          "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
+          "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss"
+        },
+        {
+          "title": "Israel deprives Palestinians of proper education by withholding revenues",
+          "url": "https://www.aljazeera.com/features/2026/2/13/israel-deprives-palestinians-proper-education-witholding-revenues?traffic_source=rss"
         }
       ],
       "chg1d": 0.013885796087163836,
@@ -85,7 +93,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
@@ -100,7 +108,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
@@ -115,7 +123,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
