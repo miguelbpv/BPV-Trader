@@ -1,45 +1,18 @@
 {
-  "generated_at": "2026-02-13T12:39:03.985220Z",
+  "generated_at": "2026-02-13T15:34:32.717989Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.06,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Why did Israel jail journalist who witnessed Shireen Abu-Akleh’s killing?",
-          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
-        },
-        {
-          "title": "Russia faces Ukraine casualties, broken communications and total oil ban",
-          "url": "https://www.aljazeera.com/news/2026/2/13/russia-faces-ukraine-casualties-broken-communications-and-total-oil-ban?traffic_source=rss"
-        },
-        {
-          "title": "Former Israeli PM Barak responds to criticism over close Epstein links",
-          "url": "https://www.aljazeera.com/news/2026/2/13/former-israeli-pm-barak-responds-to-criticism-over-close-epstein-links?traffic_source=rss"
-        },
-        {
-          "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
-          "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss"
-        },
-        {
-          "title": "Israel deprives Palestinians of proper education by withholding revenues",
-          "url": "https://www.aljazeera.com/features/2026/2/13/israel-deprives-palestinians-proper-education-witholding-revenues?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.018188432157148056,
-      "chg5d": 0.03390155142692963,
-      "chg1m": 0.14851063829787228
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.06,
+      "score": 3.8,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Why did Israel jail journalist who witnessed Shireen Abu-Akleh’s killing?",
+          "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
           "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
         },
         {
@@ -53,10 +26,6 @@
         {
           "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
           "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss"
-        },
-        {
-          "title": "Israel deprives Palestinians of proper education by withholding revenues",
-          "url": "https://www.aljazeera.com/features/2026/2/13/israel-deprives-palestinians-proper-education-witholding-revenues?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,13 +33,48 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.97,
-      "confianca": 84,
+      "score": 3.8,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Why did Israel jail journalist who witnessed Shireen Abu-Akleh’s killing?",
+          "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
+          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
+        },
+        {
+          "title": "Russia faces Ukraine casualties, broken communications and total oil ban",
+          "url": "https://www.aljazeera.com/news/2026/2/13/russia-faces-ukraine-casualties-broken-communications-and-total-oil-ban?traffic_source=rss"
+        },
+        {
+          "title": "Former Israeli PM Barak responds to criticism over close Epstein links",
+          "url": "https://www.aljazeera.com/news/2026/2/13/former-israeli-pm-barak-responds-to-criticism-over-close-epstein-links?traffic_source=rss"
+        },
+        {
+          "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
+          "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.004446091144868507,
+      "chg5d": 0.018215962441314532,
+      "chg1m": 0.1281731169371618
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.71,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
           "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
         },
         {
@@ -80,60 +84,11 @@
         {
           "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
           "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss"
-        },
-        {
-          "title": "Israel deprives Palestinians of proper education by withholding revenues",
-          "url": "https://www.aljazeera.com/features/2026/2/13/israel-deprives-palestinians-proper-education-witholding-revenues?traffic_source=rss"
         }
       ],
-      "chg1d": 0.013885796087163836,
-      "chg5d": 0.04637381397944779,
-      "chg1m": 0.14173383485581229
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US and Taiwan sign ‘pivotal’ deal to cut tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/2/13/us-and-taiwan-sign-pivotal-deal-to-cut-trade-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.024153248195446942,
-      "chg5d": 0.06247921893419586,
-      "chg1m": 0.05460546054605457
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US and Taiwan sign ‘pivotal’ deal to cut tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/2/13/us-and-taiwan-sign-pivotal-deal-to-cut-trade-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.016012189580047454,
-      "chg5d": 0.11299247120007258,
-      "chg1m": 0.11137948733431975
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "US and Taiwan sign ‘pivotal’ deal to cut tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/2/13/us-and-taiwan-sign-pivotal-deal-to-cut-trade-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.020033016863676725,
-      "chg5d": 0.0420024293417075,
-      "chg1m": 0.10763210934055537
+      "chg1d": 0.025359647333825015,
+      "chg5d": 0.048133358991628954,
+      "chg1m": 0.1412519643792561
     }
   ]
 }
