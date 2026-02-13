@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T15:34:32.717989Z",
+  "generated_at": "2026-02-13T18:35:19.942397Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.8,
-      "confianca": 95,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
         {
           "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
@@ -14,18 +14,25 @@
         {
           "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
           "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.024990979401659893,
+      "chg5d": 0.04775650277430317,
+      "chg1m": 0.14084162737908149
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
         },
         {
-          "title": "Russia faces Ukraine casualties, broken communications and total oil ban",
-          "url": "https://www.aljazeera.com/news/2026/2/13/russia-faces-ukraine-casualties-broken-communications-and-total-oil-ban?traffic_source=rss"
-        },
-        {
-          "title": "Former Israeli PM Barak responds to criticism over close Epstein links",
-          "url": "https://www.aljazeera.com/news/2026/2/13/former-israeli-pm-barak-responds-to-criticism-over-close-epstein-links?traffic_source=rss"
-        },
-        {
-          "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
-          "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss"
+          "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
+          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -34,9 +41,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.8,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
         {
           "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
@@ -45,50 +52,11 @@
         {
           "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
           "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
-        },
-        {
-          "title": "Russia faces Ukraine casualties, broken communications and total oil ban",
-          "url": "https://www.aljazeera.com/news/2026/2/13/russia-faces-ukraine-casualties-broken-communications-and-total-oil-ban?traffic_source=rss"
-        },
-        {
-          "title": "Former Israeli PM Barak responds to criticism over close Epstein links",
-          "url": "https://www.aljazeera.com/news/2026/2/13/former-israeli-pm-barak-responds-to-criticism-over-close-epstein-links?traffic_source=rss"
-        },
-        {
-          "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
-          "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss"
         }
       ],
-      "chg1d": 0.004446091144868507,
-      "chg5d": 0.018215962441314532,
-      "chg1m": 0.1281731169371618
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Israeli settlers injure dozens of Palestinians in wave of West Bank attacks",
-          "url": "https://www.aljazeera.com/news/2026/2/13/israeli-settlers-injure-dozens-of-palestinians-in-wave-of-west-bank-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Why did Israel jail journalist who witnessed Shireen Abu Akleh’s killing?",
-          "url": "https://www.aljazeera.com/news/2026/2/13/why-did-israel-jail-journalist-who-witnessed-shireen-abu-aklehs-killing?traffic_source=rss"
-        },
-        {
-          "title": "Former Israeli PM Barak responds to criticism over close Epstein links",
-          "url": "https://www.aljazeera.com/news/2026/2/13/former-israeli-pm-barak-responds-to-criticism-over-close-epstein-links?traffic_source=rss"
-        },
-        {
-          "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
-          "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.025359647333825015,
-      "chg5d": 0.048133358991628954,
-      "chg1m": 0.1412519643792561
+      "chg1d": 0.006806224527602881,
+      "chg5d": 0.02060845070422536,
+      "chg1m": 0.13082397003745314
     }
   ]
 }
