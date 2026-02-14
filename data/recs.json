@@ -1,46 +1,19 @@
 {
-  "generated_at": "2026-02-14T12:29:37.347610Z",
+  "generated_at": "2026-02-14T15:17:33.245629Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
-          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
-        },
-        {
-          "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
-          "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
-        },
-        {
-          "title": "Fire at Havana oil refinery as Cuba’s fuel crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0068543905150056424,
-      "chg5d": 0.02065727699530519,
-      "chg1m": 0.13087806908031624
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
+          "url": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss"
+        },
         {
           "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
           "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
-        },
-        {
-          "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
-          "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
-        },
-        {
-          "title": "Fire at Havana oil refinery as Cuba’s fuel crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,21 +23,40 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
+      "score": 1.48,
       "confianca": 42,
       "razoes": [
         {
-          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
-          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
+          "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
+          "url": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss"
         },
         {
-          "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
-          "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
+          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
+          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
         }
       ],
       "chg1d": 0.02376731562681407,
       "chg5d": 0.046505660861477276,
       "chg1m": 0.1394796577614807
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
+          "url": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss"
+        },
+        {
+          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
+          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0068543905150056424,
+      "chg5d": 0.02065727699530519,
+      "chg1m": 0.13087806908031624
     }
   ]
 }
