@@ -1,39 +1,16 @@
 {
-  "generated_at": "2026-02-14T06:34:33.166512Z",
+  "generated_at": "2026-02-14T09:23:07.132543Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.3,
-      "confianca": 94,
-      "razoes": [
-        {
-          "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
-          "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
-        },
-        {
-          "title": "Fire at Havana oil refinery as Cuba’s fuel crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss"
-        },
-        {
-          "title": "US will send second aircraft carrier to Middle East ‘very soon’: Trump",
-          "url": "https://www.aljazeera.com/news/2026/2/13/trump-confirms-second-aircraft-carrier-headed-to-middle-east-very?traffic_source=rss"
-        },
-        {
-          "title": "Trump orders second aircraft carrier to Middle East",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0068543905150056424,
-      "chg5d": 0.02065727699530519,
-      "chg1m": 0.13087806908031624
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.3,
-      "confianca": 94,
+      "score": 4.02,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
+          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
+        },
         {
           "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
           "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
@@ -56,11 +33,46 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.02,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
+          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
+        },
+        {
+          "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
+          "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
+        },
+        {
+          "title": "Fire at Havana oil refinery as Cuba’s fuel crisis deepens",
+          "url": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss"
+        },
+        {
+          "title": "US will send second aircraft carrier to Middle East ‘very soon’: Trump",
+          "url": "https://www.aljazeera.com/news/2026/2/13/trump-confirms-second-aircraft-carrier-headed-to-middle-east-very?traffic_source=rss"
+        },
+        {
+          "title": "Trump orders second aircraft carrier to Middle East",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0068543905150056424,
+      "chg5d": 0.02065727699530519,
+      "chg1m": 0.13087806908031624
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
+          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
+        },
         {
           "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
           "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
