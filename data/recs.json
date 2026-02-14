@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T18:22:33.254020Z",
+  "generated_at": "2026-02-14T21:16:23.176090Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
@@ -14,21 +14,17 @@
         {
           "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
           "url": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
-          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0068543905150056424,
-      "chg5d": 0.02065727699530519,
-      "chg1m": 0.13087806908031624
+      "chg1d": 0.02376731562681407,
+      "chg5d": 0.046505660861477276,
+      "chg1m": 0.1394796577614807
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
@@ -37,10 +33,6 @@
         {
           "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
           "url": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
-          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,10 +40,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
@@ -60,15 +52,11 @@
         {
           "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
           "url": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss"
-        },
-        {
-          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
-          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02376731562681407,
-      "chg5d": 0.046505660861477276,
-      "chg1m": 0.1394796577614807
+      "chg1d": 0.0068543905150056424,
+      "chg5d": 0.02065727699530519,
+      "chg1m": 0.13087806908031624
     }
   ]
 }
