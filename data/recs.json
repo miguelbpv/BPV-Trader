@@ -1,42 +1,11 @@
 {
-  "generated_at": "2026-02-14T09:23:07.132543Z",
+  "generated_at": "2026-02-14T12:29:37.347610Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.02,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
-          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
-        },
-        {
-          "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
-          "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
-        },
-        {
-          "title": "Fire at Havana oil refinery as Cuba’s fuel crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss"
-        },
-        {
-          "title": "US will send second aircraft carrier to Middle East ‘very soon’: Trump",
-          "url": "https://www.aljazeera.com/news/2026/2/13/trump-confirms-second-aircraft-carrier-headed-to-middle-east-very?traffic_source=rss"
-        },
-        {
-          "title": "Trump orders second aircraft carrier to Middle East",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.02,
-      "confianca": 95,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
@@ -49,14 +18,6 @@
         {
           "title": "Fire at Havana oil refinery as Cuba’s fuel crisis deepens",
           "url": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss"
-        },
-        {
-          "title": "US will send second aircraft carrier to Middle East ‘very soon’: Trump",
-          "url": "https://www.aljazeera.com/news/2026/2/13/trump-confirms-second-aircraft-carrier-headed-to-middle-east-very?traffic_source=rss"
-        },
-        {
-          "title": "Trump orders second aircraft carrier to Middle East",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
@@ -64,10 +25,10 @@
       "chg1m": 0.13087806908031624
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.94,
-      "confianca": 84,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
@@ -78,12 +39,27 @@
           "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
         },
         {
-          "title": "US will send second aircraft carrier to Middle East ‘very soon’: Trump",
-          "url": "https://www.aljazeera.com/news/2026/2/13/trump-confirms-second-aircraft-carrier-headed-to-middle-east-very?traffic_source=rss"
+          "title": "Fire at Havana oil refinery as Cuba’s fuel crisis deepens",
+          "url": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
+          "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
         },
         {
-          "title": "Trump orders second aircraft carrier to Middle East",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/trump-orders-second-aircraft-carrier-to-middle-east?traffic_source=rss"
+          "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
+          "url": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.02376731562681407,
