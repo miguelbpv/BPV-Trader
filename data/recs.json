@@ -1,34 +1,11 @@
 {
-  "generated_at": "2026-02-15T09:23:50.505544Z",
+  "generated_at": "2026-02-15T12:31:46.239674Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "LIVE: Israel kills 10 Palestinians in Gaza in 24 hours",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/15/live-israel-kills-at-least-nine-palestinians-in-gaza-since-dawn?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill nine Palestinians in Gaza, attack southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
-          "url": "https://www.aljazeera.com/news/2026/2/14/iran-us-spar-as-diaspora-organises-rallies-abroad-calling-for-action?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02376731562681407,
-      "chg5d": 0.046505660861477276,
-      "chg1m": 0.1394796577614807
-    },
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "LIVE: Israel kills 10 Palestinians in Gaza in 24 hours",
@@ -37,10 +14,6 @@
         {
           "title": "Israeli forces kill nine Palestinians in Gaza, attack southern Lebanon",
           "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
-          "url": "https://www.aljazeera.com/news/2026/2/14/iran-us-spar-as-diaspora-organises-rallies-abroad-calling-for-action?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
@@ -50,8 +23,8 @@
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.95,
-      "confianca": 55,
+      "score": 1.22,
+      "confianca": 34,
       "razoes": [
         {
           "title": "LIVE: Israel kills 10 Palestinians in Gaza in 24 hours",
@@ -60,15 +33,30 @@
         {
           "title": "Israeli forces kill nine Palestinians in Gaza, attack southern Lebanon",
           "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
-          "url": "https://www.aljazeera.com/news/2026/2/14/iran-us-spar-as-diaspora-organises-rallies-abroad-calling-for-action?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.22,
+      "confianca": 34,
+      "razoes": [
+        {
+          "title": "LIVE: Israel kills 10 Palestinians in Gaza in 24 hours",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/15/live-israel-kills-at-least-nine-palestinians-in-gaza-since-dawn?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill nine Palestinians in Gaza, attack southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02376731562681407,
+      "chg5d": 0.046505660861477276,
+      "chg1m": 0.1394796577614807
     }
   ]
 }
