@@ -1,19 +1,54 @@
 {
-  "generated_at": "2026-02-15T12:31:46.239674Z",
+  "generated_at": "2026-02-15T15:17:52.778228Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
-          "title": "LIVE: Israel kills 10 Palestinians in Gaza in 24 hours",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/15/live-israel-kills-at-least-nine-palestinians-in-gaza-since-dawn?traffic_source=rss"
+          "title": "Iran seeks to get out of FATF blacklist amid domestic political divisions",
+          "url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions?traffic_source=rss"
         },
         {
-          "title": "Israeli forces kill nine Palestinians in Gaza, attack southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
+          "title": "Iran’s Araghchi slams European powers for ‘irrelevance’ in nuclear talks",
+          "url": "https://www.aljazeera.com/news/2026/2/15/irans-araghchi-slams-european-powers-for-irrelevance-in-nuclear-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel approves proposal to register West Bank lands as ‘state property’",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
+        },
+        {
+          "title": "Trump and Netanyahu align on Iran pressure but split on endgame",
+          "url": "https://www.aljazeera.com/features/2026/2/15/trump-and-netanyahu-align-on-iran-pressure-but-split-on-endgame?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02376731562681407,
+      "chg5d": 0.046505660861477276,
+      "chg1m": 0.1394796577614807
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.68,
+      "confianca": 76,
+      "razoes": [
+        {
+          "title": "Iran seeks to get out of FATF blacklist amid domestic political divisions",
+          "url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Araghchi slams European powers for ‘irrelevance’ in nuclear talks",
+          "url": "https://www.aljazeera.com/news/2026/2/15/irans-araghchi-slams-european-powers-for-irrelevance-in-nuclear-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel approves proposal to register West Bank lands as ‘state property’",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
+        },
+        {
+          "title": "Trump and Netanyahu align on Iran pressure but split on endgame",
+          "url": "https://www.aljazeera.com/features/2026/2/15/trump-and-netanyahu-align-on-iran-pressure-but-split-on-endgame?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
@@ -22,41 +57,30 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
+      "acao": "comprar",
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
-          "title": "LIVE: Israel kills 10 Palestinians in Gaza in 24 hours",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/15/live-israel-kills-at-least-nine-palestinians-in-gaza-since-dawn?traffic_source=rss"
+          "title": "Iran seeks to get out of FATF blacklist amid domestic political divisions",
+          "url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions?traffic_source=rss"
         },
         {
-          "title": "Israeli forces kill nine Palestinians in Gaza, attack southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
+          "title": "Iran’s Araghchi slams European powers for ‘irrelevance’ in nuclear talks",
+          "url": "https://www.aljazeera.com/news/2026/2/15/irans-araghchi-slams-european-powers-for-irrelevance-in-nuclear-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel approves proposal to register West Bank lands as ‘state property’",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
+        },
+        {
+          "title": "Trump and Netanyahu align on Iran pressure but split on endgame",
+          "url": "https://www.aljazeera.com/features/2026/2/15/trump-and-netanyahu-align-on-iran-pressure-but-split-on-endgame?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.22,
-      "confianca": 34,
-      "razoes": [
-        {
-          "title": "LIVE: Israel kills 10 Palestinians in Gaza in 24 hours",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/15/live-israel-kills-at-least-nine-palestinians-in-gaza-since-dawn?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces kill nine Palestinians in Gaza, attack southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02376731562681407,
-      "chg5d": 0.046505660861477276,
-      "chg1m": 0.1394796577614807
     }
   ]
 }
