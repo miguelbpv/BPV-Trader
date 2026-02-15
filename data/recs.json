@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-15T01:24:41.053035Z",
+  "generated_at": "2026-02-15T04:49:23.994915Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
+        {
+          "title": "Israeli forces kill eight Palestinians in attacks across Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
           "url": "https://www.aljazeera.com/news/2026/2/14/iran-us-spar-as-diaspora-organises-rallies-abroad-calling-for-action?traffic_source=rss"
@@ -21,30 +25,15 @@
       "chg1m": 0.13087806908031624
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
-          "url": "https://www.aljazeera.com/news/2026/2/14/iran-us-spar-as-diaspora-organises-rallies-abroad-calling-for-action?traffic_source=rss"
-        },
-        {
-          "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
-          "url": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "score": 2.19,
+      "confianca": 62,
       "razoes": [
+        {
+          "title": "Israeli forces kill eight Palestinians in attacks across Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
           "url": "https://www.aljazeera.com/news/2026/2/14/iran-us-spar-as-diaspora-organises-rallies-abroad-calling-for-action?traffic_source=rss"
@@ -57,6 +46,29 @@
       "chg1d": 0.02376731562681407,
       "chg5d": 0.046505660861477276,
       "chg1m": 0.1394796577614807
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 2.19,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Israeli forces kill eight Palestinians in attacks across Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israeli-forces-kill-eight-palestinians-in-attacks-across-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
+          "url": "https://www.aljazeera.com/news/2026/2/14/iran-us-spar-as-diaspora-organises-rallies-abroad-calling-for-action?traffic_source=rss"
+        },
+        {
+          "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
+          "url": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
