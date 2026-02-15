@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-15T18:24:36.220706Z",
+  "generated_at": "2026-02-15T21:16:48.029591Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.4,
+      "score": 4.12,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "At least 11 Palestinians killed in Israeli attacks across Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
+        },
         {
           "title": "Thousands of Western nationals fought Israel’s war on Gaza: What to know",
           "url": "https://www.aljazeera.com/news/2026/2/15/thousands-of-western-nationals-fought-israels-war-on-gaza-what-to-know?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Israel approves proposal to register West Bank lands as ‘state property’",
           "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
-        },
-        {
-          "title": "Trump and Netanyahu align on Iran pressure but split on endgame",
-          "url": "https://www.aljazeera.com/features/2026/2/15/trump-and-netanyahu-align-on-iran-pressure-but-split-on-endgame?traffic_source=rss"
         }
       ],
       "chg1d": 0.02376731562681407,
@@ -33,42 +33,15 @@
       "chg1m": 0.1394796577614807
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.4,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Thousands of Western nationals fought Israel’s war on Gaza: What to know",
-          "url": "https://www.aljazeera.com/news/2026/2/15/thousands-of-western-nationals-fought-israels-war-on-gaza-what-to-know?traffic_source=rss"
-        },
-        {
-          "title": "Iran seeks to get out of FATF blacklist amid domestic political divisions",
-          "url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Araghchi slams European powers for ‘irrelevance’ in nuclear talks",
-          "url": "https://www.aljazeera.com/news/2026/2/15/irans-araghchi-slams-european-powers-for-irrelevance-in-nuclear-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel approves proposal to register West Bank lands as ‘state property’",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
-        },
-        {
-          "title": "Trump and Netanyahu align on Iran pressure but split on endgame",
-          "url": "https://www.aljazeera.com/features/2026/2/15/trump-and-netanyahu-align-on-iran-pressure-but-split-on-endgame?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.4,
+      "score": 4.12,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "At least 11 Palestinians killed in Israeli attacks across Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
+        },
         {
           "title": "Thousands of Western nationals fought Israel’s war on Gaza: What to know",
           "url": "https://www.aljazeera.com/news/2026/2/15/thousands-of-western-nationals-fought-israels-war-on-gaza-what-to-know?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "Israel approves proposal to register West Bank lands as ‘state property’",
           "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
-        },
-        {
-          "title": "Trump and Netanyahu align on Iran pressure but split on endgame",
-          "url": "https://www.aljazeera.com/features/2026/2/15/trump-and-netanyahu-align-on-iran-pressure-but-split-on-endgame?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
       "chg5d": 0.02065727699530519,
       "chg1m": 0.13087806908031624
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.12,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "At least 11 Palestinians killed in Israeli attacks across Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Thousands of Western nationals fought Israel’s war on Gaza: What to know",
+          "url": "https://www.aljazeera.com/news/2026/2/15/thousands-of-western-nationals-fought-israels-war-on-gaza-what-to-know?traffic_source=rss"
+        },
+        {
+          "title": "Iran seeks to get out of FATF blacklist amid domestic political divisions",
+          "url": "https://www.aljazeera.com/news/2026/2/15/iran-seeks-to-get-out-of-fatf-blacklist-amid-domestic-political-divisions?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Araghchi slams European powers for ‘irrelevance’ in nuclear talks",
+          "url": "https://www.aljazeera.com/news/2026/2/15/irans-araghchi-slams-european-powers-for-irrelevance-in-nuclear-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel approves proposal to register West Bank lands as ‘state property’",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
