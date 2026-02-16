@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-15T21:16:48.029591Z",
+  "generated_at": "2026-02-16T01:21:02.256153Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.12,
+      "score": 4.57,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel bombs Lebanon-Syria border, kills four people",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
+        },
         {
           "title": "At least 11 Palestinians killed in Israeli attacks across Gaza",
           "url": "https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Iran’s Araghchi slams European powers for ‘irrelevance’ in nuclear talks",
           "url": "https://www.aljazeera.com/news/2026/2/15/irans-araghchi-slams-european-powers-for-irrelevance-in-nuclear-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel approves proposal to register West Bank lands as ‘state property’",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02376731562681407,
-      "chg5d": 0.046505660861477276,
-      "chg1m": 0.1394796577614807
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.12,
+      "score": 4.57,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel bombs Lebanon-Syria border, kills four people",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
+        },
         {
           "title": "At least 11 Palestinians killed in Israeli attacks across Gaza",
           "url": "https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Iran’s Araghchi slams European powers for ‘irrelevance’ in nuclear talks",
           "url": "https://www.aljazeera.com/news/2026/2/15/irans-araghchi-slams-european-powers-for-irrelevance-in-nuclear-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel approves proposal to register West Bank lands as ‘state property’",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
@@ -64,11 +64,15 @@
       "chg1m": 0.13087806908031624
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.12,
+      "score": 4.57,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel bombs Lebanon-Syria border, kills four people",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
+        },
         {
           "title": "At least 11 Palestinians killed in Israeli attacks across Gaza",
           "url": "https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "Iran’s Araghchi slams European powers for ‘irrelevance’ in nuclear talks",
           "url": "https://www.aljazeera.com/news/2026/2/15/irans-araghchi-slams-european-powers-for-irrelevance-in-nuclear-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel approves proposal to register West Bank lands as ‘state property’",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.02376731562681407,
+      "chg5d": 0.046505660861477276,
+      "chg1m": 0.1394796577614807
     }
   ]
 }
