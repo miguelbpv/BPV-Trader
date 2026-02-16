@@ -1,31 +1,62 @@
 {
-  "generated_at": "2026-02-16T09:43:22.250203Z",
+  "generated_at": "2026-02-16T12:42:21.719274Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.84,
+      "score": 4.94,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran’s Araghchi arrives in Geneva for second round of nuclear talks with US",
+          "title": "15-day-old baby loses father in Israeli strike on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/15-day-old-baby-loses-father-in-israeli-strike-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "‘Dangerous escalation’: Nations condemn Israel over occupied West Bank move",
+          "url": "https://www.aljazeera.com/news/2026/2/16/dangerous-escalation-nations-condemn-israel-over-occupied-west-bank-move?traffic_source=rss"
+        },
+        {
+          "title": "Israeli police clash with ultra-Orthodox protesters over army enlistment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/israeli-police-clash-with-ultra-orthodox-protesters-over-army-enlistment?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Araghchi meets IAEA chief in Geneva ahead of nuclear talks with US",
           "url": "https://www.aljazeera.com/news/2026/2/16/irans-araghchi-arrives-in-geneva-for-second-round-of-nuclear-talks-with-us?traffic_source=rss"
         },
         {
           "title": "Europe’s growing fight over Israeli goods: Boycott movements mushroom",
           "url": "https://www.aljazeera.com/news/2026/2/16/europes-growing-fight-over-israeli-goods-boycott-movements-mushroom?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02376731562681407,
+      "chg5d": 0.046505660861477276,
+      "chg1m": 0.1394796577614807
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.94,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "15-day-old baby loses father in Israeli strike on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/15-day-old-baby-loses-father-in-israeli-strike-on-gaza?traffic_source=rss"
         },
         {
-          "title": "Netanyahu calls for dismantling Iran’s nuclear programme in any US deal",
-          "url": "https://www.aljazeera.com/news/2026/2/16/netanyahu-calls-for-dismantling-irans-nuclear-programme-in-any-us-deal?traffic_source=rss"
+          "title": "‘Dangerous escalation’: Nations condemn Israel over occupied West Bank move",
+          "url": "https://www.aljazeera.com/news/2026/2/16/dangerous-escalation-nations-condemn-israel-over-occupied-west-bank-move?traffic_source=rss"
         },
         {
-          "title": "Israel’s move to register land ‘systematises dispossession’ of Palestinians",
-          "url": "https://www.aljazeera.com/news/2026/2/16/israels-move-to-register-land-systematises-dispossession-of-palestinians?traffic_source=rss"
+          "title": "Israeli police clash with ultra-Orthodox protesters over army enlistment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/israeli-police-clash-with-ultra-orthodox-protesters-over-army-enlistment?traffic_source=rss"
         },
         {
-          "title": "Israel bombs Lebanon-Syria border, kills four people",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
+          "title": "Iran’s Araghchi meets IAEA chief in Geneva ahead of nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2026/2/16/irans-araghchi-arrives-in-geneva-for-second-round-of-nuclear-talks-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Europe’s growing fight over Israeli goods: Boycott movements mushroom",
+          "url": "https://www.aljazeera.com/news/2026/2/16/europes-growing-fight-over-israeli-goods-boycott-movements-mushroom?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
@@ -35,64 +66,33 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.84,
+      "score": 4.94,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran’s Araghchi arrives in Geneva for second round of nuclear talks with US",
+          "title": "15-day-old baby loses father in Israeli strike on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/15-day-old-baby-loses-father-in-israeli-strike-on-gaza?traffic_source=rss"
+        },
+        {
+          "title": "‘Dangerous escalation’: Nations condemn Israel over occupied West Bank move",
+          "url": "https://www.aljazeera.com/news/2026/2/16/dangerous-escalation-nations-condemn-israel-over-occupied-west-bank-move?traffic_source=rss"
+        },
+        {
+          "title": "Israeli police clash with ultra-Orthodox protesters over army enlistment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/israeli-police-clash-with-ultra-orthodox-protesters-over-army-enlistment?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Araghchi meets IAEA chief in Geneva ahead of nuclear talks with US",
           "url": "https://www.aljazeera.com/news/2026/2/16/irans-araghchi-arrives-in-geneva-for-second-round-of-nuclear-talks-with-us?traffic_source=rss"
         },
         {
           "title": "Europe’s growing fight over Israeli goods: Boycott movements mushroom",
           "url": "https://www.aljazeera.com/news/2026/2/16/europes-growing-fight-over-israeli-goods-boycott-movements-mushroom?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu calls for dismantling Iran’s nuclear programme in any US deal",
-          "url": "https://www.aljazeera.com/news/2026/2/16/netanyahu-calls-for-dismantling-irans-nuclear-programme-in-any-us-deal?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s move to register land ‘systematises dispossession’ of Palestinians",
-          "url": "https://www.aljazeera.com/news/2026/2/16/israels-move-to-register-land-systematises-dispossession-of-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs Lebanon-Syria border, kills four people",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.84,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran’s Araghchi arrives in Geneva for second round of nuclear talks with US",
-          "url": "https://www.aljazeera.com/news/2026/2/16/irans-araghchi-arrives-in-geneva-for-second-round-of-nuclear-talks-with-us?traffic_source=rss"
-        },
-        {
-          "title": "Europe’s growing fight over Israeli goods: Boycott movements mushroom",
-          "url": "https://www.aljazeera.com/news/2026/2/16/europes-growing-fight-over-israeli-goods-boycott-movements-mushroom?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu calls for dismantling Iran’s nuclear programme in any US deal",
-          "url": "https://www.aljazeera.com/news/2026/2/16/netanyahu-calls-for-dismantling-irans-nuclear-programme-in-any-us-deal?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s move to register land ‘systematises dispossession’ of Palestinians",
-          "url": "https://www.aljazeera.com/news/2026/2/16/israels-move-to-register-land-systematises-dispossession-of-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs Lebanon-Syria border, kills four people",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02376731562681407,
-      "chg5d": 0.046505660861477276,
-      "chg1m": 0.1394796577614807
     }
   ]
 }
