@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-16T18:32:50.526783Z",
+  "generated_at": "2026-02-16T21:21:12.867970Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.41,
+      "score": 5.89,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "What’s the fallout from Israel’s land grab?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/16/whats-the-fallout-from-israels-land-grab?traffic_source=rss"
+        },
         {
           "title": "Business and limbs destroyed by Israel, Gaza family rebuilds bakery",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/business-and-limbs-destroyed-by-israel-gaza-family-rebuilds-bakery?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Europe’s Israel policy faces a democratic test",
           "url": "https://www.aljazeera.com/opinions/2026/2/16/europes-israel-policy-faces-a-democratic-test?traffic_source=rss"
-        },
-        {
-          "title": "Israel to restart land registration in West Bank. What that means",
-          "url": "https://www.aljazeera.com/news/2026/2/16/israel-to-restart-land-registration-in-west-bank-what-that-means?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.02376731562681407,
+      "chg5d": 0.046505660861477276,
+      "chg1m": 0.1394796577614807
     },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.41,
+      "score": 5.89,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "What’s the fallout from Israel’s land grab?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/16/whats-the-fallout-from-israels-land-grab?traffic_source=rss"
+        },
         {
           "title": "Business and limbs destroyed by Israel, Gaza family rebuilds bakery",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/business-and-limbs-destroyed-by-israel-gaza-family-rebuilds-bakery?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Europe’s Israel policy faces a democratic test",
           "url": "https://www.aljazeera.com/opinions/2026/2/16/europes-israel-policy-faces-a-democratic-test?traffic_source=rss"
-        },
-        {
-          "title": "Israel to restart land registration in West Bank. What that means",
-          "url": "https://www.aljazeera.com/news/2026/2/16/israel-to-restart-land-registration-in-west-bank-what-that-means?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
@@ -64,11 +64,15 @@
       "chg1m": 0.13087806908031624
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.41,
+      "score": 5.89,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "What’s the fallout from Israel’s land grab?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/16/whats-the-fallout-from-israels-land-grab?traffic_source=rss"
+        },
         {
           "title": "Business and limbs destroyed by Israel, Gaza family rebuilds bakery",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/business-and-limbs-destroyed-by-israel-gaza-family-rebuilds-bakery?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "Europe’s Israel policy faces a democratic test",
           "url": "https://www.aljazeera.com/opinions/2026/2/16/europes-israel-policy-faces-a-democratic-test?traffic_source=rss"
-        },
-        {
-          "title": "Israel to restart land registration in West Bank. What that means",
-          "url": "https://www.aljazeera.com/news/2026/2/16/israel-to-restart-land-registration-in-west-bank-what-that-means?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02376731562681407,
-      "chg5d": 0.046505660861477276,
-      "chg1m": 0.1394796577614807
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
