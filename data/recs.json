@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-16T06:54:00.201714Z",
+  "generated_at": "2026-02-16T09:43:22.250203Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.85,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Europe’s growing fight over Israeli goods: Boycott movements mushroom",
-          "url": "https://www.aljazeera.com/news/2026/2/16/europes-growing-fight-over-israeli-goods-boycott-movements-mushroom?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu calls for dismantling Iran’s nuclear programme in any US deal",
-          "url": "https://www.aljazeera.com/news/2026/2/16/netanyahu-calls-for-dismantling-irans-nuclear-programme-in-any-us-deal?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s move to register land ‘systematises dispossession’ of Palestinians",
-          "url": "https://www.aljazeera.com/news/2026/2/16/israels-move-to-register-land-systematises-dispossession-of-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs Lebanon-Syria border, kills four people",
-          "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 11 in Gaza as Trump announces $5bn pledge from Board of Peace",
-          "url": "https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02376731562681407,
-      "chg5d": 0.046505660861477276,
-      "chg1m": 0.1394796577614807
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.85,
+      "score": 5.84,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s Araghchi arrives in Geneva for second round of nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2026/2/16/irans-araghchi-arrives-in-geneva-for-second-round-of-nuclear-talks-with-us?traffic_source=rss"
+        },
         {
           "title": "Europe’s growing fight over Israeli goods: Boycott movements mushroom",
           "url": "https://www.aljazeera.com/news/2026/2/16/europes-growing-fight-over-israeli-goods-boycott-movements-mushroom?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israel bombs Lebanon-Syria border, kills four people",
           "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 11 in Gaza as Trump announces $5bn pledge from Board of Peace",
-          "url": "https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
@@ -66,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.85,
+      "score": 5.84,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s Araghchi arrives in Geneva for second round of nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2026/2/16/irans-araghchi-arrives-in-geneva-for-second-round-of-nuclear-talks-with-us?traffic_source=rss"
+        },
         {
           "title": "Europe’s growing fight over Israeli goods: Boycott movements mushroom",
           "url": "https://www.aljazeera.com/news/2026/2/16/europes-growing-fight-over-israeli-goods-boycott-movements-mushroom?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "Israel bombs Lebanon-Syria border, kills four people",
           "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 11 in Gaza as Trump announces $5bn pledge from Board of Peace",
-          "url": "https://www.aljazeera.com/news/2026/2/15/at-least-11-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.84,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran’s Araghchi arrives in Geneva for second round of nuclear talks with US",
+          "url": "https://www.aljazeera.com/news/2026/2/16/irans-araghchi-arrives-in-geneva-for-second-round-of-nuclear-talks-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Europe’s growing fight over Israeli goods: Boycott movements mushroom",
+          "url": "https://www.aljazeera.com/news/2026/2/16/europes-growing-fight-over-israeli-goods-boycott-movements-mushroom?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu calls for dismantling Iran’s nuclear programme in any US deal",
+          "url": "https://www.aljazeera.com/news/2026/2/16/netanyahu-calls-for-dismantling-irans-nuclear-programme-in-any-us-deal?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s move to register land ‘systematises dispossession’ of Palestinians",
+          "url": "https://www.aljazeera.com/news/2026/2/16/israels-move-to-register-land-systematises-dispossession-of-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs Lebanon-Syria border, kills four people",
+          "url": "https://www.aljazeera.com/news/2026/2/15/israel-bombs-lebanon-syria-border-kills-four-people?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02376731562681407,
+      "chg5d": 0.046505660861477276,
+      "chg1m": 0.1394796577614807
     }
   ]
 }
