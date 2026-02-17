@@ -1,46 +1,27 @@
 {
-  "generated_at": "2026-02-17T09:39:08.912599Z",
+  "generated_at": "2026-02-17T12:42:03.911984Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "Trump urges Iran to make nuclear deal saying he’ll be ‘indirectly’ involved",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/trump-urges-iran-to-make-nuclear-deal-saying-hell-be-indirectly-involved?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks live: Second round of nuclear negotiations begin in Geneva",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/17/us-iran-talks-set-to-begin-at-omans-embassy-in-switzerland?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he will be involved ‘indirectly’ in Iran nuclear talks",
-          "url": "https://www.aljazeera.com/news/2026/2/17/trump-says-he-will-be-involved-indirectly-in-iran-nuclear-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Iran’s Khamenei says US will not be able to destroy government",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/irans-khamenei-says-us-will-not-be-able-to-destroy-government?traffic_source=rss"
+        },
+        {
+          "title": "Mapping forced displacements and settler attacks by Israel in the West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/17/mapping-forced-displacements-and-settler-attacks-by-israel-in-the-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iran and US open second round of nuclear talks in Switzerland",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/iran-and-us-open-second-round-of-nuclear-talks-in-switzerland?traffic_source=rss"
+        },
         {
           "title": "Trump urges Iran to make nuclear deal saying he’ll be ‘indirectly’ involved",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/trump-urges-iran-to-make-nuclear-deal-saying-hell-be-indirectly-involved?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks live: Second round of nuclear negotiations begin in Geneva",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/17/us-iran-talks-set-to-begin-at-omans-embassy-in-switzerland?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he will be involved ‘indirectly’ in Iran nuclear talks",
-          "url": "https://www.aljazeera.com/news/2026/2/17/trump-says-he-will-be-involved-indirectly-in-iran-nuclear-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
@@ -50,25 +31,56 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.47,
-      "confianca": 70,
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Iran’s Khamenei says US will not be able to destroy government",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/irans-khamenei-says-us-will-not-be-able-to-destroy-government?traffic_source=rss"
+        },
+        {
+          "title": "Mapping forced displacements and settler attacks by Israel in the West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/17/mapping-forced-displacements-and-settler-attacks-by-israel-in-the-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iran and US open second round of nuclear talks in Switzerland",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/iran-and-us-open-second-round-of-nuclear-talks-in-switzerland?traffic_source=rss"
+        },
         {
           "title": "Trump urges Iran to make nuclear deal saying he’ll be ‘indirectly’ involved",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/trump-urges-iran-to-make-nuclear-deal-saying-hell-be-indirectly-involved?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks live: Second round of nuclear negotiations begin in Geneva",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/17/us-iran-talks-set-to-begin-at-omans-embassy-in-switzerland?traffic_source=rss"
-        },
-        {
-          "title": "Trump says he will be involved ‘indirectly’ in Iran nuclear talks",
-          "url": "https://www.aljazeera.com/news/2026/2/17/trump-says-he-will-be-involved-indirectly-in-iran-nuclear-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.02376731562681407,
       "chg5d": 0.046505660861477276,
       "chg1m": 0.1394796577614807
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
+      "razoes": [
+        {
+          "title": "Iran’s Khamenei says US will not be able to destroy government",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/irans-khamenei-says-us-will-not-be-able-to-destroy-government?traffic_source=rss"
+        },
+        {
+          "title": "Mapping forced displacements and settler attacks by Israel in the West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/17/mapping-forced-displacements-and-settler-attacks-by-israel-in-the-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iran and US open second round of nuclear talks in Switzerland",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/iran-and-us-open-second-round-of-nuclear-talks-in-switzerland?traffic_source=rss"
+        },
+        {
+          "title": "Trump urges Iran to make nuclear deal saying he’ll be ‘indirectly’ involved",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/trump-urges-iran-to-make-nuclear-deal-saying-hell-be-indirectly-involved?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
