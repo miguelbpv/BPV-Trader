@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-16T21:21:12.867970Z",
+  "generated_at": "2026-02-17T01:20:05.530178Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.89,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What’s the fallout from Israel’s land grab?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/2/16/whats-the-fallout-from-israels-land-grab?traffic_source=rss"
-        },
-        {
-          "title": "Business and limbs destroyed by Israel, Gaza family rebuilds bakery",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/business-and-limbs-destroyed-by-israel-gaza-family-rebuilds-bakery?traffic_source=rss"
-        },
-        {
-          "title": "Iran launches naval drills ahead of US nuclear talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/iran-launches-naval-drills-ahead-of-us-nuclear-talks?traffic_source=rss"
-        },
-        {
-          "title": "New Israeli housing plan near Jerusalem slammed as ‘disguised annexation’",
-          "url": "https://www.aljazeera.com/news/2026/2/16/new-israeli-housing-plan-near-jerusalem-slammed-as-disguised-annexation?traffic_source=rss"
-        },
-        {
-          "title": "Europe’s Israel policy faces a democratic test",
-          "url": "https://www.aljazeera.com/opinions/2026/2/16/europes-israel-policy-faces-a-democratic-test?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02376731562681407,
-      "chg5d": 0.046505660861477276,
-      "chg1m": 0.1394796577614807
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.89,
+      "score": 5.61,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "One year on, No Other Land co-director says Israeli attacks intensifying",
+          "url": "https://www.aljazeera.com/news/2026/2/16/one-year-on-no-other-land-co-director-says-israeli-attacks-intensifying?traffic_source=rss"
+        },
         {
           "title": "What’s the fallout from Israel’s land grab?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/2/16/whats-the-fallout-from-israels-land-grab?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "New Israeli housing plan near Jerusalem slammed as ‘disguised annexation’",
           "url": "https://www.aljazeera.com/news/2026/2/16/new-israeli-housing-plan-near-jerusalem-slammed-as-disguised-annexation?traffic_source=rss"
-        },
-        {
-          "title": "Europe’s Israel policy faces a democratic test",
-          "url": "https://www.aljazeera.com/opinions/2026/2/16/europes-israel-policy-faces-a-democratic-test?traffic_source=rss"
         }
       ],
       "chg1d": 0.0068543905150056424,
@@ -66,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.89,
+      "score": 5.61,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "One year on, No Other Land co-director says Israeli attacks intensifying",
+          "url": "https://www.aljazeera.com/news/2026/2/16/one-year-on-no-other-land-co-director-says-israeli-attacks-intensifying?traffic_source=rss"
+        },
         {
           "title": "What’s the fallout from Israel’s land grab?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/2/16/whats-the-fallout-from-israels-land-grab?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "New Israeli housing plan near Jerusalem slammed as ‘disguised annexation’",
           "url": "https://www.aljazeera.com/news/2026/2/16/new-israeli-housing-plan-near-jerusalem-slammed-as-disguised-annexation?traffic_source=rss"
-        },
-        {
-          "title": "Europe’s Israel policy faces a democratic test",
-          "url": "https://www.aljazeera.com/opinions/2026/2/16/europes-israel-policy-faces-a-democratic-test?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.61,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "One year on, No Other Land co-director says Israeli attacks intensifying",
+          "url": "https://www.aljazeera.com/news/2026/2/16/one-year-on-no-other-land-co-director-says-israeli-attacks-intensifying?traffic_source=rss"
+        },
+        {
+          "title": "What’s the fallout from Israel’s land grab?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/16/whats-the-fallout-from-israels-land-grab?traffic_source=rss"
+        },
+        {
+          "title": "Business and limbs destroyed by Israel, Gaza family rebuilds bakery",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/business-and-limbs-destroyed-by-israel-gaza-family-rebuilds-bakery?traffic_source=rss"
+        },
+        {
+          "title": "Iran launches naval drills ahead of US nuclear talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/iran-launches-naval-drills-ahead-of-us-nuclear-talks?traffic_source=rss"
+        },
+        {
+          "title": "New Israeli housing plan near Jerusalem slammed as ‘disguised annexation’",
+          "url": "https://www.aljazeera.com/news/2026/2/16/new-israeli-housing-plan-near-jerusalem-slammed-as-disguised-annexation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02376731562681407,
+      "chg5d": 0.046505660861477276,
+      "chg1m": 0.1394796577614807
     }
   ]
 }
