@@ -1,42 +1,11 @@
 {
-  "generated_at": "2026-02-18T18:41:10.317061Z",
+  "generated_at": "2026-02-18T21:28:21.139627Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.45,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iranian families mark protest killings as schools observe strikes",
-          "url": "https://www.aljazeera.com/news/2026/2/18/iranian-families-mark-protest-killings-as-schools-observe-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Pro-Palestine activists acquitted of burglary at Israeli arms site in UK",
-          "url": "https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two in Gaza, blocks thousands from medical exit through Rafah",
-          "url": "https://www.aljazeera.com/news/2026/2/18/israel-kills-two-in-gaza-blocks-thousands-from-medical-exit-through-rafah?traffic_source=rss"
-        },
-        {
-          "title": "Israeli minister wants to cancel ‘damned’ Oslo Accords",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-minister-wants-to-cancel-damned-oslo-accords?traffic_source=rss"
-        },
-        {
-          "title": "Tested on Palestinians: Epstein, Israel’s Barak pushed spy tech in Nigeria",
-          "url": "https://www.aljazeera.com/features/2026/2/18/tested-on-palestinians-epstein-israels-barak-pushed-spy-tech-in-nigeria?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00823609101265419,
-      "chg5d": 0.040297985894910744,
-      "chg1m": 0.12447847810037259
-    },
-    {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.45,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Iranian families mark protest killings as schools observe strikes",
@@ -49,14 +18,6 @@
         {
           "title": "Israel kills two in Gaza, blocks thousands from medical exit through Rafah",
           "url": "https://www.aljazeera.com/news/2026/2/18/israel-kills-two-in-gaza-blocks-thousands-from-medical-exit-through-rafah?traffic_source=rss"
-        },
-        {
-          "title": "Israeli minister wants to cancel ‘damned’ Oslo Accords",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-minister-wants-to-cancel-damned-oslo-accords?traffic_source=rss"
-        },
-        {
-          "title": "Tested on Palestinians: Epstein, Israel’s Barak pushed spy tech in Nigeria",
-          "url": "https://www.aljazeera.com/features/2026/2/18/tested-on-palestinians-epstein-israels-barak-pushed-spy-tech-in-nigeria?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,9 +26,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.45,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
           "title": "Iranian families mark protest killings as schools observe strikes",
@@ -80,19 +41,34 @@
         {
           "title": "Israel kills two in Gaza, blocks thousands from medical exit through Rafah",
           "url": "https://www.aljazeera.com/news/2026/2/18/israel-kills-two-in-gaza-blocks-thousands-from-medical-exit-through-rafah?traffic_source=rss"
-        },
-        {
-          "title": "Israeli minister wants to cancel ‘damned’ Oslo Accords",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-minister-wants-to-cancel-damned-oslo-accords?traffic_source=rss"
-        },
-        {
-          "title": "Tested on Palestinians: Epstein, Israel’s Barak pushed spy tech in Nigeria",
-          "url": "https://www.aljazeera.com/features/2026/2/18/tested-on-palestinians-epstein-israels-barak-pushed-spy-tech-in-nigeria?traffic_source=rss"
         }
       ],
-      "chg1d": 0.017953488372093086,
-      "chg5d": 0.021183277342291997,
-      "chg1m": 0.1473055147829735
+      "chg1d": 0.019162790697674438,
+      "chg5d": 0.02239641657334832,
+      "chg1m": 0.1486684839589013
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Iranian families mark protest killings as schools observe strikes",
+          "url": "https://www.aljazeera.com/news/2026/2/18/iranian-families-mark-protest-killings-as-schools-observe-strikes?traffic_source=rss"
+        },
+        {
+          "title": "Pro-Palestine activists acquitted of burglary at Israeli arms site in UK",
+          "url": "https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills two in Gaza, blocks thousands from medical exit through Rafah",
+          "url": "https://www.aljazeera.com/news/2026/2/18/israel-kills-two-in-gaza-blocks-thousands-from-medical-exit-through-rafah?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0003540749407307868,
+      "chg5d": 0.03216532181205922,
+      "chg1m": 0.115687722129698
     }
   ]
 }
