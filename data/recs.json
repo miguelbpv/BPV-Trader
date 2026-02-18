@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-18T15:42:38.610732Z",
+  "generated_at": "2026-02-18T18:41:10.317061Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.46,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iranian families mark protest killings as schools observe strikes",
+          "url": "https://www.aljazeera.com/news/2026/2/18/iranian-families-mark-protest-killings-as-schools-observe-strikes?traffic_source=rss"
+        },
         {
           "title": "Pro-Palestine activists acquitted of burglary at Israeli arms site in UK",
           "url": "https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss"
@@ -22,22 +26,22 @@
         {
           "title": "Tested on Palestinians: Epstein, Israel’s Barak pushed spy tech in Nigeria",
           "url": "https://www.aljazeera.com/features/2026/2/18/tested-on-palestinians-epstein-israels-barak-pushed-spy-tech-in-nigeria?traffic_source=rss"
-        },
-        {
-          "title": "Video: War crimes complaint against Israeli sniper filed in Chile",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/video-war-crimes-complaint-against-israeli-sniper-filed-in-chile?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01004651162790696,
-      "chg5d": 0.013251213139231072,
-      "chg1m": 0.13839379324806042
+      "chg1d": 0.00823609101265419,
+      "chg5d": 0.040297985894910744,
+      "chg1m": 0.12447847810037259
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.46,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iranian families mark protest killings as schools observe strikes",
+          "url": "https://www.aljazeera.com/news/2026/2/18/iranian-families-mark-protest-killings-as-schools-observe-strikes?traffic_source=rss"
+        },
         {
           "title": "Pro-Palestine activists acquitted of burglary at Israeli arms site in UK",
           "url": "https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Tested on Palestinians: Epstein, Israel’s Barak pushed spy tech in Nigeria",
           "url": "https://www.aljazeera.com/features/2026/2/18/tested-on-palestinians-epstein-israels-barak-pushed-spy-tech-in-nigeria?traffic_source=rss"
-        },
-        {
-          "title": "Video: War crimes complaint against Israeli sniper filed in Chile",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/video-war-crimes-complaint-against-israeli-sniper-filed-in-chile?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.46,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iranian families mark protest killings as schools observe strikes",
+          "url": "https://www.aljazeera.com/news/2026/2/18/iranian-families-mark-protest-killings-as-schools-observe-strikes?traffic_source=rss"
+        },
         {
           "title": "Pro-Palestine activists acquitted of burglary at Israeli arms site in UK",
           "url": "https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss"
@@ -84,15 +88,11 @@
         {
           "title": "Tested on Palestinians: Epstein, Israel’s Barak pushed spy tech in Nigeria",
           "url": "https://www.aljazeera.com/features/2026/2/18/tested-on-palestinians-epstein-israels-barak-pushed-spy-tech-in-nigeria?traffic_source=rss"
-        },
-        {
-          "title": "Video: War crimes complaint against Israeli sniper filed in Chile",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/video-war-crimes-complaint-against-israeli-sniper-filed-in-chile?traffic_source=rss"
         }
       ],
-      "chg1d": 0.012100126235413672,
-      "chg5d": 0.04428489738865257,
-      "chg1m": 0.12878800885943395
+      "chg1d": 0.017953488372093086,
+      "chg5d": 0.021183277342291997,
+      "chg1m": 0.1473055147829735
     }
   ]
 }
