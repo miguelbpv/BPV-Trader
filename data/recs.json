@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-17T21:27:07.571687Z",
+  "generated_at": "2026-02-18T01:22:40.693869Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.47,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US and Iran reach ‘guiding principles’ in Geneva nuclear talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/us-and-iran-reach-guiding-principles-in-geneva-nuclear-talks?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni Americans feel ‘betrayed’ as Trump revokes immigration protections",
-          "url": "https://www.aljazeera.com/news/2026/2/17/yemeni-americans-feel-betrayed-as-trump-revokes-immigration-protections?traffic_source=rss"
-        },
-        {
-          "title": "Why Israel’s annexation threatens Jordan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/why-israels-annexation-threatens-jordan?traffic_source=rss"
-        },
-        {
-          "title": "‘I’ve heard nothing but great things,’ LeBron James says of Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/ive-heard-nothing-but-great-things-lebron-james-says-of-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Khamenei maintains tough rhetoric with US despite nuclear talks",
-          "url": "https://www.aljazeera.com/news/2026/2/17/irans-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010855565777368967,
-      "chg5d": 0.002237136465324337,
-      "chg1m": 0.12917454316320098
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.47,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hamas: Trump’s ‘Board of Peace’ must stop Israel’s killing in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/17/hamas-trumps-board-of-peace-must-stop-israels-killing-in-gaza?traffic_source=rss"
+        },
         {
           "title": "US and Iran reach ‘guiding principles’ in Geneva nuclear talks",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/us-and-iran-reach-guiding-principles-in-geneva-nuclear-talks?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "‘I’ve heard nothing but great things,’ LeBron James says of Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/ive-heard-nothing-but-great-things-lebron-james-says-of-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Khamenei maintains tough rhetoric with US despite nuclear talks",
-          "url": "https://www.aljazeera.com/news/2026/2/17/irans-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.47,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hamas: Trump’s ‘Board of Peace’ must stop Israel’s killing in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/17/hamas-trumps-board-of-peace-must-stop-israels-killing-in-gaza?traffic_source=rss"
+        },
         {
           "title": "US and Iran reach ‘guiding principles’ in Geneva nuclear talks",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/us-and-iran-reach-guiding-principles-in-geneva-nuclear-talks?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "‘I’ve heard nothing but great things,’ LeBron James says of Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/ive-heard-nothing-but-great-things-lebron-james-says-of-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010855565777368967,
+      "chg5d": 0.002237136465324337,
+      "chg1m": 0.12917454316320098
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Hamas: Trump’s ‘Board of Peace’ must stop Israel’s killing in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/17/hamas-trumps-board-of-peace-must-stop-israels-killing-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Iran’s Khamenei maintains tough rhetoric with US despite nuclear talks",
-          "url": "https://www.aljazeera.com/news/2026/2/17/irans-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks?traffic_source=rss"
+          "title": "US and Iran reach ‘guiding principles’ in Geneva nuclear talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/us-and-iran-reach-guiding-principles-in-geneva-nuclear-talks?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni Americans feel ‘betrayed’ as Trump revokes immigration protections",
+          "url": "https://www.aljazeera.com/news/2026/2/17/yemeni-americans-feel-betrayed-as-trump-revokes-immigration-protections?traffic_source=rss"
+        },
+        {
+          "title": "Why Israel’s annexation threatens Jordan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/why-israels-annexation-threatens-jordan?traffic_source=rss"
+        },
+        {
+          "title": "‘I’ve heard nothing but great things,’ LeBron James says of Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/ive-heard-nothing-but-great-things-lebron-james-says-of-israel?traffic_source=rss"
         }
       ],
       "chg1d": -0.004597137515706886,
