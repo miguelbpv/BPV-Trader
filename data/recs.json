@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-02-18T21:28:21.139627Z",
+  "generated_at": "2026-02-19T01:21:44.716698Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "acao": "comprar",
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "White House says Iran would be ‘wise’ to take deal amid military buildup",
+          "url": "https://www.aljazeera.com/news/2026/2/18/white-house-says-iran-would-be-wise-to-take-deal-amid-military-buildup?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army says Ramadan Kareem while oppressing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-army-says-ramadan-kareem-while-oppressing-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Diplomats slam Israel’s Gaza ‘ceasefire’ violations, West Bank push at UNSC",
+          "url": "https://www.aljazeera.com/news/2026/2/18/unsc-moves-gaza-meeting-to-avoid-clash-with-trumps-board-of-peace?traffic_source=rss"
+        },
         {
           "title": "Iranian families mark protest killings as schools observe strikes",
           "url": "https://www.aljazeera.com/news/2026/2/18/iranian-families-mark-protest-killings-as-schools-observe-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Pro-Palestine activists acquitted of burglary at Israeli arms site in UK",
-          "url": "https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two in Gaza, blocks thousands from medical exit through Rafah",
-          "url": "https://www.aljazeera.com/news/2026/2/18/israel-kills-two-in-gaza-blocks-thousands-from-medical-exit-through-rafah?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -25,50 +29,58 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Iranian families mark protest killings as schools observe strikes",
-          "url": "https://www.aljazeera.com/news/2026/2/18/iranian-families-mark-protest-killings-as-schools-observe-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Pro-Palestine activists acquitted of burglary at Israeli arms site in UK",
-          "url": "https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two in Gaza, blocks thousands from medical exit through Rafah",
-          "url": "https://www.aljazeera.com/news/2026/2/18/israel-kills-two-in-gaza-blocks-thousands-from-medical-exit-through-rafah?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019162790697674438,
-      "chg5d": 0.02239641657334832,
-      "chg1m": 0.1486684839589013
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "acao": "comprar",
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "White House says Iran would be ‘wise’ to take deal amid military buildup",
+          "url": "https://www.aljazeera.com/news/2026/2/18/white-house-says-iran-would-be-wise-to-take-deal-amid-military-buildup?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army says Ramadan Kareem while oppressing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-army-says-ramadan-kareem-while-oppressing-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Diplomats slam Israel’s Gaza ‘ceasefire’ violations, West Bank push at UNSC",
+          "url": "https://www.aljazeera.com/news/2026/2/18/unsc-moves-gaza-meeting-to-avoid-clash-with-trumps-board-of-peace?traffic_source=rss"
+        },
         {
           "title": "Iranian families mark protest killings as schools observe strikes",
           "url": "https://www.aljazeera.com/news/2026/2/18/iranian-families-mark-protest-killings-as-schools-observe-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Pro-Palestine activists acquitted of burglary at Israeli arms site in UK",
-          "url": "https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills two in Gaza, blocks thousands from medical exit through Rafah",
-          "url": "https://www.aljazeera.com/news/2026/2/18/israel-kills-two-in-gaza-blocks-thousands-from-medical-exit-through-rafah?traffic_source=rss"
         }
       ],
       "chg1d": 0.0003540749407307868,
       "chg5d": 0.03216532181205922,
       "chg1m": 0.115687722129698
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.71,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "White House says Iran would be ‘wise’ to take deal amid military buildup",
+          "url": "https://www.aljazeera.com/news/2026/2/18/white-house-says-iran-would-be-wise-to-take-deal-amid-military-buildup?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army says Ramadan Kareem while oppressing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-army-says-ramadan-kareem-while-oppressing-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Diplomats slam Israel’s Gaza ‘ceasefire’ violations, West Bank push at UNSC",
+          "url": "https://www.aljazeera.com/news/2026/2/18/unsc-moves-gaza-meeting-to-avoid-clash-with-trumps-board-of-peace?traffic_source=rss"
+        },
+        {
+          "title": "Iranian families mark protest killings as schools observe strikes",
+          "url": "https://www.aljazeera.com/news/2026/2/18/iranian-families-mark-protest-killings-as-schools-observe-strikes?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019162790697674438,
+      "chg5d": 0.02239641657334832,
+      "chg1m": 0.1486684839589013
     }
   ]
 }
