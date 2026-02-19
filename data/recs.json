@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-02-19T15:40:11.703043Z",
+  "generated_at": "2026-02-19T18:40:43.375303Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Jordan-Israel relationship ‘at its worst’ after West Bank plans",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/jordan-israel-relationship-at-its-worst-after-west-bank-plans?traffic_source=rss"
-        },
-        {
-          "title": "UN says Israel is stoking ‘ethnic cleansing’ fears in Gaza, West Bank",
-          "url": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel installed security at Epstein’s Manhattan apartment for ex-PM Barak",
-          "url": "https://www.aljazeera.com/news/2026/2/19/israel-installed-security-at-epsteins-manhattan-apartment-for-ex-pm-barak?traffic_source=rss"
-        },
-        {
-          "title": "Israeli raids in occupied West Bank at start of Ramadan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/israeli-raids-in-occupied-west-bank-at-start-of-ramadan?traffic_source=rss"
-        },
-        {
-          "title": "Director rejects award over Israel’s genocidal war in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/2/19/director-rejects-berlinale-award-over-israels-genocidal-war-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010222709017889782,
-      "chg5d": 0.0065478355765734185,
-      "chg1m": 0.16260504201680676
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 5.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump suggests Iran has 10 days to reach agreement with US",
+          "url": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Trump praises ‘magnificent’ B-2 bombers that struck Iran in 2025",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/trump-praises-magnificent-b-2-bombers-that-struck-iran-in-2025?traffic_source=rss"
+        },
         {
           "title": "Jordan-Israel relationship ‘at its worst’ after West Bank plans",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/jordan-israel-relationship-at-its-worst-after-west-bank-plans?traffic_source=rss"
@@ -47,16 +24,8 @@
           "url": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss"
         },
         {
-          "title": "Israel installed security at Epstein’s Manhattan apartment for ex-PM Barak",
-          "url": "https://www.aljazeera.com/news/2026/2/19/israel-installed-security-at-epsteins-manhattan-apartment-for-ex-pm-barak?traffic_source=rss"
-        },
-        {
-          "title": "Israeli raids in occupied West Bank at start of Ramadan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/israeli-raids-in-occupied-west-bank-at-start-of-ramadan?traffic_source=rss"
-        },
-        {
-          "title": "Director rejects award over Israel’s genocidal war in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/2/19/director-rejects-berlinale-award-over-israels-genocidal-war-in-gaza?traffic_source=rss"
+          "title": "Board of Peace live: Trump says war in Gaza ‘over’ despite Israeli attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/trumps-board-of-peace-live-representatives-converge-for-inaugural-meeting?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.71,
+      "score": 5.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump suggests Iran has 10 days to reach agreement with US",
+          "url": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Trump praises ‘magnificent’ B-2 bombers that struck Iran in 2025",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/trump-praises-magnificent-b-2-bombers-that-struck-iran-in-2025?traffic_source=rss"
+        },
         {
           "title": "Jordan-Israel relationship ‘at its worst’ after West Bank plans",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/jordan-israel-relationship-at-its-worst-after-west-bank-plans?traffic_source=rss"
@@ -78,21 +55,44 @@
           "url": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss"
         },
         {
-          "title": "Israel installed security at Epstein’s Manhattan apartment for ex-PM Barak",
-          "url": "https://www.aljazeera.com/news/2026/2/19/israel-installed-security-at-epsteins-manhattan-apartment-for-ex-pm-barak?traffic_source=rss"
-        },
-        {
-          "title": "Israeli raids in occupied West Bank at start of Ramadan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/israeli-raids-in-occupied-west-bank-at-start-of-ramadan?traffic_source=rss"
-        },
-        {
-          "title": "Director rejects award over Israel’s genocidal war in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/2/19/director-rejects-berlinale-award-over-israels-genocidal-war-in-gaza?traffic_source=rss"
+          "title": "Board of Peace live: Trump says war in Gaza ‘over’ despite Israeli attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/trumps-board-of-peace-live-representatives-converge-for-inaugural-meeting?traffic_source=rss"
         }
       ],
-      "chg1d": 0.021206198735014985,
-      "chg5d": 0.05549546683632891,
-      "chg1m": 0.15194597784952973
+      "chg1d": 0.005841548010222714,
+      "chg5d": 0.002182611858857849,
+      "chg1m": 0.15756302521008403
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.17,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump suggests Iran has 10 days to reach agreement with US",
+          "url": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Trump praises ‘magnificent’ B-2 bombers that struck Iran in 2025",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/trump-praises-magnificent-b-2-bombers-that-struck-iran-in-2025?traffic_source=rss"
+        },
+        {
+          "title": "Jordan-Israel relationship ‘at its worst’ after West Bank plans",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/jordan-israel-relationship-at-its-worst-after-west-bank-plans?traffic_source=rss"
+        },
+        {
+          "title": "UN says Israel is stoking ‘ethnic cleansing’ fears in Gaza, West Bank",
+          "url": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Board of Peace live: Trump says war in Gaza ‘over’ despite Israeli attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/trumps-board-of-peace-live-representatives-converge-for-inaugural-meeting?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019651898247180093,
+      "chg5d": 0.05388897725465245,
+      "chg1m": 0.1501926882616396
     }
   ]
 }
