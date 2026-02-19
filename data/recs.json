@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-19T04:47:23.353580Z",
+  "generated_at": "2026-02-19T06:50:47.229678Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Houthi threats and US-Iran conflict escalate Ramadan fears in Yemen",
+          "url": "https://www.aljazeera.com/news/2026/2/19/houthi-threats-and-us-iran-conflict-escalate-ramadan-fears-in-yemen?traffic_source=rss"
+        },
         {
           "title": "Young Palestinian shot, killed by Israeli settlers northeast of Jerusalem",
           "url": "https://www.aljazeera.com/news/2026/2/19/young-palestinian-shot-killed-by-israeli-settlers-northeast-of-jerusalem?traffic_source=rss"
@@ -18,10 +22,33 @@
         {
           "title": "Israeli army says Ramadan Kareem while oppressing Palestinians",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-army-says-ramadan-kareem-while-oppressing-palestinians?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019162790697674438,
+      "chg5d": 0.02239641657334832,
+      "chg1m": 0.1486684839589013
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Houthi threats and US-Iran conflict escalate Ramadan fears in Yemen",
+          "url": "https://www.aljazeera.com/news/2026/2/19/houthi-threats-and-us-iran-conflict-escalate-ramadan-fears-in-yemen?traffic_source=rss"
         },
         {
-          "title": "Diplomats slam Israel’s Gaza ‘ceasefire’ violations, West Bank push at UNSC",
-          "url": "https://www.aljazeera.com/news/2026/2/18/unsc-moves-gaza-meeting-to-avoid-clash-with-trumps-board-of-peace?traffic_source=rss"
+          "title": "Young Palestinian shot, killed by Israeli settlers northeast of Jerusalem",
+          "url": "https://www.aljazeera.com/news/2026/2/19/young-palestinian-shot-killed-by-israeli-settlers-northeast-of-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "US renews threat of military action as Iran, Russia announce naval drills",
+          "url": "https://www.aljazeera.com/news/2026/2/18/white-house-says-iran-would-be-wise-to-take-deal-amid-military-buildup?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army says Ramadan Kareem while oppressing Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-army-says-ramadan-kareem-while-oppressing-palestinians?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,9 +58,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Houthi threats and US-Iran conflict escalate Ramadan fears in Yemen",
+          "url": "https://www.aljazeera.com/news/2026/2/19/houthi-threats-and-us-iran-conflict-escalate-ramadan-fears-in-yemen?traffic_source=rss"
+        },
         {
           "title": "Young Palestinian shot, killed by Israeli settlers northeast of Jerusalem",
           "url": "https://www.aljazeera.com/news/2026/2/19/young-palestinian-shot-killed-by-israeli-settlers-northeast-of-jerusalem?traffic_source=rss"
@@ -45,42 +76,11 @@
         {
           "title": "Israeli army says Ramadan Kareem while oppressing Palestinians",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-army-says-ramadan-kareem-while-oppressing-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Diplomats slam Israel’s Gaza ‘ceasefire’ violations, West Bank push at UNSC",
-          "url": "https://www.aljazeera.com/news/2026/2/18/unsc-moves-gaza-meeting-to-avoid-clash-with-trumps-board-of-peace?traffic_source=rss"
         }
       ],
       "chg1d": 0.0003540749407307868,
       "chg5d": 0.03216532181205922,
       "chg1m": 0.115687722129698
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Young Palestinian shot, killed by Israeli settlers northeast of Jerusalem",
-          "url": "https://www.aljazeera.com/news/2026/2/19/young-palestinian-shot-killed-by-israeli-settlers-northeast-of-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "US renews threat of military action as Iran, Russia announce naval drills",
-          "url": "https://www.aljazeera.com/news/2026/2/18/white-house-says-iran-would-be-wise-to-take-deal-amid-military-buildup?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army says Ramadan Kareem while oppressing Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-army-says-ramadan-kareem-while-oppressing-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Diplomats slam Israel’s Gaza ‘ceasefire’ violations, West Bank push at UNSC",
-          "url": "https://www.aljazeera.com/news/2026/2/18/unsc-moves-gaza-meeting-to-avoid-clash-with-trumps-board-of-peace?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.019162790697674438,
-      "chg5d": 0.02239641657334832,
-      "chg1m": 0.1486684839589013
     }
   ]
 }
