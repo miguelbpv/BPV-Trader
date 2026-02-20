@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-02-19T21:24:45.813418Z",
+  "generated_at": "2026-02-20T01:17:44.749981Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.18,
-      "confianca": 90,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Trump suggests Iran has 10 days to reach agreement with US",
+          "title": "Trump suggests Iran has 10 to 15 days to reach agreement with US",
           "url": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us?traffic_source=rss"
         },
         {
@@ -18,14 +18,29 @@
         {
           "title": "Jordan-Israel relationship ‘at its worst’ after West Bank plans",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/jordan-israel-relationship-at-its-worst-after-west-bank-plans?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00730193501277836,
+      "chg5d": 0.0036376864314296626,
+      "chg1m": 0.15924369747899156
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Trump suggests Iran has 10 to 15 days to reach agreement with US",
+          "url": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us?traffic_source=rss"
         },
         {
-          "title": "UN says Israel is stoking ‘ethnic cleansing’ fears in Gaza, West Bank",
-          "url": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss"
+          "title": "Trump praises ‘magnificent’ B-2 bombers that struck Iran in 2025",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/trump-praises-magnificent-b-2-bombers-that-struck-iran-in-2025?traffic_source=rss"
         },
         {
-          "title": "Board of Peace live: Trump says war in Gaza ‘over’ despite Israeli attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/trumps-board-of-peace-live-representatives-converge-for-inaugural-meeting?traffic_source=rss"
+          "title": "Jordan-Israel relationship ‘at its worst’ after West Bank plans",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/jordan-israel-relationship-at-its-worst-after-west-bank-plans?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -34,12 +49,12 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.18,
-      "confianca": 90,
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Trump suggests Iran has 10 days to reach agreement with US",
+          "title": "Trump suggests Iran has 10 to 15 days to reach agreement with US",
           "url": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us?traffic_source=rss"
         },
         {
@@ -49,50 +64,11 @@
         {
           "title": "Jordan-Israel relationship ‘at its worst’ after West Bank plans",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/jordan-israel-relationship-at-its-worst-after-west-bank-plans?traffic_source=rss"
-        },
-        {
-          "title": "UN says Israel is stoking ‘ethnic cleansing’ fears in Gaza, West Bank",
-          "url": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Board of Peace live: Trump says war in Gaza ‘over’ despite Israeli attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/trumps-board-of-peace-live-representatives-converge-for-inaugural-meeting?traffic_source=rss"
         }
       ],
       "chg1d": 0.025699819947369303,
       "chg5d": 0.06013997136949251,
       "chg1m": 0.15701489428184573
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.18,
-      "confianca": 90,
-      "razoes": [
-        {
-          "title": "Trump suggests Iran has 10 days to reach agreement with US",
-          "url": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us?traffic_source=rss"
-        },
-        {
-          "title": "Trump praises ‘magnificent’ B-2 bombers that struck Iran in 2025",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/trump-praises-magnificent-b-2-bombers-that-struck-iran-in-2025?traffic_source=rss"
-        },
-        {
-          "title": "Jordan-Israel relationship ‘at its worst’ after West Bank plans",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/jordan-israel-relationship-at-its-worst-after-west-bank-plans?traffic_source=rss"
-        },
-        {
-          "title": "UN says Israel is stoking ‘ethnic cleansing’ fears in Gaza, West Bank",
-          "url": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Board of Peace live: Trump says war in Gaza ‘over’ despite Israeli attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/trumps-board-of-peace-live-representatives-converge-for-inaugural-meeting?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00730193501277836,
-      "chg5d": 0.0036376864314296626,
-      "chg1m": 0.15924369747899156
     }
   ]
 }
