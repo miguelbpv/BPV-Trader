@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-02-20T15:31:07.400186Z",
+  "generated_at": "2026-02-20T18:34:53.796276Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.65,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli forces harass Al Jazeera reporter, journalists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/israeli-forces-harass-al-jazeera-reporter-journalists?traffic_source=rss"
-        },
-        {
-          "title": "No Ramadan joy, respite for families in Gaza City destroyed by Israel",
-          "url": "https://www.aljazeera.com/news/2026/2/20/no-joy-no-respite-during-ramadan-for-families-in-gaza-city-destroyed-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Tucker Carlson says passport seized, staff interrogated at Israeli airport",
-          "url": "https://www.aljazeera.com/news/2026/2/20/tucker-carlson-says-passport-seized-staff-interrogated-at-israeli-airport?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian-American killed by Israeli settlers in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/palestinian-american-killed-by-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel blocks Palestinians from attending Ramadan Friday prayers at Al-Aqsa",
-          "url": "https://www.aljazeera.com/news/2026/2/20/israel-blocks-palestinians-from-first-friday-prayers-of-ramadan-at-al-aqsa?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.007973903588256573,
-      "chg5d": 0.014079288625416917,
-      "chg1m": 0.1228717948717949
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.65,
+      "score": 4.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Inside Israel’s plan to turn West Bank land into ‘state property’",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-pal_wblandregistration_av_v3-1-180226?traffic_source=rss"
+        },
+        {
+          "title": "Iran says US military build-up ‘unnecessary and unhelpful’, deal achievable",
+          "url": "https://www.aljazeera.com/news/2026/2/20/iran-says-us-military-build-up-unnecessary-and-unhelpful-deal-achievable?traffic_source=rss"
+        },
         {
           "title": "Israeli forces harass Al Jazeera reporter, journalists",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/israeli-forces-harass-al-jazeera-reporter-journalists?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Tucker Carlson says passport seized, staff interrogated at Israeli airport",
           "url": "https://www.aljazeera.com/news/2026/2/20/tucker-carlson-says-passport-seized-staff-interrogated-at-israeli-airport?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian-American killed by Israeli settlers in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/palestinian-american-killed-by-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel blocks Palestinians from attending Ramadan Friday prayers at Al-Aqsa",
-          "url": "https://www.aljazeera.com/news/2026/2/20/israel-blocks-palestinians-from-first-friday-prayers-of-ramadan-at-al-aqsa?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.65,
+      "score": 4.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Inside Israel’s plan to turn West Bank land into ‘state property’",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-pal_wblandregistration_av_v3-1-180226?traffic_source=rss"
+        },
+        {
+          "title": "Iran says US military build-up ‘unnecessary and unhelpful’, deal achievable",
+          "url": "https://www.aljazeera.com/news/2026/2/20/iran-says-us-military-build-up-unnecessary-and-unhelpful-deal-achievable?traffic_source=rss"
+        },
         {
           "title": "Israeli forces harass Al Jazeera reporter, journalists",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/israeli-forces-harass-al-jazeera-reporter-journalists?traffic_source=rss"
@@ -80,19 +57,159 @@
         {
           "title": "Tucker Carlson says passport seized, staff interrogated at Israeli airport",
           "url": "https://www.aljazeera.com/news/2026/2/20/tucker-carlson-says-passport-seized-staff-interrogated-at-israeli-airport?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian-American killed by Israeli settlers in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/palestinian-american-killed-by-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel blocks Palestinians from attending Ramadan Friday prayers at Al-Aqsa",
-          "url": "https://www.aljazeera.com/news/2026/2/20/israel-blocks-palestinians-from-first-friday-prayers-of-ramadan-at-al-aqsa?traffic_source=rss"
         }
       ],
-      "chg1d": -0.014335868929198286,
-      "chg5d": 0.030630814363930302,
-      "chg1m": 0.12064377462770588
+      "chg1d": -0.020202247528169168,
+      "chg5d": 0.02449680749258744,
+      "chg1m": 0.11397403749381632
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.92,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Inside Israel’s plan to turn West Bank land into ‘state property’",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-pal_wblandregistration_av_v3-1-180226?traffic_source=rss"
+        },
+        {
+          "title": "Iran says US military build-up ‘unnecessary and unhelpful’, deal achievable",
+          "url": "https://www.aljazeera.com/news/2026/2/20/iran-says-us-military-build-up-unnecessary-and-unhelpful-deal-achievable?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces harass Al Jazeera reporter, journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/israeli-forces-harass-al-jazeera-reporter-journalists?traffic_source=rss"
+        },
+        {
+          "title": "No Ramadan joy, respite for families in Gaza City destroyed by Israel",
+          "url": "https://www.aljazeera.com/news/2026/2/20/no-joy-no-respite-during-ramadan-for-families-in-gaza-city-destroyed-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "Tucker Carlson says passport seized, staff interrogated at Israeli airport",
+          "url": "https://www.aljazeera.com/news/2026/2/20/tucker-carlson-says-passport-seized-staff-interrogated-at-israeli-airport?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007611453425154072,
+      "chg5d": 0.014449796220822549,
+      "chg1m": 0.12328205128205125
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "Trump tariffs live: US Supreme Court rules against sweeping global tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/20/trump-tariffs-live-us-supreme-court-rules-against-sweeping-global-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "In major blow to Trump, US Supreme Court strikes down his global tariffs",
+          "url": "https://www.aljazeera.com/news/2026/2/20/us-supreme-court-strikes-down-trumps-global-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005730226947146128,
+      "chg5d": 0.042946398743309674,
+      "chg1m": 0.07881831349396
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "Trump tariffs live: US Supreme Court rules against sweeping global tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/20/trump-tariffs-live-us-supreme-court-rules-against-sweeping-global-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "In major blow to Trump, US Supreme Court strikes down his global tariffs",
+          "url": "https://www.aljazeera.com/news/2026/2/20/us-supreme-court-strikes-down-trumps-global-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02658231360470613,
+      "chg5d": 0.005080141265960349,
+      "chg1m": 0.13445970808291433
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "Trump tariffs live: US Supreme Court rules against sweeping global tariffs",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/20/trump-tariffs-live-us-supreme-court-rules-against-sweeping-global-tariffs?traffic_source=rss"
+        },
+        {
+          "title": "In major blow to Trump, US Supreme Court strikes down his global tariffs",
+          "url": "https://www.aljazeera.com/news/2026/2/20/us-supreme-court-strikes-down-trumps-global-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0049600944244605535,
+      "chg5d": 0.01736842105263163,
+      "chg1m": 0.027187338427069663
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Senegal football federation denounces verdict in Morocco against fans",
+          "url": "https://www.aljazeera.com/sports/2026/2/20/senegal-football-federation-denounces-verdict-in-morocco-against-fans?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Senegal football federation denounces verdict in Morocco against fans",
+          "url": "https://www.aljazeera.com/sports/2026/2/20/senegal-football-federation-denounces-verdict-in-morocco-against-fans?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005319237078893603,
+      "chg5d": 0.010055940330314272,
+      "chg1m": -0.015577334977607618
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Senegal football federation denounces verdict in Morocco against fans",
+          "url": "https://www.aljazeera.com/sports/2026/2/20/senegal-football-federation-denounces-verdict-in-morocco-against-fans?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0035355306217858215,
+      "chg5d": 0.008263977571300653,
+      "chg1m": 0.0021885030639042895
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Senegal football federation denounces verdict in Morocco against fans",
+          "url": "https://www.aljazeera.com/sports/2026/2/20/senegal-football-federation-denounces-verdict-in-morocco-against-fans?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.003590325018896619,
+      "chg5d": 0.015835709331894723,
+      "chg1m": -0.015459875275402527
     }
   ]
 }
