@@ -1,4 +1,134 @@
 {
-  "generated_at": "2026-02-20T06:44:04.025330Z",
-  "recs": []
+  "generated_at": "2026-02-20T09:32:58.629026Z",
+  "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.49,
+      "confianca": 71,
+      "razoes": [
+        {
+          "title": "Is southern Yemen’s next phase being decided on the ground?",
+          "url": "https://www.aljazeera.com/opinions/2026/2/20/is-southern-yemens-next-phase-being-decided-on-the-ground?traffic_source=rss"
+        },
+        {
+          "title": "One killed, 11 injured in Yemen after security forces disperse STC storming",
+          "url": "https://www.aljazeera.com/news/2026/2/20/one-killed-11-injured-in-yemen-after-security-forces-disperse-stc-storming?traffic_source=rss"
+        },
+        {
+          "title": "Trump gives Iran 10-15 days to make deal, warns ‘bad things will happen’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-gives-iran-10-15-days-to-make-deal-warns-bad-things-will?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.49,
+      "confianca": 71,
+      "razoes": [
+        {
+          "title": "Is southern Yemen’s next phase being decided on the ground?",
+          "url": "https://www.aljazeera.com/opinions/2026/2/20/is-southern-yemens-next-phase-being-decided-on-the-ground?traffic_source=rss"
+        },
+        {
+          "title": "One killed, 11 injured in Yemen after security forces disperse STC storming",
+          "url": "https://www.aljazeera.com/news/2026/2/20/one-killed-11-injured-in-yemen-after-security-forces-disperse-stc-storming?traffic_source=rss"
+        },
+        {
+          "title": "Trump gives Iran 10-15 days to make deal, warns ‘bad things will happen’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-gives-iran-10-15-days-to-make-deal-warns-bad-things-will?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.00730193501277836,
+      "chg5d": 0.0036376864314296626,
+      "chg1m": 0.15924369747899156
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.49,
+      "confianca": 71,
+      "razoes": [
+        {
+          "title": "Is southern Yemen’s next phase being decided on the ground?",
+          "url": "https://www.aljazeera.com/opinions/2026/2/20/is-southern-yemens-next-phase-being-decided-on-the-ground?traffic_source=rss"
+        },
+        {
+          "title": "One killed, 11 injured in Yemen after security forces disperse STC storming",
+          "url": "https://www.aljazeera.com/news/2026/2/20/one-killed-11-injured-in-yemen-after-security-forces-disperse-stc-storming?traffic_source=rss"
+        },
+        {
+          "title": "Trump gives Iran 10-15 days to make deal, warns ‘bad things will happen’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-gives-iran-10-15-days-to-make-deal-warns-bad-things-will?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.025699819947369303,
+      "chg5d": 0.06013997136949251,
+      "chg1m": 0.15701489428184573
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
+          "url": "https://www.aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
+          "url": "https://www.aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0026373690422415385,
+      "chg5d": -0.010809873403086909,
+      "chg1m": 0.010183299389002002
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
+          "url": "https://www.aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.003829709965499491,
+      "chg5d": -0.015723116569620436,
+      "chg1m": -0.007548597177909941
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
+          "url": "https://www.aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0023106935868783423,
+      "chg5d": -0.0013210039630117605,
+      "chg1m": 0.007692893594333303
+    }
+  ]
 }
