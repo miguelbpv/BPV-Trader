@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-02-20T12:38:35.876125Z",
+  "generated_at": "2026-02-20T15:31:07.400186Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.2,
+      "score": 6.65,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces harass Al Jazeera reporter, journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/israeli-forces-harass-al-jazeera-reporter-journalists?traffic_source=rss"
+        },
+        {
+          "title": "No Ramadan joy, respite for families in Gaza City destroyed by Israel",
+          "url": "https://www.aljazeera.com/news/2026/2/20/no-joy-no-respite-during-ramadan-for-families-in-gaza-city-destroyed-by-israel?traffic_source=rss"
+        },
         {
           "title": "Tucker Carlson says passport seized, staff interrogated at Israeli airport",
           "url": "https://www.aljazeera.com/news/2026/2/20/tucker-carlson-says-passport-seized-staff-interrogated-at-israeli-airport?traffic_source=rss"
@@ -18,57 +26,57 @@
         {
           "title": "Israel blocks Palestinians from attending Ramadan Friday prayers at Al-Aqsa",
           "url": "https://www.aljazeera.com/news/2026/2/20/israel-blocks-palestinians-from-first-friday-prayers-of-ramadan-at-al-aqsa?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.007973903588256573,
+      "chg5d": 0.014079288625416917,
+      "chg1m": 0.1228717948717949
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.65,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces harass Al Jazeera reporter, journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/israeli-forces-harass-al-jazeera-reporter-journalists?traffic_source=rss"
         },
         {
-          "title": "Tracking the rapid US military build-up near Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/20/tracking-the-rapid-us-military-build-up-near-iran?traffic_source=rss"
+          "title": "No Ramadan joy, respite for families in Gaza City destroyed by Israel",
+          "url": "https://www.aljazeera.com/news/2026/2/20/no-joy-no-respite-during-ramadan-for-families-in-gaza-city-destroyed-by-israel?traffic_source=rss"
         },
         {
-          "title": "Is southern Yemen’s next phase being decided on the ground?",
-          "url": "https://www.aljazeera.com/opinions/2026/2/20/is-southern-yemens-next-phase-being-decided-on-the-ground?traffic_source=rss"
+          "title": "Tucker Carlson says passport seized, staff interrogated at Israeli airport",
+          "url": "https://www.aljazeera.com/news/2026/2/20/tucker-carlson-says-passport-seized-staff-interrogated-at-israeli-airport?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian-American killed by Israeli settlers in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/palestinian-american-killed-by-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel blocks Palestinians from attending Ramadan Friday prayers at Al-Aqsa",
+          "url": "https://www.aljazeera.com/news/2026/2/20/israel-blocks-palestinians-from-first-friday-prayers-of-ramadan-at-al-aqsa?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.2,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Tucker Carlson says passport seized, staff interrogated at Israeli airport",
-          "url": "https://www.aljazeera.com/news/2026/2/20/tucker-carlson-says-passport-seized-staff-interrogated-at-israeli-airport?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian-American killed by Israeli settlers in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/palestinian-american-killed-by-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel blocks Palestinians from attending Ramadan Friday prayers at Al-Aqsa",
-          "url": "https://www.aljazeera.com/news/2026/2/20/israel-blocks-palestinians-from-first-friday-prayers-of-ramadan-at-al-aqsa?traffic_source=rss"
-        },
-        {
-          "title": "Tracking the rapid US military build-up near Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/20/tracking-the-rapid-us-military-build-up-near-iran?traffic_source=rss"
-        },
-        {
-          "title": "Is southern Yemen’s next phase being decided on the ground?",
-          "url": "https://www.aljazeera.com/opinions/2026/2/20/is-southern-yemens-next-phase-being-decided-on-the-ground?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00730193501277836,
-      "chg5d": 0.0036376864314296626,
-      "chg1m": 0.15924369747899156
     },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.2,
+      "score": 6.65,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces harass Al Jazeera reporter, journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/israeli-forces-harass-al-jazeera-reporter-journalists?traffic_source=rss"
+        },
+        {
+          "title": "No Ramadan joy, respite for families in Gaza City destroyed by Israel",
+          "url": "https://www.aljazeera.com/news/2026/2/20/no-joy-no-respite-during-ramadan-for-families-in-gaza-city-destroyed-by-israel?traffic_source=rss"
+        },
         {
           "title": "Tucker Carlson says passport seized, staff interrogated at Israeli airport",
           "url": "https://www.aljazeera.com/news/2026/2/20/tucker-carlson-says-passport-seized-staff-interrogated-at-israeli-airport?traffic_source=rss"
@@ -80,79 +88,11 @@
         {
           "title": "Israel blocks Palestinians from attending Ramadan Friday prayers at Al-Aqsa",
           "url": "https://www.aljazeera.com/news/2026/2/20/israel-blocks-palestinians-from-first-friday-prayers-of-ramadan-at-al-aqsa?traffic_source=rss"
-        },
-        {
-          "title": "Tracking the rapid US military build-up near Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/20/tracking-the-rapid-us-military-build-up-near-iran?traffic_source=rss"
-        },
-        {
-          "title": "Is southern Yemen’s next phase being decided on the ground?",
-          "url": "https://www.aljazeera.com/opinions/2026/2/20/is-southern-yemens-next-phase-being-decided-on-the-ground?traffic_source=rss"
         }
       ],
-      "chg1d": 0.025699819947369303,
-      "chg5d": 0.06013997136949251,
-      "chg1m": 0.15701489428184573
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
-          "url": "https://www.aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
-          "url": "https://www.aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.003829709965499491,
-      "chg5d": -0.015723116569620436,
-      "chg1m": -0.007548597177909941
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
-          "url": "https://www.aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0026373690422415385,
-      "chg5d": -0.010809873403086909,
-      "chg1m": 0.010183299389002002
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
-          "url": "https://www.aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0023106935868783423,
-      "chg5d": -0.0013210039630117605,
-      "chg1m": 0.007692893594333303
+      "chg1d": -0.014335868929198286,
+      "chg5d": 0.030630814363930302,
+      "chg1m": 0.12064377462770588
     }
   ]
 }
