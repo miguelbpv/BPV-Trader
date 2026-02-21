@@ -1,10 +1,41 @@
 {
-  "generated_at": "2026-02-21T04:23:18.667221Z",
+  "generated_at": "2026-02-21T06:32:05.249098Z",
   "recs": [
+    {
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 5.75,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump, JD Vance vilify ‘lawless’ Supreme Court justices over tariff ruling",
+          "url": "https://www.aljazeera.com/news/2026/2/21/trump-jd-vance-vilify-lawless-supreme-court-justices-over-tariff-ruling?traffic_source=rss"
+        },
+        {
+          "title": "Can Trump still impose tariffs after the Supreme Court ruling?",
+          "url": "https://www.aljazeera.com/economy/2026/2/20/can-trump-still-impose-tariffs-after-the-supreme-court-ruling?traffic_source=rss"
+        },
+        {
+          "title": "Tariff refunds could take years amid US Supreme Court ruling, experts warn",
+          "url": "https://www.aljazeera.com/economy/2026/2/20/tariff-refunds-could-take-years-amid-us-supreme-court-ruling-experts-warn?traffic_source=rss"
+        },
+        {
+          "title": "US President Trump promises new tariffs, slams Supreme Court decision",
+          "url": "https://www.aljazeera.com/news/2026/2/20/us-president-trump-promises-new-tariffs-slams-supreme-court-decision?traffic_source=rss"
+        },
+        {
+          "title": "Trump suggests he won’t refund tariffs after Supreme Court ruling",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-suggests-he-wont-refund-tariffs-after-supreme-court-ruling?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0073067247914566525,
+      "chg5d": 0.0445812335183777,
+      "chg1m": 0.08050937805586396
+    },
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 5.79,
+      "score": 5.75,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "SOXX",
       "acao": "comprar",
-      "score": 5.79,
+      "score": 5.75,
       "confianca": 95,
       "razoes": [
         {
@@ -64,40 +95,9 @@
       "chg1m": 0.032429482392141155
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 5.79,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump, JD Vance vilify ‘lawless’ Supreme Court justices over tariff ruling",
-          "url": "https://www.aljazeera.com/news/2026/2/21/trump-jd-vance-vilify-lawless-supreme-court-justices-over-tariff-ruling?traffic_source=rss"
-        },
-        {
-          "title": "Can Trump still impose tariffs after the Supreme Court ruling?",
-          "url": "https://www.aljazeera.com/economy/2026/2/20/can-trump-still-impose-tariffs-after-the-supreme-court-ruling?traffic_source=rss"
-        },
-        {
-          "title": "Tariff refunds could take years amid US Supreme Court ruling, experts warn",
-          "url": "https://www.aljazeera.com/economy/2026/2/20/tariff-refunds-could-take-years-amid-us-supreme-court-ruling-experts-warn?traffic_source=rss"
-        },
-        {
-          "title": "US President Trump promises new tariffs, slams Supreme Court decision",
-          "url": "https://www.aljazeera.com/news/2026/2/20/us-president-trump-promises-new-tariffs-slams-supreme-court-decision?traffic_source=rss"
-        },
-        {
-          "title": "Trump suggests he won’t refund tariffs after Supreme Court ruling",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-suggests-he-wont-refund-tariffs-after-supreme-court-ruling?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0073067247914566525,
-      "chg5d": 0.0445812335183777,
-      "chg1m": 0.08050937805586396
-    },
-    {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.51,
+      "score": 3.49,
       "confianca": 95,
       "razoes": [
         {
@@ -128,7 +128,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.51,
+      "score": 3.49,
       "confianca": 95,
       "razoes": [
         {
@@ -159,8 +159,8 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
+      "score": 2.16,
+      "confianca": 61,
       "razoes": [
         {
           "title": "US envoy suggests it would be ‘fine’ if Israel expands across Middle East",
@@ -182,66 +182,6 @@
       "chg1d": -0.012377908808570015,
       "chg5d": 0.03267809798723004,
       "chg1m": 0.12286986336420853
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Senegal football federation denounces verdict in Morocco against fans",
-          "url": "https://www.aljazeera.com/sports/2026/2/20/senegal-football-federation-denounces-verdict-in-morocco-against-fans?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Senegal football federation denounces verdict in Morocco against fans",
-          "url": "https://www.aljazeera.com/sports/2026/2/20/senegal-football-federation-denounces-verdict-in-morocco-against-fans?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00884882429946794,
-      "chg5d": 0.013602157698454914,
-      "chg1m": -0.012121113779450944
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Senegal football federation denounces verdict in Morocco against fans",
-          "url": "https://www.aljazeera.com/sports/2026/2/20/senegal-football-federation-denounces-verdict-in-morocco-against-fans?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.007231767180925566,
-      "chg5d": 0.011977630014531638,
-      "chg1m": 0.005879778231689485
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Senegal football federation denounces verdict in Morocco against fans",
-          "url": "https://www.aljazeera.com/sports/2026/2/20/senegal-football-federation-denounces-verdict-in-morocco-against-fans?traffic_source=rss"
-        }
-      ],
-      "chg1d": 3.77928949357177e-05,
-      "chg5d": 0.019534561146644036,
-      "chg1m": -0.011874976660816336
     }
   ]
 }
