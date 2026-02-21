@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-02-21T15:17:10.495893Z",
+  "generated_at": "2026-02-21T18:23:19.310729Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
+      "score": 3.18,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
+          "url": "https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
           "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss"
@@ -22,10 +26,37 @@
         {
           "title": "Videos show aftermath of deadly Israeli attacks in Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/21/videos-show-aftermath-of-deadly-israeli-attacks-in-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00543675244653855,
+      "chg5d": 0.016672841793256867,
+      "chg1m": 0.1257435897435898
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.18,
+      "confianca": 90,
+      "razoes": [
+        {
+          "title": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
+          "url": "https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss"
         },
         {
-          "title": "US envoy suggests it would be ‘fine’ if Israel expands across Middle East",
-          "url": "https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east?traffic_source=rss"
+          "title": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
+          "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss"
+        },
+        {
+          "title": "Israel wants to execute Palestinians and the world will allow it",
+          "url": "https://www.aljazeera.com/opinions/2026/2/21/israel-wants-to-execute-palestinians-and-the-world-will-allow-it?traffic_source=rss"
+        },
+        {
+          "title": "Farmers in Gaza risk Israeli bullets to bring their fields back to life",
+          "url": "https://www.aljazeera.com/features/2026/2/21/farmers-in-gaza-risk-israeli-bullets-to-bring-their-fields-back-to-life?traffic_source=rss"
+        },
+        {
+          "title": "Videos show aftermath of deadly Israeli attacks in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/21/videos-show-aftermath-of-deadly-israeli-attacks-in-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
+      "score": 3.18,
+      "confianca": 90,
       "razoes": [
+        {
+          "title": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
+          "url": "https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss"
+        },
         {
           "title": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
           "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss"
@@ -53,10 +88,6 @@
         {
           "title": "Videos show aftermath of deadly Israeli attacks in Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/21/videos-show-aftermath-of-deadly-israeli-attacks-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "US envoy suggests it would be ‘fine’ if Israel expands across Middle East",
-          "url": "https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east?traffic_source=rss"
         }
       ],
       "chg1d": -0.012377908808570015,
@@ -64,41 +95,10 @@
       "chg1m": 0.12286986336420853
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.42,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss"
-        },
-        {
-          "title": "Israel wants to execute Palestinians and the world will allow it",
-          "url": "https://www.aljazeera.com/opinions/2026/2/21/israel-wants-to-execute-palestinians-and-the-world-will-allow-it?traffic_source=rss"
-        },
-        {
-          "title": "Farmers in Gaza risk Israeli bullets to bring their fields back to life",
-          "url": "https://www.aljazeera.com/features/2026/2/21/farmers-in-gaza-risk-israeli-bullets-to-bring-their-fields-back-to-life?traffic_source=rss"
-        },
-        {
-          "title": "Videos show aftermath of deadly Israeli attacks in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/21/videos-show-aftermath-of-deadly-israeli-attacks-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "US envoy suggests it would be ‘fine’ if Israel expands across Middle East",
-          "url": "https://www.aljazeera.com/news/2026/2/20/us-envoy-suggests-it-would-be-fine-if-israel-expands-across-middle-east?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00543675244653855,
-      "chg5d": 0.016672841793256867,
-      "chg1m": 0.1257435897435898
-    },
-    {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.67,
+      "confianca": 47,
       "razoes": [
         {
           "title": "World reacts as US top court limits Trump’s tariff powers",
@@ -109,15 +109,15 @@
           "url": "https://www.aljazeera.com/news/2026/2/21/trump-jd-vance-vilify-lawless-supreme-court-justices-over-tariff-ruling?traffic_source=rss"
         }
       ],
-      "chg1d": 0.028163933516468367,
-      "chg5d": 0.006628633523499043,
-      "chg1m": 0.13620753097019506
+      "chg1d": 0.010088803956834622,
+      "chg5d": 0.02256045519203416,
+      "chg1m": 0.032429482392141155
     },
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.67,
+      "confianca": 47,
       "razoes": [
         {
           "title": "World reacts as US top court limits Trump’s tariff powers",
@@ -133,10 +133,10 @@
       "chg1m": 0.08050937805586396
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.68,
-      "confianca": 48,
+      "score": 1.67,
+      "confianca": 47,
       "razoes": [
         {
           "title": "World reacts as US top court limits Trump’s tariff powers",
@@ -147,9 +147,9 @@
           "url": "https://www.aljazeera.com/news/2026/2/21/trump-jd-vance-vilify-lawless-supreme-court-justices-over-tariff-ruling?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010088803956834622,
-      "chg5d": 0.02256045519203416,
-      "chg1m": 0.032429482392141155
+      "chg1d": 0.028163933516468367,
+      "chg5d": 0.006628633523499043,
+      "chg1m": 0.13620753097019506
     }
   ]
 }
