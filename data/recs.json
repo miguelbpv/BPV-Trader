@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-02-22T04:44:37.993738Z",
+  "generated_at": "2026-02-22T06:37:16.993845Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.68,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
-          "url": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss"
-        },
-        {
-          "title": "Slovakia threatens to cut electricity to Ukraine over Russian oil spat",
-          "url": "https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
-          "url": "https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss"
-        },
-        {
-          "title": "Israel wants to execute Palestinians and the world will allow it",
-          "url": "https://www.aljazeera.com/opinions/2026/2/21/israel-wants-to-execute-palestinians-and-the-world-will-allow-it?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.68,
+      "score": 3.95,
       "confianca": 95,
       "razoes": [
         {
@@ -64,10 +33,41 @@
       "chg1m": 0.1257435897435898
     },
     {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.95,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
+          "url": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss"
+        },
+        {
+          "title": "Slovakia threatens to cut electricity to Ukraine over Russian oil spat",
+          "url": "https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army kills 2 Palestinians in strikes on Gaza during Ramadan",
+          "url": "https://www.aljazeera.com/news/2026/2/21/israeli-military-kills-two-in-early-ramadan-strikes-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
+          "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss"
+        },
+        {
+          "title": "Israel wants to execute Palestinians and the world will allow it",
+          "url": "https://www.aljazeera.com/opinions/2026/2/21/israel-wants-to-execute-palestinians-and-the-world-will-allow-it?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.35,
-      "confianca": 95,
+      "score": 2.63,
+      "confianca": 75,
       "razoes": [
         {
           "title": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
@@ -84,10 +84,6 @@
         {
           "title": "Israel wants to execute Palestinians and the world will allow it",
           "url": "https://www.aljazeera.com/opinions/2026/2/21/israel-wants-to-execute-palestinians-and-the-world-will-allow-it?traffic_source=rss"
-        },
-        {
-          "title": "Farmers in Gaza risk Israeli bullets to bring their fields back to life",
-          "url": "https://www.aljazeera.com/features/2026/2/21/farmers-in-gaza-risk-israeli-bullets-to-bring-their-fields-back-to-life?traffic_source=rss"
         }
       ],
       "chg1d": -0.012377908808570015,
@@ -97,11 +93,11 @@
     {
       "symbol": "SOXX",
       "acao": "comprar",
-      "score": 2.52,
-      "confianca": 72,
+      "score": 2.51,
+      "confianca": 71,
       "razoes": [
         {
-          "title": "Trump to raise US global tariff from 10 to 15% after Supreme Court ruling",
+          "title": "Trump to raise US global tariff from 10% to 15% after Supreme Court ruling",
           "url": "https://www.aljazeera.com/news/2026/2/22/trump-to-raise-us-global-tariff-from-ten-to-fifteen-percent-after-supreme-court-ruling?traffic_source=rss"
         },
         {
@@ -118,36 +114,13 @@
       "chg1m": 0.032429482392141155
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.52,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "Trump to raise US global tariff from 10 to 15% after Supreme Court ruling",
-          "url": "https://www.aljazeera.com/news/2026/2/22/trump-to-raise-us-global-tariff-from-ten-to-fifteen-percent-after-supreme-court-ruling?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s tariff regime has been ruled unlawful. What are the implications?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/2/21/trumps-tariff-regime-ruled-unlawful-what-are-the-implications?traffic_source=rss"
-        },
-        {
-          "title": "World reacts as US top court limits Trump’s tariff powers",
-          "url": "https://www.aljazeera.com/news/2026/2/21/trump-tariff-reactions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0073067247914566525,
-      "chg5d": 0.0445812335183777,
-      "chg1m": 0.08050937805586396
-    },
-    {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.52,
-      "confianca": 72,
+      "score": 2.51,
+      "confianca": 71,
       "razoes": [
         {
-          "title": "Trump to raise US global tariff from 10 to 15% after Supreme Court ruling",
+          "title": "Trump to raise US global tariff from 10% to 15% after Supreme Court ruling",
           "url": "https://www.aljazeera.com/news/2026/2/22/trump-to-raise-us-global-tariff-from-ten-to-fifteen-percent-after-supreme-court-ruling?traffic_source=rss"
         },
         {
@@ -162,6 +135,29 @@
       "chg1d": 0.028163933516468367,
       "chg5d": 0.006628633523499043,
       "chg1m": 0.13620753097019506
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.51,
+      "confianca": 71,
+      "razoes": [
+        {
+          "title": "Trump to raise US global tariff from 10% to 15% after Supreme Court ruling",
+          "url": "https://www.aljazeera.com/news/2026/2/22/trump-to-raise-us-global-tariff-from-ten-to-fifteen-percent-after-supreme-court-ruling?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s tariff regime has been ruled unlawful. What are the implications?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/21/trumps-tariff-regime-ruled-unlawful-what-are-the-implications?traffic_source=rss"
+        },
+        {
+          "title": "World reacts as US top court limits Trump’s tariff powers",
+          "url": "https://www.aljazeera.com/news/2026/2/21/trump-tariff-reactions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0073067247914566525,
+      "chg5d": 0.0445812335183777,
+      "chg1m": 0.08050937805586396
     }
   ]
 }
