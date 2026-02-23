@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T06:54:55.639037Z",
+  "generated_at": "2026-02-23T09:44:32.320258Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.64,
-      "confianca": 95,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 2.18,
+      "confianca": 62,
       "razoes": [
         {
           "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
@@ -16,16 +16,31 @@
           "url": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss"
         },
         {
-          "title": "Iran hails ‘encouraging signals’ from US ahead of nuclear talks on Thursday",
+          "title": "Iran hails ‘encouraging signals’ from US before nuclear talks on Thursday",
           "url": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 2.18,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
+          "url": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
         },
         {
-          "title": "Iranian students rally as universities reopen after nationwide protests",
-          "url": "https://www.aljazeera.com/news/2026/2/22/iranian-students-rally-as-universities-reopen-after-nationwide-protests?traffic_source=rss"
+          "title": "Netanyahu says Israel will forge regional alliance to rival ‘radical axes’",
+          "url": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss"
         },
         {
-          "title": "US envoy Huckabee tries to deny saying he would support Israel expansionism",
-          "url": "https://www.aljazeera.com/news/2026/2/22/us-envoy-huckabee-tries-to-deny-saying-he-would-support-israel-expansionism?traffic_source=rss"
+          "title": "Iran hails ‘encouraging signals’ from US before nuclear talks on Thursday",
+          "url": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss"
         }
       ],
       "chg1d": -0.012377908808570015,
@@ -34,9 +49,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.64,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 2.18,
+      "confianca": 62,
       "razoes": [
         {
           "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
@@ -47,52 +62,13 @@
           "url": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss"
         },
         {
-          "title": "Iran hails ‘encouraging signals’ from US ahead of nuclear talks on Thursday",
+          "title": "Iran hails ‘encouraging signals’ from US before nuclear talks on Thursday",
           "url": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss"
-        },
-        {
-          "title": "Iranian students rally as universities reopen after nationwide protests",
-          "url": "https://www.aljazeera.com/news/2026/2/22/iranian-students-rally-as-universities-reopen-after-nationwide-protests?traffic_source=rss"
-        },
-        {
-          "title": "US envoy Huckabee tries to deny saying he would support Israel expansionism",
-          "url": "https://www.aljazeera.com/news/2026/2/22/us-envoy-huckabee-tries-to-deny-saying-he-would-support-israel-expansionism?traffic_source=rss"
         }
       ],
       "chg1d": -0.00543675244653855,
       "chg5d": 0.016672841793256867,
       "chg1m": 0.1257435897435898
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.64,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
-          "url": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu says Israel will forge regional alliance to rival ‘radical axes’",
-          "url": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss"
-        },
-        {
-          "title": "Iran hails ‘encouraging signals’ from US ahead of nuclear talks on Thursday",
-          "url": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss"
-        },
-        {
-          "title": "Iranian students rally as universities reopen after nationwide protests",
-          "url": "https://www.aljazeera.com/news/2026/2/22/iranian-students-rally-as-universities-reopen-after-nationwide-protests?traffic_source=rss"
-        },
-        {
-          "title": "US envoy Huckabee tries to deny saying he would support Israel expansionism",
-          "url": "https://www.aljazeera.com/news/2026/2/22/us-envoy-huckabee-tries-to-deny-saying-he-would-support-israel-expansionism?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     },
     {
       "symbol": "SOXX",
