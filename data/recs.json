@@ -1,98 +1,155 @@
 {
-  "generated_at": "2026-02-23T18:52:17.527866Z",
+  "generated_at": "2026-02-23T21:36:38.103662Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.83,
+      "score": 5.16,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Turkish ‘threat’ talked up in Israel as Netanyahu focuses on new alliances",
-          "url": "https://www.aljazeera.com/news/2026/2/23/turkish-threat-talked-up-israel-netanyahu-focuses-new-alliances?traffic_source=rss"
+          "title": "Are the US and Iran moving closer to war?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/23/are-the-us-and-iran-moving-closer-to-war?traffic_source=rss"
         },
         {
-          "title": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
-          "url": "https://www.aljazeera.com/news/2026/2/23/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon?traffic_source=rss"
+          "title": "Slovakia halts emergency power supplies to Ukraine over Russian oil dispute",
+          "url": "https://www.aljazeera.com/news/2026/2/23/slovakia-halts-emergency-power-supplies-to-ukraine-over-russian-oil-dispute?traffic_source=rss"
         },
         {
-          "title": "Israel bans 5 Palestinian media organisations from occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israel-bans-5-palestinian-media-organisations-from-occupied-east-jerusalem?traffic_source=rss"
+          "title": "Israeli settlers vandalise, torch mosque in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israeli-settlers-vandalise-torch-mosque-in-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
-          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
+          "title": "Israeli settlers deface, set fire to West Bank mosque during Ramadan",
+          "url": "https://www.aljazeera.com/news/2026/2/23/israeli-settlers-deface-set-fire-to-west-bank-mosque-during-ramadan?traffic_source=rss"
         },
-        {
-          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
-          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0038265306122449135,
-      "chg5d": 0.013615455381784766,
-      "chg1m": 0.126354528726232
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.83,
-      "confianca": 95,
-      "razoes": [
         {
           "title": "Turkish ‘threat’ talked up in Israel as Netanyahu focuses on new alliances",
           "url": "https://www.aljazeera.com/news/2026/2/23/turkish-threat-talked-up-israel-netanyahu-focuses-new-alliances?traffic_source=rss"
-        },
-        {
-          "title": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
-          "url": "https://www.aljazeera.com/news/2026/2/23/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon?traffic_source=rss"
-        },
-        {
-          "title": "Israel bans 5 Palestinian media organisations from occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israel-bans-5-palestinian-media-organisations-from-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
-          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
-        },
-        {
-          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
-          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
         }
       ],
-      "chg1d": 0.006061434691459316,
-      "chg5d": 0.014818106592295134,
-      "chg1m": 0.11506793958680614
+      "chg1d": 0.004919825072886225,
+      "chg5d": 0.014719411223551006,
+      "chg1m": 0.12758127172357397
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.83,
+      "score": 5.16,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Are the US and Iran moving closer to war?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/23/are-the-us-and-iran-moving-closer-to-war?traffic_source=rss"
+        },
+        {
+          "title": "Slovakia halts emergency power supplies to Ukraine over Russian oil dispute",
+          "url": "https://www.aljazeera.com/news/2026/2/23/slovakia-halts-emergency-power-supplies-to-ukraine-over-russian-oil-dispute?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers vandalise, torch mosque in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israeli-settlers-vandalise-torch-mosque-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers deface, set fire to West Bank mosque during Ramadan",
+          "url": "https://www.aljazeera.com/news/2026/2/23/israeli-settlers-deface-set-fire-to-west-bank-mosque-during-ramadan?traffic_source=rss"
+        },
+        {
           "title": "Turkish ‘threat’ talked up in Israel as Netanyahu focuses on new alliances",
           "url": "https://www.aljazeera.com/news/2026/2/23/turkish-threat-talked-up-israel-netanyahu-focuses-new-alliances?traffic_source=rss"
-        },
-        {
-          "title": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
-          "url": "https://www.aljazeera.com/news/2026/2/23/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon?traffic_source=rss"
-        },
-        {
-          "title": "Israel bans 5 Palestinian media organisations from occupied East Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israel-bans-5-palestinian-media-organisations-from-occupied-east-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
-          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
-        },
-        {
-          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
-          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.07,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Are the US and Iran moving closer to war?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/23/are-the-us-and-iran-moving-closer-to-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers vandalise, torch mosque in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israeli-settlers-vandalise-torch-mosque-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers deface, set fire to West Bank mosque during Ramadan",
+          "url": "https://www.aljazeera.com/news/2026/2/23/israeli-settlers-deface-set-fire-to-west-bank-mosque-during-ramadan?traffic_source=rss"
+        },
+        {
+          "title": "Turkish ‘threat’ talked up in Israel as Netanyahu focuses on new alliances",
+          "url": "https://www.aljazeera.com/news/2026/2/23/turkish-threat-talked-up-israel-netanyahu-focuses-new-alliances?traffic_source=rss"
+        },
+        {
+          "title": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
+          "url": "https://www.aljazeera.com/news/2026/2/23/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0035852094916902343,
+      "chg5d": 0.012320328542094399,
+      "chg1m": 0.1123234160057922
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Trump’s new tariff threats trigger economic uncertainty; trade deals stall",
+          "url": "https://www.aljazeera.com/economy/2026/2/23/trumps-new-tariff-threats-trigger-economic-uncertainty-trade-deals-stall?traffic_source=rss"
+        },
+        {
+          "title": "EU sanctions Russian officials as Hungary blocks funds to Ukraine",
+          "url": "https://www.aljazeera.com/news/2026/2/23/eu-sanctions-russian-officials-as-hungary-blocks-funds-to-ukraine?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.011002388421260417,
+      "chg5d": 0.05626932838526679,
+      "chg1m": 0.06506021505376346
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Trump’s new tariff threats trigger economic uncertainty; trade deals stall",
+          "url": "https://www.aljazeera.com/economy/2026/2/23/trumps-new-tariff-threats-trigger-economic-uncertainty-trade-deals-stall?traffic_source=rss"
+        },
+        {
+          "title": "EU sanctions Russian officials as Hungary blocks funds to Ukraine",
+          "url": "https://www.aljazeera.com/news/2026/2/23/eu-sanctions-russian-officials-as-hungary-blocks-funds-to-ukraine?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0013493819830517621,
+      "chg5d": 0.010044764712304855,
+      "chg1m": 0.13034181507163153
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.96,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Trump’s new tariff threats trigger economic uncertainty; trade deals stall",
+          "url": "https://www.aljazeera.com/economy/2026/2/23/trumps-new-tariff-threats-trigger-economic-uncertainty-trade-deals-stall?traffic_source=rss"
+        },
+        {
+          "title": "EU sanctions Russian officials as Hungary blocks funds to Ukraine",
+          "url": "https://www.aljazeera.com/news/2026/2/23/eu-sanctions-russian-officials-as-hungary-blocks-funds-to-ukraine?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.006426842500625998,
+      "chg5d": 0.006936220605650424,
+      "chg1m": 0.024234949952677283
     }
   ]
 }
