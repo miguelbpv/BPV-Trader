@@ -1,86 +1,98 @@
 {
-  "generated_at": "2026-02-23T12:43:05.712333Z",
+  "generated_at": "2026-02-23T15:38:42.607904Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
-      "razoes": [
-        {
-          "title": "Iran says ready for talks but will defend itself against US aggression",
-          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
-        },
-        {
-          "title": "Gaza child dies after Israel blocks medical evacuation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/gaza-child-dies-after-israel-blocks-medical-evacuation?traffic_source=rss"
-        },
-        {
-          "title": "Gaza child dies waiting for Israeli permission to leave for treatment",
-          "url": "https://www.aljazeera.com/news/2026/2/23/gaza-child-dies-waiting-for-israeli-permission-to-leave-for-treatment?traffic_source=rss"
-        },
-        {
-          "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
-          "url": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.012377908808570015,
-      "chg5d": 0.03267809798723004,
-      "chg1m": 0.12286986336420853
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
-      "razoes": [
-        {
-          "title": "Iran says ready for talks but will defend itself against US aggression",
-          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
-        },
-        {
-          "title": "Gaza child dies after Israel blocks medical evacuation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/gaza-child-dies-after-israel-blocks-medical-evacuation?traffic_source=rss"
-        },
-        {
-          "title": "Gaza child dies waiting for Israeli permission to leave for treatment",
-          "url": "https://www.aljazeera.com/news/2026/2/23/gaza-child-dies-waiting-for-israeli-permission-to-leave-for-treatment?traffic_source=rss"
-        },
-        {
-          "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
-          "url": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00543675244653855,
-      "chg5d": 0.016672841793256867,
-      "chg1m": 0.1257435897435898
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
+      "score": 4.96,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
+          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
+        },
+        {
+          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
+          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
+        },
+        {
+          "title": "Indian protesters want Modi’s Israel visit to be called off",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/indian-protesters-want-modis-israel-visit-to-be-called-off?traffic_source=rss"
+        },
+        {
+          "title": "Why are israel and india getting closer?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/why-are-israel-and-india-getting-closer?traffic_source=rss"
+        },
         {
           "title": "Iran says ready for talks but will defend itself against US aggression",
           "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
-        },
-        {
-          "title": "Gaza child dies after Israel blocks medical evacuation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/gaza-child-dies-after-israel-blocks-medical-evacuation?traffic_source=rss"
-        },
-        {
-          "title": "Gaza child dies waiting for Israeli permission to leave for treatment",
-          "url": "https://www.aljazeera.com/news/2026/2/23/gaza-child-dies-waiting-for-israeli-permission-to-leave-for-treatment?traffic_source=rss"
-        },
-        {
-          "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
-          "url": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.96,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
+          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
+        },
+        {
+          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
+          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
+        },
+        {
+          "title": "Indian protesters want Modi’s Israel visit to be called off",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/indian-protesters-want-modis-israel-visit-to-be-called-off?traffic_source=rss"
+        },
+        {
+          "title": "Why are israel and india getting closer?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/why-are-israel-and-india-getting-closer?traffic_source=rss"
+        },
+        {
+          "title": "Iran says ready for talks but will defend itself against US aggression",
+          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006833090379008746,
+      "chg5d": 0.016651333946642154,
+      "chg1m": 0.12972807196892264
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.96,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
+          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
+        },
+        {
+          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
+          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
+        },
+        {
+          "title": "Indian protesters want Modi’s Israel visit to be called off",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/indian-protesters-want-modis-israel-visit-to-be-called-off?traffic_source=rss"
+        },
+        {
+          "title": "Why are israel and india getting closer?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/why-are-israel-and-india-getting-closer?traffic_source=rss"
+        },
+        {
+          "title": "Iran says ready for talks but will defend itself against US aggression",
+          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0003342144441406546,
+      "chg5d": 0.009041037114223507,
+      "chg1m": 0.10872017645771254
     }
   ]
 }
