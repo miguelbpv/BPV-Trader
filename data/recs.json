@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-23T15:38:42.607904Z",
+  "generated_at": "2026-02-23T18:52:17.527866Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.96,
+      "score": 3.83,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Turkish ‘threat’ talked up in Israel as Netanyahu focuses on new alliances",
+          "url": "https://www.aljazeera.com/news/2026/2/23/turkish-threat-talked-up-israel-netanyahu-focuses-new-alliances?traffic_source=rss"
+        },
+        {
+          "title": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
+          "url": "https://www.aljazeera.com/news/2026/2/23/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon?traffic_source=rss"
+        },
+        {
+          "title": "Israel bans 5 Palestinian media organisations from occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israel-bans-5-palestinian-media-organisations-from-occupied-east-jerusalem?traffic_source=rss"
+        },
         {
           "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
           "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
@@ -14,85 +26,73 @@
         {
           "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
           "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0038265306122449135,
+      "chg5d": 0.013615455381784766,
+      "chg1m": 0.126354528726232
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.83,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Turkish ‘threat’ talked up in Israel as Netanyahu focuses on new alliances",
+          "url": "https://www.aljazeera.com/news/2026/2/23/turkish-threat-talked-up-israel-netanyahu-focuses-new-alliances?traffic_source=rss"
         },
         {
-          "title": "Indian protesters want Modi’s Israel visit to be called off",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/indian-protesters-want-modis-israel-visit-to-be-called-off?traffic_source=rss"
+          "title": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
+          "url": "https://www.aljazeera.com/news/2026/2/23/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon?traffic_source=rss"
         },
         {
-          "title": "Why are israel and india getting closer?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/why-are-israel-and-india-getting-closer?traffic_source=rss"
+          "title": "Israel bans 5 Palestinian media organisations from occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israel-bans-5-palestinian-media-organisations-from-occupied-east-jerusalem?traffic_source=rss"
         },
         {
-          "title": "Iran says ready for talks but will defend itself against US aggression",
-          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
+          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
+          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
+        },
+        {
+          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
+          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.006061434691459316,
+      "chg5d": 0.014818106592295134,
+      "chg1m": 0.11506793958680614
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.83,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Turkish ‘threat’ talked up in Israel as Netanyahu focuses on new alliances",
+          "url": "https://www.aljazeera.com/news/2026/2/23/turkish-threat-talked-up-israel-netanyahu-focuses-new-alliances?traffic_source=rss"
+        },
+        {
+          "title": "Iran banks big on murky oil ‘trustees’ as war with US on the horizon",
+          "url": "https://www.aljazeera.com/news/2026/2/23/iran-banks-big-on-murky-oil-trustees-as-war-with-us-on-the-horizon?traffic_source=rss"
+        },
+        {
+          "title": "Israel bans 5 Palestinian media organisations from occupied East Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israel-bans-5-palestinian-media-organisations-from-occupied-east-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
+          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
+        },
+        {
+          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
+          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.96,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
-          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
-        },
-        {
-          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
-          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
-        },
-        {
-          "title": "Indian protesters want Modi’s Israel visit to be called off",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/indian-protesters-want-modis-israel-visit-to-be-called-off?traffic_source=rss"
-        },
-        {
-          "title": "Why are israel and india getting closer?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/why-are-israel-and-india-getting-closer?traffic_source=rss"
-        },
-        {
-          "title": "Iran says ready for talks but will defend itself against US aggression",
-          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.006833090379008746,
-      "chg5d": 0.016651333946642154,
-      "chg1m": 0.12972807196892264
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.96,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
-          "url": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion?traffic_source=rss"
-        },
-        {
-          "title": "Israel designates five Palestinian news outlets as ‘terrorist’ groups",
-          "url": "https://www.aljazeera.com/news/2026/2/23/israel-designates-five-palestinian-news-outlets-as-terrorist-organisation?traffic_source=rss"
-        },
-        {
-          "title": "Indian protesters want Modi’s Israel visit to be called off",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/indian-protesters-want-modis-israel-visit-to-be-called-off?traffic_source=rss"
-        },
-        {
-          "title": "Why are israel and india getting closer?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/why-are-israel-and-india-getting-closer?traffic_source=rss"
-        },
-        {
-          "title": "Iran says ready for talks but will defend itself against US aggression",
-          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0003342144441406546,
-      "chg5d": 0.009041037114223507,
-      "chg1m": 0.10872017645771254
     }
   ]
 }
