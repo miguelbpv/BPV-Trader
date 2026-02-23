@@ -1,46 +1,27 @@
 {
-  "generated_at": "2026-02-23T09:44:32.320258Z",
+  "generated_at": "2026-02-23T12:43:05.712333Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
-      "razoes": [
-        {
-          "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
-          "url": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu says Israel will forge regional alliance to rival ‘radical axes’",
-          "url": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss"
-        },
-        {
-          "title": "Iran hails ‘encouraging signals’ from US before nuclear talks on Thursday",
-          "url": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
+      "acao": "comprar",
+      "score": 2.73,
+      "confianca": 78,
       "razoes": [
+        {
+          "title": "Iran says ready for talks but will defend itself against US aggression",
+          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
+        },
+        {
+          "title": "Gaza child dies after Israel blocks medical evacuation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/gaza-child-dies-after-israel-blocks-medical-evacuation?traffic_source=rss"
+        },
+        {
+          "title": "Gaza child dies waiting for Israeli permission to leave for treatment",
+          "url": "https://www.aljazeera.com/news/2026/2/23/gaza-child-dies-waiting-for-israeli-permission-to-leave-for-treatment?traffic_source=rss"
+        },
         {
           "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
           "url": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu says Israel will forge regional alliance to rival ‘radical axes’",
-          "url": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss"
-        },
-        {
-          "title": "Iran hails ‘encouraging signals’ from US before nuclear talks on Thursday",
-          "url": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss"
         }
       ],
       "chg1d": -0.012377908808570015,
@@ -49,21 +30,25 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.18,
-      "confianca": 62,
+      "acao": "comprar",
+      "score": 2.73,
+      "confianca": 78,
       "razoes": [
+        {
+          "title": "Iran says ready for talks but will defend itself against US aggression",
+          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
+        },
+        {
+          "title": "Gaza child dies after Israel blocks medical evacuation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/gaza-child-dies-after-israel-blocks-medical-evacuation?traffic_source=rss"
+        },
+        {
+          "title": "Gaza child dies waiting for Israeli permission to leave for treatment",
+          "url": "https://www.aljazeera.com/news/2026/2/23/gaza-child-dies-waiting-for-israeli-permission-to-leave-for-treatment?traffic_source=rss"
+        },
         {
           "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
           "url": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
-        },
-        {
-          "title": "Netanyahu says Israel will forge regional alliance to rival ‘radical axes’",
-          "url": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss"
-        },
-        {
-          "title": "Iran hails ‘encouraging signals’ from US before nuclear talks on Thursday",
-          "url": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss"
         }
       ],
       "chg1d": -0.00543675244653855,
@@ -71,49 +56,31 @@
       "chg1m": 0.1257435897435898
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.73,
+      "confianca": 78,
       "razoes": [
         {
-          "title": "What will Trump’s latest sweeping tariffs mean for the world?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.010088803956834622,
-      "chg5d": 0.02256045519203416,
-      "chg1m": 0.032429482392141155
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "Iran says ready for talks but will defend itself against US aggression",
+          "url": "https://www.aljazeera.com/news/2026/2/23/iran-says-ready-for-talks-but-will-defend-itself-against-us-aggression?traffic_source=rss"
+        },
         {
-          "title": "What will Trump’s latest sweeping tariffs mean for the world?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0073067247914566525,
-      "chg5d": 0.0445812335183777,
-      "chg1m": 0.08050937805586396
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "Gaza child dies after Israel blocks medical evacuation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/gaza-child-dies-after-israel-blocks-medical-evacuation?traffic_source=rss"
+        },
         {
-          "title": "What will Trump’s latest sweeping tariffs mean for the world?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss"
+          "title": "Gaza child dies waiting for Israeli permission to leave for treatment",
+          "url": "https://www.aljazeera.com/news/2026/2/23/gaza-child-dies-waiting-for-israeli-permission-to-leave-for-treatment?traffic_source=rss"
+        },
+        {
+          "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
+          "url": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
         }
       ],
-      "chg1d": 0.028163933516468367,
-      "chg5d": 0.006628633523499043,
-      "chg1m": 0.13620753097019506
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
