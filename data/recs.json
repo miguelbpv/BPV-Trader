@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-02-22T21:16:52.991251Z",
+  "generated_at": "2026-02-23T01:20:16.953914Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.3,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Netanyahu says Israel will forge regional alliance to rival ‘radical axes’",
-          "url": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss"
-        },
-        {
-          "title": "Oman confirms US-Iran talks will take place in Geneva on Thursday",
-          "url": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss"
-        },
-        {
-          "title": "Iranian students rally as universities reopen after nationwide protests",
-          "url": "https://www.aljazeera.com/news/2026/2/22/iranian-students-rally-as-universities-reopen-after-nationwide-protests?traffic_source=rss"
-        },
-        {
-          "title": "US envoy Huckabee tries to deny saying he would support Israel expansionism",
-          "url": "https://www.aljazeera.com/news/2026/2/22/us-envoy-huckabee-tries-to-deny-saying-he-would-support-israel-expansionism?traffic_source=rss"
-        },
-        {
-          "title": "Iran-US tensions: What would blocking Strait of Hormuz mean for oil, LNG?",
-          "url": "https://www.aljazeera.com/news/2026/2/22/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.3,
+      "score": 4.26,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +35,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.3,
+      "score": 4.26,
       "confianca": 95,
       "razoes": [
         {
@@ -95,29 +64,60 @@
       "chg1m": 0.1257435897435898
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.26,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Trump tariff chaos: What does 15% levy mean for trade deals the US signed?",
-          "url": "https://www.aljazeera.com/news/2026/2/22/trump-tariff-chaos-what-does-15-levy-mean-for-trade-deals-the-us-signed?traffic_source=rss"
+          "title": "Netanyahu says Israel will forge regional alliance to rival ‘radical axes’",
+          "url": "https://www.aljazeera.com/news/2026/2/22/netanyahu-says-israel-will-forge-regional-alliance-to-rival-radical-axis?traffic_source=rss"
+        },
+        {
+          "title": "Oman confirms US-Iran talks will take place in Geneva on Thursday",
+          "url": "https://www.aljazeera.com/news/2026/2/22/oman-confirms-us-iran-talks-will-take-place-in-geneva-on-thursday?traffic_source=rss"
+        },
+        {
+          "title": "Iranian students rally as universities reopen after nationwide protests",
+          "url": "https://www.aljazeera.com/news/2026/2/22/iranian-students-rally-as-universities-reopen-after-nationwide-protests?traffic_source=rss"
+        },
+        {
+          "title": "US envoy Huckabee tries to deny saying he would support Israel expansionism",
+          "url": "https://www.aljazeera.com/news/2026/2/22/us-envoy-huckabee-tries-to-deny-saying-he-would-support-israel-expansionism?traffic_source=rss"
+        },
+        {
+          "title": "Iran-US tensions: What would blocking Strait of Hormuz mean for oil, LNG?",
+          "url": "https://www.aljazeera.com/news/2026/2/22/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng?traffic_source=rss"
         }
       ],
-      "chg1d": 0.010088803956834622,
-      "chg5d": 0.02256045519203416,
-      "chg1m": 0.032429482392141155
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "What will Trump’s latest sweeping tariffs mean for the world?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0073067247914566525,
+      "chg5d": 0.0445812335183777,
+      "chg1m": 0.08050937805586396
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump tariff chaos: What does 15% levy mean for trade deals the US signed?",
-          "url": "https://www.aljazeera.com/news/2026/2/22/trump-tariff-chaos-what-does-15-levy-mean-for-trade-deals-the-us-signed?traffic_source=rss"
+          "title": "What will Trump’s latest sweeping tariffs mean for the world?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss"
         }
       ],
       "chg1d": 0.028163933516468367,
@@ -125,19 +125,19 @@
       "chg1m": 0.13620753097019506
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump tariff chaos: What does 15% levy mean for trade deals the US signed?",
-          "url": "https://www.aljazeera.com/news/2026/2/22/trump-tariff-chaos-what-does-15-levy-mean-for-trade-deals-the-us-signed?traffic_source=rss"
+          "title": "What will Trump’s latest sweeping tariffs mean for the world?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0073067247914566525,
-      "chg5d": 0.0445812335183777,
-      "chg1m": 0.08050937805586396
+      "chg1d": 0.010088803956834622,
+      "chg5d": 0.02256045519203416,
+      "chg1m": 0.032429482392141155
     }
   ]
 }
