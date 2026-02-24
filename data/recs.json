@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-24T15:49:19.338569Z",
+  "generated_at": "2026-02-24T18:50:53.984592Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.23,
+      "score": 6.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s opposition leader voices support for ‘broad’ Middle East expansion",
+          "url": "https://www.aljazeera.com/news/2026/2/24/israels-opposition-leader-voices-support-for-broad-middle-east-expansion?traffic_source=rss"
+        },
+        {
+          "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
+          "url": "https://www.aljazeera.com/news/2026/2/24/us-re-asserts-2025-strikes-obliterated-irans-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s government stresses ‘red lines’ as students protest in universities",
+          "url": "https://www.aljazeera.com/news/2026/2/24/irans-government-stresses-red-lines-as-students-protest-in-universities?traffic_source=rss"
+        },
         {
           "title": "Lebanon’s army tells soldiers to act after post comes under Israeli fire",
           "url": "https://www.aljazeera.com/news/2026/2/24/lebanons-army-tells-soldiers-to-act-after-post-comes-under-israeli-fire?traffic_source=rss"
@@ -14,130 +26,73 @@
         {
           "title": "What people in India are saying about Modi’s Israel visit",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/24/what-people-in-india-are-saying-about-modis-israel-visit?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.007757863824891768,
+      "chg5d": 0.0248853105083284,
+      "chg1m": 0.1268152736874174
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.18,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel’s opposition leader voices support for ‘broad’ Middle East expansion",
+          "url": "https://www.aljazeera.com/news/2026/2/24/israels-opposition-leader-voices-support-for-broad-middle-east-expansion?traffic_source=rss"
         },
         {
-          "title": "Iran cannot defeat US military might, but it can still win",
-          "url": "https://www.aljazeera.com/opinions/2026/2/24/iran-cannot-defeat-us-military-might-but-it-can-still-win?traffic_source=rss"
+          "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
+          "url": "https://www.aljazeera.com/news/2026/2/24/us-re-asserts-2025-strikes-obliterated-irans-nuclear-programme?traffic_source=rss"
         },
         {
-          "title": "Egyptian drama sparks outrage in Israel over Gaza war portrayal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/24/egyptian-drama-sparks-outrage-in-israel-over-gaza-war-portrayal?traffic_source=rss"
+          "title": "Iran’s government stresses ‘red lines’ as students protest in universities",
+          "url": "https://www.aljazeera.com/news/2026/2/24/irans-government-stresses-red-lines-as-students-protest-in-universities?traffic_source=rss"
         },
         {
-          "title": "Israeli forces fired over 900 bullets to kill Gaza medics in 2025: Report",
-          "url": "https://www.aljazeera.com/features/2026/2/24/israeli-forces-fired-over-900-bullets-to-kill-gaza-medics-in-2025-report?traffic_source=rss"
+          "title": "Lebanon’s army tells soldiers to act after post comes under Israeli fire",
+          "url": "https://www.aljazeera.com/news/2026/2/24/lebanons-army-tells-soldiers-to-act-after-post-comes-under-israeli-fire?traffic_source=rss"
+        },
+        {
+          "title": "What people in India are saying about Modi’s Israel visit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/24/what-people-in-india-are-saying-about-modis-israel-visit?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.00190389845874881,
+      "chg5d": 0.024093023255813986,
+      "chg1m": 0.11902825777597081
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.18,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel’s opposition leader voices support for ‘broad’ Middle East expansion",
+          "url": "https://www.aljazeera.com/news/2026/2/24/israels-opposition-leader-voices-support-for-broad-middle-east-expansion?traffic_source=rss"
+        },
+        {
+          "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
+          "url": "https://www.aljazeera.com/news/2026/2/24/us-re-asserts-2025-strikes-obliterated-irans-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s government stresses ‘red lines’ as students protest in universities",
+          "url": "https://www.aljazeera.com/news/2026/2/24/irans-government-stresses-red-lines-as-students-protest-in-universities?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon’s army tells soldiers to act after post comes under Israeli fire",
+          "url": "https://www.aljazeera.com/news/2026/2/24/lebanons-army-tells-soldiers-to-act-after-post-comes-under-israeli-fire?traffic_source=rss"
+        },
+        {
+          "title": "What people in India are saying about Modi’s Israel visit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/24/what-people-in-india-are-saying-about-modis-israel-visit?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.23,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Lebanon’s army tells soldiers to act after post comes under Israeli fire",
-          "url": "https://www.aljazeera.com/news/2026/2/24/lebanons-army-tells-soldiers-to-act-after-post-comes-under-israeli-fire?traffic_source=rss"
-        },
-        {
-          "title": "What people in India are saying about Modi’s Israel visit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/24/what-people-in-india-are-saying-about-modis-israel-visit?traffic_source=rss"
-        },
-        {
-          "title": "Iran cannot defeat US military might, but it can still win",
-          "url": "https://www.aljazeera.com/opinions/2026/2/24/iran-cannot-defeat-us-military-might-but-it-can-still-win?traffic_source=rss"
-        },
-        {
-          "title": "Egyptian drama sparks outrage in Israel over Gaza war portrayal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/24/egyptian-drama-sparks-outrage-in-israel-over-gaza-war-portrayal?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces fired over 900 bullets to kill Gaza medics in 2025: Report",
-          "url": "https://www.aljazeera.com/features/2026/2/24/israeli-forces-fired-over-900-bullets-to-kill-gaza-medics-in-2025-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0019602797372164924,
-      "chg5d": 0.018989193017026267,
-      "chg1m": 0.12033275786195441
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.23,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Lebanon’s army tells soldiers to act after post comes under Israeli fire",
-          "url": "https://www.aljazeera.com/news/2026/2/24/lebanons-army-tells-soldiers-to-act-after-post-comes-under-israeli-fire?traffic_source=rss"
-        },
-        {
-          "title": "What people in India are saying about Modi’s Israel visit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/24/what-people-in-india-are-saying-about-modis-israel-visit?traffic_source=rss"
-        },
-        {
-          "title": "Iran cannot defeat US military might, but it can still win",
-          "url": "https://www.aljazeera.com/opinions/2026/2/24/iran-cannot-defeat-us-military-might-but-it-can-still-win?traffic_source=rss"
-        },
-        {
-          "title": "Egyptian drama sparks outrage in Israel over Gaza war portrayal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/24/egyptian-drama-sparks-outrage-in-israel-over-gaza-war-portrayal?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces fired over 900 bullets to kill Gaza medics in 2025: Report",
-          "url": "https://www.aljazeera.com/features/2026/2/24/israeli-forces-fired-over-900-bullets-to-kill-gaza-medics-in-2025-report?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.00970081595648226,
-      "chg5d": 0.01609302325581399,
-      "chg1m": 0.1102866436267535
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "New Trump tariffs take effect days after Supreme Court ruling",
-          "url": "https://www.aljazeera.com/news/2026/2/24/new-trump-tariffs-take-effect-days-after-supreme-court-decision?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.020570595818620124,
-      "chg5d": 0.028410053657159,
-      "chg1m": 0.056424240666067264
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "New Trump tariffs take effect days after Supreme Court ruling",
-          "url": "https://www.aljazeera.com/news/2026/2/24/new-trump-tariffs-take-effect-days-after-supreme-court-decision?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003977146548765524,
-      "chg5d": 0.0507966022904958,
-      "chg1m": 0.07405114323561605
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "New Trump tariffs take effect days after Supreme Court ruling",
-          "url": "https://www.aljazeera.com/news/2026/2/24/new-trump-tariffs-take-effect-days-after-supreme-court-decision?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.046400389147119116,
-      "chg5d": 0.0631795716639209,
-      "chg1m": 0.15629945949174298
     }
   ]
 }
