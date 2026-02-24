@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-02-23T21:36:38.103662Z",
+  "generated_at": "2026-02-24T01:19:08.098068Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.16,
+      "score": 5.11,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +35,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.16,
+      "score": 5.11,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.07,
+      "score": 4.02,
       "confianca": 95,
       "razoes": [
         {
@@ -97,7 +97,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -114,28 +114,9 @@
       "chg1m": 0.06506021505376346
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Trump’s new tariff threats trigger economic uncertainty; trade deals stall",
-          "url": "https://www.aljazeera.com/economy/2026/2/23/trumps-new-tariff-threats-trigger-economic-uncertainty-trade-deals-stall?traffic_source=rss"
-        },
-        {
-          "title": "EU sanctions Russian officials as Hungary blocks funds to Ukraine",
-          "url": "https://www.aljazeera.com/news/2026/2/23/eu-sanctions-russian-officials-as-hungary-blocks-funds-to-ukraine?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0013493819830517621,
-      "chg5d": 0.010044764712304855,
-      "chg1m": 0.13034181507163153
-    },
-    {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -150,6 +131,25 @@
       "chg1d": -0.006426842500625998,
       "chg5d": 0.006936220605650424,
       "chg1m": 0.024234949952677283
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.95,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Trump’s new tariff threats trigger economic uncertainty; trade deals stall",
+          "url": "https://www.aljazeera.com/economy/2026/2/23/trumps-new-tariff-threats-trigger-economic-uncertainty-trade-deals-stall?traffic_source=rss"
+        },
+        {
+          "title": "EU sanctions Russian officials as Hungary blocks funds to Ukraine",
+          "url": "https://www.aljazeera.com/news/2026/2/23/eu-sanctions-russian-officials-as-hungary-blocks-funds-to-ukraine?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0013493819830517621,
+      "chg5d": 0.010044764712304855,
+      "chg1m": 0.13034181507163153
     }
   ]
 }
