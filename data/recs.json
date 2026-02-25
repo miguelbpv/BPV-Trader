@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-02-25T18:54:19.220558Z",
+  "generated_at": "2026-02-25T21:28:45.370823Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.32,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US consular services in illegal Israeli settlement in West Bank condemned",
-          "url": "https://www.aljazeera.com/news/2026/2/25/pa-and-hamas-condemn-us-consular-settlement-announcment?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects ‘fictional narratives’ of power grab after protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/25/iran-rejects-fictional-narratives-power-grab-after-protest-killings?traffic_source=rss"
-        },
-        {
-          "title": "US issues new sanctions as it dials up pressure on Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills more journalists than any nation on record: Media watchdog",
-          "url": "https://www.aljazeera.com/news/2026/2/25/israel-has-killed-more-journalists-than-any-government-on-record-cpj?traffic_source=rss"
-        },
-        {
-          "title": "Calls for justice grow after Israeli settlers kill another US citizen",
-          "url": "https://www.aljazeera.com/news/2026/2/25/calls-for-justice-grow-after-israeli-settlers-kill-another-us-citizen?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.007168784029038169,
-      "chg5d": -0.0013691128148959992,
-      "chg1m": 0.11143843965867532
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.32,
+      "score": 5.31,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
+          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss"
+        },
+        {
+          "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss"
+        },
         {
           "title": "US consular services in illegal Israeli settlement in West Bank condemned",
           "url": "https://www.aljazeera.com/news/2026/2/25/pa-and-hamas-condemn-us-consular-settlement-announcment?traffic_source=rss"
@@ -47,28 +24,59 @@
           "url": "https://www.aljazeera.com/news/2026/2/25/iran-rejects-fictional-narratives-power-grab-after-protest-killings?traffic_source=rss"
         },
         {
-          "title": "US issues new sanctions as it dials up pressure on Iran",
+          "title": "US issues new Iran sanctions on eve of nuclear talks in Geneva",
           "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills more journalists than any nation on record: Media watchdog",
-          "url": "https://www.aljazeera.com/news/2026/2/25/israel-has-killed-more-journalists-than-any-government-on-record-cpj?traffic_source=rss"
-        },
-        {
-          "title": "Calls for justice grow after Israeli settlers kill another US citizen",
-          "url": "https://www.aljazeera.com/news/2026/2/25/calls-for-justice-grow-after-israeli-settlers-kill-another-us-citizen?traffic_source=rss"
         }
       ],
-      "chg1d": -0.027150489893592932,
-      "chg5d": -0.005262461334851643,
-      "chg1m": 0.1112856307808686
+      "chg1d": -0.025480487033998994,
+      "chg5d": -0.0035548852741569778,
+      "chg1m": 0.1131932744214834
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 5.31,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
+          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss"
+        },
+        {
+          "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss"
+        },
+        {
+          "title": "US consular services in illegal Israeli settlement in West Bank condemned",
+          "url": "https://www.aljazeera.com/news/2026/2/25/pa-and-hamas-condemn-us-consular-settlement-announcment?traffic_source=rss"
+        },
+        {
+          "title": "Iran rejects ‘fictional narratives’ of power grab after protest killings",
+          "url": "https://www.aljazeera.com/news/2026/2/25/iran-rejects-fictional-narratives-power-grab-after-protest-killings?traffic_source=rss"
+        },
+        {
+          "title": "US issues new Iran sanctions on eve of nuclear talks in Geneva",
+          "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004174228675136189,
+      "chg5d": 0.0016429353778750694,
+      "chg1m": 0.11479073547338478
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.32,
+      "score": 5.31,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
+          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss"
+        },
+        {
+          "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss"
+        },
         {
           "title": "US consular services in illegal Israeli settlement in West Bank condemned",
           "url": "https://www.aljazeera.com/news/2026/2/25/pa-and-hamas-condemn-us-consular-settlement-announcment?traffic_source=rss"
@@ -78,16 +86,8 @@
           "url": "https://www.aljazeera.com/news/2026/2/25/iran-rejects-fictional-narratives-power-grab-after-protest-killings?traffic_source=rss"
         },
         {
-          "title": "US issues new sanctions as it dials up pressure on Iran",
+          "title": "US issues new Iran sanctions on eve of nuclear talks in Geneva",
           "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills more journalists than any nation on record: Media watchdog",
-          "url": "https://www.aljazeera.com/news/2026/2/25/israel-has-killed-more-journalists-than-any-government-on-record-cpj?traffic_source=rss"
-        },
-        {
-          "title": "Calls for justice grow after Israeli settlers kill another US citizen",
-          "url": "https://www.aljazeera.com/news/2026/2/25/calls-for-justice-grow-after-israeli-settlers-kill-another-us-citizen?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,47 +97,47 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
-          "title": "US issues new sanctions as it dials up pressure on Iran",
+          "title": "US issues new Iran sanctions on eve of nuclear talks in Geneva",
           "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss"
         }
       ],
-      "chg1d": 0.007504860661049856,
-      "chg5d": 0.0728344283111577,
-      "chg1m": 0.1681193832466713
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US issues new sanctions as it dials up pressure on Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.024168714114033964,
-      "chg5d": 0.04444679721117708,
-      "chg1m": 0.08536448862631346
+      "chg1d": 0.00513285806869739,
+      "chg5d": 0.0703086181195827,
+      "chg1m": 0.16536924047969717
     },
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
-          "title": "US issues new sanctions as it dials up pressure on Iran",
+          "title": "US issues new Iran sanctions on eve of nuclear talks in Geneva",
           "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss"
         }
       ],
-      "chg1d": 0.01684896696497615,
-      "chg5d": 0.028553866785873853,
-      "chg1m": 0.07307546564840993
+      "chg1d": 0.016034139874047084,
+      "chg5d": 0.027729660259275847,
+      "chg1m": 0.0722155828256625
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US issues new Iran sanctions on eve of nuclear talks in Geneva",
+          "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.019201495526772593,
+      "chg5d": 0.039381229914483305,
+      "chg1m": 0.08010047051331945
     }
   ]
 }
