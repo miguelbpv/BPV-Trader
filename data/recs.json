@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-02-24T21:26:49.759753Z",
+  "generated_at": "2026-02-25T01:23:05.595359Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.68,
+      "score": 4.76,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "State of the Union live: Trump to address nation amid tariff, Iran tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss"
+        },
+        {
+          "title": "US to provide consular services in illegal Israeli settlement",
+          "url": "https://www.aljazeera.com/news/2026/2/24/us-to-provide-consular-services-in-illegal-israeli-settlement?traffic_source=rss"
+        },
         {
           "title": "Yemen’s ‘Mogadishu’: Somali refugees face poverty, instability in Aden",
           "url": "https://www.aljazeera.com/features/2026/2/24/yemens-mogadishu-somali-refugees-face-poverty-instability-in-aden?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
           "url": "https://www.aljazeera.com/news/2026/2/24/us-re-asserts-2025-strikes-obliterated-irans-nuclear-programme?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s government stresses ‘red lines’ as students protest in universities",
-          "url": "https://www.aljazeera.com/news/2026/2/24/irans-government-stresses-red-lines-as-students-protest-in-universities?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon’s army tells soldiers to act after post comes under Israeli fire",
-          "url": "https://www.aljazeera.com/news/2026/2/24/lebanons-army-tells-soldiers-to-act-after-post-comes-under-israeli-fire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.68,
+      "score": 4.76,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "State of the Union live: Trump to address nation amid tariff, Iran tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss"
+        },
+        {
+          "title": "US to provide consular services in illegal Israeli settlement",
+          "url": "https://www.aljazeera.com/news/2026/2/24/us-to-provide-consular-services-in-illegal-israeli-settlement?traffic_source=rss"
+        },
         {
           "title": "Yemen’s ‘Mogadishu’: Somali refugees face poverty, instability in Aden",
           "url": "https://www.aljazeera.com/features/2026/2/24/yemens-mogadishu-somali-refugees-face-poverty-instability-in-aden?traffic_source=rss"
@@ -49,14 +57,37 @@
         {
           "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
           "url": "https://www.aljazeera.com/news/2026/2/24/us-re-asserts-2025-strikes-obliterated-irans-nuclear-programme?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.005767309497138969,
+      "chg5d": 0.022860925521105805,
+      "chg1m": 0.12458955350191242
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.76,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "State of the Union live: Trump to address nation amid tariff, Iran tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss"
         },
         {
-          "title": "Iran’s government stresses ‘red lines’ as students protest in universities",
-          "url": "https://www.aljazeera.com/news/2026/2/24/irans-government-stresses-red-lines-as-students-protest-in-universities?traffic_source=rss"
+          "title": "US to provide consular services in illegal Israeli settlement",
+          "url": "https://www.aljazeera.com/news/2026/2/24/us-to-provide-consular-services-in-illegal-israeli-settlement?traffic_source=rss"
         },
         {
-          "title": "Lebanon’s army tells soldiers to act after post comes under Israeli fire",
-          "url": "https://www.aljazeera.com/news/2026/2/24/lebanons-army-tells-soldiers-to-act-after-post-comes-under-israeli-fire?traffic_source=rss"
+          "title": "Yemen’s ‘Mogadishu’: Somali refugees face poverty, instability in Aden",
+          "url": "https://www.aljazeera.com/features/2026/2/24/yemens-mogadishu-somali-refugees-face-poverty-instability-in-aden?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s opposition leader voices support for ‘broad’ Middle East expansion",
+          "url": "https://www.aljazeera.com/news/2026/2/24/israels-opposition-leader-voices-support-for-broad-middle-east-expansion?traffic_source=rss"
+        },
+        {
+          "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
+          "url": "https://www.aljazeera.com/news/2026/2/24/us-re-asserts-2025-strikes-obliterated-irans-nuclear-programme?traffic_source=rss"
         }
       ],
       "chg1d": -0.000906618313689885,
@@ -64,35 +95,49 @@
       "chg1m": 0.1201463712136614
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.68,
-      "confianca": 95,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Yemen’s ‘Mogadishu’: Somali refugees face poverty, instability in Aden",
-          "url": "https://www.aljazeera.com/features/2026/2/24/yemens-mogadishu-somali-refugees-face-poverty-instability-in-aden?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s opposition leader voices support for ‘broad’ Middle East expansion",
-          "url": "https://www.aljazeera.com/news/2026/2/24/israels-opposition-leader-voices-support-for-broad-middle-east-expansion?traffic_source=rss"
-        },
-        {
-          "title": "US re-asserts 2025 strikes ‘obliterated’ Iran’s nuclear programme",
-          "url": "https://www.aljazeera.com/news/2026/2/24/us-re-asserts-2025-strikes-obliterated-irans-nuclear-programme?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s government stresses ‘red lines’ as students protest in universities",
-          "url": "https://www.aljazeera.com/news/2026/2/24/irans-government-stresses-red-lines-as-students-protest-in-universities?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon’s army tells soldiers to act after post comes under Israeli fire",
-          "url": "https://www.aljazeera.com/news/2026/2/24/lebanons-army-tells-soldiers-to-act-after-post-comes-under-israeli-fire?traffic_source=rss"
+          "title": "State of the Union live: Trump to address nation amid tariff, Iran tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.005767309497138969,
-      "chg5d": 0.022860925521105805,
-      "chg1m": 0.12458955350191242
+      "chg1d": 0.007644735159725099,
+      "chg5d": 0.054635225175731404,
+      "chg1m": 0.07797471635086099
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "State of the Union live: Trump to address nation amid tariff, Iran tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.014797376828653185,
+      "chg5d": 0.02259248799774075,
+      "chg1m": 0.050448202837167604
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "State of the Union live: Trump to address nation amid tariff, Iran tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/24/state-of-the-union-live-trump-to-address-nation-amid-tariff-iran-tensions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.04245486974381142,
+      "chg5d": 0.05917078528281167,
+      "chg1m": 0.15193955863469405
     }
   ]
 }
