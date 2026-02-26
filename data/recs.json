@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-02-26T06:50:10.045536Z",
+  "generated_at": "2026-02-26T09:40:30.594994Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.13,
+      "score": 3.67,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US-Iran talks live: Nuclear talks to kick off in Geneva amid tensions",
+          "title": "Israel carries out military incursion into Syria’s Quneitra in the Golan",
+          "url": "https://www.aljazeera.com/news/2026/2/26/israel-carries-out-military-incursion-into-syrias-quneitra-in-the-golan?traffic_source=rss"
+        },
+        {
+          "title": "US-Iran talks live: Nuclear talks kick off in Geneva amid tensions",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/26/us-iran-talks-live-nuclear-talks-to-kick-off-in-geneva-amid-tensions?traffic_source=rss"
         },
         {
@@ -18,14 +22,6 @@
         {
           "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
           "url": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Poland charges ex-intel chiefs for using Israel’s Pegasus spyware",
-          "url": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss"
-        },
-        {
-          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
-          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,11 +31,15 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.13,
+      "score": 3.67,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US-Iran talks live: Nuclear talks to kick off in Geneva amid tensions",
+          "title": "Israel carries out military incursion into Syria’s Quneitra in the Golan",
+          "url": "https://www.aljazeera.com/news/2026/2/26/israel-carries-out-military-incursion-into-syrias-quneitra-in-the-golan?traffic_source=rss"
+        },
+        {
+          "title": "US-Iran talks live: Nuclear talks kick off in Geneva amid tensions",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/26/us-iran-talks-live-nuclear-talks-to-kick-off-in-geneva-amid-tensions?traffic_source=rss"
         },
         {
@@ -49,14 +49,6 @@
         {
           "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
           "url": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Poland charges ex-intel chiefs for using Israel’s Pegasus spyware",
-          "url": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss"
-        },
-        {
-          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
-          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss"
         }
       ],
       "chg1d": -0.004174228675136189,
@@ -66,28 +58,20 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.79,
-      "confianca": 95,
+      "score": 2.33,
+      "confianca": 66,
       "razoes": [
         {
-          "title": "US-Iran talks live: Nuclear talks to kick off in Geneva amid tensions",
+          "title": "Israel carries out military incursion into Syria’s Quneitra in the Golan",
+          "url": "https://www.aljazeera.com/news/2026/2/26/israel-carries-out-military-incursion-into-syrias-quneitra-in-the-golan?traffic_source=rss"
+        },
+        {
+          "title": "US-Iran talks live: Nuclear talks kick off in Geneva amid tensions",
           "url": "https://www.aljazeera.com/news/liveblog/2026/2/26/us-iran-talks-live-nuclear-talks-to-kick-off-in-geneva-amid-tensions?traffic_source=rss"
         },
         {
           "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
           "url": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Poland charges ex-intel chiefs for using Israel’s Pegasus spyware",
-          "url": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss"
-        },
-        {
-          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
-          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss"
-        },
-        {
-          "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss"
         }
       ],
       "chg1d": -0.025480487033998994,
@@ -97,7 +81,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -112,7 +96,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +111,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
