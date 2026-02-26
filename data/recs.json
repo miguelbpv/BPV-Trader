@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-02-26T01:18:04.086958Z",
+  "generated_at": "2026-02-26T04:46:10.336753Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.44,
+      "score": 4.41,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US to allow Venezuelan oil sales to Cuba as alarm grows in the Caribbean",
+          "url": "https://www.aljazeera.com/news/2026/2/26/us-to-allow-venezuelan-oil-sales-to-cuba-as-alarm-grows-in-the-caribbean?traffic_source=rss"
+        },
+        {
+          "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
+          "url": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss"
+        },
         {
           "title": "Poland charges ex-intel chiefs for using Israel’s Pegasus spyware",
           "url": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss"
-        },
-        {
-          "title": "US consular services in illegal Israeli settlement in West Bank condemned",
-          "url": "https://www.aljazeera.com/news/2026/2/25/pa-and-hamas-condemn-us-consular-settlement-announcment?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects ‘fictional narratives’ of power grab after protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/25/iran-rejects-fictional-narratives-power-grab-after-protest-killings?traffic_source=rss"
         }
       ],
       "chg1d": -0.004174228675136189,
@@ -33,11 +33,19 @@
       "chg1m": 0.11479073547338478
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.44,
+      "score": 4.41,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US to allow Venezuelan oil sales to Cuba as alarm grows in the Caribbean",
+          "url": "https://www.aljazeera.com/news/2026/2/26/us-to-allow-venezuelan-oil-sales-to-cuba-as-alarm-grows-in-the-caribbean?traffic_source=rss"
+        },
+        {
+          "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
+          "url": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss"
+        },
         {
           "title": "Poland charges ex-intel chiefs for using Israel’s Pegasus spyware",
           "url": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss"
@@ -49,14 +57,33 @@
         {
           "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.06,
+      "confianca": 87,
+      "razoes": [
+        {
+          "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
+          "url": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss"
         },
         {
-          "title": "US consular services in illegal Israeli settlement in West Bank condemned",
-          "url": "https://www.aljazeera.com/news/2026/2/25/pa-and-hamas-condemn-us-consular-settlement-announcment?traffic_source=rss"
+          "title": "Poland charges ex-intel chiefs for using Israel’s Pegasus spyware",
+          "url": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss"
         },
         {
-          "title": "Iran rejects ‘fictional narratives’ of power grab after protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/25/iran-rejects-fictional-narratives-power-grab-after-protest-killings?traffic_source=rss"
+          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
+          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss"
+        },
+        {
+          "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss"
         }
       ],
       "chg1d": -0.025480487033998994,
@@ -64,35 +91,49 @@
       "chg1m": 0.1131932744214834
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.44,
-      "confianca": 95,
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Poland charges ex-intel chiefs for using Israel’s Pegasus spyware",
-          "url": "https://www.aljazeera.com/news/2026/2/25/poland-charges-ex-intel-chiefs-for-using-israels-pegasus-spyware?traffic_source=rss"
-        },
-        {
-          "title": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
-          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss"
-        },
-        {
-          "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss"
-        },
-        {
-          "title": "US consular services in illegal Israeli settlement in West Bank condemned",
-          "url": "https://www.aljazeera.com/news/2026/2/25/pa-and-hamas-condemn-us-consular-settlement-announcment?traffic_source=rss"
-        },
-        {
-          "title": "Iran rejects ‘fictional narratives’ of power grab after protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/25/iran-rejects-fictional-narratives-power-grab-after-protest-killings?traffic_source=rss"
+          "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
+          "url": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": 0.00513285806869739,
+      "chg5d": 0.0703086181195827,
+      "chg1m": 0.16536924047969717
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
+          "url": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.016462269362501322,
+      "chg5d": 0.02816271792579343,
+      "chg1m": 0.07266738566473317
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Iran, US set to hold talks as Trump threatens force, imposes sanctions",
+          "url": "https://www.aljazeera.com/news/2026/2/26/iran-us-set-to-hold-talks-as-trump-threatens-force-imposes-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.01916811323274138,
+      "chg5d": 0.039347186665940385,
+      "chg1m": 0.08006509357200983
     }
   ]
 }
