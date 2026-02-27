@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-27T04:41:54.567091Z",
+  "generated_at": "2026-02-27T06:41:50.894321Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli attacks on Lebanon’s Bekaa Valley kill Syrian teenager",
-          "url": "https://www.aljazeera.com/news/2026/2/26/israeli-attacks-on-lebanons-bekaa-valley-kill-syrian-teenager?traffic_source=rss"
-        },
-        {
-          "title": "Iranian foreign minister says US, Iran moving closer to deal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran talks conclude with claims of progress but few details",
-          "url": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss"
-        },
-        {
-          "title": "Journalists demand Israel end Gaza entry ban",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/journalists-demand-israel-end-gaza-entry-ban?traffic_source=rss"
-        },
-        {
-          "title": "International doctors forced to leave Gaza over Israeli demands",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/international-doctors-forced-to-leave-gaza-over-israeli-demands?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.003280481137233456,
-      "chg5d": -0.0023559260601667734,
-      "chg1m": 0.10831487819609413
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.19,
+      "score": 4.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attacks on police sites kill five in southern, central Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/27/israeli-attacks-on-police-sites-kill-five-in-southern-central-gaza?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks on Lebanon’s Bekaa Valley kill Syrian teenager",
           "url": "https://www.aljazeera.com/news/2026/2/26/israeli-attacks-on-lebanons-bekaa-valley-kill-syrian-teenager?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Journalists demand Israel end Gaza entry ban",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/journalists-demand-israel-end-gaza-entry-ban?traffic_source=rss"
-        },
-        {
-          "title": "International doctors forced to leave Gaza over Israeli demands",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/international-doctors-forced-to-leave-gaza-over-israeli-demands?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.87,
+      "score": 4.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attacks on police sites kill five in southern, central Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/27/israeli-attacks-on-police-sites-kill-five-in-southern-central-gaza?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks on Lebanon’s Bekaa Valley kill Syrian teenager",
           "url": "https://www.aljazeera.com/news/2026/2/26/israeli-attacks-on-lebanons-bekaa-valley-kill-syrian-teenager?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Journalists demand Israel end Gaza entry ban",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/journalists-demand-israel-end-gaza-entry-ban?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.003280481137233456,
+      "chg5d": -0.0023559260601667734,
+      "chg1m": 0.10831487819609413
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.14,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli attacks on police sites kill five in southern, central Gaza",
+          "url": "https://www.aljazeera.com/news/2026/2/27/israeli-attacks-on-police-sites-kill-five-in-southern-central-gaza?traffic_source=rss"
         },
         {
-          "title": "International doctors forced to leave Gaza over Israeli demands",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/international-doctors-forced-to-leave-gaza-over-israeli-demands?traffic_source=rss"
+          "title": "Israeli attacks on Lebanon’s Bekaa Valley kill Syrian teenager",
+          "url": "https://www.aljazeera.com/news/2026/2/26/israeli-attacks-on-lebanons-bekaa-valley-kill-syrian-teenager?traffic_source=rss"
+        },
+        {
+          "title": "Iranian foreign minister says US, Iran moving closer to deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss"
+        },
+        {
+          "title": "US-Iran talks conclude with claims of progress but few details",
+          "url": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss"
+        },
+        {
+          "title": "Journalists demand Israel end Gaza entry ban",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/journalists-demand-israel-end-gaza-entry-ban?traffic_source=rss"
         }
       ],
       "chg1d": -0.009065637065637072,
@@ -95,10 +95,10 @@
       "chg1m": 0.07846037482141348
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.44,
-      "confianca": 41,
+      "score": 1.43,
+      "confianca": 40,
       "razoes": [
         {
           "title": "Ecuador hikes tariffs on Colombian imports to 50 percent starting March 1",
@@ -109,15 +109,15 @@
           "url": "https://www.aljazeera.com/news/2026/2/26/family-of-un-rapporteur-albanese-sues-trump-administration-over-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": -0.030434782608695622,
-      "chg5d": 0.0026978417266188075,
-      "chg1m": 0.01629258288709134
+      "chg1d": -0.04108063491231635,
+      "chg5d": 0.0033380628268661902,
+      "chg1m": 0.006331681092266575
     },
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.44,
-      "confianca": 41,
+      "score": 1.43,
+      "confianca": 40,
       "razoes": [
         {
           "title": "Ecuador hikes tariffs on Colombian imports to 50 percent starting March 1",
@@ -133,10 +133,10 @@
       "chg1m": 0.11370219306023535
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.44,
-      "confianca": 41,
+      "score": 1.43,
+      "confianca": 40,
       "razoes": [
         {
           "title": "Ecuador hikes tariffs on Colombian imports to 50 percent starting March 1",
@@ -147,9 +147,9 @@
           "url": "https://www.aljazeera.com/news/2026/2/26/family-of-un-rapporteur-albanese-sues-trump-administration-over-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": -0.04108063491231635,
-      "chg5d": 0.0033380628268661902,
-      "chg1m": 0.006331681092266575
+      "chg1d": -0.030434782608695622,
+      "chg5d": 0.0026978417266188075,
+      "chg1m": 0.01629258288709134
     }
   ]
 }
