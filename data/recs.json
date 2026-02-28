@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-02-27T21:21:30.620168Z",
+  "generated_at": "2026-02-28T01:11:06.043436Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.44,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "IAEA urges Iran to allow inspections, points at Isfahan",
-          "url": "https://www.aljazeera.com/news/2026/2/27/iaea-eyes-isfahan-nuclear-complex-as-it-urges-iran-to-allow?traffic_source=rss"
-        },
-        {
-          "title": "Oman’s foreign minister meets with US’s Vance as Middle East tensions rise",
-          "url": "https://www.aljazeera.com/news/2026/2/27/omans-foreign-minister-meets-with-uss-vance-as-middle-east-tensions-rise?traffic_source=rss"
-        },
-        {
-          "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
-          "url": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s top court allows aid groups facing Gaza ban to continue working",
-          "url": "https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss"
-        },
-        {
-          "title": "Iran says US must drop ‘excessive demands’ in nuclear negotiations",
-          "url": "https://www.aljazeera.com/news/2026/2/27/iran-says-us-must-drop-excessive-demands-in-nuclear-negotiations?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.025637828655144003,
-      "chg5d": -0.00027344818156951656,
-      "chg1m": 0.1018132502888142
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.44,
+      "score": 4.8,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump, Iran and geopolitical mind games",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/2/28/trump-iran-and-geopolitical-mind-games?traffic_source=rss"
+        },
+        {
+          "title": "Who runs Venezuela now? Trump, oil and the fight for power",
+          "url": "https://www.aljazeera.com/video/head-to-head/2026/2/27/who-runs-venezuela-now-trump-oil-and-the-fight-for-power?traffic_source=rss"
+        },
         {
           "title": "IAEA urges Iran to allow inspections, points at Isfahan",
           "url": "https://www.aljazeera.com/news/2026/2/27/iaea-eyes-isfahan-nuclear-complex-as-it-urges-iran-to-allow?traffic_source=rss"
         },
         {
-          "title": "Oman’s foreign minister meets with US’s Vance as Middle East tensions rise",
+          "title": "Oman’s foreign minister meets with US’s Vance as Iran tensions rise",
           "url": "https://www.aljazeera.com/news/2026/2/27/omans-foreign-minister-meets-with-uss-vance-as-middle-east-tensions-rise?traffic_source=rss"
         },
         {
           "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
           "url": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s top court allows aid groups facing Gaza ban to continue working",
-          "url": "https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss"
-        },
-        {
-          "title": "Iran says US must drop ‘excessive demands’ in nuclear negotiations",
-          "url": "https://www.aljazeera.com/news/2026/2/27/iran-says-us-must-drop-excessive-demands-in-nuclear-negotiations?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,15 +35,50 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.44,
+      "score": 4.8,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump, Iran and geopolitical mind games",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/2/28/trump-iran-and-geopolitical-mind-games?traffic_source=rss"
+        },
+        {
+          "title": "Who runs Venezuela now? Trump, oil and the fight for power",
+          "url": "https://www.aljazeera.com/video/head-to-head/2026/2/27/who-runs-venezuela-now-trump-oil-and-the-fight-for-power?traffic_source=rss"
+        },
         {
           "title": "IAEA urges Iran to allow inspections, points at Isfahan",
           "url": "https://www.aljazeera.com/news/2026/2/27/iaea-eyes-isfahan-nuclear-complex-as-it-urges-iran-to-allow?traffic_source=rss"
         },
         {
-          "title": "Oman’s foreign minister meets with US’s Vance as Middle East tensions rise",
+          "title": "Oman’s foreign minister meets with US’s Vance as Iran tensions rise",
+          "url": "https://www.aljazeera.com/news/2026/2/27/omans-foreign-minister-meets-with-uss-vance-as-middle-east-tensions-rise?traffic_source=rss"
+        },
+        {
+          "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
+          "url": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.015803814713896542,
+      "chg5d": 0.01895043731778424,
+      "chg1m": 0.11728271728271739
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump, Iran and geopolitical mind games",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/2/28/trump-iran-and-geopolitical-mind-games?traffic_source=rss"
+        },
+        {
+          "title": "IAEA urges Iran to allow inspections, points at Isfahan",
+          "url": "https://www.aljazeera.com/news/2026/2/27/iaea-eyes-isfahan-nuclear-complex-as-it-urges-iran-to-allow?traffic_source=rss"
+        },
+        {
+          "title": "Oman’s foreign minister meets with US’s Vance as Iran tensions rise",
           "url": "https://www.aljazeera.com/news/2026/2/27/omans-foreign-minister-meets-with-uss-vance-as-middle-east-tensions-rise?traffic_source=rss"
         },
         {
@@ -84,15 +88,71 @@
         {
           "title": "Israel’s top court allows aid groups facing Gaza ban to continue working",
           "url": "https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss"
-        },
-        {
-          "title": "Iran says US must drop ‘excessive demands’ in nuclear negotiations",
-          "url": "https://www.aljazeera.com/news/2026/2/27/iran-says-us-must-drop-excessive-demands-in-nuclear-negotiations?traffic_source=rss"
         }
       ],
-      "chg1d": 0.015803814713896542,
-      "chg5d": 0.01895043731778424,
-      "chg1m": 0.11728271728271739
+      "chg1d": 0.025637828655144003,
+      "chg5d": -0.00027344818156951656,
+      "chg1m": 0.1018132502888142
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
+          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
+          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01725628783036968,
+      "chg5d": -0.012131060806470036,
+      "chg1m": -0.007216103304215853
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
+          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004555346003191624,
+      "chg5d": -0.004743048605369627,
+      "chg1m": -0.013315694112910172
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
+          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0030529840456962995,
+      "chg5d": -0.002348844467075032,
+      "chg1m": -0.04080730235936962
     }
   ]
 }
