@@ -1,15 +1,19 @@
 {
-  "generated_at": "2026-02-28T01:11:06.043436Z",
+  "generated_at": "2026-02-28T04:12:20.499072Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.8,
+      "score": 5.5,
       "confianca": 95,
       "razoes": [
         {
           "title": "Trump, Iran and geopolitical mind games",
           "url": "https://www.aljazeera.com/video/the-listening-post/2026/2/28/trump-iran-and-geopolitical-mind-games?traffic_source=rss"
+        },
+        {
+          "title": "Pakistan-Afghanistan live: Iran, EU urge dialogue amid deadly clashes",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/28/pakistan-afghanistan-live-calls-for-dialogue-amid-deadly-border-clashes?traffic_source=rss"
         },
         {
           "title": "Who runs Venezuela now? Trump, oil and the fight for power",
@@ -22,10 +26,6 @@
         {
           "title": "Oman’s foreign minister meets with US’s Vance as Iran tensions rise",
           "url": "https://www.aljazeera.com/news/2026/2/27/omans-foreign-minister-meets-with-uss-vance-as-middle-east-tensions-rise?traffic_source=rss"
-        },
-        {
-          "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
-          "url": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,12 +35,16 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.8,
+      "score": 5.5,
       "confianca": 95,
       "razoes": [
         {
           "title": "Trump, Iran and geopolitical mind games",
           "url": "https://www.aljazeera.com/video/the-listening-post/2026/2/28/trump-iran-and-geopolitical-mind-games?traffic_source=rss"
+        },
+        {
+          "title": "Pakistan-Afghanistan live: Iran, EU urge dialogue amid deadly clashes",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/28/pakistan-afghanistan-live-calls-for-dialogue-amid-deadly-border-clashes?traffic_source=rss"
         },
         {
           "title": "Who runs Venezuela now? Trump, oil and the fight for power",
@@ -53,10 +57,6 @@
         {
           "title": "Oman’s foreign minister meets with US’s Vance as Iran tensions rise",
           "url": "https://www.aljazeera.com/news/2026/2/27/omans-foreign-minister-meets-with-uss-vance-as-middle-east-tensions-rise?traffic_source=rss"
-        },
-        {
-          "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
-          "url": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss"
         }
       ],
       "chg1d": 0.015803814713896542,
@@ -66,12 +66,16 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.45,
+      "score": 4.16,
       "confianca": 95,
       "razoes": [
         {
           "title": "Trump, Iran and geopolitical mind games",
           "url": "https://www.aljazeera.com/video/the-listening-post/2026/2/28/trump-iran-and-geopolitical-mind-games?traffic_source=rss"
+        },
+        {
+          "title": "Pakistan-Afghanistan live: Iran, EU urge dialogue amid deadly clashes",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/2/28/pakistan-afghanistan-live-calls-for-dialogue-amid-deadly-border-clashes?traffic_source=rss"
         },
         {
           "title": "IAEA urges Iran to allow inspections, points at Isfahan",
@@ -84,10 +88,6 @@
         {
           "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
           "url": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s top court allows aid groups facing Gaza ban to continue working",
-          "url": "https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss"
         }
       ],
       "chg1d": 0.025637828655144003,
@@ -95,10 +95,55 @@
       "chg1m": 0.1018132502888142
     },
     {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
+          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0032007090801655265,
+      "chg5d": -0.0024966738391287626,
+      "chg1m": -0.040949433056441775
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
+          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.004801973016103214,
+      "chg5d": -0.004989629113905605,
+      "chg1m": -0.013560150700296153
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
+          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.017218692432046257,
+      "chg5d": -0.012093269339783034,
+      "chg1m": -0.007178123813140852
+    },
+    {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
@@ -108,51 +153,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
-          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01725628783036968,
-      "chg5d": -0.012131060806470036,
-      "chg1m": -0.007216103304215853
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
-          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004555346003191624,
-      "chg5d": -0.004743048605369627,
-      "chg1m": -0.013315694112910172
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Trump orders federal agencies to stop using Anthropic as dispute escalates",
-          "url": "https://www.aljazeera.com/news/2026/2/27/trump-orders-federal-agencies-to-stop-using-anthropic-as-dispute-escalates?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0030529840456962995,
-      "chg5d": -0.002348844467075032,
-      "chg1m": -0.04080730235936962
     }
   ]
 }
