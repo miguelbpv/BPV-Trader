@@ -1,10 +1,41 @@
 {
-  "generated_at": "2026-03-01T04:48:59.093643Z",
+  "generated_at": "2026-03-01T06:35:49.636378Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 13.83,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Netanyahu’s war? Analysts say Trump’s Iran strikes benefit Israel, not US",
+          "url": "https://www.aljazeera.com/news/2026/3/1/netanyahus-war-analysts-say-trumps-iran-strikes-benefit-israel-not-us?traffic_source=rss"
+        },
+        {
+          "title": "US strikes on Iran lead to renewed demands for war powers legislation",
+          "url": "https://www.aljazeera.com/news/2026/3/1/us-strikes-on-iran-lead-to-renewed-demands-for-war-powers-legislation?traffic_source=rss"
+        },
+        {
+          "title": "New Yorkers protest US strikes on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/new-yorkers-protest-us-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iranian Ambassador to UN calls US-Israeli attacks a ‘war crime’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-ambassador-to-un-calls-us-israeli-attacks-a-war?traffic_source=rss"
+        },
+        {
+          "title": "How have US politicians reacted to the attack on Iran?",
+          "url": "https://www.aljazeera.com/news/2026/2/28/how-have-us-politicians-reacted-to-the-attack-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 13.91,
+      "score": 13.83,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 13.91,
+      "score": 13.83,
       "confianca": 95,
       "razoes": [
         {
@@ -62,37 +93,6 @@
       "chg1d": 0.015803814713896542,
       "chg5d": 0.01895043731778424,
       "chg1m": 0.11728271728271739
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 13.91,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Netanyahu’s war? Analysts say Trump’s Iran strikes benefit Israel, not US",
-          "url": "https://www.aljazeera.com/news/2026/3/1/netanyahus-war-analysts-say-trumps-iran-strikes-benefit-israel-not-us?traffic_source=rss"
-        },
-        {
-          "title": "US strikes on Iran lead to renewed demands for war powers legislation",
-          "url": "https://www.aljazeera.com/news/2026/3/1/us-strikes-on-iran-lead-to-renewed-demands-for-war-powers-legislation?traffic_source=rss"
-        },
-        {
-          "title": "New Yorkers protest US strikes on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/new-yorkers-protest-us-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iranian Ambassador to UN calls US-Israeli attacks a ‘war crime’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-ambassador-to-un-calls-us-israeli-attacks-a-war?traffic_source=rss"
-        },
-        {
-          "title": "How have US politicians reacted to the attack on Iran?",
-          "url": "https://www.aljazeera.com/news/2026/2/28/how-have-us-politicians-reacted-to-the-attack-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
