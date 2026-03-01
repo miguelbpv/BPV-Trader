@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-03-01T18:22:10.457285Z",
+  "generated_at": "2026-03-01T21:15:00.600952Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 15.0,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Black smoke pours from oil tanker near Strait of Hormuz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/black-smoke-pours-from-oil-tanker-near-strait-of-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Moment Iranian drone hits UAE naval base",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/moment-iranian-drone-hits-uae-naval-base?traffic_source=rss"
-        },
-        {
-          "title": "Who are the council members temporarily in charge of Iran?",
-          "url": "https://www.aljazeera.com/news/2026/3/1/who-are-the-council-members-temporarily-in-charge-of-iran?traffic_source=rss"
-        },
-        {
-          "title": "At least three US service members killed during Iran operation: CENTCOM",
-          "url": "https://www.aljazeera.com/news/2026/3/1/at-least-three-us-service-members-killed-during-iran-operation-centcom?traffic_source=rss"
-        },
-        {
-          "title": "Iranian missile strike on Israel’s Beit Shemesh kills nine people",
-          "url": "https://www.aljazeera.com/gallery/2026/3/1/iranian-missile-strike-on-israels-beit-shemesh-kills-nine-people?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 15.0,
+      "score": 12.89,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Black smoke pours from oil tanker near Strait of Hormuz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/black-smoke-pours-from-oil-tanker-near-strait-of-hormuz?traffic_source=rss"
+          "title": "Iranian drone strikes US military facility in Kuwait",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-drone-strikes-us-military-facility-in-kuwait?traffic_source=rss"
         },
         {
-          "title": "Moment Iranian drone hits UAE naval base",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/moment-iranian-drone-hits-uae-naval-base?traffic_source=rss"
+          "title": "US confirms three soldiers killed in Iran attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/us-confirms-three-soldiers-killed-in-iran-attacks?traffic_source=rss"
         },
         {
-          "title": "Who are the council members temporarily in charge of Iran?",
-          "url": "https://www.aljazeera.com/news/2026/3/1/who-are-the-council-members-temporarily-in-charge-of-iran?traffic_source=rss"
+          "title": "Missile strikes continue as Iranian leaders project defiance after Khamenei",
+          "url": "https://www.aljazeera.com/news/2026/3/1/missile-strikes-continue-as-iranian-leaders-project-defiance-after-khamenei?traffic_source=rss"
         },
         {
-          "title": "At least three US service members killed during Iran operation: CENTCOM",
-          "url": "https://www.aljazeera.com/news/2026/3/1/at-least-three-us-service-members-killed-during-iran-operation-centcom?traffic_source=rss"
+          "title": "Iran after Ayatollah Ali Khamenei",
+          "url": "https://www.aljazeera.com/opinions/2026/3/1/iran-after-ayatollah-ali-khamenei?traffic_source=rss"
         },
         {
-          "title": "Iranian missile strike on Israel’s Beit Shemesh kills nine people",
-          "url": "https://www.aljazeera.com/gallery/2026/3/1/iranian-missile-strike-on-israels-beit-shemesh-kills-nine-people?traffic_source=rss"
+          "title": "Iran foreign minister suggests new supreme leader may be chosen within days",
+          "url": "https://www.aljazeera.com/news/2026/3/1/iran-foreign-minister-suggests-new-supreme-leader-may-be-chosen-within-days?traffic_source=rss"
         }
       ],
       "chg1d": 0.015803814713896542,
@@ -64,30 +33,61 @@
       "chg1m": 0.11728271728271739
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 13.66,
+      "score": 12.89,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Moment Iranian drone hits UAE naval base",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/moment-iranian-drone-hits-uae-naval-base?traffic_source=rss"
+          "title": "Iranian drone strikes US military facility in Kuwait",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-drone-strikes-us-military-facility-in-kuwait?traffic_source=rss"
         },
         {
-          "title": "Who are the council members temporarily in charge of Iran?",
-          "url": "https://www.aljazeera.com/news/2026/3/1/who-are-the-council-members-temporarily-in-charge-of-iran?traffic_source=rss"
+          "title": "US confirms three soldiers killed in Iran attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/us-confirms-three-soldiers-killed-in-iran-attacks?traffic_source=rss"
         },
         {
-          "title": "At least three US service members killed during Iran operation: CENTCOM",
-          "url": "https://www.aljazeera.com/news/2026/3/1/at-least-three-us-service-members-killed-during-iran-operation-centcom?traffic_source=rss"
+          "title": "Missile strikes continue as Iranian leaders project defiance after Khamenei",
+          "url": "https://www.aljazeera.com/news/2026/3/1/missile-strikes-continue-as-iranian-leaders-project-defiance-after-khamenei?traffic_source=rss"
         },
         {
-          "title": "Iranian missile strike on Israel’s Beit Shemesh kills nine people",
-          "url": "https://www.aljazeera.com/gallery/2026/3/1/iranian-missile-strike-on-israels-beit-shemesh-kills-nine-people?traffic_source=rss"
+          "title": "Iran after Ayatollah Ali Khamenei",
+          "url": "https://www.aljazeera.com/opinions/2026/3/1/iran-after-ayatollah-ali-khamenei?traffic_source=rss"
         },
         {
-          "title": "Who are Iran’s senior figures killed in US-Israeli attacks?",
-          "url": "https://www.aljazeera.com/news/2026/3/1/who-are-irans-senior-figures-killed-in-us-israeli-attacks?traffic_source=rss"
+          "title": "Iran foreign minister suggests new supreme leader may be chosen within days",
+          "url": "https://www.aljazeera.com/news/2026/3/1/iran-foreign-minister-suggests-new-supreme-leader-may-be-chosen-within-days?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 11.54,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iranian drone strikes US military facility in Kuwait",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/iranian-drone-strikes-us-military-facility-in-kuwait?traffic_source=rss"
+        },
+        {
+          "title": "US confirms three soldiers killed in Iran attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/us-confirms-three-soldiers-killed-in-iran-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Missile strikes continue as Iranian leaders project defiance after Khamenei",
+          "url": "https://www.aljazeera.com/news/2026/3/1/missile-strikes-continue-as-iranian-leaders-project-defiance-after-khamenei?traffic_source=rss"
+        },
+        {
+          "title": "Iran after Ayatollah Ali Khamenei",
+          "url": "https://www.aljazeera.com/opinions/2026/3/1/iran-after-ayatollah-ali-khamenei?traffic_source=rss"
+        },
+        {
+          "title": "Iran foreign minister suggests new supreme leader may be chosen within days",
+          "url": "https://www.aljazeera.com/news/2026/3/1/iran-foreign-minister-suggests-new-supreme-leader-may-be-chosen-within-days?traffic_source=rss"
         }
       ],
       "chg1d": 0.025637828655144003,
