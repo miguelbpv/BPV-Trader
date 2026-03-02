@@ -1,31 +1,62 @@
 {
-  "generated_at": "2026-03-02T18:34:58.911336Z",
+  "generated_at": "2026-03-02T21:25:36.704712Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 12.37,
+      "score": 12.58,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Trump: this was the best chance to strike Iran’s ‘sick and sinister regime’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/trump-this-was-the-best-chance-to-strike-irans-sick-and-sinister?traffic_source=rss"
+          "title": "Spain refuses to let US use bases for Iran attacks",
+          "url": "https://www.aljazeera.com/news/2026/3/2/spain-refuses-to-let-us-use-bases-for-iran-attacks?traffic_source=rss"
         },
         {
-          "title": "‘This war might push Iran to a bomb faster.’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/2/this-war-might-push-iran-to-a-bomb-faster?traffic_source=rss"
+          "title": "US-Israeli strikes hit housing, hospitals, and more in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/us-israeli-strikes-hit-housing-hospitals-and-more-in-tehran?traffic_source=rss"
         },
         {
-          "title": "How the US hit Iran with a banned AI",
-          "url": "https://www.aljazeera.com/video/digital-dilemma/2026/3/2/how-the-us-hit-iran-with-a-banned-ai?traffic_source=rss"
+          "title": "Anti-war candidates pose early test for US Democrats after attacks on Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/2/anti-war-candidates-pose-early-test-for-us-democrats-after-attacks-on-iran?traffic_source=rss"
         },
         {
-          "title": "Starmer lets US use bases for Iran clash: UK’s military, legal quagmire",
-          "url": "https://www.aljazeera.com/features/2026/3/2/starmer-lets-us-use-bases-for-iran-clash-uks-military-legal-quagmire?traffic_source=rss"
+          "title": "Netanyahu: Iran would ‘threaten all of humanity’ with nuclear weapon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/netanyahu-iran-would-threaten-all-of-humanity-with-nuclear-weapon?traffic_source=rss"
         },
         {
-          "title": "‘Speed, surprise, and violence of action’: how US launched attack on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/speed-surprise-and-violence-of-action-how-us-launched-attack-on-iran?traffic_source=rss"
+          "title": "US and Israeli interests may soon diverge on Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/3/2/us-and-israeli-interests-may-soon-diverge-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02002861230329037,
+      "chg5d": 0.034270172257479616,
+      "chg1m": 0.12928133042961792
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 12.58,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Spain refuses to let US use bases for Iran attacks",
+          "url": "https://www.aljazeera.com/news/2026/3/2/spain-refuses-to-let-us-use-bases-for-iran-attacks?traffic_source=rss"
+        },
+        {
+          "title": "US-Israeli strikes hit housing, hospitals, and more in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/us-israeli-strikes-hit-housing-hospitals-and-more-in-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Anti-war candidates pose early test for US Democrats after attacks on Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/2/anti-war-candidates-pose-early-test-for-us-democrats-after-attacks-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu: Iran would ‘threaten all of humanity’ with nuclear weapon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/netanyahu-iran-would-threaten-all-of-humanity-with-nuclear-weapon?traffic_source=rss"
+        },
+        {
+          "title": "US and Israeli interests may soon diverge on Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/3/2/us-and-israeli-interests-may-soon-diverge-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,66 +64,35 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 12.37,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump: this was the best chance to strike Iran’s ‘sick and sinister regime’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/trump-this-was-the-best-chance-to-strike-irans-sick-and-sinister?traffic_source=rss"
-        },
-        {
-          "title": "‘This war might push Iran to a bomb faster.’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/2/this-war-might-push-iran-to-a-bomb-faster?traffic_source=rss"
-        },
-        {
-          "title": "How the US hit Iran with a banned AI",
-          "url": "https://www.aljazeera.com/video/digital-dilemma/2026/3/2/how-the-us-hit-iran-with-a-banned-ai?traffic_source=rss"
-        },
-        {
-          "title": "Starmer lets US use bases for Iran clash: UK’s military, legal quagmire",
-          "url": "https://www.aljazeera.com/features/2026/3/2/starmer-lets-us-use-bases-for-iran-clash-uks-military-legal-quagmire?traffic_source=rss"
-        },
-        {
-          "title": "‘Speed, surprise, and violence of action’: how US launched attack on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/speed-surprise-and-violence-of-action-how-us-launched-attack-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.013592632331902742,
-      "chg5d": 0.02774433363553952,
-      "chg1m": 0.12215600871114642
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 12.37,
+      "score": 12.58,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Trump: this was the best chance to strike Iran’s ‘sick and sinister regime’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/trump-this-was-the-best-chance-to-strike-irans-sick-and-sinister?traffic_source=rss"
+          "title": "Spain refuses to let US use bases for Iran attacks",
+          "url": "https://www.aljazeera.com/news/2026/3/2/spain-refuses-to-let-us-use-bases-for-iran-attacks?traffic_source=rss"
         },
         {
-          "title": "‘This war might push Iran to a bomb faster.’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/2/this-war-might-push-iran-to-a-bomb-faster?traffic_source=rss"
+          "title": "US-Israeli strikes hit housing, hospitals, and more in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/us-israeli-strikes-hit-housing-hospitals-and-more-in-tehran?traffic_source=rss"
         },
         {
-          "title": "How the US hit Iran with a banned AI",
-          "url": "https://www.aljazeera.com/video/digital-dilemma/2026/3/2/how-the-us-hit-iran-with-a-banned-ai?traffic_source=rss"
+          "title": "Anti-war candidates pose early test for US Democrats after attacks on Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/2/anti-war-candidates-pose-early-test-for-us-democrats-after-attacks-on-iran?traffic_source=rss"
         },
         {
-          "title": "Starmer lets US use bases for Iran clash: UK’s military, legal quagmire",
-          "url": "https://www.aljazeera.com/features/2026/3/2/starmer-lets-us-use-bases-for-iran-clash-uks-military-legal-quagmire?traffic_source=rss"
+          "title": "Netanyahu: Iran would ‘threaten all of humanity’ with nuclear weapon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/netanyahu-iran-would-threaten-all-of-humanity-with-nuclear-weapon?traffic_source=rss"
         },
         {
-          "title": "‘Speed, surprise, and violence of action’: how US launched attack on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/speed-surprise-and-violence-of-action-how-us-launched-attack-on-iran?traffic_source=rss"
+          "title": "US and Israeli interests may soon diverge on Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/3/2/us-and-israeli-interests-may-soon-diverge-on-iran?traffic_source=rss"
         }
       ],
-      "chg1d": 0.017908157062971018,
-      "chg5d": 0.013994429475341352,
-      "chg1m": 0.07607106713145173
+      "chg1d": 0.02829443228786774,
+      "chg5d": 0.024340770791075113,
+      "chg1m": 0.08705081042874822
     }
   ]
 }
