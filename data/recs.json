@@ -1,143 +1,98 @@
 {
-  "generated_at": "2026-03-03T12:37:05.444924Z",
+  "generated_at": "2026-03-03T15:39:47.881696Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 11.49,
+      "score": 11.27,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US and Israeli attacks on Iran prompt worldwide protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-and-israeli-attacks-on-iran-prompt-worldwide-protests?traffic_source=rss"
+          "title": "Babies evacuated from Iranian hospital damaged in US-Israeli strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/babies-evacuated-from-iranian-hospital-damaged-in-us-israeli-strikes?traffic_source=rss"
         },
         {
-          "title": "T20 World Cup teams stuck in India because of Middle East travel chaos",
-          "url": "https://www.aljazeera.com/sports/2026/3/3/t20-world-cup-cricket-teams-stuck-in-india-because-of-travel-chaos?traffic_source=rss"
+          "title": "IAEA confirms buildings damaged at Iran’s Natanz nuclear facility",
+          "url": "https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility?traffic_source=rss"
         },
         {
-          "title": "UN chief warns of Israeli-made humanitarian crisis in Gaza amid war on Iran",
-          "url": "https://www.aljazeera.com/news/2026/3/3/un-chief-warns-of-israeli-made-humanitarian-crisis-in-gaza-amid-war-on-iran?traffic_source=rss"
+          "title": "Inside the US-Israel plan to assassinate Iran’s Khamenei",
+          "url": "https://www.aljazeera.com/news/2026/3/3/inside-the-us-israel-plan-to-assassinate-irans-khamenei?traffic_source=rss"
         },
         {
-          "title": "Dubai hotel guests shelter in car park as Iran attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/dubai-hotel-guests-shelter-in-car-park-as-iran-attacks?traffic_source=rss"
+          "title": "Qatar says it downed Iranian missiles targeting its airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/qatar-says-it-downed-iranian-missiles-targeting-its-airport?traffic_source=rss"
         },
         {
-          "title": "Iran mourns 165 girls, staff killed in school strike during US-Israel war",
-          "url": "https://www.aljazeera.com/gallery/2026/3/3/iran-mourns-165-schoolgirls-and-staff-killed-in-school-strike?traffic_source=rss"
+          "title": "Iran shows government buildings destroyed by US-Israeli strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/iran-shows-government-buildings-destroyed-by-us-israeli-strikes?traffic_source=rss"
         }
       ],
-      "chg1d": 0.02829443228786774,
-      "chg5d": 0.024340770791075113,
-      "chg1m": 0.08705081042874822
+      "chg1d": -0.013586956521739106,
+      "chg5d": 0.021143375680580747,
+      "chg1m": 0.10215475024485805
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 11.27,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Babies evacuated from Iranian hospital damaged in US-Israeli strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/babies-evacuated-from-iranian-hospital-damaged-in-us-israeli-strikes?traffic_source=rss"
+        },
+        {
+          "title": "IAEA confirms buildings damaged at Iran’s Natanz nuclear facility",
+          "url": "https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility?traffic_source=rss"
+        },
+        {
+          "title": "Inside the US-Israel plan to assassinate Iran’s Khamenei",
+          "url": "https://www.aljazeera.com/news/2026/3/3/inside-the-us-israel-plan-to-assassinate-irans-khamenei?traffic_source=rss"
+        },
+        {
+          "title": "Qatar says it downed Iranian missiles targeting its airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/qatar-says-it-downed-iranian-missiles-targeting-its-airport?traffic_source=rss"
+        },
+        {
+          "title": "Iran shows government buildings destroyed by US-Israeli strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/iran-shows-government-buildings-destroyed-by-us-israeli-strikes?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.02391754100783221,
+      "chg5d": -0.005892268561022175,
+      "chg1m": 0.04146037652549582
     },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 11.49,
+      "score": 11.27,
       "confianca": 95,
       "razoes": [
         {
-          "title": "US and Israeli attacks on Iran prompt worldwide protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-and-israeli-attacks-on-iran-prompt-worldwide-protests?traffic_source=rss"
+          "title": "Babies evacuated from Iranian hospital damaged in US-Israeli strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/babies-evacuated-from-iranian-hospital-damaged-in-us-israeli-strikes?traffic_source=rss"
         },
         {
-          "title": "T20 World Cup teams stuck in India because of Middle East travel chaos",
-          "url": "https://www.aljazeera.com/sports/2026/3/3/t20-world-cup-cricket-teams-stuck-in-india-because-of-travel-chaos?traffic_source=rss"
+          "title": "IAEA confirms buildings damaged at Iran’s Natanz nuclear facility",
+          "url": "https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility?traffic_source=rss"
         },
         {
-          "title": "UN chief warns of Israeli-made humanitarian crisis in Gaza amid war on Iran",
-          "url": "https://www.aljazeera.com/news/2026/3/3/un-chief-warns-of-israeli-made-humanitarian-crisis-in-gaza-amid-war-on-iran?traffic_source=rss"
+          "title": "Inside the US-Israel plan to assassinate Iran’s Khamenei",
+          "url": "https://www.aljazeera.com/news/2026/3/3/inside-the-us-israel-plan-to-assassinate-irans-khamenei?traffic_source=rss"
         },
         {
-          "title": "Dubai hotel guests shelter in car park as Iran attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/dubai-hotel-guests-shelter-in-car-park-as-iran-attacks?traffic_source=rss"
+          "title": "Qatar says it downed Iranian missiles targeting its airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/qatar-says-it-downed-iranian-missiles-targeting-its-airport?traffic_source=rss"
         },
         {
-          "title": "Iran mourns 165 girls, staff killed in school strike during US-Israel war",
-          "url": "https://www.aljazeera.com/gallery/2026/3/3/iran-mourns-165-schoolgirls-and-staff-killed-in-school-strike?traffic_source=rss"
+          "title": "Iran shows government buildings destroyed by US-Israeli strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/iran-shows-government-buildings-destroyed-by-us-israeli-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 11.49,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US and Israeli attacks on Iran prompt worldwide protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-and-israeli-attacks-on-iran-prompt-worldwide-protests?traffic_source=rss"
-        },
-        {
-          "title": "T20 World Cup teams stuck in India because of Middle East travel chaos",
-          "url": "https://www.aljazeera.com/sports/2026/3/3/t20-world-cup-cricket-teams-stuck-in-india-because-of-travel-chaos?traffic_source=rss"
-        },
-        {
-          "title": "UN chief warns of Israeli-made humanitarian crisis in Gaza amid war on Iran",
-          "url": "https://www.aljazeera.com/news/2026/3/3/un-chief-warns-of-israeli-made-humanitarian-crisis-in-gaza-amid-war-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Dubai hotel guests shelter in car park as Iran attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/dubai-hotel-guests-shelter-in-car-park-as-iran-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Iran mourns 165 girls, staff killed in school strike during US-Israel war",
-          "url": "https://www.aljazeera.com/gallery/2026/3/3/iran-mourns-165-schoolgirls-and-staff-killed-in-school-strike?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02002861230329037,
-      "chg5d": 0.034270172257479616,
-      "chg1m": 0.12928133042961792
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions Rwandan army and top officials for supporting M23 in DRC",
-          "url": "https://www.aljazeera.com/news/2026/3/3/us-sanctions-rwandan-army-and-top-officials-for-supporting-m23-in-drc?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.014603022051364116,
-      "chg5d": -0.0025132418116960513,
-      "chg1m": 0.0870563981740539
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions Rwandan army and top officials for supporting M23 in DRC",
-          "url": "https://www.aljazeera.com/news/2026/3/3/us-sanctions-rwandan-army-and-top-officials-for-supporting-m23-in-drc?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0006812569190156096,
-      "chg5d": -0.013368084748612695,
-      "chg1m": -0.025143300196605056
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US sanctions Rwandan army and top officials for supporting M23 in DRC",
-          "url": "https://www.aljazeera.com/news/2026/3/3/us-sanctions-rwandan-army-and-top-officials-for-supporting-m23-in-drc?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.018627288771233166,
-      "chg5d": -0.0420258548173272,
-      "chg1m": -0.021729569256989004
     }
   ]
 }
