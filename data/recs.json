@@ -1,31 +1,62 @@
 {
-  "generated_at": "2026-03-05T12:40:41.912834Z",
+  "generated_at": "2026-03-05T15:42:06.840062Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 13.23,
+      "score": 15.31,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iranians get by as US, Israeli bombs rain down, internet blocked",
-          "url": "https://www.aljazeera.com/news/2026/3/5/iranians-get-by-as-us-israeli-bombs-rain-down-internet-blocked?traffic_source=rss"
+          "title": "Videos show destruction after US and Israeli strikes on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/videos-show-destruction-after-us-and-israeli-strikes-on-iran?traffic_source=rss"
         },
         {
-          "title": "Iran, The US, and the World Cup",
-          "url": "https://www.aljazeera.com/video/game-theory/2026/3/5/aje-onl-iran-wc_v5-050326?traffic_source=rss"
+          "title": "Iran women’s football team salute, sing national anthem in Asian Cup match",
+          "url": "https://www.aljazeera.com/sports/2026/3/5/iran-womens-football-team-salute-sing-national-anthem-in-asian-cup-match?traffic_source=rss"
         },
         {
-          "title": "How will the Middle East conflict affect global energy prices?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/5/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss"
+          "title": "Which Kurdish groups is the US rallying to fight Iran?",
+          "url": "https://www.aljazeera.com/news/2026/3/5/which-kurdish-groups-is-the-us-rallying-to-fight?traffic_source=rss"
         },
         {
-          "title": "Sri Lanka trying to ‘safeguard lives’ on second Iran ship after US attack",
-          "url": "https://www.aljazeera.com/news/2026/3/5/sri-lanka-trying-to-safeguard-lives-on-second-iran-ship-after-us-attack?traffic_source=rss"
+          "title": "Map shows how big Iran is compared with the 50 US states",
+          "url": "https://www.aljazeera.com/news/2026/3/5/map-shows-how-big-iran-is-compared-with-the-50-us-states?traffic_source=rss"
         },
         {
-          "title": "A long and troubled trail: Qatar’s IRGC cell arrests strain Iran relations",
-          "url": "https://www.aljazeera.com/features/2026/3/5/a-long-and-troubled-trail-qatars-irgc-cell-arrests-strain-iran-relations?traffic_source=rss"
+          "title": "While US encourages Kurds to attack Iran, history serves darker warning",
+          "url": "https://www.aljazeera.com/features/2026/3/5/while-us-encourages-kurds-to-attack-iran-history-serves-darker-warning?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.012101797472859934,
+      "chg5d": 0.033060853769300645,
+      "chg1m": 0.10063866847300165
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 15.31,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Videos show destruction after US and Israeli strikes on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/videos-show-destruction-after-us-and-israeli-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iran women’s football team salute, sing national anthem in Asian Cup match",
+          "url": "https://www.aljazeera.com/sports/2026/3/5/iran-womens-football-team-salute-sing-national-anthem-in-asian-cup-match?traffic_source=rss"
+        },
+        {
+          "title": "Which Kurdish groups is the US rallying to fight Iran?",
+          "url": "https://www.aljazeera.com/news/2026/3/5/which-kurdish-groups-is-the-us-rallying-to-fight?traffic_source=rss"
+        },
+        {
+          "title": "Map shows how big Iran is compared with the 50 US states",
+          "url": "https://www.aljazeera.com/news/2026/3/5/map-shows-how-big-iran-is-compared-with-the-50-us-states?traffic_source=rss"
+        },
+        {
+          "title": "While US encourages Kurds to attack Iran, history serves darker warning",
+          "url": "https://www.aljazeera.com/features/2026/3/5/while-us-encourages-kurds-to-attack-iran-history-serves-darker-warning?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,66 +64,35 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 13.23,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iranians get by as US, Israeli bombs rain down, internet blocked",
-          "url": "https://www.aljazeera.com/news/2026/3/5/iranians-get-by-as-us-israeli-bombs-rain-down-internet-blocked?traffic_source=rss"
-        },
-        {
-          "title": "Iran, The US, and the World Cup",
-          "url": "https://www.aljazeera.com/video/game-theory/2026/3/5/aje-onl-iran-wc_v5-050326?traffic_source=rss"
-        },
-        {
-          "title": "How will the Middle East conflict affect global energy prices?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/5/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss"
-        },
-        {
-          "title": "Sri Lanka trying to ‘safeguard lives’ on second Iran ship after US attack",
-          "url": "https://www.aljazeera.com/news/2026/3/5/sri-lanka-trying-to-safeguard-lives-on-second-iran-ship-after-us-attack?traffic_source=rss"
-        },
-        {
-          "title": "A long and troubled trail: Qatar’s IRGC cell arrests strain Iran relations",
-          "url": "https://www.aljazeera.com/features/2026/3/5/a-long-and-troubled-trail-qatars-irgc-cell-arrests-strain-iran-relations?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005838641188959755,
-      "chg5d": 0.024056861673045386,
-      "chg1m": 0.12267732267732269
-    },
-    {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 11.88,
+      "score": 13.97,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iranians get by as US, Israeli bombs rain down, internet blocked",
-          "url": "https://www.aljazeera.com/news/2026/3/5/iranians-get-by-as-us-israeli-bombs-rain-down-internet-blocked?traffic_source=rss"
+          "title": "Videos show destruction after US and Israeli strikes on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/videos-show-destruction-after-us-and-israeli-strikes-on-iran?traffic_source=rss"
         },
         {
-          "title": "Iran, The US, and the World Cup",
-          "url": "https://www.aljazeera.com/video/game-theory/2026/3/5/aje-onl-iran-wc_v5-050326?traffic_source=rss"
+          "title": "Iran women’s football team salute, sing national anthem in Asian Cup match",
+          "url": "https://www.aljazeera.com/sports/2026/3/5/iran-womens-football-team-salute-sing-national-anthem-in-asian-cup-match?traffic_source=rss"
         },
         {
-          "title": "How will the Middle East conflict affect global energy prices?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/5/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss"
+          "title": "Which Kurdish groups is the US rallying to fight Iran?",
+          "url": "https://www.aljazeera.com/news/2026/3/5/which-kurdish-groups-is-the-us-rallying-to-fight?traffic_source=rss"
         },
         {
-          "title": "Sri Lanka trying to ‘safeguard lives’ on second Iran ship after US attack",
-          "url": "https://www.aljazeera.com/news/2026/3/5/sri-lanka-trying-to-safeguard-lives-on-second-iran-ship-after-us-attack?traffic_source=rss"
+          "title": "Map shows how big Iran is compared with the 50 US states",
+          "url": "https://www.aljazeera.com/news/2026/3/5/map-shows-how-big-iran-is-compared-with-the-50-us-states?traffic_source=rss"
         },
         {
-          "title": "A long and troubled trail: Qatar’s IRGC cell arrests strain Iran relations",
-          "url": "https://www.aljazeera.com/features/2026/3/5/a-long-and-troubled-trail-qatars-irgc-cell-arrests-strain-iran-relations?traffic_source=rss"
+          "title": "While US encourages Kurds to attack Iran, history serves darker warning",
+          "url": "https://www.aljazeera.com/features/2026/3/5/while-us-encourages-kurds-to-attack-iran-history-serves-darker-warning?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005001347668533484,
-      "chg5d": 0.026223938223938252,
-      "chg1m": 0.04477987421383651
+      "chg1d": -0.0074343847820853215,
+      "chg5d": 0.027913283356451487,
+      "chg1m": 0.049788304205265296
     }
   ]
 }
