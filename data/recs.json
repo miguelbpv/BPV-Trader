@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-03-05T04:29:13.189619Z",
+  "generated_at": "2026-03-05T06:39:41.956410Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 12.27,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Who is choosing Iran’s next Supreme Leader?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/who-is-choosing-irans-next-supreme-leader?traffic_source=rss"
-        },
-        {
-          "title": "Iranian rockets intercepted over central Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/iranian-rockets-intercepted-over-central-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s succession question: Rouhani’s name resurfaces amid leadership void",
-          "url": "https://www.aljazeera.com/features/2026/3/5/irans-succession-question-rouhanis-name-resurfaces-amid-leadership-void?traffic_source=rss"
-        },
-        {
-          "title": "Demonstrators across Iran condemn US-Israeli war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/demonstrators-across-iran-condemn-us-israeli-war?traffic_source=rss"
-        },
-        {
-          "title": "Senate Republicans block war powers resolution on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/senate-republicans-block-war-powers-resolution-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.005838641188959755,
-      "chg5d": 0.024056861673045386,
-      "chg1m": 0.12267732267732269
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 12.27,
+      "score": 12.6,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Video: Intense US-Israeli bombardment across Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/video-intense-us-israeli-bombardment-across-iran?traffic_source=rss"
+        },
+        {
+          "title": "Canada PM Carney says unable to rule out military role in Iran war",
+          "url": "https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss"
+        },
         {
           "title": "Who is choosing Iran’s next Supreme Leader?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/who-is-choosing-irans-next-supreme-leader?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Iran’s succession question: Rouhani’s name resurfaces amid leadership void",
           "url": "https://www.aljazeera.com/features/2026/3/5/irans-succession-question-rouhanis-name-resurfaces-amid-leadership-void?traffic_source=rss"
-        },
-        {
-          "title": "Demonstrators across Iran condemn US-Israeli war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/demonstrators-across-iran-condemn-us-israeli-war?traffic_source=rss"
-        },
-        {
-          "title": "Senate Republicans block war powers resolution on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/senate-republicans-block-war-powers-resolution-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 10.93,
+      "score": 12.6,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Video: Intense US-Israeli bombardment across Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/video-intense-us-israeli-bombardment-across-iran?traffic_source=rss"
+        },
+        {
+          "title": "Canada PM Carney says unable to rule out military role in Iran war",
+          "url": "https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss"
+        },
         {
           "title": "Who is choosing Iran’s next Supreme Leader?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/who-is-choosing-irans-next-supreme-leader?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Iran’s succession question: Rouhani’s name resurfaces amid leadership void",
           "url": "https://www.aljazeera.com/features/2026/3/5/irans-succession-question-rouhanis-name-resurfaces-amid-leadership-void?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.005838641188959755,
+      "chg5d": 0.024056861673045386,
+      "chg1m": 0.12267732267732269
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 11.27,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Video: Intense US-Israeli bombardment across Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/video-intense-us-israeli-bombardment-across-iran?traffic_source=rss"
         },
         {
-          "title": "Demonstrators across Iran condemn US-Israeli war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/demonstrators-across-iran-condemn-us-israeli-war?traffic_source=rss"
+          "title": "Canada PM Carney says unable to rule out military role in Iran war",
+          "url": "https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss"
         },
         {
-          "title": "Senate Republicans block war powers resolution on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/senate-republicans-block-war-powers-resolution-on-iran?traffic_source=rss"
+          "title": "Who is choosing Iran’s next Supreme Leader?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/who-is-choosing-irans-next-supreme-leader?traffic_source=rss"
+        },
+        {
+          "title": "Iranian rockets intercepted over central Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/iranian-rockets-intercepted-over-central-israel?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s succession question: Rouhani’s name resurfaces amid leadership void",
+          "url": "https://www.aljazeera.com/features/2026/3/5/irans-succession-question-rouhanis-name-resurfaces-amid-leadership-void?traffic_source=rss"
         }
       ],
       "chg1d": -0.005001347668533484,
