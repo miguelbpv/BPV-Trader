@@ -1,49 +1,22 @@
 {
-  "generated_at": "2026-03-06T01:22:16.856139Z",
+  "generated_at": "2026-03-06T04:26:51.515046Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 11.1,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss"
-        },
-        {
-          "title": "Iran live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Suspected Iranian missile debris ignites fires in central Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/suspected-iranian-missile-debris-ignites-fires-in-central-israel?traffic_source=rss"
-        },
-        {
-          "title": "Trump offers immunity to IRGC, Iranian police who ‘lay down their arms’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/trump-offers-immunity-to-irgc-iranian-police-who-lay-down-their?traffic_source=rss"
-        },
-        {
-          "title": "US House narrowly rejects resolution to end Trump’s Iran war",
-          "url": "https://www.aljazeera.com/news/2026/3/5/us-house-narrowly-rejects-resolution-to-end-trumps-iran-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.014266795087888301,
-      "chg5d": 0.020837554353755287,
-      "chg1m": 0.04256199662560088
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 11.1,
+      "score": 10.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How US sinking of Iranian warship blew hole in Modi’s ‘guardian’ claims",
+          "url": "https://www.aljazeera.com/features/2026/3/6/how-us-sinking-of-iranian-warship-blew-hole-in-modis-guardian-claims?traffic_source=rss"
+        },
         {
           "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss"
         },
         {
-          "title": "Iran live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
+          "title": "Iran war live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss"
         },
         {
@@ -53,10 +26,6 @@
         {
           "title": "Trump offers immunity to IRGC, Iranian police who ‘lay down their arms’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/trump-offers-immunity-to-irgc-iranian-police-who-lay-down-their?traffic_source=rss"
-        },
-        {
-          "title": "US House narrowly rejects resolution to end Trump’s Iran war",
-          "url": "https://www.aljazeera.com/news/2026/3/5/us-house-narrowly-rejects-resolution-to-end-trumps-iran-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,15 +35,19 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 11.1,
+      "score": 10.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How US sinking of Iranian warship blew hole in Modi’s ‘guardian’ claims",
+          "url": "https://www.aljazeera.com/features/2026/3/6/how-us-sinking-of-iranian-warship-blew-hole-in-modis-guardian-claims?traffic_source=rss"
+        },
         {
           "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss"
         },
         {
-          "title": "Iran live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
+          "title": "Iran war live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss"
         },
         {
@@ -84,30 +57,42 @@
         {
           "title": "Trump offers immunity to IRGC, Iranian police who ‘lay down their arms’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/trump-offers-immunity-to-irgc-iranian-police-who-lay-down-their?traffic_source=rss"
-        },
-        {
-          "title": "US House narrowly rejects resolution to end Trump’s Iran war",
-          "url": "https://www.aljazeera.com/news/2026/3/5/us-house-narrowly-rejects-resolution-to-end-trumps-iran-war?traffic_source=rss"
         }
       ],
-      "chg1d": 0.00533902829685005,
-      "chg5d": 0.026158038147139052,
-      "chg1m": 0.09328430423843623
+      "chg1d": 0.005161060686954959,
+      "chg5d": 0.025976385104450495,
+      "chg1m": 0.09309076833752651
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 10.28,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "US states sue to stop Trump’s latest global tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/3/5/us-states-sue-to-stop-trumps-latest-global-tariffs?traffic_source=rss"
+          "title": "How US sinking of Iranian warship blew hole in Modi’s ‘guardian’ claims",
+          "url": "https://www.aljazeera.com/features/2026/3/6/how-us-sinking-of-iranian-warship-blew-hole-in-modis-guardian-claims?traffic_source=rss"
+        },
+        {
+          "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Suspected Iranian missile debris ignites fires in central Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/suspected-iranian-missile-debris-ignites-fires-in-central-israel?traffic_source=rss"
+        },
+        {
+          "title": "Trump offers immunity to IRGC, Iranian police who ‘lay down their arms’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/trump-offers-immunity-to-irgc-iranian-police-who-lay-down-their?traffic_source=rss"
         }
       ],
-      "chg1d": -0.011359976577367868,
-      "chg5d": -0.05361547085201792,
-      "chg1m": -0.02305867376461049
+      "chg1d": -0.014266795087888301,
+      "chg5d": 0.020837554353755287,
+      "chg1m": 0.04256199662560088
     },
     {
       "symbol": "ASML.AS",
@@ -123,6 +108,21 @@
       "chg1d": -0.022243817390620948,
       "chg5d": -0.06520016395682474,
       "chg1m": -0.019715161761756174
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US states sue to stop Trump’s latest global tariffs",
+          "url": "https://www.aljazeera.com/economy/2026/3/5/us-states-sue-to-stop-trumps-latest-global-tariffs?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.011359976577367868,
+      "chg5d": -0.05361547085201792,
+      "chg1m": -0.02305867376461049
     },
     {
       "symbol": "TSM",
