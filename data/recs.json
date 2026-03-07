@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-03-07T04:17:55.347097Z",
+  "generated_at": "2026-03-07T06:29:16.993012Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 12.42,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss"
-        },
-        {
-          "title": "Massive explosions, fires from US-Israeli strikes on Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/massive-explosions-fires-from-us-israeli-strikes-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Iranian missiles over Tel Aviv prompt sirens, interceptor launches",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/iranian-missiles-over-tel-aviv-prompt-sirens-interceptor-launches?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s legal case for striking the Gulf collapses under scrutiny",
-          "url": "https://www.aljazeera.com/opinions/2026/3/7/irans-legal-case-for-striking-the-gulf-collapses-under-scrutiny?traffic_source=rss"
-        },
-        {
-          "title": "Wake up before it’s too late: Oppose the unjust, cruel war on Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/3/7/wake-up-before-its-too-late-oppose-the-unjust-cruel-war-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0015934844192635165,
-      "chg5d": 0.011623748211731018,
-      "chg1m": 0.07079310997539282
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 12.42,
+      "score": 12.16,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Iranian missiles intercepted over Saudi, Jordan, drones launched at Qatar",
+          "url": "https://www.aljazeera.com/news/2026/3/7/iranian-missiles-intercepted-over-saudi-jordan-drones-launched-at-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Iran war: What is happening on day eight of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/7/iran-war-what-is-happening-on-day-eight-of-us-israel-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?",
+          "url": "https://www.aljazeera.com/news/2026/3/7/caught-between-iran-and-saudi-arabia-can-pakistan-stay-neutral-for-long?traffic_source=rss"
+        },
+        {
+          "title": "Why Yemen’s Houthis are staying out of Israel-US fight with Iran – for now",
+          "url": "https://www.aljazeera.com/news/2026/3/7/why-yemens-houthis-are-staying-out-of-israel-us-fight-with-iran-for-now?traffic_source=rss"
+        },
+        {
           "title": "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss"
-        },
-        {
-          "title": "Massive explosions, fires from US-Israeli strikes on Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/massive-explosions-fires-from-us-israeli-strikes-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Iranian missiles over Tel Aviv prompt sirens, interceptor launches",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/iranian-missiles-over-tel-aviv-prompt-sirens-interceptor-launches?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s legal case for striking the Gulf collapses under scrutiny",
-          "url": "https://www.aljazeera.com/opinions/2026/3/7/irans-legal-case-for-striking-the-gulf-collapses-under-scrutiny?traffic_source=rss"
-        },
-        {
-          "title": "Wake up before it’s too late: Oppose the unjust, cruel war on Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/3/7/wake-up-before-its-too-late-oppose-the-unjust-cruel-war-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,30 +33,61 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 11.08,
+      "score": 12.16,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Iranian missiles intercepted over Saudi, Jordan, drones launched at Qatar",
+          "url": "https://www.aljazeera.com/news/2026/3/7/iranian-missiles-intercepted-over-saudi-jordan-drones-launched-at-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Iran war: What is happening on day eight of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/7/iran-war-what-is-happening-on-day-eight-of-us-israel-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?",
+          "url": "https://www.aljazeera.com/news/2026/3/7/caught-between-iran-and-saudi-arabia-can-pakistan-stay-neutral-for-long?traffic_source=rss"
+        },
+        {
+          "title": "Why Yemen’s Houthis are staying out of Israel-US fight with Iran – for now",
+          "url": "https://www.aljazeera.com/news/2026/3/7/why-yemens-houthis-are-staying-out-of-israel-us-fight-with-iran-for-now?traffic_source=rss"
+        },
+        {
           "title": "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0015934844192635165,
+      "chg5d": 0.011623748211731018,
+      "chg1m": 0.07079310997539282
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 10.83,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iranian missiles intercepted over Saudi, Jordan, drones launched at Qatar",
+          "url": "https://www.aljazeera.com/news/2026/3/7/iranian-missiles-intercepted-over-saudi-jordan-drones-launched-at-qatar?traffic_source=rss"
         },
         {
-          "title": "Massive explosions, fires from US-Israeli strikes on Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/massive-explosions-fires-from-us-israeli-strikes-on-tehran?traffic_source=rss"
+          "title": "Iran war: What is happening on day eight of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/7/iran-war-what-is-happening-on-day-eight-of-us-israel-attacks?traffic_source=rss"
         },
         {
-          "title": "Iranian missiles over Tel Aviv prompt sirens, interceptor launches",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/iranian-missiles-over-tel-aviv-prompt-sirens-interceptor-launches?traffic_source=rss"
+          "title": "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?",
+          "url": "https://www.aljazeera.com/news/2026/3/7/caught-between-iran-and-saudi-arabia-can-pakistan-stay-neutral-for-long?traffic_source=rss"
         },
         {
-          "title": "Iran’s legal case for striking the Gulf collapses under scrutiny",
-          "url": "https://www.aljazeera.com/opinions/2026/3/7/irans-legal-case-for-striking-the-gulf-collapses-under-scrutiny?traffic_source=rss"
+          "title": "Why Yemen’s Houthis are staying out of Israel-US fight with Iran – for now",
+          "url": "https://www.aljazeera.com/news/2026/3/7/why-yemens-houthis-are-staying-out-of-israel-us-fight-with-iran-for-now?traffic_source=rss"
         },
         {
-          "title": "Wake up before it’s too late: Oppose the unjust, cruel war on Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/3/7/wake-up-before-its-too-late-oppose-the-unjust-cruel-war-on-iran?traffic_source=rss"
+          "title": "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/anti-aircraft-fire-seen-in-eastern-lebanon-amid-israeli-incursion?traffic_source=rss"
         }
       ],
       "chg1d": 0.025603053435114476,
