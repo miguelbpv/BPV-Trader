@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-03-07T15:15:38.671319Z",
+  "generated_at": "2026-03-07T18:22:18.570507Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 10.81,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
-          "url": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss"
-        },
-        {
-          "title": "Iranian authorities warn against ‘fifth column’, as no signs of war abating",
-          "url": "https://www.aljazeera.com/news/2026/3/7/iranian-authorities-warn-against-fifth-column-as-no-signs-of-war-abating?traffic_source=rss"
-        },
-        {
-          "title": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/aftermath-of-village-in-lebanon-after-hezbollah-israeli-troops-clash?traffic_source=rss"
-        },
-        {
-          "title": "Indonesians protest Iran war, pressure president over US ties",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss"
-        },
-        {
-          "title": "Kurdish fighters say Iran ground operation ‘highly likely’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/kurdish-fighters-say-iran-ground-operation-highly?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 10.81,
+      "score": 8.31,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "War against Iran: How far will it go?",
+          "url": "https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss"
+        },
         {
           "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
           "url": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Indonesians protest Iran war, pressure president over US ties",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss"
-        },
-        {
-          "title": "Kurdish fighters say Iran ground operation ‘highly likely’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/kurdish-fighters-say-iran-ground-operation-highly?traffic_source=rss"
         }
       ],
       "chg1d": 0.0015934844192635165,
@@ -64,11 +33,15 @@
       "chg1m": 0.07079310997539282
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 10.81,
+      "score": 8.31,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "War against Iran: How far will it go?",
+          "url": "https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss"
+        },
         {
           "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
           "url": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Indonesians protest Iran war, pressure president over US ties",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 8.31,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "War against Iran: How far will it go?",
+          "url": "https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss"
         },
         {
-          "title": "Kurdish fighters say Iran ground operation ‘highly likely’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/kurdish-fighters-say-iran-ground-operation-highly?traffic_source=rss"
+          "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
+          "url": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss"
+        },
+        {
+          "title": "Iranian authorities warn against ‘fifth column’, as no signs of war abating",
+          "url": "https://www.aljazeera.com/news/2026/3/7/iranian-authorities-warn-against-fifth-column-as-no-signs-of-war-abating?traffic_source=rss"
+        },
+        {
+          "title": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/aftermath-of-village-in-lebanon-after-hezbollah-israeli-troops-clash?traffic_source=rss"
+        },
+        {
+          "title": "Indonesians protest Iran war, pressure president over US ties",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss"
         }
       ],
       "chg1d": 0.025603053435114476,
