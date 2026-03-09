@@ -1,14 +1,45 @@
 {
-  "generated_at": "2026-03-09T01:19:46.823590Z",
+  "generated_at": "2026-03-09T04:46:35.590051Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.96,
+      "score": 8.87,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Oil soars past $100 a barrel amid Iran war",
+          "title": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
+          "url": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Iran names Ayatollah Khamenei’s son as new leader after father’s killing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-names-ayatollah-khameneis-son-as-new-leader-after-fathers-killing?traffic_source=rss"
+        },
+        {
+          "title": "Who’s in control in Iran and how will Gulf states react to attacks?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss"
+        },
+        {
+          "title": "Palestinians killed during Israeli settler attack in the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/palestinians-killed-during-israeli-settler-attack-in-the-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0015934844192635165,
+      "chg5d": 0.011623748211731018,
+      "chg1m": 0.07079310997539282
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 8.87,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
           "url": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss"
         },
         {
@@ -35,11 +66,11 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.96,
+      "score": 8.87,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Oil soars past $100 a barrel amid Iran war",
+          "title": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
           "url": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss"
         },
         {
@@ -62,37 +93,6 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 8.96,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Oil soars past $100 a barrel amid Iran war",
-          "url": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Iran names Ayatollah Khamenei’s son as new leader after father’s killing",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-names-ayatollah-khameneis-son-as-new-leader-after-fathers-killing?traffic_source=rss"
-        },
-        {
-          "title": "Who’s in control in Iran and how will Gulf states react to attacks?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss"
-        },
-        {
-          "title": "Palestinians killed during Israeli settler attack in the occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/palestinians-killed-during-israeli-settler-attack-in-the-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0015934844192635165,
-      "chg5d": 0.011623748211731018,
-      "chg1m": 0.07079310997539282
     }
   ]
 }
