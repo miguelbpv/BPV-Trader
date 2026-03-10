@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-03-10T04:27:24.754266Z",
+  "generated_at": "2026-03-10T06:38:10.900414Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 16.04,
+      "score": 15.73,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US consumers express dismay over rising gas prices after attack on Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/10/us-consumers-express-dismay-over-rising-gas-prices-after-attack-on-iran?traffic_source=rss"
+        },
         {
           "title": "Trump claims Iran planned to ‘take over Middle East’ before US attacked",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-claims-iran-planned-to-take-over-middle-east-before-us-attacked?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Trump threatens to hit Iran harder if it blocks energy supplies",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-threatens-to-hit-iran-harder-if-it-blocks-energy-supplies?traffic_source=rss"
-        },
-        {
-          "title": "Iran war may end ‘pretty quickly’: What Trump told Republicans",
-          "url": "https://www.aljazeera.com/news/2026/3/10/iran-war-may-end-pretty-quickly-what-trump-told-republicans?traffic_source=rss"
         }
       ],
       "chg1d": -0.0044193035177656,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 16.04,
+      "score": 15.73,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US consumers express dismay over rising gas prices after attack on Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/10/us-consumers-express-dismay-over-rising-gas-prices-after-attack-on-iran?traffic_source=rss"
+        },
         {
           "title": "Trump claims Iran planned to ‘take over Middle East’ before US attacked",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-claims-iran-planned-to-take-over-middle-east-before-us-attacked?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Trump threatens to hit Iran harder if it blocks energy supplies",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-threatens-to-hit-iran-harder-if-it-blocks-energy-supplies?traffic_source=rss"
-        },
-        {
-          "title": "Iran war may end ‘pretty quickly’: What Trump told Republicans",
-          "url": "https://www.aljazeera.com/news/2026/3/10/iran-war-may-end-pretty-quickly-what-trump-told-republicans?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 14.71,
+      "score": 14.4,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US consumers express dismay over rising gas prices after attack on Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/10/us-consumers-express-dismay-over-rising-gas-prices-after-attack-on-iran?traffic_source=rss"
+        },
         {
           "title": "Trump claims Iran planned to ‘take over Middle East’ before US attacked",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-claims-iran-planned-to-take-over-middle-east-before-us-attacked?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Trump threatens to hit Iran harder if it blocks energy supplies",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-threatens-to-hit-iran-harder-if-it-blocks-energy-supplies?traffic_source=rss"
-        },
-        {
-          "title": "Iran war may end ‘pretty quickly’: What Trump told Republicans",
-          "url": "https://www.aljazeera.com/news/2026/3/10/iran-war-may-end-pretty-quickly-what-trump-told-republicans?traffic_source=rss"
         }
       ],
       "chg1d": -0.011343168048588065,
@@ -97,7 +97,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
@@ -110,24 +110,9 @@
       "chg1m": 0.016745760662576006
     },
     {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Trump says some sanctions to be lifted on oil producers amid Iran war",
-          "url": "https://www.aljazeera.com/economy/2026/3/10/trump-says-some-sanctions-to-be-lifted-on-oil-producers-amid-iran-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.028947446073947305,
-      "chg5d": -0.05529516946167816,
-      "chg1m": 0.054334351283524235
-    },
-    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.1,
+      "score": 1.09,
       "confianca": 31,
       "razoes": [
         {
@@ -138,6 +123,21 @@
       "chg1d": 0.04998452970297039,
       "chg5d": -0.04644758840636715,
       "chg1m": 0.005377140487053379
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.09,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Trump says some sanctions to be lifted on oil producers amid Iran war",
+          "url": "https://www.aljazeera.com/economy/2026/3/10/trump-says-some-sanctions-to-be-lifted-on-oil-producers-amid-iran-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.028947446073947305,
+      "chg5d": -0.05529516946167816,
+      "chg1m": 0.054334351283524235
     }
   ]
 }
