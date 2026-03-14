@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-03-14T01:16:35.303427Z",
+  "generated_at": "2026-03-14T04:27:49.607301Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 10.97,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
-          "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s military campaign in Lebanon reaches devastating new phase",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss"
-        },
-        {
-          "title": "Iranian missile strike in central Israel sets building ablaze",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss"
-        },
-        {
-          "title": "Qatar’s interior minister says security situation ‘stable’ amid Iran war",
-          "url": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0033037732568249843,
-      "chg5d": 0.01997525190030056,
-      "chg1m": 0.04947253546744282
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 10.97,
+      "score": 11.64,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Projectile falls, explodes in Israel’s Negev",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/projectile-falls-explodes-in-israels-negev?traffic_source=rss"
+        },
         {
           "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
           "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Israel’s military campaign in Lebanon reaches devastating new phase",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss"
-        },
-        {
-          "title": "Iranian missile strike in central Israel sets building ablaze",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss"
-        },
-        {
-          "title": "Qatar’s interior minister says security situation ‘stable’ amid Iran war",
-          "url": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 9.89,
+      "score": 11.64,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Projectile falls, explodes in Israel’s Negev",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/projectile-falls-explodes-in-israels-negev?traffic_source=rss"
+        },
         {
           "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
           "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Israel’s military campaign in Lebanon reaches devastating new phase",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0033037732568249843,
+      "chg5d": 0.01997525190030056,
+      "chg1m": 0.04947253546744282
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 10.56,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
         },
         {
-          "title": "Iranian missile strike in central Israel sets building ablaze",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss"
+          "title": "Projectile falls, explodes in Israel’s Negev",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/projectile-falls-explodes-in-israels-negev?traffic_source=rss"
         },
         {
-          "title": "Qatar’s interior minister says security situation ‘stable’ amid Iran war",
-          "url": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss"
+          "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
+          "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s military campaign in Lebanon reaches devastating new phase",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss"
         }
       ],
       "chg1d": -0.010462141752064152,
@@ -110,21 +110,6 @@
       "chg1m": -0.08017767906718488
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
-          "url": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004357862649639587,
-      "chg5d": 0.040911200495049586,
-      "chg1m": -0.06264845398884117
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
       "score": 1.08,
@@ -140,40 +125,25 @@
       "chg1m": -0.09564543291721236
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 1.08,
+      "confianca": 30,
       "razoes": [
         {
-          "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
-          "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
+          "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
+          "url": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
-          "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0056601507371707984,
-      "chg5d": -0.015006395193194372,
-      "chg1m": -0.042878201052084036
+      "chg1d": -0.004357862649639587,
+      "chg5d": 0.040911200495049586,
+      "chg1m": -0.06264845398884117
     },
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
@@ -187,8 +157,8 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
@@ -198,6 +168,36 @@
       "chg1d": -0.005927066939021471,
       "chg5d": -0.010186219428838192,
       "chg1m": -0.031625646295118305
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
+          "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
+          "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0056601507371707984,
+      "chg5d": -0.015006395193194372,
+      "chg1m": -0.042878201052084036
     }
   ]
 }
