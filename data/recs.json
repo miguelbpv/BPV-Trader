@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-03-14T04:27:49.607301Z",
+  "generated_at": "2026-03-14T06:36:01.342094Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 11.64,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Projectile falls, explodes in Israel’s Negev",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/projectile-falls-explodes-in-israels-negev?traffic_source=rss"
-        },
-        {
-          "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
-          "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s military campaign in Lebanon reaches devastating new phase",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 11.64,
+      "score": 10.9,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni ports face shipping fee hike amid Iran conflict",
+          "url": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss"
+        },
         {
           "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
           "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s military campaign in Lebanon reaches devastating new phase",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss"
         }
       ],
       "chg1d": 0.0033037732568249843,
@@ -64,11 +33,19 @@
       "chg1m": 0.04947253546744282
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 10.56,
+      "score": 10.9,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni ports face shipping fee hike amid Iran conflict",
+          "url": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss"
+        },
         {
           "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
           "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 9.83,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran?traffic_source=rss"
+          "title": "Yemeni ports face shipping fee hike amid Iran conflict",
+          "url": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss"
         },
         {
-          "title": "Israel’s military campaign in Lebanon reaches devastating new phase",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss"
+          "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "Projectile falls, explodes in Israel’s Negev",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/projectile-falls-explodes-in-israels-negev?traffic_source=rss"
+        },
+        {
+          "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
+          "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
         }
       ],
       "chg1d": -0.010462141752064152,
@@ -95,24 +95,9 @@
       "chg1m": 0.027517098775250444
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.08,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
-          "url": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0034222720251975997,
-      "chg5d": 0.024363096710363578,
-      "chg1m": -0.08017767906718488
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -125,9 +110,24 @@
       "chg1m": -0.09564543291721236
     },
     {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.07,
+      "confianca": 30,
+      "razoes": [
+        {
+          "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
+          "url": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0034222720251975997,
+      "chg5d": 0.024363096710363578,
+      "chg1m": -0.08017767906718488
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.08,
+      "score": 1.07,
       "confianca": 30,
       "razoes": [
         {
@@ -140,24 +140,9 @@
       "chg1m": -0.06264845398884117
     },
     {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
-          "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0033143365264136177,
-      "chg5d": -0.017138985212642923,
-      "chg1m": -0.06929609360256647
-    },
-    {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -170,24 +155,9 @@
       "chg1m": -0.031625646295118305
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
-          "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -198,6 +168,36 @@
       "chg1d": -0.0056601507371707984,
       "chg5d": -0.015006395193194372,
       "chg1m": -0.042878201052084036
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
+          "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0033143365264136177,
+      "chg5d": -0.017138985212642923,
+      "chg1m": -0.06929609360256647
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
+          "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     }
   ]
 }
