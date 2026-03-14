@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-14T06:36:01.342094Z",
+  "generated_at": "2026-03-14T09:24:57.629230Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 10.9,
+      "score": 9.49,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘Israel is targeting civilian infrastructure as a matter of policy’",
+          "url": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-is-targeting-civilian-infrastructure-as-a-matter-of-policy?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills 12 medics in attack in southern Lebanon as war ravages nation",
+          "url": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss"
+        },
+        {
+          "title": "US attacks military sites on Iran’s Kharg island, home to vast oil facility",
+          "url": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss"
+        },
         {
           "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
           "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
@@ -14,18 +26,37 @@
         {
           "title": "Yemeni ports face shipping fee hike amid Iran conflict",
           "url": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.010462141752064152,
+      "chg5d": -0.03836134391235093,
+      "chg1m": 0.027517098775250444
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 9.49,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "‘Israel is targeting civilian infrastructure as a matter of policy’",
+          "url": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-is-targeting-civilian-infrastructure-as-a-matter-of-policy?traffic_source=rss"
         },
         {
-          "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
+          "title": "Israel kills 12 medics in attack in southern Lebanon as war ravages nation",
+          "url": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss"
         },
         {
-          "title": "Projectile falls, explodes in Israel’s Negev",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/projectile-falls-explodes-in-israels-negev?traffic_source=rss"
+          "title": "US attacks military sites on Iran’s Kharg island, home to vast oil facility",
+          "url": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss"
         },
         {
-          "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
-          "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
+          "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Yemeni ports face shipping fee hike amid Iran conflict",
+          "url": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss"
         }
       ],
       "chg1d": 0.0033037732568249843,
@@ -35,9 +66,21 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 10.9,
+      "score": 9.49,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘Israel is targeting civilian infrastructure as a matter of policy’",
+          "url": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-is-targeting-civilian-infrastructure-as-a-matter-of-policy?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills 12 medics in attack in southern Lebanon as war ravages nation",
+          "url": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss"
+        },
+        {
+          "title": "US attacks military sites on Iran’s Kharg island, home to vast oil facility",
+          "url": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss"
+        },
         {
           "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
           "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
@@ -45,18 +88,6 @@
         {
           "title": "Yemeni ports face shipping fee hike amid Iran conflict",
           "url": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss"
-        },
-        {
-          "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Projectile falls, explodes in Israel’s Negev",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/projectile-falls-explodes-in-israels-negev?traffic_source=rss"
-        },
-        {
-          "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
-          "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,83 +95,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 9.83,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
-          "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Yemeni ports face shipping fee hike amid Iran conflict",
-          "url": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss"
-        },
-        {
-          "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Projectile falls, explodes in Israel’s Negev",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/projectile-falls-explodes-in-israels-negev?traffic_source=rss"
-        },
-        {
-          "title": "Analysts say US threat of ‘no quarter’ for Iran violates international law",
-          "url": "https://www.aljazeera.com/news/2026/3/14/analysts-say-us-threat-of-no-quarter-for-iran-violates-international-law?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.010462141752064152,
-      "chg5d": -0.03836134391235093,
-      "chg1m": 0.027517098775250444
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.07,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
-          "url": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.00475186362151413,
-      "chg5d": -0.0017114697984596302,
-      "chg1m": -0.09564543291721236
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.07,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
-          "url": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0034222720251975997,
-      "chg5d": 0.024363096710363578,
-      "chg1m": -0.08017767906718488
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.07,
-      "confianca": 30,
-      "razoes": [
-        {
-          "title": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions",
-          "url": "https://www.aljazeera.com/news/2026/3/13/ukraine-eu-allies-slam-us-decision-to-roll-back-russia-oil-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.004357862649639587,
-      "chg5d": 0.040911200495049586,
-      "chg1m": -0.06264845398884117
-    },
-    {
-      "symbol": "QQQ",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
       "score": 0.97,
       "confianca": 27,
@@ -150,9 +105,9 @@
           "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
         }
       ],
-      "chg1d": -0.005927066939021471,
-      "chg5d": -0.010186219428838192,
-      "chg1m": -0.031625646295118305
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
     },
     {
       "symbol": "SPY",
@@ -185,7 +140,7 @@
       "chg1m": -0.06929609360256647
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "QQQ",
       "acao": "observar",
       "score": 0.97,
       "confianca": 27,
@@ -195,9 +150,9 @@
           "url": "https://www.aljazeera.com/news/2026/3/13/us-judge-nixes-two-subpoenas-against-federal-reserve-chair-jerome-powell?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
+      "chg1d": -0.005927066939021471,
+      "chg5d": -0.010186219428838192,
+      "chg1m": -0.031625646295118305
     }
   ]
 }
