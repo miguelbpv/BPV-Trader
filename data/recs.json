@@ -1,31 +1,62 @@
 {
-  "generated_at": "2026-03-14T12:32:06.511764Z",
+  "generated_at": "2026-03-14T15:19:21.518979Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.47,
+      "score": 10.07,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Hunger is looming over Yemen, urgent action is needed",
+          "url": "https://www.aljazeera.com/opinions/2026/3/14/hunger-is-looming-over-yemen-urgent-action-is-needed?traffic_source=rss"
+        },
+        {
+          "title": "Why is Iran’s Kharg Island important?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/us-bombs-irans-oil-hub-kharg-island?traffic_source=rss"
+        },
+        {
+          "title": "Smoke rises from Fujairah oil facility in UAE",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-rises-from-fujairah-oil-facility-in-uae?traffic_source=rss"
+        },
+        {
+          "title": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
+          "url": "https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss"
+        },
+        {
           "title": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
           "url": "https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 10.07,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Hunger is looming over Yemen, urgent action is needed",
+          "url": "https://www.aljazeera.com/opinions/2026/3/14/hunger-is-looming-over-yemen-urgent-action-is-needed?traffic_source=rss"
         },
         {
-          "title": "Family pulled from the rubble after US-Israeli strikes on Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/family-pulled-from-the-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss"
+          "title": "Why is Iran’s Kharg Island important?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/us-bombs-irans-oil-hub-kharg-island?traffic_source=rss"
         },
         {
-          "title": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
-          "url": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss"
+          "title": "Smoke rises from Fujairah oil facility in UAE",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-rises-from-fujairah-oil-facility-in-uae?traffic_source=rss"
         },
         {
-          "title": "Four killed in southern Lebanon apartment after reported Israeli attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss"
+          "title": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
+          "url": "https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss"
         },
         {
-          "title": "More than 110 people killed in Iran’s Kurdistan: Official",
-          "url": "https://www.aljazeera.com/news/2026/3/14/more-than-110-people-killed-in-irans-kurdistan-official?traffic_source=rss"
+          "title": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
+          "url": "https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0033037732568249843,
@@ -35,9 +66,21 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 9.47,
+      "score": 8.73,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hunger is looming over Yemen, urgent action is needed",
+          "url": "https://www.aljazeera.com/opinions/2026/3/14/hunger-is-looming-over-yemen-urgent-action-is-needed?traffic_source=rss"
+        },
+        {
+          "title": "Why is Iran’s Kharg Island important?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/us-bombs-irans-oil-hub-kharg-island?traffic_source=rss"
+        },
+        {
+          "title": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
+          "url": "https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss"
+        },
         {
           "title": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
           "url": "https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss"
@@ -45,54 +88,11 @@
         {
           "title": "Family pulled from the rubble after US-Israeli strikes on Tehran",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/family-pulled-from-the-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
-          "url": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss"
-        },
-        {
-          "title": "Four killed in southern Lebanon apartment after reported Israeli attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss"
-        },
-        {
-          "title": "More than 110 people killed in Iran’s Kurdistan: Official",
-          "url": "https://www.aljazeera.com/news/2026/3/14/more-than-110-people-killed-in-irans-kurdistan-official?traffic_source=rss"
         }
       ],
       "chg1d": -0.010462141752064152,
       "chg5d": -0.03836134391235093,
       "chg1m": 0.027517098775250444
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 9.47,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
-          "url": "https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss"
-        },
-        {
-          "title": "Family pulled from the rubble after US-Israeli strikes on Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/family-pulled-from-the-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
-          "url": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss"
-        },
-        {
-          "title": "Four killed in southern Lebanon apartment after reported Israeli attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss"
-        },
-        {
-          "title": "More than 110 people killed in Iran’s Kurdistan: Official",
-          "url": "https://www.aljazeera.com/news/2026/3/14/more-than-110-people-killed-in-irans-kurdistan-official?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
     }
   ]
 }
