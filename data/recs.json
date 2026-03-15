@@ -1,10 +1,72 @@
 {
-  "generated_at": "2026-03-15T15:21:27.800017Z",
+  "generated_at": "2026-03-15T18:27:28.909217Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 9.41,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Strategic oil release may calm markets but cannot fix Hormuz disruption",
+          "url": "https://www.aljazeera.com/economy/2026/3/15/strategic-oil-release-may-calm-markets-but-cannot-fix-hormuz-disruption?traffic_source=rss"
+        },
+        {
+          "title": "Moment Iranian missile hits Tel Aviv",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/moment-iranian-missile-hits-tel-aviv?traffic_source=rss"
+        },
+        {
+          "title": "Captain of Iran’s women’s team withdraws Australia asylum bid: State media",
+          "url": "https://www.aljazeera.com/sports/2026/3/15/captain-of-irans-womens-team-withdraws-australia-asylum-bid-state-media?traffic_source=rss"
+        },
+        {
+          "title": "What do the first two weeks of the war on Iran portend for the future?",
+          "url": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss"
+        },
+        {
+          "title": "Keisuke Honda loses US advertising deal over Iran support at World Cup",
+          "url": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0033037732568249843,
+      "chg5d": 0.01997525190030056,
+      "chg1m": 0.04947253546744282
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 9.41,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Strategic oil release may calm markets but cannot fix Hormuz disruption",
+          "url": "https://www.aljazeera.com/economy/2026/3/15/strategic-oil-release-may-calm-markets-but-cannot-fix-hormuz-disruption?traffic_source=rss"
+        },
+        {
+          "title": "Moment Iranian missile hits Tel Aviv",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/moment-iranian-missile-hits-tel-aviv?traffic_source=rss"
+        },
+        {
+          "title": "Captain of Iran’s women’s team withdraws Australia asylum bid: State media",
+          "url": "https://www.aljazeera.com/sports/2026/3/15/captain-of-irans-womens-team-withdraws-australia-asylum-bid-state-media?traffic_source=rss"
+        },
+        {
+          "title": "What do the first two weeks of the war on Iran portend for the future?",
+          "url": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss"
+        },
+        {
+          "title": "Keisuke Honda loses US advertising deal over Iran support at World Cup",
+          "url": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 9.62,
+      "score": 8.07,
       "confianca": 95,
       "razoes": [
         {
@@ -31,83 +93,6 @@
       "chg1d": -0.010462141752064152,
       "chg5d": -0.03836134391235093,
       "chg1m": 0.027517098775250444
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 9.62,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Moment Iranian missile hits Tel Aviv",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/moment-iranian-missile-hits-tel-aviv?traffic_source=rss"
-        },
-        {
-          "title": "Captain of Iran’s women’s team withdraws Australia asylum bid: State media",
-          "url": "https://www.aljazeera.com/sports/2026/3/15/captain-of-irans-womens-team-withdraws-australia-asylum-bid-state-media?traffic_source=rss"
-        },
-        {
-          "title": "What do the first two weeks of the war on Iran portend for the future?",
-          "url": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss"
-        },
-        {
-          "title": "Keisuke Honda loses US advertising deal over Iran support at World Cup",
-          "url": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss"
-        },
-        {
-          "title": "France offers to broker Lebanon-Israel talks: What do we know?",
-          "url": "https://www.aljazeera.com/news/2026/3/15/france-offers-to-broker-lebanon-israel-talks-what-do-we-know?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0033037732568249843,
-      "chg5d": 0.01997525190030056,
-      "chg1m": 0.04947253546744282
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 9.62,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Moment Iranian missile hits Tel Aviv",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/moment-iranian-missile-hits-tel-aviv?traffic_source=rss"
-        },
-        {
-          "title": "Captain of Iran’s women’s team withdraws Australia asylum bid: State media",
-          "url": "https://www.aljazeera.com/sports/2026/3/15/captain-of-irans-womens-team-withdraws-australia-asylum-bid-state-media?traffic_source=rss"
-        },
-        {
-          "title": "What do the first two weeks of the war on Iran portend for the future?",
-          "url": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss"
-        },
-        {
-          "title": "Keisuke Honda loses US advertising deal over Iran support at World Cup",
-          "url": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss"
-        },
-        {
-          "title": "France offers to broker Lebanon-Israel talks: What do we know?",
-          "url": "https://www.aljazeera.com/news/2026/3/15/france-offers-to-broker-lebanon-israel-talks-what-do-we-know?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
-      "razoes": [
-        {
-          "title": "ICC judge says US sanctions left her without bank cards and Google accounts",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/icc-judge-says-us-sanctions-left-her-without-bank-cards-and-google-accounts?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0034222720251975997,
-      "chg5d": 0.024363096710363578,
-      "chg1m": -0.08017767906718488
     },
     {
       "symbol": "TSM",
@@ -138,6 +123,21 @@
       "chg1d": -0.004357862649639587,
       "chg5d": 0.040911200495049586,
       "chg1m": -0.06264845398884117
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.6,
+      "confianca": 17,
+      "razoes": [
+        {
+          "title": "ICC judge says US sanctions left her without bank cards and Google accounts",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/icc-judge-says-us-sanctions-left-her-without-bank-cards-and-google-accounts?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0034222720251975997,
+      "chg5d": 0.024363096710363578,
+      "chg1m": -0.08017767906718488
     }
   ]
 }
