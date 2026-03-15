@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-03-15T05:00:10.991155Z",
+  "generated_at": "2026-03-15T06:45:34.535738Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 9.8,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Funeral procession for influential Iranian defence chief",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/funeral-procession-for-influential-iranian-defence-chief?traffic_source=rss"
-        },
-        {
-          "title": "Barrage of US-Israeli strikes target Isfahan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/barrage-of-us-israeli-strikes-target-isfahan?traffic_source=rss"
-        },
-        {
-          "title": "Former CIA chief reveals early knowledge of Israeli attack plans",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/former-cia-chief-reveals-early-knowledge-of-israeli-attack-plans?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Space Research Centre severely damaged in strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/irans-space-research-centre-severely-damaged-in-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump urges allies to keep Hormuz open amid Gulf attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/15/iran-war-live-trump-urges-world-to-keep-hormuz-strait-open?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 9.8,
+      "score": 8.07,
       "confianca": 95,
       "razoes": [
         {
@@ -55,7 +24,7 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/irans-space-research-centre-severely-damaged-in-strikes?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump urges allies to keep Hormuz open amid Gulf attacks",
+          "title": "Iran war live: Trump says not ready for deal; US, Israel pound Isfahan",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/15/iran-war-live-trump-urges-world-to-keep-hormuz-strait-open?traffic_source=rss"
         }
       ],
@@ -64,9 +33,9 @@
       "chg1m": 0.027517098775250444
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.8,
+      "score": 8.07,
       "confianca": 95,
       "razoes": [
         {
@@ -86,7 +55,38 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/irans-space-research-centre-severely-damaged-in-strikes?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump urges allies to keep Hormuz open amid Gulf attacks",
+          "title": "Iran war live: Trump says not ready for deal; US, Israel pound Isfahan",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/15/iran-war-live-trump-urges-world-to-keep-hormuz-strait-open?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 8.07,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Funeral procession for influential Iranian defence chief",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/funeral-procession-for-influential-iranian-defence-chief?traffic_source=rss"
+        },
+        {
+          "title": "Barrage of US-Israeli strikes target Isfahan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/barrage-of-us-israeli-strikes-target-isfahan?traffic_source=rss"
+        },
+        {
+          "title": "Former CIA chief reveals early knowledge of Israeli attack plans",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/former-cia-chief-reveals-early-knowledge-of-israeli-attack-plans?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Space Research Centre severely damaged in strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/irans-space-research-centre-severely-damaged-in-strikes?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump says not ready for deal; US, Israel pound Isfahan",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/15/iran-war-live-trump-urges-world-to-keep-hormuz-strait-open?traffic_source=rss"
         }
       ],
@@ -95,7 +95,7 @@
       "chg1m": 0.04947253546744282
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.84,
       "confianca": 24,
@@ -105,9 +105,9 @@
           "url": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss"
         }
       ],
-      "chg1d": 0.0034222720251975997,
-      "chg5d": 0.024363096710363578,
-      "chg1m": -0.08017767906718488
+      "chg1d": -0.004357862649639587,
+      "chg5d": 0.040911200495049586,
+      "chg1m": -0.06264845398884117
     },
     {
       "symbol": "TSM",
@@ -125,7 +125,7 @@
       "chg1m": -0.09564543291721236
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.84,
       "confianca": 24,
@@ -135,9 +135,9 @@
           "url": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss"
         }
       ],
-      "chg1d": -0.004357862649639587,
-      "chg5d": 0.040911200495049586,
-      "chg1m": -0.06264845398884117
+      "chg1d": 0.0034222720251975997,
+      "chg5d": 0.024363096710363578,
+      "chg1m": -0.08017767906718488
     }
   ]
 }
