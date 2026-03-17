@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-03-16T21:30:45.824050Z",
+  "generated_at": "2026-03-17T01:20:21.092375Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 10.44,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Cuba electric grid collapses amid US oil blockade causing national blackout",
-          "url": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss"
-        },
-        {
-          "title": "Hezbollah rocket hits a residential building in Israel’s Nahariya",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/hezbollah-rocket-hits-a-residential-building-in-israels-nahariya?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces in southern Lebanon as ground operation announced",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-forces-in-southern-lebanon-as-ground-operation-announced?traffic_source=rss"
-        },
-        {
-          "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "US responsible for deadly attack on Iranian school: Amnesty International",
-          "url": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 10.44,
+      "score": 7.96,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss"
+        },
+        {
+          "title": "Trump claims strikes on Iran prevented nuclear war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss"
+        },
+        {
+          "title": "Trump seeks to delay meeting with China’s Xi by ‘month or so’ amid Iran war",
+          "url": "https://www.aljazeera.com/news/2026/3/16/trump-seeks-to-delay-meeting-with-chinas-xi-by-month-or-so-amid-iran-war?traffic_source=rss"
+        },
         {
           "title": "Cuba electric grid collapses amid US oil blockade causing national blackout",
           "url": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Hezbollah rocket hits a residential building in Israel’s Nahariya",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/hezbollah-rocket-hits-a-residential-building-in-israels-nahariya?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces in southern Lebanon as ground operation announced",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-forces-in-southern-lebanon-as-ground-operation-announced?traffic_source=rss"
-        },
-        {
-          "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "US responsible for deadly attack on Iranian school: Amnesty International",
-          "url": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss"
         }
       ],
       "chg1d": 0.003466204506065784,
@@ -64,11 +33,54 @@
       "chg1m": 0.07261948869951837
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.09,
+      "score": 7.96,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss"
+        },
+        {
+          "title": "Trump claims strikes on Iran prevented nuclear war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss"
+        },
+        {
+          "title": "Trump seeks to delay meeting with China’s Xi by ‘month or so’ amid Iran war",
+          "url": "https://www.aljazeera.com/news/2026/3/16/trump-seeks-to-delay-meeting-with-chinas-xi-by-month-or-so-amid-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "Cuba electric grid collapses amid US oil blockade causing national blackout",
+          "url": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss"
+        },
+        {
+          "title": "Hezbollah rocket hits a residential building in Israel’s Nahariya",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/hezbollah-rocket-hits-a-residential-building-in-israels-nahariya?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.62,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss"
+        },
+        {
+          "title": "Trump claims strikes on Iran prevented nuclear war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss"
+        },
+        {
+          "title": "Trump seeks to delay meeting with China’s Xi by ‘month or so’ amid Iran war",
+          "url": "https://www.aljazeera.com/news/2026/3/16/trump-seeks-to-delay-meeting-with-chinas-xi-by-month-or-so-amid-iran-war?traffic_source=rss"
+        },
         {
           "title": "Hezbollah rocket hits a residential building in Israel’s Nahariya",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/hezbollah-rocket-hits-a-residential-building-in-israels-nahariya?traffic_source=rss"
@@ -76,18 +88,6 @@
         {
           "title": "Israeli forces in southern Lebanon as ground operation announced",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-forces-in-southern-lebanon-as-ground-operation-announced?traffic_source=rss"
-        },
-        {
-          "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "US responsible for deadly attack on Iranian school: Amnesty International",
-          "url": "https://www.aljazeera.com/news/2026/3/16/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international?traffic_source=rss"
-        },
-        {
-          "title": "US, Israel now know ‘what kind of nation they are dealing with’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss"
         }
       ],
       "chg1d": -0.0012383900928791866,
