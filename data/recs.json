@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-03-18T04:50:59.100851Z",
+  "generated_at": "2026-03-18T06:52:55.451259Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.7,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Araghchi: Iran’s system holds despite targeted leaders",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss"
-        },
-        {
-          "title": "‘This is America’s war’: Iran’s Foreign Minister Araghchi",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss"
-        },
-        {
-          "title": "Killing of Larijani will not destabilise Iranian political system: Minister",
-          "url": "https://www.aljazeera.com/news/2026/3/18/killing-of-larijani-will-not-destabilise-iranian-political-system-minister?traffic_source=rss"
-        },
-        {
-          "title": "Experts discuss ‘Israeli strategy’ in killing of senior Iran official Ali L",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss"
-        },
-        {
-          "title": "Iran allowing more ships through Strait of Hormuz, data suggest",
-          "url": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.7,
+      "score": 9.25,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran fires missiles, drones across Gulf, region remains in war crosshairs",
+          "url": "https://www.aljazeera.com/news/2026/3/18/iran-fires-missiles-drones-across-gulf-region-remains-in-war-crosshairs?traffic_source=rss"
+        },
+        {
+          "title": "Cuba restores power after 29-hour blackout amid US oil blockade",
+          "url": "https://www.aljazeera.com/economy/2026/3/18/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade?traffic_source=rss"
+        },
+        {
+          "title": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages",
+          "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss"
+        },
         {
           "title": "Araghchi: Iran’s system holds despite targeted leaders",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "‘This is America’s war’: Iran’s Foreign Minister Araghchi",
           "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss"
-        },
-        {
-          "title": "Killing of Larijani will not destabilise Iranian political system: Minister",
-          "url": "https://www.aljazeera.com/news/2026/3/18/killing-of-larijani-will-not-destabilise-iranian-political-system-minister?traffic_source=rss"
-        },
-        {
-          "title": "Experts discuss ‘Israeli strategy’ in killing of senior Iran official Ali L",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss"
-        },
-        {
-          "title": "Iran allowing more ships through Strait of Hormuz, data suggest",
-          "url": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss"
         }
       ],
       "chg1d": 0.010535405872193428,
@@ -64,11 +33,50 @@
       "chg1m": 0.07654093836246544
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.7,
+      "score": 9.25,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran fires missiles, drones across Gulf, region remains in war crosshairs",
+          "url": "https://www.aljazeera.com/news/2026/3/18/iran-fires-missiles-drones-across-gulf-region-remains-in-war-crosshairs?traffic_source=rss"
+        },
+        {
+          "title": "Cuba restores power after 29-hour blackout amid US oil blockade",
+          "url": "https://www.aljazeera.com/economy/2026/3/18/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade?traffic_source=rss"
+        },
+        {
+          "title": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages",
+          "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss"
+        },
+        {
+          "title": "Araghchi: Iran’s system holds despite targeted leaders",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss"
+        },
+        {
+          "title": "‘This is America’s war’: Iran’s Foreign Minister Araghchi",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 7.91,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran fires missiles, drones across Gulf, region remains in war crosshairs",
+          "url": "https://www.aljazeera.com/news/2026/3/18/iran-fires-missiles-drones-across-gulf-region-remains-in-war-crosshairs?traffic_source=rss"
+        },
+        {
+          "title": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages",
+          "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss"
+        },
         {
           "title": "Araghchi: Iran’s system holds despite targeted leaders",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss"
@@ -80,14 +88,6 @@
         {
           "title": "Killing of Larijani will not destabilise Iranian political system: Minister",
           "url": "https://www.aljazeera.com/news/2026/3/18/killing-of-larijani-will-not-destabilise-iranian-political-system-minister?traffic_source=rss"
-        },
-        {
-          "title": "Experts discuss ‘Israeli strategy’ in killing of senior Iran official Ali L",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss"
-        },
-        {
-          "title": "Iran allowing more ships through Strait of Hormuz, data suggest",
-          "url": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss"
         }
       ],
       "chg1d": -0.013747675139491636,
