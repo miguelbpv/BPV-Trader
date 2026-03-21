@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-03-21T06:33:06.443278Z",
+  "generated_at": "2026-03-21T09:24:20.113481Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.79,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss"
-        },
-        {
-          "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss"
-        },
-        {
-          "title": "Military movements indicate Trump is considering Iran ground operation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/military-movements-indicate-trump-is-considering-iran-ground-operation?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian citizens of Israel demand better protection against missiles",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinian-citizens-of-israel-demand-better-protection-against-missiles?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Supreme Leader Khamenei says enemy ‘defeated’ in message",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.015811516682091326,
-      "chg5d": -0.02874613003095983,
-      "chg1m": -0.0586337789380505
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.79,
+      "score": 8.51,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What is happening on day 22 of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "title": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
+          "url": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss"
-        },
-        {
-          "title": "Military movements indicate Trump is considering Iran ground operation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/military-movements-indicate-trump-is-considering-iran-ground-operation?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian citizens of Israel demand better protection against missiles",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinian-citizens-of-israel-demand-better-protection-against-missiles?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Supreme Leader Khamenei says enemy ‘defeated’ in message",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.79,
+      "score": 8.51,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What is happening on day 22 of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "title": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
+          "url": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss"
@@ -76,23 +57,42 @@
         {
           "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss"
-        },
-        {
-          "title": "Military movements indicate Trump is considering Iran ground operation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/military-movements-indicate-trump-is-considering-iran-ground-operation?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian citizens of Israel demand better protection against missiles",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinian-citizens-of-israel-demand-better-protection-against-missiles?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Supreme Leader Khamenei says enemy ‘defeated’ in message",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss"
         }
       ],
       "chg1d": -0.0008423180592991435,
       "chg5d": 0.027902946273830144,
       "chg1m": 0.07484595868068146
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 8.51,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war: What is happening on day 22 of US-Israel attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "title": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
+          "url": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss"
+        },
+        {
+          "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.015811516682091326,
+      "chg5d": -0.02874613003095983,
+      "chg1m": -0.0586337789380505
     }
   ]
 }
