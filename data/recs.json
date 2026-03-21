@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-21T04:23:04.840029Z",
+  "generated_at": "2026-03-21T06:33:06.443278Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 7.56,
+      "score": 6.79,
       "confianca": 95,
       "razoes": [
         {
@@ -33,40 +33,9 @@
       "chg1m": -0.0586337789380505
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.56,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss"
-        },
-        {
-          "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss"
-        },
-        {
-          "title": "Military movements indicate Trump is considering Iran ground operation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/military-movements-indicate-trump-is-considering-iran-ground-operation?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian citizens of Israel demand better protection against missiles",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinian-citizens-of-israel-demand-better-protection-against-missiles?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Supreme Leader Khamenei says enemy ‘defeated’ in message",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.0008423180592991435,
-      "chg5d": 0.027902946273830144,
-      "chg1m": 0.07484595868068146
-    },
-    {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.56,
+      "score": 6.79,
       "confianca": 95,
       "razoes": [
         {
@@ -93,6 +62,37 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.79,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss"
+        },
+        {
+          "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss"
+        },
+        {
+          "title": "Military movements indicate Trump is considering Iran ground operation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/military-movements-indicate-trump-is-considering-iran-ground-operation?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian citizens of Israel demand better protection against missiles",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinian-citizens-of-israel-demand-better-protection-against-missiles?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s Supreme Leader Khamenei says enemy ‘defeated’ in message",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.0008423180592991435,
+      "chg5d": 0.027902946273830144,
+      "chg1m": 0.07484595868068146
     }
   ]
 }
