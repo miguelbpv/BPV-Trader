@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-03-24T04:48:47.528408Z",
+  "generated_at": "2026-03-24T06:54:29.041173Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 11.29,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel bombs petrol station in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "US markets surge after Trump announces he’s postponing strikes on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/us-markets-surge-after-trump-announces-hes-postponing-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "‘Israel has been given a licence to torture Palestinians’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-has-been-given-a-licence-to-torture?traffic_source=rss"
-        },
-        {
-          "title": "Texas oil refinery in flames after explosion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/texas-oil-refinery-in-flames-after-explosion?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers vandalise school, raise Israeli flag in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-settlers-vandalise-school-raise-israeli-flag-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 11.29,
+      "score": 9.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US-Israel war on Iran: What’s happening on day 25 of attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks?traffic_source=rss"
+        },
         {
           "title": "Israel bombs petrol station in southern Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Texas oil refinery in flames after explosion",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/texas-oil-refinery-in-flames-after-explosion?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers vandalise school, raise Israeli flag in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-settlers-vandalise-school-raise-israeli-flag-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.005395380205698875,
@@ -64,11 +33,46 @@
       "chg1m": 0.08655247813411078
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.36,
+      "score": 9.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US-Israel war on Iran: What’s happening on day 25 of attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs petrol station in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "US markets surge after Trump announces he’s postponing strikes on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/us-markets-surge-after-trump-announces-hes-postponing-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "‘Israel has been given a licence to torture Palestinians’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-has-been-given-a-licence-to-torture?traffic_source=rss"
+        },
+        {
+          "title": "Texas oil refinery in flames after explosion",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/texas-oil-refinery-in-flames-after-explosion?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 8.0,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US-Israel war on Iran: What’s happening on day 25 of attacks?",
+          "url": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks?traffic_source=rss"
+        },
         {
           "title": "Israel bombs petrol station in southern Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Israeli settlers vandalise school, raise Israeli flag in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-settlers-vandalise-school-raise-israeli-flag-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran says Trump’s peace talk claims are ‘fake news’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake?traffic_source=rss"
         }
       ],
       "chg1d": -0.017818720813477122,
