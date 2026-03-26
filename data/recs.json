@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-03-26T05:00:39.420817Z",
+  "generated_at": "2026-03-26T06:58:58.955199Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 8.13,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Malaysia’s prime minister says Iran talks should end war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
-        },
-        {
-          "title": "Videos show wave of missiles fired from Lebanon to Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/videos-show-wave-of-missiles-fired-from-lebanon-to-israel?traffic_source=rss"
-        },
-        {
-          "title": "Russia slams second US-Israeli strike at Iran’s Bushehr nuclear reactor",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/russia-slams-second-us-israeli-strike-at-irans-bushehr-nuclear-reactor?traffic_source=rss"
-        },
-        {
-          "title": "Australia bans visitors from Iran amid war in the Middle East",
-          "url": "https://www.aljazeera.com/news/2026/3/26/australia-bans-visitors-from-iran-amid-war-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Tehran issues warning to regional neighbour if Iranian island occupied",
-          "url": "https://www.aljazeera.com/news/2026/3/26/tehran-issues-warning-to-regional-neighbour-if-iranian-island-occupied?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.02299359194978463,
-      "chg5d": -0.028149716634489518,
-      "chg1m": -0.06054813900636622
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.13,
+      "score": 8.69,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
+          "url": "https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes?traffic_source=rss"
+        },
         {
           "title": "Malaysia’s prime minister says Iran talks should end war",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Australia bans visitors from Iran amid war in the Middle East",
           "url": "https://www.aljazeera.com/news/2026/3/26/australia-bans-visitors-from-iran-amid-war-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Tehran issues warning to regional neighbour if Iranian island occupied",
-          "url": "https://www.aljazeera.com/news/2026/3/26/tehran-issues-warning-to-regional-neighbour-if-iranian-island-occupied?traffic_source=rss"
         }
       ],
       "chg1d": -0.004437869822485258,
@@ -66,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.13,
+      "score": 8.69,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
+          "url": "https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes?traffic_source=rss"
+        },
         {
           "title": "Malaysia’s prime minister says Iran talks should end war",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
@@ -84,15 +57,42 @@
         {
           "title": "Australia bans visitors from Iran amid war in the Middle East",
           "url": "https://www.aljazeera.com/news/2026/3/26/australia-bans-visitors-from-iran-amid-war-in-the-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Tehran issues warning to regional neighbour if Iranian island occupied",
-          "url": "https://www.aljazeera.com/news/2026/3/26/tehran-issues-warning-to-regional-neighbour-if-iranian-island-occupied?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 8.69,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
+          "url": "https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes?traffic_source=rss"
+        },
+        {
+          "title": "Malaysia’s prime minister says Iran talks should end war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
+        },
+        {
+          "title": "Videos show wave of missiles fired from Lebanon to Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/videos-show-wave-of-missiles-fired-from-lebanon-to-israel?traffic_source=rss"
+        },
+        {
+          "title": "Russia slams second US-Israeli strike at Iran’s Bushehr nuclear reactor",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/russia-slams-second-us-israeli-strike-at-irans-bushehr-nuclear-reactor?traffic_source=rss"
+        },
+        {
+          "title": "Australia bans visitors from Iran amid war in the Middle East",
+          "url": "https://www.aljazeera.com/news/2026/3/26/australia-bans-visitors-from-iran-amid-war-in-the-middle-east?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.02299359194978463,
+      "chg5d": -0.028149716634489518,
+      "chg1m": -0.06054813900636622
     }
   ]
 }
