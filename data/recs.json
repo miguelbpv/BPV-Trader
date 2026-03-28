@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-03-28T04:47:57.486722Z",
+  "generated_at": "2026-03-28T06:49:10.500407Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 9.91,
+      "score": 9.02,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
+          "url": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss"
+        },
         {
           "title": "How the US-Israel war on Iran unfolded in its first four weeks",
           "url": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues",
-          "url": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss"
         }
       ],
       "chg1d": 0.016905071521456424,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.91,
+      "score": 9.02,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
+          "url": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss"
+        },
         {
           "title": "How the US-Israel war on Iran unfolded in its first four weeks",
           "url": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues",
-          "url": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 8.58,
+      "score": 9.02,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
+          "url": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss"
+        },
         {
           "title": "How the US-Israel war on Iran unfolded in its first four weeks",
           "url": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks?traffic_source=rss"
@@ -84,30 +88,11 @@
         {
           "title": "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
           "url": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues",
-          "url": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss"
         }
       ],
       "chg1d": -0.018315718999569616,
       "chg5d": -0.018472180163524088,
       "chg1m": -0.04019450462104322
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "House Republicans shoot down bill that would pay federal airport workers",
-          "url": "https://www.aljazeera.com/news/2026/3/27/house-republicans-shoot-down-bill-that-would-pay-federal-airport-workers?traffic_source=rss"
-        }
-      ],
-      "chg1d": -0.01705188423320777,
-      "chg5d": -0.022326040365727703,
-      "chg1m": -0.080095749310895
     },
     {
       "symbol": "IWM",
@@ -153,6 +138,21 @@
       "chg1d": 0.0,
       "chg5d": 0.0,
       "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "House Republicans shoot down bill that would pay federal airport workers",
+          "url": "https://www.aljazeera.com/news/2026/3/27/house-republicans-shoot-down-bill-that-would-pay-federal-airport-workers?traffic_source=rss"
+        }
+      ],
+      "chg1d": -0.01705188423320777,
+      "chg5d": -0.022326040365727703,
+      "chg1m": -0.080095749310895
     }
   ]
 }
