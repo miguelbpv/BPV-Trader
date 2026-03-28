@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-03-28T18:28:53.497545Z",
+  "generated_at": "2026-03-28T21:21:59.684514Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.39,
+      "score": 7.59,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Kuwait airport hit by Iranian drone strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss"
+        },
+        {
+          "title": "Missiles hit southern Israeli city of Eilat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/missiles-hit-southern-israeli-city-of-eilat?traffic_source=rss"
+        },
         {
           "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
           "url": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Three journalists killed in Israeli strike on marked press car in Lebanon",
           "url": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 7.59,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Kuwait airport hit by Iranian drone strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss"
         },
         {
-          "title": "One month in, disapproval high but US lawmakers take no action on Iran war",
-          "url": "https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war?traffic_source=rss"
+          "title": "Missiles hit southern Israeli city of Eilat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/missiles-hit-southern-israeli-city-of-eilat?traffic_source=rss"
         },
         {
-          "title": "Iran warns neighbours not to let ‘enemies run the war’ from their land",
-          "url": "https://www.aljazeera.com/news/2026/3/28/iran-warns-neighbours-not-to-let-enemies-run-the-war-from-their-land?traffic_source=rss"
+          "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
+          "url": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces intensify attacks on Beirut",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/israeli-forces-intensify-attacks-on-beirut?traffic_source=rss"
+        },
+        {
+          "title": "Three journalists killed in Israeli strike on marked press car in Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.39,
+      "score": 7.59,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Kuwait airport hit by Iranian drone strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss"
+        },
+        {
+          "title": "Missiles hit southern Israeli city of Eilat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/missiles-hit-southern-israeli-city-of-eilat?traffic_source=rss"
+        },
         {
           "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
           "url": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss"
@@ -49,45 +88,6 @@
         {
           "title": "Three journalists killed in Israeli strike on marked press car in Lebanon",
           "url": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "One month in, disapproval high but US lawmakers take no action on Iran war",
-          "url": "https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Iran warns neighbours not to let ‘enemies run the war’ from their land",
-          "url": "https://www.aljazeera.com/news/2026/3/28/iran-warns-neighbours-not-to-let-enemies-run-the-war-from-their-land?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 7.39,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
-          "url": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces intensify attacks on Beirut",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/israeli-forces-intensify-attacks-on-beirut?traffic_source=rss"
-        },
-        {
-          "title": "Three journalists killed in Israeli strike on marked press car in Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "One month in, disapproval high but US lawmakers take no action on Iran war",
-          "url": "https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Iran warns neighbours not to let ‘enemies run the war’ from their land",
-          "url": "https://www.aljazeera.com/news/2026/3/28/iran-warns-neighbours-not-to-let-enemies-run-the-war-from-their-land?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
