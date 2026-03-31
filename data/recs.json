@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-03-31T05:03:40.568021Z",
+  "generated_at": "2026-03-31T07:03:28.114112Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 13.24,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Spain closes airspace to US warplanes involved in war on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Outrage and condemnation over Israel’s death penalty law for Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/outrage-and-condemnation-over-israels-death-penalty-law-for-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Pentagon denies that Hegseth’s broker sought investment before Iran war",
-          "url": "https://www.aljazeera.com/economy/2026/3/31/pentagon-denies-hegseths-broker-sought-defence-investment-before-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Intense US-Israeli attacks on Iranian city of Isfahan cause column of fire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/intense-us-israeli-attacks-on-iranian-city-of-isfahan-cause-column-of-fire?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera’s full interview with Marco Rubio on US war on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/al-jazeeras-full-interview-with-marco-rubio-on-us-war-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 13.24,
+      "score": 11.37,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +35,38 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 13.24,
+      "score": 11.37,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Spain closes airspace to US warplanes involved in war on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Outrage and condemnation over Israel’s death penalty law for Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/outrage-and-condemnation-over-israels-death-penalty-law-for-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "Pentagon denies that Hegseth’s broker sought investment before Iran war",
+          "url": "https://www.aljazeera.com/economy/2026/3/31/pentagon-denies-hegseths-broker-sought-defence-investment-before-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "Intense US-Israeli attacks on Iranian city of Isfahan cause column of fire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/intense-us-israeli-attacks-on-iranian-city-of-isfahan-cause-column-of-fire?traffic_source=rss"
+        },
+        {
+          "title": "Al Jazeera’s full interview with Marco Rubio on US war on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/al-jazeeras-full-interview-with-marco-rubio-on-us-war-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 11.37,
       "confianca": 95,
       "razoes": [
         {
