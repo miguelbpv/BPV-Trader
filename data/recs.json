@@ -1,45 +1,14 @@
 {
-  "generated_at": "2026-04-02T01:26:10.950804Z",
+  "generated_at": "2026-04-02T04:57:04.891984Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.4,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Trump addresses nation; Tehran denies seeking ceasefire",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss"
-        },
-        {
-          "title": "Smoke and embers seen over Iran’s Isfahan after strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss"
-        },
-        {
-          "title": "What are the consequences of Israel’s death penalty law for Palestinians?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/1/what-are-the-consequences-of-israels-death-penalty-law-for-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public",
-          "url": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.4,
+      "score": 4.61,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Trump addresses nation; Tehran denies seeking ceasefire",
+          "title": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
           "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss"
         },
         {
@@ -66,11 +35,11 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.4,
+      "score": 4.61,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Trump addresses nation; Tehran denies seeking ceasefire",
+          "title": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
           "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss"
         },
         {
@@ -95,6 +64,52 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.61,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss"
+        },
+        {
+          "title": "Smoke and embers seen over Iran’s Isfahan after strike",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss"
+        },
+        {
+          "title": "What are the consequences of Israel’s death penalty law for Palestinians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/1/what-are-the-consequences-of-israels-death-penalty-law-for-palestinians?traffic_source=rss"
+        },
+        {
+          "title": "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public",
+          "url": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
+          "url": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.85,
@@ -111,21 +126,6 @@
     },
     {
       "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
-          "url": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
