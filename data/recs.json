@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-02T21:29:16.519892Z",
+  "generated_at": "2026-04-03T01:27:58.211579Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 10.88,
+      "score": 8.82,
       "confianca": 95,
       "razoes": [
         {
@@ -33,9 +33,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 10.88,
+      "score": 8.82,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 9.53,
+      "score": 7.48,
       "confianca": 95,
       "razoes": [
         {
@@ -88,6 +88,51 @@
         {
           "title": "What might end Israel’s war on Iran?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/4/2/what-might-end-israels-war-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.11,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals",
+          "url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.11,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals",
+          "url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.11,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals",
+          "url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
