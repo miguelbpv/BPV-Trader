@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-04-04T09:29:18.592284Z",
+  "generated_at": "2026-04-04T12:35:56.689155Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.87,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran executes two convicted members of banned opposition group",
-          "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss"
-        },
-        {
-          "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
-          "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Iranian missile attack hits residential areas in central Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
-        },
-        {
-          "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.87,
+      "score": 4.82,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s unchecked war machine",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss"
+        },
         {
           "title": "Iran executes two convicted members of banned opposition group",
           "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss"
@@ -51,12 +24,8 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
+          "title": "Iran war live: US-Israel attacks hit petrochemical, nuclear sites in Iran",
           "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
-        },
-        {
-          "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.87,
+      "score": 4.82,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s unchecked war machine",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss"
+        },
         {
           "title": "Iran executes two convicted members of banned opposition group",
           "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss"
@@ -82,12 +55,8 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
+          "title": "Iran war live: US-Israel attacks hit petrochemical, nuclear sites in Iran",
           "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
-        },
-        {
-          "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,14 +64,30 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.82,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
-          "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss"
+          "title": "Israel’s unchecked war machine",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss"
+        },
+        {
+          "title": "Iran executes two convicted members of banned opposition group",
+          "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss"
+        },
+        {
+          "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+          "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Iranian missile attack hits residential areas in central Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US-Israel attacks hit petrochemical, nuclear sites in Iran",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -112,22 +97,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.96,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
-          "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.96,
+      "score": 0.95,
       "confianca": 27,
       "razoes": [
         {
@@ -142,7 +112,37 @@
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.96,
+      "score": 0.95,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
+          "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.95,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
+          "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.95,
       "confianca": 27,
       "razoes": [
         {
