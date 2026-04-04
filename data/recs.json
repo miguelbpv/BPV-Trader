@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-04-04T06:50:39.047128Z",
+  "generated_at": "2026-04-04T09:29:18.592284Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.85,
+      "score": 3.87,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran executes two convicted members of banned opposition group",
+          "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss"
+        },
         {
           "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
           "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.85,
+      "score": 3.87,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran executes two convicted members of banned opposition group",
+          "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss"
+        },
         {
           "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
           "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.85,
+      "score": 3.87,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran executes two convicted members of banned opposition group",
+          "url": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss"
+        },
         {
           "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
           "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,9 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -110,9 +110,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
@@ -142,7 +142,7 @@
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.97,
+      "score": 0.96,
       "confianca": 27,
       "razoes": [
         {
