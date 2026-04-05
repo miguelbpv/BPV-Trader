@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-04-05T05:06:10.144382Z",
+  "generated_at": "2026-04-05T06:55:55.475983Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 12.15,
+      "score": 11.64,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump’s unpopular war on Iran",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss"
+        },
         {
           "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
           "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
           "url": "https://www.aljazeera.com/news/2026/4/4/israel-measures-tighten-grip-hebron-ibrahimi-mosque?traffic_source=rss"
-        },
-        {
-          "title": "How will Pakistan deal with the fallout from Iran war?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 12.15,
+      "score": 11.64,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump’s unpopular war on Iran",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss"
+        },
         {
           "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
           "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
           "url": "https://www.aljazeera.com/news/2026/4/4/israel-measures-tighten-grip-hebron-ibrahimi-mosque?traffic_source=rss"
-        },
-        {
-          "title": "How will Pakistan deal with the fallout from Iran war?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 12.15,
+      "score": 11.64,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump’s unpopular war on Iran",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss"
+        },
         {
           "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
           "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
           "url": "https://www.aljazeera.com/news/2026/4/4/israel-measures-tighten-grip-hebron-ibrahimi-mosque?traffic_source=rss"
-        },
-        {
-          "title": "How will Pakistan deal with the fallout from Iran war?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,9 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SPY",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -110,9 +110,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
@@ -142,7 +142,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.72,
+      "score": 0.71,
       "confianca": 20,
       "razoes": [
         {
