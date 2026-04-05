@@ -1,18 +1,22 @@
 {
-  "generated_at": "2026-04-05T01:45:04.897769Z",
+  "generated_at": "2026-04-05T05:06:10.144382Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 12.11,
+      "score": 12.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+          "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
+        },
         {
           "title": "US satellite firm Planet Labs announces blackout on war on Iran images",
           "url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex",
+          "title": "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
           "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss"
         },
         {
@@ -22,10 +26,6 @@
         {
           "title": "How will Pakistan deal with the fallout from Iran war?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli police arrest antiwar protesters in Tel Aviv",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,17 +33,21 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 12.11,
+      "score": 12.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+          "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
+        },
         {
           "title": "US satellite firm Planet Labs announces blackout on war on Iran images",
           "url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex",
+          "title": "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
           "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss"
         },
         {
@@ -53,10 +57,6 @@
         {
           "title": "How will Pakistan deal with the fallout from Iran war?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli police arrest antiwar protesters in Tel Aviv",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,15 +66,19 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 12.11,
+      "score": 12.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+          "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
+        },
         {
           "title": "US satellite firm Planet Labs announces blackout on war on Iran images",
           "url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex",
+          "title": "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
           "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss"
         },
         {
@@ -84,10 +88,6 @@
         {
           "title": "How will Pakistan deal with the fallout from Iran war?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/4/4/how-will-pakistan-deal-with-the-fallout-from-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli police arrest antiwar protesters in Tel Aviv",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,7 +97,7 @@
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -112,7 +112,7 @@
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
@@ -142,7 +142,7 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.73,
+      "score": 0.72,
       "confianca": 20,
       "razoes": [
         {
