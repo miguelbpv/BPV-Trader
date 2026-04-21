@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-04-21T16:05:10.833253Z",
+  "generated_at": "2026-04-21T18:59:58.137824Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 11.13,
+      "score": 9.23,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Ukraine says Druzhba pipeline running Russian oil to Europe can resume work",
+          "url": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work?traffic_source=rss"
+        },
+        {
+          "title": "Israeli sexual violence helping push Palestinians from West Bank: Report",
+          "url": "https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss"
+        },
         {
           "title": "Rabbi accused of war crimes selected for Israel’s national celebration",
           "url": "https://www.aljazeera.com/news/2026/4/21/rabbi-accused-of-war-crimes-selected-for-israels-national-celebration?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "Why is the EU under pressure to suspend its trade agreement with Israel?",
           "url": "https://www.aljazeera.com/news/2026/4/21/why-is-the-eu-under-pressure-to-suspend-its-trade-agreement-with-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s World Cup participation depends on team’s safety in the US: Minister",
-          "url": "https://www.aljazeera.com/sports/2026/4/21/irans-world-cup-participation-depends-on-teams-safety-in-the-us-minister?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
-          "url": "https://www.aljazeera.com/news/2026/4/21/israeli-soldiers-and-settlers-kill-11-palestinians-across-gaza-west?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 11.13,
+      "score": 9.23,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Ukraine says Druzhba pipeline running Russian oil to Europe can resume work",
+          "url": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work?traffic_source=rss"
+        },
+        {
+          "title": "Israeli sexual violence helping push Palestinians from West Bank: Report",
+          "url": "https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss"
+        },
         {
           "title": "Rabbi accused of war crimes selected for Israel’s national celebration",
           "url": "https://www.aljazeera.com/news/2026/4/21/rabbi-accused-of-war-crimes-selected-for-israels-national-celebration?traffic_source=rss"
@@ -49,14 +57,6 @@
         {
           "title": "Why is the EU under pressure to suspend its trade agreement with Israel?",
           "url": "https://www.aljazeera.com/news/2026/4/21/why-is-the-eu-under-pressure-to-suspend-its-trade-agreement-with-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s World Cup participation depends on team’s safety in the US: Minister",
-          "url": "https://www.aljazeera.com/sports/2026/4/21/irans-world-cup-participation-depends-on-teams-safety-in-the-us-minister?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
-          "url": "https://www.aljazeera.com/news/2026/4/21/israeli-soldiers-and-settlers-kill-11-palestinians-across-gaza-west?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 11.13,
+      "score": 7.88,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli sexual violence helping push Palestinians from West Bank: Report",
+          "url": "https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss"
+        },
         {
           "title": "Rabbi accused of war crimes selected for Israel’s national celebration",
           "url": "https://www.aljazeera.com/news/2026/4/21/rabbi-accused-of-war-crimes-selected-for-israels-national-celebration?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Iran’s World Cup participation depends on team’s safety in the US: Minister",
           "url": "https://www.aljazeera.com/sports/2026/4/21/irans-world-cup-participation-depends-on-teams-safety-in-the-us-minister?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
-          "url": "https://www.aljazeera.com/news/2026/4/21/israeli-soldiers-and-settlers-kill-11-palestinians-across-gaza-west?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,22 +97,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Video: US forces board sanctioned tanker in Asia Pacific",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-us-forces-board-sanctioned-tanker-in-asia-pacific?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +112,22 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Video: US forces board sanctioned tanker in Asia Pacific",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-us-forces-board-sanctioned-tanker-in-asia-pacific?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
