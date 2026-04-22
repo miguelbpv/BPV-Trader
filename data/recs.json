@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-04-22T05:18:15.674713Z",
+  "generated_at": "2026-04-22T07:21:21.754259Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.46,
+      "score": 7.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
+          "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Argentina’s Milei sings and lights torch for Israeli national day",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss"
@@ -22,41 +26,6 @@
         {
           "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
           "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss"
-        },
-        {
-          "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
-          "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.46,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Argentina’s Milei sings and lights torch for Israeli national day",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss"
-        },
-        {
-          "title": "Trump remains ‘in a quandary’ despite Iran war ceasefire extension",
-          "url": "https://www.aljazeera.com/video/quotable/2026/4/21/trump-remains-in-a-quandary-despite-iran-war-ceasefire-extension?traffic_source=rss"
-        },
-        {
-          "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-          "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss"
-        },
-        {
-          "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
-          "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.46,
+      "score": 7.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
+          "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss"
+        },
         {
           "title": "Argentina’s Milei sings and lights torch for Israeli national day",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss"
@@ -84,10 +57,6 @@
         {
           "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
           "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss"
-        },
-        {
-          "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
-          "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,37 +64,30 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 7.17,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Myanmar’s military government rebuffed on peace talks offer",
-          "url": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss"
+          "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
+          "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss"
         },
         {
-          "title": "Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’",
-          "url": "https://www.aljazeera.com/economy/2026/4/21/trumps-us-fed-nominee-warsh-vows-independence-says-hes-no-sock-puppet?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.94,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "Myanmar’s military government rebuffed on peace talks offer",
-          "url": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss"
+          "title": "Argentina’s Milei sings and lights torch for Israeli national day",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss"
         },
         {
-          "title": "Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’",
-          "url": "https://www.aljazeera.com/economy/2026/4/21/trumps-us-fed-nominee-warsh-vows-independence-says-hes-no-sock-puppet?traffic_source=rss"
+          "title": "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss"
+        },
+        {
+          "title": "Trump remains ‘in a quandary’ despite Iran war ceasefire extension",
+          "url": "https://www.aljazeera.com/video/quotable/2026/4/21/trump-remains-in-a-quandary-despite-iran-war-ceasefire-extension?traffic_source=rss"
+        },
+        {
+          "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
+          "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -171,6 +133,59 @@
       "chg1m": 0.0
     },
     {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Myanmar’s military government rebuffed on peace talks offer",
+          "url": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’",
+          "url": "https://www.aljazeera.com/economy/2026/4/21/trumps-us-fed-nominee-warsh-vows-independence-says-hes-no-sock-puppet?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 1.94,
+      "confianca": 55,
+      "razoes": [
+        {
+          "title": "Myanmar’s military government rebuffed on peace talks offer",
+          "url": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’",
+          "url": "https://www.aljazeera.com/economy/2026/4/21/trumps-us-fed-nominee-warsh-vows-independence-says-hes-no-sock-puppet?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
+          "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
       "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.84,
@@ -187,21 +202,6 @@
     },
     {
       "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-          "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.84,
       "confianca": 24,
