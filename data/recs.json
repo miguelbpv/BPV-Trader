@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-04-23T05:22:44.789495Z",
+  "generated_at": "2026-04-23T07:24:00.146208Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.41,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Protesters stabbed at London rally against war on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protesters-stabbed-at-london-rally-against-war-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills journalist and wounds another in south Lebanon targeted attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss"
-        },
-        {
-          "title": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss"
-        },
-        {
-          "title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.41,
+      "score": 5.37,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +35,38 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.41,
+      "score": 5.37,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Protesters stabbed at London rally against war on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protesters-stabbed-at-london-rally-against-war-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills journalist and wounds another in south Lebanon targeted attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss"
+        },
+        {
+          "title": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss"
+        },
+        {
+          "title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.37,
       "confianca": 95,
       "razoes": [
         {
