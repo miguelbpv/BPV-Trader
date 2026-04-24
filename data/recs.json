@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-24T15:59:19.830664Z",
+  "generated_at": "2026-04-24T18:38:41.981634Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.94,
+      "score": 7.52,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss"
+        },
+        {
+          "title": "Russian oil exports slump as Ukraine hammers ports and refineries",
+          "url": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss"
+        },
+        {
+          "title": "US has three aircraft carriers in the Middle East for first time since 2003",
+          "url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss"
+        },
         {
           "title": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
           "url": "https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss"
@@ -14,49 +26,6 @@
         {
           "title": "Israel’s Benjamin Netanyahu says he received treatment for prostate cancer",
           "url": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer?traffic_source=rss"
-        },
-        {
-          "title": "Iranians bring music to sites devastated by US-Israeli attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/iranians-bring-music-to-sites-devastated-by-us-israeli-attacks?traffic_source=rss"
-        },
-        {
-          "title": "UK to end project tracking potential Israeli violations",
-          "url": "https://www.aljazeera.com/news/2026/4/24/uk-to-end-project-tracking-potential-israeli-violations-report?traffic_source=rss"
-        },
-        {
-          "title": "US Navy authorised to target Iranian fast boats in Strait of Hormuz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/us-navy-authorised-to-target-iranian-fast-boats-in-strait-of-hormuz?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 7.94,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
-          "url": "https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Benjamin Netanyahu says he received treatment for prostate cancer",
-          "url": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer?traffic_source=rss"
-        },
-        {
-          "title": "Iranians bring music to sites devastated by US-Israeli attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/iranians-bring-music-to-sites-devastated-by-us-israeli-attacks?traffic_source=rss"
-        },
-        {
-          "title": "UK to end project tracking potential Israeli violations",
-          "url": "https://www.aljazeera.com/news/2026/4/24/uk-to-end-project-tracking-potential-israeli-violations-report?traffic_source=rss"
-        },
-        {
-          "title": "US Navy authorised to target Iranian fast boats in Strait of Hormuz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/us-navy-authorised-to-target-iranian-fast-boats-in-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,48 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.94,
+      "score": 7.52,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss"
+        },
+        {
+          "title": "Russian oil exports slump as Ukraine hammers ports and refineries",
+          "url": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss"
+        },
+        {
+          "title": "US has three aircraft carriers in the Middle East for first time since 2003",
+          "url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss"
+        },
+        {
+          "title": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
+          "url": "https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Benjamin Netanyahu says he received treatment for prostate cancer",
+          "url": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.43,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss"
+        },
+        {
+          "title": "US has three aircraft carriers in the Middle East for first time since 2003",
+          "url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss"
+        },
         {
           "title": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
           "url": "https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss"
@@ -80,14 +88,66 @@
         {
           "title": "Iranians bring music to sites devastated by US-Israeli attacks",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/iranians-bring-music-to-sites-devastated-by-us-israeli-attacks?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
         {
-          "title": "UK to end project tracking potential Israeli violations",
-          "url": "https://www.aljazeera.com/news/2026/4/24/uk-to-end-project-tracking-potential-israeli-violations-report?traffic_source=rss"
-        },
+          "title": "US Justice Department drops criminal probe of Fed chair Jerome Powell",
+          "url": "https://www.aljazeera.com/economy/2026/4/24/us-justice-department-drops-criminal-probe-of-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
         {
-          "title": "US Navy authorised to target Iranian fast boats in Strait of Hormuz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/us-navy-authorised-to-target-iranian-fast-boats-in-strait-of-hormuz?traffic_source=rss"
+          "title": "US Justice Department drops criminal probe of Fed chair Jerome Powell",
+          "url": "https://www.aljazeera.com/economy/2026/4/24/us-justice-department-drops-criminal-probe-of-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "US Justice Department drops criminal probe of Fed chair Jerome Powell",
+          "url": "https://www.aljazeera.com/economy/2026/4/24/us-justice-department-drops-criminal-probe-of-fed-chair-jerome-powell?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "US Justice Department drops criminal probe of Fed chair Jerome Powell",
+          "url": "https://www.aljazeera.com/economy/2026/4/24/us-justice-department-drops-criminal-probe-of-fed-chair-jerome-powell?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
