@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-04-25T15:33:14.513036Z",
+  "generated_at": "2026-04-25T18:37:49.264771Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.48,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli attacks kill four in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss"
-        },
-        {
-          "title": "Iran resumes commercial flights from Tehran airport",
-          "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Infowar: Lego, AI and ever tightening control",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss"
-        },
-        {
-          "title": "Top Iranian and Pakistani officials meet in Islamabad",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.48,
+      "score": 6.47,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
+          "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
+        },
+        {
+          "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks kill four in southern Lebanon",
           "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Iran resumes commercial flights from Tehran airport",
           "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Infowar: Lego, AI and ever tightening control",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss"
-        },
-        {
-          "title": "Top Iranian and Pakistani officials meet in Islamabad",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.48,
+      "score": 6.47,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
+          "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
+        },
+        {
+          "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks kill four in southern Lebanon",
           "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
@@ -80,14 +57,6 @@
         {
           "title": "Iran resumes commercial flights from Tehran airport",
           "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s Infowar: Lego, AI and ever tightening control",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss"
-        },
-        {
-          "title": "Top Iranian and Pakistani officials meet in Islamabad",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,7 +64,38 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.47,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
+          "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
+        },
+        {
+          "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill four in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss"
+        },
+        {
+          "title": "Iran resumes commercial flights from Tehran airport",
+          "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
       "acao": "observar",
       "score": 0.83,
       "confianca": 23,
@@ -110,7 +110,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.83,
       "confianca": 23,
