@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-04-25T12:42:38.208652Z",
+  "generated_at": "2026-04-25T15:33:14.513036Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.94,
+      "score": 6.48,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attacks kill four in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Top Iranian and Pakistani officials meet in Islamabad",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
-        },
-        {
-          "title": "Ireland to demand Israel pay for settler demolition of Palestinian school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 8.94,
+      "score": 6.48,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attacks kill four in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Top Iranian and Pakistani officials meet in Islamabad",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
-        },
-        {
-          "title": "Ireland to demand Israel pay for settler demolition of Palestinian school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.94,
+      "score": 6.48,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attacks kill four in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Top Iranian and Pakistani officials meet in Islamabad",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
-        },
-        {
-          "title": "Ireland to demand Israel pay for settler demolition of Palestinian school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,10 +95,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
@@ -110,10 +110,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
@@ -127,8 +127,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "score": 0.83,
+      "confianca": 23,
       "razoes": [
         {
           "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
