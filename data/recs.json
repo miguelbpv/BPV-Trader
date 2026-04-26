@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-04-26T09:44:57.765073Z",
+  "generated_at": "2026-04-26T12:44:52.999126Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.65,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
-          "url": "https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss"
-        },
-        {
-          "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
-        },
-        {
-          "title": "Trump puts onus on Iran’s authorities as they project hardened stance",
-          "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
-        },
-        {
-          "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.65,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel destroys solar panels in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s landmine crisis endures despite truce and de-mining efforts",
+          "url": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss"
+        },
         {
           "title": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
           "url": "https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
-        },
-        {
-          "title": "Trump puts onus on Iran’s authorities as they project hardened stance",
-          "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
-        },
-        {
-          "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.65,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel destroys solar panels in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s landmine crisis endures despite truce and de-mining efforts",
+          "url": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss"
+        },
         {
           "title": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
           "url": "https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss"
@@ -76,18 +57,37 @@
         {
           "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
+          "title": "Israel destroys solar panels in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
         },
         {
-          "title": "Trump puts onus on Iran’s authorities as they project hardened stance",
-          "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
+          "title": "Yemen’s landmine crisis endures despite truce and de-mining efforts",
+          "url": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss"
         },
         {
-          "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
+          "title": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
+          "url": "https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss"
+        },
+        {
+          "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
