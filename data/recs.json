@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-04-26T01:56:45.112157Z",
+  "generated_at": "2026-04-26T05:31:19.389565Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.16,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
-        },
-        {
-          "title": "Trump puts onus on Iran’s authorities as they project hardened stance",
-          "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
-        },
-        {
-          "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
-        },
-        {
-          "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
-          "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
-        },
-        {
-          "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.16,
+      "score": 4.39,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
           "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
           "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
-        },
-        {
-          "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.16,
+      "score": 4.39,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
           "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
           "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.39,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss"
         },
         {
-          "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss"
+          "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
+        },
+        {
+          "title": "Trump puts onus on Iran’s authorities as they project hardened stance",
+          "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
+        },
+        {
+          "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
+        },
+        {
+          "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
+          "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
