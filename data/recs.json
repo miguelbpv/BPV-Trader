@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-05-01T15:48:54.432357Z",
+  "generated_at": "2026-05-01T18:59:19.943834Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.52,
+      "score": 6.11,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
+          "url": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss"
+        },
+        {
+          "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
+          "url": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss"
+        },
         {
           "title": "Woman killed, children injured as Israel attacks Lebanon",
           "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
           "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.11,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
+          "url": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss"
         },
         {
-          "title": "Who profits big from the war on Iran?",
-          "url": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss"
+          "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
+          "url": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss"
         },
         {
-          "title": "Oil prices rise again with little sign of war on Iran ending",
-          "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
+          "title": "Woman killed, children injured as Israel attacks Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
+          "url": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss"
+        },
+        {
+          "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
+          "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.52,
+      "score": 4.77,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
+          "url": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss"
+        },
         {
           "title": "Woman killed, children injured as Israel attacks Lebanon",
           "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss"
@@ -53,10 +88,6 @@
         {
           "title": "Who profits big from the war on Iran?",
           "url": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Oil prices rise again with little sign of war on Iran ending",
-          "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,30 +95,44 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.52,
-      "confianca": 95,
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.81,
+      "confianca": 23,
       "razoes": [
         {
-          "title": "Woman killed, children injured as Israel attacks Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss"
-        },
+          "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
+          "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.81,
+      "confianca": 23,
+      "razoes": [
         {
-          "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
-          "url": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss"
-        },
+          "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
+          "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.81,
+      "confianca": 23,
+      "razoes": [
         {
-          "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-          "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
-        },
-        {
-          "title": "Who profits big from the war on Iran?",
-          "url": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Oil prices rise again with little sign of war on Iran ending",
-          "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
+          "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
+          "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
