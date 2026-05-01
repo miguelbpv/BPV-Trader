@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-05-01T12:59:11.238979Z",
+  "generated_at": "2026-05-01T15:48:54.432357Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.27,
+      "score": 5.52,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Woman killed, children injured as Israel attacks Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss"
+        },
         {
           "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
           "url": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss"
@@ -22,10 +26,37 @@
         {
           "title": "Oil prices rise again with little sign of war on Iran ending",
           "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.52,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Woman killed, children injured as Israel attacks Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss"
         },
         {
-          "title": "More than 40 Iranian seafarers killed during US-Israeli war: Union leader",
-          "url": "https://www.aljazeera.com/news/2026/5/1/more-than-40-iranian-seafarers-killed-during-us-israeli-war-union?traffic_source=rss"
+          "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
+          "url": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss"
+        },
+        {
+          "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
+          "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
+        },
+        {
+          "title": "Who profits big from the war on Iran?",
+          "url": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Oil prices rise again with little sign of war on Iran ending",
+          "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.27,
+      "score": 5.52,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Woman killed, children injured as Israel attacks Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss"
+        },
         {
           "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
           "url": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss"
@@ -53,41 +88,6 @@
         {
           "title": "Oil prices rise again with little sign of war on Iran ending",
           "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
-        },
-        {
-          "title": "More than 40 Iranian seafarers killed during US-Israeli war: Union leader",
-          "url": "https://www.aljazeera.com/news/2026/5/1/more-than-40-iranian-seafarers-killed-during-us-israeli-war-union?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 7.27,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
-          "url": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss"
-        },
-        {
-          "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-          "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
-        },
-        {
-          "title": "Who profits big from the war on Iran?",
-          "url": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Oil prices rise again with little sign of war on Iran ending",
-          "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss"
-        },
-        {
-          "title": "More than 40 Iranian seafarers killed during US-Israeli war: Union leader",
-          "url": "https://www.aljazeera.com/news/2026/5/1/more-than-40-iranian-seafarers-killed-during-us-israeli-war-union?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
