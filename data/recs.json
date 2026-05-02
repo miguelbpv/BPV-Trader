@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-05-02T15:38:50.132534Z",
+  "generated_at": "2026-05-02T18:44:46.892218Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.26,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
-          "url": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air strikes kill 10 people in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss"
-        },
-        {
-          "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
-          "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
-          "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.26,
+      "score": 5.27,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Yemen reports hijacked oil tanker headed for Somalia",
+          "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss"
+        },
+        {
+          "title": "Prices surge, jobs disappear as war strains Iran’s economy",
+          "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss"
+        },
         {
           "title": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
           "url": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss"
         },
         {
-          "title": "Israeli air strikes kill 10 people in southern Lebanon",
+          "title": "Israeli air strikes on Lebanon kill 41 people in 24-hours",
           "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
         },
         {
           "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss"
-        },
-        {
-          "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
-          "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
-          "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,73 +35,59 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.26,
+      "score": 5.27,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Yemen reports hijacked oil tanker headed for Somalia",
+          "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss"
+        },
+        {
+          "title": "Prices surge, jobs disappear as war strains Iran’s economy",
+          "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss"
+        },
         {
           "title": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
           "url": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss"
         },
         {
-          "title": "Israeli air strikes kill 10 people in southern Lebanon",
+          "title": "Israeli air strikes on Lebanon kill 41 people in 24-hours",
           "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
         },
         {
           "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.27,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Yemen reports hijacked oil tanker headed for Somalia",
+          "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss"
         },
         {
-          "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
-          "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss"
+          "title": "Prices surge, jobs disappear as war strains Iran’s economy",
+          "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss"
         },
         {
-          "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
-          "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
+          "title": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
+          "url": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss"
+        },
         {
-          "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-          "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
+          "title": "Israeli air strikes on Lebanon kill 41 people in 24-hours",
+          "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
+        },
         {
-          "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-          "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.59,
-      "confianca": 16,
-      "razoes": [
-        {
-          "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-          "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
+          "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
