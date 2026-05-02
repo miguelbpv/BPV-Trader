@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-02T07:20:38.263800Z",
+  "generated_at": "2026-05-02T09:54:21.595363Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 9.14,
+      "score": 6.92,
       "confianca": 95,
       "razoes": [
         {
@@ -20,11 +20,11 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
+          "title": "Iran war live: Military says conflict with US ‘likely’ to restart",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss"
         },
         {
-          "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+          "title": "US to withdraw 5,000 troops from Germany over Iran war spat",
           "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
         }
       ],
@@ -33,9 +33,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.14,
+      "score": 6.92,
       "confianca": 95,
       "razoes": [
         {
@@ -51,11 +51,11 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
+          "title": "Iran war live: Military says conflict with US ‘likely’ to restart",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss"
         },
         {
-          "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+          "title": "US to withdraw 5,000 troops from Germany over Iran war spat",
           "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
         }
       ],
@@ -66,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 9.14,
+      "score": 6.92,
       "confianca": 95,
       "razoes": [
         {
@@ -82,11 +82,11 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
+          "title": "Iran war live: Military says conflict with US ‘likely’ to restart",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss"
         },
         {
-          "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+          "title": "US to withdraw 5,000 troops from Germany over Iran war spat",
           "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
         }
       ],
@@ -97,35 +97,12 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.39,
-      "confianca": 39,
+      "score": 0.6,
+      "confianca": 17,
       "razoes": [
         {
           "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
           "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
-          "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.39,
-      "confianca": 39,
-      "razoes": [
-        {
-          "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-          "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
-        },
-        {
-          "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
-          "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -135,16 +112,27 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.39,
-      "confianca": 39,
+      "score": 0.6,
+      "confianca": 17,
       "razoes": [
         {
           "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
           "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.6,
+      "confianca": 17,
+      "razoes": [
         {
-          "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
-          "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss"
+          "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+          "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
