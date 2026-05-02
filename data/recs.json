@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-05-02T05:29:03.677092Z",
+  "generated_at": "2026-05-02T07:20:38.263800Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.76,
+      "score": 9.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+          "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss"
+        },
         {
           "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
           "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
-        },
-        {
-          "title": "Trump considering option to ‘blast the hell out of’ Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 9.76,
+      "score": 9.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+          "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss"
+        },
         {
           "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
           "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
-        },
-        {
-          "title": "Trump considering option to ‘blast the hell out of’ Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 8.44,
+      "score": 9.14,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+          "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss"
+        },
         {
           "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
           "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
-        },
-        {
-          "title": "Trump considering option to ‘blast the hell out of’ Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,7 +95,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 1.39,
       "confianca": 39,
@@ -133,7 +133,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "TSM",
       "acao": "observar",
       "score": 1.39,
       "confianca": 39,
