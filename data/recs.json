@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-05-03T05:50:32.494367Z",
+  "generated_at": "2026-05-03T07:49:22.300311Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 9.75,
+      "score": 8.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+          "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
+        },
+        {
+          "title": "In Yemen, Starlink internet brings opportunities – for some",
+          "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss"
+        },
         {
           "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "UAE lifts all air traffic restrictions introduced since Iran war",
           "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
-          "url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.75,
+      "score": 8.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+          "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
+        },
+        {
+          "title": "In Yemen, Starlink internet brings opportunities – for some",
+          "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss"
+        },
         {
           "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss"
@@ -49,14 +57,6 @@
         {
           "title": "UAE lifts all air traffic restrictions introduced since Iran war",
           "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
-          "url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 8.42,
+      "score": 7.12,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+          "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
+        },
+        {
+          "title": "In Yemen, Starlink internet brings opportunities – for some",
+          "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss"
+        },
         {
           "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss"
@@ -80,14 +88,51 @@
         {
           "title": "UAE lifts all air traffic restrictions introduced since Iran war",
           "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
         {
-          "title": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
-          "url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
-        },
+          "title": "China blocks US sanctions against five ‘teapot’ refineries",
+          "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
         {
-          "title": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss"
+          "title": "China blocks US sanctions against five ‘teapot’ refineries",
+          "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
+        {
+          "title": "China blocks US sanctions against five ‘teapot’ refineries",
+          "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
