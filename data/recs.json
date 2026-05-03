@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-05-03T07:49:22.300311Z",
+  "generated_at": "2026-05-03T09:59:17.250130Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.44,
+      "score": 6.13,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel issues new forced displacement orders in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
           "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "US approves $8.6bn in arms sales to Middle East allies",
           "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss"
-        },
-        {
-          "title": "UAE lifts all air traffic restrictions introduced since Iran war",
-          "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.44,
+      "score": 6.13,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel issues new forced displacement orders in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
           "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "US approves $8.6bn in arms sales to Middle East allies",
           "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss"
-        },
-        {
-          "title": "UAE lifts all air traffic restrictions introduced since Iran war",
-          "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 7.12,
+      "score": 6.13,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel issues new forced displacement orders in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
           "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "US approves $8.6bn in arms sales to Middle East allies",
           "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss"
-        },
-        {
-          "title": "UAE lifts all air traffic restrictions introduced since Iran war",
-          "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,9 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.61,
+      "score": 0.6,
       "confianca": 17,
       "razoes": [
         {
@@ -110,9 +110,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.61,
+      "score": 0.6,
       "confianca": 17,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.61,
+      "score": 0.6,
       "confianca": 17,
       "razoes": [
         {
