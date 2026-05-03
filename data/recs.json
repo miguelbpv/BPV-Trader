@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-05-03T09:59:17.250130Z",
+  "generated_at": "2026-05-03T12:50:50.030507Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.13,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel issues new forced displacement orders in southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-          "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
-        },
-        {
-          "title": "In Yemen, Starlink internet brings opportunities – for some",
-          "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss"
-        },
-        {
-          "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss"
-        },
-        {
-          "title": "US approves $8.6bn in arms sales to Middle East allies",
-          "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.13,
+      "score": 3.97,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israel approves purchase of fighter jets from the US",
+          "url": "https://www.aljazeera.com/news/2026/5/3/israel-approves-purchase-of-fighter-jets-from-the-us?traffic_source=rss"
+        },
+        {
+          "title": "Gaza aid flotilla activists appear in Israeli court after abduction",
+          "url": "https://www.aljazeera.com/news/2026/5/3/gaza-flotilla-activists-appear-in-israeli-court-allege-torture-in-custody?traffic_source=rss"
+        },
+        {
+          "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+          "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss"
+        },
+        {
+          "title": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss"
+        },
+        {
           "title": "Israel issues new forced displacement orders in southern Lebanon",
           "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-          "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
-        },
-        {
-          "title": "In Yemen, Starlink internet brings opportunities – for some",
-          "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss"
-        },
-        {
-          "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss"
-        },
-        {
-          "title": "US approves $8.6bn in arms sales to Middle East allies",
-          "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,28 +35,59 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.13,
+      "score": 3.97,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Israel approves purchase of fighter jets from the US",
+          "url": "https://www.aljazeera.com/news/2026/5/3/israel-approves-purchase-of-fighter-jets-from-the-us?traffic_source=rss"
+        },
+        {
+          "title": "Gaza aid flotilla activists appear in Israeli court after abduction",
+          "url": "https://www.aljazeera.com/news/2026/5/3/gaza-flotilla-activists-appear-in-israeli-court-allege-torture-in-custody?traffic_source=rss"
+        },
+        {
+          "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+          "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss"
+        },
+        {
+          "title": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss"
+        },
+        {
           "title": "Israel issues new forced displacement orders in southern Lebanon",
           "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.97,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel approves purchase of fighter jets from the US",
+          "url": "https://www.aljazeera.com/news/2026/5/3/israel-approves-purchase-of-fighter-jets-from-the-us?traffic_source=rss"
         },
         {
-          "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-          "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss"
+          "title": "Gaza aid flotilla activists appear in Israeli court after abduction",
+          "url": "https://www.aljazeera.com/news/2026/5/3/gaza-flotilla-activists-appear-in-israeli-court-allege-torture-in-custody?traffic_source=rss"
         },
         {
-          "title": "In Yemen, Starlink internet brings opportunities – for some",
-          "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss"
+          "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+          "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss"
         },
         {
-          "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss"
+          "title": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss"
         },
         {
-          "title": "US approves $8.6bn in arms sales to Middle East allies",
-          "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss"
+          "title": "Israel issues new forced displacement orders in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
