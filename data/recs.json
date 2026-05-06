@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-05-06T02:02:22.042998Z",
+  "generated_at": "2026-05-06T05:49:32.408782Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.85,
+      "score": 7.79,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
+          "url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Israel kills one boy, injures officers in strike on Gaza police station",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss"
-        },
-        {
-          "title": "Could OPEC break lead to era of energy volatility?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/5/5/aje-onl-tt_uae_opec_video_v1-050526?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.85,
+      "score": 7.79,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
+          "url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israel kills one boy, injures officers in strike on Gaza police station",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss"
-        },
-        {
-          "title": "Could OPEC break lead to era of energy volatility?",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/5/5/aje-onl-tt_uae_opec_video_v1-050526?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.51,
+      "score": 6.46,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
+          "url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Israel kills one boy, injures officers in strike on Gaza police station",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss"
-        },
-        {
-          "title": "Video: Trump says Iran should ‘wave the white flag’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,9 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -112,7 +112,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -125,9 +125,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
