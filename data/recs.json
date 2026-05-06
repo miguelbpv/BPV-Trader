@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-06T19:24:59.405334Z",
+  "generated_at": "2026-05-06T21:51:24.195935Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.92,
+      "score": 6.43,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
+          "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs Beirut’s southern suburbs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
+          "url": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss"
+        },
         {
           "title": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/why-are-pentagon-officials-talking-about-irans-deadly?traffic_source=rss"
@@ -14,18 +26,37 @@
         {
           "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
           "url": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.43,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
+          "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
         },
         {
-          "title": "Iran ‘has attained an elevated international standing’ says FM",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iran-has-attained-an-elevated-international-standing-says-fm?traffic_source=rss"
+          "title": "Israel bombs Beirut’s southern suburbs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss"
         },
         {
-          "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
-          "url": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss"
+          "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
+          "url": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss"
         },
         {
-          "title": "UN demands Israel immediately releases flotilla activists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
+          "title": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/why-are-pentagon-officials-talking-about-irans-deadly?traffic_source=rss"
+        },
+        {
+          "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
+          "url": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,21 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.92,
+      "score": 6.43,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
+          "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
+        },
+        {
+          "title": "Israel bombs Beirut’s southern suburbs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
+          "url": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss"
+        },
         {
           "title": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/why-are-pentagon-officials-talking-about-irans-deadly?traffic_source=rss"
@@ -45,109 +88,6 @@
         {
           "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
           "url": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard?traffic_source=rss"
-        },
-        {
-          "title": "Iran ‘has attained an elevated international standing’ says FM",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iran-has-attained-an-elevated-international-standing-says-fm?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
-          "url": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss"
-        },
-        {
-          "title": "UN demands Israel immediately releases flotilla activists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.92,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/why-are-pentagon-officials-talking-about-irans-deadly?traffic_source=rss"
-        },
-        {
-          "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
-          "url": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard?traffic_source=rss"
-        },
-        {
-          "title": "Iran ‘has attained an elevated international standing’ says FM",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iran-has-attained-an-elevated-international-standing-says-fm?traffic_source=rss"
-        },
-        {
-          "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
-          "url": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss"
-        },
-        {
-          "title": "UN demands Israel immediately releases flotilla activists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Australians slam ban on World Cup screenings at Federation Square",
-          "url": "https://www.aljazeera.com/sports/2026/5/6/australians-slam-ban-on-world-cup-screenings-at-federation-square?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Australians slam ban on World Cup screenings at Federation Square",
-          "url": "https://www.aljazeera.com/sports/2026/5/6/australians-slam-ban-on-world-cup-screenings-at-federation-square?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Australians slam ban on World Cup screenings at Federation Square",
-          "url": "https://www.aljazeera.com/sports/2026/5/6/australians-slam-ban-on-world-cup-screenings-at-federation-square?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Australians slam ban on World Cup screenings at Federation Square",
-          "url": "https://www.aljazeera.com/sports/2026/5/6/australians-slam-ban-on-world-cup-screenings-at-federation-square?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
