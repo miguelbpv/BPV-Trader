@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-05-07T05:53:21.139028Z",
+  "generated_at": "2026-05-07T08:19:07.874359Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.14,
+      "score": 6.12,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
+          "url": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss"
+        },
         {
           "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
           "url": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss"
@@ -22,10 +26,37 @@
         {
           "title": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.12,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
+          "url": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss"
         },
         {
-          "title": "What are China’s surprise gains in the war on Iran?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss"
+          "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Israeli soldier caught desecrating statue of Virgin Mary in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/israeli-soldier-caught-desecrating-statue-of-virgin-mary-in-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "US says Hezbollah is ‘trying to derail talks’ with Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/us-says-hezbollah-is-trying-to-derail-talks-with-israel?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.14,
+      "score": 6.12,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
+          "url": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss"
+        },
         {
           "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
           "url": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss"
@@ -53,41 +88,6 @@
         {
           "title": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss"
-        },
-        {
-          "title": "What are China’s surprise gains in the war on Iran?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.14,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldier caught desecrating statue of Virgin Mary in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/israeli-soldier-caught-desecrating-statue-of-virgin-mary-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "US says Hezbollah is ‘trying to derail talks’ with Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/us-says-hezbollah-is-trying-to-derail-talks-with-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss"
-        },
-        {
-          "title": "What are China’s surprise gains in the war on Iran?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
