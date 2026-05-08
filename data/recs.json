@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-05-08T10:17:55.122909Z",
+  "generated_at": "2026-05-08T13:11:07.538383Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 7.75,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ",
-          "url": "https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss"
-        },
-        {
-          "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
-          "url": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss"
-        },
-        {
-          "title": "Yemen fuel price hikes deepen hardship as transport costs rise",
-          "url": "https://www.aljazeera.com/features/2026/5/8/yemen-fuel-price-hikes-deepen-hardship-as-transport-costs-rise?traffic_source=rss"
-        },
-        {
-          "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
-          "url": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss"
-        },
-        {
-          "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
-          "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.75,
+      "score": 7.29,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Iran claims to have seized ‘offending’ oil tanker in Gulf of Oman",
+          "url": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports?traffic_source=rss"
+        },
+        {
+          "title": "What we know about Iran’s response to the latest US ceasefire proposal",
+          "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal?traffic_source=rss"
+        },
+        {
+          "title": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/sexual-violence-against-palestinians-in-israeli-prisons-is?traffic_source=rss"
+        },
+        {
+          "title": "After 18 months of mourning, a Gaza son is found alive in an Israeli prison",
+          "url": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss"
+        },
+        {
           "title": "FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ",
           "url": "https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss"
-        },
-        {
-          "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
-          "url": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss"
-        },
-        {
-          "title": "Yemen fuel price hikes deepen hardship as transport costs rise",
-          "url": "https://www.aljazeera.com/features/2026/5/8/yemen-fuel-price-hikes-deepen-hardship-as-transport-costs-rise?traffic_source=rss"
-        },
-        {
-          "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
-          "url": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss"
-        },
-        {
-          "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
-          "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,28 +35,59 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 7.75,
+      "score": 7.29,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Iran claims to have seized ‘offending’ oil tanker in Gulf of Oman",
+          "url": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports?traffic_source=rss"
+        },
+        {
+          "title": "What we know about Iran’s response to the latest US ceasefire proposal",
+          "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal?traffic_source=rss"
+        },
+        {
+          "title": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/sexual-violence-against-palestinians-in-israeli-prisons-is?traffic_source=rss"
+        },
+        {
+          "title": "After 18 months of mourning, a Gaza son is found alive in an Israeli prison",
+          "url": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss"
+        },
+        {
           "title": "FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ",
           "url": "https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 7.29,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran claims to have seized ‘offending’ oil tanker in Gulf of Oman",
+          "url": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports?traffic_source=rss"
         },
         {
-          "title": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
-          "url": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss"
+          "title": "What we know about Iran’s response to the latest US ceasefire proposal",
+          "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal?traffic_source=rss"
         },
         {
-          "title": "Yemen fuel price hikes deepen hardship as transport costs rise",
-          "url": "https://www.aljazeera.com/features/2026/5/8/yemen-fuel-price-hikes-deepen-hardship-as-transport-costs-rise?traffic_source=rss"
+          "title": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/sexual-violence-against-palestinians-in-israeli-prisons-is?traffic_source=rss"
         },
         {
-          "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
-          "url": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss"
+          "title": "After 18 months of mourning, a Gaza son is found alive in an Israeli prison",
+          "url": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss"
         },
         {
-          "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
-          "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss"
+          "title": "FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ",
+          "url": "https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
