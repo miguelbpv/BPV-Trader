@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-13T11:26:16.386382Z",
+  "generated_at": "2026-05-13T14:09:24.333615Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.96,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Activist confronts Iran’s former crown prince over war on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
+          "url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss"
+        },
+        {
+          "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
+          "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss"
+        },
         {
           "title": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss"
@@ -14,10 +26,37 @@
         {
           "title": "At least eight killed in Israeli drone strikes on Lebanon highway",
           "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.96,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Activist confronts Iran’s former crown prince over war on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss"
         },
         {
-          "title": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
-          "url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss"
+          "title": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
+          "url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss"
+        },
+        {
+          "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
+          "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss"
+        },
+        {
+          "title": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss"
+        },
+        {
+          "title": "At least eight killed in Israeli drone strikes on Lebanon highway",
+          "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,10 +65,22 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
+      "acao": "comprar",
+      "score": 3.96,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Activist confronts Iran’s former crown prince over war on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
+          "url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss"
+        },
+        {
+          "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
+          "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss"
+        },
         {
           "title": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss"
@@ -37,10 +88,6 @@
         {
           "title": "At least eight killed in Israeli drone strikes on Lebanon highway",
           "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss"
-        },
-        {
-          "title": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
-          "url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,30 +95,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.74,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss"
-        },
-        {
-          "title": "At least eight killed in Israeli drone strikes on Lebanon highway",
-          "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss"
-        },
-        {
-          "title": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
-          "url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
@@ -86,7 +110,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
