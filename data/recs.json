@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-05-15T02:26:21.563280Z",
+  "generated_at": "2026-05-15T06:25:28.799012Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 8.6,
+      "score": 8.04,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Top US admiral: Strikes severely degraded Iran’s military, defence",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss"
+        },
+        {
+          "title": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss"
+        },
         {
           "title": "Eurovision braces for new protests over Israel’s participation",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Could Iran war trigger a hunger crisis?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 8.04,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Top US admiral: Strikes severely degraded Iran’s military, defence",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss"
         },
         {
-          "title": "‘China is gaining from what the US is doing in Iran’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss"
+          "title": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss"
         },
         {
-          "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
-          "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss"
+          "title": "Eurovision braces for new protests over Israel’s participation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Could Iran war trigger a hunger crisis?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.6,
+      "score": 8.04,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Top US admiral: Strikes severely degraded Iran’s military, defence",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss"
+        },
+        {
+          "title": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss"
+        },
         {
           "title": "Eurovision braces for new protests over Israel’s participation",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss"
@@ -49,105 +88,6 @@
         {
           "title": "Could Iran war trigger a hunger crisis?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss"
-        },
-        {
-          "title": "‘China is gaining from what the US is doing in Iran’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss"
-        },
-        {
-          "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
-          "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 8.6,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Eurovision braces for new protests over Israel’s participation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
-        },
-        {
-          "title": "Could Iran war trigger a hunger crisis?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss"
-        },
-        {
-          "title": "‘China is gaining from what the US is doing in Iran’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss"
-        },
-        {
-          "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
-          "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Jerome Powell: Steering the US Fed through COVID-19 and political pressures",
-          "url": "https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Jerome Powell: Steering the US Fed through COVID-19 and political pressures",
-          "url": "https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Jerome Powell: Steering the US Fed through COVID-19 and political pressures",
-          "url": "https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Jerome Powell: Steering the US Fed through COVID-19 and political pressures",
-          "url": "https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
