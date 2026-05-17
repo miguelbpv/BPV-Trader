@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-05-17T15:51:56.234680Z",
+  "generated_at": "2026-05-17T18:56:20.293922Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.69,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "New wave of Israeli strikes pound Lebanon despite ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Schoolchildren flee Israeli raid in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/schoolchildren-flee-israeli-raid-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israel comes second at Eurovision amid boycotts and backlash",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss"
-        },
-        {
-          "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-          "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.69,
-      "confianca": 95,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Three community kitchen workers among five killed by Israel in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iranian civilians get defence training",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss"
+        },
         {
           "title": "New wave of Israeli strikes pound Lebanon despite ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Israel comes second at Eurovision amid boycotts and backlash",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss"
-        },
-        {
-          "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss"
-        },
-        {
-          "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-          "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.69,
-      "confianca": 95,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Three community kitchen workers among five killed by Israel in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iranian civilians get defence training",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss"
+        },
         {
           "title": "New wave of Israeli strikes pound Lebanon despite ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss"
@@ -80,74 +57,37 @@
         {
           "title": "Israel comes second at Eurovision amid boycotts and backlash",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Three community kitchen workers among five killed by Israel in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss"
+          "title": "Iranian civilians get defence training",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss"
         },
         {
-          "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-          "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
+          "title": "New wave of Israeli strikes pound Lebanon despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss"
+        },
         {
-          "title": "Federal funding for Trump ballroom in trouble after Senate ruling",
-          "url": "https://www.aljazeera.com/news/2026/5/17/federal-funding-for-trump-ballroom-in-trouble-after-senate-ruling?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
+          "title": "Schoolchildren flee Israeli raid in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/schoolchildren-flee-israeli-raid-in-occupied-west-bank?traffic_source=rss"
+        },
         {
-          "title": "Federal funding for Trump ballroom in trouble after Senate ruling",
-          "url": "https://www.aljazeera.com/news/2026/5/17/federal-funding-for-trump-ballroom-in-trouble-after-senate-ruling?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Federal funding for Trump ballroom in trouble after Senate ruling",
-          "url": "https://www.aljazeera.com/news/2026/5/17/federal-funding-for-trump-ballroom-in-trouble-after-senate-ruling?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.97,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Federal funding for Trump ballroom in trouble after Senate ruling",
-          "url": "https://www.aljazeera.com/news/2026/5/17/federal-funding-for-trump-ballroom-in-trouble-after-senate-ruling?traffic_source=rss"
+          "title": "Israel comes second at Eurovision amid boycotts and backlash",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
