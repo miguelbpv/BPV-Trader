@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-05-18T02:33:35.383530Z",
+  "generated_at": "2026-05-18T06:48:01.890514Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.9,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss"
-        },
-        {
-          "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-          "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
-          "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.9,
+      "score": 4.83,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +35,38 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.9,
+      "score": 4.83,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss"
+        },
+        {
+          "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+          "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
+          "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.83,
       "confianca": 95,
       "razoes": [
         {
