@@ -1,10 +1,41 @@
 {
-  "generated_at": "2026-05-20T17:49:17.525877Z",
+  "generated_at": "2026-05-20T20:02:51.286370Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.16,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
+          "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss"
+        },
+        {
+          "title": "Trump jokes about running for Israeli prime minister",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
+        },
+        {
+          "title": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
+          "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
+          "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.95,
+      "score": 6.16,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +66,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.95,
+      "score": 6.16,
       "confianca": 95,
       "razoes": [
         {
@@ -57,82 +88,6 @@
         {
           "title": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
           "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.95,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
-          "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss"
-        },
-        {
-          "title": "Trump jokes about running for Israeli prime minister",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
-          "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
-          "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
-          "url": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
-          "url": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
-          "url": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
