@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-05-20T22:19:26.571454Z",
+  "generated_at": "2026-05-21T02:33:33.601360Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.15,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
-          "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss"
-        },
-        {
-          "title": "Trump jokes about running for Israeli prime minister",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
-          "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.15,
+      "score": 4.27,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
+        },
+        {
+          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Trump jokes about running for Israeli prime minister",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
-        },
-        {
-          "title": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
-          "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.15,
+      "score": 4.27,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
+        },
+        {
+          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
+        },
         {
           "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
@@ -80,14 +57,94 @@
         {
           "title": "Trump jokes about running for Israeli prime minister",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.27,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
         },
         {
-          "title": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
-          "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss"
+          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
         },
         {
-          "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss"
+          "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
+          "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss"
+        },
+        {
+          "title": "Trump jokes about running for Israeli prime minister",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+          "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss"
+        },
+        {
+          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+          "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss"
+        },
+        {
+          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.46,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+          "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss"
+        },
+        {
+          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
