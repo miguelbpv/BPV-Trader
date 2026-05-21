@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-05-21T02:33:33.601360Z",
+  "generated_at": "2026-05-21T06:44:19.750387Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.27,
-      "confianca": 95,
+      "score": 3.05,
+      "confianca": 87,
       "razoes": [
+        {
+          "title": "Nvidia posts record profit of $58.3bn amid AI chip boom",
+          "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
@@ -18,76 +22,6 @@
         {
           "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
-          "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss"
-        },
-        {
-          "title": "Trump jokes about running for Israeli prime minister",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.27,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
-        },
-        {
-          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
-          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
-          "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss"
-        },
-        {
-          "title": "Trump jokes about running for Israeli prime minister",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.27,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
-        },
-        {
-          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
-          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
-          "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss"
-        },
-        {
-          "title": "Trump jokes about running for Israeli prime minister",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -96,10 +30,14 @@
     },
     {
       "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "acao": "comprar",
+      "score": 2.43,
+      "confianca": 69,
       "razoes": [
+        {
+          "title": "Nvidia posts record profit of $58.3bn amid AI chip boom",
+          "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom?traffic_source=rss"
+        },
         {
           "title": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
           "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss"
@@ -115,8 +53,77 @@
     },
     {
       "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.43,
+      "confianca": 69,
+      "razoes": [
+        {
+          "title": "Nvidia posts record profit of $58.3bn amid AI chip boom",
+          "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom?traffic_source=rss"
+        },
+        {
+          "title": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
+          "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss"
+        },
+        {
+          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.46,
+      "score": 2.06,
+      "confianca": 58,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
+        },
+        {
+          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.06,
+      "confianca": 58,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss"
+        },
+        {
+          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
+          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.44,
       "confianca": 41,
       "razoes": [
         {
@@ -133,18 +140,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "NVDA",
       "acao": "observar",
-      "score": 1.46,
-      "confianca": 41,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
-          "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss"
-        },
-        {
-          "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
-          "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss"
+          "title": "Nvidia posts record profit of $58.3bn amid AI chip boom",
+          "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
