@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-05-21T19:43:50.411370Z",
+  "generated_at": "2026-05-21T22:12:52.720977Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.73,
+      "score": 3.72,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss"
+        },
         {
           "title": "Trump shifts between diplomacy and threats in Iran standoff",
           "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss"
@@ -22,10 +26,37 @@
         {
           "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
           "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.72,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss"
         },
         {
-          "title": "US-Iran diplomacy picks up: What’s the latest?",
-          "url": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss"
+          "title": "Trump shifts between diplomacy and threats in Iran standoff",
+          "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss"
+        },
+        {
+          "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s World Cup hopes hit US visa hurdles",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss"
+        },
+        {
+          "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+          "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.73,
+      "score": 3.72,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss"
+        },
         {
           "title": "Trump shifts between diplomacy and threats in Iran standoff",
           "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss"
@@ -53,10 +88,6 @@
         {
           "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
           "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran diplomacy picks up: What’s the latest?",
-          "url": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,30 +95,44 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.73,
-      "confianca": 95,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "Trump shifts between diplomacy and threats in Iran standoff",
-          "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss"
-        },
+          "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+          "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
         {
-          "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
-        },
+          "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+          "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
         {
-          "title": "Iran’s World Cup hopes hit US visa hurdles",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss"
-        },
-        {
-          "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
-          "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran diplomacy picks up: What’s the latest?",
-          "url": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss"
+          "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+          "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
