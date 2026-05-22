@@ -1,62 +1,27 @@
 {
-  "generated_at": "2026-05-22T06:41:20.128759Z",
+  "generated_at": "2026-05-22T11:38:41.666416Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.91,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
-          "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss"
-        },
-        {
-          "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss"
-        },
-        {
-          "title": "Trump shifts between diplomacy and threats in Iran standoff",
-          "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss"
-        },
-        {
-          "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.91,
+      "score": 3.55,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
+          "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Iran war day 84: US-Iran talks advance amid mediation push",
+          "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
+        },
         {
           "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
           "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
+          "title": "Iran war live: ‘Little bit’ of progress in US-Iran talks, Washington says",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss"
-        },
-        {
-          "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss"
-        },
-        {
-          "title": "Trump shifts between diplomacy and threats in Iran standoff",
-          "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss"
-        },
-        {
-          "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,28 +31,47 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.91,
+      "score": 3.55,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
+          "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Iran war day 84: US-Iran talks advance amid mediation push",
+          "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
+        },
         {
           "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
           "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
+          "title": "Iran war live: ‘Little bit’ of progress in US-Iran talks, Washington says",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.2,
+      "confianca": 62,
+      "razoes": [
+        {
+          "title": "Iran war day 84: US-Iran talks advance amid mediation push",
+          "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
         },
         {
-          "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss"
+          "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
+          "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss"
         },
         {
-          "title": "Trump shifts between diplomacy and threats in Iran standoff",
-          "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss"
-        },
-        {
-          "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
+          "title": "Iran war live: ‘Little bit’ of progress in US-Iran talks, Washington says",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,16 +81,12 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.18,
-      "confianca": 33,
+      "score": 0.59,
+      "confianca": 16,
       "razoes": [
         {
           "title": "US says it has not changed its stance on sanctioning Francesca Albanese",
           "url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
-          "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -116,16 +96,12 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.18,
-      "confianca": 33,
+      "score": 0.59,
+      "confianca": 16,
       "razoes": [
         {
           "title": "US says it has not changed its stance on sanctioning Francesca Albanese",
           "url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
-          "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -135,16 +111,12 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.18,
-      "confianca": 33,
+      "score": 0.59,
+      "confianca": 16,
       "razoes": [
         {
           "title": "US says it has not changed its stance on sanctioning Francesca Albanese",
           "url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss"
-        },
-        {
-          "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
-          "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
