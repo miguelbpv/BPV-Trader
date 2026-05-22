@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-05-22T02:35:15.928466Z",
+  "generated_at": "2026-05-22T06:41:20.128759Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.67,
+      "score": 3.91,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
+          "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s World Cup hopes hit US visa hurdles",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.67,
+      "score": 3.91,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
+          "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s World Cup hopes hit US visa hurdles",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.67,
+      "score": 3.91,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
+          "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
           "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s World Cup hopes hit US visa hurdles",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,10 +95,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.2,
-      "confianca": 34,
+      "score": 1.18,
+      "confianca": 33,
       "razoes": [
         {
           "title": "US says it has not changed its stance on sanctioning Francesca Albanese",
@@ -114,10 +114,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.2,
-      "confianca": 34,
+      "score": 1.18,
+      "confianca": 33,
       "razoes": [
         {
           "title": "US says it has not changed its stance on sanctioning Francesca Albanese",
@@ -135,8 +135,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.2,
-      "confianca": 34,
+      "score": 1.18,
+      "confianca": 33,
       "razoes": [
         {
           "title": "US says it has not changed its stance on sanctioning Francesca Albanese",
