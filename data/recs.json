@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-05-22T14:20:40.903185Z",
+  "generated_at": "2026-05-22T17:02:25.600147Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.32,
-      "confianca": 94,
+      "score": 4.06,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Western nations warn Israel to end illegal settlement expansion, violence",
+          "url": "https://www.aljazeera.com/news/2026/5/22/western-nations-warn-israel-to-end-illegal-settlement-expansion-violence?traffic_source=rss"
+        },
+        {
+          "title": "Economic confidence plummets in US amid Iran war, poll shows",
+          "url": "https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks kill several in Lebanon, with health workers targeted",
           "url": "https://www.aljazeera.com/news/2026/5/22/israeli-attacks-kill-several-in-lebanon-with-health-workers-targeted?traffic_source=rss"
@@ -18,10 +26,6 @@
         {
           "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
           "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Iran war day 84: US-Iran talks advance amid mediation push",
-          "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.32,
-      "confianca": 94,
+      "score": 4.06,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Western nations warn Israel to end illegal settlement expansion, violence",
+          "url": "https://www.aljazeera.com/news/2026/5/22/western-nations-warn-israel-to-end-illegal-settlement-expansion-violence?traffic_source=rss"
+        },
+        {
+          "title": "Economic confidence plummets in US amid Iran war, poll shows",
+          "url": "https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks kill several in Lebanon, with health workers targeted",
           "url": "https://www.aljazeera.com/news/2026/5/22/israeli-attacks-kill-several-in-lebanon-with-health-workers-targeted?traffic_source=rss"
@@ -45,10 +57,6 @@
         {
           "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
           "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Iran war day 84: US-Iran talks advance amid mediation push",
-          "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -57,10 +65,18 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "acao": "comprar",
+      "score": 2.73,
+      "confianca": 78,
       "razoes": [
+        {
+          "title": "Western nations warn Israel to end illegal settlement expansion, violence",
+          "url": "https://www.aljazeera.com/news/2026/5/22/western-nations-warn-israel-to-end-illegal-settlement-expansion-violence?traffic_source=rss"
+        },
+        {
+          "title": "Economic confidence plummets in US amid Iran war, poll shows",
+          "url": "https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss"
+        },
         {
           "title": "Israeli attacks kill several in Lebanon, with health workers targeted",
           "url": "https://www.aljazeera.com/news/2026/5/22/israeli-attacks-kill-several-in-lebanon-with-health-workers-targeted?traffic_source=rss"
@@ -68,10 +84,66 @@
         {
           "title": "Iran’s enriched uranium stockpile: Can it be safely transferred?",
           "url": "https://www.aljazeera.com/news/2026/5/22/irans-enriched-uranium-stockpile-can-it-be-safely-transferred?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
         {
-          "title": "Iran war day 84: US-Iran talks advance amid mediation push",
-          "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
+          "title": "Kevin Warsh sworn in as new US Fed chair",
+          "url": "https://www.aljazeera.com/economy/2026/5/22/kevin-warsh-sworn-in-as-new-us-fed-chair?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Kevin Warsh sworn in as new US Fed chair",
+          "url": "https://www.aljazeera.com/economy/2026/5/22/kevin-warsh-sworn-in-as-new-us-fed-chair?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Kevin Warsh sworn in as new US Fed chair",
+          "url": "https://www.aljazeera.com/economy/2026/5/22/kevin-warsh-sworn-in-as-new-us-fed-chair?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Kevin Warsh sworn in as new US Fed chair",
+          "url": "https://www.aljazeera.com/economy/2026/5/22/kevin-warsh-sworn-in-as-new-us-fed-chair?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
