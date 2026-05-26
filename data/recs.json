@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-05-26T14:56:25.230597Z",
+  "generated_at": "2026-05-26T17:53:17.882741Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.98,
-      "confianca": 85,
+      "score": 2.47,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Iranian fishermen struggle to survive amid Hormuz blockade",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss"
+        },
+        {
+          "title": "Israel is no longer ‘shooting and crying’",
+          "url": "https://www.aljazeera.com/opinions/2026/5/26/israel-is-no-longer-shooting-and-crying?traffic_source=rss"
+        },
         {
           "title": "Iran’s president praises military after US strikes",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss"
@@ -14,18 +22,33 @@
         {
           "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
           "url": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.47,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Iranian fishermen struggle to survive amid Hormuz blockade",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss"
         },
         {
-          "title": "Israeli air attacks kill seven Palestinians in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss"
+          "title": "Israel is no longer ‘shooting and crying’",
+          "url": "https://www.aljazeera.com/opinions/2026/5/26/israel-is-no-longer-shooting-and-crying?traffic_source=rss"
         },
         {
-          "title": "Israeli attacks on eastern Lebanon village kill at least 11 people",
-          "url": "https://www.aljazeera.com/news/2026/5/26/israeli-attacks-on-eastern-lebanon-village-kill-at-least-12-people?traffic_source=rss"
+          "title": "Iran’s president praises military after US strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss"
         },
         {
-          "title": "Israel’s labour force transformed since October 7",
-          "url": "https://www.aljazeera.com/video/money-works/2026/5/26/israels-labour-force-transformed-since-october-7?traffic_source=rss"
+          "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
+          "url": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +58,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.98,
-      "confianca": 85,
+      "score": 2.47,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Iranian fishermen struggle to survive amid Hormuz blockade",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss"
+        },
+        {
+          "title": "Israel is no longer ‘shooting and crying’",
+          "url": "https://www.aljazeera.com/opinions/2026/5/26/israel-is-no-longer-shooting-and-crying?traffic_source=rss"
+        },
         {
           "title": "Iran’s president praises military after US strikes",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss"
@@ -45,49 +76,6 @@
         {
           "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
           "url": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air attacks kill seven Palestinians in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on eastern Lebanon village kill at least 11 people",
-          "url": "https://www.aljazeera.com/news/2026/5/26/israeli-attacks-on-eastern-lebanon-village-kill-at-least-12-people?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s labour force transformed since October 7",
-          "url": "https://www.aljazeera.com/video/money-works/2026/5/26/israels-labour-force-transformed-since-october-7?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.98,
-      "confianca": 85,
-      "razoes": [
-        {
-          "title": "Iran’s president praises military after US strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
-          "url": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air attacks kill seven Palestinians in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks on eastern Lebanon village kill at least 11 people",
-          "url": "https://www.aljazeera.com/news/2026/5/26/israeli-attacks-on-eastern-lebanon-village-kill-at-least-12-people?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s labour force transformed since October 7",
-          "url": "https://www.aljazeera.com/video/money-works/2026/5/26/israels-labour-force-transformed-since-october-7?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
