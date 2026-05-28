@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-05-27T22:25:36.522239Z",
+  "generated_at": "2026-05-28T02:24:53.650120Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.31,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Markets rally amid hopes of US-Iran deal",
-          "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss"
-        },
-        {
-          "title": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss"
-        },
-        {
-          "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
-          "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss"
-        },
-        {
-          "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
-          "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.31,
+      "score": 4.29,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: US strikes Iranian site as tensions rise in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss"
+        },
         {
           "title": "Markets rally amid hopes of US-Iran deal",
           "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
           "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss"
-        },
-        {
-          "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
-          "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.31,
+      "score": 4.29,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: US strikes Iranian site as tensions rise in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss"
+        },
         {
           "title": "Markets rally amid hopes of US-Iran deal",
           "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
           "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.29,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: US strikes Iranian site as tensions rise in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss"
         },
         {
-          "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
-          "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss"
+          "title": "Markets rally amid hopes of US-Iran deal",
+          "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss"
+        },
+        {
+          "title": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss"
+        },
+        {
+          "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+          "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,24 +97,13 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
         {
-          "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
-          "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
-      "razoes": [
+          "title": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
+          "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss"
+        },
         {
           "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
           "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss"
@@ -127,9 +116,32 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.1,
-      "confianca": 31,
+      "score": 1.7,
+      "confianca": 48,
       "razoes": [
+        {
+          "title": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
+          "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss"
+        },
+        {
+          "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
+          "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
+          "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss"
+        },
         {
           "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
           "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss"
