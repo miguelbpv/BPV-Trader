@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-05-28T20:16:45.632401Z",
+  "generated_at": "2026-05-28T22:27:13.214517Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.69,
+      "score": 6.04,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
           "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss"
@@ -22,41 +26,6 @@
         {
           "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
           "url": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss"
-        },
-        {
-          "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
-          "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.69,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-          "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss"
-        },
-        {
-          "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-          "url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss"
-        },
-        {
-          "title": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss"
-        },
-        {
-          "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
-          "url": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss"
-        },
-        {
-          "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
-          "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.69,
+      "score": 6.04,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
           "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss"
@@ -84,10 +57,6 @@
         {
           "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
           "url": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss"
-        },
-        {
-          "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
-          "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,11 +64,46 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.04,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
+          "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss"
+        },
+        {
+          "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
+          "url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss"
+        },
+        {
+          "title": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss"
+        },
+        {
+          "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
+          "url": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.45,
+      "confianca": 41,
+      "razoes": [
+        {
+          "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "US Treasury threatens Oman with sanctions over Hormuz Strait",
           "url": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss"
@@ -110,11 +114,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.45,
+      "confianca": 41,
       "razoes": [
+        {
+          "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "US Treasury threatens Oman with sanctions over Hormuz Strait",
           "url": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss"
@@ -127,9 +135,13 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.45,
+      "confianca": 41,
       "razoes": [
+        {
+          "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "US Treasury threatens Oman with sanctions over Hormuz Strait",
           "url": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss"
