@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-06-05T17:07:41.660496Z",
+  "generated_at": "2026-06-05T19:42:48.325188Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.8,
+      "score": 4.31,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump admin’s cancellation of wind energy projects causes business turmoil",
+          "url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss"
+        },
+        {
+          "title": "Video shows moment Israeli air strike hits car in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/video-shows-moment-israeli-air-strike-hits-car-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Ireland imposes travel ban on Israeli ministers Ben-Gvir and Smotrich",
           "url": "https://www.aljazeera.com/news/2026/6/5/ireland-imposes-travel-ban-on-israeli-ministers-ben-gvir-and-smotrich?traffic_source=rss"
@@ -18,45 +26,6 @@
         {
           "title": "‘Red meat is a dream’: Iran inflation hits highest level since World War II",
           "url": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii?traffic_source=rss"
-        },
-        {
-          "title": "WFP: War on Iran pushing millions towards hunger",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/wfp-war-on-iran-pushing-millions-towards-hunger?traffic_source=rss"
-        },
-        {
-          "title": "Are the US and Iran closer to war or to a deal?",
-          "url": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 7.8,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Ireland imposes travel ban on Israeli ministers Ben-Gvir and Smotrich",
-          "url": "https://www.aljazeera.com/news/2026/6/5/ireland-imposes-travel-ban-on-israeli-ministers-ben-gvir-and-smotrich?traffic_source=rss"
-        },
-        {
-          "title": "Israeli Knesset member backs settlement push in southern Syria",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/israeli-knesset-member-backs-settlement-push-in-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "‘Red meat is a dream’: Iran inflation hits highest level since World War II",
-          "url": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii?traffic_source=rss"
-        },
-        {
-          "title": "WFP: War on Iran pushing millions towards hunger",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/wfp-war-on-iran-pushing-millions-towards-hunger?traffic_source=rss"
-        },
-        {
-          "title": "Are the US and Iran closer to war or to a deal?",
-          "url": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,44 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.8,
+      "score": 4.31,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump admin’s cancellation of wind energy projects causes business turmoil",
+          "url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss"
+        },
+        {
+          "title": "Video shows moment Israeli air strike hits car in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/video-shows-moment-israeli-air-strike-hits-car-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Ireland imposes travel ban on Israeli ministers Ben-Gvir and Smotrich",
+          "url": "https://www.aljazeera.com/news/2026/6/5/ireland-imposes-travel-ban-on-israeli-ministers-ben-gvir-and-smotrich?traffic_source=rss"
+        },
+        {
+          "title": "Israeli Knesset member backs settlement push in southern Syria",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/israeli-knesset-member-backs-settlement-push-in-southern-syria?traffic_source=rss"
+        },
+        {
+          "title": "‘Red meat is a dream’: Iran inflation hits highest level since World War II",
+          "url": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Video shows moment Israeli air strike hits car in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/video-shows-moment-israeli-air-strike-hits-car-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Ireland imposes travel ban on Israeli ministers Ben-Gvir and Smotrich",
           "url": "https://www.aljazeera.com/news/2026/6/5/ireland-imposes-travel-ban-on-israeli-ministers-ben-gvir-and-smotrich?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "WFP: War on Iran pushing millions towards hunger",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/wfp-war-on-iran-pushing-millions-towards-hunger?traffic_source=rss"
-        },
-        {
-          "title": "Are the US and Iran closer to war or to a deal?",
-          "url": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
