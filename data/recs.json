@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-06-06T02:27:15.814757Z",
+  "generated_at": "2026-06-06T06:21:56.338516Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.25,
+      "score": 5.93,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: US strikes Iranian radar sites; Kuwait comes under attack",
+          "title": "Israeli soldier shoots Palestinian baby dead near Hebron",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss"
         },
         {
@@ -22,10 +26,6 @@
         {
           "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
           "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
-          "url": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,11 +35,15 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.25,
+      "score": 5.93,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: US strikes Iranian radar sites; Kuwait comes under attack",
+          "title": "Israeli soldier shoots Palestinian baby dead near Hebron",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss"
         },
         {
@@ -53,10 +57,6 @@
         {
           "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
           "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
-          "url": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,11 +66,15 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.91,
+      "score": 4.6,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: US strikes Iranian radar sites; Kuwait comes under attack",
+          "title": "Israeli soldier shoots Palestinian baby dead near Hebron",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss"
         },
         {
@@ -84,10 +88,6 @@
         {
           "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
           "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
-          "url": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,9 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -110,9 +110,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
