@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-06-06T16:01:36.691319Z",
+  "generated_at": "2026-06-06T19:07:07.237961Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.71,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Activists disrupt German military exhibit over arms sales to Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
-          "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss"
-        },
-        {
-          "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills at least six people at wedding in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon and Israel’s perpetual war machine",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.71,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "100 days into the war on Iran, Trump fails to rally US support",
+          "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss"
+        },
         {
           "title": "Activists disrupt German military exhibit over arms sales to Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss"
@@ -51,12 +24,8 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss"
         },
         {
-          "title": "Israeli strike kills at least six people at wedding in Gaza",
+          "title": "Israeli attack on Gaza City tent camp kills at least six",
           "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon and Israel’s perpetual war machine",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.71,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "100 days into the war on Iran, Trump fails to rally US support",
+          "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss"
+        },
         {
           "title": "Activists disrupt German military exhibit over arms sales to Israel",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss"
@@ -82,12 +55,39 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss"
         },
         {
-          "title": "Israeli strike kills at least six people at wedding in Gaza",
+          "title": "Israeli attack on Gaza City tent camp kills at least six",
           "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "100 days into the war on Iran, Trump fails to rally US support",
+          "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss"
         },
         {
-          "title": "Lebanon and Israel’s perpetual war machine",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss"
+          "title": "Activists disrupt German military exhibit over arms sales to Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+          "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss"
+        },
+        {
+          "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attack on Gaza City tent camp kills at least six",
+          "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
