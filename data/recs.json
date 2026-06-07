@@ -1,45 +1,22 @@
 {
-  "generated_at": "2026-06-07T02:43:45.365220Z",
+  "generated_at": "2026-06-07T06:59:37.510260Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.79,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss"
-        },
-        {
-          "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
-          "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss"
-        },
-        {
-          "title": "Video shows Israeli soldier and settlers assaulting two Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.79,
+      "score": 6.58,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+          "title": "By the numbers: 100 days of the US-Israel war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "How many times were the US and Iran on the verge of a deal?",
+          "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US forces shoot down two Iranian drones in Strait of Hormuz",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss"
         },
         {
@@ -49,14 +26,6 @@
         {
           "title": "Video shows Israeli soldier and settlers assaulting two Palestinians",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,11 +35,19 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.79,
+      "score": 6.58,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+          "title": "By the numbers: 100 days of the US-Israel war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "How many times were the US and Iran on the verge of a deal?",
+          "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US forces shoot down two Iranian drones in Strait of Hormuz",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss"
         },
         {
@@ -80,14 +57,37 @@
         {
           "title": "Video shows Israeli soldier and settlers assaulting two Palestinians",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.58,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "By the numbers: 100 days of the US-Israel war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss"
         },
         {
-          "title": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss"
+          "title": "How many times were the US and Iran on the verge of a deal?",
+          "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss"
         },
         {
-          "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss"
+          "title": "Iran war live: US forces shoot down two Iranian drones in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss"
+        },
+        {
+          "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
+          "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss"
+        },
+        {
+          "title": "Video shows Israeli soldier and settlers assaulting two Palestinians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
