@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-06-11T02:47:28.975315Z",
+  "generated_at": "2026-06-11T07:23:34.533115Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.96,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran announces closure of Strait of Hormuz following US strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss"
-        },
-        {
-          "title": "Iran attacks Bahrain, Kuwait and ships in Hormuz after new US strikes",
-          "url": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s claim of escorting oil through Hormuz won’t ease crisis",
-          "url": "https://www.aljazeera.com/video/quotable/2026/6/10/trumps-claim-of-escorting-oil-through-hormuz-wont-ease-crisis?traffic_source=rss"
-        },
-        {
-          "title": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.96,
-      "confianca": 95,
+      "score": 2.41,
+      "confianca": 68,
       "razoes": [
+        {
+          "title": "US releases video of warship firing missiles in strikes on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iran war day 104: Iran attacks US bases, closes strait after Trump strikes",
+          "url": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes?traffic_source=rss"
+        },
+        {
+          "title": "Dahiyeh crowds rally in favour of Iranian support against Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/dahiyeh-crowds-rally-in-favour-of-iranian-support-against-israel?traffic_source=rss"
+        },
         {
           "title": "Iran announces closure of Strait of Hormuz following US strikes",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes",
+          "title": "Iran war live: Tehran targets Bahrain, Kuwait, Jordan after new US strikes",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss"
-        },
-        {
-          "title": "Iran attacks Bahrain, Kuwait and ships in Hormuz after new US strikes",
-          "url": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss"
-        },
-        {
-          "title": "Trump’s claim of escorting oil through Hormuz won’t ease crisis",
-          "url": "https://www.aljazeera.com/video/quotable/2026/6/10/trumps-claim-of-escorting-oil-through-hormuz-wont-ease-crisis?traffic_source=rss"
-        },
-        {
-          "title": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,28 +35,59 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.62,
-      "confianca": 95,
+      "score": 2.41,
+      "confianca": 68,
       "razoes": [
+        {
+          "title": "US releases video of warship firing missiles in strikes on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Iran war day 104: Iran attacks US bases, closes strait after Trump strikes",
+          "url": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes?traffic_source=rss"
+        },
+        {
+          "title": "Dahiyeh crowds rally in favour of Iranian support against Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/dahiyeh-crowds-rally-in-favour-of-iranian-support-against-israel?traffic_source=rss"
+        },
         {
           "title": "Iran announces closure of Strait of Hormuz following US strikes",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes",
+          "title": "Iran war live: Tehran targets Bahrain, Kuwait, Jordan after new US strikes",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.41,
+      "confianca": 68,
+      "razoes": [
+        {
+          "title": "US releases video of warship firing missiles in strikes on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran?traffic_source=rss"
         },
         {
-          "title": "Iran attacks Bahrain, Kuwait and ships in Hormuz after new US strikes",
-          "url": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss"
+          "title": "Iran war day 104: Iran attacks US bases, closes strait after Trump strikes",
+          "url": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes?traffic_source=rss"
         },
         {
-          "title": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss"
+          "title": "Dahiyeh crowds rally in favour of Iranian support against Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/dahiyeh-crowds-rally-in-favour-of-iranian-support-against-israel?traffic_source=rss"
         },
         {
-          "title": "Israel kills 16 in Lebanon, UN to probe international law violations",
-          "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss"
+          "title": "Iran announces closure of Strait of Hormuz following US strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Tehran targets Bahrain, Kuwait, Jordan after new US strikes",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
