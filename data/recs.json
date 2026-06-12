@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-06-12T02:43:51.611982Z",
+  "generated_at": "2026-06-12T07:14:41.188998Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.78,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
-          "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss"
-        },
-        {
-          "title": "Iran World Cup captain reveals Mexico cartel robbery story",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-world-cup-captain-reveals-mexico-cartel-robbery-story?traffic_source=rss"
-        },
-        {
-          "title": "Israel launches overnight strikes across Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Trump says US and Iran have reached a ‘great settlement’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.78,
+      "score": 5.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war day 105: Trump halts attacks after Kharg Island threat",
+          "url": "https://www.aljazeera.com/news/2026/6/12/iran-war-day-105-trump-halts-attacks-after-kharg-island-threat?traffic_source=rss"
+        },
+        {
+          "title": "Iran weighs proposed deal but remains wary of US intentions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-weighs-proposed-deal-but-remains-wary-of-us-intentions?traffic_source=rss"
+        },
         {
           "title": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
           "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Israel launches overnight strikes across Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Trump says US and Iran have reached a ‘great settlement’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.69,
+      "score": 5.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war day 105: Trump halts attacks after Kharg Island threat",
+          "url": "https://www.aljazeera.com/news/2026/6/12/iran-war-day-105-trump-halts-attacks-after-kharg-island-threat?traffic_source=rss"
+        },
+        {
+          "title": "Iran weighs proposed deal but remains wary of US intentions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-weighs-proposed-deal-but-remains-wary-of-us-intentions?traffic_source=rss"
+        },
         {
           "title": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
           "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss"
@@ -80,59 +57,37 @@
         {
           "title": "Israel launches overnight strikes across Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 5.66,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war day 105: Trump halts attacks after Kharg Island threat",
+          "url": "https://www.aljazeera.com/news/2026/6/12/iran-war-day-105-trump-halts-attacks-after-kharg-island-threat?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss"
+          "title": "Iran weighs proposed deal but remains wary of US intentions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-weighs-proposed-deal-but-remains-wary-of-us-intentions?traffic_source=rss"
         },
         {
-          "title": "Trump says US and Iran have reached a ‘great settlement’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
+          "title": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
+          "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss"
+        },
         {
-          "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
-          "url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
+          "title": "Iran World Cup captain reveals Mexico cartel robbery story",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-world-cup-captain-reveals-mexico-cartel-robbery-story?traffic_source=rss"
+        },
         {
-          "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
-          "url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
-      "razoes": [
-        {
-          "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
-          "url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss"
+          "title": "Israel launches overnight strikes across Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
