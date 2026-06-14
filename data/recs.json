@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-06-13T21:56:54.312071Z",
+  "generated_at": "2026-06-14T02:48:12.870620Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.19,
+      "score": 4.93,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Two killed in Israeli strike on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss"
+        },
         {
           "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
           "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.93,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Two killed in Israeli strike on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss"
         },
         {
-          "title": "US President Trump says US-Iran deal to be signed tomorrow",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss"
+          "title": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss"
         },
         {
-          "title": "Israeli attacks kill three in Gaza as post-‘ceasefire’ deaths hit 983",
-          "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss"
+          "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss"
+        },
+        {
+          "title": "‘Not in my name’: The Jewish diaspora fighting the consensus on Israel",
+          "url": "https://www.aljazeera.com/news/2026/6/13/not-in-my-name-the-jewish-diaspora-fighting-the-consensus-on-israel?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
+          "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.19,
+      "score": 4.93,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Two killed in Israeli strike on Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss"
+        },
         {
           "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss"
@@ -49,45 +88,6 @@
         {
           "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
           "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss"
-        },
-        {
-          "title": "US President Trump says US-Iran deal to be signed tomorrow",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks kill three in Gaza as post-‘ceasefire’ deaths hit 983",
-          "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss"
-        },
-        {
-          "title": "‘Not in my name’: The Jewish diaspora fighting the consensus on Israel",
-          "url": "https://www.aljazeera.com/news/2026/6/13/not-in-my-name-the-jewish-diaspora-fighting-the-consensus-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
-          "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss"
-        },
-        {
-          "title": "US President Trump says US-Iran deal to be signed tomorrow",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attacks kill three in Gaza as post-‘ceasefire’ deaths hit 983",
-          "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
