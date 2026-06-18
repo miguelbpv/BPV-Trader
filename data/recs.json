@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-18T20:13:23.508569Z",
+  "generated_at": "2026-06-18T22:51:46.786842Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 9.43,
+      "score": 7.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Netanyahu says Israel must protect relationship with US",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-says-israel-must-protect-relationship-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+          "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s supreme leader says approved US deal despite having ‘different’ view",
+          "url": "https://www.aljazeera.com/news/2026/6/18/irans-supreme-leader-says-approved-us-deal-despite-having-different-view?traffic_source=rss"
+        },
         {
           "title": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
           "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss"
@@ -14,18 +26,37 @@
         {
           "title": "US military says it has lifted naval blockade of Iranian ports",
           "url": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 7.18,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Netanyahu says Israel must protect relationship with US",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-says-israel-must-protect-relationship-with-us?traffic_source=rss"
         },
         {
-          "title": "Pakistan signs US-Iran MoU",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss"
+          "title": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+          "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss"
         },
         {
-          "title": "Israel says cutting ties with top EU diplomat over ‘apartheid’ comments",
-          "url": "https://www.aljazeera.com/news/2026/6/18/israel-says-cutting-ties-with-top-eu-diplomat-over-apartheid-comments?traffic_source=rss"
+          "title": "Iran’s supreme leader says approved US deal despite having ‘different’ view",
+          "url": "https://www.aljazeera.com/news/2026/6/18/irans-supreme-leader-says-approved-us-deal-despite-having-different-view?traffic_source=rss"
         },
         {
-          "title": "Somalia warns Israel against meddling in Somaliland",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss"
+          "title": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
+          "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss"
+        },
+        {
+          "title": "US military says it has lifted naval blockade of Iranian ports",
+          "url": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,21 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 9.43,
+      "score": 7.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Netanyahu says Israel must protect relationship with US",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-says-israel-must-protect-relationship-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+          "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s supreme leader says approved US deal despite having ‘different’ view",
+          "url": "https://www.aljazeera.com/news/2026/6/18/irans-supreme-leader-says-approved-us-deal-despite-having-different-view?traffic_source=rss"
+        },
         {
           "title": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
           "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss"
@@ -45,49 +88,6 @@
         {
           "title": "US military says it has lifted naval blockade of Iranian ports",
           "url": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss"
-        },
-        {
-          "title": "Pakistan signs US-Iran MoU",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss"
-        },
-        {
-          "title": "Israel says cutting ties with top EU diplomat over ‘apartheid’ comments",
-          "url": "https://www.aljazeera.com/news/2026/6/18/israel-says-cutting-ties-with-top-eu-diplomat-over-apartheid-comments?traffic_source=rss"
-        },
-        {
-          "title": "Somalia warns Israel against meddling in Somaliland",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 9.43,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
-          "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss"
-        },
-        {
-          "title": "US military says it has lifted naval blockade of Iranian ports",
-          "url": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss"
-        },
-        {
-          "title": "Pakistan signs US-Iran MoU",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss"
-        },
-        {
-          "title": "Israel says cutting ties with top EU diplomat over ‘apartheid’ comments",
-          "url": "https://www.aljazeera.com/news/2026/6/18/israel-says-cutting-ties-with-top-eu-diplomat-over-apartheid-comments?traffic_source=rss"
-        },
-        {
-          "title": "Somalia warns Israel against meddling in Somaliland",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
