@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-06-21T22:08:05.625418Z",
+  "generated_at": "2026-06-22T02:54:06.241539Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
-          "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss"
-        },
-        {
-          "title": "What are the end goals of Iran-US negotiations?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss"
-        },
-        {
-          "title": "Mourners gather to remember Lebanese conservationist killed by Israel",
-          "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
-          "url": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.19,
+      "score": 6.64,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
+          "url": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss"
+        },
+        {
+          "title": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss"
+        },
+        {
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Mediators hail ‘encouraging progress’ in US-Tehran talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
+        },
+        {
           "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
           "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss"
-        },
-        {
-          "title": "What are the end goals of Iran-US negotiations?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss"
-        },
-        {
-          "title": "Mourners gather to remember Lebanese conservationist killed by Israel",
-          "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
-          "url": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,28 +35,59 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.19,
+      "score": 6.64,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
+          "url": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss"
+        },
+        {
+          "title": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss"
+        },
+        {
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Mediators hail ‘encouraging progress’ in US-Tehran talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
+        },
+        {
           "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
           "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 6.64,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
+          "url": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss"
         },
         {
-          "title": "What are the end goals of Iran-US negotiations?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss"
+          "title": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss"
         },
         {
-          "title": "Mourners gather to remember Lebanese conservationist killed by Israel",
-          "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss"
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss"
         },
         {
-          "title": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss"
+          "title": "Iran war live: Mediators hail ‘encouraging progress’ in US-Tehran talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
         },
         {
-          "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
-          "url": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss"
+          "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
+          "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
