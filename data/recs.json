@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-06-23T02:29:21.568309Z",
+  "generated_at": "2026-06-23T06:40:47.892221Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.82,
-      "confianca": 95,
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Palestine weekly wrap: Israel’s ‘quiet annexation’ grows louder",
+          "url": "https://www.aljazeera.com/news/2026/6/23/palestine-weekly-wrap-israels-quiet-annexation-grows-louder?traffic_source=rss"
+        },
         {
           "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss"
@@ -16,16 +20,35 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
+          "title": "Iran war live: Ghalibaf says US to release $12bn in frozen Iranian funds",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.71,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "Palestine weekly wrap: Israel’s ‘quiet annexation’ grows louder",
+          "url": "https://www.aljazeera.com/news/2026/6/23/palestine-weekly-wrap-israels-quiet-annexation-grows-louder?traffic_source=rss"
         },
         {
-          "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss"
+          "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss"
         },
         {
-          "title": "Qatar PM on preventing US-Iran talks from escalation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss"
+          "title": "Israeli strike kills Palestinian girl on her way to sit exam",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Ghalibaf says US to release $12bn in frozen Iranian funds",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +58,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.82,
-      "confianca": 95,
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Palestine weekly wrap: Israel’s ‘quiet annexation’ grows louder",
+          "url": "https://www.aljazeera.com/news/2026/6/23/palestine-weekly-wrap-israels-quiet-annexation-grows-louder?traffic_source=rss"
+        },
         {
           "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss"
@@ -47,16 +74,8 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
+          "title": "Iran war live: Ghalibaf says US to release $12bn in frozen Iranian funds",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss"
-        },
-        {
-          "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss"
-        },
-        {
-          "title": "Qatar PM on preventing US-Iran talks from escalation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,45 +83,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.82,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills Palestinian girl on her way to sit exam",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss"
-        },
-        {
-          "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss"
-        },
-        {
-          "title": "Qatar PM on preventing US-Iran talks from escalation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss"
+          "title": "Alan Greenspan, former US Federal Reserve chairman, dies at 100",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/alan-greenspan-former-us-federal-reserve-chairman-dies-at-100?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -110,14 +98,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "IWM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss"
+          "title": "Alan Greenspan, former US Federal Reserve chairman, dies at 100",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/alan-greenspan-former-us-federal-reserve-chairman-dies-at-100?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -125,14 +113,29 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss"
+          "title": "Alan Greenspan, former US Federal Reserve chairman, dies at 100",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/alan-greenspan-former-us-federal-reserve-chairman-dies-at-100?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "Alan Greenspan, former US Federal Reserve chairman, dies at 100",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/alan-greenspan-former-us-federal-reserve-chairman-dies-at-100?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
