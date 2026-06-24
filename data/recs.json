@@ -1,23 +1,38 @@
 {
-  "generated_at": "2026-06-24T06:37:31.762532Z",
+  "generated_at": "2026-06-24T11:39:15.343583Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
         {
-          "title": "US Senate votes to pause Iran war in rare rebuke to Trump",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss"
+          "title": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family’s home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump, Tehran disagree over nuclear inspections, Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss"
+          "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+          "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family’s home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss"
         },
         {
-          "title": "Israel’s deliberate targeting of Palestinian children",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss"
+          "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+          "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,44 +41,17 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.24,
+      "confianca": 35,
       "razoes": [
         {
-          "title": "US Senate votes to pause Iran war in rare rebuke to Trump",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss"
+          "title": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family’s home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump, Tehran disagree over nuclear inspections, Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s deliberate targeting of Palestinian children",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "US Senate votes to pause Iran war in rare rebuke to Trump",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump, Tehran disagree over nuclear inspections, Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s deliberate targeting of Palestinian children",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss"
+          "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+          "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
