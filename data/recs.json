@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-25T11:32:35.095199Z",
+  "generated_at": "2026-06-25T14:06:13.580124Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.33,
+      "score": 4.31,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli forces kill Palestinian man during raid on his home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss"
+          "title": "Iran, Israel and the Bomb",
+          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/6/25/iran-israel-and-the-bomb?traffic_source=rss"
         },
         {
-          "title": "Rubio tells Gulf allies that Iran deal will ensure their security",
-          "url": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss"
+          "title": "Israeli forces kill Palestinian man during raid on his home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss"
         },
         {
           "title": "Oil prices back to pre-war levels on rising Middle East supply",
@@ -35,16 +35,16 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.33,
+      "score": 4.31,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli forces kill Palestinian man during raid on his home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss"
+          "title": "Iran, Israel and the Bomb",
+          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/6/25/iran-israel-and-the-bomb?traffic_source=rss"
         },
         {
-          "title": "Rubio tells Gulf allies that Iran deal will ensure their security",
-          "url": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss"
+          "title": "Israeli forces kill Palestinian man during raid on his home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss"
         },
         {
           "title": "Oil prices back to pre-war levels on rising Middle East supply",
@@ -66,16 +66,16 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.33,
+      "score": 4.31,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli forces kill Palestinian man during raid on his home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss"
+          "title": "Iran, Israel and the Bomb",
+          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/6/25/iran-israel-and-the-bomb?traffic_source=rss"
         },
         {
-          "title": "Rubio tells Gulf allies that Iran deal will ensure their security",
-          "url": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss"
+          "title": "Israeli forces kill Palestinian man during raid on his home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss"
         },
         {
           "title": "Oil prices back to pre-war levels on rising Middle East supply",
@@ -95,29 +95,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "ICC judges sue Trump over sanctions, call measures unlawful",
-          "url": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "ICC judges sue Trump over sanctions, call measures unlawful",
-          "url": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss"
+          "title": "Venezuela quakes: How will sanctions impact aid operations?",
+          "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -127,12 +112,27 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.86,
       "confianca": 24,
       "razoes": [
         {
-          "title": "ICC judges sue Trump over sanctions, call measures unlawful",
-          "url": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss"
+          "title": "Venezuela quakes: How will sanctions impact aid operations?",
+          "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Venezuela quakes: How will sanctions impact aid operations?",
+          "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
