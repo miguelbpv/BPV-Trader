@@ -1,31 +1,38 @@
 {
-  "generated_at": "2026-06-25T22:15:44.749325Z",
+  "generated_at": "2026-06-26T02:34:27.077547Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.31,
-      "confianca": 95,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
+        },
         {
           "title": "Ashura ceremonies intertwine faith and support for state in Iran",
           "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
         },
         {
-          "title": "Bedouins protest Israel’s home demolition policy in the Negev desert",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss"
-        },
-        {
-          "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss"
-        },
-        {
-          "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
-          "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss"
+          "title": "Ashura ceremonies intertwine faith and support for state in Iran",
+          "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -34,60 +41,17 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.31,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
+        },
         {
           "title": "Ashura ceremonies intertwine faith and support for state in Iran",
           "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Bedouins protest Israel’s home demolition policy in the Negev desert",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss"
-        },
-        {
-          "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss"
-        },
-        {
-          "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
-          "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.31,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Ashura ceremonies intertwine faith and support for state in Iran",
-          "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "Bedouins protest Israel’s home demolition policy in the Negev desert",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss"
-        },
-        {
-          "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss"
-        },
-        {
-          "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
-          "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
