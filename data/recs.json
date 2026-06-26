@@ -1,19 +1,54 @@
 {
-  "generated_at": "2026-06-26T02:34:27.077547Z",
+  "generated_at": "2026-06-26T06:45:19.832004Z",
   "recs": [
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "acao": "comprar",
+      "score": 3.31,
+      "confianca": 94,
       "razoes": [
+        {
+          "title": "Egypt coach offers support for Iranian team before crucial World Cup match",
+          "url": "https://www.aljazeera.com/news/2026/6/26/egypt-coach-offers-support-for-iranian-team-before-crucial-world-cup-match?traffic_source=rss"
+        },
+        {
+          "title": "Forever wars: Israel’s cycle of conflict shows no finish line",
+          "url": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss"
+        },
+        {
+          "title": "Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan",
+          "url": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.31,
+      "confianca": 94,
+      "razoes": [
+        {
+          "title": "Egypt coach offers support for Iranian team before crucial World Cup match",
+          "url": "https://www.aljazeera.com/news/2026/6/26/egypt-coach-offers-support-for-iranian-team-before-crucial-world-cup-match?traffic_source=rss"
         },
         {
-          "title": "Ashura ceremonies intertwine faith and support for state in Iran",
-          "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss"
+          "title": "Forever wars: Israel’s cycle of conflict shows no finish line",
+          "url": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss"
+        },
+        {
+          "title": "Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan",
+          "url": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -23,35 +58,20 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 1.97,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Egypt coach offers support for Iranian team before crucial World Cup match",
+          "url": "https://www.aljazeera.com/news/2026/6/26/egypt-coach-offers-support-for-iranian-team-before-crucial-world-cup-match?traffic_source=rss"
+        },
+        {
+          "title": "Forever wars: Israel’s cycle of conflict shows no finish line",
+          "url": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
-        },
-        {
-          "title": "Ashura ceremonies intertwine faith and support for state in Iran",
-          "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
-      "razoes": [
-        {
-          "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
-        },
-        {
-          "title": "Ashura ceremonies intertwine faith and support for state in Iran",
-          "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
