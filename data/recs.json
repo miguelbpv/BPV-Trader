@@ -1,41 +1,10 @@
 {
-  "generated_at": "2026-06-27T10:52:58.066235Z",
+  "generated_at": "2026-06-27T13:14:00.369954Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.66,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
-          "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss"
-        },
-        {
-          "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-          "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss"
-        },
-        {
-          "title": "Joy, disappointment, protests: A view from Egypt-Iran World Cup tie",
-          "url": "https://www.aljazeera.com/sports/2026/6/27/joy-disappointment-protests-a-view-from-egypt-iran-world-cup-tie?traffic_source=rss"
-        },
-        {
-          "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-          "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss"
-        },
-        {
-          "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
-          "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.66,
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +35,38 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.66,
+      "score": 4.42,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+          "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss"
+        },
+        {
+          "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss"
+        },
+        {
+          "title": "Joy, disappointment, protests: A view from Egypt-Iran World Cup tie",
+          "url": "https://www.aljazeera.com/sports/2026/6/27/joy-disappointment-protests-a-view-from-egypt-iran-world-cup-tie?traffic_source=rss"
+        },
+        {
+          "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+          "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss"
+        },
+        {
+          "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+          "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
         {
