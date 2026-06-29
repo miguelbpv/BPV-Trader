@@ -1,54 +1,31 @@
 {
-  "generated_at": "2026-06-29T07:22:22.410067Z",
+  "generated_at": "2026-06-29T12:58:27.692231Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.28,
-      "confianca": 93,
-      "razoes": [
-        {
-          "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
-          "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss"
-        },
-        {
-          "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
-          "url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.28,
-      "confianca": 93,
+      "score": 3.56,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attack in Gaza kills three, including a child",
+          "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss"
+        },
+        {
+          "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
+          "url": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss"
+        },
+        {
+          "title": "Israel triggers huge explosion in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
           "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss"
-        },
-        {
-          "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
-          "url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,24 +35,164 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.28,
-      "confianca": 93,
+      "score": 3.56,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli attack in Gaza kills three, including a child",
+          "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss"
+        },
+        {
+          "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
+          "url": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss"
+        },
+        {
+          "title": "Israel triggers huge explosion in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss"
+        },
         {
           "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
           "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.56,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli attack in Gaza kills three, including a child",
+          "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss"
+          "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
+          "url": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss"
         },
         {
-          "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
-          "url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss"
+          "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss"
         },
         {
-          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
+          "title": "Israel triggers huge explosion in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+          "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign",
+          "url": "https://www.aljazeera.com/sports/2026/6/29/saudi-arabias-early-fifa-world-cup-exit-prompts-federation-chief-to-resign?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign",
+          "url": "https://www.aljazeera.com/sports/2026/6/29/saudi-arabias-early-fifa-world-cup-exit-prompts-federation-chief-to-resign?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign",
+          "url": "https://www.aljazeera.com/sports/2026/6/29/saudi-arabias-early-fifa-world-cup-exit-prompts-federation-chief-to-resign?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign",
+          "url": "https://www.aljazeera.com/sports/2026/6/29/saudi-arabias-early-fifa-world-cup-exit-prompts-federation-chief-to-resign?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China slaps export controls on dozens of Japanese entities",
+          "url": "https://www.aljazeera.com/economy/2026/6/29/china-slaps-export-controls-on-dozens-of-japanese-entities?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China slaps export controls on dozens of Japanese entities",
+          "url": "https://www.aljazeera.com/economy/2026/6/29/china-slaps-export-controls-on-dozens-of-japanese-entities?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "China slaps export controls on dozens of Japanese entities",
+          "url": "https://www.aljazeera.com/economy/2026/6/29/china-slaps-export-controls-on-dozens-of-japanese-entities?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
