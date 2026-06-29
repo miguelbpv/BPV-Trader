@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-06-29T19:44:30.079141Z",
+  "generated_at": "2026-06-29T22:04:20.278665Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.97,
+      "score": 3.46,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+          "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
           "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss"
         },
         {
@@ -22,10 +26,6 @@
         {
           "title": "US petrol prices ease despite ongoing uncertainties with Iran",
           "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
-          "url": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,11 +35,15 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.97,
+      "score": 3.46,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+          "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
           "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss"
         },
         {
@@ -53,10 +57,6 @@
         {
           "title": "US petrol prices ease despite ongoing uncertainties with Iran",
           "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
-          "url": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,11 +66,15 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.97,
+      "score": 3.46,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+          "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
           "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss"
         },
         {
@@ -84,10 +88,6 @@
         {
           "title": "US petrol prices ease despite ongoing uncertainties with Iran",
           "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
-          "url": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,7 +95,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "QQQ",
+      "symbol": "IWM",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
@@ -140,7 +140,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "IWM",
+      "symbol": "QQQ",
       "acao": "observar",
       "score": 0.98,
       "confianca": 27,
