@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-06-28T21:55:28.920169Z",
+  "generated_at": "2026-06-29T02:40:45.653559Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces bulldoze olive groves in the occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "US and Iran trade strikes days after peace agreement",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss"
-        },
-        {
-          "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-          "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss"
-        },
-        {
-          "title": "Israel strikes Lebanon, testing days-old peace deal",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "score": 3.67,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss"
+        },
+        {
+          "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
+          "url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss"
+        },
         {
           "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
           "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "US and Iran trade strikes days after peace agreement",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss"
-        },
-        {
-          "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-          "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss"
-        },
-        {
-          "title": "Israel strikes Lebanon, testing days-old peace deal",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "score": 3.67,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss"
+        },
+        {
+          "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
+          "url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss"
+        },
         {
           "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
           "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "US and Iran trade strikes days after peace agreement",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.67,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss"
         },
         {
-          "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-          "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss"
+          "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
+          "url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss"
         },
         {
-          "title": "Israel strikes Lebanon, testing days-old peace deal",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
+          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces bulldoze olive groves in the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "US and Iran trade strikes days after peace agreement",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
