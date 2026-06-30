@@ -1,39 +1,16 @@
 {
-  "generated_at": "2026-06-30T13:59:23.843927Z",
+  "generated_at": "2026-06-30T17:00:38.574920Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
-      "razoes": [
-        {
-          "title": "US envoys in Doha for indirect talks with Iranian technical delegation",
-          "url": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss"
-        },
-        {
-          "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-          "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss"
-        },
-        {
-          "title": "Man in Gaza survives double tap Israeli strike on vehicle",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss"
-        },
-        {
-          "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss"
+        },
         {
           "title": "US envoys in Doha for indirect talks with Iranian technical delegation",
           "url": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss"
@@ -45,10 +22,6 @@
         {
           "title": "Man in Gaza survives double tap Israeli strike on vehicle",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss"
-        },
-        {
-          "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,9 +31,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss"
+        },
         {
           "title": "US envoys in Doha for indirect talks with Iranian technical delegation",
           "url": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss"
@@ -72,10 +49,33 @@
         {
           "title": "Man in Gaza survives double tap Israeli strike on vehicle",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss"
         },
         {
-          "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss"
+          "title": "US envoys in Doha for indirect talks with Iranian technical delegation",
+          "url": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss"
+        },
+        {
+          "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
+          "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss"
+        },
+        {
+          "title": "Man in Gaza survives double tap Israeli strike on vehicle",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
