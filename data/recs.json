@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-06-29T22:04:20.278665Z",
+  "generated_at": "2026-06-30T02:35:02.598874Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
+      "score": 3.19,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran denies Trump’s claim of meeting in Doha",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss"
+        },
         {
           "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
@@ -18,14 +26,6 @@
         {
           "title": "Israel launches attacks and incursions inside southern Syria",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "New Israeli assault in southern Syria forces families to flee their homes",
-          "url": "https://www.aljazeera.com/news/2026/6/29/new-israeli-assault-in-southern-syria-forces-families-to-flee-their-homes?traffic_source=rss"
-        },
-        {
-          "title": "US petrol prices ease despite ongoing uncertainties with Iran",
-          "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,19 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
+      "score": 3.19,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran denies Trump’s claim of meeting in Doha",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss"
+        },
         {
           "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
@@ -49,14 +57,6 @@
         {
           "title": "Israel launches attacks and incursions inside southern Syria",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "New Israeli assault in southern Syria forces families to flee their homes",
-          "url": "https://www.aljazeera.com/news/2026/6/29/new-israeli-assault-in-southern-syria-forces-families-to-flee-their-homes?traffic_source=rss"
-        },
-        {
-          "title": "US petrol prices ease despite ongoing uncertainties with Iran",
-          "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.46,
-      "confianca": 95,
+      "score": 3.19,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran denies Trump’s claim of meeting in Doha",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss"
+        },
         {
           "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
@@ -80,74 +88,6 @@
         {
           "title": "Israel launches attacks and incursions inside southern Syria",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "New Israeli assault in southern Syria forces families to flee their homes",
-          "url": "https://www.aljazeera.com/news/2026/6/29/new-israeli-assault-in-southern-syria-forces-families-to-flee-their-homes?traffic_source=rss"
-        },
-        {
-          "title": "US petrol prices ease despite ongoing uncertainties with Iran",
-          "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception",
-          "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception",
-          "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception",
-          "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception",
-          "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
