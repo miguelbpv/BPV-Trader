@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-07-01T22:13:09.581019Z",
+  "generated_at": "2026-07-02T02:30:28.728177Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.95,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
-        },
-        {
-          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-          "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Israeli opposition signal foreign policy change in style, but not substance",
-          "url": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-          "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.95,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss"
+        },
+        {
+          "title": "Iran football team welcomed home after World Cup exit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss"
+        },
         {
           "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Israeli opposition signal foreign policy change in style, but not substance",
           "url": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-          "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.95,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss"
+        },
+        {
+          "title": "Iran football team welcomed home after World Cup exit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss"
+        },
         {
           "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Israeli opposition signal foreign policy change in style, but not substance",
           "url": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss"
         },
         {
-          "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
+          "title": "Iran football team welcomed home after World Cup exit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss"
         },
         {
-          "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-          "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss"
+          "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
+        },
+        {
+          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+          "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Israeli opposition signal foreign policy change in style, but not substance",
+          "url": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
