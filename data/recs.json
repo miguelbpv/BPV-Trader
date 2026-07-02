@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T11:26:52.107645Z",
+  "generated_at": "2026-07-02T13:40:36.480474Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "US-Iran talks in Doha: What were the outcomes and what’s next?",
@@ -14,10 +14,6 @@
         {
           "title": "Billions flow between EU institutions and Israel, despite Gaza genocide",
           "url": "https://www.aljazeera.com/news/2026/7/2/billions-flow-between-eu-institutions-and-israel-despite-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
-          "url": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,9 +22,9 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "US-Iran talks in Doha: What were the outcomes and what’s next?",
@@ -37,10 +33,6 @@
         {
           "title": "Billions flow between EU institutions and Israel, despite Gaza genocide",
           "url": "https://www.aljazeera.com/news/2026/7/2/billions-flow-between-eu-institutions-and-israel-despite-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
-          "url": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,10 +40,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "US-Iran talks in Doha: What were the outcomes and what’s next?",
@@ -60,10 +52,6 @@
         {
           "title": "Billions flow between EU institutions and Israel, despite Gaza genocide",
           "url": "https://www.aljazeera.com/news/2026/7/2/billions-flow-between-eu-institutions-and-israel-despite-gaza-genocide?traffic_source=rss"
-        },
-        {
-          "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
-          "url": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
