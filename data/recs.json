@@ -1,54 +1,19 @@
 {
-  "generated_at": "2026-07-02T22:00:11.397349Z",
+  "generated_at": "2026-07-03T02:06:04.802054Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "The last time Iran held a funeral for the Supreme Leader",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss"
-        },
-        {
-          "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
-          "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss"
-        },
-        {
-          "title": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/collateral-damage-73-palestinian-children-israel-shot-in-the-head?traffic_source=rss"
-        },
-        {
-          "title": "Why is Prada facing pro-Israeli backlash?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss"
+        },
         {
           "title": "The last time Iran held a funeral for the Supreme Leader",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss"
-        },
-        {
-          "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
-          "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss"
-        },
-        {
-          "title": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/collateral-damage-73-palestinian-children-israel-shot-in-the-head?traffic_source=rss"
-        },
-        {
-          "title": "Why is Prada facing pro-Israeli backlash?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -57,25 +22,36 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss"
+        },
         {
           "title": "The last time Iran held a funeral for the Supreme Leader",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss"
         },
         {
-          "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
-          "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss"
-        },
-        {
-          "title": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/collateral-damage-73-palestinian-children-israel-shot-in-the-head?traffic_source=rss"
-        },
-        {
-          "title": "Why is Prada facing pro-Israeli backlash?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss"
+          "title": "The last time Iran held a funeral for the Supreme Leader",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
