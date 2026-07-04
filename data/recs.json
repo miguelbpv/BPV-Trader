@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-07-04T10:49:21.465720Z",
+  "generated_at": "2026-07-04T13:02:57.197610Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "score": 2.82,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+          "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss"
+        },
         {
           "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
           "url": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss"
@@ -14,10 +18,29 @@
         {
           "title": "Could Israel really build settlements in Gaza?",
           "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.82,
+      "confianca": 80,
+      "razoes": [
+        {
+          "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+          "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss"
+          "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
+          "url": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss"
+        },
+        {
+          "title": "Could Israel really build settlements in Gaza?",
+          "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,9 +49,9 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
           "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
@@ -37,33 +60,6 @@
         {
           "title": "Could Israel really build settlements in Gaza?",
           "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
-          "url": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss"
-        },
-        {
-          "title": "Could Israel really build settlements in Gaza?",
-          "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
