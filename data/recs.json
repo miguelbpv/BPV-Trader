@@ -1,23 +1,54 @@
 {
-  "generated_at": "2026-07-06T02:24:06.796121Z",
+  "generated_at": "2026-07-06T07:03:20.301187Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.31,
+      "confianca": 94,
       "razoes": [
         {
-          "title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
+          "title": "Is the US really preparing to drop Israel?",
+          "url": "https://www.aljazeera.com/news/2026/7/6/is-the-us-really-preparing-to-drop-israel?traffic_source=rss"
+        },
+        {
+          "title": "OPEC+ countries say they will expand monthly oil production",
+          "url": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Khamenei’s funeral procession under way in Tehran",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
         },
         {
           "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
           "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.31,
+      "confianca": 94,
+      "razoes": [
+        {
+          "title": "Is the US really preparing to drop Israel?",
+          "url": "https://www.aljazeera.com/news/2026/7/6/is-the-us-really-preparing-to-drop-israel?traffic_source=rss"
         },
         {
-          "title": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
-          "url": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss"
+          "title": "OPEC+ countries say they will expand monthly oil production",
+          "url": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Khamenei’s funeral procession under way in Tehran",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+          "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,20 +58,20 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 1.96,
+      "confianca": 55,
       "razoes": [
         {
-          "title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
+          "title": "Is the US really preparing to drop Israel?",
+          "url": "https://www.aljazeera.com/news/2026/7/6/is-the-us-really-preparing-to-drop-israel?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Khamenei’s funeral procession under way in Tehran",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
         },
         {
           "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
           "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss"
-        },
-        {
-          "title": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
-          "url": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,22 +79,44 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
-        },
+          "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+          "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
-          "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss"
-        },
+          "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+          "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
-          "url": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss"
+          "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+          "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
