@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-07-06T22:06:42.723780Z",
+  "generated_at": "2026-07-07T02:12:31.514689Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Iran war live: Khamenei’s body arrives in Qom; Hamas cedes Gaza governance",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss"
+        },
         {
           "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss"
-        },
-        {
-          "title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
-          "url": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom?traffic_source=rss"
-        },
-        {
-          "title": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
-          "url": "https://www.aljazeera.com/news/2026/7/6/iran-reappoints-a-familiar-face-to-powerful-post-during-khamenei-funeral?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -25,22 +21,18 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Iran war live: Khamenei’s body arrives in Qom; Hamas cedes Gaza governance",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss"
+        },
         {
           "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss"
-        },
-        {
-          "title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
-          "url": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom?traffic_source=rss"
-        },
-        {
-          "title": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
-          "url": "https://www.aljazeera.com/news/2026/7/6/iran-reappoints-a-familiar-face-to-powerful-post-during-khamenei-funeral?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,65 +42,16 @@
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Iran war live: Khamenei’s body arrives in Qom; Hamas cedes Gaza governance",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss"
+        },
         {
           "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss"
-        },
-        {
-          "title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
-          "url": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom?traffic_source=rss"
-        },
-        {
-          "title": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
-          "url": "https://www.aljazeera.com/news/2026/7/6/iran-reappoints-a-familiar-face-to-powerful-post-during-khamenei-funeral?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
-          "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
-          "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
-          "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
