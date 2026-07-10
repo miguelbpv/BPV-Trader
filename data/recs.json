@@ -1,35 +1,24 @@
 {
-  "generated_at": "2026-07-10T14:02:39.304042Z",
+  "generated_at": "2026-07-10T16:50:19.739859Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
-          "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss"
-        },
-        {
-          "title": "US-Iran war: Will peace talks resume, and when?",
-          "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss"
-        },
-        {
-          "title": "EU states do not need ‘consensus’ to hold Israel accountable",
-          "url": "https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 3.82,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
+          "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss"
+        },
+        {
+          "title": "Family mourns baby after Israeli forces blocked journey to hospital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drones strike Lebanon despite US-brokered framework deal",
+          "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss"
+        },
         {
           "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
           "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss"
@@ -37,10 +26,6 @@
         {
           "title": "US-Iran war: Will peace talks resume, and when?",
           "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss"
-        },
-        {
-          "title": "EU states do not need ‘consensus’ to hold Israel accountable",
-          "url": "https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,9 +35,21 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 3.82,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
+          "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss"
+        },
+        {
+          "title": "Family mourns baby after Israeli forces blocked journey to hospital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drones strike Lebanon despite US-brokered framework deal",
+          "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss"
+        },
         {
           "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
           "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss"
@@ -60,10 +57,37 @@
         {
           "title": "US-Iran war: Will peace talks resume, and when?",
           "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.82,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
+          "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss"
         },
         {
-          "title": "EU states do not need ‘consensus’ to hold Israel accountable",
-          "url": "https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable?traffic_source=rss"
+          "title": "Family mourns baby after Israeli forces blocked journey to hospital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drones strike Lebanon despite US-brokered framework deal",
+          "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss"
+        },
+        {
+          "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
+          "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss"
+        },
+        {
+          "title": "US-Iran war: Will peace talks resume, and when?",
+          "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
