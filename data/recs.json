@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-07-10T19:17:02.401424Z",
+  "generated_at": "2026-07-10T21:52:36.605482Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.66,
+      "score": 5.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Lebanon historic sites destroyed by Israeli strikes",
+          "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
+        },
         {
           "title": "Can the agreement between Iran and the US be rescued?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss"
@@ -16,16 +20,12 @@
           "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss"
         },
         {
-          "title": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
+          "title": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
           "url": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss"
         },
         {
           "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
           "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
-        },
-        {
-          "title": "Ruthless Zverev spoils Fery’s Wimbledon dream to power into final",
-          "url": "https://www.aljazeera.com/sports/2026/7/10/ruthless-zverev-spoils-ferys-wimbledon-dream-to-power-into-final?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.66,
+      "score": 5.15,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Lebanon historic sites destroyed by Israeli strikes",
+          "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
+        },
         {
           "title": "Can the agreement between Iran and the US be rescued?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss"
@@ -47,16 +51,12 @@
           "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss"
         },
         {
-          "title": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
+          "title": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
           "url": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss"
         },
         {
           "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
           "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
-        },
-        {
-          "title": "Ruthless Zverev spoils Fery’s Wimbledon dream to power into final",
-          "url": "https://www.aljazeera.com/sports/2026/7/10/ruthless-zverev-spoils-ferys-wimbledon-dream-to-power-into-final?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.97,
-      "confianca": 95,
+      "score": 2.47,
+      "confianca": 70,
       "razoes": [
+        {
+          "title": "Lebanon historic sites destroyed by Israeli strikes",
+          "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
+        },
         {
           "title": "Can the agreement between Iran and the US be rescued?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss"
@@ -80,14 +84,51 @@
         {
           "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
           "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
-          "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss"
-        },
+          "title": "Why are politicians and sanctioned states embracing crypto?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Family mourns baby after Israeli forces blocked journey to hospital",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss"
+          "title": "Why are politicians and sanctioned states embracing crypto?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Why are politicians and sanctioned states embracing crypto?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
