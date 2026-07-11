@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-07-11T18:47:07.572317Z",
+  "generated_at": "2026-07-11T21:40:34.466905Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.47,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss"
+        },
         {
           "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
           "url": "https://www.aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
           "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss"
-        },
-        {
-          "title": "What is going on in Yemen?",
-          "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.47,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss"
+        },
         {
           "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
           "url": "https://www.aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
           "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss"
-        },
-        {
-          "title": "What is going on in Yemen?",
-          "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.47,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss"
+        },
         {
           "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
           "url": "https://www.aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
           "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss"
-        },
-        {
-          "title": "What is going on in Yemen?",
-          "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -110,7 +110,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
@@ -125,7 +125,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
