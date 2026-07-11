@@ -1,23 +1,38 @@
 {
-  "generated_at": "2026-07-11T10:08:57.153540Z",
+  "generated_at": "2026-07-11T12:58:18.484536Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+          "title": "Trump trades threats with Iran’s leader as mediators struggle to save talks",
           "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
         },
         {
           "title": "Are the US and Iran at war again?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Trump trades threats with Iran’s leader as mediators struggle to save talks",
+          "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
+          "title": "Are the US and Iran at war again?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,44 +41,17 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+          "title": "Trump trades threats with Iran’s leader as mediators struggle to save talks",
           "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
         },
         {
           "title": "Are the US and Iran at war again?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.21,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
-          "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss"
-        },
-        {
-          "title": "Are the US and Iran at war again?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
