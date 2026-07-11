@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T01:51:38.676215Z",
+  "generated_at": "2026-07-11T05:32:23.275160Z",
   "recs": [
     {
       "symbol": "LMT",
@@ -8,39 +8,16 @@
       "confianca": 49,
       "razoes": [
         {
-          "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
+          "title": "Are the US and Iran at war again?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
         },
         {
           "title": "Lebanon historic sites destroyed by Israeli strikes",
           "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Can the agreement between Iran and the US be rescued?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon historic sites destroyed by Israeli strikes",
-          "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Can the agreement between Iran and the US be rescued?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -54,16 +31,16 @@
       "confianca": 49,
       "razoes": [
         {
-          "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
+          "title": "Are the US and Iran at war again?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
         },
         {
           "title": "Lebanon historic sites destroyed by Israeli strikes",
           "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Can the agreement between Iran and the US be rescued?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -71,14 +48,22 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "XLE",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Why are politicians and sanctioned states embracing crypto?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss"
+          "title": "Are the US and Iran at war again?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon historic sites destroyed by Israeli strikes",
+          "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -88,7 +73,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -103,7 +88,22 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Why are politicians and sanctioned states embracing crypto?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
