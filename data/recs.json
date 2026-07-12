@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-07-12T15:51:07.632206Z",
+  "generated_at": "2026-07-12T18:53:06.537489Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-          "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
-          "url": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss"
-        },
-        {
-          "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
-          "url": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss"
-        },
-        {
-          "title": "US CENTCOM completes third round of strikes on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
+          "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss"
+        },
+        {
+          "title": "Iran war: US strategic success or diplomatic failure?",
+          "url": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
           "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss"
@@ -45,18 +22,6 @@
         {
           "title": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
           "url": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss"
-        },
-        {
-          "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
-          "url": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss"
-        },
-        {
-          "title": "US CENTCOM completes third round of strikes on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +31,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
+          "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss"
+        },
+        {
+          "title": "Iran war: US strategic success or diplomatic failure?",
+          "url": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss"
+        },
         {
           "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
           "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss"
@@ -76,18 +49,33 @@
         {
           "title": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
           "url": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
+      "razoes": [
+        {
+          "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
+          "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss"
         },
         {
-          "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
-          "url": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss"
+          "title": "Iran war: US strategic success or diplomatic failure?",
+          "url": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss"
         },
         {
-          "title": "US CENTCOM completes third round of strikes on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss"
+          "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
+          "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss"
         },
         {
-          "title": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
-          "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss"
+          "title": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
+          "url": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
