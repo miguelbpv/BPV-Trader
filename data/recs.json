@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-07-14T05:21:29.107365Z",
+  "generated_at": "2026-07-14T07:48:45.353883Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 5.28,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
-        },
-        {
-          "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
-          "url": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss"
-        },
-        {
-          "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
-          "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.28,
+      "score": 4.54,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+          "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss"
+        },
         {
           "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
@@ -51,12 +24,8 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
+          "title": "Iran war live: US launches more attacks; 1 killed in Iranian strike on ship",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
-          "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.28,
+      "score": 4.54,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+          "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss"
+        },
         {
           "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
@@ -82,12 +55,39 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
+          "title": "Iran war live: US launches more attacks; 1 killed in Iranian strike on ship",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.54,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+          "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss"
         },
         {
-          "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
-          "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
+          "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
+        },
+        {
+          "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
+          "url": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss"
+        },
+        {
+          "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US launches more attacks; 1 killed in Iranian strike on ship",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
