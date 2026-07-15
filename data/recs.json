@@ -1,14 +1,45 @@
 {
-  "generated_at": "2026-07-15T01:29:34.888071Z",
+  "generated_at": "2026-07-15T05:22:45.963342Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.91,
+      "score": 3.9,
       "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Trump says ‘strikes on Iran will continue until I say enough’",
+          "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss"
+        },
+        {
+          "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
+          "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss"
+        },
+        {
+          "title": "What is Iran’s Pickaxe Mountain?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss"
+        },
+        {
+          "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
+          "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.9,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss"
         },
         {
@@ -35,42 +66,11 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.91,
+      "score": 3.9,
       "confianca": 95,
       "razoes": [
         {
-          "title": "LIVE: Trump says ‘strikes on Iran will continue until I say enough’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss"
-        },
-        {
-          "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss"
-        },
-        {
-          "title": "What is Iran’s Pickaxe Mountain?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss"
-        },
-        {
-          "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
-          "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.91,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "LIVE: Trump says ‘strikes on Iran will continue until I say enough’",
+          "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss"
         },
         {
