@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-07-17T10:38:43.988950Z",
+  "generated_at": "2026-07-17T13:07:48.922265Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.94,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Knesset dissolves: How will Israel vote in October’s general election?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
-        },
-        {
-          "title": "Israel headed for October election as parliament dissolved",
-          "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss"
-        },
-        {
-          "title": "US strikes destroy key bridges, tower in southern Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss"
-        },
-        {
-          "title": "Gulf states come under Iranian fire as US strikes intensify",
-          "url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss"
-        },
-        {
-          "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.94,
+      "score": 3.95,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
+          "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss"
+        },
         {
           "title": "Knesset dissolves: How will Israel vote in October’s general election?",
           "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Gulf states come under Iranian fire as US strikes intensify",
           "url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss"
-        },
-        {
-          "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.94,
+      "score": 3.95,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
+          "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss"
+        },
         {
           "title": "Knesset dissolves: How will Israel vote in October’s general election?",
           "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Gulf states come under Iranian fire as US strikes intensify",
           "url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.95,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
+          "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss"
         },
         {
-          "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss"
+          "title": "Knesset dissolves: How will Israel vote in October’s general election?",
+          "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
+        },
+        {
+          "title": "Israel headed for October election as parliament dissolved",
+          "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss"
+        },
+        {
+          "title": "US strikes destroy key bridges, tower in southern Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss"
+        },
+        {
+          "title": "Gulf states come under Iranian fire as US strikes intensify",
+          "url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
