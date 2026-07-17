@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T16:08:07.159441Z",
+  "generated_at": "2026-07-17T18:54:22.182094Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.57,
+      "score": 4.32,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Can the US and Iran reach a lasting deal to end the conflict?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss"
+        },
+        {
+          "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
+          "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss"
+        },
         {
           "title": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
           "url": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss"
@@ -14,14 +26,6 @@
         {
           "title": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
           "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss"
-        },
-        {
-          "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss"
-        },
-        {
-          "title": "Knesset dissolves: How will Israel vote in October’s general election?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -29,11 +33,23 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.57,
+      "score": 4.32,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Can the US and Iran reach a lasting deal to end the conflict?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss"
+        },
+        {
+          "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
+          "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss"
+        },
         {
           "title": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
           "url": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss"
@@ -41,14 +57,6 @@
         {
           "title": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
           "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss"
-        },
-        {
-          "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss"
-        },
-        {
-          "title": "Knesset dissolves: How will Israel vote in October’s general election?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,20 +66,69 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Can the US and Iran reach a lasting deal to end the conflict?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss"
+        },
+        {
+          "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
+          "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss"
+        },
         {
           "title": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
           "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Why is the US attacking southern Iran’s civilian infrastructure?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss"
-        },
+          "title": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
+          "url": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Knesset dissolves: How will Israel vote in October’s general election?",
-          "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
+          "title": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
+          "url": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
+          "url": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
