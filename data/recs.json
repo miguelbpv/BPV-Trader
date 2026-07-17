@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T01:53:21.916339Z",
+  "generated_at": "2026-07-17T05:33:01.974109Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 8.34,
+      "score": 4.67,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US bombards Iran in sixth-straight night of attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iranian sources say US strikes hit civilian infrastructure",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss"
+        },
         {
           "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss"
@@ -14,49 +26,6 @@
         {
           "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss"
-        },
-        {
-          "title": "Qatar rejects Israeli reports of military action against Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran says seven killed in latest US strikes, warns war ‘will spread’",
-          "url": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss"
-        },
-        {
-          "title": "The hardest party to manage in the Iran talks isn’t Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 8.34,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss"
-        },
-        {
-          "title": "Qatar rejects Israeli reports of military action against Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran says seven killed in latest US strikes, warns war ‘will spread’",
-          "url": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss"
-        },
-        {
-          "title": "The hardest party to manage in the Iran talks isn’t Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.66,
+      "score": 4.67,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US bombards Iran in sixth-straight night of attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Iranian sources say US strikes hit civilian infrastructure",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss"
+        },
         {
           "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss"
@@ -76,18 +57,37 @@
         {
           "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.67,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US bombards Iran in sixth-straight night of attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss"
         },
         {
-          "title": "Qatar rejects Israeli reports of military action against Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss"
+          "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "Iran says seven killed in latest US strikes, warns war ‘will spread’",
-          "url": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss"
+          "title": "Iranian sources say US strikes hit civilian infrastructure",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss"
         },
         {
-          "title": "The hardest party to manage in the Iran talks isn’t Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss"
+          "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
