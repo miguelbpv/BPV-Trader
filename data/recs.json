@@ -1,23 +1,62 @@
 {
-  "generated_at": "2026-07-18T15:45:56.496575Z",
+  "generated_at": "2026-07-18T18:50:17.889236Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.22,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July",
-          "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss"
+          "title": "Damage visible at Iran bridges and water plant after US attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss"
         },
         {
-          "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-          "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
+          "title": "US military says two service members killed in Iranian strike in Jordan",
+          "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
         },
         {
-          "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
+          "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
+          "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss"
+        },
+        {
+          "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
+          "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss"
+        },
+        {
+          "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
+          "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.22,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Damage visible at Iran bridges and water plant after US attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss"
+        },
+        {
+          "title": "US military says two service members killed in Iranian strike in Jordan",
+          "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
+          "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss"
+        },
+        {
+          "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
+          "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss"
+        },
+        {
+          "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
+          "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,44 +65,29 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
+      "acao": "comprar",
+      "score": 4.22,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July",
-          "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss"
+          "title": "Damage visible at Iran bridges and water plant after US attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss"
         },
         {
-          "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-          "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
+          "title": "US military says two service members killed in Iranian strike in Jordan",
+          "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
         },
         {
-          "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.45,
-      "confianca": 41,
-      "razoes": [
-        {
-          "title": "Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July",
-          "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss"
+          "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
+          "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss"
         },
         {
-          "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-          "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
+          "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
+          "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss"
         },
         {
-          "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
+          "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
+          "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
