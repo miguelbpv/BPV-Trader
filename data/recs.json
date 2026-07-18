@@ -1,42 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:28:45.426461Z",
+  "generated_at": "2026-07-18T10:10:57.631344Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.17,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-          "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
-        },
-        {
-          "title": "Iranian official says the policy of negotiating during war is over",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army destroys three schools in southern Lebanon, minister says",
-          "url": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss"
-        },
-        {
-          "title": "Targets of latest US strikes on Iran signal strategic shift",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.17,
-      "confianca": 95,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
           "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
@@ -66,8 +35,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.17,
-      "confianca": 95,
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
           "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
@@ -95,44 +64,30 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.68,
+      "confianca": 76,
       "razoes": [
         {
-          "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-          "url": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
+          "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
+        },
         {
-          "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-          "url": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.84,
-      "confianca": 24,
-      "razoes": [
+          "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
+        },
         {
-          "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-          "url": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
+          "title": "Iranian official says the policy of negotiating during war is over",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss"
+        },
+        {
+          "title": "Israeli army destroys three schools in southern Lebanon, minister says",
+          "url": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss"
+        },
+        {
+          "title": "Targets of latest US strikes on Iran signal strategic shift",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
