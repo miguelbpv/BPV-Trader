@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-07-18T05:16:35.348729Z",
+  "generated_at": "2026-07-18T07:28:45.426461Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.78,
+      "score": 4.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
+          "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
+        },
         {
           "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Targets of latest US strikes on Iran signal strategic shift",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Kuwait, Bahrain and Jordan under attack from Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.78,
+      "score": 4.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
+          "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
+        },
         {
           "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Targets of latest US strikes on Iran signal strategic shift",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Kuwait, Bahrain and Jordan under attack from Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 4.17,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
+          "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss"
+        },
         {
           "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
@@ -84,10 +88,6 @@
         {
           "title": "Targets of latest US strikes on Iran signal strategic shift",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Kuwait, Bahrain and Jordan under attack from Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,22 +97,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-          "url": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +112,22 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
+          "url": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
