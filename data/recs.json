@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-07-20T06:07:19.334877Z",
+  "generated_at": "2026-07-20T11:36:44.619981Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.43,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss"
-        },
-        {
-          "title": "US releases footage of ninth consecutive night of strikes on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "US service member killed during detonation of Iranian drone in Iraq",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss"
-        },
-        {
-          "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-          "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US military completes ninth night of strikes on Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.43,
-      "confianca": 95,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/rubio-us-open-to-diplomacy-after-ninth-night-of-bombing-iran?traffic_source=rss"
+        },
+        {
+          "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
+          "url": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss"
+        },
         {
           "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "US releases footage of ninth consecutive night of strikes on Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "title": "US service member killed during detonation of Iranian drone in Iraq",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss"
-        },
-        {
-          "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-          "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US military completes ninth night of strikes on Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.43,
-      "confianca": 95,
+      "score": 3.2,
+      "confianca": 91,
       "razoes": [
+        {
+          "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss"
+        },
+        {
+          "title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/rubio-us-open-to-diplomacy-after-ninth-night-of-bombing-iran?traffic_source=rss"
+        },
+        {
+          "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
+          "url": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss"
+        },
         {
           "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss"
@@ -76,18 +57,37 @@
         {
           "title": "US releases footage of ninth consecutive night of strikes on Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 3.2,
+      "confianca": 91,
+      "razoes": [
+        {
+          "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss"
         },
         {
-          "title": "US service member killed during detonation of Iranian drone in Iraq",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss"
+          "title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/rubio-us-open-to-diplomacy-after-ninth-night-of-bombing-iran?traffic_source=rss"
         },
         {
-          "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-          "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss"
+          "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
+          "url": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US military completes ninth night of strikes on Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
+          "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss"
+        },
+        {
+          "title": "US releases footage of ninth consecutive night of strikes on Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
