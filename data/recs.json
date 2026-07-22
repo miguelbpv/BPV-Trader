@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-07-22T05:40:10.318572Z",
+  "generated_at": "2026-07-22T08:10:09.279961Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss"
-        },
-        {
-          "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
-          "url": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss"
-        },
-        {
-          "title": "US attacks Iran for 11th consecutive night",
-          "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
-        },
-        {
-          "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-          "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 5.2,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
+          "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss"
+        },
+        {
+          "title": "Air defences activate in Iran and flames rise from US attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Iran toll in Hormuz would set ‘dangerous precedent’ says Rubio",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/iran-toll-in-hormuz-would-set-dangerous-precedent-says-rubio?traffic_source=rss"
+        },
         {
           "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
           "url": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss"
-        },
-        {
-          "title": "US attacks Iran for 11th consecutive night",
-          "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
-        },
-        {
-          "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-          "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 5.2,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
+          "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss"
+        },
+        {
+          "title": "Air defences activate in Iran and flames rise from US attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Iran toll in Hormuz would set ‘dangerous precedent’ says Rubio",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/iran-toll-in-hormuz-would-set-dangerous-precedent-says-rubio?traffic_source=rss"
+        },
         {
           "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss"
@@ -76,18 +57,37 @@
         {
           "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
           "url": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.2,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
+          "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss"
+          "title": "Air defences activate in Iran and flames rise from US attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss"
         },
         {
-          "title": "US attacks Iran for 11th consecutive night",
-          "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
+          "title": "Iran toll in Hormuz would set ‘dangerous precedent’ says Rubio",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/iran-toll-in-hormuz-would-set-dangerous-precedent-says-rubio?traffic_source=rss"
         },
         {
-          "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-          "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss"
+          "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss"
+        },
+        {
+          "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
+          "url": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
