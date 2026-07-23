@@ -1,18 +1,22 @@
 {
-  "generated_at": "2026-07-23T01:58:09.884601Z",
+  "generated_at": "2026-07-23T05:45:18.715954Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.49,
+      "score": 5.73,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+          "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss"
+        },
         {
           "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
           "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+          "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss"
         },
         {
@@ -22,10 +26,6 @@
         {
           "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
           "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss"
-        },
-        {
-          "title": "US launches new strikes as Iran warns of regional turmoil",
-          "url": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,15 +35,19 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.49,
+      "score": 5.73,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+          "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss"
+        },
         {
           "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
           "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+          "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss"
         },
         {
@@ -53,10 +57,6 @@
         {
           "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
           "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss"
-        },
-        {
-          "title": "US launches new strikes as Iran warns of regional turmoil",
-          "url": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,15 +66,19 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.49,
+      "score": 5.73,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+          "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss"
+        },
         {
           "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
           "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+          "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss"
         },
         {
@@ -84,10 +88,6 @@
         {
           "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
           "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss"
-        },
-        {
-          "title": "US launches new strikes as Iran warns of regional turmoil",
-          "url": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,9 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -110,9 +110,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +127,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
