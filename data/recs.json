@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-07-24T10:55:03.068092Z",
+  "generated_at": "2026-07-24T13:19:40.722294Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.77,
+      "score": 4.2,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US summons Malaysia envoy over Israel policy",
+          "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss"
+        },
         {
           "title": "Israel’s illegal settlements are Europe’s credibility test",
           "url": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
           "url": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss"
-        },
-        {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-          "url": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.77,
+      "score": 4.2,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US summons Malaysia envoy over Israel policy",
+          "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss"
+        },
         {
           "title": "Israel’s illegal settlements are Europe’s credibility test",
           "url": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
           "url": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss"
-        },
-        {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-          "url": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.77,
+      "score": 4.2,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "US summons Malaysia envoy over Israel policy",
+          "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss"
+        },
         {
           "title": "Israel’s illegal settlements are Europe’s credibility test",
           "url": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss"
@@ -84,25 +88,6 @@
         {
           "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
           "url": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss"
-        },
-        {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-          "url": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?",
-          "url": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -112,7 +97,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -127,7 +112,22 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?",
+          "url": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
