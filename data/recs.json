@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-07-25T15:57:32.344919Z",
+  "generated_at": "2026-07-25T18:54:34.255740Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "War on Iran: Phase II: Day 14",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss"
-        },
-        {
-          "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
-          "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss"
-        },
-        {
-          "title": "Baby rescued after Israeli settlers set home on fire amid raids",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss"
-        },
-        {
-          "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
-          "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss"
-        },
-        {
-          "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-          "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 5.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
+          "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s government spars with state TV as mediators push talks with US",
+          "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss"
+        },
         {
           "title": "War on Iran: Phase II: Day 14",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
           "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss"
-        },
-        {
-          "title": "Baby rescued after Israeli settlers set home on fire amid raids",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss"
-        },
-        {
-          "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
-          "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss"
-        },
-        {
-          "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-          "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 5.66,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
+          "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s government spars with state TV as mediators push talks with US",
+          "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss"
+        },
+        {
+          "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss"
+        },
         {
           "title": "War on Iran: Phase II: Day 14",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss"
@@ -76,18 +57,37 @@
         {
           "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
           "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.66,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
+          "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss"
         },
         {
-          "title": "Baby rescued after Israeli settlers set home on fire amid raids",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss"
+          "title": "Iran’s government spars with state TV as mediators push talks with US",
+          "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss"
         },
         {
-          "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
-          "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss"
+          "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss"
         },
         {
-          "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-          "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
+          "title": "War on Iran: Phase II: Day 14",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss"
+        },
+        {
+          "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+          "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
