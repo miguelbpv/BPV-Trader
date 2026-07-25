@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-25T01:53:19.167853Z",
+  "generated_at": "2026-07-25T05:36:07.489444Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.95,
+      "score": 4.89,
       "confianca": 95,
       "razoes": [
         {
@@ -35,7 +35,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.95,
+      "score": 4.89,
       "confianca": 95,
       "razoes": [
         {
@@ -64,9 +64,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.95,
+      "score": 4.89,
       "confianca": 95,
       "razoes": [
         {
@@ -88,6 +88,21 @@
         {
           "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US small businesses challenge Trump’s new forced labour tariffs",
+          "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,7 +112,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -112,22 +127,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US small businesses challenge Trump’s new forced labour tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
