@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-07-26T15:55:56.311248Z",
+  "generated_at": "2026-07-26T18:58:17.346388Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.82,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel carries out double tap strike in central Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel and the cost paradox of the Iran war",
-          "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
-          "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
-          "url": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss"
-        },
-        {
-          "title": "Why are Israeli settlers on a rampage in the occupied West Bank?",
-          "url": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.82,
+      "score": 5.54,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel launches military incursion into Syria amid UN condemnation",
+          "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss"
+        },
+        {
+          "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+          "url": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+          "url": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss"
+        },
         {
           "title": "Israel carries out double tap strike in central Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Israel and the cost paradox of the Iran war",
           "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
-          "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
-          "url": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss"
-        },
-        {
-          "title": "Why are Israeli settlers on a rampage in the occupied West Bank?",
-          "url": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,48 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.82,
+      "score": 5.54,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel launches military incursion into Syria amid UN condemnation",
+          "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss"
+        },
+        {
+          "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+          "url": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+          "url": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss"
+        },
+        {
+          "title": "Israel carries out double tap strike in central Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Israel and the cost paradox of the Iran war",
+          "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.19,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israel launches military incursion into Syria amid UN condemnation",
+          "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss"
+        },
+        {
+          "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+          "url": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss"
+        },
         {
           "title": "Israel carries out double tap strike in central Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
@@ -80,14 +88,6 @@
         {
           "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
           "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
-          "url": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss"
-        },
-        {
-          "title": "Why are Israeli settlers on a rampage in the occupied West Bank?",
-          "url": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
