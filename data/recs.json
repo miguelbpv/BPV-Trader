@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-07-29T18:59:32.325844Z",
+  "generated_at": "2026-07-29T21:51:54.974883Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.72,
-      "confianca": 95,
+      "score": 3.22,
+      "confianca": 92,
       "razoes": [
+        {
+          "title": "New investigation shows how an Israeli settler escaped justice",
+          "url": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss"
+        },
         {
           "title": "Iran pushes back against US as regional attacks heat up",
           "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss"
@@ -18,14 +22,6 @@
         {
           "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
           "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss"
-        },
-        {
-          "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +29,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.72,
-      "confianca": 95,
+      "score": 3.22,
+      "confianca": 92,
       "razoes": [
+        {
+          "title": "New investigation shows how an Israeli settler escaped justice",
+          "url": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss"
+        },
         {
           "title": "Iran pushes back against US as regional attacks heat up",
           "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss"
@@ -49,14 +49,6 @@
         {
           "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
           "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss"
-        },
-        {
-          "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +58,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.72,
-      "confianca": 95,
+      "score": 3.22,
+      "confianca": 92,
       "razoes": [
+        {
+          "title": "New investigation shows how an Israeli settler escaped justice",
+          "url": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss"
+        },
         {
           "title": "Iran pushes back against US as regional attacks heat up",
           "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss"
@@ -80,14 +76,6 @@
         {
           "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
           "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss"
-        },
-        {
-          "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss"
-        },
-        {
-          "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,41 +85,11 @@
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
-          "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
-          "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
+          "title": "US Fed holds interest rates steady, citing ‘elevated’ inflation",
           "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss"
         }
       ],
@@ -142,11 +100,41 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
+          "title": "US Fed holds interest rates steady, citing ‘elevated’ inflation",
+          "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed holds interest rates steady, citing ‘elevated’ inflation",
+          "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US Fed holds interest rates steady, citing ‘elevated’ inflation",
           "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss"
         }
       ],
