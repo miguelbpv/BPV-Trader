@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-07-29T11:14:49.630981Z",
+  "generated_at": "2026-07-29T13:48:13.189358Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.19,
+      "score": 3.2,
       "confianca": 91,
       "razoes": [
+        {
+          "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+          "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss"
+        },
+        {
+          "title": "‘Iran attacks now to send message as US assets build up in Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss"
+        },
         {
           "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
           "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.2,
+      "confianca": 91,
+      "razoes": [
+        {
+          "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+          "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss"
         },
         {
-          "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
+          "title": "‘Iran attacks now to send message as US assets build up in Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss"
         },
         {
-          "title": "Israel kills Palestinian, destroys mosque in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
+          "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss"
+        },
+        {
+          "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
+          "url": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss"
+        },
+        {
+          "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.19,
+      "score": 3.2,
       "confianca": 91,
       "razoes": [
+        {
+          "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+          "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss"
+        },
+        {
+          "title": "‘Iran attacks now to send message as US assets build up in Israel’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss"
+        },
         {
           "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss"
@@ -49,14 +88,6 @@
         {
           "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
           "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills Palestinian, destroys mosque in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,30 +95,59 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.19,
-      "confianca": 91,
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss"
-        },
+          "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
+          "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
         {
-          "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
-          "url": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss"
-        },
+          "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
+          "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
         {
-          "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-          "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
-        },
+          "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
+          "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
         {
-          "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills Palestinian, destroys mosque in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
+          "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
+          "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
