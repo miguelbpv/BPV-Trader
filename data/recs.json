@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-07-29T05:43:02.303883Z",
+  "generated_at": "2026-07-29T08:23:04.662124Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.23,
+      "score": 4.99,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
+        },
         {
           "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
@@ -16,11 +20,38 @@
           "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-          "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
+          "title": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+          "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+          "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.99,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
+        },
+        {
+          "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel kills Palestinian, destroys mosque in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
         },
         {
@@ -35,9 +66,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.23,
+      "score": 4.99,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
+        },
         {
           "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
@@ -47,42 +82,7 @@
           "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
         },
         {
-          "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-          "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
-          "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.23,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills Palestinian, destroys mosque in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-          "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+          "title": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
         },
         {
