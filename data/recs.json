@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-07-30T10:58:58.328281Z",
+  "generated_at": "2026-07-30T13:29:32.962642Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.06,
+      "score": 6.52,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
+          "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss"
+        },
         {
           "title": "Israeli raids and settler attacks intensify across the occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss"
@@ -22,10 +26,37 @@
         {
           "title": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
           "url": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 6.52,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
+          "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss"
         },
         {
-          "title": "US strikes cause extensive damage on Iran’s Qeshm Island",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss"
+          "title": "Israeli raids and settler attacks intensify across the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Several children killed and wounded in Israeli attacks across Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
+          "url": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss"
+        },
+        {
+          "title": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
+          "url": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.06,
+      "score": 6.52,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
+          "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss"
+        },
         {
           "title": "Israeli raids and settler attacks intensify across the occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss"
@@ -53,41 +88,6 @@
         {
           "title": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
           "url": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss"
-        },
-        {
-          "title": "US strikes cause extensive damage on Iran’s Qeshm Island",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.06,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli raids and settler attacks intensify across the occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Several children killed and wounded in Israeli attacks across Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
-          "url": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss"
-        },
-        {
-          "title": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
-          "url": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss"
-        },
-        {
-          "title": "US strikes cause extensive damage on Iran’s Qeshm Island",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
