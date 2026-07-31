@@ -1,46 +1,15 @@
 {
-  "generated_at": "2026-07-31T13:43:09.867809Z",
+  "generated_at": "2026-07-31T16:39:32.781430Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
           "url": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss"
-        },
-        {
-          "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
-          "url": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
-          "url": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
-          "url": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss"
-        },
-        {
-          "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
-          "url": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
-          "url": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,20 +19,27 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
           "url": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
+      "razoes": [
         {
-          "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
-          "url": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
-          "url": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss"
+          "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
+          "url": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
