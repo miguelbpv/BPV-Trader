@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T11:22:06.109314Z",
+  "generated_at": "2026-07-31T13:43:09.867809Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.45,
-      "confianca": 95,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
           "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
@@ -18,14 +18,6 @@
         {
           "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
           "url": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss"
-        },
-        {
-          "title": "Iran holds funeral for Revolutionary Guard members reportedly killed in US",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -34,9 +26,9 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.45,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
           "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
@@ -49,14 +41,6 @@
         {
           "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
           "url": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss"
-        },
-        {
-          "title": "Iran holds funeral for Revolutionary Guard members reportedly killed in US",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,10 +48,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.45,
-      "confianca": 95,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
           "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
@@ -80,59 +64,6 @@
         {
           "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
           "url": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss"
-        },
-        {
-          "title": "Iran holds funeral for Revolutionary Guard members reportedly killed in US",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
-          "url": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
-          "url": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
-          "url": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
