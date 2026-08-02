@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-08-02T13:01:46.530076Z",
+  "generated_at": "2026-08-02T15:54:15.516732Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.21,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s influence industry in the US",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/8/2/israels-influence-industry-in-the-us?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers jailed over Sde Teiman walkout",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss"
-        },
-        {
-          "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-          "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss"
-        },
-        {
-          "title": "Trump ‘cancels attack on Iran’ saying deal is near",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss"
-        },
-        {
-          "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-          "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.21,
+      "score": 3.47,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli settlers shoot Palestinian child during farm raid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss"
+        },
+        {
+          "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
+          "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers",
+          "url": "https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss"
+        },
         {
           "title": "Israel’s influence industry in the US",
           "url": "https://www.aljazeera.com/video/the-listening-post/2026/8/2/israels-influence-industry-in-the-us?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Israeli soldiers jailed over Sde Teiman walkout",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss"
-        },
-        {
-          "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-          "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss"
-        },
-        {
-          "title": "Trump ‘cancels attack on Iran’ saying deal is near",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss"
-        },
-        {
-          "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-          "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.21,
+      "score": 3.47,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli settlers shoot Palestinian child during farm raid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss"
+        },
+        {
+          "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
+          "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers",
+          "url": "https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss"
+        },
         {
           "title": "Israel’s influence industry in the US",
           "url": "https://www.aljazeera.com/video/the-listening-post/2026/8/2/israels-influence-industry-in-the-us?traffic_source=rss"
@@ -76,18 +57,37 @@
         {
           "title": "Israeli soldiers jailed over Sde Teiman walkout",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.47,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli settlers shoot Palestinian child during farm raid",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss"
         },
         {
-          "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-          "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss"
+          "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
+          "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss"
         },
         {
-          "title": "Trump ‘cancels attack on Iran’ saying deal is near",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss"
+          "title": "Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers",
+          "url": "https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss"
         },
         {
-          "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-          "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss"
+          "title": "Israel’s influence industry in the US",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/8/2/israels-influence-industry-in-the-us?traffic_source=rss"
+        },
+        {
+          "title": "Israeli soldiers jailed over Sde Teiman walkout",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
