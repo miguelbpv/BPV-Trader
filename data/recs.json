@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-08-04T08:22:43.709402Z",
+  "generated_at": "2026-08-04T11:15:51.173682Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.08,
+      "score": 6.35,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+          "url": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss"
+        },
         {
           "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
           "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
@@ -20,12 +24,8 @@
           "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
+          "title": "Iran war live: Qatar says diplomatic efforts ongoing, vessel hit in Hormuz",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss"
-        },
-        {
-          "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-          "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.08,
+      "score": 6.35,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+          "url": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss"
+        },
         {
           "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
           "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
@@ -51,12 +55,8 @@
           "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
+          "title": "Iran war live: Qatar says diplomatic efforts ongoing, vessel hit in Hormuz",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss"
-        },
-        {
-          "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-          "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.75,
+      "score": 5.03,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+          "url": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss"
+        },
         {
           "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
           "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
@@ -82,12 +86,8 @@
           "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
+          "title": "Iran war live: Qatar says diplomatic efforts ongoing, vessel hit in Hormuz",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss"
-        },
-        {
-          "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,7 +95,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "TSM",
       "acao": "observar",
       "score": 0.84,
       "confianca": 24,
@@ -125,7 +125,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.84,
       "confianca": 24,
