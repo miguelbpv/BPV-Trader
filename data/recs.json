@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-08-04T05:40:03.602784Z",
+  "generated_at": "2026-08-04T08:22:43.709402Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.12,
+      "score": 7.08,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+          "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
+        },
         {
           "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
           "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
           "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss"
-        },
-        {
-          "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.12,
+      "score": 7.08,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+          "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
+        },
         {
           "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
           "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
           "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss"
-        },
-        {
-          "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.79,
+      "score": 5.75,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+          "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
+        },
         {
           "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
           "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
@@ -84,10 +88,21 @@
         {
           "title": "Will Israel withdraw from Gaza if Hamas disarms?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.84,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss"
+          "title": "Trump administration sued by 25 states over new tariffs on trading partners",
+          "url": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,7 +112,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -112,22 +127,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump administration sued by 25 states over new tariffs on trading partners",
-          "url": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
