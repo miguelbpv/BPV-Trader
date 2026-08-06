@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-08-06T01:47:23.551582Z",
+  "generated_at": "2026-08-06T05:39:33.259303Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.31,
+      "score": 4.29,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+          "title": "Could the Iran war derail Donald Trump’s legacy?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
         },
         {
@@ -22,10 +26,6 @@
         {
           "title": "Israeli forces raid camp in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
-        },
-        {
-          "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
-          "url": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,13 +33,17 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.31,
+      "score": 4.29,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+          "title": "Could the Iran war derail Donald Trump’s legacy?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
         },
         {
@@ -53,10 +57,6 @@
         {
           "title": "Israeli forces raid camp in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
-        },
-        {
-          "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
-          "url": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,11 +66,15 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.97,
+      "score": 2.95,
       "confianca": 84,
       "razoes": [
         {
-          "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+          "title": "Could the Iran war derail Donald Trump’s legacy?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
         },
         {
@@ -80,10 +84,51 @@
         {
           "title": "Israeli forces raid camp in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
-          "url": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss"
+          "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
+          "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
+          "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
+          "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
