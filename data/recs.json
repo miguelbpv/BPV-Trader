@@ -1,23 +1,46 @@
 {
-  "generated_at": "2026-08-06T08:17:49.151469Z",
+  "generated_at": "2026-08-06T11:12:29.318085Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.05,
-      "confianca": 87,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+          "url": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss"
+        },
+        {
+          "title": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+          "url": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss"
+        },
         {
           "title": "Could the Iran war derail Donald Trump’s legacy?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.22,
+      "confianca": 63,
+      "razoes": [
+        {
+          "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+          "url": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran, Muscat near deal; Trump denies munitions shortages",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
+          "title": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+          "url": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss"
         },
         {
-          "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
-          "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss"
+          "title": "Could the Iran war derail Donald Trump’s legacy?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,84 +50,20 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.05,
-      "confianca": 87,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
+        {
+          "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+          "url": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss"
+        },
+        {
+          "title": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+          "url": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss"
+        },
         {
           "title": "Could the Iran war derail Donald Trump’s legacy?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran, Muscat near deal; Trump denies munitions shortages",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
-        },
-        {
-          "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
-          "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.72,
-      "confianca": 49,
-      "razoes": [
-        {
-          "title": "Could the Iran war derail Donald Trump’s legacy?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran, Muscat near deal; Trump denies munitions shortages",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
-          "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
-          "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
-          "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
