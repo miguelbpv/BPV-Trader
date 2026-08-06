@@ -1,31 +1,23 @@
 {
-  "generated_at": "2026-08-06T05:39:33.259303Z",
+  "generated_at": "2026-08-06T08:17:49.151469Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.29,
-      "confianca": 95,
+      "score": 3.05,
+      "confianca": 87,
       "razoes": [
         {
           "title": "Could the Iran war derail Donald Trump’s legacy?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
+          "title": "Iran war live: Tehran, Muscat near deal; Trump denies munitions shortages",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
         },
         {
           "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
           "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss"
-        },
-        {
-          "title": "Israeli occupation destroys farmland and lives in southern Syria",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces raid camp in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,30 +25,22 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.29,
-      "confianca": 95,
+      "score": 3.05,
+      "confianca": 87,
       "razoes": [
         {
           "title": "Could the Iran war derail Donald Trump’s legacy?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
+          "title": "Iran war live: Tehran, Muscat near deal; Trump denies munitions shortages",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
         },
         {
           "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
           "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss"
-        },
-        {
-          "title": "Israeli occupation destroys farmland and lives in southern Syria",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces raid camp in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,25 +49,17 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
         {
           "title": "Could the Iran war derail Donald Trump’s legacy?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
+          "title": "Iran war live: Tehran, Muscat near deal; Trump denies munitions shortages",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss"
-        },
-        {
-          "title": "Israeli occupation destroys farmland and lives in southern Syria",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss"
-        },
-        {
-          "title": "Israeli forces raid camp in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -91,9 +67,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -108,7 +84,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -121,9 +97,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
