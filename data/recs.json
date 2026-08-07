@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-08-07T18:41:03.950843Z",
+  "generated_at": "2026-08-07T21:29:33.367016Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.29,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+          "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
+        },
         {
           "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss"
@@ -14,49 +18,6 @@
         {
           "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
           "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-          "url": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss"
-        },
-        {
-          "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-          "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss"
-        },
-        {
-          "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-          "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.29,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss"
-        },
-        {
-          "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-          "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-          "url": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss"
-        },
-        {
-          "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-          "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss"
-        },
-        {
-          "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-          "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,10 +26,14 @@
     },
     {
       "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.71,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
       "razoes": [
+        {
+          "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+          "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
+        },
         {
           "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss"
@@ -76,14 +41,29 @@
         {
           "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
           "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.72,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+          "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
         },
         {
-          "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-          "url": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss"
+          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss"
         },
         {
-          "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-          "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss"
+          "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+          "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
