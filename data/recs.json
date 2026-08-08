@@ -1,39 +1,16 @@
 {
-  "generated_at": "2026-08-08T00:58:49.539744Z",
+  "generated_at": "2026-08-08T04:06:05.951456Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss"
-        },
-        {
-          "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
-          "url": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-          "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
-        },
-        {
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.72,
+      "score": 2.71,
       "confianca": 77,
       "razoes": [
+        {
+          "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
+          "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss"
@@ -45,10 +22,6 @@
         {
           "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
           "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
-        },
-        {
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,9 +31,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.72,
+      "score": 2.71,
       "confianca": 77,
       "razoes": [
+        {
+          "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
+          "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss"
@@ -72,10 +49,6 @@
         {
           "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
           "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
-        },
-        {
-          "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -83,10 +56,94 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SPY",
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.71,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
+          "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss"
+        },
+        {
+          "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
+          "url": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+          "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 1.76,
+      "confianca": 50,
+      "razoes": [
+        {
+          "title": "US Senate passes Russia sanctions that could hurt India and China",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss"
+        },
+        {
+          "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+          "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.76,
+      "confianca": 50,
+      "razoes": [
+        {
+          "title": "US Senate passes Russia sanctions that could hurt India and China",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss"
+        },
+        {
+          "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+          "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.76,
+      "confianca": 50,
+      "razoes": [
+        {
+          "title": "US Senate passes Russia sanctions that could hurt India and China",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss"
+        },
+        {
+          "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+          "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
@@ -100,23 +157,8 @@
     {
       "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
-          "url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
@@ -130,8 +172,8 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
@@ -143,44 +185,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SPY",
       "acao": "observar",
-      "score": 0.81,
-      "confianca": 23,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-          "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.81,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-          "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.81,
-      "confianca": 23,
-      "razoes": [
-        {
-          "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-          "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss"
+          "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
+          "url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
