@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-08-08T18:23:51.394204Z",
+  "generated_at": "2026-08-08T21:20:47.969797Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.7,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-          "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
-        },
-        {
-          "title": "War on Iran: Phase II: Day 28",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss"
-        },
-        {
-          "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
-          "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss"
-        },
-        {
-          "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
-          "url": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss"
-        },
-        {
-          "title": "The post-American Middle East is beginning to take shape",
-          "url": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.7,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+          "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+          "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss"
+        },
         {
           "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
           "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
           "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss"
-        },
-        {
-          "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
-          "url": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss"
-        },
-        {
-          "title": "The post-American Middle East is beginning to take shape",
-          "url": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.7,
+      "score": 4.18,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+          "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
+        },
+        {
+          "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+          "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss"
+        },
         {
           "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
           "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
           "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.18,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+          "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
         },
         {
-          "title": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
-          "url": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss"
+          "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+          "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss"
         },
         {
-          "title": "The post-American Middle East is beginning to take shape",
-          "url": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss"
+          "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+          "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
+        },
+        {
+          "title": "War on Iran: Phase II: Day 28",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss"
+        },
+        {
+          "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+          "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
