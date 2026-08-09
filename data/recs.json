@@ -1,45 +1,18 @@
 {
-  "generated_at": "2026-08-09T01:02:11.222338Z",
+  "generated_at": "2026-08-09T04:10:50.716811Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.2,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Turkiye says Mecca defence pact not aimed at Iran",
-          "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss"
-        },
-        {
-          "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss"
-        },
-        {
-          "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
-          "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-          "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.2,
+      "score": 3.93,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+          "title": "Israeli settler attacks rise as West Bank residents lose land",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss"
         },
         {
@@ -53,10 +26,6 @@
         {
           "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
           "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-          "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,11 +35,15 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.2,
+      "score": 3.93,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+          "title": "Israeli settler attacks rise as West Bank residents lose land",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss"
         },
         {
@@ -84,10 +57,37 @@
         {
           "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
           "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.93,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli settler attacks rise as West Bank residents lose land",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss"
         },
         {
-          "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-          "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss"
+          "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "title": "Turkiye says Mecca defence pact not aimed at Iran",
+          "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss"
+        },
+        {
+          "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss"
+        },
+        {
+          "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+          "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
