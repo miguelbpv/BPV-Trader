@@ -1,46 +1,31 @@
 {
-  "generated_at": "2026-08-10T15:51:41.845806Z",
+  "generated_at": "2026-08-10T18:43:21.528573Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
-      "razoes": [
-        {
-          "title": "War on Iran: Phase II: Day 30",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss"
-        },
-        {
-          "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss"
-        },
-        {
-          "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
-          "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 6.41,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "War on Iran: Phase II: Day 30",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss"
+          "title": "Oman trying to contain extensive oil spill from stricken tanker",
+          "url": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss"
         },
         {
-          "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
-          "url": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss"
+          "title": "Iran’s president says Khamenei is in ‘perfect health’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss"
         },
         {
-          "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
-          "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss"
+          "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+          "url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss"
+        },
+        {
+          "title": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss"
+        },
+        {
+          "title": "Oil prices, stocks surge as Hormuz closure drags on",
+          "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,9 +35,52 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 6.41,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Oman trying to contain extensive oil spill from stricken tanker",
+          "url": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s president says Khamenei is in ‘perfect health’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss"
+        },
+        {
+          "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+          "url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss"
+        },
+        {
+          "title": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss"
+        },
+        {
+          "title": "Oil prices, stocks surge as Hormuz closure drags on",
+          "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.72,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran’s president says Khamenei is in ‘perfect health’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss"
+        },
+        {
+          "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+          "url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss"
+        },
+        {
+          "title": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss"
+        },
         {
           "title": "War on Iran: Phase II: Day 30",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss"
@@ -60,55 +88,6 @@
         {
           "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
           "url": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss"
-        },
-        {
-          "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
-          "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
-      "razoes": [
-        {
-          "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-          "url": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
-      "razoes": [
-        {
-          "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-          "url": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.6,
-      "confianca": 17,
-      "razoes": [
-        {
-          "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-          "url": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
