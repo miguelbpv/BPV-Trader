@@ -1,31 +1,62 @@
 {
-  "generated_at": "2026-08-12T01:10:56.132934Z",
+  "generated_at": "2026-08-12T04:41:13.398399Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.45,
+      "score": 6.63,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
+          "title": "Drone strikes power station near Libya’s largest oil refinery",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss"
+        },
+        {
+          "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+          "url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
+        },
+        {
+          "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+          "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
+        },
+        {
+          "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
+          "url": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.63,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Drone strikes power station near Libya’s largest oil refinery",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss"
         },
         {
-          "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
-          "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss"
+          "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+          "url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss"
         },
         {
-          "title": "Israel demolishes home of Palestinian killed during settler attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss"
+          "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+          "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
         },
         {
-          "title": "US military fires on cargo vessel it said sought to break Iran blockade",
-          "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss"
+          "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
+          "url": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss"
         },
         {
-          "title": "Venezuela and Israel restore consular ties as relations warm",
-          "url": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss"
+          "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,11 +66,19 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.45,
+      "score": 4.43,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
+          "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+          "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
+        },
+        {
+          "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
+          "url": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
         },
         {
@@ -49,45 +88,6 @@
         {
           "title": "Israel demolishes home of Palestinian killed during settler attack",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss"
-        },
-        {
-          "title": "US military fires on cargo vessel it said sought to break Iran blockade",
-          "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela and Israel restore consular ties as relations warm",
-          "url": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.45,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
-          "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss"
-        },
-        {
-          "title": "Israel demolishes home of Palestinian killed during settler attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss"
-        },
-        {
-          "title": "US military fires on cargo vessel it said sought to break Iran blockade",
-          "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Venezuela and Israel restore consular ties as relations warm",
-          "url": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
