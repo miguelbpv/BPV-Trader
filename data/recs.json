@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-13T01:12:30.737740Z",
+  "generated_at": "2026-08-13T04:44:39.849607Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 4.77,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Oman says oil spill from stricken tanker has reached its coast",
+          "url": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
+          "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "11-year-old boy shot by Israeli forces in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.77,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Oman says oil spill from stricken tanker has reached its coast",
+          "url": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss"
         },
         {
-          "title": "Israeli air strike kills one in northern Gaza",
-          "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
+          "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
+          "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss"
+          "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
+        },
+        {
+          "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+          "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss"
+        },
+        {
+          "title": "11-year-old boy shot by Israeli forces in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 3.42,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
+          "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss"
+        },
         {
           "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
@@ -53,41 +88,6 @@
         {
           "title": "Israeli air strike kills one in northern Gaza",
           "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
-        },
-        {
-          "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
-          "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss"
-        },
-        {
-          "title": "11-year-old boy shot by Israeli forces in Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israeli air strike kills one in northern Gaza",
-          "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
