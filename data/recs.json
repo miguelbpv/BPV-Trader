@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-08-14T04:42:11.555686Z",
+  "generated_at": "2026-08-14T07:10:59.978914Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.27,
+      "score": 7.09,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
+          "url": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss"
+        },
         {
           "title": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss"
-        },
-        {
-          "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.27,
+      "score": 7.09,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
+          "url": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss"
+        },
         {
           "title": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss"
-        },
-        {
-          "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,7 +66,7 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.17,
+      "score": 4.65,
       "confianca": 95,
       "razoes": [
         {
@@ -95,9 +95,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -114,9 +114,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
@@ -135,7 +135,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.96,
+      "score": 1.95,
       "confianca": 55,
       "razoes": [
         {
