@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-16T00:46:08.331981Z",
+  "generated_at": "2026-08-16T03:40:15.418418Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.29,
+      "score": 3.78,
       "confianca": 95,
       "razoes": [
         {
@@ -16,7 +16,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss"
         },
         {
-          "title": "Qatar denies it is detaining three Iranian bomber pilots",
+          "title": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
           "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
         },
         {
@@ -35,7 +35,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.29,
+      "score": 3.78,
       "confianca": 95,
       "razoes": [
         {
@@ -47,7 +47,7 @@
           "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss"
         },
         {
-          "title": "Qatar denies it is detaining three Iranian bomber pilots",
+          "title": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
           "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
         },
         {
@@ -66,8 +66,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.95,
-      "confianca": 84,
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
         {
           "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
@@ -78,16 +78,12 @@
           "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss"
         },
         {
-          "title": "Qatar denies it is detaining three Iranian bomber pilots",
+          "title": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
           "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
         },
         {
           "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
           "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,9 +91,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -112,7 +108,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -125,9 +121,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
