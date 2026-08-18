@@ -1,27 +1,19 @@
 {
-  "generated_at": "2026-08-18T09:22:54.971065Z",
+  "generated_at": "2026-08-18T12:26:47.670357Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 2.09,
+      "confianca": 59,
       "razoes": [
+        {
+          "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss"
+        },
         {
           "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
           "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler children attack ambulance in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?",
-          "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Vessel struck in Strait of Hormuz, crew member injured",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -30,97 +22,32 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 2.09,
+      "confianca": 59,
+      "razoes": [
+        {
+          "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
+          "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
           "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
           "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler children attack ambulance in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?",
-          "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Vessel struck in Strait of Hormuz, crew member injured",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-          "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settler children attack ambulance in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?",
-          "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Vessel struck in Strait of Hormuz, crew member injured",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Canada battles the clock, politics in scramble to avert Trump’s tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Canada battles the clock, politics in scramble to avert Trump’s tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.86,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Canada battles the clock, politics in scramble to avert Trump’s tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
