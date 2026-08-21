@@ -1,34 +1,11 @@
 {
-  "generated_at": "2026-08-21T03:42:32.735813Z",
+  "generated_at": "2026-08-21T06:31:02.757468Z",
   "recs": [
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
-      "razoes": [
-        {
-          "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss"
-        },
-        {
-          "title": "US pummels Cuban economy with new sanctions on mining, construction",
-          "url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss"
-        },
-        {
-          "title": "Could US sanctions destroy the International Criminal Court?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "score": 2.4,
+      "confianca": 68,
       "razoes": [
         {
           "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
@@ -50,8 +27,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.42,
-      "confianca": 69,
+      "score": 2.4,
+      "confianca": 68,
       "razoes": [
         {
           "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
@@ -71,9 +48,32 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "SOXX",
       "acao": "comprar",
-      "score": 2.33,
+      "score": 2.4,
+      "confianca": 68,
+      "razoes": [
+        {
+          "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss"
+        },
+        {
+          "title": "US pummels Cuban economy with new sanctions on mining, construction",
+          "url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss"
+        },
+        {
+          "title": "Could US sanctions destroy the International Criminal Court?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.31,
       "confianca": 66,
       "razoes": [
         {
@@ -94,9 +94,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.33,
+      "score": 2.31,
       "confianca": 66,
       "razoes": [
         {
@@ -119,7 +119,7 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.33,
+      "score": 2.31,
       "confianca": 66,
       "razoes": [
         {
