@@ -1,23 +1,62 @@
 {
-  "generated_at": "2026-08-21T12:28:31.984326Z",
+  "generated_at": "2026-08-21T15:24:06.889526Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.73,
-      "confianca": 49,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.33,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-          "url": "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss"
+          "title": "War on Iran: The US could focus on economically isolating Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss"
         },
         {
-          "title": "Israeli settlers set fire to Palestinian home while family asleep",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss"
+          "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
+          "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss"
         },
         {
-          "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
-          "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
+          "title": "Israeli soldiers throw belongings from besieged Palestinian home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss"
+        },
+        {
+          "title": "US allies in Asia wary as Trump moves military assets for Iran war",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.33,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "War on Iran: The US could focus on economically isolating Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss"
+        },
+        {
+          "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
+          "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss"
+        },
+        {
+          "title": "Israeli soldiers throw belongings from besieged Palestinian home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss"
+        },
+        {
+          "title": "US allies in Asia wary as Trump moves military assets for Iran war",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,21 +65,29 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.73,
-      "confianca": 49,
+      "acao": "comprar",
+      "score": 4.33,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-          "url": "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss"
+          "title": "War on Iran: The US could focus on economically isolating Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss"
         },
         {
-          "title": "Israeli settlers set fire to Palestinian home while family asleep",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss"
+          "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
+          "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss"
         },
         {
-          "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
-          "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
+          "title": "Israeli soldiers throw belongings from besieged Palestinian home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss"
+        },
+        {
+          "title": "US allies in Asia wary as Trump moves military assets for Iran war",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -48,22 +95,104 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.73,
-      "confianca": 49,
+      "score": 0.99,
+      "confianca": 28,
       "razoes": [
         {
-          "title": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-          "url": "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss"
-        },
+          "title": "Djibouti Football Federation accused of misusing funds from FIFA",
+          "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
         {
-          "title": "Israeli settlers set fire to Palestinian home while family asleep",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss"
-        },
+          "title": "Djibouti Football Federation accused of misusing funds from FIFA",
+          "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
         {
-          "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
-          "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
+          "title": "Djibouti Football Federation accused of misusing funds from FIFA",
+          "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "Djibouti Football Federation accused of misusing funds from FIFA",
+          "url": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+          "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
