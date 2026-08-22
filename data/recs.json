@@ -1,81 +1,24 @@
 {
-  "generated_at": "2026-08-22T12:20:32.532496Z",
+  "generated_at": "2026-08-22T15:12:10.814000Z",
   "recs": [
     {
-      "symbol": "ASML.AS",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
+      "score": 2.84,
+      "confianca": 81,
       "razoes": [
         {
-          "title": "Iran says new US sanctions violate sovereignty of other states",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss"
+          "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss"
         },
         {
-          "title": "How will Trump’s tariffs affect Canada’s economy?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss"
+          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+          "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss"
         },
         {
-          "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
-          "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "Iran says new US sanctions violate sovereignty of other states",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss"
+          "title": "Jewish activists push back against Israeli settlers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss"
         },
-        {
-          "title": "How will Trump’s tariffs affect Canada’s economy?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss"
-        },
-        {
-          "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
-          "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "Iran says new US sanctions violate sovereignty of other states",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss"
-        },
-        {
-          "title": "How will Trump’s tariffs affect Canada’s economy?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss"
-        },
-        {
-          "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
-          "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
         {
           "title": "Iran says new US sanctions violate sovereignty of other states",
           "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss"
@@ -87,10 +30,22 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "acao": "comprar",
+      "score": 2.84,
+      "confianca": 81,
       "razoes": [
+        {
+          "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss"
+        },
+        {
+          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+          "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss"
+        },
+        {
+          "title": "Jewish activists push back against Israeli settlers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss"
+        },
         {
           "title": "Iran says new US sanctions violate sovereignty of other states",
           "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss"
@@ -101,14 +56,83 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.84,
+      "confianca": 81,
+      "razoes": [
+        {
+          "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss"
+        },
+        {
+          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+          "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss"
+        },
+        {
+          "title": "Jewish activists push back against Israeli settlers",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss"
+        },
+        {
+          "title": "Iran says new US sanctions violate sovereignty of other states",
+          "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 1.69,
+      "confianca": 48,
       "razoes": [
         {
           "title": "Iran says new US sanctions violate sovereignty of other states",
           "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss"
+        },
+        {
+          "title": "How will Trump’s tariffs affect Canada’s economy?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Iran says new US sanctions violate sovereignty of other states",
+          "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss"
+        },
+        {
+          "title": "How will Trump’s tariffs affect Canada’s economy?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.69,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "Iran says new US sanctions violate sovereignty of other states",
+          "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss"
+        },
+        {
+          "title": "How will Trump’s tariffs affect Canada’s economy?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
