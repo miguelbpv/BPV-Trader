@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T03:34:38.418136Z",
+  "generated_at": "2026-08-22T06:23:45.951435Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.32,
-      "confianca": 94,
+      "score": 3.06,
+      "confianca": 87,
       "razoes": [
         {
           "title": "Iranian president says time to end war with US from ‘position of strength’",
@@ -22,10 +22,6 @@
         {
           "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
-        },
-        {
-          "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-          "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,8 +31,8 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.32,
-      "confianca": 94,
+      "score": 3.06,
+      "confianca": 87,
       "razoes": [
         {
           "title": "Iranian president says time to end war with US from ‘position of strength’",
@@ -53,10 +49,6 @@
         {
           "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
-        },
-        {
-          "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-          "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,10 +56,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.32,
-      "confianca": 94,
+      "score": 3.06,
+      "confianca": 87,
       "razoes": [
         {
           "title": "Iranian president says time to end war with US from ‘position of strength’",
@@ -84,29 +76,6 @@
         {
           "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
-        },
-        {
-          "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-          "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
-        },
-        {
-          "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-          "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -116,16 +85,35 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.69,
+      "score": 1.7,
       "confianca": 48,
       "razoes": [
         {
-          "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
+          "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+          "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss"
         },
         {
-          "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-          "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss"
+          "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.7,
+      "confianca": 48,
+      "razoes": [
+        {
+          "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+          "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss"
+        },
+        {
+          "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -135,16 +123,16 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.69,
+      "score": 1.7,
       "confianca": 48,
       "razoes": [
         {
-          "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
+          "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+          "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss"
         },
         {
-          "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-          "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss"
+          "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
