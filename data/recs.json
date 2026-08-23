@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-08-23T06:25:06.121970Z",
+  "generated_at": "2026-08-23T09:19:10.206369Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.92,
+      "score": 4.98,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli wounded in occupied West Bank stabbing",
+          "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss"
+        },
         {
           "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Iran warns of retaliation against countries joining US ‘economic war’",
           "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army and settlers injure several Palestinians across West Bank",
-          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,11 +33,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.92,
+      "score": 4.98,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli wounded in occupied West Bank stabbing",
+          "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss"
+        },
         {
           "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Iran warns of retaliation against countries joining US ‘economic war’",
           "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army and settlers injure several Palestinians across West Bank",
-          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.92,
+      "score": 4.98,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli wounded in occupied West Bank stabbing",
+          "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss"
+        },
         {
           "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss"
@@ -84,33 +88,6 @@
         {
           "title": "Iran warns of retaliation against countries joining US ‘economic war’",
           "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
-        },
-        {
-          "title": "Israeli army and settlers injure several Palestinians across West Bank",
-          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.52,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-          "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
-        },
-        {
-          "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss"
-        },
-        {
-          "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
-          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -119,21 +96,13 @@
     },
     {
       "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.52,
-      "confianca": 72,
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
           "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
           "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
-        },
-        {
-          "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss"
-        },
-        {
-          "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
-          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -142,21 +111,28 @@
     },
     {
       "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.52,
-      "confianca": 72,
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
           "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
           "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss"
-        },
-        {
-          "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
-          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss"
+          "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+          "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
