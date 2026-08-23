@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-08-23T15:13:11.435152Z",
+  "generated_at": "2026-08-23T18:16:05.846372Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.55,
+      "score": 4.43,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss"
+          "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+          "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss"
         },
         {
-          "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-          "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss"
+          "title": "Can Nigeria cash in on Iran war?",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss"
         },
         {
-          "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-          "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
+          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+          "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
         },
         {
-          "title": "Syria’s foreign minister says door open for diplomacy with Israel",
-          "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss"
+          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
         },
-        {
-          "title": "Israel kills 3 Palestinians, including four-year-old child, in central Gaza",
-          "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.55,
-      "confianca": 95,
-      "razoes": [
         {
           "title": "Heavy Israeli air strike hits warehouse in central Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-          "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-          "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
-        },
-        {
-          "title": "Syria’s foreign minister says door open for diplomacy with Israel",
-          "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israel kills 3 Palestinians, including four-year-old child, in central Gaza",
-          "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,28 +35,128 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.55,
+      "score": 4.43,
       "confianca": 95,
       "razoes": [
         {
+          "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+          "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss"
+        },
+        {
+          "title": "Can Nigeria cash in on Iran war?",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+          "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
+        },
+        {
           "title": "Heavy Israeli air strike hits warehouse in central Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.43,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+          "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss"
         },
         {
-          "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-          "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss"
+          "title": "Can Nigeria cash in on Iran war?",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss"
         },
         {
-          "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-          "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
+          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+          "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
         },
         {
-          "title": "Syria’s foreign minister says door open for diplomacy with Israel",
-          "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss"
+          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
         },
         {
-          "title": "Israel kills 3 Palestinians, including four-year-old child, in central Gaza",
-          "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss"
+          "title": "Heavy Israeli air strike hits warehouse in central Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "comprar",
+      "score": 2.56,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+          "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+          "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.56,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+          "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+          "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.56,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+          "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+          "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
