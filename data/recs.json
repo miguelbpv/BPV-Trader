@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-08-23T18:16:05.846372Z",
+  "generated_at": "2026-08-23T21:12:58.991739Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.43,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
-          "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss"
-        },
-        {
-          "title": "Can Nigeria cash in on Iran war?",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-          "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
-        },
-        {
-          "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.43,
+      "score": 4.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Is Israel about to split the occupied West Bank in half?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss"
+        },
+        {
+          "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss"
+        },
         {
           "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
           "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Can Nigeria cash in on Iran war?",
           "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-          "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
-        },
-        {
-          "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.43,
+      "score": 4.92,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Is Israel about to split the occupied West Bank in half?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss"
+        },
+        {
+          "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss"
+        },
         {
           "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
           "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss"
@@ -76,18 +57,37 @@
         {
           "title": "Can Nigeria cash in on Iran war?",
           "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.92,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Is Israel about to split the occupied West Bank in half?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss"
         },
         {
-          "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-          "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
+          "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss"
         },
         {
-          "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss"
+          "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss"
         },
         {
-          "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss"
+          "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+          "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss"
+        },
+        {
+          "title": "Can Nigeria cash in on Iran war?",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,8 +97,8 @@
     {
       "symbol": "SOXX",
       "acao": "comprar",
-      "score": 2.56,
-      "confianca": 73,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
@@ -120,8 +120,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.56,
-      "confianca": 73,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
@@ -143,8 +143,8 @@
     {
       "symbol": "TSM",
       "acao": "comprar",
-      "score": 2.56,
-      "confianca": 73,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
