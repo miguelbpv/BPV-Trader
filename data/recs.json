@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-23T00:47:48.872731Z",
+  "generated_at": "2026-08-23T03:42:10.335195Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 7.86,
+      "score": 6.96,
       "confianca": 95,
       "razoes": [
         {
@@ -33,9 +33,9 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.86,
+      "score": 6.96,
       "confianca": 95,
       "razoes": [
         {
@@ -66,7 +66,7 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.86,
+      "score": 6.96,
       "confianca": 95,
       "razoes": [
         {
@@ -95,45 +95,22 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.54,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss"
-        },
-        {
-          "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
-          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss"
-        },
-        {
-          "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "TSM",
       "acao": "comprar",
       "score": 2.54,
       "confianca": 72,
       "razoes": [
         {
+          "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+          "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
+        },
+        {
           "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss"
         },
         {
           "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
           "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss"
-        },
-        {
-          "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -147,16 +124,39 @@
       "confianca": 72,
       "razoes": [
         {
+          "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+          "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
+        },
+        {
           "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss"
         },
         {
           "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
           "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "comprar",
+      "score": 2.54,
+      "confianca": 72,
+      "razoes": [
+        {
+          "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+          "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
         },
         {
-          "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss"
+          "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss"
+        },
+        {
+          "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+          "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
