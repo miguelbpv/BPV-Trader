@@ -1,14 +1,45 @@
 {
-  "generated_at": "2026-08-24T00:45:09.594318Z",
+  "generated_at": "2026-08-24T03:45:48.908169Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.78,
+      "score": 4.61,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+          "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss"
+        },
+        {
+          "title": "Will Donald Trump’s new sanctions against Iran work?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
+        },
+        {
+          "title": "Is Israel about to split the occupied West Bank in half?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss"
+        },
+        {
+          "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss"
+        },
+        {
+          "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.61,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss"
         },
         {
@@ -35,11 +66,11 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.78,
+      "score": 4.61,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+          "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss"
         },
         {
@@ -57,75 +88,6 @@
         {
           "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
           "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.78,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss"
-        },
-        {
-          "title": "Will Donald Trump’s new sanctions against Iran work?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel about to split the occupied West Bank in half?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss"
-        },
-        {
-          "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Will Donald Trump’s new sanctions against Iran work?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
-        },
-        {
-          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-          "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "Will Donald Trump’s new sanctions against Iran work?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
-        },
-        {
-          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-          "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -135,16 +97,42 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
           "title": "Will Donald Trump’s new sanctions against Iran work?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-          "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss"
+          "title": "Will Donald Trump’s new sanctions against Iran work?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Will Donald Trump’s new sanctions against Iran work?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
