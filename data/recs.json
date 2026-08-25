@@ -1,18 +1,22 @@
 {
-  "generated_at": "2026-08-25T03:40:34.609231Z",
+  "generated_at": "2026-08-25T06:30:36.624617Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.02,
+      "score": 5.62,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Two US carrier groups in Middle East strain navy resources",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss"
+        },
         {
           "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
           "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+          "title": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
         },
         {
@@ -22,10 +26,6 @@
         {
           "title": "US public support for Iran war falls as Trump approval at record low: Poll",
           "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss"
-        },
-        {
-          "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,17 +33,21 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.02,
+      "score": 5.62,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Two US carrier groups in Middle East strain navy resources",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss"
+        },
         {
           "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
           "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+          "title": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
         },
         {
@@ -53,10 +57,6 @@
         {
           "title": "US public support for Iran war falls as Trump approval at record low: Poll",
           "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss"
-        },
-        {
-          "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,15 +66,19 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.02,
+      "score": 5.62,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Two US carrier groups in Middle East strain navy resources",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss"
+        },
         {
           "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
           "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss"
         },
         {
-          "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+          "title": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
         },
         {
@@ -84,10 +88,6 @@
         {
           "title": "US public support for Iran war falls as Trump approval at record low: Poll",
           "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss"
-        },
-        {
-          "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -96,37 +96,10 @@
     },
     {
       "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
+      "acao": "observar",
+      "score": 1.68,
+      "confianca": 48,
       "razoes": [
-        {
-          "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
-        },
-        {
-          "title": "How US sanctions on Iran ripple through global markets and consumers",
-          "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
-        },
-        {
-          "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
-      "razoes": [
-        {
-          "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
-        },
         {
           "title": "How US sanctions on Iran ripple through global markets and consumers",
           "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
@@ -142,14 +115,29 @@
     },
     {
       "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.55,
-      "confianca": 72,
+      "acao": "observar",
+      "score": 1.68,
+      "confianca": 48,
       "razoes": [
         {
-          "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
+          "title": "How US sanctions on Iran ripple through global markets and consumers",
+          "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
         },
+        {
+          "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.68,
+      "confianca": 48,
+      "razoes": [
         {
           "title": "How US sanctions on Iran ripple through global markets and consumers",
           "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
