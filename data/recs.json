@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-08-25T00:44:25.610284Z",
+  "generated_at": "2026-08-25T03:40:34.609231Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 7.61,
+      "score": 5.02,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+          "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss"
+        },
         {
           "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 7.61,
+      "score": 5.02,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+          "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss"
+        },
         {
           "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
-        },
-        {
-          "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 7.61,
+      "score": 5.02,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+          "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss"
+        },
         {
           "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
@@ -84,6 +88,25 @@
         {
           "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "comprar",
+      "score": 2.55,
+      "confianca": 72,
+      "razoes": [
+        {
+          "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
+        },
+        {
+          "title": "How US sanctions on Iran ripple through global markets and consumers",
+          "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
         },
         {
           "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
@@ -97,31 +120,8 @@
     {
       "symbol": "SOXX",
       "acao": "comprar",
-      "score": 2.57,
-      "confianca": 73,
-      "razoes": [
-        {
-          "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss"
-        },
-        {
-          "title": "How US sanctions on Iran ripple through global markets and consumers",
-          "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss"
-        },
-        {
-          "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.57,
-      "confianca": 73,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
@@ -143,8 +143,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "comprar",
-      "score": 2.57,
-      "confianca": 73,
+      "score": 2.55,
+      "confianca": 72,
       "razoes": [
         {
           "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
