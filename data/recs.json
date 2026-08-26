@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-08-26T00:45:45.609125Z",
+  "generated_at": "2026-08-26T03:44:55.106907Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.04,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss"
-        },
-        {
-          "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
-          "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
-        },
-        {
-          "title": "US lawmakers urge Trump team to free American student held by Israel",
-          "url": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss"
-        },
-        {
-          "title": "New US sanctions signal Trump desperation on Iran, experts say",
-          "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss"
-        },
-        {
-          "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.04,
+      "score": 4.54,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "New US sanctions signal Trump desperation on Iran, experts say",
           "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss"
-        },
-        {
-          "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.04,
+      "score": 4.54,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss"
@@ -84,10 +57,6 @@
         {
           "title": "New US sanctions signal Trump desperation on Iran, experts say",
           "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss"
-        },
-        {
-          "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,7 +64,38 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "ASML.AS",
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.54,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss"
+        },
+        {
+          "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+          "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
+        },
+        {
+          "title": "US lawmakers urge Trump team to free American student held by Israel",
+          "url": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss"
+        },
+        {
+          "title": "New US sanctions signal Trump desperation on Iran, experts say",
+          "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
@@ -125,7 +125,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
