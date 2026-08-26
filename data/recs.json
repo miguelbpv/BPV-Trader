@@ -1,39 +1,24 @@
 {
-  "generated_at": "2026-08-26T16:10:28.756781Z",
+  "generated_at": "2026-08-26T19:38:03.881165Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
-      "razoes": [
-        {
-          "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
-          "url": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
-        },
-        {
-          "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
-          "url": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss"
-        },
-        {
-          "title": "Children in Gaza fear flying their kites after Israeli threat",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss"
-        },
-        {
-          "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-          "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
+      "score": 4.21,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces install new gate, isolating Palestinian village",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Iran war will continue for as long as necessary",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss"
+        },
+        {
+          "title": "Iran emphasises self-sufficiency in battle against US economic war",
+          "url": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss"
+        },
         {
           "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
           "url": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
@@ -41,14 +26,6 @@
         {
           "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
           "url": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss"
-        },
-        {
-          "title": "Children in Gaza fear flying their kites after Israeli threat",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss"
-        },
-        {
-          "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-          "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,9 +35,21 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.73,
-      "confianca": 78,
+      "score": 4.21,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli forces install new gate, isolating Palestinian village",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss"
+        },
+        {
+          "title": "Trump says Iran war will continue for as long as necessary",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss"
+        },
+        {
+          "title": "Iran emphasises self-sufficiency in battle against US economic war",
+          "url": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss"
+        },
         {
           "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
           "url": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
@@ -68,14 +57,142 @@
         {
           "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
           "url": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.21,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli forces install new gate, isolating Palestinian village",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss"
         },
         {
-          "title": "Children in Gaza fear flying their kites after Israeli threat",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss"
+          "title": "Trump says Iran war will continue for as long as necessary",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss"
         },
         {
-          "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-          "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss"
+          "title": "Iran emphasises self-sufficiency in battle against US economic war",
+          "url": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
+          "url": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
+        },
+        {
+          "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
+          "url": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US inflation holds at 3.7 percent in July, above Fed target",
+          "url": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "IWM",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US inflation holds at 3.7 percent in July, above Fed target",
+          "url": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "QQQ",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US inflation holds at 3.7 percent in July, above Fed target",
+          "url": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.99,
+      "confianca": 28,
+      "razoes": [
+        {
+          "title": "US inflation holds at 3.7 percent in July, above Fed target",
+          "url": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US imposes sanctions on Palestine Action and other left-wing groups",
+          "url": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US imposes sanctions on Palestine Action and other left-wing groups",
+          "url": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.86,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "US imposes sanctions on Palestine Action and other left-wing groups",
+          "url": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
