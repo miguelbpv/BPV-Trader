@@ -1,98 +1,31 @@
 {
-  "generated_at": "2026-08-28T00:10:11.552513Z",
+  "generated_at": "2026-08-28T14:44:26.467724Z",
   "recs": [
     {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Nigeria’s football federation chief resigns amid corruption allegations",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Nigeria’s football federation chief resigns amid corruption allegations",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Nigeria’s football federation chief resigns amid corruption allegations",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "Nigeria’s football federation chief resigns amid corruption allegations",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "acao": "comprar",
+      "score": 4.22,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss"
+          "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+          "url": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss"
         },
         {
-          "title": "Three killed in strikes on Gaza as Israel renews threats over kite-flying",
-          "url": "https://www.aljazeera.com/news/2026/8/27/three-killed-in-strikes-on-gaza-as-israel-renews-threats-over-kite-flying?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss"
+          "title": "After six months of war, what have US, Iran gained and lost?",
+          "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost?traffic_source=rss"
         },
         {
-          "title": "Three killed in strikes on Gaza as Israel renews threats over kite-flying",
-          "url": "https://www.aljazeera.com/news/2026/8/27/three-killed-in-strikes-on-gaza-as-israel-renews-threats-over-kite-flying?traffic_source=rss"
+          "title": "US-Israel war on Iran, six months down the line: In numbers",
+          "url": "https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers?traffic_source=rss"
+        },
+        {
+          "title": "With Kuwait deal, Pakistan expands defence umbrella across Middle East",
+          "url": "https://www.aljazeera.com/news/2026/8/28/with-kuwait-deal-pakistan-expands-defence-umbrella-across-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Children take cover behind shopping cart during Israeli drone fire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/children-take-cover-behind-shopping-cart-during-israeli-drone-fire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -101,17 +34,60 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "acao": "comprar",
+      "score": 4.22,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss"
+          "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+          "url": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss"
         },
         {
-          "title": "Three killed in strikes on Gaza as Israel renews threats over kite-flying",
-          "url": "https://www.aljazeera.com/news/2026/8/27/three-killed-in-strikes-on-gaza-as-israel-renews-threats-over-kite-flying?traffic_source=rss"
+          "title": "After six months of war, what have US, Iran gained and lost?",
+          "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost?traffic_source=rss"
+        },
+        {
+          "title": "US-Israel war on Iran, six months down the line: In numbers",
+          "url": "https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers?traffic_source=rss"
+        },
+        {
+          "title": "With Kuwait deal, Pakistan expands defence umbrella across Middle East",
+          "url": "https://www.aljazeera.com/news/2026/8/28/with-kuwait-deal-pakistan-expands-defence-umbrella-across-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Children take cover behind shopping cart during Israeli drone fire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/children-take-cover-behind-shopping-cart-during-israeli-drone-fire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.22,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+          "url": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss"
+        },
+        {
+          "title": "After six months of war, what have US, Iran gained and lost?",
+          "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost?traffic_source=rss"
+        },
+        {
+          "title": "US-Israel war on Iran, six months down the line: In numbers",
+          "url": "https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers?traffic_source=rss"
+        },
+        {
+          "title": "With Kuwait deal, Pakistan expands defence umbrella across Middle East",
+          "url": "https://www.aljazeera.com/news/2026/8/28/with-kuwait-deal-pakistan-expands-defence-umbrella-across-middle-east?traffic_source=rss"
+        },
+        {
+          "title": "Children take cover behind shopping cart during Israeli drone fire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/children-take-cover-behind-shopping-cart-during-israeli-drone-fire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
