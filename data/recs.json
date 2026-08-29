@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-29T04:55:01.777416Z",
+  "generated_at": "2026-08-29T12:00:22.661950Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.47,
+      "score": 5.53,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+          "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss"
+        },
+        {
+          "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+          "url": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss"
+        },
         {
           "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss"
@@ -16,12 +24,8 @@
           "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss"
         },
         {
-          "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+          "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills three Palestinians in Jenin",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,9 +35,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.47,
+      "score": 5.53,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+          "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss"
+        },
+        {
+          "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+          "url": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss"
+        },
         {
           "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss"
@@ -43,12 +55,8 @@
           "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss"
         },
         {
-          "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+          "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
           "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills three Palestinians in Jenin",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -57,17 +65,36 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "acao": "comprar",
+      "score": 2.32,
+      "confianca": 66,
       "razoes": [
         {
-          "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
+          "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+          "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss"
         },
         {
-          "title": "Israeli strike kills three Palestinians in Jenin",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss"
+          "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+          "url": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "EUROSTOXX50",
+      "acao": "observar",
+      "score": 0.97,
+      "confianca": 27,
+      "razoes": [
+        {
+          "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+          "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -77,7 +104,7 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -92,22 +119,7 @@
     {
       "symbol": "SPY",
       "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
-          "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
@@ -122,12 +134,57 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.98,
+      "score": 0.97,
       "confianca": 27,
       "razoes": [
         {
           "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
           "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.83,
+      "confianca": 23,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
