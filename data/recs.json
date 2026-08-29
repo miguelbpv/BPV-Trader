@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-08-29T16:31:10.863113Z",
+  "generated_at": "2026-08-29T20:12:43.545207Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
         {
-          "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+          "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
           "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss"
         },
         {
@@ -18,10 +22,33 @@
         {
           "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.45,
+      "confianca": 70,
+      "razoes": [
+        {
+          "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss"
         },
         {
-          "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-          "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss"
+          "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
+          "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
+          "url": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss"
+        },
+        {
+          "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,11 +58,15 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 2.45,
+      "confianca": 70,
       "razoes": [
         {
-          "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+          "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
           "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss"
         },
         {
@@ -45,37 +76,6 @@
         {
           "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-          "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-          "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-          "url": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss"
-        },
-        {
-          "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss"
-        },
-        {
-          "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-          "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
