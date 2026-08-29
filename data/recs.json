@@ -1,23 +1,54 @@
 {
-  "generated_at": "2026-08-28T23:46:55.173435Z",
+  "generated_at": "2026-08-29T04:55:01.777416Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.47,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss"
+        },
+        {
+          "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+          "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
+        },
         {
           "title": "Israeli strike kills three Palestinians in Jenin",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.47,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss"
         },
         {
-          "title": "Yemen’s divided education system leaves students’ futures in limbo",
-          "url": "https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss"
+          "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+          "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss"
         },
         {
-          "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-          "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss"
+          "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strike kills three Palestinians in Jenin",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,43 +58,16 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
+      "score": 1.23,
+      "confianca": 35,
       "razoes": [
+        {
+          "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
+        },
         {
           "title": "Israeli strike kills three Palestinians in Jenin",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s divided education system leaves students’ futures in limbo",
-          "url": "https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-          "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.47,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Israeli strike kills three Palestinians in Jenin",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss"
-        },
-        {
-          "title": "Yemen’s divided education system leaves students’ futures in limbo",
-          "url": "https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-          "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -77,23 +81,8 @@
       "confianca": 27,
       "razoes": [
         {
-          "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
-          "url": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.98,
-      "confianca": 27,
-      "razoes": [
-        {
-          "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
-          "url": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss"
+          "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+          "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -107,8 +96,8 @@
       "confianca": 27,
       "razoes": [
         {
-          "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
-          "url": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss"
+          "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+          "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -122,8 +111,8 @@
       "confianca": 27,
       "razoes": [
         {
-          "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
-          "url": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss"
+          "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+          "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -131,44 +120,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "QQQ",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Canadian economy recovers sharply in Q2 but shadow of US tariffs in future",
-          "url": "https://www.aljazeera.com/economy/2026/8/28/canadian-economy-recovers-sharply-in-q2-but-shadow-of-us-tariffs-in-future?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Canadian economy recovers sharply in Q2 but shadow of US tariffs in future",
-          "url": "https://www.aljazeera.com/economy/2026/8/28/canadian-economy-recovers-sharply-in-q2-but-shadow-of-us-tariffs-in-future?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Canadian economy recovers sharply in Q2 but shadow of US tariffs in future",
-          "url": "https://www.aljazeera.com/economy/2026/8/28/canadian-economy-recovers-sharply-in-q2-but-shadow-of-us-tariffs-in-future?traffic_source=rss"
+          "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+          "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
