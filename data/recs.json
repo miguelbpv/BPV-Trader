@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-09-02T22:55:08.274340Z",
+  "generated_at": "2026-09-03T02:13:57.392220Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 8.28,
+      "score": 6.16,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+          "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss"
+        },
         {
           "title": "Israeli PM says Israel is working to overthrow Iran’s government",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
           "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 6.16,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+          "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss"
         },
         {
-          "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-          "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss"
+          "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss"
         },
         {
-          "title": "Israeli protesters call for an end to settler violence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss"
+          "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss"
+        },
+        {
+          "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+          "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss"
+        },
+        {
+          "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+          "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 8.28,
+      "score": 6.16,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+          "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss"
+        },
         {
           "title": "Israeli PM says Israel is working to overthrow Iran’s government",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss"
@@ -49,90 +88,6 @@
         {
           "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
           "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss"
-        },
-        {
-          "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-          "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israeli protesters call for an end to settler violence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 6.94,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli PM says Israel is working to overthrow Iran’s government",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss"
-        },
-        {
-          "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-          "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss"
-        },
-        {
-          "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-          "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss"
-        },
-        {
-          "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-          "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss"
-        },
-        {
-          "title": "Israeli protesters call for an end to settler violence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
-          "url": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
-          "url": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
-          "url": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
