@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-09-03T22:54:12.091279Z",
+  "generated_at": "2026-09-04T02:10:00.652683Z",
   "recs": [
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.82,
+      "score": 4.3,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: US rules out Iran talks until ship attacks stop",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss"
+        },
         {
           "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Funeral held for child killed in US strike on Iranian wedding",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss"
-        },
-        {
-          "title": "Advocates decry US House vote to defund universities that boycott Israel",
-          "url": "https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.82,
+      "score": 4.3,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: US rules out Iran talks until ship attacks stop",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss"
+        },
         {
           "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Funeral held for child killed in US strike on Iranian wedding",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss"
-        },
-        {
-          "title": "Advocates decry US House vote to defund universities that boycott Israel",
-          "url": "https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.22,
-      "confianca": 92,
+      "score": 2.71,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "Iran war live: US rules out Iran talks until ship attacks stop",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss"
+        },
         {
           "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
           "url": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss"
@@ -80,14 +84,51 @@
         {
           "title": "Funeral held for child killed in US strike on Iranian wedding",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
         {
-          "title": "Advocates decry US House vote to defund universities that boycott Israel",
-          "url": "https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss"
-        },
+          "title": "US continues to squeeze Cuban economy with new round of sanctions",
+          "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
         {
-          "title": "Israel releases Lebanese civilian, says five prisoners will be freed",
-          "url": "https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss"
+          "title": "US continues to squeeze Cuban economy with new round of sanctions",
+          "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
+        {
+          "title": "US continues to squeeze Cuban economy with new round of sanctions",
+          "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
