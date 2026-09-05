@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-09-05T02:10:28.581974Z",
+  "generated_at": "2026-09-05T07:14:35.017695Z",
   "recs": [
     {
-      "symbol": "XLE",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.03,
-      "confianca": 95,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+          "title": "Did Israel’s destruction of Gaza worsen its water crisis?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss"
         },
         {
@@ -18,14 +22,33 @@
         {
           "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
           "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Did Israel’s destruction of Gaza worsen its water crisis?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss"
         },
         {
-          "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss"
+          "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss"
         },
         {
-          "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss"
+          "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss"
+        },
+        {
+          "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+          "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,11 +58,15 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.03,
-      "confianca": 95,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+          "title": "Did Israel’s destruction of Gaza worsen its water crisis?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss"
         },
         {
@@ -49,14 +76,6 @@
         {
           "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
           "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss"
-        },
-        {
-          "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,30 +83,44 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.69,
-      "confianca": 95,
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss"
-        },
+          "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+          "url": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
         {
-          "title": "‘Small potatoes’: US President Trump downplays war on Iran",
-          "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss"
-        },
+          "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+          "url": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.61,
+      "confianca": 17,
+      "razoes": [
         {
-          "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
-          "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss"
-        },
-        {
-          "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss"
+          "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+          "url": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
