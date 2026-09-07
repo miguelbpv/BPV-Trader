@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-09-06T22:34:46.997455Z",
+  "generated_at": "2026-09-07T02:03:11.257993Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.96,
+      "score": 2.95,
       "confianca": 84,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss"
+        },
         {
           "title": "Will Israelis re-elect Benjamin Netanyahu?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss"
@@ -18,37 +22,6 @@
         {
           "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
           "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran touts military response as US maintains blockade, hits tankers",
-          "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Will Israelis re-elect Benjamin Netanyahu?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-          "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss"
-        },
-        {
-          "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-          "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran touts military response as US maintains blockade, hits tankers",
-          "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,9 +31,13 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.96,
+      "score": 2.95,
       "confianca": 84,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss"
+        },
         {
           "title": "Will Israelis re-elect Benjamin Netanyahu?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss"
@@ -72,10 +49,33 @@
         {
           "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
           "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss"
         },
         {
-          "title": "Iran touts military response as US maintains blockade, hits tankers",
-          "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss"
+          "title": "Will Israelis re-elect Benjamin Netanyahu?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss"
+        },
+        {
+          "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+          "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss"
+        },
+        {
+          "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
+          "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
