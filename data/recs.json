@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-09-11T22:54:07.887005Z",
+  "generated_at": "2026-09-12T02:19:07.731220Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.45,
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss"
+        },
         {
           "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
           "url": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss"
@@ -22,10 +26,6 @@
         {
           "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
           "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss"
-        },
-        {
-          "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-          "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +35,13 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.45,
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss"
+        },
         {
           "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
           "url": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss"
@@ -53,10 +57,6 @@
         {
           "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
           "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss"
-        },
-        {
-          "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-          "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,11 +64,15 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.45,
+      "score": 4.42,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss"
+        },
         {
           "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
           "url": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss"
@@ -84,86 +88,6 @@
         {
           "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
           "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss"
-        },
-        {
-          "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-          "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-          "url": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss"
-        },
-        {
-          "title": "Morocco PM takes aim at federation chief over 2030 World Cup final boast",
-          "url": "https://www.aljazeera.com/sports/2026/9/11/morocco-pm-slams-federation-chief-over-2030-world-cup-final-boast?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-          "url": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss"
-        },
-        {
-          "title": "Morocco PM takes aim at federation chief over 2030 World Cup final boast",
-          "url": "https://www.aljazeera.com/sports/2026/9/11/morocco-pm-slams-federation-chief-over-2030-world-cup-final-boast?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-          "url": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss"
-        },
-        {
-          "title": "Morocco PM takes aim at federation chief over 2030 World Cup final boast",
-          "url": "https://www.aljazeera.com/sports/2026/9/11/morocco-pm-slams-federation-chief-over-2030-world-cup-final-boast?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
-      "razoes": [
-        {
-          "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-          "url": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss"
-        },
-        {
-          "title": "Morocco PM takes aim at federation chief over 2030 World Cup final boast",
-          "url": "https://www.aljazeera.com/sports/2026/9/11/morocco-pm-slams-federation-chief-over-2030-world-cup-final-boast?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
