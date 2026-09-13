@@ -1,43 +1,20 @@
 {
-  "generated_at": "2026-09-12T22:43:29.769313Z",
+  "generated_at": "2026-09-13T02:16:58.255006Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
-      "razoes": [
-        {
-          "title": "Israel bombs southern Lebanon as talks postponed",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss"
-        },
-        {
-          "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-          "url": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss"
-        },
-        {
-          "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss"
-        },
-        {
-          "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-          "url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 4.17,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss"
+        },
         {
           "title": "Israel bombs southern Lebanon as talks postponed",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss"
@@ -49,14 +26,6 @@
         {
           "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss"
-        },
-        {
-          "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-          "url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
-        },
-        {
-          "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.96,
-      "confianca": 84,
+      "score": 4.17,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss"
+        },
         {
           "title": "Israel bombs southern Lebanon as talks postponed",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss"
@@ -80,14 +57,37 @@
         {
           "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.17,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss"
         },
         {
-          "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-          "url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
+          "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss"
         },
         {
-          "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss"
+          "title": "Israel bombs southern Lebanon as talks postponed",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss"
+        },
+        {
+          "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
+          "url": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss"
+        },
+        {
+          "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
