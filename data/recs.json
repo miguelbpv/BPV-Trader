@@ -1,58 +1,23 @@
 {
-  "generated_at": "2026-09-15T08:12:56.680635Z",
+  "generated_at": "2026-09-15T14:01:16.289156Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.41,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss"
-        },
-        {
-          "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss"
-        },
-        {
-          "title": "Israeli attack targets Gaza displacement camp",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss"
-        },
-        {
-          "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.67,
-      "confianca": 76,
+      "score": 2.84,
+      "confianca": 81,
       "razoes": [
         {
-          "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss"
+          "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
+          "url": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss"
         },
         {
-          "title": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss"
+          "title": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
+          "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge?traffic_source=rss"
         },
         {
-          "title": "Israeli attack targets Gaza displacement camp",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss"
-        },
-        {
-          "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss"
+          "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
+          "url": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -62,24 +27,39 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.67,
-      "confianca": 76,
+      "score": 2.84,
+      "confianca": 81,
       "razoes": [
         {
-          "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss"
+          "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
+          "url": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss"
         },
         {
-          "title": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss"
+          "title": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
+          "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge?traffic_source=rss"
         },
         {
-          "title": "Israeli attack targets Gaza displacement camp",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss"
+          "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
+          "url": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
+          "url": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss"
         },
         {
-          "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss"
+          "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
+          "url": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -89,45 +69,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.6,
-      "confianca": 45,
-      "razoes": [
-        {
-          "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-          "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.6,
-      "confianca": 45,
-      "razoes": [
-        {
-          "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-          "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss"
-        },
-        {
-          "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.86,
+      "score": 0.85,
       "confianca": 24,
       "razoes": [
         {
@@ -140,14 +82,29 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "NVDA",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss"
+          "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+          "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+          "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
