@@ -1,23 +1,54 @@
 {
-  "generated_at": "2026-09-20T08:06:46.382540Z",
+  "generated_at": "2026-09-20T13:20:57.698269Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.74,
+      "confianca": 78,
+      "razoes": [
+        {
+          "title": "Gaza’s children return to classrooms after years of Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+          "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss"
+        },
+        {
+          "title": "What are Iran’s latest conditions to end its war with the US?",
+          "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.78,
-      "confianca": 79,
+      "score": 2.74,
+      "confianca": 78,
       "razoes": [
         {
-          "title": "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss"
+          "title": "Gaza’s children return to classrooms after years of Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss"
         },
         {
-          "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-          "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
+          "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss"
+          "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+          "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss"
+        },
+        {
+          "title": "What are Iran’s latest conditions to end its war with the US?",
+          "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,43 +58,24 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.78,
-      "confianca": 79,
+      "score": 2.74,
+      "confianca": 78,
       "razoes": [
         {
-          "title": "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss"
+          "title": "Gaza’s children return to classrooms after years of Israeli attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss"
         },
         {
-          "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-          "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
+          "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss"
         },
         {
-          "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.78,
-      "confianca": 79,
-      "razoes": [
-        {
-          "title": "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss"
+          "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+          "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss"
         },
         {
-          "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-          "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
-        },
-        {
-          "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss"
+          "title": "What are Iran’s latest conditions to end its war with the US?",
+          "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
