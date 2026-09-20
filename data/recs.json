@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-09-19T22:35:08.214214Z",
+  "generated_at": "2026-09-20T02:34:18.175338Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 4.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-          "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
-        },
-        {
-          "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss"
-        },
-        {
-          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-          "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss"
-        },
-        {
-          "title": "Israel targets paramedics in southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 4.76,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss"
+        },
         {
           "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
           "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
@@ -53,10 +26,6 @@
         {
           "title": "Israel targets paramedics in southern Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.19,
+      "score": 4.76,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss"
+        },
         {
           "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
           "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
@@ -84,10 +57,37 @@
         {
           "title": "Israel targets paramedics in southern Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.76,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss"
         },
         {
-          "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss"
+          "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+          "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
+        },
+        {
+          "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss"
+        },
+        {
+          "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+          "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss"
+        },
+        {
+          "title": "Israel targets paramedics in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
