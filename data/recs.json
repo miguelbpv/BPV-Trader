@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-24T02:23:54.867781Z",
+  "generated_at": "2026-09-24T07:59:20.447339Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.67,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza watches Israel’s elections with fear and antipathy",
+          "url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
+        },
+        {
+          "title": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+          "url": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss"
+        },
         {
           "title": "Israel moves to bar both main Arab lists from October election",
           "url": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss"
@@ -14,18 +26,37 @@
         {
           "title": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 3.45,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Gaza watches Israel’s elections with fear and antipathy",
+          "url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
         },
         {
-          "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-          "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
+          "title": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+          "url": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss"
         },
         {
-          "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss"
+          "title": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss"
         },
         {
-          "title": "Iran threatens countries enforcing US airline sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss"
+          "title": "Israel moves to bar both main Arab lists from October election",
+          "url": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,21 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.67,
+      "score": 3.45,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Gaza watches Israel’s elections with fear and antipathy",
+          "url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
+        },
+        {
+          "title": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+          "url": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss"
+        },
+        {
+          "title": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss"
+        },
         {
           "title": "Israel moves to bar both main Arab lists from October election",
           "url": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss"
@@ -45,106 +88,6 @@
         {
           "title": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-          "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss"
-        },
-        {
-          "title": "Iran threatens countries enforcing US airline sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.67,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israel moves to bar both main Arab lists from October election",
-          "url": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss"
-        },
-        {
-          "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-          "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss"
-        },
-        {
-          "title": "Iran threatens countries enforcing US airline sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-          "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
-        },
-        {
-          "title": "Iran threatens countries enforcing US airline sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-          "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
-        },
-        {
-          "title": "Iran threatens countries enforcing US airline sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.69,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-          "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
-        },
-        {
-          "title": "Iran threatens countries enforcing US airline sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
