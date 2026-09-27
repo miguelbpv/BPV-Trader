@@ -1,18 +1,22 @@
 {
-  "generated_at": "2026-09-27T02:47:27.900832Z",
+  "generated_at": "2026-09-27T08:45:08.309651Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.66,
+      "score": 3.68,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israel’s Netanyahu criticises opposition uniting against him for election",
+          "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss"
+        },
         {
           "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
+          "title": "Iran war live: Tehran vows not to back down as Trump rejects Hormuz plan",
           "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss"
         },
         {
@@ -22,41 +26,6 @@
         {
           "title": "Student protesters disrupt NVIDIA AI climate panel",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss"
-        },
-        {
-          "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.92,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss"
-        },
-        {
-          "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss"
-        },
-        {
-          "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss"
-        },
-        {
-          "title": "Ireland decide to play Israel in Nations League after squad vote",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,28 +35,24 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 4.92,
-      "confianca": 95,
+      "score": 2.95,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Israel’s Netanyahu criticises opposition uniting against him for election",
+          "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss"
+        },
         {
           "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
+          "title": "Iran war live: Tehran vows not to back down as Trump rejects Hormuz plan",
           "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss"
         },
         {
           "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss"
-        },
-        {
-          "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss"
-        },
-        {
-          "title": "Ireland decide to play Israel in Nations League after squad vote",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,10 +60,37 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.95,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "Israel’s Netanyahu criticises opposition uniting against him for election",
+          "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss"
+        },
+        {
+          "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Tehran vows not to back down as Trump rejects Hormuz plan",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss"
+        },
+        {
+          "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "NVDA",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Student protesters disrupt NVIDIA AI climate panel",
@@ -110,10 +102,10 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "NVDA",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Student protesters disrupt NVIDIA AI climate panel",
@@ -127,8 +119,8 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.73,
+      "confianca": 20,
       "razoes": [
         {
           "title": "Student protesters disrupt NVIDIA AI climate panel",
