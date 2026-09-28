@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-09-27T23:34:38.502172Z",
+  "generated_at": "2026-09-28T02:45:27.569937Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "BRENT",
       "acao": "comprar",
-      "score": 6.04,
+      "score": 5.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss"
+        },
         {
           "title": "Ireland defeats Israel in controversial UEFA Nations League match",
           "url": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss"
@@ -18,14 +26,37 @@
         {
           "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 5.28,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss"
         },
         {
-          "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
-          "url": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss"
+          "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss"
         },
         {
-          "title": "Why has Trump rejected Iran’s peace proposal?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss"
+          "title": "Ireland defeats Israel in controversial UEFA Nations League match",
+          "url": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss"
+        },
+        {
+          "title": "Deadly strike hits market in Yemen’s Taiz",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss"
+        },
+        {
+          "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,17 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.04,
+      "score": 5.28,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss"
+        },
         {
           "title": "Ireland defeats Israel in controversial UEFA Nations League match",
           "url": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss"
@@ -49,14 +88,6 @@
         {
           "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
-          "url": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss"
-        },
-        {
-          "title": "Why has Trump rejected Iran’s peace proposal?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,30 +95,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.04,
-      "confianca": 95,
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
-        {
-          "title": "Ireland defeats Israel in controversial UEFA Nations League match",
-          "url": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss"
-        },
-        {
-          "title": "Deadly strike hits market in Yemen’s Taiz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss"
-        },
-        {
-          "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
-        },
         {
           "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
           "url": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss"
-        },
-        {
-          "title": "Why has Trump rejected Iran’s peace proposal?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -111,21 +126,6 @@
     },
     {
       "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
-          "url": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
