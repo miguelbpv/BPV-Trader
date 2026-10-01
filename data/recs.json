@@ -1,31 +1,62 @@
 {
-  "generated_at": "2026-09-30T21:41:42.339922Z",
+  "generated_at": "2026-10-01T03:17:29.129343Z",
   "recs": [
     {
-      "symbol": "LMT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.72,
+      "score": 4.07,
       "confianca": 95,
       "razoes": [
         {
+          "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+          "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss"
+        },
+        {
+          "title": "Iran parades Shahed drones through capital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss"
+        },
+        {
+          "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss"
+        },
+        {
           "title": "Israeli attacks across Gaza kill at least eight",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.07,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+          "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss"
         },
         {
-          "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
-          "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss"
+          "title": "Iran parades Shahed drones through capital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss"
         },
         {
-          "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
-          "url": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss"
+          "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss"
         },
         {
-          "title": "‘Strong indications’ Iran linked to suspected UK airbase plot",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss"
+          "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss"
         },
         {
-          "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-          "url": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss"
+          "title": "Israeli attacks across Gaza kill at least eight",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,119 +66,28 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.72,
+      "score": 4.07,
       "confianca": 95,
       "razoes": [
         {
-          "title": "Israeli attacks across Gaza kill at least eight",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss"
+          "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+          "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss"
         },
         {
-          "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
-          "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss"
+          "title": "Iran parades Shahed drones through capital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss"
         },
         {
-          "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
-          "url": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss"
+          "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss"
         },
         {
-          "title": "‘Strong indications’ Iran linked to suspected UK airbase plot",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss"
+          "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss"
         },
-        {
-          "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-          "url": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.72,
-      "confianca": 95,
-      "razoes": [
         {
           "title": "Israeli attacks across Gaza kill at least eight",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss"
-        },
-        {
-          "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
-          "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss"
-        },
-        {
-          "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
-          "url": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss"
-        },
-        {
-          "title": "‘Strong indications’ Iran linked to suspected UK airbase plot",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss"
-        },
-        {
-          "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-          "url": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
-          "url": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
-          "url": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
-          "url": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
-          "url": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
