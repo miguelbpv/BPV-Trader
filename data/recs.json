@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-10-02T21:37:22.011797Z",
+  "generated_at": "2026-10-03T03:03:47.563942Z",
   "recs": [
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 6.29,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli general: Gaza captives could have been freed a year earlier",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss"
-        },
-        {
-          "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
-          "url": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss"
-        },
-        {
-          "title": "Arab party leader withdraws from Israeli elections",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss"
-        },
-        {
-          "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-          "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-          "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 6.29,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli air attack on Gaza City apartment kills at least five",
+          "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss"
+        },
+        {
+          "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+          "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss"
+        },
         {
           "title": "Israeli general: Gaza captives could have been freed a year earlier",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss"
@@ -45,18 +26,6 @@
         {
           "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
           "url": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss"
-        },
-        {
-          "title": "Arab party leader withdraws from Israeli elections",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss"
-        },
-        {
-          "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-          "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-          "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,9 +35,21 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.71,
+      "score": 4.44,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Israeli air attack on Gaza City apartment kills at least five",
+          "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss"
+        },
+        {
+          "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+          "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss"
+        },
         {
           "title": "Israeli general: Gaza captives could have been freed a year earlier",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss"
@@ -76,18 +57,37 @@
         {
           "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
           "url": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 4.44,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Israeli air attack on Gaza City apartment kills at least five",
+          "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss"
         },
         {
-          "title": "Arab party leader withdraws from Israeli elections",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss"
+          "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss"
         },
         {
-          "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-          "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss"
+          "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+          "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss"
         },
         {
-          "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-          "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss"
+          "title": "Israeli general: Gaza captives could have been freed a year earlier",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss"
+        },
+        {
+          "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
+          "url": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
