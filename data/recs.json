@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-10-03T23:26:38.213060Z",
+  "generated_at": "2026-10-04T03:32:36.854937Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 4.43,
+      "score": 3.43,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss"
+        },
         {
           "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
           "url": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss"
@@ -22,10 +26,37 @@
         {
           "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
           "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 3.43,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss"
         },
         {
-          "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss"
+          "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+          "url": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+          "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss"
+        },
+        {
+          "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+          "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss"
+        },
+        {
+          "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+          "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,9 +66,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 4.43,
+      "score": 3.43,
       "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss"
+        },
         {
           "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
           "url": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss"
@@ -53,41 +88,6 @@
         {
           "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
           "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss"
-        },
-        {
-          "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 4.43,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
-          "url": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss"
-        },
-        {
-          "title": "Israeli settlers attack Palestinian farmers during olive harvest",
-          "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss"
-        },
-        {
-          "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-          "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss"
-        },
-        {
-          "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-          "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss"
-        },
-        {
-          "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
