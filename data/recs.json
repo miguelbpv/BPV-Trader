@@ -1,57 +1,27 @@
 {
-  "generated_at": "2026-10-09T22:02:38.560568Z",
+  "generated_at": "2026-10-10T03:32:14.927612Z",
   "recs": [
     {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-          "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
+          "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+          "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss"
         },
         {
-          "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-          "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
+          "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss"
         },
         {
-          "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.71,
-      "confianca": 48,
-      "razoes": [
-        {
-          "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-          "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
+          "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+          "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss"
         },
         {
-          "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss"
+          "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+          "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -60,10 +30,18 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+          "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss"
+        },
         {
           "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
           "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss"
@@ -79,10 +57,18 @@
     },
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 2.96,
+      "confianca": 84,
       "razoes": [
+        {
+          "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+          "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss"
+        },
         {
           "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
           "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss"
@@ -97,18 +83,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.49,
-      "confianca": 42,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
-          "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss"
-        },
-        {
-          "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-          "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss"
+          "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+          "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -116,14 +98,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "IWM",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss"
+          "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+          "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -131,44 +113,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "EUROSTOXX50",
+      "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.73,
-      "confianca": 20,
-      "razoes": [
-        {
-          "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss"
+          "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+          "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
