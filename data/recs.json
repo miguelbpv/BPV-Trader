@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-10-13T20:26:23.011105Z",
+  "generated_at": "2026-10-14T00:01:39.786742Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "XLE",
       "acao": "comprar",
-      "score": 3.58,
-      "confianca": 95,
+      "score": 2.82,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss"
+        },
         {
           "title": "Trump says Houthis trying to increase oil prices before US elections",
           "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss"
@@ -14,14 +18,29 @@
         {
           "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
           "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.82,
+      "confianca": 80,
+      "razoes": [
+        {
+          "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss"
         },
         {
-          "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
-          "url": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss"
+          "title": "Trump says Houthis trying to increase oil prices before US elections",
+          "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss"
         },
         {
-          "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss"
+          "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
+          "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -31,9 +50,13 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 3.58,
-      "confianca": 95,
+      "score": 2.82,
+      "confianca": 80,
       "razoes": [
+        {
+          "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss"
+        },
         {
           "title": "Trump says Houthis trying to increase oil prices before US elections",
           "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss"
@@ -41,41 +64,6 @@
         {
           "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
           "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss"
-        },
-        {
-          "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
-          "url": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss"
-        },
-        {
-          "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.58,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Trump says Houthis trying to increase oil prices before US elections",
-          "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
-          "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss"
-        },
-        {
-          "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
-          "url": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss"
-        },
-        {
-          "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
