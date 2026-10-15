@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-10-14T23:33:35.022247Z",
+  "generated_at": "2026-10-15T02:30:23.785157Z",
   "recs": [
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 3.57,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
+        },
+        {
+          "title": "US destroys dhow suspected of Iranian command and control",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
+        },
         {
           "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
           "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss"
@@ -14,10 +22,6 @@
         {
           "title": "Israeli quadcopter drone drops bomb in Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
-          "url": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -27,9 +31,17 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.83,
-      "confianca": 80,
+      "score": 3.57,
+      "confianca": 95,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
+        },
+        {
+          "title": "US destroys dhow suspected of Iranian command and control",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
+        },
         {
           "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
           "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss"
@@ -37,10 +49,6 @@
         {
           "title": "Israeli quadcopter drone drops bomb in Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
-          "url": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,61 +58,20 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 1.98,
+      "confianca": 56,
       "razoes": [
+        {
+          "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
+        },
+        {
+          "title": "US destroys dhow suspected of Iranian command and control",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
+        },
         {
           "title": "Israeli quadcopter drone drops bomb in Lebanon",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
-          "url": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US lifts sanctions on Venezuela’s top legislator",
-          "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US lifts sanctions on Venezuela’s top legislator",
-          "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US lifts sanctions on Venezuela’s top legislator",
-          "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
