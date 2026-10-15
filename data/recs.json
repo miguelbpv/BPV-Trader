@@ -1,54 +1,27 @@
 {
-  "generated_at": "2026-10-15T02:30:23.785157Z",
+  "generated_at": "2026-10-15T07:51:43.540155Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.57,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "US destroys dhow suspected of Iranian command and control",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
-        },
-        {
-          "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
-          "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss"
-        },
-        {
-          "title": "Israeli quadcopter drone drops bomb in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.57,
-      "confianca": 95,
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "From Morocco to South Africa, Israel election watched closely across Africa",
+          "url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss"
+        },
+        {
+          "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
+          "url": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
+          "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "US destroys dhow suspected of Iranian command and control",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
-        },
-        {
-          "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
-          "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss"
-        },
-        {
-          "title": "Israeli quadcopter drone drops bomb in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -57,21 +30,52 @@
     },
     {
       "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.98,
-      "confianca": 56,
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
       "razoes": [
+        {
+          "title": "From Morocco to South Africa, Israel election watched closely across Africa",
+          "url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss"
+        },
+        {
+          "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
+          "url": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
+          "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss"
+        },
         {
           "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.72,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "From Morocco to South Africa, Israel election watched closely across Africa",
+          "url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss"
         },
         {
-          "title": "US destroys dhow suspected of Iranian command and control",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
+          "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
+          "url": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss"
         },
         {
-          "title": "Israeli quadcopter drone drops bomb in Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
+          "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
+          "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
