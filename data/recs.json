@@ -1,54 +1,27 @@
 {
-  "generated_at": "2026-10-17T17:43:12.946376Z",
+  "generated_at": "2026-10-17T19:53:20.861742Z",
   "recs": [
-    {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.31,
-      "confianca": 94,
-      "razoes": [
-        {
-          "title": "Why are Latin American countries building closer ties with Israel?",
-          "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss"
-        },
-        {
-          "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-          "url": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss"
-        },
-        {
-          "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-          "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss"
-        },
-        {
-          "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-          "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 3.31,
-      "confianca": 94,
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Is the US Embassy in Jerusalem for Israel or America?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss"
+        },
         {
           "title": "Why are Latin American countries building closer ties with Israel?",
           "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss"
-        },
-        {
-          "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-          "url": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss"
-        },
-        {
-          "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-          "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss"
-        },
-        {
-          "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-          "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -58,20 +31,24 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.23,
-      "confianca": 63,
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
+        {
+          "title": "Is the US Embassy in Jerusalem for Israel or America?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss"
+        },
         {
           "title": "Why are Latin American countries building closer ties with Israel?",
           "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss"
-        },
-        {
-          "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-          "url": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss"
-        },
-        {
-          "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-          "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -79,14 +56,26 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.98,
+      "confianca": 85,
       "razoes": [
         {
-          "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-          "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss"
+          "title": "Is the US Embassy in Jerusalem for Israel or America?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss"
+        },
+        {
+          "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss"
+        },
+        {
+          "title": "Why are Latin American countries building closer ties with Israel?",
+          "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -96,12 +85,27 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-          "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss"
+          "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+          "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+          "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -111,12 +115,12 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 1.09,
-      "confianca": 31,
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-          "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss"
+          "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+          "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
