@@ -1,19 +1,23 @@
 {
-  "generated_at": "2026-10-23T02:41:41.753397Z",
+  "generated_at": "2026-10-23T08:07:02.437511Z",
   "recs": [
     {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.57,
+      "confianca": 73,
       "razoes": [
         {
-          "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-          "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
+          "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+          "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss"
         },
         {
-          "title": "US judge blocks federal operations seeking to identify non-citizen voters",
-          "url": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss"
+          "title": "Israeli military kills 2 in Hebron gun battle as tension soars in West Bank",
+          "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: European, Middle East FMs in Istanbul for security talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -21,18 +25,45 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.57,
+      "confianca": 73,
       "razoes": [
         {
-          "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
-          "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
+          "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+          "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss"
         },
         {
-          "title": "US judge blocks federal operations seeking to identify non-citizen voters",
-          "url": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss"
+          "title": "Israeli military kills 2 in Hebron gun battle as tension soars in West Bank",
+          "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: European, Middle East FMs in Istanbul for security talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.57,
+      "confianca": 73,
+      "razoes": [
+        {
+          "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+          "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss"
+        },
+        {
+          "title": "Israeli military kills 2 in Hebron gun battle as tension soars in West Bank",
+          "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: European, Middle East FMs in Istanbul for security talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -42,16 +73,27 @@
     {
       "symbol": "QQQ",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
           "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
-        },
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SPY",
+      "acao": "observar",
+      "score": 0.98,
+      "confianca": 27,
+      "razoes": [
         {
-          "title": "US judge blocks federal operations seeking to identify non-citizen voters",
-          "url": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss"
+          "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
+          "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -61,16 +103,12 @@
     {
       "symbol": "IWM",
       "acao": "observar",
-      "score": 1.97,
-      "confianca": 56,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
           "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
           "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
-        },
-        {
-          "title": "US judge blocks federal operations seeking to identify non-citizen voters",
-          "url": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -78,18 +116,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
+      "symbol": "EUROSTOXX50",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 0.98,
+      "confianca": 27,
       "razoes": [
         {
-          "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
-        },
-        {
-          "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
-          "url": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss"
+          "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
+          "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -97,37 +131,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
+      "symbol": "TSM",
       "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
+      "score": 0.84,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
-        },
-        {
-          "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
-          "url": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 1.23,
-      "confianca": 35,
-      "razoes": [
-        {
-          "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
-        },
-        {
-          "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
-          "url": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss"
+          "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+          "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -137,7 +148,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -152,22 +163,7 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-          "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
