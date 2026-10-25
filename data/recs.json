@@ -1,42 +1,11 @@
 {
-  "generated_at": "2026-10-25T20:35:33.735356Z",
+  "generated_at": "2026-10-25T22:56:41.744780Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.19,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli air strike on Gaza City university kills three people",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
-        },
-        {
-          "title": "US and Israel elections: New leaders, same policies?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss"
-        },
-        {
-          "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 5.19,
-      "confianca": 95,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
           "title": "Israeli air strike on Gaza City university kills three people",
@@ -53,10 +22,6 @@
         {
           "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -66,8 +31,8 @@
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.19,
-      "confianca": 95,
+      "score": 2.7,
+      "confianca": 77,
       "razoes": [
         {
           "title": "Israeli air strike on Gaza City university kills three people",
@@ -84,10 +49,6 @@
         {
           "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
-        },
-        {
-          "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,7 +56,34 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "SOXX",
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 2.7,
+      "confianca": 77,
+      "razoes": [
+        {
+          "title": "Israeli air strike on Gaza City university kills three people",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
+        },
+        {
+          "title": "US and Israel elections: New leaders, same policies?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss"
+        },
+        {
+          "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"
+        },
+        {
+          "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
@@ -125,7 +113,7 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "TSM",
+      "symbol": "SOXX",
       "acao": "observar",
       "score": 0.85,
       "confianca": 24,
