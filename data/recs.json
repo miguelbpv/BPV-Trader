@@ -1,27 +1,46 @@
 {
-  "generated_at": "2026-10-25T22:56:41.744780Z",
+  "generated_at": "2026-10-26T02:27:20.851842Z",
   "recs": [
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
+        },
         {
           "title": "Israeli air strike on Gaza City university kills three people",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss"
         },
         {
-          "title": "US and Israel elections: New leaders, same policies?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss"
+          "title": "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
         },
         {
-          "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
+          "title": "Israeli air strike on Gaza City university kills three people",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -30,97 +49,21 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.47,
+      "confianca": 42,
       "razoes": [
+        {
+          "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
+        },
         {
           "title": "Israeli air strike on Gaza City university kills three people",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
-        },
-        {
-          "title": "US and Israel elections: New leaders, same policies?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss"
-        },
-        {
-          "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.7,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Israeli air strike on Gaza City university kills three people",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
-        },
-        {
-          "title": "US and Israel elections: New leaders, same policies?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss"
-        },
-        {
-          "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss"
-        },
-        {
-          "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-          "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-          "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
-      "acao": "observar",
-      "score": 0.85,
-      "confianca": 24,
-      "razoes": [
-        {
-          "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-          "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
