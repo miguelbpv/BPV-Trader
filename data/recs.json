@@ -1,31 +1,46 @@
 {
-  "generated_at": "2026-11-02T21:08:57.394936Z",
+  "generated_at": "2026-11-03T04:42:30.407514Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.73,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Iran pushing accelerated plan for ceasefire talks with US",
-          "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss"
+          "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
         },
         {
-          "title": "After Israel’s election: What’s next?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss"
+          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
         },
         {
-          "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss"
+          "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.73,
+      "confianca": 49,
+      "razoes": [
+        {
+          "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
         },
         {
-          "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-          "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss"
+          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
         },
         {
-          "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-          "url": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss"
+          "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -34,29 +49,21 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.73,
+      "confianca": 49,
       "razoes": [
         {
-          "title": "Iran pushing accelerated plan for ceasefire talks with US",
-          "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss"
+          "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
         },
         {
-          "title": "After Israel’s election: What’s next?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss"
+          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
         },
         {
-          "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss"
-        },
-        {
-          "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-          "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss"
-        },
-        {
-          "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-          "url": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss"
+          "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -64,30 +71,44 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.71,
-      "confianca": 95,
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
       "razoes": [
         {
-          "title": "Iran pushing accelerated plan for ceasefire talks with US",
-          "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss"
-        },
+          "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+          "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "After Israel’s election: What’s next?",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss"
-        },
+          "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+          "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
         {
-          "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss"
-        },
-        {
-          "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-          "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss"
-        },
-        {
-          "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-          "url": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss"
+          "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+          "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
