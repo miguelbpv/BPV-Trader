@@ -1,46 +1,23 @@
 {
-  "generated_at": "2026-11-15T10:11:44.275565Z",
+  "generated_at": "2026-11-15T18:16:38.638760Z",
   "recs": [
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 2.82,
-      "confianca": 80,
-      "razoes": [
-        {
-          "title": "Iran says it targets US radar in Bahrain. What do we know?",
-          "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss"
-        },
-        {
-          "title": "Israel: Making the Holy Land burn",
-          "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss"
-        },
-        {
-          "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-          "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 2.82,
+      "score": 2.83,
       "confianca": 80,
       "razoes": [
         {
-          "title": "Iran says it targets US radar in Bahrain. What do we know?",
-          "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss"
+          "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+          "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss"
         },
         {
-          "title": "Israel: Making the Holy Land burn",
-          "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss"
+          "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss"
         },
         {
-          "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-          "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss"
+          "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,20 +27,39 @@
     {
       "symbol": "BRENT",
       "acao": "comprar",
-      "score": 2.82,
+      "score": 2.83,
       "confianca": 80,
       "razoes": [
         {
-          "title": "Iran says it targets US radar in Bahrain. What do we know?",
-          "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss"
+          "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+          "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss"
         },
         {
-          "title": "Israel: Making the Holy Land burn",
-          "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss"
+          "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss"
         },
         {
-          "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-          "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss"
+          "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+          "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss"
+        },
+        {
+          "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
