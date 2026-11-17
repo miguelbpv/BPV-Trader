@@ -1,31 +1,42 @@
 {
-  "generated_at": "2026-11-16T21:27:05.149122Z",
+  "generated_at": "2026-11-17T05:50:45.266238Z",
   "recs": [
     {
-      "symbol": "BRENT",
+      "symbol": "LMT",
       "acao": "comprar",
-      "score": 6.29,
-      "confianca": 95,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss"
+          "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
         },
         {
-          "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-          "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
+          "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
         },
         {
-          "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
-          "url": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss"
+          "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
         },
         {
-          "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss"
-        },
-        {
-          "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-          "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss"
+          "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -34,60 +45,17 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 6.29,
-      "confianca": 95,
+      "acao": "observar",
+      "score": 1.48,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss"
+          "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
         },
         {
-          "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-          "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
-          "url": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss"
-        },
-        {
-          "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-          "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 5.69,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss"
-        },
-        {
-          "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-          "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
-        },
-        {
-          "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
-          "url": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss"
-        },
-        {
-          "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss"
-        },
-        {
-          "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
-          "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss"
+          "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -101,8 +69,8 @@
       "confianca": 21,
       "razoes": [
         {
-          "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
-          "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss"
+          "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -116,8 +84,8 @@
       "confianca": 21,
       "razoes": [
         {
-          "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
-          "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss"
+          "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -131,8 +99,8 @@
       "confianca": 21,
       "razoes": [
         {
-          "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
-          "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss"
+          "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
