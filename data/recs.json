@@ -1,23 +1,62 @@
 {
-  "generated_at": "2026-11-17T05:50:45.266238Z",
+  "generated_at": "2026-11-17T15:14:01.842112Z",
   "recs": [
+    {
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.33,
+      "confianca": 95,
+      "razoes": [
+        {
+          "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+          "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss"
+        },
+        {
+          "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
+        },
+        {
+          "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+          "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss"
+        },
+        {
+          "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+          "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss"
+        },
+        {
+          "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.22,
-      "confianca": 63,
+      "score": 4.33,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
+          "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+          "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss"
         },
         {
-          "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
+          "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss"
+          "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+          "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss"
+        },
+        {
+          "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+          "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss"
+        },
+        {
+          "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,36 +65,29 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
+      "acao": "comprar",
+      "score": 4.33,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
+          "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+          "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.48,
-      "confianca": 42,
-      "razoes": [
-        {
-          "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
+          "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss"
+          "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+          "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss"
+        },
+        {
+          "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+          "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss"
+        },
+        {
+          "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,12 +97,12 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.61,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
+          "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -78,14 +110,14 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "NVDA",
+      "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.61,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
+          "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -95,12 +127,12 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "score": 0.61,
+      "confianca": 17,
       "razoes": [
         {
-          "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
+          "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
