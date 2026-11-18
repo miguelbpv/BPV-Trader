@@ -1,15 +1,31 @@
 {
-  "generated_at": "2026-11-18T10:54:51.645038Z",
+  "generated_at": "2026-11-18T19:46:10.491074Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "symbol": "LMT",
+      "acao": "comprar",
+      "score": 4.69,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "How the Houthis fund war effort and tighten grip on Yemen",
-          "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss"
+          "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+          "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces launch new military operation in central Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+          "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish homes in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
+          "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -17,14 +33,30 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 4.69,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "How the Houthis fund war effort and tighten grip on Yemen",
-          "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss"
+          "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+          "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces launch new military operation in central Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+          "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish homes in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
+          "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,13 +65,74 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
+      "acao": "comprar",
+      "score": 4.69,
+      "confianca": 95,
       "razoes": [
         {
-          "title": "How the Houthis fund war effort and tighten grip on Yemen",
-          "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss"
+          "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+          "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces launch new military operation in central Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+          "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
+        },
+        {
+          "title": "Israeli forces demolish homes in southern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss"
+        },
+        {
+          "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
+          "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 0.85,
+      "confianca": 24,
+      "razoes": [
+        {
+          "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
