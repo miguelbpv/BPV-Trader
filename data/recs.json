@@ -1,31 +1,19 @@
 {
-  "generated_at": "2026-11-19T02:08:03.708449Z",
+  "generated_at": "2026-11-19T10:57:21.201647Z",
   "recs": [
     {
-      "symbol": "LMT",
-      "acao": "comprar",
-      "score": 4.07,
-      "confianca": 95,
+      "symbol": "XLE",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Settler rams into Palestinians at multiple locations in central Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
+          "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+          "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Israel uses Gaza swimming video to minimise winter hardships",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss"
-        },
-        {
-          "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-          "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-          "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss"
+          "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -33,30 +21,18 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "XLE",
-      "acao": "comprar",
-      "score": 3.58,
-      "confianca": 95,
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Settler rams into Palestinians at multiple locations in central Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
+          "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+          "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss"
         },
         {
-          "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Israel uses Gaza swimming video to minimise winter hardships",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss"
-        },
-        {
-          "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-          "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-          "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss"
+          "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -65,154 +41,17 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 3.58,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Settler rams into Palestinians at multiple locations in central Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss"
-        },
-        {
-          "title": "Israel uses Gaza swimming video to minimise winter hardships",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss"
-        },
-        {
-          "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-          "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-          "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "TSM",
-      "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-          "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-          "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "ASML.AS",
-      "acao": "comprar",
-      "score": 2.45,
-      "confianca": 70,
-      "razoes": [
-        {
-          "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss"
-        },
-        {
-          "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-          "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss"
-        },
-        {
-          "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-          "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SOXX",
       "acao": "observar",
-      "score": 1.96,
-      "confianca": 55,
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-          "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss"
+          "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+          "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss"
         },
         {
-          "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-          "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "QQQ",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-          "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "IWM",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-          "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "SPY",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-          "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "EUROSTOXX50",
-      "acao": "observar",
-      "score": 0.99,
-      "confianca": 28,
-      "razoes": [
-        {
-          "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-          "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss"
+          "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
