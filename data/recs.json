@@ -1,54 +1,23 @@
 {
-  "generated_at": "2026-11-21T01:53:31.376119Z",
+  "generated_at": "2026-11-21T10:28:40.487758Z",
   "recs": [
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "score": 2.22,
+      "confianca": 63,
       "razoes": [
         {
-          "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
+          "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+          "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss"
         },
         {
-          "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss"
+          "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss"
         },
         {
-          "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-          "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-          "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
-      "razoes": [
-        {
-          "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
-        },
-        {
-          "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss"
-        },
-        {
-          "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-          "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss"
-        },
-        {
-          "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-          "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss"
+          "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -57,25 +26,81 @@
     },
     {
       "symbol": "XLE",
-      "acao": "comprar",
-      "score": 2.72,
-      "confianca": 77,
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
       "razoes": [
         {
-          "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
+          "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+          "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss"
         },
         {
-          "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss"
+          "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "BRENT",
+      "acao": "observar",
+      "score": 1.49,
+      "confianca": 42,
+      "razoes": [
+        {
+          "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+          "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss"
         },
         {
-          "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-          "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss"
-        },
+          "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
         {
-          "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-          "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss"
+          "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "NVDA",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 0.73,
+      "confianca": 20,
+      "razoes": [
+        {
+          "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
