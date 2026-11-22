@@ -1,31 +1,54 @@
 {
-  "generated_at": "2026-11-22T00:48:04.978060Z",
+  "generated_at": "2026-11-22T10:32:38.678467Z",
   "recs": [
+    {
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.94,
+      "confianca": 84,
+      "razoes": [
+        {
+          "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss"
+        },
+        {
+          "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Bessent confirms he’s living on US military base over Iran fears",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US ‘defeated’ and cannot dictate peace deal terms – Tehran",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
     {
       "symbol": "XLE",
       "acao": "comprar",
-      "score": 5.44,
-      "confianca": 95,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+          "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss"
+        },
+        {
+          "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Bessent confirms he’s living on US military base over Iran fears",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US ‘defeated’ and cannot dictate peace deal terms – Tehran",
           "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss"
-        },
-        {
-          "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-          "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss"
-        },
-        {
-          "title": "Iran faces a ‘silent economic war’, says Iranian president",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss"
-        },
-        {
-          "title": "Bahrain says Iranian attack hits industrial facility",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss"
-        },
-        {
-          "title": "Bahrain says Iranian attack causes fire at industrial facility",
-          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -35,59 +58,24 @@
     {
       "symbol": "LMT",
       "acao": "comprar",
-      "score": 5.44,
-      "confianca": 95,
+      "score": 2.94,
+      "confianca": 84,
       "razoes": [
         {
-          "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+          "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss"
+        },
+        {
+          "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss"
+        },
+        {
+          "title": "Bessent confirms he’s living on US military base over Iran fears",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss"
+        },
+        {
+          "title": "Iran war live: US ‘defeated’ and cannot dictate peace deal terms – Tehran",
           "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss"
-        },
-        {
-          "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-          "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss"
-        },
-        {
-          "title": "Iran faces a ‘silent economic war’, says Iranian president",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss"
-        },
-        {
-          "title": "Bahrain says Iranian attack hits industrial facility",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss"
-        },
-        {
-          "title": "Bahrain says Iranian attack causes fire at industrial facility",
-          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "BRENT",
-      "acao": "comprar",
-      "score": 5.44,
-      "confianca": 95,
-      "razoes": [
-        {
-          "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss"
-        },
-        {
-          "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-          "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss"
-        },
-        {
-          "title": "Iran faces a ‘silent economic war’, says Iranian president",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss"
-        },
-        {
-          "title": "Bahrain says Iranian attack hits industrial facility",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss"
-        },
-        {
-          "title": "Bahrain says Iranian attack causes fire at industrial facility",
-          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
