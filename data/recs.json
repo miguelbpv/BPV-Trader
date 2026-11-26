@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-26T01:20:53.897136Z",
+  "generated_at": "2026-11-26T11:43:17.464935Z",
   "recs": [
     {
       "symbol": "XLE",
-      "acao": "observar",
-      "score": 1.61,
-      "confianca": 46,
+      "acao": "comprar",
+      "score": 2.93,
+      "confianca": 83,
       "razoes": [
         {
-          "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss"
+          "title": "Explosion rocks Bangkok oil depot",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss"
         },
         {
-          "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-          "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss"
+          "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+          "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss"
         },
         {
-          "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-          "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss"
+          "title": "Seven injured in explosion at oil facility in Thailand’s Bangkok",
+          "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -26,21 +26,66 @@
     },
     {
       "symbol": "BRENT",
-      "acao": "observar",
-      "score": 1.61,
-      "confianca": 46,
+      "acao": "comprar",
+      "score": 2.93,
+      "confianca": 83,
       "razoes": [
         {
-          "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss"
+          "title": "Explosion rocks Bangkok oil depot",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss"
         },
         {
-          "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-          "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss"
+          "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+          "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss"
         },
         {
-          "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-          "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss"
+          "title": "Seven injured in explosion at oil facility in Thailand’s Bangkok",
+          "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "TSM",
+      "acao": "observar",
+      "score": 1.11,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+          "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "SOXX",
+      "acao": "observar",
+      "score": 1.11,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+          "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "ASML.AS",
+      "acao": "observar",
+      "score": 1.11,
+      "confianca": 31,
+      "razoes": [
+        {
+          "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+          "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -50,20 +95,12 @@
     {
       "symbol": "LMT",
       "acao": "observar",
-      "score": 1.61,
-      "confianca": 46,
+      "score": 0.74,
+      "confianca": 21,
       "razoes": [
         {
-          "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss"
-        },
-        {
-          "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-          "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss"
-        },
-        {
-          "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-          "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss"
+          "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+          "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
