@@ -1,19 +1,23 @@
 {
-  "generated_at": "2026-11-26T20:44:13.838917Z",
+  "generated_at": "2026-11-27T03:22:56.627794Z",
   "recs": [
     {
-      "symbol": "XLE",
-      "acao": "observar",
-      "score": 2.08,
-      "confianca": 59,
+      "symbol": "BRENT",
+      "acao": "comprar",
+      "score": 2.58,
+      "confianca": 73,
       "razoes": [
         {
-          "title": "Why is France roiling?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss"
+          "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss"
         },
         {
-          "title": "Two dead after Iranian drone attack on Kuwait",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss"
+          "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+          "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -21,18 +25,41 @@
       "chg1m": 0.0
     },
     {
-      "symbol": "BRENT",
-      "acao": "observar",
-      "score": 2.08,
-      "confianca": 59,
+      "symbol": "XLE",
+      "acao": "comprar",
+      "score": 2.58,
+      "confianca": 73,
       "razoes": [
         {
-          "title": "Why is France roiling?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss"
+          "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss"
         },
         {
-          "title": "Two dead after Iranian drone attack on Kuwait",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss"
+          "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+          "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss"
+        }
+      ],
+      "chg1d": 0.0,
+      "chg5d": 0.0,
+      "chg1m": 0.0
+    },
+    {
+      "symbol": "LMT",
+      "acao": "observar",
+      "score": 1.23,
+      "confianca": 35,
+      "razoes": [
+        {
+          "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+          "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
@@ -42,7 +69,7 @@
     {
       "symbol": "TSM",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -57,7 +84,7 @@
     {
       "symbol": "SOXX",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
@@ -72,27 +99,12 @@
     {
       "symbol": "ASML.AS",
       "acao": "observar",
-      "score": 0.86,
+      "score": 0.84,
       "confianca": 24,
       "razoes": [
         {
           "title": "What will Trump’s latest tariffs mean for the world?",
           "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss"
-        }
-      ],
-      "chg1d": 0.0,
-      "chg5d": 0.0,
-      "chg1m": 0.0
-    },
-    {
-      "symbol": "LMT",
-      "acao": "observar",
-      "score": 0.74,
-      "confianca": 21,
-      "razoes": [
-        {
-          "title": "Two dead after Iranian drone attack on Kuwait",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss"
         }
       ],
       "chg1d": 0.0,
